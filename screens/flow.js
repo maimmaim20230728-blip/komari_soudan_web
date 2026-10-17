@@ -285,6 +285,30 @@
     var nb = U.namesBlock(api, S.group);
     nb.id = 'flow-names';
     c.appendChild(nb);
+    /* 知っておきたいこと「病名は、だれかより 上に 立つ ための 道具では ありません」(data の key=notTool)。
+       結果を離れずに読めるよう、ナビへ移らず窓で開く。とじる・戻るボタン=結果③へ(2026-10-17 ヒロさん) */
+    var lt = ((U.L(api).common || {}).learn || []).filter(function(x){ return x.key === 'notTool'; })[0];
+    if(lt){
+      c.appendChild(api.el('h2', 'sec-h', T('screen.learn.title')));
+      /* 一覧の下の「疑う 材料に しないで」に続けて注意だけが並んで見えないよう、中身(頼み方の例)を一行で先に言う */
+      var ln = api.el('p', 'learn-lead', T('screen.result.toLearnNote'));
+      ln.id = 'flow-learn-note';
+      c.appendChild(ln);
+      var lb = U.btn(api, 'wide learn-link', U.fmt(T('screen.result.toLearn'), { h: lt.h }), function(){
+        U.openOv(api, 'learn-ov', function(box){
+          var art = api.el('div', 'card learn-card');
+          art.appendChild(api.el('h2', 'learn-h', lt.h));
+          art.appendChild(api.el('p', 'learn-body', lt.body));
+          if(lt.srcs && lt.srcs.length){
+            art.appendChild(api.el('p', 'src-head', T('screen.learn.srcHead')));
+            lt.srcs.forEach(function(s){ art.appendChild(U.srcLine(api, s)); });
+          }
+          box.appendChild(art);
+        });
+      });
+      lb.id = 'flow-learn';
+      c.appendChild(lb);
+    }
     row = api.el('div', 'btn-row');
     var pv2 = U.btn(api, '', T('screen.result.prev'), function(){ go(1); });
     pv2.id = 'flow-r-prev';

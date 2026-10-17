@@ -141,7 +141,8 @@ var ja = {
       same:'めやすの 文に 近いと 思ったら、相談して みてください。まよう ときも、困っているなら 相談して かまいません。',
       winHead:'相談先の 一覧',
       toNames:'名前の 一覧を 見る',
-      r3Head:'相談するときに 確かめることが ある 名前'
+      r3Head:'相談するときに 確かめることが ある 名前',
+      toLearn:'「{h}」を 読む', toLearnNote:'やさしく して ほしい ときの 頼み方の 例も のって います。'
     },
     names: {
       title:'名前の てびき',
@@ -294,7 +295,8 @@ var en = {
       same:'If you feel it is close to the guideline, please consider asking for help. Even if you are unsure, you can ask if you are struggling.',
       winHead:'Places to ask',
       toNames:'See the list of names',
-      r3Head:'Names that may be checked when you ask for help'
+      r3Head:'Names that may be checked when you ask for help',
+      toLearn:'Read: “{h}”', toLearnNote:'It also has examples of how to ask someone to be kind to you.'
     },
     names: {
       title:'Names guide',

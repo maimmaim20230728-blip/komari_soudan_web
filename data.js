@@ -1705,8 +1705,9 @@ window.KOMARI_DATA = {
      ]
     },
     {
+     "key": "notTool",
      "h": "病名は、だれかより 上に 立つ ための 道具では ありません",
-     "body": "病名は、だれかより 上に 立ったり、人を 下に 見たり する ための 道具では ありません。\n名前を 知って 気もちが 楽に なる 人も います。それは 大切な ことです。\nやさしく して ほしい ときは、病名を かりずに、そのまま 頼んで いいのです。\nたとえば「今日は つかれて いるので、ゆっくり 話して ほしい」と 言うだけでも、気もちは 伝わります。\nほかの 人の 病名を うたがう ために、この 一覧を 使わないで ください。",
+     "body": "病名は、だれかより 上に 立ったり、人を 下に 見たり する ための 道具では ありません。\n名前を 知って 気もちが 楽に なる 人も います。それは 大切な ことです。\nまわりの 人に わかって ほしい、やさしく して ほしいと 思うのも、自然な ことです。\n\nやさしく して ほしい ときは、病名を 言わなくても、そのまま 頼んで いいのです。\n「何に 困って いるか」と「何を して ほしいか」を 合わせて 言うと、伝わりやすく なります。\n\nたとえば、こんな 言い方が あります。\n「今日は つかれて いるので、ゆっくり 話して ほしい」\n「いっぺんに 言われると わからなく なるので、ひとつずつ 言って ほしい」\n「耳で 聞くだけだと 覚えにくいので、大事な ことは、紙や メールに 書いて ほしい」\n「人の 多い ところが 苦手なので、静かな 場所で 話したい」\n「返事に 時間が かかるので、すこし 待って ほしい」\n「いまは 気もちで いっぱいなので、まず 話を 聞いて ほしい。アドバイスは あとで いい」\n「今日は 調子が わるいので、すこし 休ませて ほしい」\n「急に 予定が 変わると あわてるので、早めに 教えて ほしい」\n「大きな 声で 言われると こわく なるので、おだやかに 話して ほしい」\n\nうまく 言えない ときは、紙に 書いて わたしても かまいません。このアプリで 困りごとを えらんで 問いに 答えると 出る「わたしの 困りごと」を、「大きく 見せる」で 見せる ことも できます。\n病名を 伝えたい ときは、伝えて かまいません。そのときも、病名と いっしょに「何に 困って いて、何を して ほしいか」を 伝えると、相手は 動きやすく なります。\n頼んでも、相手の 事情で できない ことも あります。そのときは、ほかの やり方が ないか、いっしょに 話して みて ください。\n\nこのアプリの 名前の 一覧を、まわりの 人を うたがう 材料に しないで ください。",
      "srcs": []
     },
     {
@@ -3037,8 +3038,9 @@ window.KOMARI_DATA = {
      ]
     },
     {
+     "key": "notTool",
      "h": "A name for a condition is not a tool for standing above anyone",
-     "body": "A name for a condition is not a tool for standing above someone or looking down on anyone. Some people feel relieved when they learn a name. That matters. When you want someone to be kind to you, you can simply ask, without borrowing the name of a condition. Even just saying \"I am tired today, so please speak slowly\" can get your feelings across. Please do not use this list to doubt other people's conditions.",
+     "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n\"I am tired today, so please speak slowly.\"\n\"I get lost when I am told many things at once, so please tell me one thing at a time.\"\n\"I find it hard to remember things I only hear, so please write important things down, on paper or in an email.\"\n\"Crowded places are hard for me, so I would like to talk somewhere quiet.\"\n\"It takes me a while to answer, so please wait a little.\"\n\"I am overwhelmed right now, so please just listen first. Advice can come later.\"\n\"I am not feeling well today, so please let me rest for a while.\"\n\"Sudden changes of plan throw me off, so please let me know as early as you can.\"\n\"When people speak to me loudly, I get scared, so please speak calmly.\"\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use \"Show it large\" to show the \"My worries\" screen, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.",
      "srcs": []
     },
     {

@@ -281,7 +281,9 @@ input[type="file"].hidden{ display:none; }
 .names-how{ margin:12px 0 0; overflow-wrap:anywhere; }
 .names-not-here{ margin:10px 0; }
 .learn-h{ font-size:1.2em; line-height:1.5; margin:0 0 10px; word-break:keep-all; overflow-wrap:anywhere; }
-.learn-body{ white-space:pre-line; overflow-wrap:anywhere; }
+.learn-body{ white-space:pre-line; word-break:keep-all; overflow-wrap:anywhere; }   /* 分かち書きの空白で折る(「ほし/い」のように語の途中で切らない・2026-10-17) */
+.btn.learn-link{ justify-content:flex-start; text-align:left; padding:10px 18px; line-height:1.5; word-break:keep-all; overflow-wrap:anywhere; margin:0 0 10px; }   /* 結果③の「…を 読む」(長い見出しを分かち書きの空白で折る) */
+.learn-lead{ margin:0 0 10px; word-break:keep-all; overflow-wrap:anywhere; }   /* その上の一行(枠なし=すぐ上の「疑う 材料に しないで」の枠と並べて注意に見せない) */
 .ov-body{ width:min(100%, 640px); margin:0 auto; overflow-wrap:anywhere; }
 .crisis-h{ font-size:1.4em; margin:0 0 14px; }
 .crisis-ov .win-name{ font-size:1.3em; }
