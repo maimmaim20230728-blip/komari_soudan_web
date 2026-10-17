@@ -26,21 +26,23 @@ window.KOMARI_DATA = {
  ],
  "countries": [
   "jp",
-  "us"
+  "us",
+  "fr"
  ],
  "c": {
   "jp": {
    "id": "jp",
    "name": {
     "ja": "日本",
-    "en": "Japan"
+    "en": "Japan",
+    "fr": "Japon"
    },
    "langs": [
     "ja",
     "en"
    ],
    "main": "ja",
-   "fallback": "ja",
+   "fallback": "en",
    "srcLang": "ja",
    "freeHosts": [
     "mhlw.go.jp",
@@ -3142,11 +3144,11 @@ window.KOMARI_DATA = {
    "id": "us",
    "name": {
     "ja": "アメリカ",
-    "en": "United States"
+    "en": "United States",
+    "fr": "États-Unis"
    },
    "langs": [
-    "en",
-    "ja"
+    "en"
    ],
    "main": "en",
    "fallback": "en",
@@ -3228,17 +3230,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "988 Suicide & Crisis Lifeline(988 自殺・危機ライン)",
-      "desc": "電話か テキストで 988、または 988lifeline.org の チャットで、訓練を うけた 相談員に つながります。連絡する 理由に 大きい 小さいは ありません。身近な 人が 心配な ときも 使えます。英語と スペイン語です。電話は、240を こえる ことばの 通訳を 無料で 使えます。退役軍人と その家族は 988 の あと 1 を 押します。名前などを 言わなくても 相談できます。多くの 人は、話す ことで 助けを 得て います。911(救急・警察)に つなぐのは、命が さし迫って あぶない 少しの 場合だけ と されて います。",
-      "hours": "毎日 24時間・無料(テキストは 携帯電話の 通信料が かかる ことが あります)",
-      "src": {
-       "org": "米国薬物乱用・精神衛生管理庁(SAMHSA)",
-       "title": "988 Frequently Asked Questions(988 よくある質問)",
-       "url": "https://www.samhsa.gov/mental-health/988/faqs",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
       "title": "988 Frequently Asked Questions",
@@ -3260,17 +3251,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "National Institute of Mental Health (NIMH)",
        "title": "Help for Mental Illnesses",
-       "url": "https://www.nimh.nih.gov/health/find-help",
-       "kind": "summary"
-      }
-     },
-     "ja": {
-      "name": "911(救急・消防・警察)",
-      "desc": "命に かかわる ときは、911 に 電話するか、いちばん 近い 救急外来へ 行きます。",
-      "hours": "24時間",
-      "src": {
-       "org": "米国国立精神衛生研究所(NIMH)",
-       "title": "Help for Mental Illnesses(こころの病気の助けを得るには)",
        "url": "https://www.nimh.nih.gov/health/find-help",
        "kind": "summary"
       }
@@ -3301,17 +3281,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "Disaster Distress Helpline(災害の あとの つらさの 電話)",
-      "desc": "自然の 災害や、人が 起こした 災害に かかわる 気もちの つらさの 窓口です。災害の あった 日が また 来る ときや、思い出す きっかけが あった ときも 相談できます。電話か テキストで つながります。スペイン語は 2 を 押します。通訳を 通して、100を こえる ことばで 話せます。耳の 聞こえない 人や 聞こえにくい 人は、ふだん 使う リレーサービスで 電話や テキストが できます。名前などを 言わなくても 相談できます。",
-      "hours": "毎日 24時間・無料(フリーダイヤル)",
-      "src": {
-       "org": "米国薬物乱用・精神衛生管理庁(SAMHSA)",
-       "title": "Disaster Distress Helpline(災害の あとの つらさの 電話)",
-       "url": "https://www.samhsa.gov/find-help/helplines/disaster-distress-helpline",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
       "title": "Disaster Distress Helpline",
@@ -3333,17 +3302,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Office of Family Violence Prevention and Services, U.S. Department of Health and Human Services",
        "title": "Helplines & Hotlines",
-       "url": "https://acf.gov/ofvps/programs-services/hotlines-helplines",
-       "kind": "fact"
-      }
-     },
-     "ja": {
-      "name": "National Domestic Violence Hotline(家庭内の 暴力の 電話)",
-      "desc": "家庭内の 暴力を うけて いる 人と、その 家族の ための 窓口です。電話か、thehotline.org の チャットで つながります。170の ことばで 相談できます。2つめの 番号(1-800-787-3224)は TTY(文字の 電話)用です。",
-      "hours": "毎日 24時間・無料",
-      "src": {
-       "org": "米国保健福祉省 家族間暴力防止サービス局",
-       "title": "Helplines & Hotlines(相談の 電話の 一覧)",
        "url": "https://acf.gov/ofvps/programs-services/hotlines-helplines",
        "kind": "fact"
       }
@@ -3373,17 +3331,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "かかりつけの 医師(primary care)",
-      "desc": "受診の 予定が あれば、こころの 心配ごとを 話して、助けを たのむ ことが できます。かかりつけの 医師は、ソーシャルワーカー・心理士・精神科医 などの こころの 専門家に 紹介する ことが できます。仕事を して いる 人は、会社に EAP(会社が 費用を 出す、無料で 秘密が 守られる 相談)が あるか 聞いて みる ことも できます。学生は、学校の 保健センターも 使える ことが あります。",
-      "hours": "受付の 時間は、医療機関に よって ちがいます。",
-      "src": {
-       "org": "米国国立精神衛生研究所(NIMH)",
-       "title": "Help for Mental Illnesses(こころの病気の助けを得るには)",
-       "url": "https://www.nimh.nih.gov/health/find-help",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "National Institute of Mental Health (NIMH)",
       "title": "Help for Mental Illnesses",
@@ -3405,17 +3352,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Health Resources and Services Administration (HRSA)",
        "title": "What is a Health Center?",
-       "url": "https://bphc.hrsa.gov/about-health-center-program/what-health-center",
-       "kind": "fact"
-      }
-     },
-     "ja": {
-      "name": "Health Center(地域の 診療所)",
-      "desc": "体・歯・こころ・お酒や 薬物 などを 診る 地域の 診療所です。どの Health Center も、収入と 家族の 人数に あわせて 料金を 変えます。払えない 人も 診なければ ならない と 決められて います。近くの 診療所は「Find a Health Center」で さがせます。",
-      "hours": "受付の 時間は、診療所に よって ちがいます。",
-      "src": {
-       "org": "米国保健資源事業局(HRSA)",
-       "title": "What is a Health Center?(Health Center とは)",
        "url": "https://bphc.hrsa.gov/about-health-center-program/what-health-center",
        "kind": "fact"
       }
@@ -3445,17 +3381,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "FindTreatment.gov(相談・受診できる ところを さがす サイト)",
-      "desc": "アメリカの 中で、こころの 病気や、お酒・薬物の 問題を 診て もらえる ところを さがす、SAMHSA の サイトです。秘密が 守られ、名前を 出さずに 使えます。スペイン語も あります。",
-      "hours": "いつでも 使える サイトです。",
-      "src": {
-       "org": "米国薬物乱用・精神衛生管理庁(SAMHSA)",
-       "title": "Find Help & Support(助けと 支えを さがす)",
-       "url": "https://www.samhsa.gov/find-help",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
       "title": "Find Help & Support",
@@ -3477,17 +3402,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
        "title": "National Helpline",
-       "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
-       "kind": "summary"
-      }
-     },
-     "ja": {
-      "name": "SAMHSA's National Helpline(SAMHSA の 案内の 電話)",
-      "desc": "こころの 病気や、お酒・薬物の 問題に ついて、本人と 家族が 使える、無料で 秘密が 守られる 案内の 電話です。相談(カウンセリング)は しません。案内の 係が、州の 窓口や 近くの 支えを いっしょに さがします。保険が ない・足りない ときは、州の 窓口や、収入に あわせて 料金が 下がる ところを 案内して くれる ことが あります。名前などは 聞かれません。英語と スペイン語です。2つめの 番号(1-800-487-4889)は TTY(文字の 電話)用です。",
-      "hours": "毎日 24時間(365日)",
-      "src": {
-       "org": "米国薬物乱用・精神衛生管理庁(SAMHSA)",
-       "title": "National Helpline(全国の 案内の 電話)",
        "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
        "kind": "summary"
       }
@@ -3517,17 +3431,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "州の こころの 健康と 薬物の 窓口",
-      "desc": "保険の ない 人が 受診する ための 情報は、住んで いる 州の 窓口に あります。この ページで 州を えらびます。",
-      "hours": "受付の 時間は、州に よって ちがいます。",
-      "src": {
-       "org": "米国薬物乱用・精神衛生管理庁(SAMHSA)",
-       "title": "Free & Low Cost Treatment Options for Mental Health and Substance Use(無料や 安い 費用で 受けられる 支え)",
-       "url": "https://www.samhsa.gov/find-support/how-to-pay-for-treatment/free-or-low-cost-treatment",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
       "title": "Free & Low Cost Treatment Options for Mental Health and Substance Use",
@@ -3549,17 +3452,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Federal Communications Commission (FCC)",
        "title": "Dial 211 for Essential Community Services",
-       "url": "https://www.fcc.gov/consumers/guides/dial-211-essential-community-services",
-       "kind": "fact"
-      }
-     },
-     "ja": {
-      "name": "211(地域の 暮らしと 福祉の 案内)",
-      "desc": "多くの 州で、211 に かけると、食べもの・住まい などの 地域の 保健と 福祉の 窓口を 案内して もらえます。アメリカの 人口の 約99%で 使えます。英語 以外の ことばの 対応は、地域に よって ちがいます。",
-      "hours": "時間と 内容は、地域に よって ちがいます。",
-      "src": {
-       "org": "米国連邦通信委員会(FCC)",
-       "title": "Dial 211 for Essential Community Services(211 で 地域の 大事な サービスへ)",
        "url": "https://www.fcc.gov/consumers/guides/dial-211-essential-community-services",
        "kind": "fact"
       }
@@ -3589,17 +3481,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "NIAAA Alcohol Treatment Navigator(お酒の 問題の 相談先を さがす 手引き)",
-      "desc": "米国国立アルコール乱用・依存症研究所が 作った、大人が 自分や 大人の 家族の ために、お酒の 問題を 診て もらえる ところを さがす 手引きです。企業の スポンサーは ついて いません。通わずに、オンラインで 受けられる ことも あります。",
-      "hours": "いつでも 使える サイトです。",
-      "src": {
-       "org": "米国国立アルコール乱用・依存症研究所(NIAAA)",
-       "title": "Find Your Way to Alcohol Treatment | Navigator(お酒の 問題の 相談先への 道すじ)",
-       "url": "https://alcoholtreatment.niaaa.nih.gov/",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
       "title": "Find Your Way to Alcohol Treatment | Navigator",
@@ -3621,17 +3502,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Office on Women's Health, U.S. Department of Health and Human Services",
        "title": "National Eating Disorders Awareness Week",
-       "url": "https://womenshealth.gov/topics/national-eating-disorders-awareness-week",
-       "kind": "summary"
-      }
-     },
-     "ja": {
-      "name": "食べる ことの 困りごとの 電話(2つ)",
-      "desc": "米国保健福祉省の 女性の 健康局が、食べる ことの 病気が ある 人や、まわりの 人が 心配な ときの 電話として、2つを 案内して います。National Alliance for Eating Disorders(866-662-1235)と ANAD(888-375-7767)です。",
-      "hours": "National Alliance for Eating Disorders: 月〜金 9〜19時(アメリカ東部時間)。ANAD: 月〜金 10〜22時(アメリカ東部時間)。",
-      "src": {
-       "org": "米国保健福祉省 女性の健康局",
-       "title": "National Eating Disorders Awareness Week(摂食障害を 知る 週間)",
        "url": "https://womenshealth.gov/topics/national-eating-disorders-awareness-week",
        "kind": "summary"
       }
@@ -3661,17 +3531,6 @@ window.KOMARI_DATA = {
        "kind": "summary"
       }
      },
-     "ja": {
-      "name": "Job Accommodation Network(JAN・仕事の 配慮の 相談)",
-      "desc": "仕事の 配慮と、障害の ある アメリカ人法(ADA)に ついて、無料で 秘密が 守られる 相談が できます。働く 本人や 家族が、電話か メールで 相談できます。名前を 出さない ことも えらべます。米国労働省の 資金で 運営されて います。",
-      "hours": "月〜金 9〜18時(アメリカ東部時間)",
-      "src": {
-       "org": "Job Accommodation Network(JAN・米国労働省の資金で運営)",
-       "title": "Contact Us(問い合わせ)",
-       "url": "https://askjan.org/contact-us.cfm",
-       "kind": "summary"
-      }
-     },
      "src": {
       "org": "Job Accommodation Network (JAN), funded by the U.S. Department of Labor",
       "title": "Contact Us",
@@ -3697,17 +3556,6 @@ window.KOMARI_DATA = {
        "kind": "fact"
       }
      },
-     "ja": {
-      "name": "州の 職業リハビリテーションの 窓口",
-      "desc": "すべての 州と、ワシントンD.C.・プエルトリコ・領土に、障害の ある 人の 仕事を 支える 職業リハビリテーションの 窓口が あります。米国教育省の この ページに、78の 窓口の 連絡先が のって います。",
-      "hours": "受付の 時間は、窓口に よって ちがいます。",
-      "src": {
-       "org": "米国教育省 リハビリテーションサービス局",
-       "title": "State Vocational Rehabilitation Agencies(州の 職業リハビリテーションの 窓口)",
-       "url": "https://rsa.ed.gov/about/states",
-       "kind": "fact"
-      }
-     },
      "src": {
       "org": "Rehabilitation Services Administration, U.S. Department of Education",
       "title": "State Vocational Rehabilitation Agencies",
@@ -3729,17 +3577,6 @@ window.KOMARI_DATA = {
       "src": {
        "org": "U.S. Department of Justice, ADA.gov",
        "title": "ADA Information Line",
-       "url": "https://www.ada.gov/infoline/",
-       "kind": "summary"
-      }
-     },
-     "ja": {
-      "name": "ADA Information Line(障害の ある アメリカ人法の 電話・米国司法省)",
-      "desc": "障害の ある アメリカ人法(ADA)に ついての 質問に、専門の 係が 答えます。個人の 質問にも 答えます。電話の 中身は 秘密が 守られます。仕事・住まいの 差別や、飛行機の ことは、ほかの 連邦の 機関へ 回される ことが あります。2つめの 番号(1-833-610-1264)は TTY(文字の 電話)用です。",
-      "hours": "月〜金",
-      "src": {
-       "org": "米国司法省(ADA.gov)",
-       "title": "ADA Information Line(ADA の 電話相談)",
        "url": "https://www.ada.gov/infoline/",
        "kind": "summary"
       }
@@ -4970,7 +4807,7 @@ window.KOMARI_DATA = {
       },
       {
        "h": "About this app",
-       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device. SOYOGI is an independent non-profit group based in Japan. This app is not affiliated with, and is not endorsed by, the U.S. Government or any of its agencies (including NIH, NIMH, CDC, SAMHSA, and HHS), the 988 Suicide & Crisis Lifeline, or any medical institution. References to these organizations show where information came from and do not imply their endorsement of SOYOGI or this app. SOYOGI wrote this content in its own words based on U.S. federal government pages, with some short quotations. Text adapted, quoted, or translated from U.S. Government sources is not claimed by SOYOGI and is available on those agencies' websites at no charge. Translations are provided for convenience; the English original is authoritative. Sources are shown with each item.\n\nNotices required for adapted or translated material:\nThe National Institute on Alcohol Abuse and Alcoholism (NIAAA) does not endorse this translation and no endorsement by NIAAA should be inferred.\nAdapted from the National Institute on Aging, National Institutes of Health.\nTranslated by SOYOGI from material by the National Institute on Aging, National Institutes of Health.\n\nThe check date is 2026-10-17, and numbers and hours may change. Whether to reach out is decided by you, not by the app.",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device. SOYOGI is an independent non-profit group based in Japan. This app is not affiliated with, and is not endorsed by, the U.S. Government or any of its agencies (including NIH, NIMH, CDC, SAMHSA, and HHS), the 988 Suicide & Crisis Lifeline, or any medical institution. References to these organizations show where information came from and do not imply their endorsement of SOYOGI or this app. SOYOGI wrote this content in its own words based on U.S. federal government pages, with some short quotations. Text adapted, quoted, or translated from U.S. Government sources is not claimed by SOYOGI and is available on those agencies' websites at no charge. Sources are shown with each item.\n\nNotices required for adapted or translated material:\nThe National Institute on Alcohol Abuse and Alcoholism (NIAAA) does not endorse this translation and no endorsement by NIAAA should be inferred.\nAdapted from the National Institute on Aging, National Institutes of Health.\nTranslated by SOYOGI from material by the National Institute on Aging, National Institutes of Health.\n\nThe check date is 2026-10-17, and numbers and hours may change. Whether to reach out is decided by you, not by the app.",
        "srcs": []
       }
      ],
@@ -5014,27 +4851,563 @@ window.KOMARI_DATA = {
       }
      }
     }
+   }
+  },
+  "fr": {
+   "id": "fr",
+   "name": {
+    "ja": "フランス",
+    "en": "France",
+    "fr": "France"
    },
-   "ja": {
+   "langs": [
+    "fr"
+   ],
+   "main": "fr",
+   "fallback": "fr",
+   "srcLang": "fr",
+   "freeHosts": [
+    "service-public.gouv.fr",
+    "info.gouv.fr",
+    "sante.gouv.fr",
+    "handicap.gouv.fr",
+    "has-sante.fr",
+    "psycom.org",
+    "santepubliquefrance.fr",
+    "sante.fr",
+    "ameli.fr"
+   ],
+   "adaptHosts": [
+    "service-public.gouv.fr",
+    "info.gouv.fr",
+    "monparcourshandicap.gouv.fr"
+   ],
+   "ver": "2026-10-17",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "fr3114",
+     "band": "now",
+     "tel": "3114",
+     "tel2": "",
+     "url": "https://3114.fr/",
+     "linkOk": false,
+     "fr": {
+      "name": "3114 (numéro national de prévention du suicide)",
+      "desc": "Un professionnel vous écoute. Il vous pose quelques questions pour bien comprendre ce dont vous avez besoin. Les appels sont confidentiels. Il peut vous demander votre nom et vos coordonnées. Vous pouvez aussi appeler si vous vous inquiétez pour quelqu’un. Si vous préférez ne pas donner votre nom, SOS Amitié et Suicide Écoute, plus bas dans cette liste, sont anonymes.",
+      "hours": "24 h/24, 7 j/7. Appel gratuit partout en France.",
+      "src": {
+       "org": "Numéro national de prévention du suicide (3114)",
+       "title": "Confidentialité et gratuité",
+       "url": "https://3114.fr/confidentialite-et-gratuite/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Numéro national de prévention du suicide (3114)",
+      "title": "Confidentialité et gratuité",
+      "url": "https://3114.fr/confidentialite-et-gratuite/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "fr15112",
+     "band": "now",
+     "tel": "15",
+     "tel2": "112",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "15 (Samu) · 112",
+      "desc": "Si une vie est en danger immédiat, appelez le 15 (Samu) ou le 112. Ces appels sont gratuits et n’apparaissent pas sur les factures. Si vous pouvez vous déplacer, vous pouvez aussi aller aux urgences de l’hôpital le plus proche. Les services d’urgence rappellent depuis le 0 800 112 112.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "Service Public (service-public.gouv.fr)",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "Service Public (service-public.gouv.fr)",
+      "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+      "kind": "summary",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "frsosamitie",
+     "band": "now",
+     "tel": "09 72 39 40 50",
+     "tel2": "01 46 21 46 46",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "SOS Amitié",
+      "desc": "Des bénévoles formés écoutent les personnes en détresse et leur entourage. Vous n’avez pas à dire votre nom. Service gratuit. Le deuxième numéro (01 46 21 46 46) est une ligne en anglais (SOS Help), tous les jours de 15 h à 23 h.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "© Psycom",
+       "title": "Les lignes d’écoute",
+       "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
+       "kind": "fact",
+       "upd": "2026-09-15"
+      }
+     },
+     "src": {
+      "org": "© Psycom",
+      "title": "Les lignes d’écoute",
+      "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
+      "kind": "fact",
+      "upd": "2026-09-15"
+     }
+    },
+    {
+     "id": "frsuicideecoute",
+     "band": "now",
+     "tel": "01 45 39 40 00",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Suicide Écoute",
+      "desc": "Une autre ligne où vous n’avez pas à dire votre nom. Des bénévoles formés écoutent les personnes en grande souffrance psychologique ou confrontées au suicide, et leur entourage. Service gratuit. Si une ligne est occupée, vous pouvez patienter ou en essayer une autre.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "© Psycom",
+       "title": "Les lignes d’écoute",
+       "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
+       "kind": "fact",
+       "upd": "2026-09-15"
+      }
+     },
+     "src": {
+      "org": "© Psycom",
+      "title": "Les lignes d’écoute",
+      "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
+      "kind": "fact",
+      "upd": "2026-09-15"
+     }
+    },
+    {
+     "id": "fr114",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "114",
+     "fr": {
+      "name": "114 (SMS, visio, langue des signes)",
+      "desc": "Pour les personnes sourdes, malentendantes ou qui ont du mal à parler, et quand vous ne pouvez pas parler : envoyez un SMS au 114. Le 114 est aussi accessible par visio, tchat et langue des signes française (LSF). Il demande votre nom, votre adresse précise et le motif de l’appel.",
+      "hours": "24 h/24, 7 j/7. Gratuit.",
+      "src": {
+       "org": "Service Public (service-public.gouv.fr)",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "Service Public (service-public.gouv.fr)",
+      "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+      "kind": "summary",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "fr3919",
+     "band": "now",
+     "tel": "3919",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "3919 (Violences Femmes Info)",
+      "desc": "Écoute, information et orientation pour les femmes victimes de violences et pour les personnes témoins de ces violences. Appel anonyme, qui n’apparaît pas sur les factures de téléphone. En cas d’urgence, appelez le 17 ou le 112.",
+      "hours": "24 h/24, 7 j/7. Gratuit.",
+      "src": {
+       "org": "Service Public (service-public.gouv.fr)",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "Service Public (service-public.gouv.fr)",
+      "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+      "kind": "summary",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "fr115",
+     "band": "now",
+     "tel": "115",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "115 (Samu social)",
+      "desc": "Pour trouver un endroit où dormir ce soir : le 115 est le numéro d’urgence et d’accueil des personnes sans abri. L’appel n’apparaît pas sur les factures.",
+      "hours": "24 h/24, 7 j/7. Gratuit, en métropole et en outre-mer.",
+      "src": {
+       "org": "Service Public (service-public.gouv.fr)",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "Service Public (service-public.gouv.fr)",
+      "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+      "kind": "summary",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "frmt",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Votre médecin traitant",
+      "desc": "C’est votre premier interlocuteur pour votre santé : il vous oriente vers un spécialiste en cas de besoin. Vous pouvez lui montrer « Mes difficultés ». Si vous ne trouvez pas de médecin traitant, vous pouvez contacter votre caisse d’Assurance maladie.",
+      "hours": "Selon le cabinet.",
+      "src": {
+       "org": "Service Public (service-public.gouv.fr)",
+       "title": "Médecin traitant et parcours de soins coordonnés",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F163",
+       "kind": "summary",
+       "upd": "2026-08-21"
+      }
+     },
+     "src": {
+      "org": "Service Public (service-public.gouv.fr)",
+      "title": "Médecin traitant et parcours de soins coordonnés",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F163",
+      "kind": "summary",
+      "upd": "2026-08-21"
+     }
+    },
+    {
+     "id": "frcmp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "CMP (centre médico-psychologique)",
+      "desc": "Lieu public de consultation en santé mentale, qui dépend de l’endroit où vous habitez. Il accueille tout le monde, sans condition et sans avance de frais. Les délais pour un rendez-vous sont souvent assez longs. Pour savoir où aller, vous pouvez demander à votre médecin traitant ou à votre pharmacien, ou chercher sur Santé.fr.",
+      "hours": "Selon le centre.",
+      "src": {
+       "org": "Santé publique France (Santé Mentale Info Service)",
+       "title": "Où consulter ?",
+       "url": "https://www.santementale-info-service.fr/trouver-de-l-aide/toutes-les-aides/ou-consulter",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Santé publique France (Santé Mentale Info Service)",
+      "title": "Où consulter ?",
+      "url": "https://www.santementale-info-service.fr/trouver-de-l-aide/toutes-les-aides/ou-consulter",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frmsp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Mon soutien psy",
+      "desc": "Vous pouvez consulter un psychologue conventionné sans l’accord de votre médecin traitant. Une séance coûte 50 € ; l’Assurance maladie en prend en charge 60 %. La prise en charge se limite à 12 séances par année civile. La première séance permet de voir avec le psychologue si ce dispositif vous convient. Si vous pensez à disparaître ou au suicide, appelez d’abord le 3114.",
+      "hours": "Selon le psychologue.",
+      "src": {
+       "org": "Service Public (service-public.gouv.fr)",
+       "title": "Consultation d'un psychologue ou d'un psychiatre : quelle prise en charge ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34917",
+       "kind": "summary",
+       "upd": "2026-07-03"
+      }
+     },
+     "src": {
+      "org": "Service Public (service-public.gouv.fr)",
+      "title": "Consultation d'un psychologue ou d'un psychiatre : quelle prise en charge ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34917",
+      "kind": "summary",
+      "upd": "2026-07-03"
+     }
+    },
+    {
+     "id": "frannuaire",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.sante.fr/carte-thematique/sante-mentale",
+     "linkOk": true,
+     "fr": {
+      "name": "Santé.fr : trouver un lieu de soins en santé mentale",
+      "desc": "Une carte du site public Santé.fr pour trouver près de chez vous un lieu de soins en santé mentale (CMP, hôpital, psychologue…).",
+      "hours": "Site accessible à tout moment.",
+      "src": {
+       "org": "Santé publique France (Santé Mentale Info Service)",
+       "title": "Où consulter ?",
+       "url": "https://www.santementale-info-service.fr/trouver-de-l-aide/toutes-les-aides/ou-consulter",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Santé publique France (Santé Mentale Info Service)",
+      "title": "Où consulter ?",
+      "url": "https://www.santementale-info-service.fr/trouver-de-l-aide/toutes-les-aides/ou-consulter",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frpass",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "PASS (permanence d’accès aux soins de santé)",
+      "desc": "Un service de l’hôpital ouvert à toute personne malade en situation de précarité, par exemple sans couverture sociale. Il coordonne les soins (médicaux, sociaux, infirmiers) et vous accompagne dans votre parcours de santé. Renseignez-vous auprès d’un hôpital proche.",
+      "hours": "Selon l’hôpital.",
+      "src": {
+       "org": "Santé.fr (Ministère chargé de la santé)",
+       "title": "Les permanences d’accès aux soins de santé - PASS",
+       "url": "https://www.sante.fr/trouver-aide-sante-mentale/les-permanences-dacces-aux-soins-de-sante-pass",
+       "kind": "fact",
+       "upd": "2025-04-03"
+      }
+     },
+     "src": {
+      "org": "Santé.fr (Ministère chargé de la santé)",
+      "title": "Les permanences d’accès aux soins de santé - PASS",
+      "url": "https://www.sante.fr/trouver-aide-sante-mentale/les-permanences-dacces-aux-soins-de-sante-pass",
+      "kind": "fact",
+      "upd": "2025-04-03"
+     }
+    },
+    {
+     "id": "frais",
+     "band": "day",
+     "tel": "0 980 980 930",
+     "tel2": "",
+     "url": "https://www.alcool-info-service.fr/",
+     "linkOk": false,
+     "fr": {
+      "name": "Alcool Info Service",
+      "desc": "Écoute et information sur l’alcool, pour vous ou pour un proche. Appel anonyme et non surtaxé. Tchat tous les jours de 12 h à 19 h. Service de Santé publique France.",
+      "hours": "Tous les jours de 8 h à 23 h.",
+      "src": {
+       "org": "Alcool Info Service (Santé publique France)",
+       "title": "Accueil",
+       "url": "https://www.alcool-info-service.fr/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Alcool Info Service (Santé publique France)",
+      "title": "Accueil",
+      "url": "https://www.alcool-info-service.fr/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frjis",
+     "band": "day",
+     "tel": "09 74 75 13 13",
+     "tel2": "",
+     "url": "https://www.joueurs-info-service.fr/",
+     "linkOk": false,
+     "fr": {
+      "name": "Joueurs Info Service",
+      "desc": "Écoute et information sur les jeux d’argent et de hasard (casino, paris sportifs ou hippiques, jeux de tirage ou de grattage), pour vous ou pour un proche. Appel anonyme et non surtaxé. Tchat tous les jours de 12 h à 19 h. Service de Santé publique France.",
+      "hours": "Tous les jours de 8 h à 23 h.",
+      "src": {
+       "org": "Joueurs Info Service (Santé publique France)",
+       "title": "Joueurs Info Service",
+       "url": "https://www.joueurs-info-service.fr/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Joueurs Info Service (Santé publique France)",
+      "title": "Joueurs Info Service",
+      "url": "https://www.joueurs-info-service.fr/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frdis",
+     "band": "day",
+     "tel": "0 800 23 13 13",
+     "tel2": "",
+     "url": "https://www.drogues-info-service.fr/",
+     "linkOk": false,
+     "fr": {
+      "name": "Drogues Info Service",
+      "desc": "Écoute et information sur les drogues, pour vous ou pour un proche. Appel anonyme et gratuit. Tchat tous les jours de 12 h à 19 h. Service de Santé publique France.",
+      "hours": "Tous les jours de 8 h à 23 h.",
+      "src": {
+       "org": "Drogues Info Service (Santé publique France)",
+       "title": "Drogues Info Service",
+       "url": "https://www.drogues-info-service.fr/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Drogues Info Service (Santé publique France)",
+      "title": "Drogues Info Service",
+      "url": "https://www.drogues-info-service.fr/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frtnd",
+     "band": "day",
+     "tel": "0800 71 40 40",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Autisme Info Service",
+      "desc": "Pour échanger sur votre situation personnelle autour de l’autisme, avec une écoutante, par téléphone ou par e-mail.",
+      "hours": "Du lundi au vendredi, de 9 h à 13 h et de 14 h à 17 h ; le mardi, aussi de 18 h à 20 h.",
+      "src": {
+       "org": "Maison de l’autisme",
+       "title": "Qu’est-ce que la Maison de l’autisme ?",
+       "url": "https://maisondelautisme.gouv.fr/presentation-maison-de-l-autisme/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Maison de l’autisme",
+      "title": "Qu’est-ce que la Maison de l’autisme ?",
+      "url": "https://maisondelautisme.gouv.fr/presentation-maison-de-l-autisme/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frcra",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "CRA (centre ressources autisme) de votre région",
+      "desc": "Les CRA apportent information et orientation aux personnes autistes et à leurs proches. Ils interviennent surtout quand la situation demande une expertise spécialisée, par exemple un diagnostic complexe.",
+      "hours": "Selon le centre.",
+      "src": {
+       "org": "Maison de l’autisme",
+       "title": "Qu'est-ce qu'un centre de ressources autisme (CRA)",
+       "url": "https://maisondelautisme.gouv.fr/accueil/centre-ressources-autisme-cra/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Maison de l’autisme",
+      "title": "Qu'est-ce qu'un centre de ressources autisme (CRA)",
+      "url": "https://maisondelautisme.gouv.fr/accueil/centre-ressources-autisme-cra/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "frmdph",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "MDPH (maison départementale des personnes handicapées)",
+      "desc": "Il existe une MDPH par département. Elle accueille, informe, accompagne et conseille les personnes handicapées et leur famille, quels que soient leur âge et leur situation. Les droits et les aides (comme la RQTH) se demandent auprès d’elle ; un certificat médical est demandé.",
+      "hours": "Selon le département.",
+      "src": {
+       "org": "Mon Parcours Handicap",
+       "title": "MDPH : missions et fonctionnement",
+       "url": "https://www.monparcourshandicap.gouv.fr/aides/la-maison-departementale-des-personnes-handicapees-mdph-missions-et-fonctionnement",
+       "kind": "summary",
+       "upd": "2026-02-10"
+      }
+     },
+     "src": {
+      "org": "Mon Parcours Handicap",
+      "title": "MDPH : missions et fonctionnement",
+      "url": "https://www.monparcourshandicap.gouv.fr/aides/la-maison-departementale-des-personnes-handicapees-mdph-missions-et-fonctionnement",
+      "kind": "summary",
+      "upd": "2026-02-10"
+     }
+    }
+   ],
+   "fr": {
     "groups": {
      "mood": {
-      "label": "気分が 落ちこむ・やる気が 出ない",
-      "lead": "気分が ずっと しずんで、やる気が わかない ときの 困りごとです。",
+      "label": "Moral en baisse, manque d’envie",
+      "lead": "Quand le moral reste bas et qu’il est difficile de trouver l’énergie de faire quoi que ce soit.",
       "scenes": [
-       "朝から晩まで、気持ちがずっと沈んだままでいる。",
-       "前は好きだったことをしても、楽しいと感じられない。",
-       "気力がわかず、集中もできなくて、仕事や家事が進まない。",
-       "自分を責めてしまったり、物事を暗いほうにばかり考えてしまったりする。",
-       "夜に眠れなかったり、逆に眠りすぎたりする。食欲が落ち、体もだるい。",
-       "消えたい・いなくなりたい気持ちになることがある。"
+       "Mon moral reste bas du matin au soir.",
+       "Les choses que j’aimais avant ne me font plus plaisir.",
+       "Je n’ai pas d’énergie et j’ai du mal à me concentrer, alors le travail et les tâches de la maison n’avancent pas.",
+       "Je me fais des reproches et je vois tout en noir.",
+       "Je n’arrive pas à dormir la nuit, ou au contraire je dors trop. J’ai perdu l’appétit et j’ai le corps lourd.",
+       "J’ai parfois envie de disparaître ou de ne plus être là."
       ],
       "asks": [
-       "やることは、一度に一つずつ伝えてほしい。",
-       "返事や決めることを急がせず、考える時間がほしい。",
-       "大事なことは、書いて渡してほしい。",
-       "「がんばれ」と言う前に、まず話を聞いてほしい。",
-       "休んでいることを、怠けていると決めつけないでほしい。",
-       "体の病気や、いま飲んでいる薬が関係していないかも、いっしょに確かめてほしい。"
+       "Dites-moi les choses à faire une par une.",
+       "Ne me pressez pas pour répondre ou pour décider : j’ai besoin de temps pour réfléchir.",
+       "Donnez-moi les choses importantes par écrit.",
+       "Avant de me dire « Courage » ou « Secoue-toi », écoutez-moi d’abord.",
+       "Quand je me repose, ne concluez pas que c’est de la paresse.",
+       "Aidez-moi aussi à vérifier si une maladie physique ou un médicament que je prends en ce moment joue un rôle."
       ],
       "meyasu": {
        "has": false,
@@ -5043,115 +5416,112 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "体の病気や、内科の薬が関わるうつ状態",
-        "why": "ある種の 薬や、ウイルス・甲状腺の 病気などの 体の 病気が、うつ病と 同じ 症状を 起こす ことが あり、医療者は 診察や 問診、検査で それを 確かめられる、と NIMH は 書いて います。病気の ために 飲んでいる 薬の 副作用が、うつの 症状に 加わる ことも ある、と されて います。",
+        "name": "Dépression provoquée ou aggravée par des médicaments",
+        "why": "« En effet, la dépression peut parfois être provoquée - ou aggravée - par des médicaments. »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Troubles dépressifs",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-depressifs/",
+         "kind": "quote",
+         "upd": "2026-09-15"
         }
        },
        {
-        "name": "甲状腺の病気(甲状腺機能低下症)",
-        "why": "甲状腺が ホルモンを 十分に 作らず、体の 多くの はたらきが ゆっくりに なる 甲状腺機能低下症の、よく ある 症状として、疲れと 気分の 落ちこみ(うつ)が あげられて います。その 症状の 多くは ほかの 病気と 同じだ、とも 書かれて います。",
+        "name": "Anémie",
+        "why": "Selon cette page, quand la fatigue vient d’un problème de santé, la cause peut être une maladie silencieuse comme l’anémie ou un problème de thyroïde. La page cite aussi, parmi ces causes, un état dépressif, certains médicaments et le manque de sommeil.",
         "src": {
-         "org": "米国国立糖尿病・消化器・腎臓病研究所(NIDDK)",
-         "title": "Hypothyroidism (Underactive Thyroid)(甲状腺機能低下症)",
-         "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Fatigue",
+         "url": "https://www.sante.fr/fatigue",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "聞こえにくさ(難聴)",
-        "why": "よく 聞こえない 高齢の 人は、話が わからない ことへの いらだちや はずかしさから、気分が 落ちこんだり、人から 離れたり する ことが ある、と NIA は 書いて います。それが、社会からの 孤立や さびしさに つながる ことも ある、と されて います。",
+        "name": "Hypothyroïdie",
+        "why": "Cette page explique que, quand la thyroïde ne produit pas assez d’hormones, beaucoup de fonctions du corps ralentissent. Elle cite parmi les effets une fatigue qui dure, une plus grande sensibilité au froid, une prise de poids, la dépression et des troubles de la mémoire.",
         "src": {
-         "org": "米国国立老化研究所(NIA)",
-         "title": "Hearing Loss: A Common Problem for Older Adults(難聴: 高齢の人によくある問題)",
-         "url": "https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Hypothyroïdie",
+         "url": "https://www.sante.fr/hypothyroidie",
+         "kind": "fact",
+         "upd": "2026-08-13"
         }
        },
        {
-        "name": "不眠症",
-        "why": "「不眠症に よって、不安に なったり、気分が 落ちこんだり、いらいら しやすく なったり する ことが あります」",
+        "name": "Insomnie et autres troubles du sommeil",
+        "why": "« Le problème de sommeil peut être la conséquence d’un trouble psychique, par exemple un trouble anxieux généralisé, un trouble de stress post-traumatique, un trouble bipolaire, une dépression. »",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Insomnia - Symptoms(不眠症: 症状)",
-         "url": "https://www.nhlbi.nih.gov/health/insomnia/symptoms",
-         "kind": "quote"
+         "org": "© Psycom",
+         "title": "Quand le sommeil s'en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "quote",
+         "upd": "2026-09-16"
         }
        },
        {
-        "name": "お酒の影響(アルコール使用障害など)",
-        "why": "NIAAA は、アルコール使用障害を、困りごとが 起きても お酒を やめたり 控えたり しにくい 状態と 説明し、うつ病など さまざまな こころの 病気が いっしょに 見られる ことが ある、と 書いて います。お酒が 切れて くる ときに、気分の 落ちこみや 不安な 感じ、眠れなさが 出る ことも ある、と されて います。",
+        "name": "Effets de l’alcool (dont la dépendance à l’alcool)",
+        "why": "Cette page explique que la consommation d’alcool peut entraîner une perte de contrôle progressive, jusqu’à la dépendance. Elle indique que ces conduites touchent aussi la santé mentale, par exemple avec de l’anxiété, de la dépression, de l’isolement et une perte d’estime de soi.",
         "src": {
-         "org": "米国国立アルコール乱用・依存症研究所(NIAAA)",
-         "title": "Understanding Alcohol Use Disorder(アルコール使用障害を理解する)",
-         "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-alcohol-use-disorder",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "うつ病",
-        "why": "だれでも ときどき 気分が 沈む ことは あるが、うつ病は それとは ちがい、気持ちや 考え方、眠る・食べる・働く といった 毎日の ことに 影響する 症状を 起こす、と NIMH は 説明して います。悲しい・不安・むなしい 気分が 続く、興味や 楽しさが なくなる、疲れやすい、集中しにくい、眠りや 食欲が 変わる、などが あげられて います。",
+        "name": "Dépression",
+        "why": "Cette page décrit la dépression comme un état de détresse profonde qui dure, différent d’une déprime passagère : tristesse permanente, perte de motivation, plus d’envie pour les activités qui plaisaient avant, difficultés de concentration. Elle cite aussi des changements du sommeil et de l’appétit, une fatigue constante, et des formes où la dépression se montre surtout par des douleurs ou d’autres troubles du corps.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Dépression de l'adulte",
+         "url": "https://www.sante.fr/depression-de-ladulte",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "持続性抑うつ障害(気分変調症)",
-        "why": "NIMH は、持続性抑うつ障害(気分変調症とも 呼ばれる)を、よく ある うつ病の かたちの 一つとして あげて います。うつの 症状が より 軽い かわりに、ずっと 長く 続く もの と 説明されて います。",
+        "name": "Trouble bipolaire",
+        "why": "Cette page décrit le trouble bipolaire comme une alternance de périodes de dépression et de périodes d’énergie et d’excitation très fortes, avec un besoin de sommeil réduit. Elle indique qu’il peut passer inaperçu longtemps, surtout quand les périodes de dépression dominent, et qu’il est parfois confondu avec d’autres troubles.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
-        }
-       },
-       {
-        "name": "双極性障害(躁うつ病)",
-        "why": "NIMH は、双極性障害を、悲しさや 希望の なさが あり 活動が とても 落ちる うつの 時期と、気分が ふだん より 高く 活動が ずっと 増える 躁(または それより 軽い 軽躁)の 時期が ある 病気と 説明して います。双極II型障害の 人は、うつの 時期に だけ 助けを 求める ことが あり、気分が 高い 時期(軽躁)は 気づかれない ことが ある、と 書かれて います。",
-        "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Bipolar Disorder(双極性障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "ushc",
-       "usfindtx",
-       "ussamhsa",
-       "us211"
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
       ],
       "crisis": [
        5
       ]
      },
      "anxiety": {
-      "label": "不安・緊張が 強い",
-      "lead": "心配が とまらない・ドキドキして 落ち着かない・人前や 外出が つらい など",
+      "label": "Forte anxiété ou tension",
+      "lead": "Des inquiétudes qui ne s’arrêtent pas, le cœur qui bat fort et l’agitation, des difficultés devant les autres ou pour sortir, et d’autres situations semblables.",
       "scenes": [
-       "人前で話したり、注目されたりすると、強い不安で頭が真っ白になる。",
-       "急にドキドキして息が苦しくなり、「また起きたらどうしよう」と心配で、出かけにくい。",
-       "はっきりした理由がないのに、あれもこれもと心配になって、そわそわして疲れてしまう。",
-       "電車やバス、人の多い建物の中、ひとりでの外出など、逃げにくい場所が苦手で、避けている。",
-       "不安なことを避けているうちに、行く場所や会う人が減って、生活が狭くなってきた。",
-       "心配ごとが頭から離れなくて、夜、寝つけない。"
+       "Quand je dois parler devant d’autres personnes ou que les regards se tournent vers moi, l’anxiété est si forte que j’ai la tête vide.",
+       "Mon cœur se met soudain à battre très fort et j’ai du mal à respirer. J’ai peur que cela recommence, alors j’ai du mal à sortir.",
+       "Même sans raison claire, je m’inquiète pour une chose, puis pour une autre, je n’arrive pas à rester en place et cela m’épuise.",
+       "J’ai du mal avec les endroits d’où il est difficile de partir, comme le métro, le bus, le RER ou les bâtiments pleins de monde, et avec les sorties sans personne pour m’accompagner. Alors je les évite.",
+       "À force d’éviter ce qui m’angoisse, je vais dans moins d’endroits et je vois moins de monde : ma vie s’est rétrécie.",
+       "Mes inquiétudes ne me sortent pas de la tête et j’ai du mal à m’endormir le soir."
       ],
       "asks": [
-       "話すときは、急かさずに待ってほしい",
-       "予定や進め方を、前もって教えてほしい",
-       "急に人前で意見を求めず、書いて伝える方法も選ばせてほしい",
-       "具合が悪くなったら、少し席を外して休むことを認めてほしい",
-       "静かな場所で、少人数で話したい",
-       "「気にしすぎ」と決めつけずに、まず困っていることを聞いてほしい"
+       "Quand je parle, attendez-moi sans me presser.",
+       "Dites-moi à l’avance le programme et la façon dont les choses vont se passer.",
+       "Ne me demandez pas mon avis tout à coup devant les autres, et laissez-moi aussi choisir de répondre par écrit.",
+       "Si je me sens mal, laissez-moi m’éloigner un moment pour me reposer.",
+       "Je préfère parler dans un endroit calme, avec peu de personnes.",
+       "Ne me dites pas seulement que je m’en fais trop : écoutez d’abord ce qui est difficile pour moi."
       ],
       "meyasu": {
        "has": false,
@@ -5160,113 +5530,121 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "甲状腺機能亢進症",
-        "why": "甲状腺機能亢進症の 症状として、心臓の 拍動が 速い・不規則に なる、神経が 高ぶる、いらいら する、眠れない、疲れる、手が ふるえる などが あげられて います。その 症状の 多くは ほかの 病気と 同じだ、とも 書かれて います。",
+        "name": "Hyperthyroïdie",
+        "why": "Cette page explique que, quand la thyroïde produit trop d’hormones, beaucoup de fonctions du corps s’accélèrent. Elle cite parmi les effets un cœur qui bat très vite, des bouffées de chaleur, des tremblements, un amaigrissement, de l’anxiété et une fatigue qui dure.",
         "src": {
-         "org": "米国国立糖尿病・消化器・腎臓病研究所(NIDDK)",
-         "title": "Hyperthyroidism (Overactive Thyroid)(甲状腺機能亢進症)",
-         "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hyperthyroidism",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Hyperthyroïdie",
+         "url": "https://www.sante.fr/hyperthyroidie",
+         "kind": "fact",
+         "upd": "2026-08-13"
         }
        },
        {
-        "name": "不整脈",
-        "why": "「脈が とぶ、ぱたぱた する、どきどき する、心臓が 強く 打ちすぎる・速く 打ちすぎる、と 感じる ことも あります」",
+        "name": "Troubles du rythme cardiaque (arythmies)",
+        "why": "Cette page explique que, quand on les ressent, les troubles du rythme du cœur donnent une sensation de coups dans la poitrine ou d’un cœur qui s’emballe. Quand ils sont anciens, la page cite aussi l’essoufflement à l’effort, la fatigue et l’anxiété.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Arrhythmias - Symptoms(不整脈: 症状)",
-         "url": "https://www.nhlbi.nih.gov/health/arrhythmias/symptoms",
-         "kind": "quote"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Troubles du rythme cardiaque",
+         "url": "https://www.sante.fr/troubles-du-rythme-cardiaque",
+         "kind": "fact",
+         "upd": "2026-08-13"
         }
        },
        {
-        "name": "貧血(鉄欠乏性貧血)",
-        "why": "この ページには、いちばん よく ある 貧血である 鉄欠乏性貧血の 症状として、心臓の 拍動が 速い・不規則に なる、(とくに 体を 動かした ときの)息切れや 胸の 痛み、めまい、疲れ、力が 入らない などが あげられて います。",
+        "name": "Anémie",
+        "why": "Cette page cite l’anémie, comme l’hyperthyroïdie, parmi les maladies qui peuvent donner des palpitations, c’est-à-dire la sensation d’un cœur qui bat très fort. Elle indique que les palpitations s’accompagnent parfois de difficultés à respirer, de vertiges ou d’angoisse.",
         "src": {
-         "org": "米国保健福祉省 女性の健康局",
-         "title": "Iron-deficiency anemia(鉄欠乏性貧血)",
-         "url": "https://womenshealth.gov/a-z-topics/iron-deficiency-anemia",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Palpitations",
+         "url": "https://www.sante.fr/palpitations",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "お酒の影響(アルコール使用障害など)",
-        "why": "NIAAA は、アルコール使用障害を、困りごとが 起きても お酒を やめたり 控えたり しにくい 状態と 説明して います。お酒で 気分が 落ちこんだり 不安に なったり する ことや、お酒が 切れて くる ときに、落ち着かなさや どきどき、眠れなさが 出る ことも ある、と 書かれて います。",
+        "name": "Effets de l’alcool, du tabac ou du café",
+        "why": "Selon cette page, l’alcool, le tabac et le café jouent sur l’anxiété : arrêter l’alcool et le tabac, et boire moins de café, font reculer les symptômes anxieux.",
         "src": {
-         "org": "米国国立アルコール乱用・依存症研究所(NIAAA)",
-         "title": "Understanding Alcohol Use Disorder(アルコール使用障害を理解する)",
-         "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-alcohol-use-disorder",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Anxiété",
+         "url": "https://www.sante.fr/anxiete",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "不眠症",
-        "why": "「不眠症に よって、不安に なったり、気分が 落ちこんだり、いらいら しやすく なったり する ことが あります」",
+        "name": "Insomnie",
+        "why": "Cette page indique que l’anxiété et le stress sont les premières causes d’un mauvais sommeil. Elle explique aussi qu’une insomnie qui s’installe peut entraîner des troubles de l’humeur et de l’irritabilité.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Insomnia - Symptoms(不眠症: 症状)",
-         "url": "https://www.nhlbi.nih.gov/health/insomnia/symptoms",
-         "kind": "quote"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "不安症(全般性不安症・パニック症・社交不安症・恐怖症に関連する障害など)",
-        "why": "NIMH は、不安症を、ときどきの 心配や こわさ とは ちがい、不安が 消えず、いろいろな 場面で 感じられ、時間と ともに 強く なる ことも ある もの と 説明して います。暮らしに さしつかえる ことが あり、重い ときには、ふだんの 場面で 強い こわさを 感じたり、人と 会う ことを 避けたり、家から 出ようと しなく なったり する ことも ある、と 書かれて います。",
+        "name": "Troubles anxieux (trouble anxieux généralisé, trouble panique, phobie sociale, phobie spécifique)",
+        "why": "Cette page décrit plusieurs troubles anxieux : une inquiétude constante difficile à contrôler (trouble anxieux généralisé), des attaques de panique avec la peur d’en revivre une (trouble panique), une forte anxiété face au regard des autres (phobie sociale), et des peurs liées à certaines situations comme les espaces clos ou les lieux publics (phobie spécifique). Elle indique que les situations redoutées sont parfois évitées.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Anxiety Disorders(不安症)",
-         "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "うつ病",
-        "why": "NIMH は、うつ病の 症状として、悲しい・不安・むなしい 気分が 続く ことや、落ち着かない・はりつめた 感じを あげて います。人に よっては、どきどきや 胸が しめつけられる 感じ など、体の 不調として 症状が 出る ことも ある、と 書かれて います。",
+        "name": "Dépression",
+        "why": "« L’hypervigilance et les inquiétudes liées au TAG nous fatiguent souvent beaucoup, ce qui peut favoriser l’apparition d’un trouble dépressif. »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Troubles anxieux et phobies",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-anxieux-et-phobies/",
+         "kind": "quote",
+         "upd": "2026-09-24"
         }
        },
        {
-        "name": "PTSD(心的外傷後ストレス障害)",
-        "why": "NIMH は、PTSD は 危険な できごとや 心の 傷に なる できごとの あとに 起こる ことが あり、もう 危険が ないのに ストレスや こわさを 感じる ことが ある、と 説明して います。どきどきや 汗を ともなって その できごとが よみがえる ことや、はりつめて 身がまえる 感じが、症状として あげられて います。",
+        "name": "État de stress post-traumatique (ESPT)",
+        "why": "Cette page range l’état de stress post-traumatique parmi les troubles anxieux. Elle explique qu’après un événement traumatique, des souvenirs pénibles reviennent (flash-backs, cauchemars), souvent avec des sueurs ou des palpitations, et que la personne évite d’en parler ou d’y penser.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Post-Traumatic Stress Disorder(心的外傷後ストレス障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "ushc",
-       "usfindtx",
-       "ussamhsa",
-       "us211"
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
       ],
       "crisis": []
      },
      "repeat": {
-      "label": "確かめや くりかえしが やめにくい",
-      "lead": "かぎや ガス、てあらいなどを なんども たしかめたり、くりかえしたり して、やめたくても やめにくい とき。",
+      "label": "Difficile d’arrêter de vérifier ou de répéter",
+      "lead": "Quand vous vérifiez la serrure ou le gaz, vous vous lavez les mains, ou vous répétez d’autres gestes encore et encore, et qu’il est difficile d’arrêter même si vous le voulez.",
       "scenes": [
-       "家を出るとき、鍵やコンロを何度も確かめないと、安心して出かけられない。",
-       "手や体を洗う回数が増えて、やめたくてもやめられない。",
-       "同じ心配が何度も頭に浮かんで、考えるのをやめたいのにやめられない。",
-       "物の置き方や順番を決めたとおりにしないと落ち着かなくて、直したりやり直したりしてしまう。",
-       "確かめているうちに時間がたって、出発が遅れたり、約束や仕事に間に合わなかったりする。",
-       "思わず体が動いたり声が出たりして、止めようとしても止めにくい。"
+       "Quand je sors de chez moi, je dois vérifier encore et encore la serrure et le gaz avant de pouvoir partir l’esprit tranquille.",
+       "Je me lave les mains ou le corps de plus en plus souvent, et je n’arrive pas à arrêter même si je le veux.",
+       "La même inquiétude me revient sans cesse en tête, et je n’arrive pas à arrêter d’y penser alors que je le voudrais.",
+       "Si les objets ne sont pas placés ou si les choses ne sont pas faites dans l’ordre que j’ai décidé, je me sens mal à l’aise et je finis par tout remettre en place ou par tout recommencer.",
+       "Les vérifications me prennent tellement de temps que je pars en retard, ou que j’arrive en retard à mes rendez-vous ou au travail.",
+       "Mon corps bouge ou des sons sortent de ma bouche sans que je le veuille, et c’est difficile à arrêter même quand j’essaie."
       ],
       "asks": [
-       "「気にしすぎ」と決めつけずに、まず話を聞いてほしい。",
-       "確かめるのに時間がかかるので、時間に余裕を持たせてほしい。",
-       "予定や手順を変えるときは、前もって知らせてほしい。",
-       "確かめたり洗ったりしているところを、人前で指摘したり、からかったりしないでほしい。",
-       "説明や指示は、一つずつ、書いて伝えてほしい。",
-       "相談や受診の進め方は、不安に思うことを聞いたうえで、ゆっくり決めてほしい。"
+       "Ne me dites pas seulement que je m’en fais trop : écoutez-moi d’abord.",
+       "Les vérifications me prennent du temps : laissez-moi un peu de marge.",
+       "Quand le programme ou la façon de faire change, prévenez-moi à l’avance.",
+       "Ne me faites pas de remarques et ne vous moquez pas de moi devant les autres quand je vérifie ou que je me lave.",
+       "Donnez-moi les explications et les consignes une par une, par écrit.",
+       "Pour décider de la suite (consultations, soins), écoutez d’abord mes inquiétudes, et prenons le temps."
       ],
       "meyasu": {
        "has": false,
@@ -5275,440 +5653,481 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "強迫症(強迫性障害)",
-        "why": "NIMH は、強迫症を、自分では 止めにくい 考えが くり返し 浮かぶ こと、くり返しの 行い、または その 両方が、時間を とり、つらさや 暮らしの さしつかえに なる もの と 説明して います。例として、手を 洗いすぎる、物を 決まった 形に きっちり 並べる、ドアの かぎや オーブンの 火を 何度も 確かめる、が あげられて います。",
+        "name": "Trouble obsessionnel compulsif (TOC)",
+        "why": "Cette page explique que, dans le TOC, des pensées angoissantes difficiles à ignorer s’imposent, et que des gestes répétés (rituels) servent à échapper à l’anxiété. Elle cite par exemple le fait de vérifier sans cesse que les serrures ou le gaz sont bien fermés, de refaire un geste de nombreuses fois ou de ranger dans un ordre précis, et précise que ces rituels peuvent prendre plusieurs heures dans la journée et gêner le quotidien.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over(強迫症: 望まない考えやくり返しの行動に支配されるとき)",
-         "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Troubles obsessionnels compulsifs (TOC)",
+         "url": "https://www.sante.fr/troubles-obsessionnels-compulsifs-toc",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "全般性不安症",
-        "why": "健康や お金、仕事、家族の ことなどを 心配する 人は 多いが、全般性不安症の 人は、そうした ことを より ひんぱんに、または より 強く、ひどく 心配したり 緊張したり し、心配が 場面に 見合わない ときでも そう なる、と NIMH は 説明して います。症状として、ふだんの ことを 心配しすぎる ことや、心配を 自分で おさえにくい ことが あげられて います。",
+        "name": "Troubles anxieux",
+        "why": "Cette page range le TOC parmi les troubles anxieux. Elle décrit des gestes ou rituels répétés pour calmer l’angoisse ou des pensées envahissantes, comme se laver, vérifier, ranger ou compter.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Generalized Anxiety Disorder: What You Need to Know(全般性不安症: 知っておきたいこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "自閉スペクトラム症",
-        "why": "NIMH は、自閉スペクトラム症の 特徴の 一つに、限られた 興味と くり返しの 行動を あげ、同じ 行動を くり返す ことや、決まった 手順が 少し 変わる だけで 動揺する ことを 例に して います。大人では、その 症状の 一部が 不安症の 症状と 重なる ことが ある、とも 書かれて います。",
+        "name": "Troubles du spectre de l’autisme (TSA)",
+        "why": "Cette page décrit les troubles du spectre de l’autisme avec des comportements répétitifs et stricts et des intérêts restreints, à côté de difficultés dans la communication et les relations avec les autres. Elle les range parmi les troubles du neurodéveloppement.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Autism Spectrum Disorder(自閉スペクトラム症)",
-         "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
-         "kind": "summary"
-        }
-       },
-       {
-        "name": "チック障害・トゥレット症候群",
-        "why": "NINDS は、トゥレット症候群を、チックと 呼ばれる、突然の、望まない、おさえられない すばやい 動きや 声が くり返し 出る ことが ある 状態と 説明し、チック障害の なかまの 一つと して います。チックは 自分の 意思で する ものでは なく、がまん しようと すると はりつめた 感じが たまる ことが ある、とも 書かれて います。",
-        "src": {
-         "org": "米国国立神経疾患・脳卒中研究所(NINDS)",
-         "title": "Tourette Syndrome(トゥレット症候群)",
-         "url": "https://www.ninds.nih.gov/health-information/disorders/tourette-syndrome",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "usfindtx",
-       "ushc",
-       "ussamhsa"
+       "frmt",
+       "frcmp",
+       "frannuaire",
+       "frmsp",
+       "frpass"
       ],
       "crisis": []
      },
      "after": {
-      "label": "つらい できごとの あとが つづく",
-      "lead": "つらい できごとの あと、思い出したり、ねむれなかったり、気が はりつめたり する。",
+      "label": "Des difficultés qui durent après un événement pénible",
+      "lead": "Des souvenirs qui reviennent, un sommeil difficile ou une tension qui ne retombe pas après un événement pénible.",
       "scenes": [
-       "ふとしたきっかけで、つらかったときの場面や気持ちが、急によみがえってくる。",
-       "同じような怖い夢を何度も見て、ぐっすり眠れない日が多い。",
-       "いつも気が張っていて、ちょっとした物音や出来事にもびくっとしてしまう。",
-       "あのときを思い出させる場所や人、話題をできるだけ避けていて、行動が狭くなっている。",
-       "気持ちが動かなくなったように感じて、家族や友人にも、前のような気持ちを向けられない。",
-       "自分を責める気持ちが強くなったり、周りの人を信じにくくなったりしている。"
+       "Un petit détail suffit pour que la scène et ce que j’ai ressenti à ce moment-là me reviennent d’un coup.",
+       "Je fais souvent le même genre de cauchemar et, beaucoup de nuits, je n’arrive pas à dormir profondément.",
+       "Je suis tout le temps sur le qui-vive, et le moindre bruit ou imprévu me fait sursauter.",
+       "J’évite autant que je le peux les lieux, les personnes et les sujets qui me rappellent ce moment, et je fais de moins en moins de choses.",
+       "J’ai l’impression que mes émotions se sont éteintes, et je n’arrive plus à ressentir pour ma famille et mes amis ce que je ressentais avant.",
+       "Je me reproche de plus en plus de choses, ou j’ai plus de mal à faire confiance aux personnes autour de moi."
       ],
       "asks": [
-       "何があったのかを、細かく聞き出さないでほしい。話せる分だけ、私のペースで話したい。",
-       "思い出すきっかけになる音や場所、話題があるので、避けたいと言ったときは、それを認めてほしい。",
-       "急に後ろから声をかけたり、大きな音を立てたりしないでほしい。",
-       "話すのがつらいときは、書いたものを渡す形にしてほしい。",
-       "眠れない日や、疲れが残る日があることを、怠けと受け取らないでほしい。",
-       "「忘れたほうがいい」「早く元気になって」と急かさず、安心して話せる場所を用意してほしい。"
+       "Ne me demandez pas de raconter en détail ce qui s’est passé. J’aimerais en parler à mon rythme, en disant seulement ce que je peux.",
+       "Certains bruits, lieux ou sujets me ramènent à ce moment. Quand je dis que je préfère les éviter, merci de l’accepter.",
+       "Merci de ne pas m’interpeller brusquement par derrière et de ne pas faire de bruit soudain près de moi.",
+       "Quand parler est trop difficile, laissez-moi vous donner quelque chose que j’ai écrit.",
+       "Les jours où je n’ai pas pu dormir, ou quand la fatigue ne passe pas, ne le prenez pas pour de la paresse.",
+       "Ne me pressez pas avec des phrases comme « il faut tourner la page » ou « remets-toi vite ». J’ai besoin d’un endroit sûr où parler en confiance."
       ],
       "meyasu": {
-       "has": true,
-       "text": "「時間がたっても症状がよくならないときや、日々の暮らしに支障が出はじめたときは、専門家の助けを求めることが大切です」",
-       "src": {
-        "org": "米国国立精神衛生研究所(NIMH)",
-        "title": "Coping With Traumatic Events(つらいできごとへの対処)",
-        "url": "https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events",
-        "kind": "quote"
-       }
+       "has": false,
+       "text": "",
+       "src": null
       },
       "names": [
        {
-        "name": "睡眠の問題(不眠症・悪夢)",
-        "why": "つらい 体験(トラウマ)が 眠れなさに つながる ことが あり、悪夢は その できごとの 再現で ある ことが 多い、と 米国の PTSD国立センターの ページに 書かれて います。眠りの 問題が、それだけで 苦しさを 生む 病気に なる ことも ある、とも 書かれて います。",
+        "name": "Insomnie",
+        "why": "Cette page explique que l’anxiété et le stress sont les premières causes d’un mauvais sommeil, et qu’une insomnie passagère peut être liée à un événement précis. Quand l’insomnie devient durable, elle peut entraîner des troubles de l’humeur, de l’irritabilité et une baisse de la vigilance dans la journée.",
         "src": {
-         "org": "米国退役軍人省 PTSD国立センター",
-         "title": "Sleep Problems and PTSD(睡眠の問題とPTSD)",
-         "url": "https://www.ptsd.va.gov/understand/related/sleep_problems.asp",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "急性ストレス障害",
-        "why": "つらい できごとの すぐ あとに 出る ことが ある こころの 不調で、記憶が よみがえる、思い出させる ものを 避ける、そわそわして 気が はりつめる、などが ある と 米国の PTSD国立センターの ページに 書かれて います。症状は PTSD と 似て いますが 同じでは なく、症状が 続いて いる 期間の 長さでも 区別される、と 書かれて います。",
+        "name": "Réaction de stress aigu",
+        "why": "Selon cette page, un événement traumatisant peut provoquer un choc, appelé réaction de « stress aigu ». La page explique que, chez certaines personnes, cette période de stress se prolonge : on parle alors d’état de stress post-traumatique.",
         "src": {
-         "org": "米国退役軍人省 PTSD国立センター",
-         "title": "Acute Stress Disorder(急性ストレス障害)",
-         "url": "https://www.ptsd.va.gov/understand/related/acute_stress.asp",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Etat de stress post traumatique (ESPT)",
+         "url": "https://www.sante.fr/etat-de-stress-post-traumatique-espt",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "PTSD(心的外傷後ストレス障害)",
-        "why": "危険な できごとや 深刻な できごとを 体験したり 目にしたり した あとに 起こる ことが ある 状態で、その できごとの 記憶や 夢が くりかえし よみがえる、思い出させる ものを 避ける、気が はりつめる、自分や 人を 必要 以上に 責める、などが ある と NIMH の 冊子に 書かれて います。症状が、できごとの すぐ あとでは なく、あとから 出て くる ことも ある、と 書かれて います。",
+        "name": "Trouble de stress post-traumatique (TSPT)",
+        "why": "« Le traumatisme entraîne des manifestations particulières comme des cauchemars, le souvenir de l’événement qui surgit dans les pensées ou le fait de se tenir en permanence sur ses gardes. »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Post-Traumatic Stress Disorder(心的外傷後ストレス障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Trouble de stress post-traumatique",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/trouble-de-stress-post-traumatique/",
+         "kind": "quote",
+         "upd": "2026-09-15"
         }
        },
        {
-        "name": "うつ病",
-        "why": "つらい できごとを 体験した 人に、うつ病が 出る ことも ある、と NIMH の「つらい できごとへの 対処」の ページに 書かれて います。",
+        "name": "Dépression",
+        "why": "Selon cette page, des symptômes dépressifs apparaissent dans une partie des cas d’état de stress post-traumatique, à côté des troubles du sommeil, de l’irritabilité et des difficultés à se concentrer.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Coping With Traumatic Events(つらいできごとへの対処)",
-         "url": "https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Etat de stress post traumatique (ESPT)",
+         "url": "https://www.sante.fr/etat-de-stress-post-traumatique-espt",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Phobie spécifique (phobie simple, un trouble anxieux)",
+        "why": "Cette page décrit la phobie simple comme une peur excessive d’un objet ou d’une situation précise, qui peut conduire à limiter ses activités. Elle indique que les phobies simples sont souvent liées à des événements traumatisants vécus tôt dans la vie.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Phobie",
+         "url": "https://www.sante.fr/phobie-0",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        }
       ],
       "windows": [
-       "usfindtx",
-       "uspcp",
-       "ushc",
-       "ussamhsa",
-       "us211"
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
       ],
       "crisis": []
      },
      "sleep": {
-      "label": "眠りの 困りごと",
-      "lead": "ねつけない・夜中に 目が さめる・朝 おきられない・昼に とても ねむい など、ねむりの ことで 困って いる とき。",
+      "label": "Difficultés de sommeil",
+      "lead": "Du mal à s’endormir, des réveils la nuit, du mal à se lever le matin, ou une forte envie de dormir dans la journée.",
       "scenes": [
-       "布団に入っても、なかなか寝つけない。",
-       "夜中に何度も目が覚めて、朝までぐっすり眠れない。",
-       "朝、起きる時刻になっても起きられず、仕事や学校に間に合わないことが続いている。",
-       "昼間に強い眠気がきて、会議中や運転中に居眠りしそうになる。",
-       "家族から、いびきが大きいことや、寝ている間に息が止まっているようだと言われた。",
-       "夕方から夜になると、脚がむずむずして落ち着かず、眠れない。"
+       "Même une fois au lit, je n’arrive pas à m’endormir.",
+       "Je me réveille plusieurs fois dans la nuit et je ne dors jamais d’une traite jusqu’au matin.",
+       "Le matin, je n’arrive pas à me lever à l’heure, et je suis souvent en retard au travail ou en cours.",
+       "Dans la journée, j’ai de fortes envies de dormir et je manque de m’endormir en réunion ou au volant.",
+       "Mes proches me disent que je ronfle fort et que ma respiration semble s’arrêter pendant mon sommeil.",
+       "Le soir et la nuit, j’ai des sensations désagréables dans les jambes, je ne tiens pas en place et je n’arrive pas à dormir."
       ],
       "asks": [
-       "眠りの状態(寝つき・夜中に起きること・朝の起きにくさ・昼間の眠気)を、時間をかけて聞いてほしい。",
-       "飲んでいる薬や、コーヒー・お酒・たばこの習慣も含めて、原因を一緒に考えてほしい。",
-       "「気の持ちよう」と決めつけず、体の病気や気持ちの面もあわせて確かめてほしい。",
-       "寝た時刻や起きた時刻を書いたメモで伝えたいので、見てほしい。",
-       "薬を使う場合は、効き方や注意点を、わかりやすく説明してほしい。",
-       "朝が苦手なので、午後や夕方の時間で診てほしい。"
+       "Prenez le temps de m’écouter parler de mon sommeil : l’endormissement, les réveils dans la nuit, la difficulté à me lever le matin et l’envie de dormir dans la journée.",
+       "Cherchons ensemble ce qui peut jouer un rôle, y compris les médicaments que je prends et mes habitudes avec le café, l’alcool et le tabac.",
+       "Ne réduisez pas cela à « une question de volonté » : regardez aussi ma santé physique et mon moral.",
+       "J’ai noté mes heures de coucher et de lever sur une feuille (un agenda du sommeil). Merci de la regarder.",
+       "Si un médicament m’est proposé, expliquez-moi simplement comment il agit et à quoi je dois faire attention.",
+       "Le matin m’est difficile : si c’est faisable, proposez-moi un rendez-vous l’après-midi ou en fin de journée."
       ],
       "meyasu": {
-       "has": true,
-       "text": "「自分の眠りのことが気になるときは、医師に診てもらってください」",
-       "src": {
-        "org": "米国疾病予防・健康増進局(ODPHP)",
-        "title": "Get Enough Sleep(十分な睡眠をとろう)",
-        "url": "https://odphp.health.gov/myhealthfinder/healthy-living/mental-health-and-relationships/get-enough-sleep",
-        "kind": "quote"
-       }
+       "has": false,
+       "text": "",
+       "src": null
       },
       "names": [
        {
-        "name": "不眠症",
-        "why": "寝つけない、夜中に 目が 覚めて 眠れない、朝 早く 目が 覚めて しまう、眠っても 休まった 感じが しない、などが ある、よく ある 睡眠の 病気だと、米国保健福祉省 女性の健康局の ページに 書かれて います。長く つづくと、仕事や 学校に 行く ことや 日々の ことが しにくく なる、とも 書かれて います。",
+        "name": "Insomnie",
+        "why": "Cette page explique qu’il existe plusieurs formes d’insomnie : difficultés à s’endormir, réveils pendant la nuit ou sommeil qui ne repose pas. Elle cite parmi les facteurs en cause la lumière, les écrans utilisés tard, le sport pratiqué tard et la prise de certains médicaments.",
         "src": {
-         "org": "米国保健福祉省 女性の健康局",
-         "title": "Insomnia(不眠症)",
-         "url": "https://womenshealth.gov/a-z-topics/insomnia",
-         "kind": "summary"
+         "org": "Inserm",
+         "title": "Sommeil",
+         "url": "https://www.inserm.fr/dossier/sommeil/",
+         "kind": "fact",
+         "upd": "2024-11-08"
         }
        },
        {
-        "name": "睡眠時無呼吸症候群",
-        "why": "「睡眠時無呼吸は、眠って いる あいだに 呼吸が 止まっては また 始まる ことを 何度も くりかえす、よく ある 状態です」",
+        "name": "Apnée du sommeil (syndrome d’apnées-hypopnées obstructives du sommeil)",
+        "why": "Selon cette page, dans l’apnée du sommeil, la respiration s’arrête ou diminue pendant quelques secondes, ce qui provoque de courts réveils dont la personne n’a pas forcément conscience. Les personnes concernées ronflent souvent fort, sont fatiguées le matin et ont de fortes envies de dormir dans la journée.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Sleep Apnea(睡眠時無呼吸)",
-         "url": "https://www.nhlbi.nih.gov/health/sleep-apnea",
-         "kind": "quote"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Apnée du sommeil (SAOS)",
+         "url": "https://www.sante.fr/apnee-du-sommeil-saos",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "むずむず脚症候群(レストレスレッグス症候群)",
-        "why": "じっと 休んで 眠ろうと すると 起こる 睡眠の 病気で、脚に 不快な 感じが 出て、動かしたくて たまらなく なる、と NINDS の ページに 書かれて います。夕方から 夜に 出る ことが 多く、寝つきにくく なったり、目が 覚めた あと 眠りに もどりにくく なったり する、と 書かれて います。",
+        "name": "Syndrome des jambes sans repos (impatiences)",
+        "why": "Cette page présente ce syndrome comme l’une des causes des troubles du sommeil : un besoin pressant de bouger les jambes, avec des fourmillements ou des picotements, surtout au repos, au lit, et plus fort le soir et la nuit.",
         "src": {
-         "org": "米国国立神経疾患・脳卒中研究所(NINDS)",
-         "title": "Restless Legs Syndrome(むずむず脚症候群)",
-         "url": "https://www.ninds.nih.gov/health-information/disorders/restless-legs-syndrome",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Syndrome des jambes sans repos (impatiences)",
+         "url": "https://www.sante.fr/syndrome-des-jambes-sans-repos-impatiences-0",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "概日リズム睡眠・覚醒障害(体内時計のずれ)",
-        "why": "「概日リズム障害(睡眠・覚醒の サイクルの 障害とも いう)は、いつ 眠り、いつ 起きるかを 知らせる 体内時計が、まわりの 環境と ずれて しまう ときに 起こる 問題です」",
+        "name": "Troubles du rythme circadien (horloge biologique)",
+        "why": "Selon cette page, ces troubles viennent d’un dérèglement de l’horloge biologique. Par exemple, avec un retard de phase, on n’a pas sommeil avant une heure avancée de la nuit.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Circadian Rhythm Disorders(概日リズム障害)",
-         "url": "https://www.nhlbi.nih.gov/health/circadian-rhythm-disorders",
-         "kind": "quote"
+         "org": "Inserm",
+         "title": "Sommeil",
+         "url": "https://www.inserm.fr/dossier/sommeil/",
+         "kind": "fact",
+         "upd": "2024-11-08"
         }
        },
        {
-        "name": "睡眠不足(眠りが足りない状態)",
-        "why": "「睡眠不足は、仕事や 学校、車の 運転、人との かかわりに さしさわる ことが あります」",
+        "name": "Narcolepsie",
+        "why": "Cette page décrit la narcolepsie comme un trouble du sommeil rare : de fortes envies de dormir surviennent pendant la journée, au travail ou même en conduisant, et l’endormissement peut arriver brusquement.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Sleep Deprivation and Deficiency(睡眠不足)",
-         "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation",
-         "kind": "quote"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Narcolepsie-cataplexie Hypersomnie",
+         "url": "https://www.sante.fr/narcolepsie-cataplexie-hypersomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "ナルコレプシー",
-        "why": "眠りと 目覚めを 調整する 脳の 働きに かかわる、長く つづく 神経の 病気だと NINDS の ページに 書かれて います。夜に 十分 眠っても よく ならない 強い 眠気が 昼間に 出て、その 眠気は 急に 来る ことが ある、と 書かれて います。",
+        "name": "Insomnie liée à une cause physique (douleurs, hormones, ménopause)",
+        "why": "« Dans certaines insomnies, c’est le corps qui compromet la qualité du sommeil. Il existe une cause physiologique que l’on peut identifier et sur laquelle on peut ensuite intervenir, par exemple des dérèglements hormonaux, des douleurs ou encore la ménopause. »",
         "src": {
-         "org": "米国国立神経疾患・脳卒中研究所(NINDS)",
-         "title": "Narcolepsy(ナルコレプシー)",
-         "url": "https://www.ninds.nih.gov/health-information/disorders/narcolepsy",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Quand le sommeil s'en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "quote",
+         "upd": "2026-09-16"
         }
        },
        {
-        "name": "体の病気・痛み・薬・カフェイン・ニコチン・お酒に伴う眠りの問題",
-        "why": "この ページには、寝つきにくく したり、眠りを 保ちにくく したり する ものとして、痛み、胸やけや ぜんそく などの 体の 病気、一部の 薬、カフェイン、お酒や ほかの 薬物が 挙げられて います。たばこの ニコチンも 眠りを さまたげる、と 書かれて います。",
+        "name": "Excès de caféine ou d’alcool",
+        "why": "Cette page cite les excès de caféine ou d’alcool parmi les problèmes qui peuvent provoquer des troubles du sommeil. Elle indique aussi que l’alcool le soir désorganise le sommeil et provoque des réveils dans la nuit.",
         "src": {
-         "org": "米国疾病予防・健康増進局(ODPHP)",
-         "title": "Get Enough Sleep(十分な睡眠をとろう)",
-         "url": "https://odphp.health.gov/myhealthfinder/healthy-living/mental-health-and-relationships/get-enough-sleep",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "うつ病",
-        "why": "NIMH の 冊子では、うつ病は ふつうは 過ぎて いく 気分の 落ちこみとは ちがう もの と 説明され、よく ある 症状に、眠れない、朝 早く 目が 覚める、眠りすぎる、が 挙げられて います。眠る・食べる・働く など 日々の ことに 影響する ことが ある、とも 書かれて います。",
+        "name": "Dépression",
+        "why": "Cette page indique qu’une insomnie peut aussi être liée à une autre maladie psychique. Elle cite la dépression, où les réveils au milieu ou à la fin de la nuit sont typiques.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "ushc",
-       "usfindtx"
+       "frmt",
+       "frannuaire",
+       "frcmp",
+       "frpass"
       ],
       "crisis": []
      },
      "eating": {
-      "label": "食べることの 困りごと",
-      "lead": "食べられない・食べすぎる・食べるのが こわい など、食事の ことで 困って いる とき。",
+      "label": "Difficultés avec l’alimentation",
+      "lead": "Quand manger est difficile : vous ne pouvez pas manger beaucoup, vous ne pouvez pas vous arrêter, ou manger vous fait peur.",
       "scenes": [
-       "食べたい気持ちがわかず、食べ物がのどを通りにくい日が続いている。",
-       "食べ始めると自分では止められず、食べすぎて苦しくなることがある。",
-       "気がつくと食べ物のことばかり考えていて、ほかのことに集中しにくい。",
-       "食べられるものがかなり限られていて、味やにおい、食感がつらくて避けてしまう食べ物が多い。",
-       "のどに食べ物を詰まらせたり、吐いたりしたことがきっかけで、食べるのが怖くなった。",
-       "夜、寝ぼけたような状態で食べていて、朝になると覚えていないことがある。"
+       "Je n’ai pas envie de manger, et depuis plusieurs jours la nourriture a du mal à passer.",
+       "Une fois que je commence à manger, je n’arrive plus à m’arrêter, et il m’arrive de manger jusqu’à avoir mal.",
+       "Sans m’en rendre compte, je ne pense plus qu’à la nourriture, et j’ai du mal à me concentrer sur autre chose.",
+       "Je ne peux manger que peu d’aliments, et j’en évite beaucoup à cause de leur goût, de leur odeur ou de leur texture.",
+       "Après avoir failli m’étouffer avec un aliment, ou après avoir vomi, j’ai commencé à avoir peur de manger.",
+       "La nuit, il m’arrive de manger à moitié endormi(e), et le matin je ne m’en souviens pas."
       ],
       "asks": [
-       "体型や見た目について、コメントしないでほしい。",
-       "無理に食べさせたり、食べるよう急かしたりしないでほしい。",
-       "みんなで一緒に食べる場面は、ほかの場所や時間を選べるようにしてほしい。",
-       "食べられるものや、苦手なにおい・食感を、先に聞いてほしい。",
-       "体の検査や診察の流れを、先に説明してほしい。",
-       "話しにくいことは、紙に書いて渡してもよいことにしてほしい。"
+       "Merci de ne faire aucune remarque sur mon corps ou mon apparence.",
+       "Ne me forcez pas à manger et ne me pressez pas pour que je mange.",
+       "Quand on mange en groupe, laissez-moi choisir un autre endroit ou un autre moment.",
+       "Demandez-moi d’abord ce que je peux manger, et quelles odeurs ou textures me sont difficiles.",
+       "Expliquez-moi à l’avance comment se passent l’examen médical et les analyses.",
+       "Ce qui est difficile à dire à voix haute, laissez-moi vous le donner par écrit."
       ],
       "meyasu": {
-       "has": true,
-       "text": "「食べ方やこころの健康について気になることがあるときは、かかりつけの医師などの医療者に相談してください」",
-       "src": {
-        "org": "米国国立精神衛生研究所(NIMH)",
-        "title": "Eating Disorders: What You Need to Know(摂食障害について知っておきたいこと)",
-        "url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
-        "kind": "quote"
-       }
+       "has": false,
+       "text": "",
+       "src": null
       },
       "names": [
        {
-        "name": "体の病気(体重が減る原因になるほかの病気)",
-        "why": "体重が 大きく 減る 原因に なる ほかの 体の 病気が ないかを、医師が 診察や 血液・尿の 検査で 確かめる、と 米国保健福祉省 女性の健康局の 神経性やせ症の ページに 書かれて います。",
+        "name": "Maladie physique (maladie chronique, problèmes de dents ou de bouche…)",
+        "why": "Selon cette page, une perte d’appétit peut avoir des raisons physiques, comme les douleurs liées à une maladie chronique ou des problèmes bucco-dentaires. Elle indique aussi que la dénutrition est, le plus souvent, la conséquence d’une maladie.",
         "src": {
-         "org": "米国保健福祉省 女性の健康局",
-         "title": "Anorexia nervosa(神経性やせ症)",
-         "url": "https://womenshealth.gov/mental-health/mental-health-conditions/eating-disorders/anorexia-nervosa",
-         "kind": "summary"
+         "org": "Santé.fr (Assurance Maladie)",
+         "title": "4e édition de la Semaine nationale de la dénutrition pour lutter contre cette maladie méconnue",
+         "url": "https://www.sante.fr/4e-edition-de-la-semaine-nationale-de-la-denutrition-pour-lutter-contre-cette-maladie-meconnue",
+         "kind": "fact",
+         "upd": "2023-11-09"
         }
        },
        {
-        "name": "摂食障害(神経性やせ症・神経性過食症・過食性障害)",
-        "why": "体重が 増える ことへの 強い こわさから 食べる 量を きびしく 制限する、くりかえし 食べる ことを 自分で 止められなく なり とても 多く 食べる、などの 食べ方の 大きな 乱れが ある 深刻な 病気だと、NIMH の 冊子に 書かれて います。本人が 選んで そう なる ものでは なく、体と こころの 両方に 影響する、と 書かれて います。",
+        "name": "Troubles des conduites alimentaires (anorexie mentale, boulimie, frénésie alimentaire)",
+        "why": "« Les troubles des conduites alimentaires, ou TCA, sont également appelés troubles des comportements alimentaires. Il en existe trois : l’anorexie, la boulimie et la frénésie alimentaire, appelée auparavant hyperphagie boulimique. »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Eating Disorders: What You Need to Know(摂食障害について知っておきたいこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Troubles des conduites alimentaires (TCA)",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-des-conduites-alimentaires-tca/",
+         "kind": "quote",
+         "upd": "2026-09-07"
         }
        },
        {
-        "name": "回避・制限性食物摂取症(ARFID)",
-        "why": "食べた ときに のどに つまらせる、吐く などの ことが 起きる 不安や こわさ、または 見た目や 食感が いやな ことから、食べる 量や 種類が 少なく なる 状態だと、NIMH の 冊子に 書かれて います。よく ある 摂食障害の ひとつとして 挙げられて います。",
+        "name": "Trouble de l’apport alimentaire évitant-restrictif (ARFID)",
+        "why": "« Ils comprennent le trouble de l’apport alimentaire évitant-restrictif ou ARFID, la personne étant très sélective dans ce qu’elle mange ; le Pica, dans lequel la personne peut manger des substances non comestibles, comme de la terre ou de la craie ; le trouble de rumination-régurgitation, dans lequel la personne régurgite et remâche les aliments. »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Eating Disorders: What You Need to Know(摂食障害について知っておきたいこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/eating-disorders",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Troubles des conduites alimentaires (TCA)",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-des-conduites-alimentaires-tca/",
+         "kind": "quote",
+         "upd": "2026-09-07"
         }
        },
        {
-        "name": "うつ病",
-        "why": "食欲の 変化や、思いがけない 体重の 変化が、うつ病の よく ある 症状として NIMH の 冊子に 挙げられて います。眠る・食べる・働く など 日々の ことに 影響する ことが ある、とも 書かれて います。",
+        "name": "Dépression",
+        "why": "Cette page indique qu’une perte d’appétit peut aussi avoir des raisons psychologiques, comme l’isolement ou la dépression.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "Santé.fr (Assurance Maladie)",
+         "title": "4e édition de la Semaine nationale de la dénutrition pour lutter contre cette maladie méconnue",
+         "url": "https://www.sante.fr/4e-edition-de-la-semaine-nationale-de-la-denutrition-pour-lutter-contre-cette-maladie-meconnue",
+         "kind": "fact",
+         "upd": "2023-11-09"
+        }
+       },
+       {
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Cette page explique que les difficultés avec l’alimentation sont fréquentes chez les personnes avec autisme : un choix d’aliments très limité, le refus de certaines textures, couleurs ou odeurs, des rituels autour des repas, ou le stress des repas en groupe. Elle indique qu’elles sont souvent liées à des particularités sensorielles et à un fort besoin de prévisibilité.",
+        "src": {
+         "org": "Maison de l’autisme",
+         "title": "Particularités alimentaires chez les personnes avec autisme",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/particularites-alimentaires-autisme/",
+         "kind": "fact",
+         "upd": "none"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "useat",
-       "ushc",
-       "usfindtx"
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
       ],
       "crisis": []
      },
      "habit": {
-      "label": "お酒・ギャンブル・ゲームが やめにくい",
-      "lead": "やめたい・へらしたいのに、つい つづけて しまう ときに",
+      "label": "Difficile d’arrêter l’alcool, les jeux d’argent ou les jeux vidéo",
+      "lead": "Quand vous voulez arrêter ou réduire, mais que vous continuez quand même.",
       "scenes": [
-       "やめよう、減らそうと決めても、気づくとまた続けている。",
-       "「今日はここまで」と決めた時間や量やお金を、守れない。",
-       "お酒やゲーム、ギャンブルのことを、身近な人に隠したり、ごまかしたりしてしまう。",
-       "ゲームの夜ふかしが続いて、朝起きられず、遅刻や欠席が増えた。",
-       "負けた分を取り戻したくて、また賭けてしまう。",
-       "体の調子が悪いと分かっていても、お酒を減らせない。"
+       "J’ai décidé d’arrêter ou de réduire, mais je me rends compte que je continue quand même.",
+       "Je n’arrive pas à m’en tenir au temps, à la quantité ou à l’argent que je m’étais fixés pour la journée.",
+       "Il m’arrive de cacher à mes proches ce que je bois, mes jeux vidéo ou mes jeux d’argent, ou d’arranger la vérité.",
+       "Je joue tard le soir aux jeux vidéo, j’ai du mal à me lever le matin, et les retards ou les absences se multiplient.",
+       "Quand je perds, je veux récupérer l’argent perdu, alors je mise de nouveau.",
+       "Même en sachant que ma santé physique n’est pas bonne, je n’arrive pas à boire moins."
       ],
       "asks": [
-       "責めたり決めつけたりせずに、まず話を聞いてほしい",
-       "いまの使い方や困りごとを、順番に一緒に整理してほしい",
-       "眠りや体の調子も、あわせて確かめてほしい",
-       "相談できる窓口や、通える場所を具体的に教えてほしい",
-       "家族や身近な人が、一緒に相談できるかどうかも教えてほしい",
-       "話した内容を、誰にどこまで伝えるか、先に確かめてほしい"
+       "J’aimerais que vous m’écoutiez d’abord, sans me faire de reproches ni me juger.",
+       "J’aimerais faire le point avec vous, étape par étape, sur mes habitudes et sur les difficultés qu’elles me causent.",
+       "Merci de regarder aussi mon sommeil et ma santé physique.",
+       "Pouvez-vous m’indiquer concrètement où demander de l’aide et où je peux me rendre ?",
+       "Pouvez-vous me dire si un membre de ma famille ou un proche peut venir en parler avec moi ?",
+       "Avant de commencer, pouvez-vous me dire à qui vous transmettrez ce que je vous confie, et jusqu’où ?"
       ],
       "meyasu": {
-       "has": true,
-       "text": "「ギャンブルの ことで 心配が あるなら、助けを 求めて ください」",
-       "src": {
-        "org": "MedlinePlus(米国国立医学図書館)",
-        "title": "Compulsive Gambling(強迫的なギャンブル)",
-        "url": "https://medlineplus.gov/compulsivegambling.html",
-        "kind": "quote"
-       }
+       "has": false,
+       "text": "",
+       "src": null
       },
       "names": [
        {
-        "name": "不眠症",
-        "why": "「カフェイン、たばこ、お酒 などの 物質も、原因に なる ことが あります」",
+        "name": "Insomnie",
+        "why": "Selon cette page, boire trop d’alcool fait partie de ce qui peut perturber le sommeil : pris le soir, l’alcool dérègle les nuits et entraîne des réveils. Quand l’alcool pose problème, le sommeil peut donc aussi être abordé.",
         "src": {
-         "org": "MedlinePlus(米国国立医学図書館)",
-         "title": "Insomnia(不眠症)",
-         "url": "https://medlineplus.gov/insomnia.html",
-         "kind": "quote"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "アルコール使用障害(アルコール依存症)",
-        "why": "NIAAA は、アルコール使用障害を、人づきあいや 仕事、健康に 困りごとが 出ていても、お酒を やめたり 量を おさえたり する 力が うまく はたらかなく なる 医学的な 状態と 説明して います。一部の 人が アルコール依存症と 呼ぶ ものも、この 名前に ふくまれる と 書かれて います。",
+        "name": "Alcoolodépendance (addiction à l’alcool)",
+        "why": "Cette page présente l’alcoolodépendance comme une addiction qui abîme la santé, les relations et la vie affective. Elle décrit une gradation continue, de l’abstinence jusqu’à la dépendance. Elle parle aussi de la difficulté à maîtriser le moment où l’on commence, celui où l’on s’arrête et la quantité bue, et du manque qui peut se faire sentir quand on boit moins ou plus du tout.",
         "src": {
-         "org": "米国国立アルコール乱用・依存症研究所(NIAAA)",
-         "title": "Understanding Alcohol Use Disorder(アルコール使用障害を知る)",
-         "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-alcohol-use-disorder",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Alcoolodépendance",
+         "url": "https://www.sante.fr/alcoolodependance",
+         "kind": "fact",
+         "upd": "2026-08-13"
         }
        },
        {
-        "name": "うつ病",
-        "why": "NIMH は、うつ病で 起こる ことが ある 行動の 変化として、お酒や 薬物の 使用が 増える ことや、衝動的に なる ことを 挙げて います。よく ある 症状として、悲しい・むなしい 気分が 続く ことや、眠りの 困りごとも 挙げて います。",
+        "name": "Trouble du jeu d’argent (addiction aux jeux de hasard et d’argent)",
+        "why": "Selon cette page d’une agence régionale de santé, dans une addiction sans substance, on n’arrive plus à garder le contrôle sur une activité. Elle précise que l’addiction aux jeux de hasard et d’argent, appelée trouble du jeu d’argent, est l’une des deux à avoir aujourd’hui une définition clinique précise.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "Agence régionale de santé Hauts-de-France",
+         "title": "Addictions sans substances /comportementales : quel impact en région ?",
+         "url": "https://www.hauts-de-france.ars.sante.fr/addictions-sans-substances-comportementales-quel-impact-en-region",
+         "kind": "fact",
+         "upd": "2025-10-27"
         }
        },
        {
-        "name": "双極性障害(躁うつ病)",
-        "why": "NIMH は、躁状態の 症状として、食べる こと・飲む こと・ほかの 楽しい ことへの 欲が 強く なりすぎる ことを 挙げて います。双極性障害の ある 人の 多くが、薬物や お酒の 使いすぎ など、ほかの 状態も あわせて 持つ とも 書かれて います。",
+        "name": "Trouble du jeu vidéo",
+        "why": "La page d’une agence régionale de santé indique que le fait de ne plus contrôler sa pratique des jeux vidéo porte un nom : le trouble du jeu vidéo. Elle décrit un jeu qui prend peu à peu une grande place dans la vie de tous les jours et passe avant les autres centres d’intérêt, même quand il entraîne des difficultés.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Bipolar Disorder(双極性障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
-         "kind": "summary"
+         "org": "Agence régionale de santé Bretagne",
+         "title": "Addictions sans substances/ comportementales",
+         "url": "https://www.bretagne.ars.sante.fr/addictions-sans-substances-comportementales-0",
+         "kind": "fact",
+         "upd": "2026-09-17"
         }
        },
        {
-        "name": "注意欠如・多動症(ADHD)",
-        "why": "NIAAA は、アルコール使用障害と あわせて 起こる こころの 状態として、うつ病や 心的外傷後ストレス障害と ならんで、注意欠如・多動症を 挙げて います。",
+        "name": "Dépression",
+        "why": "Cette page explique que l’alcool et la dépression peuvent s’entretenir l’un l’autre : boire beaucoup peut nourrir l’anxiété et la dépression, et, à l’inverse, une personne stressée ou en dépression peut avoir envie de boire pour tenter d’aller mieux.",
         "src": {
-         "org": "米国国立アルコール乱用・依存症研究所(NIAAA)",
-         "title": "Understanding Alcohol Use Disorder(アルコール使用障害を知る)",
-         "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-alcohol-use-disorder",
-         "kind": "summary"
+         "org": "Santé.fr (Santé publique France - Alcool Info Service)",
+         "title": "Les effets de la consommation d'alcool sur votre santé",
+         "url": "https://www.sante.fr/les-effets-de-la-consommation-dalcool-sur-votre-sante",
+         "kind": "fact",
+         "upd": "2024-04-11"
+        }
+       },
+       {
+        "name": "Troubles bipolaires",
+        "why": "« Ils sont souvent associés à des troubles anxieux et à des comportements addictifs, selon l’étude publiée en 2018 dans la revue Therapeutic Advances in Psychopharmacology. »",
+        "src": {
+         "org": "© Psycom",
+         "title": "Troubles bipolaires",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-bipolaires/",
+         "kind": "quote",
+         "upd": "2026-09-15"
+        }
+       },
+       {
+        "name": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "why": "Selon la page d’une agence régionale de santé, une addiction comportementale (jeux d’argent, jeux vidéo) s’accompagne souvent d’autres troubles psychiques ; le TDAH fait partie de ceux qu’elle cite.",
+        "src": {
+         "org": "Agence régionale de santé Bretagne",
+         "title": "Addictions sans substances/ comportementales",
+         "url": "https://www.bretagne.ars.sante.fr/addictions-sans-substances-comportementales-0",
+         "kind": "fact",
+         "upd": "2026-09-17"
         }
        }
       ],
       "windows": [
-       "ussamhsa",
-       "usfindtx",
-       "usniaaa",
-       "uspcp",
-       "ushc",
-       "us211"
+       "frais",
+       "frjis",
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frpass"
       ],
       "crisis": []
      },
      "attention": {
-      "label": "注意・段取りの 困りごと",
-      "lead": "集中が つづかない・順番に すすめにくい・わすれものが おおい、など。",
+      "label": "Difficultés d’attention et d’organisation",
+      "lead": "Du mal à se concentrer, à avancer étape par étape, ou à se souvenir des choses.",
       "scenes": [
-       "人の話を聞いていても、いつのまにか別のことを考えている。",
-       "仕事や家事を順番どおりに進められず、期限に間に合わなくなる。",
-       "頼まれたことや約束を後で思い出せなかったり、物をなくしたりすることが多い。",
-       "同じ作業を続けていると、うっかりミスが増える。",
-       "じっと座っていると落ち着かず、そわそわしてしまう。",
-       "忘れ物や遅刻が多いと、まわりから言われることがある。"
+       "Même quand quelqu’un me parle, mon esprit part ailleurs sans que je m’en rende compte.",
+       "Je n’arrive pas à mener mon travail ou les tâches ménagères dans l’ordre, et je dépasse les délais.",
+       "Il m’arrive souvent d’oublier ce qu’on m’a demandé ou ce que j’ai promis, ou de perdre mes affaires.",
+       "Quand je fais longtemps la même tâche, les erreurs d’inattention se multiplient.",
+       "Rester assis sans bouger m’est difficile : je m’agite et je ne tiens pas en place.",
+       "Mon entourage me dit que j’oublie souvent des choses ou que je suis souvent en retard."
       ],
       "asks": [
-       "指示は一つずつ伝えてほしい",
-       "大事なことは文字に書いて渡してほしい",
-       "期限や約束は、早めに伝えてほしい",
-       "一度にたくさん頼まず、小分けにしてほしい",
-       "気が散りにくい静かな場所で話したい",
-       "できなかったところを責めず、できたところを認めてほしい"
+       "Merci de me donner les consignes une par une.",
+       "Merci d’écrire les informations importantes et de me les remettre.",
+       "J’aimerais connaître les délais et les rendez-vous assez tôt.",
+       "Merci de ne pas me demander trop de choses à la fois et de découper les tâches en petites étapes.",
+       "J’aimerais parler dans un endroit calme, où il y a peu de distractions.",
+       "Plutôt que de me reprocher ce que je n’ai pas réussi, j’aimerais que vous reconnaissiez ce que j’ai réussi à faire."
       ],
       "meyasu": {
        "has": false,
@@ -5717,113 +6136,120 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "睡眠不足",
-        "why": "「睡眠の 不足は、学ぶ こと、集中する こと、反応する ことに 困りごとを 起こす ことが あります」",
+        "name": "Manque de sommeil",
+        "why": "« En effet, on sait qu’avec le manque de sommeil, nos capacités intellectuelles (cognitives) diminuent. »",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Sleep Deprivation and Deficiency - How Sleep Affects Your Health(睡眠不足 - 眠りが健康に与える影響)",
-         "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects",
-         "kind": "quote"
+         "org": "© Psycom",
+         "title": "Quand le sommeil s’en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "quote",
+         "upd": "2026-09-16"
         }
        },
        {
-        "name": "不眠症",
-        "why": "「不眠症は、記憶力や 集中力に 影響する ことが あります」",
+        "name": "Insomnie",
+        "why": "Selon cette page, le manque de sommeil peut avoir des conséquences comme la fatigue, l’irritabilité, des troubles de la mémoire ou des difficultés à se concentrer. Quand l’insomnie s’installe, la vigilance pendant la journée peut aussi baisser.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Insomnia - What Is Insomnia?(不眠症 - 不眠症とは)",
-         "url": "https://www.nhlbi.nih.gov/health/insomnia",
-         "kind": "quote"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "甲状腺機能亢進症(甲状腺の働きが強すぎる状態)",
-        "why": "NIDDK は、甲状腺の 働きが 強すぎる ときの 症状として、落ち着かなさ、いらいら、眠りの 困りごと、疲れやすさを 挙げ、いちばん 多い 原因は バセドウ病だと 書いて います。症状の 多くが ほかの 病気と 同じだ とも 書かれて います。",
+        "name": "Syndrome des jambes sans repos (impatiences)",
+        "why": "Cette page décrit une envie très forte de bouger les jambes, qui vient surtout quand on est au repos, par exemple assis dans un fauteuil. Selon elle, ce syndrome gêne le sommeil et peut aussi nuire à la mémoire et à la concentration.",
         "src": {
-         "org": "米国国立糖尿病・消化器・腎臓病研究所(NIDDK)",
-         "title": "Hyperthyroidism (Overactive Thyroid)(甲状腺機能亢進症)",
-         "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hyperthyroidism",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Syndrome des jambes sans repos (impatiences)",
+         "url": "https://www.sante.fr/syndrome-des-jambes-sans-repos-impatiences-0",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "うつ病",
-        "why": "NIMH は、うつ病の よく ある 症状として、集中する こと・覚える こと・決める ことの むずかしさを、疲れや 元気の なさと ならべて 挙げて います。うつ病で 起こる ことが ある 変化として、落ち着かない、張りつめた 気持ちも 挙げて います。",
+        "name": "Effets de l’alcool",
+        "why": "Selon cette page, boire beaucoup d’alcool de façon régulière peut laisser des troubles qui durent et pèsent sur la vie de tous les jours, en particulier sur la mémoire, la concentration et la capacité à prendre des décisions.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "Santé.fr (Santé publique France - Alcool Info Service)",
+         "title": "Les effets de la consommation d'alcool sur votre santé",
+         "url": "https://www.sante.fr/les-effets-de-la-consommation-dalcool-sur-votre-sante",
+         "kind": "fact",
+         "upd": "2024-04-11"
         }
        },
        {
-        "name": "不安症(全般性不安障害)",
-        "why": "NIMH は、全般性不安障害を、毎日の ことを 心配しすぎて、その 心配を おさえにくい 状態と 説明して います。症状として、落ち着かない こと、集中しにくい こと、疲れやすい ことを 挙げて います。",
+        "name": "Dépression",
+        "why": "Selon cette page, la dépression peut toucher la concentration : il devient plus difficile de rester attentif, de se souvenir des choses et de prendre des décisions.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Generalized Anxiety Disorder: What You Need to Know(全般性不安障害: 知っておきたいこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad",
-         "kind": "summary"
+         "org": "Santé publique France (Santé Mentale Info Service)",
+         "title": "Dépression : comment la reconnaître, comment agir",
+         "url": "https://www.santementale-info-service.fr/depression-comment-la-reconnaitre-comment-agir",
+         "kind": "fact",
+         "upd": "2026-06-01"
         }
        },
        {
-        "name": "双極性障害(躁うつ病)",
-        "why": "NIMH は、躁状態の 症状として、考えが 次々に わく ことや、一度に たくさんの ことが できる ように 感じる ことを、うつ状態の 症状として、集中したり 決めたり する ことの むずかしさを 挙げて います。双極性障害の ある 人の 多くが、ADHD など、ほかの 状態も あわせて 持つ とも 書かれて います。",
+        "name": "Anxiété généralisée",
+        "why": "Selon cette page, dans l’anxiété généralisée, la peur et l’inquiétude portent sur la plupart des événements de la vie, et s’accompagnent de fatigue, d’irritabilité et de difficultés à se concentrer.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Bipolar Disorder(双極性障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Anxiété",
+         "url": "https://www.sante.fr/anxiete",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "注意欠如多動症(ADHD)",
-        "why": "NIMH は、ADHD を、注意の 続きにくさや、落ち着きの なさ・衝動的な ことが 続き、家・学校・仕事 など、暮らしの いくつもの 場面で 困りごとに なる 状態と 説明して います。大人の 場合として、注意を 向けにくい こと、整理が 苦手な こと、毎日の 用事を 覚えにくい こと、物を なくす こと、じっと 座って いるのが むずかしい ことを 挙げて います。",
+        "name": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "why": "Cette page explique que le TDAH est un trouble du neurodéveloppement qui concerne aussi les adultes. Elle cite des difficultés à rester concentré ou à retenir les choses (oublis réguliers, distraction rapide), de l’impulsivité et une forte agitation, que l’on peut voir sur le lieu de travail, à la maison ou en société.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "ADHD in Adults: 4 Things to Know(大人のADHD: 知っておきたい4つのこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
-         "kind": "summary"
+         "org": "Mon Parcours Handicap",
+         "title": "Qu’est-ce que le trouble du déficit d’attention avec ou sans hyperactivité (TDAH) ?",
+         "url": "https://www.monparcourshandicap.gouv.fr/actualite/quest-ce-que-le-trouble-du-deficit-dattention-avec-ou-sans-hyperactivite-tdah",
+         "kind": "summary",
+         "upd": "2026-06-09"
         }
        },
        {
-        "name": "自閉スペクトラム症(ASD)",
-        "why": "NIMH は、大人では、自閉スペクトラム症の 症状の 一部が、ADHD や 不安症の 症状と 重なる ことが ある と 書いて います。決まった 流れが 少し 変わると 動揺する ことや、次の ことへの 切りかえが むずかしい ことも 挙げて います。",
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Selon cette page, dans le trouble du spectre de l’autisme, l’attention peut se fixer très fortement sur un centre d’intérêt, avec du mal à passer à autre chose ; la pensée peut aussi être rigide, avec un besoin de routine. Elle rappelle que certaines difficultés ressemblent à celles du TDAH sans avoir les mêmes causes.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Autism Spectrum Disorder(自閉スペクトラム症)",
-         "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
-         "kind": "summary"
+         "org": "Maison de l’autisme",
+         "title": "Autisme et TDAH : quand les troubles coexistent",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/autisme-et-tdah/",
+         "kind": "fact",
+         "upd": "none"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "ushc",
-       "usfindtx",
-       "usjan",
-       "usvr"
+       "frmt",
+       "frcmp",
+       "frmdph",
+       "frpass"
       ],
       "crisis": []
      },
      "social": {
-      "label": "人づきあい・こだわり・感覚の 困りごと",
-      "lead": "ひとと はなす ことや かかわる ことの つらさ、きまった やりかたへの こだわり、おとや ひかり・においの つらさ など。",
+      "label": "Difficultés avec les autres, habitudes fixes et sensations",
+      "lead": "Des difficultés à parler ou à être avec les autres, un fort besoin de faire les choses d’une certaine façon, ou des sons, des lumières et des odeurs difficiles à supporter.",
       "scenes": [
-       "会話の相手の気持ちや、その場の空気がつかみにくく、話がかみ合わないと感じる。",
-       "人前で話したり、人の目が集まったりする場面で強く緊張して、その場を避けてしまう。",
-       "親しい人とは話せるのに、そうでない相手の前では声が出なくなる。",
-       "決めたやり方や順番、物の置き方が変わると、強く不安になる。",
-       "音や光、においなどが強く感じられて、人の多い場所がつらい。",
-       "人の話が聞き取りにくかったり、気持ちが沈んだりして、人と会うのも話すのもつらくなっている。"
+       "Dans une conversation, j’ai du mal à saisir ce que ressent l’autre ou l’ambiance du moment, et j’ai l’impression qu’on ne se comprend pas.",
+       "Quand je dois parler devant des gens ou que les regards se tournent vers moi, la tension est très forte et j’évite ces situations.",
+       "J’arrive à parler avec mes proches, mais devant d’autres personnes, ma voix ne sort plus.",
+       "Quand ma façon de faire, l’ordre des étapes ou la place des objets changent, cela m’angoisse beaucoup.",
+       "Les bruits, les lumières ou les odeurs me paraissent très forts, et les endroits où il y a du monde sont pénibles pour moi.",
+       "J’ai du mal à entendre ce que disent les gens, ou j’ai le moral bas, et voir les autres ou leur parler est devenu difficile."
       ],
       "asks": [
-       "ゆっくり、はっきり話してほしい",
-       "大事なことは、書いて伝えてほしい",
-       "静かな場所で話したい",
-       "予定ややり方を変えるときは、先に知らせてほしい",
-       "答えを急がせず、待ってほしい",
-       "話す代わりに、文字やメモで答えさせてほしい"
+       "Merci de parler lentement et clairement.",
+       "Merci de m’écrire les choses importantes.",
+       "J’aimerais parler dans un endroit calme.",
+       "Si le programme ou la façon de faire change, merci de me le dire à l’avance.",
+       "Laissez-moi le temps de répondre, sans me presser.",
+       "J’aimerais pouvoir répondre par écrit ou avec un petit mot, au lieu de parler."
       ],
       "meyasu": {
        "has": false,
@@ -5832,83 +6258,89 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "難聴(聞こえにくさ)",
-        "why": "NIA は、難聴は 大きな 音、年を とる こと、病気、遺伝の ちがい などから 起こり、聞こえにくいと、友だちや 家族との 会話が むずかしく なる ことが ある と 説明して います。よく 聞こえない 高齢の 人が、気分が 落ちこんだり、人から 離れたり する ことが ある とも 書かれて います。",
+        "name": "Baisse de l’audition",
+        "why": "Selon cette page, quand on entend moins bien, échanger avec les autres devient plus compliqué, ce qui peut conduire à s’isoler et à perdre confiance en soi. Elle cite aussi l’irritabilité.",
         "src": {
-         "org": "米国国立老化研究所(NIA)",
-         "title": "Hearing Loss: A Common Problem for Older Adults(難聴: 高齢の人によくある問題)",
-         "url": "https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults",
-         "kind": "summary"
+         "org": "Santé.fr (Santé Publique France - Pour Bien vieillir)",
+         "title": "Pour bien vieillir : Prendre soin de votre audition pour bien vieillir",
+         "url": "https://www.sante.fr/pour-bien-vieillir-prendre-soin-de-votre-audition-pour-bien-vieillir",
+         "kind": "fact",
+         "upd": "2025-01-06"
         }
        },
        {
-        "name": "うつ病",
-        "why": "NIMH は、うつ病で 起こる ことが ある 変化として、人と かかわらなく なる ことや、家族や 友だちから 離れて 一人に なる ことを 挙げて います。よく ある 症状として、趣味や 活動への 興味や 楽しみが なくなる ことも 挙げて います。",
+        "name": "Dépression",
+        "why": "Selon cette page, la dépression peut peser sur les liens avec la famille, les amis ou les collègues, et faire diminuer les activités de tous les jours. Elle décrit aussi une personne qui semble triste, fatiguée, en retrait, et qui délaisse ce qu’elle aimait.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "Santé publique France (Santé Mentale Info Service)",
+         "title": "Dépression : comment la reconnaître, comment agir",
+         "url": "https://www.santementale-info-service.fr/depression-comment-la-reconnaitre-comment-agir",
+         "kind": "fact",
+         "upd": "2026-06-01"
         }
        },
        {
-        "name": "社交不安症",
-        "why": "NIMH は、社交不安症を、人前で 話す ときや 初めての 人に 会う とき など、人から じっと 見られる かもしれない 場面で、不安や 恐れが 出る 状態と 説明して います。そうした 場所や 集まりを 避けたり、とても 小さな 声で 話したり、話したいと 思って いても 人と 話しにくかったり する ことが ある と 書かれて います。",
+        "name": "Trouble d’anxiété sociale (phobie sociale)",
+        "why": "« Nous avons généralement peur d’être jugés négativement par les autres, de commettre ce que nous pensons être des erreurs sociales (trop parler ou pas assez, dire des choses maladroites, poser des questions indésirables), de nous ridiculiser, de paraître froid, bête ou impoli. »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Social Anxiety Disorder: What You Need to Know(社交不安症: 知っておきたいこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Troubles anxieux et phobies",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-anxieux-et-phobies/",
+         "kind": "quote",
+         "upd": "2026-09-24"
         }
        },
        {
-        "name": "強迫症(強迫性障害)",
-        "why": "NIMH は、強迫症を、おさえられずに くりかえし わく 考えや、くりかえしの 行動、または その 両方が、時間を とり、暮らしの さまたげに なる ことも ある 状態と 説明して います。よく ある 例として、物が 左右 そろって いる ことや 完ぺきに 整って いる ことを 求める 気持ちや、物を 決まった 正確な やり方で 並べる ことを 挙げて います。",
+        "name": "Troubles obsessionnels compulsifs (TOC)",
+        "why": "Cette page décrit des gestes répétés pour apaiser l’anxiété, par exemple pour mettre de l’ordre ou ranger, qui finissent par gêner la vie avec les autres et le travail. Elle indique aussi que, sans prise en charge, les TOC peuvent conduire à une phobie sociale, liée à la honte et à la peur du jugement des autres.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over(強迫症: 望まない考えやくりかえしの行動に支配されるとき)",
-         "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
-         "kind": "summary"
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Troubles obsessionnels compulsifs (TOC)",
+         "url": "https://www.sante.fr/troubles-obsessionnels-compulsifs-toc",
+         "kind": "fact",
+         "upd": "2026-08-12"
         }
        },
        {
-        "name": "自閉スペクトラム症",
-        "why": "NIMH は、自閉スペクトラム症を、人との かかわり方、やりとり、学び方、ふるまいに 影響する 状態と 説明して います。会話の やりとりの むずかしさ、決まった 流れが 少し 変わると 動揺する こと、光・音・服・温度を ほかの 人より 強く、または 弱く 感じる ことを 挙げて います。",
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Selon cette page, une personne autiste peut prendre les mots au pied de la lettre et avoir du mal avec ce qui est sous-entendu ou avec les codes sociaux. La page parle aussi d’un besoin de routines très précises, de difficultés face aux changements, et de sons, de lumières ou de textures perçus plus fort ou moins fort.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Autism Spectrum Disorder(自閉スペクトラム症)",
-         "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
-         "kind": "summary"
+         "org": "Maison de l’autisme",
+         "title": "Qu’est-ce que l’autisme ?",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/qu-est-ce-que-l-autisme/",
+         "kind": "fact",
+         "upd": "none"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "ushc",
-       "usfindtx",
-       "usjan",
-       "usvr"
+       "frmt",
+       "frtnd",
+       "frcmp",
+       "frcra",
+       "frmdph",
+       "frpass"
       ],
       "crisis": []
      },
      "reading": {
-      "label": "読み書き・計算の 困りごと",
-      "lead": "読む・書く・計算する ことが、がんばっても たいへんな とき。",
+      "label": "Difficultés pour lire, écrire ou calculer",
+      "lead": "Quand lire, écrire ou manier les chiffres reste difficile malgré les efforts.",
       "scenes": [
-       "文章を読むのに人より時間がかかり、何度も読み返してしまう。",
-       "読んでも内容が頭に入ってこず、書類や手紙の意味がつかみにくい。",
-       "単語のつづりを正しく書くのがむずかしく、書き間違いや書き忘れが多い。",
-       "字の形が整わず、書くのに時間も力もかかる。",
-       "簡単な計算や、文章で出された計算の問題でつまずく。",
-       "話したり聞いたりはできるのに、読み書きや計算になると、時間をかけても思うように進まない。"
+       "Je mets plus de temps que les autres à lire un texte, et je dois souvent le relire plusieurs fois.",
+       "Même après avoir lu, le contenu ne me rentre pas dans la tête, et j’ai du mal à comprendre ce que veulent dire les documents ou les courriers.",
+       "J’ai du mal avec l’orthographe : je fais beaucoup de fautes, ou j’oublie des lettres ou des mots en écrivant.",
+       "Mon écriture est irrégulière, et écrire me demande beaucoup de temps et d’effort.",
+       "Je bloque sur des calculs simples et sur les problèmes de calcul présentés sous forme de phrases.",
+       "Je peux parler et écouter sans difficulté, mais pour lire, écrire ou calculer, je n’avance pas comme je le voudrais, même en prenant beaucoup de temps."
       ],
       "asks": [
-       "文章は、大きな文字と広い行間で、読みやすい字体(フォント)で見せてほしい。",
-       "大事な内容は、読み上げるか、声で伝えてほしい。",
-       "書く代わりに、パソコンやスマホで入力したり、写真や録音で記録したりさせてほしい。",
-       "計算には、電卓を使わせてほしい。",
-       "読んだり書いたり計算したりする時間を、長めに取ってほしい。",
-       "一度に出す量を減らして、ひとつずつ渡してほしい。"
+       "J’aimerais que les textes me soient présentés en grands caractères, avec des lignes bien espacées.",
+       "J’aimerais que les informations importantes me soient lues à voix haute ou dites à l’oral.",
+       "J’aimerais pouvoir taper sur un ordinateur ou un téléphone, ou garder une trace en photo ou en enregistrement audio, au lieu d’écrire à la main.",
+       "J’aimerais pouvoir utiliser une calculatrice pour les calculs.",
+       "J’aimerais avoir plus de temps pour lire, écrire et calculer.",
+       "J’aimerais recevoir moins de choses à la fois, une par une."
       ],
       "meyasu": {
        "has": false,
@@ -5917,83 +6349,87 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "視覚の問題（見えにくさ）",
-        "why": "年を とると 近くが 見えにくく なる ことが あり、加齢黄斑変性 などの 目の 病気は、読む ことのような ふだんの ことに 必要な 視力を そこなう ことが ある、と 書かれて います。目の 専門家に 定期的に 目を 見て もらう ことも すすめて います。",
+        "name": "Dépression",
+        "why": "Parmi les symptômes fréquents de la dépression, cette page cite des difficultés de concentration, une lenteur dans les pensées et les actions, et une perte d’intérêt pour des activités appréciées auparavant.",
         "src": {
-         "org": "米国国立老化研究所(NIA)",
-         "title": "Aging and Your Eyes(加齢と目)",
-         "url": "https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "睡眠不足（睡眠の量や質が足りない状態）",
-        "why": "「睡眠不足は、学ぶ こと・集中する こと・反応する ことに 問題を 起こす ことが あります」",
+        "name": "Troubles spécifiques des apprentissages (dyslexie, dysorthographie, dyscalculie)",
+        "why": "Cette page explique que les troubles « dys » sont des troubles spécifiques des apprentissages qui persistent à l’âge adulte. Ils peuvent se traduire par des difficultés de lecture (dyslexie), d’expression écrite (dysorthographie) ou de calcul (dyscalculie).",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Sleep Deprivation and Deficiency - How Sleep Affects Your Health(睡眠不足と眠りの不足・眠りが健康に与える影響)",
-         "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects",
-         "kind": "quote"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "うつ病",
-        "why": "集中する こと・覚える こと・決める ことの むずかしさや、趣味や 活動への 興味や 楽しさが なくなる ことが、うつ病の よく ある 症状と して あげられて います。うつ病は、感じ方・考え方・ふだんの 生活の こなし方に 影響する ことが ある、と 書かれて います。",
+        "name": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "why": "« Il est assez fréquent qu’une personne avec un ou des troubles dys vive également avec un Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH). »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "La santé mentale avec un trouble dys",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/avec-un-trouble-du-neurodeveloppement/la-sante-mentale-avec-un-trouble-dys/",
+         "kind": "quote",
+         "upd": "2026-09-17"
         }
        },
        {
-        "name": "限局性学習症（学習障害・LD。ディスレクシアなど）",
-        "why": "学習障害は、話し言葉や 書き言葉を 理解したり 使ったり する こと、計算する こと、体の 動きを 合わせる こと、注意を 向ける ことに 影響する 障害、と 説明されて います。ディスレクシアは 読む ことの むずかしさを ふくむ 学習の 障害、ディスグラフィアは 書く ことに かかわる むずかしさ、とも 書かれて います。",
+        "name": "Trouble développemental de la coordination (dyspraxie)",
+        "why": "Cette page explique que ce trouble touche la planification et la coordination des gestes, avec des effets sur l’écriture et sur les gestes fins. Elle cite aussi la dysgraphie, une difficulté du geste d’écriture, qui devient lent, douloureux ou difficile à relire.",
         "src": {
-         "org": "米国国立神経疾患・脳卒中研究所(NINDS)",
-         "title": "Glossary of Neurological Terms(神経の用語集)",
-         "url": "https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms",
-         "kind": "summary"
+         "org": "Maison de l’autisme",
+         "title": "Troubles dys au sein des TND",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/troubles-dys/",
+         "kind": "fact",
+         "upd": "none"
         }
        },
        {
-        "name": "注意欠如・多動症（ADHD）",
-        "why": "ADHD は、注意が 続きにくい ようすか、動きすぎと 考える 前に 動いて しまう ようすか、その 両方が 続き、家・学校・仕事など 複数の 場面で 暮らしにくく なる 状態と して 書かれて います。大人では、指示どおりに 進める ことや、仕上げる ことの むずかしさに つながる ことが あげられて います。大人の ADHD に ついて 調べる ときに、記憶・計画・考える 力などを 見て、得意な ことと 苦手な こと、学習障害が 重なって いないかも 確かめる ことが ある、とも 書かれて います。",
+        "name": "Trouble du développement intellectuel (TDI)",
+        "why": "Cette page range le trouble du développement intellectuel parmi les troubles du neurodéveloppement, qui touchent des fonctions comme le raisonnement, la mémoire ou les apprentissages. Elle le décrit par une limitation des fonctions intellectuelles (raisonnement, résolution de problèmes, planification) et par des difficultés d’adaptation dans la vie quotidienne.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "ADHD in Adults: 4 Things to Know(大人のADHD・知っておきたい4つのこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "usjan",
-       "usvr",
-       "ushc",
-       "usada"
+       "frmt",
+       "frcmp",
+       "frmdph",
+       "frpass"
       ],
       "crisis": []
      },
      "wave": {
-      "label": "気分の 波が 大きい",
-      "lead": "気分が 大きく 上がったり 下がったり して、自分でも 気持ちが おいつかない ときに。",
+      "label": "Grandes variations d’humeur",
+      "lead": "Quand l’humeur monte et descend beaucoup et que vos sentiments ont du mal à suivre.",
       "scenes": [
-       "元気すぎる時期と、落ちこんで動けない時期が、入れかわる。",
-       "ほとんど寝ていないのに元気で、動き回れる時期がある。",
-       "やりたいことが次々に浮かんで、どれも途中のままになってしまう。",
-       "気が大きくなって、あとで困るほどお金を使ってしまったことがある。",
-       "ちょっとしたことでいらいらして、気持ちを抑えにくい。",
-       "気分が高ぶっているときに動いた結果、人間関係や仕事に響いたことがある。"
+       "Des périodes où j’ai beaucoup trop d’énergie alternent avec des périodes où mon moral est si bas que je n’arrive plus à bouger.",
+       "Il y a des périodes où je dors à peine, mais où j’ai beaucoup d’énergie et je bouge sans arrêt.",
+       "Les idées me viennent les unes après les autres, et tout reste à moitié fait.",
+       "Il m’est arrivé, en me sentant capable de tout, de dépenser tellement d’argent que j’ai eu des difficultés ensuite.",
+       "Je m’irrite pour un rien, et j’ai du mal à contenir ce que je ressens.",
+       "Des choses que j’ai faites quand mon humeur était très haute ont eu des conséquences sur mes relations ou sur mon travail."
       ],
       "asks": [
-       "調子がよすぎた時期のことも、あわせて聞いてほしい。",
-       "気分の上がり下がりを、時間をかけて一緒に振り返ってほしい。",
-       "お金や仕事の大きな決めごとの前に、立ち止まる声かけをしてほしい。",
-       "睡眠や薬、お酒のことも含めて、体の面からも確かめてほしい。",
-       "いつもと様子が違うと感じたら、責めずに教えてほしい。",
-       "元気なときも落ちこんでいるときも、話を最後まで聞いてほしい。"
+       "J’aimerais que vous me posiez aussi des questions sur les périodes où j’allais très bien, avec une énergie inhabituelle.",
+       "J’aimerais prendre le temps de revoir avec vous mes hauts et mes bas.",
+       "Avant une grande décision d’argent ou de travail, j’aimerais qu’on m’aide à m’arrêter et à réfléchir d’abord.",
+       "J’aimerais que l’on vérifie aussi les causes physiques, y compris le sommeil, les médicaments et l’alcool.",
+       "Si je ne suis pas comme d’habitude, j’aimerais qu’on me le dise sans me faire de reproches.",
+       "J’aimerais que l’on m’écoute jusqu’au bout, dans les périodes hautes comme dans les périodes basses."
       ],
       "meyasu": {
        "has": false,
@@ -6002,91 +6438,77 @@ window.KOMARI_DATA = {
       },
       "names": [
        {
-        "name": "甲状腺機能亢進症（バセドウ病など）",
-        "why": "甲状腺が 体に 必要な 量より 多く ホルモンを 作り、体の 多くの 働きが 速く なる 状態と して 書かれて います。症状と して、脈が 速く なったり 乱れたり する ことや 手の ふるえと ならんで、落ち着かなさ・いらいら・眠りにくさが あげられ、いちばん 多い 原因は バセドウ病だ、とも 書かれて います。",
+        "name": "Manque de sommeil",
+        "why": "« En effet, on sait qu’avec le manque de sommeil, nos capacités intellectuelles (cognitives) diminuent. Notre humeur varie davantage. »",
         "src": {
-         "org": "米国国立糖尿病・消化器・腎臓病研究所(NIDDK)",
-         "title": "Hyperthyroidism (Overactive Thyroid)(甲状腺機能亢進症)",
-         "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/hyperthyroidism",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Quand le sommeil s’en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "quote",
+         "upd": "2026-09-16"
         }
        },
        {
-        "name": "睡眠不足（睡眠の量や質が足りない状態）",
-        "why": "「睡眠不足は、人と かかわる 場面で、いらいらしたり、不機嫌に なったり、心配に なったり する ことも あります」",
+        "name": "Effets de l’arrêt de l’alcool (sevrage)",
+        "why": "Selon cette page, quand on boit de l’alcool très régulièrement, l’arrêt peut entraîner de l’anxiété, de l’irritabilité et des difficultés de sommeil. Elle ajoute que, par la suite, la tristesse ou une humeur dépressive peuvent durer.",
         "src": {
-         "org": "米国国立心臓・肺・血液研究所(NHLBI)",
-         "title": "Sleep Deprivation and Deficiency - What Are Sleep Deprivation and Deficiency?(睡眠不足とは)",
-         "url": "https://www.nhlbi.nih.gov/health/sleep-deprivation",
-         "kind": "quote"
+         "org": "Santé.fr (Santé publique France - Alcool Info Service)",
+         "title": "Sevrage : ce qu'il faut savoir pour mieux vous préparer",
+         "url": "https://www.sante.fr/sevrage-ce-quil-faut-savoir-pour-mieux-vous-preparer",
+         "kind": "fact",
+         "upd": "2024-06-14"
         }
        },
        {
-        "name": "薬や薬物の影響",
-        "why": "処方された 薬や、娯楽目的の 薬物・違法な 薬物の 影響で、気分の 症状に 似た ようすが 出たり、気分の 症状が 強く なったり する ことが ある、と 双極性障害の ページに 書かれて います。薬は、医療者に 相談せずに やめない ように、とも 書かれて います。",
+        "name": "Trouble dysphorique prémenstruel",
+        "why": "« Le syndrome prémenstruel et le syndrome dysphorique prémenstruel (SDPM). A l’approche des règles, ils peuvent se manifester de manière physique (seins douloureux, prise de poids, maux de ventre, douleur dans les reins) et psychologique (tristesse, manque d’énergie, impression de malaise, crises de larmes, irritabilité, impatience, anxiété). »",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Bipolar Disorder(双極性障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "La santé mentale des femmes",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/la-sante-mentale-des-femmes/",
+         "kind": "quote",
+         "upd": "2026-09-16"
         }
        },
        {
-        "name": "お酒の影響",
-        "why": "お酒は 脳の 中の 情報の 通り道を じゃまし、その 乱れが 気分や 行動を 変えたり、はっきり 考えにくく したり する ことが ある、と 書かれて います。",
+        "name": "Dépression",
+        "why": "Cette page range la dépression et le trouble bipolaire parmi les troubles de l’humeur. Elle décrit les troubles dépressifs par une dégradation de l’humeur qui affecte durablement la vie quotidienne, et explique que le trouble bipolaire comprend aussi des périodes de dépression : il peut passer longtemps inaperçu, surtout quand ces périodes de dépression dominent.",
         "src": {
-         "org": "米国国立アルコール乱用・依存症研究所(NIAAA)",
-         "title": "Alcohol's Effects on the Body(お酒が体に与える影響)",
-         "url": "https://www.niaaa.nih.gov/alcohols-effects-health/alcohols-effects-body",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "月経前不快気分障害（PMDD）",
-        "why": "PMS に 似た 状態で、月経が 始まる 前の 時期に 起こり、うつ・いらいら・緊張など、PMS より 強い 症状が 出る、と 書かれて います。症状と して、気分の 波や、続く いらいら・怒りが あげられ、症状の カレンダーや 日記を つける ことが 医師の 助けに なる、とも 書かれて います。",
+        "name": "Trouble bipolaire",
+        "why": "Cette page décrit le trouble bipolaire comme une alternance de périodes de dépression et de périodes dites maniaques. Pendant ces dernières, la personne peut ressentir une énergie débordante et une forte excitation, avoir moins besoin de sommeil et agir de façon impulsive, parfois avec des dépenses excessives.",
         "src": {
-         "org": "米国保健福祉省 女性の健康局",
-         "title": "Premenstrual dysphoric disorder (PMDD)(月経前不快気分障害)",
-         "url": "https://womenshealth.gov/menstrual-cycle/premenstrual-syndrome/premenstrual-dysphoric-disorder-pmdd",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        },
        {
-        "name": "うつ病",
-        "why": "だれでも 悲しく なったり 落ちこんだり する ことは あるが、うつ病は それとは ちがい、感じ方・考え方・ふだんの 生活の こなし方に 影響する ことが ある、と 書かれて います。同じ ページに、双極性障害では、うつの 時期に くわえて、ふだんより 気分が 高い・いらいらしやすい・活動が 多い 時期も ある、とも 書かれて います。",
+        "name": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "why": "Cette page décrit le TDAH par des difficultés d’attention, de l’impulsivité (réponses précipitées, difficulté à attendre son tour) et, dans certains cas, une hyperactivité, qui peut aussi être mentale. Elle précise qu’il concerne aussi les adultes.",
         "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
-        }
-       },
-       {
-        "name": "双極性障害（躁うつ病）",
-        "why": "気分の 上がり下がりは だれにでも あるが、双極性障害では その はばが とても 大きく なる ことが ある、と 書かれて います。気分が ふだんより 高かったり いらいらしやすかったり して 活動が ぐんと 増える 時期と、悲しく 希望が もてず 活動が とても 少ない 時期が あり、軽い 高まりの 時期には 本人は とても 調子が よく、はかどると 感じて いても、家族や 友人が 気分の 波を いつもと ちがう ようすと して 気づく ことが ある、とも 書かれて います。",
-        "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Bipolar Disorder(双極性障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
-         "kind": "summary"
-        }
-       },
-       {
-        "name": "注意欠如・多動症（ADHD）",
-        "why": "ADHD は、注意が 続きにくい ようすか、動きすぎと 考える 前に 動いて しまう ようすか、その 両方が 続く 状態と して 書かれて います。大人に ついては、考える 前に 動いたり 自分を 抑えにくかったり する こと、落ち着かない 気もち、先の よい ことや あとの ことより 目の 前の よい ことを 選んで しまう ことが あげられて います。ほかの こころの 病気と 重なる ことが 多い、とも 書かれて います。",
-        "src": {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "ADHD in Adults: 4 Things to Know(大人のADHD・知っておきたい4つのこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         }
        }
       ],
       "windows": [
-       "uspcp",
-       "usfindtx",
-       "ushc",
-       "ussamhsa"
+       "frmt",
+       "frcmp",
+       "frannuaire",
+       "frpass"
       ],
       "crisis": []
      }
@@ -6094,186 +6516,187 @@ window.KOMARI_DATA = {
     "common": {
      "learn": [
       {
-       "h": "名前を 知ると、ふだんの ゆらぎが 症状に 見えやすく なる ことが あります",
-       "body": "病気や 発達の 名前を 知ると、ふだんの ちょっとした 疲れや ぼんやりが、症状の しるしに 見えやすく なる ことが あります。\n気もちの 動きが 体や 気分を かえることは、気のせいでは なく、じっさいに 起こる ことです。\nねぶそくや ストレス、スマホ、まわりの 事情でも、にた ことは 起こります。\n名前を 見て「これかも」と 思っても、それだけで 決めずに、ほかの 理由も 考えて みて ください。\nつらさが 続く ときは、名前が なくても、そのまま 相談して かまいません。",
+       "h": "Connaître un nom peut faire ressembler les variations ordinaires à des symptômes",
+       "body": "Quand on apprend le nom d’une maladie ou d’un trouble du développement, une petite fatigue ou un moment d’inattention ordinaires peuvent plus facilement ressembler à un symptôme.\n\nLes émotions peuvent vraiment changer ce que l’on ressent dans son corps et dans son humeur : ce n’est pas une idée que l’on se fait, cela arrive réellement. Le manque de sommeil, le stress, le téléphone ou ce qui se passe autour de soi peuvent aussi produire des effets semblables.\n\nSi, en voyant un nom, vous pensez « c’est peut-être ça », ne vous arrêtez pas tout de suite à cette idée, et pensez aussi à d’autres raisons. Si les difficultés durent, vous pouvez en parler telles qu’elles sont, même sans nom.",
        "srcs": []
       },
       {
-       "h": "気分の 波や 確かめたい 気もちは、だれにでも あります",
-       "body": "気分の 波や、念の ために 確かめたく なる 気もちは、だれにでも あります。\n注意が 続かなかったり、落ち着かなかったり する ことも、多くの 人に ときどき あります。\nでも 名前(診断)は、困りごとの 強さや 回数、続いて いる 長さ、暮らしに どれだけ さしつかえて いるかを 合わせて、専門家が つけます。\n注意の 困りごとでは、家・学校・仕事など いくつもの 場面で 見られるかも 見ます。\nADHD など 発達に かかわる 名前では、昔の 学校の 記録など、早い ころからの ようすも 大切な 手がかりに なります。\n専門家は、体の 病気や 薬など、ほかの ことが 原因で にた 変化が 出て いないかを 確かめる ことも あります。\n困りごとが 続く ときは、名前に かかわらず、そのまま 相談して かまいません。",
+       "h": "Les variations d’humeur et l’envie de vérifier arrivent à tout le monde",
+       "body": "Il arrive à tout le monde que le moral varie au fil du temps, avec du stress, de la tristesse, de la joie ou du découragement. Une page publique française rappelle qu’il ne faut pas confondre ces variations de l’humeur avec un trouble psychique. D’après elle, ce qui fait parler de trouble, c’est une souffrance qui s’installe dans la durée et qui gêne nettement la vie de tous les jours.\n\nL’envie de vérifier une chose « au cas où » arrive aussi à chacun. Une page de Psycom l’écrit ainsi : « Tout le monde fait, à un moment ou un autre, l’expérience d’une obsession ou d’une pensée intrusive (« Est-ce que j’ai bien pensé à éteindre le four ? »). »\n\nMieux vaut ne pas se donner soi-même un nom (un diagnostic) : seul un professionnel de santé peut poser un diagnostic. Un médecin généraliste ou un psychiatre peut aussi prescrire des examens pour écarter d’autres maladies qui pourraient donner des symptômes semblables. Pour les troubles « dys », par exemple, la page « Les différents troubles » explique qu’ils apparaissent tôt dans la vie et persistent à l’âge adulte : c’est pourquoi la façon dont les choses se passaient dans les premières années peut aussi compter.\n\nSi les difficultés durent, vous pouvez en parler telles qu’elles sont, quel que soit le nom.",
        "srcs": [
         {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Bipolar Disorder(双極性障害)",
-         "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
         },
         {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over(強迫症)",
-         "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
-         "kind": "summary"
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Repérer les signaux d'alerte",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/reperer-les-signaux-d-alerte",
+         "kind": "summary",
+         "upd": "2026-02-11"
         },
         {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "ADHD in Adults: 4 Things to Know(大人のADHD・知っておきたい4つのこと)",
-         "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know",
-         "kind": "summary"
-        },
-        {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Depression(うつ病)",
-         "url": "https://www.nimh.nih.gov/health/publications/depression",
-         "kind": "summary"
+         "org": "© Psycom",
+         "title": "Le TOC et les troubles apparentés",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/le-toc-et-les-troubles-apparentes/",
+         "kind": "quote",
+         "upd": "2026-07-06"
         }
        ]
       },
       {
-       "h": "病名が なくても 相談できます",
-       "body": "病名が なくても、困りごとは そのまま 相談できます。\n米国国立精神衛生研究所(NIMH)は、気もちが つらい ときや、こころの 健康に 心配ごとが ある ときにも 助けを 得る 道が ある と 書き、かかりつけの 医療者に その 心配ごとを 話して みる ことを すすめて います。\n職場や 住まいで やり方を 変えて ほしいと 頼む ときは、「reasonable accommodation(合理的配慮)」のような 法律の 言葉は いりません。\n何が たいへんで、何を 変えて ほしいかを、ふつうの 言葉で 伝えられます。\n住まいでは、家族など ほかの 人が 代わりに 頼む ことも できます。\n法律に もとづく 配慮と して 扱って ほしい ときは、「健康上の 理由で」と 添えて ください。\n病名を 言わずに 頼み始める ことも できます。\nADA(障害の ある アメリカ人法)は 法律で、申し込んで 受ける 制度とは ちがうので、対象に なる ための 申し込みは いりません。\nどこまで できるかは 場面に よって ちがい、相手と 話し合いながら 決めて いきます。",
+       "h": "Vous pouvez parler de vos difficultés, même sans diagnostic",
+       "body": "Même sans nom de maladie, vous pouvez parler de vos difficultés telles qu’elles sont. Par exemple, toute personne concernée par des difficultés psychiques ou par des troubles du neurodéveloppement peut s’adresser au centre médico-psychologique (CMP) de son secteur : on peut y prendre rendez-vous directement, et les séances sont gratuites. Votre médecin traitant peut aussi être un premier interlocuteur.\n\nAu travail, vous pouvez demander un rendez-vous au médecin du travail (ou au médecin de prévention dans la fonction publique) à tout moment. Les salariés peuvent le contacter directement, sans demander l’accord de l’employeur, et cette demande ne peut pas être sanctionnée. Le médecin du travail et le médecin traitant sont tenus au secret professionnel : ils ne donnent à l’employeur aucune information médicale vous concernant. Le médecin du travail peut proposer à l’employeur des aménagements du poste ou du temps de travail.\n\nDans le droit du travail, l’obligation pour l’employeur de prévoir les aménagements nécessaires (on parle d’aménagement raisonnable) concerne les personnes dont le handicap est reconnu (RQTH, par exemple). Dans ce cadre, l’employeur doit prendre en compte les recommandations écrites du médecin du travail et, s’il refuse un aménagement, en expliquer les raisons. Sans reconnaissance, vous pouvez quand même demander un aménagement de poste ou d’horaires, et en parler par l’intermédiaire du médecin du travail. Déclarer une RQTH à l’employeur n’est pas obligatoire : c’est un choix personnel. En cas de refus vécu comme une discrimination, le Défenseur des droits peut être contacté.\n\nCe que vous souhaitez, et ce qui est faisable, dépend de la situation et de l’autre personne : cela se décide en en parlant ensemble.",
        "srcs": [
         {
-         "org": "米国国立精神衛生研究所(NIMH)",
-         "title": "Help for Mental Illnesses(こころの病気の助けを得るには)",
-         "url": "https://www.nimh.nih.gov/health/find-help",
-         "kind": "summary"
+         "org": "Maison de l’autisme",
+         "title": "Acteurs et organismes dans l’autisme",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/acteurs-et-organismes-autisme/",
+         "kind": "fact",
+         "upd": "none"
         },
         {
-         "org": "米国雇用機会均等委員会(EEOC)",
-         "title": "Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA(ADA の合理的配慮と過重な負担についての指針)",
-         "url": "https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada",
-         "kind": "fact"
+         "org": "Mon Parcours Handicap",
+         "title": "Compenser votre handicap dans l'emploi",
+         "url": "https://www.monparcourshandicap.gouv.fr/emploi/compenser-votre-handicap-dans-lemploi",
+         "kind": "fact",
+         "upd": "2024-10-20"
         },
         {
-         "org": "米国雇用機会均等委員会(EEOC)",
-         "title": "Depression, PTSD, & Other Mental Health Conditions in the Workplace: Your Legal Rights(職場のうつ・PTSD・こころの病気と法律上の権利)",
-         "url": "https://www.eeoc.gov/laws/guidance/depression-ptsd-other-mental-health-conditions-workplace-your-legal-rights",
-         "kind": "fact"
+         "org": "Santé.fr (Ministère du Travail)",
+         "title": "Santé au travail : visites et examens médicaux dans le cadre du travail",
+         "url": "https://www.sante.fr/sante-au-travail-visites-et-examens-medicaux-dans-le-cadre-du-travail",
+         "kind": "fact",
+         "upd": "2022-04-06"
         },
         {
-         "org": "米国司法省",
-         "title": "Joint Statement of the Department of Housing and Urban Development and the Department of Justice: Reasonable Accommodations under the Fair Housing Act(住宅都市開発省と司法省の合同声明・公正住宅法の合理的配慮)",
-         "url": "https://www.justice.gov/crt/us-department-housing-and-urban-development",
-         "kind": "summary"
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Médecine du travail pour un salarié du secteur privé",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2211",
+         "kind": "summary",
+         "upd": "2025-08-11"
         },
         {
-         "org": "米国司法省(ADA.gov)",
-         "title": "Introduction to the Americans with Disabilities Act(障害のあるアメリカ人法の紹介)",
-         "url": "https://www.ada.gov/topics/intro-to-ada/",
-         "kind": "summary"
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Handicap : travail en milieu ordinaire",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15926",
+         "kind": "summary",
+         "upd": "2026-06-01"
+        },
+        {
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Qu'est-ce que la reconnaissance de la qualité de travailleur handicapé (RQTH) ?",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1650",
+         "kind": "summary",
+         "upd": "2026-03-24"
         }
        ]
       },
       {
-       "h": "ただし、制度を 使うには 医療者の 書類が 要る ことが あります",
-       "body": "職場や 住まいで、体や こころの 状態や、必要な ことが 見て わからない ときは、書類を 求められる ことが あります。\nそのときも、求められるのは ふつう 必要な 分だけで、診療の 記録を すべて 出す ことは たいてい 求められません。\n職場では、くわしい 病名を 知られたく ない とき、状態を おおまかに 書いた 書類で 足りる ことも あります。\n大学では、自分から 学校に 申し出る 必要が あり、ふつう 書類を 出すよう 求められます。\nその 書類に 診断名が 入る ことも あります。\nSocial Security(米国社会保障局)の 障害の 制度で お金を 受け取るには、認められた 医療者からの 医学的な 証拠が 要ります。\nFMLA(家族と 医療の ための 休み)では、休みを 認める 前に、雇い主が 医療者からの 情報を 求める ことが あります。\n何が 要るかは 制度や 場面で ちがうので、手続きの 前に 窓口で 聞いて みて ください。",
+       "h": "Cependant, certains dispositifs demandent un document médical",
+       "body": "Cependant, pour utiliser certains dispositifs, un document d’un médecin est nécessaire.\n\nPour une affection de longue durée (ALD), c’est le médecin traitant qui établit avec vous un « protocole de soins » et le transmet à l’Assurance Maladie ; c’est ensuite le médecin de l’Assurance Maladie qui donne, ou non, son accord pour la prise en charge. Pour une ALD dite exonérante, les frais de santé liés à cette maladie sont alors mieux remboursés (certains frais restent toutefois à payer).\n\nPour toute demande à la maison départementale des personnes handicapées (MDPH), par exemple une RQTH ou une allocation, un certificat médical doit obligatoirement être joint. Le médecin le remplit après un examen, avec le ou les diagnostics et les répercussions sur la vie quotidienne.\n\nPour un arrêt de travail pour maladie, il faut une prescription d’un médecin. Pour recevoir le complément de salaire versé par l’employeur, le certificat médical doit aussi lui être transmis.\n\nCe qui est demandé dépend du dispositif : renseignez-vous auprès de l’organisme concerné avant de commencer les démarches.",
        "srcs": [
         {
-         "org": "米国雇用機会均等委員会(EEOC)",
-         "title": "Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA(ADA の合理的配慮と過重な負担についての指針)",
-         "url": "https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada",
-         "kind": "fact"
+         "org": "Mon Parcours Handicap",
+         "title": "Les affections de longue durée (ALD)",
+         "url": "https://www.monparcourshandicap.gouv.fr/aides/les-affections-de-longue-duree-ald",
+         "kind": "summary",
+         "upd": "2026-10-08"
         },
         {
-         "org": "米国雇用機会均等委員会(EEOC)",
-         "title": "Depression, PTSD, & Other Mental Health Conditions in the Workplace: Your Legal Rights(職場のうつ・PTSD・こころの病気と法律上の権利)",
-         "url": "https://www.eeoc.gov/laws/guidance/depression-ptsd-other-mental-health-conditions-workplace-your-legal-rights",
-         "kind": "fact"
+         "org": "Mon Parcours Handicap",
+         "title": "Certificat médical (formulaire Cerfa n° 15695*01)",
+         "url": "https://www.monparcourshandicap.gouv.fr/demarches/certificat-medical-formulaire-cerfa-ndeg-1569501",
+         "kind": "summary",
+         "upd": "2026-08-10"
         },
         {
-         "org": "米国司法省",
-         "title": "Joint Statement of the Department of Housing and Urban Development and the Department of Justice: Reasonable Accommodations under the Fair Housing Act(住宅都市開発省と司法省の合同声明・公正住宅法の合理的配慮)",
-         "url": "https://www.justice.gov/crt/us-department-housing-and-urban-development",
-         "kind": "summary"
-        },
-        {
-         "org": "米国教育省",
-         "title": "Students with Disabilities Preparing for Postsecondary Education(障害のある学生が大学などへ進む準備)",
-         "url": "https://www.ed.gov/higher-education/students-disabilities-preparing-postsecondary-education",
-         "kind": "summary"
-        },
-        {
-         "org": "米国社会保障局",
-         "title": "Disability Evaluation Under Social Security: Part II - Evidentiary Requirements(社会保障の障害の認定・第2部 証拠の要件)",
-         "url": "https://www.ssa.gov/disability/professionals/bluebook/evidentiary.htm",
-         "kind": "summary"
-        },
-        {
-         "org": "米国労働省",
-         "title": "Fact Sheet #28: The Family and Medical Leave Act(家族・医療休暇法の説明 第28号)",
-         "url": "https://www.dol.gov/agencies/whd/fact-sheets/28-fmla",
-         "kind": "summary"
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Arrêt maladie : indemnités journalières versées au salarié",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3053",
+         "kind": "summary",
+         "upd": "2026-06-01"
         }
        ]
       },
       {
        "key": "notTool",
-       "h": "病名は、だれかより 上に 立つ ための 道具では ありません",
-       "body": "病名は、だれかより 上に 立ったり、人を 下に 見たり する ための 道具では ありません。\n名前を 知って 気もちが 楽に なる 人も います。それは 大切な ことです。\nまわりの 人に わかって ほしい、やさしく して ほしいと 思うのも、自然な ことです。\n\nやさしく して ほしい ときは、病名を 言わなくても、そのまま 頼んで いいのです。\n「何に 困って いるか」と「何を して ほしいか」を 合わせて 言うと、伝わりやすく なります。\n\nたとえば、こんな 言い方が あります。\n「今日は つかれて いるので、ゆっくり 話して ほしい」\n「いっぺんに 言われると わからなく なるので、ひとつずつ 言って ほしい」\n「耳で 聞くだけだと 覚えにくいので、大事な ことは、紙や メールに 書いて ほしい」\n「人の 多い ところが 苦手なので、静かな 場所で 話したい」\n「返事に 時間が かかるので、すこし 待って ほしい」\n「いまは 気もちで いっぱいなので、まず 話を 聞いて ほしい。アドバイスは あとで いい」\n「今日は 調子が わるいので、すこし 休ませて ほしい」\n「急に 予定が 変わると あわてるので、早めに 教えて ほしい」\n「大きな 声で 言われると こわく なるので、おだやかに 話して ほしい」\n\nうまく 言えない ときは、紙に 書いて わたしても かまいません。このアプリで 困りごとを えらんで 問いに 答えると 出る「わたしの 困りごと」を、「大きく 見せる」で 見せる ことも できます。\n病名を 伝えたい ときは、伝えて かまいません。そのときも、病名と いっしょに「何に 困って いて、何を して ほしいか」を 伝えると、相手は 動きやすく なります。\n頼んでも、相手の 事情で できない ことも あります。そのときは、ほかの やり方が ないか、いっしょに 話して みて ください。\n\nこのアプリの 名前の 一覧を、まわりの 人を うたがう 材料に しないで ください。\n\n職場・住まい・学校で、法律に もとづく 決まりごとと して 頼む ときは、「健康上の 理由で」と 添えて ください。書類を 求められる ことも あります。",
+       "h": "Un nom de maladie n’est pas un outil pour se placer au-dessus des autres",
+       "body": "Un nom de maladie n’est pas un outil pour se placer au-dessus de quelqu’un, ni pour regarder les autres de haut.\nCertaines personnes se sentent plus légères quand elles apprennent un nom pour ce qu’elles vivent. C’est important.\nVouloir que les gens autour de soi comprennent, ou soient plus doux avec soi, c’est naturel aussi.\n\nQuand vous souhaitez que quelqu’un soit plus doux avec vous, vous pouvez le demander directement, sans donner de nom de maladie.\nC’est plus facile à comprendre si vous dites ensemble deux choses : ce qui vous met en difficulté, et ce que vous aimeriez que l’autre fasse.\n\nPar exemple, vous pouvez dire :\n« Aujourd’hui, j’ai peu d’énergie : pouvez-vous me parler lentement ? »\n« Quand on me dit beaucoup de choses à la fois, je m’y perds : pouvez-vous me les dire une par une ? »\n« J’ai du mal à retenir ce que j’entends seulement : pouvez-vous écrire les choses importantes, sur papier ou par e-mail ? »\n« Les endroits où il y a beaucoup de monde sont difficiles pour moi : je préfère parler dans un endroit calme. »\n« J’ai besoin d’un peu de temps pour répondre : pouvez-vous attendre un moment ? »\n« En ce moment, mes émotions prennent toute la place : pouvez-vous d’abord m’écouter ? Les conseils peuvent attendre. »\n« Aujourd’hui, je ne me sens pas bien : pouvez-vous me laisser me reposer un peu ? »\n« Les changements de programme soudains me déstabilisent : pouvez-vous me le dire dès que vous le savez ? »\n« Quand on me parle fort, j’ai peur : pouvez-vous me parler calmement ? »\n\nSi c’est difficile à dire, vous pouvez l’écrire sur un papier et le donner. Vous pouvez aussi montrer l’écran « Mes difficultés » avec le bouton « Afficher en grand » : il apparaît dans cette application quand vous choisissez une difficulté et répondez aux questions.\nSi vous souhaitez dire un nom de maladie qui vous concerne, vous pouvez le faire. Dans ce cas aussi, dire en même temps ce qui vous met en difficulté et ce que vous aimeriez que l’autre fasse l’aide à agir.\nParfois, l’autre personne ne peut pas faire ce que vous demandez, à cause de sa propre situation. Dans ce cas, essayez de chercher ensemble s’il existe une autre façon de faire.\n\nAu travail ou pendant des études supérieures, si vous souhaitez que votre demande soit étudiée dans le cadre prévu pour cela, vous pouvez en parler au médecin du travail, ou à la mission handicap de votre établissement. Dans les entreprises d’au moins 250 salariés, un référent handicap est aussi chargé d’informer et d’orienter. L’avis ou un document d’un médecin peut alors être demandé.\n\nN’utilisez pas la liste des noms de cette application pour mettre en doute les personnes autour de vous.",
        "srcs": [
         {
-         "org": "米国雇用機会均等委員会(EEOC)",
-         "title": "Depression, PTSD, & Other Mental Health Conditions in the Workplace: Your Legal Rights(職場のうつ・PTSD・こころの病気と法律上の権利)",
-         "url": "https://www.eeoc.gov/laws/guidance/depression-ptsd-other-mental-health-conditions-workplace-your-legal-rights",
-         "kind": "fact"
+         "org": "Mon Parcours Handicap",
+         "title": "Compenser votre handicap dans l'emploi",
+         "url": "https://www.monparcourshandicap.gouv.fr/emploi/compenser-votre-handicap-dans-lemploi",
+         "kind": "fact",
+         "upd": "2024-10-20"
         },
         {
-         "org": "米国司法省",
-         "title": "Joint Statement of the Department of Housing and Urban Development and the Department of Justice: Reasonable Accommodations under the Fair Housing Act(住宅都市開発省と司法省の合同声明・公正住宅法の合理的配慮)",
-         "url": "https://www.justice.gov/crt/us-department-housing-and-urban-development",
-         "kind": "summary"
+         "org": "Mon Parcours Handicap",
+         "title": "Quels sont vos droits et les obligations des établissements d’enseignement supérieur ?",
+         "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/quels-sont-vos-droits-et-les-obligations-des-etablissements-denseignement",
+         "kind": "summary",
+         "upd": "2025-12-23"
         },
         {
-         "org": "米国教育省",
-         "title": "Students with Disabilities Preparing for Postsecondary Education(障害のある学生が大学などへ進む準備)",
-         "url": "https://www.ed.gov/higher-education/students-disabilities-preparing-postsecondary-education",
-         "kind": "summary"
+         "org": "Mon Parcours Handicap",
+         "title": "Référent handicap",
+         "url": "https://www.monparcourshandicap.gouv.fr/glossaire/referent-handicap",
+         "kind": "summary",
+         "upd": "none"
         }
        ]
       },
       {
-       "h": "この アプリに ついて",
-       "body": "これは 診断では ありません。\nこの 一覧で『診断された』とは 言えません。\n医療機器でも ありません。\nそよぎは 日本の 非営利の 団体です。\nこの アプリは、アメリカ政府や その 機関(NIH・NIMH・CDC・SAMHSA・HHS など)、988 Suicide & Crisis Lifeline、医療機関と 関係が なく、推薦も 受けて いません。\n機関の 名前は、情報の 出どころを 示す ためだけに 書いて います。\n中身は、アメリカの 連邦政府の ページを もとに、そよぎが 自分の 言葉で まとめ、一部は 短く 引用して います。\nアメリカ政府の 文を もとに した 部分の 著作権を、そよぎは 主張しません。\n元の 文は 各機関の サイトで 無料で 読めます。\n訳は 便宜の ためで、正しいのは 英語の 原文です。\n出典は それぞれの 項目に のせて います。\n訳した 文に ついて 各機関が 求める 決まった 文を、英語の まま のせます。\n\"The National Institute on Alcohol Abuse and Alcoholism (NIAAA) does not endorse this translation and no endorsement by NIAAA should be inferred.\"\n(訳)米国国立アルコール乱用・依存症研究所(NIAAA)は この 訳を 推薦して おらず、推薦と 受け取らないで ください。\n\"Adapted from the National Institute on Aging, National Institutes of Health.\"\n(訳)米国国立老化研究所(NIA)・米国国立衛生研究所の 資料を もとに 手直し しました。\n\"Translated by SOYOGI from material by the National Institute on Aging, National Institutes of Health.\"\n(訳)米国国立老化研究所(NIA)・米国国立衛生研究所の 資料から、そよぎが 訳しました。\n確認日は 2026-10-17 で、番号や 時間は 変わる ことが あります。\n相談するか どうかは、アプリでは なく、あなたが 決めます。",
+       "h": "À propos de cette application",
+       "body": "Ceci n’est pas un diagnostic. Cette liste ne permet pas de dire si vous avez une maladie ou un trouble. Cette application n’est pas un dispositif médical et ne remplace pas une consultation avec un professionnel de santé.\n\nVos réponses ne sont envoyées nulle part et ne sont pas enregistrées sur cet appareil. Elles disparaissent quand vous fermez l’application.\n\nApplication indépendante. SOYOGI est une organisation japonaise à but non lucratif. Elle n’a aucun lien avec l’État français, l’Assurance Maladie, la Haute Autorité de santé, Santé publique France ni aucun établissement de santé, et n’est recommandée par aucun d’eux. Les noms des organismes indiquent seulement d’où viennent les informations. Les textes d’origine peuvent être lus gratuitement sur le site de chaque organisme.\n\nSOYOGI a rédigé ces contenus avec ses propres mots, à partir de pages publiques françaises ; les quelques passages cités tels quels sont placés entre guillemets. Les sources sont indiquées sur chaque écran, avec la date de mise à jour de chaque page. Vérification faite le 17 octobre 2026 : les numéros et les horaires peuvent changer.\n\nC’est vous, et non l’application, qui décidez de demander de l’aide ou non.",
        "srcs": []
       }
      ],
      "meyasuGeneral": {
-      "text": "「こころの健康について心配なことがあるときは、かかりつけの医療者に相談してください」",
+      "text": "Quand la souffrance psychologique devient intense et s’installe dans la durée, la santé mentale peut se dégrader : il vaut alors mieux consulter.",
       "src": {
-       "org": "米国国立精神衛生研究所(NIMH)",
-       "title": "Caring for Your Mental Health(こころの健康を大切にする)",
-       "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
-       "kind": "quote"
+       "org": "Service d’information du Gouvernement (info.gouv.fr)",
+       "title": "Les différents troubles",
+       "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+       "kind": "summary",
+       "upd": "2026-02-27"
       }
      },
      "devGeneral": [
       {
-       "text": "「あなたや身近な人に、こころの病気があるとき、気持ちがつらいとき、こころの健康に心配ごとがあるときには、助けを得る方法があります」",
+       "text": "Votre médecin traitant : « Il est votre premier interlocuteur en cas de difficulté. Demandez-lui conseil, il saura vous orienter. »",
        "src": {
-        "org": "米国国立精神衛生研究所(NIMH)",
-        "title": "Help for Mental Illnesses(こころの病気の助けを得るには)",
-        "url": "https://www.nimh.nih.gov/health/find-help",
-        "kind": "quote"
+        "org": "Mon Parcours Handicap",
+        "title": "Compenser votre handicap dans l'emploi",
+        "url": "https://www.monparcourshandicap.gouv.fr/emploi/compenser-votre-handicap-dans-lemploi",
+        "kind": "quote",
+        "upd": "2024-10-20"
        }
       },
       {
-       "text": "「かかりつけの医療者を受診する予定があるなら、こころの健康の心配ごとを話して、助けを求めてみてください」",
+       "text": "Centre médico-psychologique (CMP) : « Toute personne concernée par des troubles neurodéveloppementaux ou psychiques peut consulter ou être accueillie dans un centre médico-psychologique. »",
        "src": {
-        "org": "米国国立精神衛生研究所(NIMH)",
-        "title": "Help for Mental Illnesses(こころの病気の助けを得るには)",
-        "url": "https://www.nimh.nih.gov/health/find-help",
-        "kind": "quote"
+        "org": "Maison de l’autisme",
+        "title": "Acteurs et organismes dans l’autisme",
+        "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/acteurs-et-organismes-autisme/",
+        "kind": "quote",
+        "upd": "none"
        }
       }
      ],
      "namesHow": {
-      "lead": "米国国立精神衛生研究所(NIMH)の うつ病の ページには、受診の ときに 医療者が たずねる ことに ついて、こう 書かれて います。",
-      "text": "「受診のとき、医療者は、症状がいつ始まったか、どのくらい続いているか、どのくらいの頻度で起きるか、そのために外出やふだんの活動ができなくなっていないかを、たずねることがあります」",
+      "lead": "Sur la façon dont les noms (diagnostics) sont donnés, une page publique française indique :",
+      "text": "Seul un professionnel de santé peut poser un diagnostic. Un médecin généraliste ou un psychiatre peut prescrire des examens pour éliminer d’autres maladies qui pourraient donner des symptômes semblables, comme une anémie, un manque de vitamines ou une maladie de la thyroïde.",
       "src": {
-       "org": "米国国立精神衛生研究所(NIMH)",
-       "title": "Depression(うつ病)",
-       "url": "https://www.nimh.nih.gov/health/publications/depression",
-       "kind": "quote"
+       "org": "Service d’information du Gouvernement (info.gouv.fr)",
+       "title": "Repérer les signaux d'alerte",
+       "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/reperer-les-signaux-d-alerte",
+       "kind": "summary",
+       "upd": "2026-02-11"
       }
      }
     }

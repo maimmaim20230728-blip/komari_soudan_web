@@ -28,11 +28,12 @@
   function clean(v){ return String(v == null ? '' : v).replace(/\s+/g, ' ').trim(); }
   function sorted(a){ return a.slice().sort(function(x, y){ return x - y; }); }
 
-  /* 国の主なことば(画面の中身のことばと違い、その国の中身と画面の文言があるときだけ)。
-     アメリカに住む日本語の人が、英語のカードを医師に見せる、など(SPEC_V1 第9節) */
+  /* 国の主なことば(画面のことばと違い、その国の中身と画面の文言があるときだけ)。
+     アメリカに住む日本語の人が、英語のカードを医師に見せる、など(SPEC_V1 第9節)。
+     中身が国の言葉だけの国(日本のほかの全部)は、中身はもう国の言葉なので、切りかえるのは見出しの文言 */
   function mainLang(api, U){
     var D = U.data(), M = D.main;
-    return (M && M !== U.lang(api) && D[M] && D[M].groups && api.hasLang && api.hasLang(M)) ? M : null;
+    return (M && M !== api.lang && D[M] && D[M].groups && api.hasLang && api.hasLang(M)) ? M : null;
   }
   /* 伝える言葉(相手が読む・漢字の文)。空の行は出さない。L = カードのことば(無ければ画面のことば)。自分で書いた文はそのまま */
   function cardRows(api, U, g, L){

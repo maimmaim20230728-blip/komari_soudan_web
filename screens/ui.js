@@ -100,6 +100,8 @@
     p.appendChild(api.el('span', null, fmt(parts[0], map)));
     if(src.url) p.appendChild(urlBox(api, src.url, isFree(src.url)));
     if(parts.length > 1) p.appendChild(api.el('span', null, fmt(parts.slice(1).join(''), map)));
+    /* ページの最終更新日(フランスの決まり Licence Ouverte・CRPA・SPEC_V1 11-2)。upd = 'YYYY-MM-DD' か 'none'(ページに日付が無い) */
+    if(src.upd) p.appendChild(api.el('span', null, src.upd === 'none' ? api.T('screen.ui.updNone') : fmt(api.T('screen.ui.upd'), { upd: src.upd })));
     /* 出典と同じことば(国の srcLang)で読むか。ちがうことばで読むときは「そよぎ訳」と書く(日本の ページを en で・アメリカの ページを ja で など) */
     var same = lang(api) === (data().srcLang || 'ja');
     if(src.kind === 'summary') p.appendChild(api.el('span', null, api.T(isAdapt(src.url) ? (same ? 'screen.ui.edited' : 'screen.ui.editedTr') : 'screen.ui.ref')));
