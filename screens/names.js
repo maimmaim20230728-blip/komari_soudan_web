@@ -1,6 +1,6 @@
 'use strict';
 /* 画面: 名前のてびき(ナビ・SPEC_V1 4-5)
-   ・11まとまりを並べ、選ぶと「相談するときに 確かめることが ある 名前」の一覧(結果③と同じ KOMARI_UI.namesBlock)
+   ・11まとまりを並べ、選ぶと「相談するときに 確かめることが ある 名前」の一覧(結果③と同じ KOMARI_UI.namesBlock)+その下に「知って おきたい こと」5話目へのボタン(KOMARI_UI.learnLink)
    ・問いに答えなくても見られる(辞典として)。data に無いまとまりは「じゅんびちゅう」
    ・開いているまとまりはメモリだけ。戻るボタン(Play版)・「まとまりの 一覧へ もどる」で一覧へ */
 (function(){
@@ -17,6 +17,8 @@
         var nb = U.namesBlock(api, open);
         nb.id = 'names-block';
         c.appendChild(nb);
+        /* 結果③と同じ「知って おきたい こと」5話目へのボタン(窓で開く・とじる/戻るボタン=この一覧のまま・2026-10-17 ヒロさん) */
+        U.learnLink(api, c, 'names');
         var b = U.btn(api, 'wide', T('screen.names.back'), function(){ open = null; api.go('names'); });
         b.id = 'names-back';
         c.appendChild(b);

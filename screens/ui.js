@@ -1,7 +1,7 @@
 'use strict';
 /* 画面共通の小さな部品(このアプリ内だけ)。画面の状態は持たない(生成関数だけ)。
    ・window.KOMARI_UI = { DEV, OTHERS, fmt, data, lang, group, label, win, winText, isFree, btn, copy, urlBox, srcLine,
-                          windowCard, openOv, openCrisis, crisisBtn, groupBtn, namesBlock, allSources }
+                          windowCard, openOv, openCrisis, crisisBtn, groupBtn, namesBlock, learnLink, allSources }
    ・中身(まとまり・窓口・名前・出典)は data.js の window.KOMARI_DATA。ことばは api.lang(data に無ければ ja)
    ・操作は全部 api.Tap.bind(click禁止)。電話と外のページだけは <a href>(押すと端末が開く)
    ・🔴 答えは保存しない(ここでも api.save を使わない・SPEC_V1 第5節) */
@@ -186,6 +186,32 @@
     return box;
   }
 
+  /* 名前の一覧の下に置く「知って おきたい こと」(結果③・名前のてびき 共通・2026-10-17 ヒロさん)。
+     data の key=notTool の話「病名は、だれかより 上に 立つ ための 道具では ありません」を、画面を離れずに窓で開く(とじる・戻るボタン=元の画面)。
+     一行(枠なし)は、すぐ上の「疑う 材料に しないで」に続けて注意だけが並んで見えないように、中身(頼み方の例)を先に言う。id = <idp>-learn-note / <idp>-learn */
+  function learnLink(api, c, idp){
+    var lt = ((L(api).common || {}).learn || []).filter(function(x){ return x.key === 'notTool'; })[0];
+    if(!lt) return;
+    c.appendChild(api.el('h2', 'sec-h', api.T('screen.learn.title')));
+    var ln = api.el('p', 'learn-lead', api.T('screen.result.toLearnNote'));
+    ln.id = idp + '-learn-note';
+    c.appendChild(ln);
+    var lb = btn(api, 'wide learn-link', fmt(api.T('screen.result.toLearn'), { h: lt.h }), function(){
+      openOv(api, 'learn-ov', function(box){
+        var art = api.el('div', 'card learn-card');
+        art.appendChild(api.el('h2', 'learn-h', lt.h));
+        art.appendChild(api.el('p', 'learn-body', lt.body));
+        if(lt.srcs && lt.srcs.length){
+          art.appendChild(api.el('p', 'src-head', api.T('screen.learn.srcHead')));
+          lt.srcs.forEach(function(s){ art.appendChild(srcLine(api, s)); });
+        }
+        box.appendChild(art);
+      });
+    });
+    lb.id = idp + '-learn';
+    c.appendChild(lb);
+  }
+
   /* 出典の一覧(知っておきたいこと の最後の話): data の出典を全部・同じものは1つに */
   function allSources(api){
     var out = [], seen = {};
@@ -206,5 +232,5 @@
 
   window.KOMARI_UI = { DEV: DEV, OTHERS: OTHERS, fmt: fmt, data: data, lang: lang, L: L, group: group, label: label, win: win, winText: winText,
     isFree: isFree, btn: btn, copy: copy, urlBox: urlBox, srcLine: srcLine, windowCard: windowCard, openOv: openOv, openCrisis: openCrisis,
-    crisisBtn: crisisBtn, groupBtn: groupBtn, namesBlock: namesBlock, allSources: allSources };
+    crisisBtn: crisisBtn, groupBtn: groupBtn, namesBlock: namesBlock, learnLink: learnLink, allSources: allSources };
 })();
