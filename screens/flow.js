@@ -18,7 +18,7 @@
 
   function fresh(id){
     return { group:id, step:0, page:-1, scenes:[], sceneOwn:'', recent:'', recentNo:'', since:null, spread:null, degree:null,
-             asks:[], askOwn:'', others:null, crisisShown:false };
+             asks:[], askOwn:'', others:null, crisisShown:false, cardMain:false };
   }
   function steps(gid, U){ var s = ['scenes','recall','since','spread','degree','asks']; if(U.OTHERS.indexOf(gid) >= 0) s.push('others'); return s; }
   function sinceKeys(gid, U){
@@ -28,9 +28,15 @@
   function clean(v){ return String(v == null ? '' : v).replace(/\s+/g, ' ').trim(); }
   function sorted(a){ return a.slice().sort(function(x, y){ return x - y; }); }
 
-  /* 伝える言葉(相手が読む・漢字の文)。空の行は出さない */
-  function cardRows(api, U, g){
-    var T = api.T, rows = [];
+  /* 国の主なことば(画面の中身のことばと違い、その国の中身と画面の文言があるときだけ)。
+     アメリカに住む日本語の人が、英語のカードを医師に見せる、など(SPEC_V1 第9節) */
+  function mainLang(api, U){
+    var D = U.data(), M = D.main;
+    return (M && M !== U.lang(api) && D[M] && D[M].groups && api.hasLang && api.hasLang(M)) ? M : null;
+  }
+  /* 伝える言葉(相手が読む・漢字の文)。空の行は出さない。L = カードのことば(無ければ画面のことば)。自分で書いた文はそのまま */
+  function cardRows(api, U, g, L){
+    var T = L ? function(k){ return api.TL(L, k); } : api.T, rows = [];
     function add(key, v){ if(v) rows.push({ key:key, label:T('screen.result.card.' + key), value:v }); }
     var tr = sorted(S.scenes).map(function(i){ return g.scenes[i]; }).filter(Boolean);
     if(clean(S.sceneOwn)) tr.push(clean(S.sceneOwn));
@@ -46,8 +52,8 @@
     add('asks', as.join('\n'));
     return rows;
   }
-  function cardText(api, rows){
-    return api.T('screen.result.r1Head') + rows.map(function(r){ return '\n\n■' + r.label + '\n' + r.value; }).join('');
+  function cardText(api, rows, L){
+    return (L ? api.TL(L, 'screen.result.r1Head') : api.T('screen.result.r1Head')) + rows.map(function(r){ return '\n\n■' + r.label + '\n' + r.value; }).join('');
   }
 
   /* ---- 問い(1画面1問) ---- */
@@ -177,9 +183,19 @@
     if(S.page === 0){
       /* ① 伝える言葉 */
       c.appendChild(api.el('h1', 'scr-title', T('screen.result.r1Head')));
-      var rows = cardRows(api, U, g);
+      var ML = mainLang(api, U), CL = (ML && S.cardMain) ? ML : null;
+      var cg = CL ? (D[CL].groups[S.group] || g) : g;
+      var rows = cardRows(api, U, cg, CL);
+      if(ML){
+        var tg = U.btn(api, 'card-lang', CL ? T('screen.result.backLang') : U.fmt(T('screen.result.mainLang'), { lang: T('langName.' + ML) }), function(){
+          sync(); S.cardMain = !S.cardMain; api.go('flow');
+        });
+        tg.id = 'flow-card-lang';
+        c.appendChild(tg);
+      }
       var card = api.el('div', 'say-card');
       card.id = 'flow-card';
+      if(CL) card.setAttribute('lang', CL);
       if(!rows.length) card.appendChild(api.el('p', 'empty', T('screen.result.empty')));
       rows.forEach(function(r){
         var line = api.el('div', 'say-row');
@@ -190,11 +206,12 @@
       });
       c.appendChild(card);
       row = api.el('div', 'btn-row');
-      var cp = U.btn(api, '', T('screen.result.copy'), function(){ U.copy(api, cardText(api, rows), T('screen.result.copied')); });
+      var cp = U.btn(api, '', T('screen.result.copy'), function(){ U.copy(api, cardText(api, rows, CL), T('screen.result.copied')); });
       cp.id = 'flow-copy';
       var sh = U.btn(api, '', T('screen.result.show'), function(){
         U.openOv(api, 'show-white say-ov', function(box){
-          box.appendChild(api.el('div', 'show-head', T('screen.result.r1Head')));
+          if(CL) box.setAttribute('lang', CL);
+          box.appendChild(api.el('div', 'show-head', CL ? api.TL(CL, 'screen.result.r1Head') : T('screen.result.r1Head')));
           rows.forEach(function(r){
             var b = api.el('div', 'show-block');
             b.appendChild(api.el('div', 'show-label', r.label));

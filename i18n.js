@@ -13,6 +13,7 @@
 var ja = {
   app: { name:'困りごとから相談へ・そよぎ', short:'困りごとから相談へ', tagline:'困りごとを言葉にして、相談の一歩へ。' },
   nav: { home:'えらぶ', names:'名前の てびき', madoguchi:'相談先', learn:'知って おきたい こと', set:'せってい' },
+  langName: { ja:'日本語', en:'英語' },   // 「〇〇で 見せる」のことばの名前
   common: {
     ok:'OK', cancel:'やめる', save:'ほぞんする', del:'けす', back:'もどる', close:'とじる',
     yes:'はい', no:'いいえ', add:'ついか', edit:'なおす', next:'つぎ', prev:'まえ', done:'できた',
@@ -34,6 +35,7 @@ var ja = {
     theme:'いろ', themes:['みどり','みずいろ','しろ','くろ'],
     bgm:'BGM', bgms:['なし','みどりの音','あおの音'],
     sound:'タップ音', on:'ON', off:'OFF',
+    country:'国', countryPick:'えらんで ください',
     bkHint:'あたらしい スマホに うつるときは、「かきだす」で ファイルを ほぞんして、あたらしい スマホで「よみこむ」を おしてください。',
     bkExport:'かきだす', bkImport:'よみこむ',
     exported:'かきだしました ✓', imported:'よみこみました ✓', importFail:'よみこめませんでした',
@@ -44,6 +46,9 @@ var ja = {
   /* はじめての つかいかた(app.js openGuide・初回に必ず出す・SPEC_V1 4-1)。heads と bodies は同じ数。閉じるのは最後の「わかった」だけ */
   guide: {
     title:'つかいかた', step:'{n} / {m}', start:'わかった', again:'もういちど 見る',
+    /* 国(1ページ目・国が2つ以上のときだけ・SPEC_V1 第9節) */
+    countryNote:'えらんだ 国の 相談先と、その 国の 公的な ページの 情報を 出します。あとから せっていで かえられます。',
+    countryNeed:'さきに 国を えらんで ください',
     heads:[
       'この アプリで できること',
       'これは 診断では ありません',
@@ -62,15 +67,19 @@ var ja = {
     ui: {
       src:'{org}『{title}』{url}(確認日 {date})',
       edited:'を加工して作成(そよぎ)',
+      editedTr:'を加工して作成(そよぎ訳)',  // 出典と ちがう ことばで 読むとき
       ref:'を参考に作成(そよぎ)',
-      quoted:'から引用',
+      quoted:'から引用(そよぎ訳)',      // 出典と ちがう ことばで 読むとき(アメリカの ページを 日本語で など)
+      quotedSame:'から引用',            // 出典と 同じ ことばで 読むとき(国の srcLang と同じ)
       copy:'コピー', copied:'コピーしました', copyFail:'コピー できませんでした',
       close:'とじる',
       call:'電話を かける {tel}',
+      text:'テキストを おくる {tel}',
       checked:'確認日 {date}。番号や時間は変わることがあります。',
       soon:'じゅんびちゅう',
       crisisBtn:'つらくて 消えたい 気持ちが ある',
-      crisisHead:'いま つらいときは'
+      crisisHead:'いま つらいときは',
+      countryHead:'{country}の 窓口'
     },
     home: {
       title:'えらぶ',
@@ -131,6 +140,8 @@ var ja = {
       copy:'コピー', show:'大きく 見せる',
       copied:'コピーしました。ほかの アプリに はりつけた あとは けして かまいません',
       noName:'病名が なくても、困りごとは このまま 伝えられます。',
+      mainLang:'{lang}で 見せる',             // 国の 主な ことばの カード(自分で 書いた 文は そのまま)
+      backLang:'もとの ことばに もどす',
       junbi:'「相談と受診の前に」で 受診の じゅんびを する(困りごとの メモ・年表・昔の 資料)',
       back:'もどる', next:'つぎ', prev:'まえ', home:'ホームへ',
       r2Head:'相談先',
@@ -170,6 +181,7 @@ var ja = {
 var en = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Put your worries into words, and take a step toward help.' },
   nav: { home:'Choose', names:'Names guide', madoguchi:'Where to ask', learn:'Good to know', set:'Settings' },
+  langName: { ja:'Japanese', en:'English' },   // language names for "Show in ..."
   common: {
     ok:'OK', cancel:'Cancel', save:'Save', del:'Delete', back:'Back', close:'Close',
     yes:'Yes', no:'No', add:'Add', edit:'Edit', next:'Next', prev:'Previous', done:'Done',
@@ -191,6 +203,7 @@ var en = {
     theme:'Color', themes:['Green','Light blue','White','Black'],
     bgm:'Music', bgms:['None','Green tone','Blue tone'],
     sound:'Tap sound', on:'ON', off:'OFF',
+    country:'Country', countryPick:'Please choose',
     bkHint:'When you move to a new phone, tap "Export" to save a file, then tap "Import" on the new phone.',
     bkExport:'Export', bkImport:'Import',
     exported:'Exported ✓', imported:'Imported ✓', importFail:'Could not import',
@@ -200,6 +213,8 @@ var en = {
   },
   guide: {
     title:'How to use', step:'{n} / {m}', start:'Got it', again:'Show again',
+    countryNote:'The app shows help lines, and information from public pages, for the country you choose. You can change it later in Settings.',
+    countryNeed:'Please choose a country first',
     heads:[
       'What this app does',
       'This is not a diagnosis',
@@ -217,15 +232,19 @@ var en = {
     ui: {
       src:'{org} "{title}" {url} (checked {date})',
       edited:', adapted by SOYOGI',
+      editedTr:', adapted and translated by SOYOGI',   // reading in a language other than the source's
       ref:', written by SOYOGI in its own words based on this page',
-      quoted:', quoted in a translation by SOYOGI',
+      quoted:', quoted in a translation by SOYOGI',   // reading in a language other than the source's
+      quotedSame:', quoted',                           // reading in the source's own language (the country's srcLang)
       copy:'Copy', copied:'Copied', copyFail:'Could not copy',
       close:'Close',
       call:'Call {tel}',
+      text:'Text {tel}',
       checked:'Checked on {date}. Numbers and hours may change.',
       soon:'Coming soon',
       crisisBtn:'I feel so bad I want to disappear',
-      crisisHead:'If you are struggling right now'
+      crisisHead:'If you are struggling right now',
+      countryHead:'Help lines: {country}'   // "in the United States" needs "the", so no preposition
     },
     home: {
       title:'Choose',
@@ -285,6 +304,8 @@ var en = {
       copy:'Copy', show:'Show it large',
       copied:'Copied. After you paste it into another app, you can delete it.',
       noName:'Even without the name of an illness, you can share your worries just like this.',
+      mainLang:'Show in {lang}',               // the card in the country's main language (what you typed stays as is)
+      backLang:'Back to my language',
       junbi:'Prepare for a visit with "Before the Visit" (notes on your worries, a timeline, old records)',
       back:'Back', next:'Next', prev:'Previous', home:'Go to Home',
       r2Head:'Where to ask',

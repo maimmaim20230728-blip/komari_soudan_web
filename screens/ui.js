@@ -1,19 +1,28 @@
 'use strict';
 /* 画面共通の小さな部品(このアプリ内だけ)。画面の状態は持たない(生成関数だけ)。
-   ・window.KOMARI_UI = { DEV, OTHERS, fmt, data, lang, group, label, win, winText, isFree, btn, copy, urlBox, srcLine,
+   ・window.KOMARI_UI = { DEV, OTHERS, fmt, data, country, countryLine, lang, group, label, win, winText, isFree, btn, copy, urlBox, srcLine,
                           windowCard, openOv, openCrisis, crisisBtn, groupBtn, namesBlock, learnLink, allSources }
-   ・中身(まとまり・窓口・名前・出典)は data.js の window.KOMARI_DATA。ことばは api.lang(data に無ければ ja)
+   ・中身(まとまり・窓口・名前・出典)は data.js の window.KOMARI_DATA の、いま選んでいる国の箱(data())。
+     ことばは api.lang(その国に中身が無ければ その国の fallback)
    ・操作は全部 api.Tap.bind(click禁止)。電話と外のページだけは <a href>(押すと端末が開く)
    ・🔴 答えは保存しない(ここでも api.save を使わない・SPEC_V1 第5節) */
 (function(){
   var DEV = ['attention','social','reading'];   // 「いつから」で「小さいころから」を先頭に・「学校に…」を足す(SPEC_V1 4-3)
   var OTHERS = ['repeat','wave'];               // 「まわりの人から言われた」の問いを足す(SPEC_V1 4-3)
-  /* タップで開けるのは、リンク自由と明記されたサイトだけ(SPEC_V1 第3節)。ほかのサブドメイン(kennet・kokoro など)は含めない */
-  var FREE_HOSTS = ['mhlw.go.jp','rehab.go.jp','gov-online.go.jp','hattatsu.go.jp','iryou.teikyouseido.mhlw.go.jp'];
-
   function fmt(s, map){ var out = String(s); for(var k in map){ out = out.split('{' + k + '}').join(String(map[k])); } return out; }
-  function data(){ return window.KOMARI_DATA || { ver:'', order:[], links:{}, windows:[], ja:{ groups:{}, common:{} }, en:{ groups:{}, common:{} } }; }
-  function lang(api){ var D = data(); return D[api.lang] ? api.lang : 'ja'; }
+  /* いま選んでいる国の箱(SPEC_V1 第9節・多国籍版)。箱の形は 0.1.x の data.js と同じ(ver・order・links・windows・<ことば>)。
+     国はせってい(App.pref().country)。まだ選んでいない(はじめての使い方の途中)ときは先頭の国 */
+  var EMPTY = { ver:'', order:[], links:{}, windows:[], freeHosts:[], fallback:'ja', ja:{ groups:{}, common:{} } };
+  function country(){
+    var A = window.KOMARI_DATA, cs = (A && A.countries) || [], p = null;
+    try{ p = window.App && window.App.pref && window.App.pref(); }catch(_){}
+    return (p && p.country && cs.indexOf(p.country) >= 0) ? p.country : (cs[0] || null);
+  }
+  function data(){ var A = window.KOMARI_DATA, c = country(); return (A && A.c && c && A.c[c]) || EMPTY; }
+  /* 中身のことば: 画面のことばの中身がその国に無ければ、その国の fallback(日本=ja・ほかの国=en) */
+  function lang(api){ var D = data(); return D[api.lang] ? api.lang : (D.fallback || 'ja'); }
+  /* タップで開けるのは、リンク自由と明記されたサイトだけ(SPEC_V1 第3節・国ごとに data の freeHosts)。ほかのサブドメインは含めない */
+  function freeHosts(){ return data().freeHosts || []; }
   function L(api){ return data()[lang(api)] || { groups:{}, common:{} }; }
   function group(api, id){ var g = L(api).groups || {}; return g[id] || null; }
   /* ホームのラベル: data にあるまとまりは data の label、無いまとまりは i18n の仮ラベル */
@@ -21,7 +30,18 @@
   function win(id){ var ws = data().windows || []; for(var i = 0; i < ws.length; i++) if(ws[i].id === id) return ws[i]; return null; }
   function winText(api, w){ return w[lang(api)] || w.ja || {}; }
   function host(url){ var m = /^https?:\/\/([^\/?#:]+)/i.exec(String(url || '')); return m ? m[1].toLowerCase().replace(/^www\./, '') : ''; }
-  function isFree(url){ return FREE_HOSTS.indexOf(host(url)) >= 0; }
+  function isFree(url){ return freeHosts().indexOf(host(url)) >= 0; }
+  /* 文を手直し(要約・書きかえ)して載せてよいと明記されたサイト(国ごとに data の adaptHosts・無ければ freeHosts と同じ)。
+     日本は押して開けるサイトと同じ。アメリカは別(NIDA・NIAAA など=手直しは自由・リンクの決まりは無い)(SPEC_V1 第10節) */
+  function isAdapt(url){ var a = data().adaptHosts || freeHosts(); return a.indexOf(host(url)) >= 0; }
+  /* 「〇〇の 窓口」(相談先・いま つらいとき の上。国が2つ以上のときだけ。ほかの国の番号に電話しないように・SPEC_V1 第9節) */
+  function countryLine(api, id){
+    var A = window.KOMARI_DATA;
+    if(!A || !A.countries || A.countries.length < 2) return null;
+    var p = api.el('p', 'country-line', fmt(api.T('screen.ui.countryHead'), { country: api.countryName ? api.countryName() : country() }));
+    if(id) p.id = id;
+    return p;
+  }
 
   function btn(api, cls, text, fn){
     var b = api.el('button', 'btn' + (cls ? ' ' + cls : ''), text);
@@ -80,8 +100,10 @@
     p.appendChild(api.el('span', null, fmt(parts[0], map)));
     if(src.url) p.appendChild(urlBox(api, src.url, isFree(src.url)));
     if(parts.length > 1) p.appendChild(api.el('span', null, fmt(parts.slice(1).join(''), map)));
-    if(src.kind === 'summary') p.appendChild(api.el('span', null, api.T(isFree(src.url) ? 'screen.ui.edited' : 'screen.ui.ref')));
-    else if(src.kind === 'quote') p.appendChild(api.el('span', null, api.T('screen.ui.quoted')));   // en は そよぎの訳と書く
+    /* 出典と同じことば(国の srcLang)で読むか。ちがうことばで読むときは「そよぎ訳」と書く(日本の ページを en で・アメリカの ページを ja で など) */
+    var same = lang(api) === (data().srcLang || 'ja');
+    if(src.kind === 'summary') p.appendChild(api.el('span', null, api.T(isAdapt(src.url) ? (same ? 'screen.ui.edited' : 'screen.ui.editedTr') : 'screen.ui.ref')));
+    else if(src.kind === 'quote') p.appendChild(api.el('span', null, api.T(same ? 'screen.ui.quotedSame' : 'screen.ui.quoted')));
     return p;
   }
 
@@ -99,6 +121,12 @@
       a.href = 'tel:' + String(tel).replace(/[^0-9+]/g, '');
       card.appendChild(a);
     });
+    /* テキスト(SMS)で つながる窓口(アメリカの 988 など・国の箱に sms があるときだけ) */
+    if(w.sms){
+      var s = api.el('a', 'call-btn sms-btn', fmt(api.T('screen.ui.text'), { tel: w.sms }));
+      s.href = 'sms:' + String(w.sms).replace(/[^0-9+]/g, '');
+      card.appendChild(s);
+    }
     var ws = t.src || w.src;   // 出典は ことばごと(data.js の windows[].ja.src / en.src)
     if(w.url && !(ws && ws.url === w.url)) card.appendChild(api.el('p', 'win-url')).appendChild(urlBox(api, w.url, w.linkOk === true));
     if(ws) card.appendChild(srcLine(api, ws));
@@ -126,6 +154,7 @@
   function openCrisis(api){
     return openOv(api, 'crisis-ov', function(box){
       box.appendChild(api.el('h2', 'crisis-h', api.T('screen.ui.crisisHead')));
+      var cl = countryLine(api, 'crisis-country'); if(cl) box.appendChild(cl);
       (data().windows || []).forEach(function(w){ if(w.band === 'now') box.appendChild(windowCard(api, w)); });
       box.appendChild(api.el('p', 'hint', fmt(api.T('screen.ui.checked'), { date: data().ver || '' })));
     });
@@ -177,7 +206,8 @@
     });
     box.appendChild(ul);
     if(com.namesHow){
-      box.appendChild(api.el('p', 'names-how-lead', api.T('screen.names.howLead')));
+      /* 前置きの機関名は国で違う(日本=NCNP)。data の namesHow.lead があればそれ、無ければ i18n(日本の文) */
+      box.appendChild(api.el('p', 'names-how-lead', com.namesHow.lead || api.T('screen.names.howLead')));
       box.appendChild(api.el('p', 'names-how', com.namesHow.text));
       box.appendChild(srcLine(api, com.namesHow.src));
     }
@@ -230,7 +260,7 @@
     return out;
   }
 
-  window.KOMARI_UI = { DEV: DEV, OTHERS: OTHERS, fmt: fmt, data: data, lang: lang, L: L, group: group, label: label, win: win, winText: winText,
+  window.KOMARI_UI = { DEV: DEV, OTHERS: OTHERS, fmt: fmt, data: data, country: country, countryLine: countryLine, lang: lang, L: L, group: group, label: label, win: win, winText: winText,
     isFree: isFree, btn: btn, copy: copy, urlBox: urlBox, srcLine: srcLine, windowCard: windowCard, openOv: openOv, openCrisis: openCrisis,
     crisisBtn: crisisBtn, groupBtn: groupBtn, namesBlock: namesBlock, learnLink: learnLink, allSources: allSources };
 })();

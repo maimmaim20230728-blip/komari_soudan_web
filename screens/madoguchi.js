@@ -8,6 +8,7 @@
     render: function(c, api){
       var U = window.KOMARI_UI, T = api.T, D = U.data();
       c.appendChild(api.el('h1', 'scr-title', T('screen.madoguchi.title')));
+      var cl = U.countryLine(api, 'madoguchi-country'); if(cl) c.appendChild(cl);   // 国が2つ以上のとき「〇〇の 窓口」(SPEC_V1 第9節)
       [['now', 'nowHead'], ['day', 'dayHead']].forEach(function(b){
         var sec = api.el('div', 'wins');
         sec.id = 'madoguchi-' + b[0];

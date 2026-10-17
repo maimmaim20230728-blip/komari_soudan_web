@@ -45,6 +45,8 @@
   <!-- せってい(共通シェル。文言は app.js の I18N_MAP が入れる) -->
   <section id="scr-set" class="screen hidden" data-scr="set">
     <h2 id="set-h-normal" class="sec-h"></h2>
+    <!-- 国(SPEC_V1 第9節・多国籍版)。国が1つだけのときは app.js が隠す。選択肢は app.js の fillCountrySel -->
+    <div id="set-country-row" class="set-row"><span id="lbl-country"></span><select id="set-country" class="set-sel"></select></div>
     <div class="set-row"><span id="lbl-fs"></span><button id="btn-fs" class="set-btn"></button></div>
     <div class="set-row"><span id="lbl-theme"></span><button id="btn-theme" class="set-btn"></button></div>
     <div class="set-row"><span id="lbl-bgm"></span><button id="btn-bgm" class="set-btn"></button></div>
