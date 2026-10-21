@@ -316,3 +316,5 @@ input[type="file"].hidden{ display:none; }
   background:var(--bg); border-top:1px solid var(--line);
 }
 .guide-row .btn{ flex:1 1 0; min-width:0; min-height:64px; font-size:1.15em; }
+/* ドイツ語の長い語(Aufmerksamkeitsdefizit- など)を、文字の途中でなくハイフンで折る(app.js が <html lang> を画面のことばにする・D00 B11) */
+html[lang="de"] body{ -webkit-hyphens:auto; hyphens:auto; }

@@ -27,7 +27,8 @@ window.KOMARI_DATA = {
  "countries": [
   "jp",
   "us",
-  "fr"
+  "fr",
+  "de"
  ],
  "c": {
   "jp": {
@@ -35,7 +36,8 @@ window.KOMARI_DATA = {
    "name": {
     "ja": "日本",
     "en": "Japan",
-    "fr": "Japon"
+    "fr": "Japon",
+    "de": "Japan"
    },
    "langs": [
     "ja",
@@ -3145,7 +3147,8 @@ window.KOMARI_DATA = {
    "name": {
     "ja": "アメリカ",
     "en": "United States",
-    "fr": "États-Unis"
+    "fr": "États-Unis",
+    "de": "Vereinigte Staaten"
    },
    "langs": [
     "en"
@@ -4858,7 +4861,8 @@ window.KOMARI_DATA = {
    "name": {
     "ja": "フランス",
     "en": "France",
-    "fr": "France"
+    "fr": "France",
+    "de": "Frankreich"
    },
    "langs": [
     "fr"
@@ -6697,6 +6701,1857 @@ window.KOMARI_DATA = {
        "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/reperer-les-signaux-d-alerte",
        "kind": "summary",
        "upd": "2026-02-11"
+      }
+     }
+    }
+   }
+  },
+  "de": {
+   "id": "de",
+   "name": {
+    "ja": "ドイツ",
+    "en": "Germany",
+    "fr": "Allemagne",
+    "de": "Deutschland"
+   },
+   "langs": [
+    "de"
+   ],
+   "main": "de",
+   "fallback": "de",
+   "srcLang": "de",
+   "freeHosts": [
+    "gesund.bund.de",
+    "bundesgesundheitsministerium.de",
+    "rki.de",
+    "116117.de",
+    "kbv.de",
+    "gesetze-im-internet.de"
+   ],
+   "adaptHosts": [
+    "gesetze-im-internet.de"
+   ],
+   "ver": "2026-10-21",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "detelefonseelsorge",
+     "band": "now",
+     "tel": "116 123",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "TelefonSeelsorge",
+      "desc": "Wenn es Ihnen psychisch schlecht geht oder Sie in einer Krise stecken, können Sie hier anrufen. Psychologisch geschulte Mitarbeiterinnen und Mitarbeiter beraten Sie kostenlos und anonym. Es gibt auch eine Beratung per E-Mail und Chat. Die Beratung ist nur auf Deutsch. Auf Türkisch, Arabisch und Urdu berät rund um die Uhr die muslimische Telefonseelsorge MuTeS (030 44 35 09 821), auf Russisch rund um die Uhr Doweria (030 440 308 454). Wenn besetzt ist, versuchen Sie es bitte etwas später noch einmal.",
+      "hours": "Rund um die Uhr, an sieben Tagen in der Woche. Kostenlos.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Nummern für den Notfall",
+       "url": "https://gesund.bund.de/notfallnummern",
+       "kind": "summary",
+       "upd": "2025-10-06"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "title": "Nummern für den Notfall",
+      "url": "https://gesund.bund.de/notfallnummern",
+      "kind": "summary",
+      "upd": "2025-10-06"
+     }
+    },
+    {
+     "id": "de112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "110",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "112 (Rettungsdienst) · 110 (Polizei)",
+      "desc": "Wenn Sie sich selbst oder andere in Gefahr sehen, zögern Sie nicht anzurufen: den Rettungsdienst unter 112 oder die Polizei unter 110.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Anlaufstellen bei psychischen Krisen",
+       "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/psychische-gesundheit/anlaufstellen-bei-psychischen-krisen",
+       "kind": "summary",
+       "upd": "2026-04-23"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "title": "Anlaufstellen bei psychischen Krisen",
+      "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/psychische-gesundheit/anlaufstellen-bei-psychischen-krisen",
+      "kind": "summary",
+      "upd": "2026-04-23"
+     }
+    },
+    {
+     "id": "de116117",
+     "band": "now",
+     "tel": "116 117",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "116 117 (ärztlicher Bereitschaftsdienst)",
+      "desc": "Wenn die Arztpraxis geschlossen ist und Sie mit dringenden Beschwerden nicht bis zur nächsten Sprechzeit warten können, hilft der ärztliche Bereitschaftsdienst. Er ist für Fälle gedacht, die nicht lebensbedrohlich sind. Bei Lebensgefahr rufen Sie die 112. Der Anruf ist kostenlos.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Nummern für den Notfall",
+       "url": "https://gesund.bund.de/notfallnummern",
+       "kind": "summary",
+       "upd": "2025-10-06"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "title": "Nummern für den Notfall",
+      "url": "https://gesund.bund.de/notfallnummern",
+      "kind": "summary",
+      "upd": "2025-10-06"
+     }
+    },
+    {
+     "id": "denotruf",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Notruf ohne Sprechen (Fax, nora)",
+      "desc": "Wenn Sie nicht sprechen können oder schlecht hören: Sie können ein Notfall-Fax an die 110 oder die 112 senden. Mit nora, dem Notruf-App-System der Bundesländer, schreiben Sie mit der Leitstelle. Die App muss vorher eingerichtet werden: Bei der Registrierung werden Ihr Name und Ihre Handynummer erfasst, manchmal ist ein zusätzlicher Bestätigungsschritt nötig. Wenn die Registrierung nicht klappt, rufen Sie, wenn Sie können, die 110 oder die 112 an.",
+      "hours": "",
+      "src": {
+       "org": "nora, die Notruf-App der Bundesländer",
+       "title": "Häufig gestellte Fragen (FAQ)",
+       "url": "https://www.nora-notruf.de/de-as/fragen/faq",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "nora, die Notruf-App der Bundesländer",
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "url": "https://www.nora-notruf.de/de-as/fragen/faq",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "de116016",
+     "band": "now",
+     "tel": "116 016",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Hilfetelefon „Gewalt gegen Frauen“",
+      "desc": "Für Frauen, die Gewalt erleben. Ausgebildete Beraterinnen hören zu. Sie bestimmen selbst, was Sie erzählen. Der Anruf ist kostenlos, auch ohne Guthaben auf dem Handy, und Sie können anonym bleiben. Ihre Nummer wird der Beraterin nicht angezeigt, und die Nummer des Hilfetelefons steht nicht auf dem Einzelverbindungsnachweis. Sie erscheint aber in der Anrufliste Ihres Telefons und muss dort selbst gelöscht werden. Die Nummer ist nur innerhalb Deutschlands erreichbar. Es kann Wartezeiten geben.",
+      "hours": "Rund um die Uhr, auch an Wochenenden und Feiertagen.",
+      "src": {
+       "org": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (Hilfetelefon „Gewalt gegen Frauen“)",
+       "title": "Telefon-Beratung",
+       "url": "https://www.hilfetelefon.de/das-hilfetelefon/beratung/telefon-beratung/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (Hilfetelefon „Gewalt gegen Frauen“)",
+      "title": "Telefon-Beratung",
+      "url": "https://www.hilfetelefon.de/das-hilfetelefon/beratung/telefon-beratung/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "dehausarzt",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://gesund.bund.de/suchen/aerztinnen-und-aerzte",
+     "linkOk": true,
+     "de": {
+      "name": "Ihre Hausarztpraxis",
+      "desc": "Bei Fragen zur Gesundheit ist die Hausarztpraxis oft der erste Ort, an den man sich wendet. Sie können Ihre Praxis frei wählen und auch wechseln. Sie können dort „Meine Schwierigkeiten“ zeigen. Außerhalb der Öffnungszeiten erreichen Sie mit akuten Beschwerden den Bereitschaftsdienst unter 116 117. Praxen in Ihrer Nähe finden Sie über die Suche von gesund.bund.de.",
+      "hours": "Je nach Praxis.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Hausärztliche Versorgung",
+       "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/aerztliche-betreuung/hausaerztliche-versorgung",
+       "kind": "summary",
+       "upd": "2026-04-23"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "title": "Hausärztliche Versorgung",
+      "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/aerztliche-betreuung/hausaerztliche-versorgung",
+      "kind": "summary",
+      "upd": "2026-04-23"
+     }
+    },
+    {
+     "id": "depsychotherapie",
+     "band": "day",
+     "tel": "116 117",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Psychotherapeutische Sprechstunde",
+      "desc": "Ein erstes Gespräch in einer psychotherapeutischen Sprechstunde. Dafür brauchen Sie keine Überweisung. Sie können selbst eine Praxis anrufen oder online einen Termin für eine Sprechstunde vereinbaren. Wenn Sie keine Praxis finden, hilft Ihnen ein Anruf bei der 116 117. Bis zum Termin kann es dauern.",
+      "hours": "Je nach Praxis.",
+      "src": {
+       "org": "Kassenärztliche Bundesvereinigung (KBV)",
+       "title": "Psychotherapie",
+       "url": "https://www.116117.de/de/psychotherapie.php",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Kassenärztliche Bundesvereinigung (KBV)",
+      "title": "Psychotherapie",
+      "url": "https://www.116117.de/de/psychotherapie.php",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "desozpsych",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Sozialpsychiatrischer Dienst",
+      "desc": "Beratung und Begleitung für Menschen mit psychischen Problemen und für ihr Umfeld. Für jeden Ort gibt es einen zuständigen Dienst. Das Angebot ist kostenlos, und es gibt keine Zugangsvoraussetzungen: Eine offizielle Diagnose oder eine Krankenversicherung ist nicht nötig. Die Mitarbeitenden unterliegen der Schweigepflicht, und die Beratung kann auch anonym sein. Den zuständigen Dienst finden Sie zum Beispiel über das örtliche Gesundheitsamt.",
+      "hours": "Je nach Ort. Manche Dienste haben offene Sprechstunden ohne Termin.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Sozialpsychiatrischer Dienst",
+       "url": "https://gesund.bund.de/sozialpsychiatrischer-dienst",
+       "kind": "summary",
+       "upd": "2025-04-15"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+      "title": "Sozialpsychiatrischer Dienst",
+      "url": "https://gesund.bund.de/sozialpsychiatrischer-dienst",
+      "kind": "summary",
+      "upd": "2025-04-15"
+     }
+    },
+    {
+     "id": "deupd",
+     "band": "day",
+     "tel": "0800 011 77 22",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Unabhängige Patientenberatung Deutschland (UPD)",
+      "desc": "Wenn Sie nicht wissen, an wen Sie sich wenden können: Die UPD berät zu Fragen rund um die Gesundheit und hilft, passende Anlaufstellen zu finden. Die Beratung ist kostenfrei, vertraulich und anonym. Sie steht allen offen, ob gesetzlich, privat oder nicht krankenversichert.",
+      "hours": "Mo. und Di. 9 bis 12 Uhr und 14:30 bis 17 Uhr, Mi. 9 bis 14 Uhr, Do. 9 bis 12 Uhr und 14 bis 18 Uhr, Fr. 9:30 bis 14 Uhr.",
+      "src": {
+       "org": "Stiftung Unabhängige Patientenberatung Deutschland (UPD)",
+       "title": "Häufige Fragen und Antworten",
+       "url": "https://patientenberatung.de/ueber-uns/faq/",
+       "kind": "fact",
+       "upd": "2026-10-19"
+      }
+     },
+     "src": {
+      "org": "Stiftung Unabhängige Patientenberatung Deutschland (UPD)",
+      "title": "Häufige Fragen und Antworten",
+      "url": "https://patientenberatung.de/ueber-uns/faq/",
+      "kind": "fact",
+      "upd": "2026-10-19"
+     }
+    },
+    {
+     "id": "deeutb",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "EUTB (Ergänzende unabhängige Teilhabeberatung)",
+      "desc": "Beratung für Menschen mit Behinderungen, für Menschen, denen eine Behinderung droht, und für Angehörige, auch schon bevor Sie etwas beantragen. Die Beratung ist kostenlos und nicht an eine Teilhabebeeinträchtigung geknüpft.",
+      "hours": "Je nach Beratungsstelle.",
+      "src": {
+       "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+       "title": "Verordnung zur Weiterführung der Ergänzenden unabhängigen Teilhabeberatung (Teilhabeberatungsverordnung - EUTBV)",
+       "url": "https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html",
+       "kind": "summary",
+       "upd": "2026-09-01"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+      "title": "Verordnung zur Weiterführung der Ergänzenden unabhängigen Teilhabeberatung (Teilhabeberatungsverordnung - EUTBV)",
+      "url": "https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html",
+      "kind": "summary",
+      "upd": "2026-09-01"
+     }
+    },
+    {
+     "id": "desdh",
+     "band": "day",
+     "tel": "01806 313031",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Sucht & Drogen Hotline",
+      "desc": "Telefonische Beratung für Menschen mit Suchtproblemen und für Angehörige, Freundinnen, Freunde oder Kolleginnen und Kollegen. Erfahrene Fachkräfte aus der Drogen- und Suchthilfe informieren, beraten und vermitteln an Hilfsangebote vor Ort. Ein gemeinsames Angebot der Drogennotrufe aus Frankfurt am Main und München; das BIÖG stellt das organisatorische Dach.",
+      "hours": "Täglich 8 bis 24 Uhr. Kostenpflichtig: 0,20 € pro Anruf aus dem Festnetz und aus dem Mobilfunknetz.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "Sucht & Drogen Hotline",
+       "url": "https://www.bioeg.de/service/beratungsangebote/sucht-drogen-hotline/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+      "title": "Sucht & Drogen Hotline",
+      "url": "https://www.bioeg.de/service/beratungsangebote/sucht-drogen-hotline/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "desuchtberatung",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Suchtberatungsstellen in Ihrer Nähe",
+      "desc": "Beratungsstellen zu Alkohol, Tabak, Drogen, Medikamenten und Glücksspiel finden Sie im Suchthilfeverzeichnis der Deutschen Hauptstelle für Suchtfragen (DHS), einem Kooperationspartner des BIÖG (dhs.de).",
+      "hours": "Je nach Beratungsstelle.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "Beratungsstellen-Adressen",
+       "url": "https://www.bioeg.de/service/beratungsstellen/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+      "title": "Beratungsstellen-Adressen",
+      "url": "https://www.bioeg.de/service/beratungsstellen/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "degluecks",
+     "band": "day",
+     "tel": "0800 1 37 27 00",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "BIÖG-Telefonberatung zum Glücksspiel",
+      "desc": "Telefonische Beratung zum Glücksspiel für alle, die spielen, für Angehörige und für Interessierte. Die Nummer ist kostenfrei.",
+      "hours": "Montag bis Donnerstag 10 bis 22 Uhr, Freitag bis Sonntag 10 bis 18 Uhr.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
+       "url": "https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+      "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
+      "url": "https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "deessen",
+     "band": "day",
+     "tel": "0221 89 20 31",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "BIÖG-Infotelefon zu Essstörungen",
+      "desc": "Information und Beratung rund ums Essen für Betroffene, Angehörige und Interessierte. Das Infotelefon nennt auch Adressen von Beratungsstellen und Einrichtungen.",
+      "hours": "Montag bis Donnerstag 10 bis 22 Uhr, Freitag bis Sonntag 10 bis 18 Uhr. Kosten wie ein Anruf ins deutsche Festnetz.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "Das BIÖG - Infotelefon zu Essstörungen",
+       "url": "https://www.bioeg.de/service/beratungsangebote/essstoerungen/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+      "title": "Das BIÖG - Infotelefon zu Essstörungen",
+      "url": "https://www.bioeg.de/service/beratungsangebote/essstoerungen/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "demaenner",
+     "band": "day",
+     "tel": "0800 1239900",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Hilfetelefon Gewalt an Männern",
+      "desc": "Für Männer, die Gewalt erleben. Kostenlos und anonym: Sie müssen am Telefon weder Ihren Namen noch Ihren Wohnort nennen. Für den Chat ist keine Registrierung nötig.",
+      "hours": "Telefon: Montag bis Donnerstag 8 bis 20 Uhr, Freitag 8 bis 15 Uhr. Chat: Montag bis Donnerstag 12 bis 15 Uhr und 17 bis 19 Uhr.",
+      "src": {
+       "org": "Hilfetelefon Gewalt an Männern (Land Nordrhein-Westfalen)",
+       "title": "Startseite",
+       "url": "https://www.maennerhilfetelefon.de/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Hilfetelefon Gewalt an Männern (Land Nordrhein-Westfalen)",
+      "title": "Startseite",
+      "url": "https://www.maennerhilfetelefon.de/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "dewohnung",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "de": {
+      "name": "Wenn Sie keine Wohnung haben: Ihre Stadt oder Gemeinde",
+      "desc": "Wenden Sie sich an Ihre Stadt oder Gemeinde. Städte und Gemeinden sind verpflichtet, Menschen, die unfreiwillig obdachlos sind, menschenwürdig unterzubringen.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+       "title": "Überwindung der Obdach- und Wohnungslosigkeit in Deutschland bis 2030",
+       "url": "https://www.bmwsb.bund.de/DE/wohnen/wohnungsmarkt/nationaler-aktionsplan-gegen-wohnungslosigkeit/nationaler-aktionsplan-gegen-wohnungslosigkeit_node.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+      "title": "Überwindung der Obdach- und Wohnungslosigkeit in Deutschland bis 2030",
+      "url": "https://www.bmwsb.bund.de/DE/wohnen/wohnungsmarkt/nationaler-aktionsplan-gegen-wohnungslosigkeit/nationaler-aktionsplan-gegen-wohnungslosigkeit_node.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "de": {
+    "groups": {
+     "mood": {
+      "label": "Gedrückte Stimmung, keine Kraft",
+      "lead": "Wenn die Stimmung gedrückt bleibt und es schwerfällt, die Kraft für irgendetwas aufzubringen.",
+      "scenes": [
+       "Meine Stimmung bleibt von morgens bis abends gedrückt.",
+       "Was mir früher Freude gemacht hat, macht mir keine Freude mehr.",
+       "Ich habe keine Kraft und kann mich nicht konzentrieren, deshalb bleiben Arbeit und Haushalt liegen.",
+       "Ich mache mir Vorwürfe und sehe alles nur noch schwarz.",
+       "Nachts kann ich nicht schlafen, oder ich schlafe viel zu viel. Mein Appetit hat nachgelassen und mein Körper fühlt sich schwer an.",
+       "Manchmal möchte ich verschwinden oder nicht mehr da sein."
+      ],
+      "asks": [
+       "Bitte sagen Sie mir, was zu tun ist, immer nur eins nach dem anderen.",
+       "Bitte drängen Sie mich nicht zu Antworten oder Entscheidungen, ich brauche Zeit zum Nachdenken.",
+       "Bitte geben Sie mir wichtige Dinge schriftlich.",
+       "Bitte hören Sie mir erst zu, bevor Sie mir sagen: „Reiß dich zusammen“ oder „Kopf hoch“.",
+       "Bitte unterstellen Sie mir nicht, dass ich faul bin, wenn ich mich ausruhe.",
+       "Bitte klären Sie gemeinsam mit mir, ob eine körperliche Erkrankung oder ein Medikament, das ich gerade nehme, eine Rolle spielen könnte."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Körperliche Erkrankungen",
+        "why": "Diese Seite nennt körperliche Erkrankungen als einen von mehreren Faktoren, die zu einer Depression beitragen können, zum Beispiel einen Schlaganfall, einen Herzinfarkt oder eine Schilddrüsenunterfunktion.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Schilddrüsenunterfunktion",
+        "why": "„Zu den Symptomen gehören zum Beispiel Müdigkeit, Hautveränderungen oder eine niedergeschlagene Stimmung.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenunterfunktion",
+         "url": "https://gesund.bund.de/schilddruesenunterfunktion",
+         "kind": "quote",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Vitamin-B-Mangel",
+        "why": "Laut dieser Seite können sich bei einem Mangel an Vitamin B9 (Folat) oder B12 unter anderem Müdigkeit, geringere Leistungsfähigkeit, Vergesslichkeit und eine gedrückte Stimmung zeigen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Vitamin-B-Mangel",
+         "url": "https://gesund.bund.de/vitamin-b-mangel",
+         "kind": "summary",
+         "upd": "2022-02-26"
+        }
+       },
+       {
+        "name": "Schwerhörigkeit",
+        "why": "Laut dieser Seite kann schlechtes Hören die Verständigung mit anderen erschweren. Bei manchen Menschen gehen damit weniger Kontakte und oft eine gedrückte Stimmung einher.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schwerhörigkeit und Gehörlosigkeit bei Erwachsenen",
+         "url": "https://gesund.bund.de/schwerhoerigkeit-gehoerlosigkeit-erwachsene",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       },
+       {
+        "name": "Schlafstörungen",
+        "why": "„Auch können Schlafprobleme in Zusammenhang mit psychischen Erkrankungen wie Angststörungen oder Depressionen stehen.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "quote",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Alkoholkonsum und Alkoholabhängigkeit",
+        "why": "Diese Seite beschreibt, dass sich Alkohol und Depression gegenseitig beeinflussen: Wer lange viel trinkt, kann dadurch eine Depression entwickeln, und manche Menschen mit einer Depression trinken, um ihre Beschwerden zu dämpfen.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Depression und Alkohol",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-depressionen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Laut dieser Seite können zu einer Depression anhaltende Niedergeschlagenheit, Antriebslosigkeit und der Verlust von Interessen gehören. Als körperliche Beschwerden werden auch Müdigkeit, Schlafstörungen und Appetitlosigkeit genannt.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Bipolare Störung",
+        "why": "Laut dieser Seite wechseln sich bei einer bipolaren Störung Phasen der Niedergeschlagenheit und Antriebslosigkeit mit Phasen von Hochgefühl und viel Antrieb ab.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Bipolare Störung",
+         "url": "https://gesund.bund.de/bipolare-stoerung",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Starke Sorgen oder Anspannung",
+      "lead": "Sorgen, die nicht aufhören, Herzklopfen und Unruhe, Schwierigkeiten vor anderen Menschen oder beim Hinausgehen und Ähnliches.",
+      "scenes": [
+       "Wenn ich vor anderen sprechen muss oder alle auf mich schauen, habe ich so große Angst, dass mein Kopf wie leergefegt ist.",
+       "Mein Herz fängt plötzlich an zu rasen und ich bekomme schlecht Luft. Ich habe Sorge, dass es wieder passiert, und deshalb fällt es mir schwer, das Haus zu verlassen.",
+       "Auch ohne klaren Grund mache ich mir über eine Sache nach der anderen Sorgen, bin unruhig und erschöpft.",
+       "Orte, von denen ich nur schwer wegkomme, halte ich kaum aus, zum Beispiel U-Bahn, S-Bahn oder Bus, aber auch volle Gebäude. Allein aus dem Haus zu gehen fällt mir ebenfalls schwer. Deshalb meide ich das.",
+       "Weil ich vermeide, was mir Angst macht, gehe ich an immer weniger Orte und treffe immer weniger Menschen. Mein Leben ist enger geworden.",
+       "Die Sorgen gehen mir nicht aus dem Kopf, und abends kann ich schlecht einschlafen."
+      ],
+      "asks": [
+       "Bitte warten Sie, bis ich spreche, und drängen Sie mich nicht.",
+       "Bitte sagen Sie mir vorher, wie der Plan und der Ablauf aussehen.",
+       "Bitte fragen Sie mich nicht plötzlich vor anderen nach meiner Meinung, und lassen Sie mich auch schriftlich antworten.",
+       "Wenn es mir schlecht geht, lassen Sie mich bitte kurz hinausgehen und mich ausruhen.",
+       "Ich möchte lieber an einem ruhigen Ort mit wenigen Menschen sprechen.",
+       "Bitte sagen Sie mir nicht nur, dass ich mir zu viele Gedanken mache, sondern hören Sie sich zuerst an, was mir schwerfällt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schilddrüsenüberfunktion",
+        "why": "Laut dieser Seite gehören zu einer Überfunktion der Schilddrüse unter anderem Herzklopfen, Nervosität, Zittern und Schlaflosigkeit.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://gesund.bund.de/schilddruesenueberfunktion",
+         "kind": "summary",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Herzrhythmusstörung",
+        "why": "„Als Herzrasen kann sich ein hoher Puls bemerkbar machen, wenn das Herz sehr schnell schlägt, obwohl man sich gar nicht anstrengt.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Herzrhythmusstörung",
+         "url": "https://gesund.bund.de/herzrhythmusstoerung",
+         "kind": "quote",
+         "upd": "2023-02-03"
+        }
+       },
+       {
+        "name": "Blutarmut (Anämie)",
+        "why": "Laut dieser Seite können bei einer Blutarmut neben Müdigkeit und Schwäche auch Herzrasen und Kurzatmigkeit bei Anstrengung vorkommen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Blutarmut (Anämie)",
+         "url": "https://gesund.bund.de/blutarmut-anaemie",
+         "kind": "summary",
+         "upd": "2021-07-13"
+        }
+       },
+       {
+        "name": "Bestimmte Medikamente oder Drogen",
+        "why": "Laut dieser Seite können bestimmte Medikamente oder Drogen, zum Beispiel Amphetamine (Speed), körperliche Beschwerden hervorrufen, wie sie bei einer generalisierten Angststörung vorkommen, etwa einen schnellen Puls oder Zittern.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Schlafstörungen",
+        "why": "„Auch können Schlafprobleme in Zusammenhang mit psychischen Erkrankungen wie Angststörungen oder Depressionen stehen.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "quote",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Laut dieser Seite sind Angst und Sorgen bei einer generalisierten Angststörung fast immer da, lassen sich nicht steuern und richten sich auf vieles im Leben. Als psychische Erkrankungen mit ähnlichen Beschwerden nennt die Seite auch Phobien und Panikstörungen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Laut dieser Seite können zu einer Depression neben gedrückter Stimmung auch innere Unruhe, Hoffnungslosigkeit und Zukunftsängste gehören.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Posttraumatische Belastungsstörung (PTBS)",
+        "why": "Diese Seite beschreibt, dass bei einer PTBS die Erinnerungen an ein schreckliches Erlebnis immer wieder hochkommen und Betroffene oft in ständiger Alarmbereitschaft sind. Als körperliche Beschwerden werden unter anderem Herzklopfen, Atembeschwerden, Zittern und ein Gefühl der Enge in der Brust genannt.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Posttraumatische Belastungsstörung",
+         "url": "https://gesund.bund.de/posttraumatische-belastungsstoerung",
+         "kind": "summary",
+         "upd": "2023-03-17"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Schwer, mit Kontrollieren oder Wiederholen aufzuhören",
+      "lead": "Wenn Sie das Türschloss oder den Herd kontrollieren, sich die Hände waschen oder andere Handlungen immer wieder wiederholen und es schwer ist aufzuhören, obwohl Sie es möchten.",
+      "scenes": [
+       "Wenn ich das Haus verlasse, muss ich das Türschloss oder den Herd immer wieder kontrollieren, sonst kann ich nicht beruhigt gehen.",
+       "Ich wasche mir die Hände oder den Körper immer öfter und kann nicht aufhören, auch wenn ich es möchte.",
+       "Derselbe Sorgengedanke kommt immer wieder, und ich kann nicht aufhören, daran zu denken, obwohl ich es möchte.",
+       "Wenn Dinge nicht so liegen oder in der Reihenfolge ablaufen, wie ich es festgelegt habe, werde ich unruhig und räume um oder fange von vorn an.",
+       "Das Kontrollieren dauert so lange, dass ich zu spät losgehe oder zu spät zu Terminen oder zur Arbeit komme.",
+       "Mein Körper bewegt sich oder ich gebe Laute von mir, ohne es zu wollen, und es fällt mir schwer, das zu stoppen, auch wenn ich es versuche."
+      ],
+      "asks": [
+       "Bitte sagen Sie mir nicht nur, dass ich mir zu viele Gedanken mache, sondern hören Sie mir zuerst zu.",
+       "Das Kontrollieren kostet mich Zeit, bitte planen Sie etwas mehr Zeit ein.",
+       "Wenn sich Pläne oder Abläufe ändern, sagen Sie mir bitte vorher Bescheid.",
+       "Bitte sprechen Sie mich nicht vor anderen darauf an und machen Sie sich nicht lustig über mich, wenn ich etwas kontrolliere oder mir die Hände wasche.",
+       "Bitte erklären Sie mir Dinge und geben Sie mir Anweisungen eins nach dem anderen und schriftlich.",
+       "Bitte hören Sie sich zuerst meine Sorgen an, bevor wir in Ruhe entscheiden, wie es weitergeht."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Zwangsstörung",
+        "why": "„Menschen mit einer Zwangsstörung wiederholen ständig bestimmte Handlungen oder Gedanken.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Zwangsstörung",
+         "url": "https://gesund.bund.de/zwangsstoerung",
+         "kind": "quote",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Laut dieser Seite können sich die Sorgen bei einer generalisierten Angststörung auf fast alles im Leben richten. Als Erkrankung mit ähnlichen Beschwerden nennt die Seite unter anderem die Zwangsstörung.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Diese Seite nennt unter den seelischen Beschwerden einer Depression Schuldgefühle und ständiges Grübeln.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "„Menschen mit Autismus neigen dazu, einige Verhaltensweisen ständig zu wiederholen, zum Beispiel mit den Armen zu wedeln oder Dinge stets auf eine ganz bestimmte Art zu erledigen.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "quote",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Schwierigkeiten, die nach einem belastenden Erlebnis anhalten",
+      "lead": "Erinnerungen, die immer wiederkommen, schlechter Schlaf oder eine Anspannung, die nach einem belastenden Erlebnis nicht nachlässt.",
+      "scenes": [
+       "Ein kleiner Anlass genügt, und die schlimme Szene und meine Gefühle von damals sind plötzlich wieder da.",
+       "Ich habe immer wieder ähnliche Albträume und schlafe in vielen Nächten nicht tief.",
+       "Ich stehe ständig unter Spannung, und schon ein kleines Geräusch oder Ereignis lässt mich zusammenzucken.",
+       "Ich meide nach Möglichkeit Orte, Menschen und Themen, die mich an die Zeit von damals erinnern, und mein Alltag ist dadurch enger geworden.",
+       "Ich fühle mich innerlich wie taub und kann meiner Familie und meinem Freundeskreis nicht mehr so zugewandt sein wie früher.",
+       "Ich gebe mir immer häufiger die Schuld, oder es fällt mir schwerer, den Menschen um mich herum zu vertrauen."
+      ],
+      "asks": [
+       "Bitte fragen Sie nicht nach jedem Detail dessen, was geschehen ist. Ich möchte in meinem eigenen Tempo erzählen, nur so viel, wie ich kann.",
+       "Bestimmte Geräusche, Orte und Themen bringen alles wieder hoch. Wenn ich sage, dass ich sie lieber meiden möchte, nehmen Sie das bitte an.",
+       "Bitte sprechen Sie mich nicht plötzlich von hinten an und machen Sie in meiner Nähe keine lauten Geräusche.",
+       "Wenn das Sprechen zu schwerfällt, lassen Sie mich Ihnen bitte etwas Geschriebenes geben.",
+       "Bitte halten Sie Tage, an denen ich nicht schlafen kann oder die Erschöpfung bleibt, nicht für Faulheit.",
+       "Bitte drängen Sie mich nicht mit Sätzen wie „Vergiss es einfach“ oder „Das ist doch schon lange her“, sondern sorgen Sie für einen Ort, an dem ich mich sicher fühle und in Ruhe sprechen kann."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schlafstörungen (Insomnie)",
+        "why": "Diese Seite nennt Sorgen und Stress sowie belastende Lebensereignisse unter den möglichen Ursachen von Schlafstörungen. Nicht erholsam ist der Schlaf laut der Seite zum Beispiel bei langem Einschlafen, häufigem Aufwachen in der Nacht oder zu frühem Erwachen am Morgen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Akute Belastungsreaktion",
+        "why": "Laut dieser Seite spricht man bei Beschwerden, die unmittelbar nach einem traumatischen Erlebnis auftreten, von einer akuten Belastungsreaktion. Sie schreibt, dass erste Beschwerden schon während des Erlebnisses oder kurz danach beginnen können.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Posttraumatische Belastungsstörung",
+         "url": "https://gesund.bund.de/posttraumatische-belastungsstoerung",
+         "kind": "summary",
+         "upd": "2023-03-17"
+        }
+       },
+       {
+        "name": "Posttraumatische Belastungsstörung (PTBS)",
+        "why": "Diese Seite beschreibt, dass bei einer PTBS belastende Erinnerungen an das Erlebte immer wieder auftauchen, auch in Form von Albträumen. Menschen mit PTBS sind demnach oft ständig in Alarmbereitschaft, schlafen schlecht und meiden Situationen, Orte oder Gespräche, die an das Erlebte erinnern.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Posttraumatische Belastungsstörung",
+         "url": "https://gesund.bund.de/posttraumatische-belastungsstoerung",
+         "kind": "summary",
+         "upd": "2023-03-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Diese Seite zählt belastende Erlebnisse zu den Faktoren, die eine Depression begünstigen können. Als Beschwerden nennt sie unter anderem Niedergeschlagenheit, Erschöpfung und Schlafstörungen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Diese Seite erwähnt, dass es im Leben mancher Menschen mit einer Angststörung schwere belastende Erfahrungen gab, etwa ein Trauma oder Verluste. Auch Lebenskrisen werden dort als mögliche Auslöser von Ängsten genannt.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Schwierigkeiten mit dem Schlaf",
+      "lead": "Schwer einschlafen, nachts aufwachen, morgens schwer aufstehen oder tagsüber stark schläfrig sein.",
+      "scenes": [
+       "Auch wenn ich schon im Bett liege, schlafe ich nur schwer ein.",
+       "Ich wache nachts mehrmals auf und schlafe bis zum Morgen nie richtig durch.",
+       "Zur gewohnten Zeit komme ich morgens nicht aus dem Bett und schaffe es immer wieder nicht rechtzeitig zur Arbeit, zur Ausbildung oder zur Schule.",
+       "Tagsüber überfällt mich starke Schläfrigkeit, und in Besprechungen oder am Steuer döse ich beinahe ein.",
+       "Meine Familie sagt mir, dass ich laut schnarche und dass meine Atmung im Schlaf manchmal auszusetzen scheint.",
+       "Am Abend und in der Nacht fühlen sich meine Beine unangenehm an, ich komme nicht zur Ruhe und kann nicht schlafen."
+      ],
+      "asks": [
+       "Bitte hören Sie sich in Ruhe an, wie es mit meinem Schlaf steht: Einschlafen, Aufwachen in der Nacht, Schwierigkeiten beim Aufstehen am Morgen und Schläfrigkeit am Tag.",
+       "Bitte überlegen Sie mit mir gemeinsam, was eine Rolle spielen kann, auch die Medikamente, die ich nehme, und meine Gewohnheiten mit Kaffee, Alkohol und Zigaretten.",
+       "Bitte tun Sie es nicht als „reine Kopfsache“ ab, sondern schauen Sie auch auf meine körperliche Gesundheit und meine Stimmung.",
+       "Ich möchte Ihnen meine Schlafzeiten mit einer Notiz zeigen, in der steht, wann ich ins Bett gegangen und wann ich aufgestanden bin. Bitte sehen Sie sich diese an.",
+       "Falls mir ein Medikament angeboten wird, erklären Sie mir bitte in einfachen Worten, wie es wirkt und worauf ich achten muss.",
+       "Morgens fällt mir vieles schwer. Wenn möglich, geben Sie mir bitte einen Termin am Nachmittag oder am frühen Abend."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schlafstörungen (Insomnie)",
+        "why": "Diese Seite beschreibt, dass der Schlaf aus vielen Gründen gestört sein kann, zum Beispiel durch Lärm, Sorgen und Stress, Schichtarbeit oder körperliche Beschwerden. Nicht erholsam ist der Schlaf laut der Seite zum Beispiel bei langem Einschlafen, häufigem Aufwachen in der Nacht oder zu frühem Erwachen am Morgen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Obstruktive Schlafapnoe",
+        "why": "Laut dieser Seite setzt bei einer obstruktiven Schlafapnoe im Schlaf immer wieder die Atmung aus, meistens ohne dass es bemerkt wird. Viele Betroffene schnarchen laut und sind am Tag trotz ausreichend Schlaf schläfrig und erschöpft.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Obstruktive Schlafapnoe (OSA)",
+         "url": "https://gesund.bund.de/obstruktive-schlafapnoe-osa",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Restless-Legs-Syndrom",
+        "why": "„Menschen mit Restless-Legs-Syndrom (RLS) spüren ein unangenehmes Kribbeln oder Ziehen in den Beinen und den quälenden Drang, die Beine zu bewegen.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Restless-Legs-Syndrom",
+         "url": "https://gesund.bund.de/restless-legs-syndrom",
+         "kind": "quote",
+         "upd": "2025-11-13"
+        }
+       },
+       {
+        "name": "Gestörter Schlaf-Wach-Rhythmus",
+        "why": "Diese Seite nennt Schichtarbeit unter den möglichen Ursachen für gestörten Schlaf. An anderer Stelle spricht sie von einem gestörten Schlaf-Wach-Rhythmus, zum Beispiel durch Schichtarbeit oder Zeitverschiebung (Jetlag).",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Schlafmangel",
+        "why": "Laut dieser Seite kann dauerhafter Schlafmangel der Gesundheit schaden und die Leistungsfähigkeit von Körper und Geist sowie die Psyche beeinträchtigen. Wie viel Schlaf jemand braucht, ist nach der Seite von Person zu Person unterschiedlich.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Gut schlafen",
+         "url": "https://gesund.bund.de/gut-schlafen",
+         "kind": "summary",
+         "upd": "2023-03-27"
+        }
+       },
+       {
+        "name": "Körperliche Erkrankungen (zum Beispiel der Schilddrüse, des Herzens oder der Lunge)",
+        "why": "„Den Schlaf stören können unter anderem eine chronische Nierenschwäche sowie Erkrankungen der Schilddrüsen, des Herzens und der Lunge.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "quote",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Alkohol, Koffein und bestimmte Medikamente",
+        "why": "Diese Seite nennt Alkohol, Drogen und Koffein sowie bestimmte Medikamente unter den möglichen Ursachen für gestörten Schlaf. Laut dieser Seite fragen Ärztinnen und Ärzte im Gespräch nach Medikamenten und nach dem Konsum von koffeinhaltigen Getränken, Alkohol oder Drogen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Diese Seite nennt Müdigkeit und Schlafstörungen unter den körperlichen Beschwerden, die bei einer Depression vorkommen können. Außerdem schreibt sie, dass viele Betroffene schlecht schlafen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Schwierigkeiten mit dem Essen",
+      "lead": "Wenn Essen schwerfällt: Sie können nicht viel essen, Sie können nicht aufhören, oder Essen macht Ihnen Angst.",
+      "scenes": [
+       "Ich habe keine Lust zu essen, und seit einigen Tagen bekomme ich kaum etwas herunter.",
+       "Wenn ich einmal angefangen habe zu essen, kann ich nicht mehr aufhören, und manchmal esse ich so viel, dass es wehtut.",
+       "Ohne es zu merken, denke ich nur noch an Essen, und es fällt mir schwer, mich auf etwas anderes zu konzentrieren.",
+       "Ich kann nur sehr wenige Lebensmittel essen und meide viele wegen ihres Geschmacks, ihres Geruchs oder ihrer Konsistenz.",
+       "Nachdem ich mich an einem Bissen verschluckt habe oder erbrechen musste, habe ich Angst vor dem Essen bekommen.",
+       "Nachts esse ich manchmal halb im Schlaf, und am Morgen weiß ich nichts mehr davon."
+      ],
+      "asks": [
+       "Bitte machen Sie keine Bemerkungen zu meinem Körper oder meinem Aussehen.",
+       "Bitte zwingen Sie mich nicht zum Essen und setzen Sie mich beim Essen nicht unter Druck.",
+       "Wenn alle zusammen essen, lassen Sie mich bitte einen anderen Ort oder eine andere Zeit wählen.",
+       "Bitte fragen Sie mich zuerst, was ich essen kann und welche Gerüche oder Konsistenzen mir schwerfallen.",
+       "Bitte erklären Sie mir vorher, wie die körperliche Untersuchung und die weiteren Untersuchungen ablaufen.",
+       "Bitte erlauben Sie mir, Ihnen aufzuschreiben, was ich nur schwer laut sagen kann."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Körperliche Erkrankungen (zum Beispiel chronisch entzündliche Darmerkrankungen oder eine Schilddrüsenüberfunktion)",
+        "why": "Laut dieser Seite können verschiedene chronische Erkrankungen zu Gewichtsverlust führen, zum Beispiel chronisch entzündliche Darmerkrankungen oder eine Schilddrüsenüberfunktion.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Untergewicht",
+         "url": "https://gesund.bund.de/untergewicht",
+         "kind": "summary",
+         "upd": "2025-10-31"
+        }
+       },
+       {
+        "name": "Reizmagensyndrom (funktionelle Dyspepsie)",
+        "why": "Laut dieser Seite ist man bei einem Reizmagen typischerweise schon früh beim Essen satt, fühlt sich danach voll oder hat Magenschmerzen. Dadurch fällt es vielen Betroffenen schwer, Essen und Trinken zu genießen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Reizmagensyndrom (funktionelle Dyspepsie)",
+         "url": "https://gesund.bund.de/reizmagen-funktionelle-dyspepsie",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Essstörungen (Magersucht, Bulimie, Binge-Eating-Störung)",
+        "why": "„Es gibt verschiedene Formen von Essstörungen: die bedeutendsten sind Magersucht (Anorexia nervosa), Ess-Brech-Sucht (Bulimie) und die Binge-Eating-Störung.“",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Essstörungen",
+         "url": "https://gesund.bund.de/essstoerungen",
+         "kind": "quote",
+         "upd": "2025-08-12"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Diese Seite zählt Appetitlosigkeit sowie Gewichtsverlust oder Gewichtszunahme zu den körperlichen Beschwerden, die bei einer Depression vorkommen können. Als häufige Beschwerden nennt sie außerdem Niedergeschlagenheit, Antriebslosigkeit und Interessenverlust.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Diese Seite nennt Essstörungen unter den weiteren Schwierigkeiten, die bei Menschen mit Autismus auftreten können. Außerdem beschreibt sie, dass manche Menschen mit Autismus auf Geräusche, Gerüche oder Berührungen besonders empfindlich reagieren.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "summary",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "deessen",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Schwer, mit Alkohol, Glücksspiel oder Videospielen aufzuhören",
+      "lead": "Wenn Sie aufhören oder weniger machen möchten, aber trotzdem weitermachen.",
+      "scenes": [
+       "Ich nehme mir vor, aufzuhören oder weniger zu machen, merke dann aber, dass ich trotzdem weitermache.",
+       "Ich schaffe es nicht, mich an die Zeit, die Menge oder das Geld zu halten, die ich mir für den Tag vorgenommen habe.",
+       "Ich verheimliche das Trinken, die Videospiele oder das Glücksspiel vor Menschen, die mir nahestehen, oder ich rede es schön.",
+       "Ich spiele oft bis tief in die Nacht Videospiele, komme morgens nicht aus dem Bett, und es kommt immer öfter vor, dass ich zu spät komme oder fehle.",
+       "Wenn ich verliere, will ich das Geld unbedingt zurückgewinnen und setze deshalb noch einmal, zum Beispiel an Spielautomaten oder bei Sportwetten.",
+       "Obwohl ich weiß, dass es meinem Körper nicht gut geht, schaffe ich es nicht, weniger zu trinken."
+      ],
+      "asks": [
+       "Bitte hören Sie mir zuerst zu, ohne mir Vorwürfe zu machen oder über mich zu urteilen.",
+       "Bitte gehen Sie gemeinsam mit mir Schritt für Schritt durch, wie meine Gewohnheiten aussehen und welche Schwierigkeiten sie mir machen.",
+       "Bitte schauen Sie sich auch meinen Schlaf und meine körperliche Gesundheit an.",
+       "Bitte nennen Sie mir konkret, wo ich Hilfe bekommen kann und wohin ich gehen kann.",
+       "Bitte sagen Sie mir auch, ob meine Familie oder eine mir nahestehende Person mit zum Gespräch kommen kann.",
+       "Bitte sagen Sie mir vorab, wem Sie weitergeben, was ich Ihnen erzähle, und wie viel davon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alkoholische Fettleber",
+        "why": "Laut dieser Seite kann sich in der Leber Fett einlagern, wenn man über lange Zeit zu viel Alkohol trinkt. Weil eine kranke Leber nicht schmerzt, merkt man das selbst kaum; die Seite rät deshalb, die Leberwerte im Blut regelmäßig kontrollieren zu lassen.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Alkohol und Leber",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-leber/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Schlafstörungen (Insomnie)",
+        "why": "Diese Seite nennt Alkohol und Koffein unter den Ursachen, die den Schlaf stören können. Außerdem beschreibt sie, dass Ärztinnen und Ärzte danach fragen, ob und wann Alkohol getrunken wird.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Alkoholabhängigkeit",
+        "why": "Diese Seite erklärt, dass sich das Gehirn bei häufigem Alkoholkonsum an den Alkohol gewöhnt, sodass mit der Zeit immer mehr davon nötig wird und sich weniger Alkohol schlechter anfühlen kann. Diese Gewöhnung kann laut Seite in einer Alkoholabhängigkeit enden.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Alkohol und Gehirn",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-gehirn/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Glücksspielsucht",
+        "why": "Diese Seite zählt zu den typischen Merkmalen einer Glücksspielsucht, dass man das Spielen nur schwer bremsen kann, Verluste mit neuen Einsätzen wieder hereinholen will und es nicht schafft, mit dem Glücksspiel aufzuhören.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Glücksspielsucht",
+         "url": "https://gesund.bund.de/gluecksspielsucht",
+         "kind": "summary",
+         "upd": "2025-09-03"
+        }
+       },
+       {
+        "name": "Computerspielstörung (Gaming Disorder)",
+        "why": "Diese Seite führt die Computerspielstörung als Suchterkrankung auf. Für die Online-Sucht beschreibt sie einen Kontrollverlust, bei dem trotz spürbarer negativer Folgen weitergemacht wird und Schule, Beruf, Hobbys und soziales Leben zu kurz kommen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Online-Sucht",
+         "url": "https://gesund.bund.de/online-sucht",
+         "kind": "summary",
+         "upd": "2025-07-02"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Laut dieser Seite hängen Alkoholprobleme und Depressionen oft zusammen und können sich gegenseitig verschlimmern. Manche Menschen mit einer Depression greifen zum Alkohol, um sich kurzfristig besser zu fühlen, und umgekehrt kann viel Alkohol über lange Zeit eine Depression mit auslösen.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Depression und Alkohol",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-depressionen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS)",
+        "why": "Diese Seite weist darauf hin, dass Probleme mit der Internetnutzung oft zusammen mit anderen psychischen Erkrankungen vorkommen. Als Beispiel nennt sie ADHS.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Online-Sucht",
+         "url": "https://gesund.bund.de/online-sucht",
+         "kind": "summary",
+         "upd": "2025-07-02"
+        }
+       }
+      ],
+      "windows": [
+       "desdh",
+       "desuchtberatung",
+       "degluecks",
+       "dehausarzt",
+       "desozpsych"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Schwierigkeiten mit Aufmerksamkeit und Planung",
+      "lead": "Schwierigkeiten, sich zu konzentrieren, Schritt für Schritt voranzukommen oder sich Dinge zu merken.",
+      "scenes": [
+       "Selbst wenn mir jemand etwas erzählt, sind meine Gedanken plötzlich woanders, ohne dass ich es merke.",
+       "Ich schaffe es nicht, die Arbeit oder den Haushalt der Reihe nach zu erledigen, und halte Fristen nicht ein.",
+       "Ich vergesse häufig, worum man mich gebeten hat oder was ich versprochen habe, oder ich verliere Dinge.",
+       "Wenn ich lange dieselbe Aufgabe mache, häufen sich Flüchtigkeitsfehler.",
+       "Wenn ich lange still sitzen muss, werde ich unruhig und zappelig.",
+       "Menschen in meinem Umfeld sagen mir, dass ich oft etwas vergesse oder zu spät komme."
+      ],
+      "asks": [
+       "Bitte geben Sie mir Anweisungen einzeln, eine nach der anderen.",
+       "Bitte schreiben Sie wichtige Informationen auf und geben Sie sie mir schriftlich mit.",
+       "Bitte sagen Sie mir Fristen und Termine möglichst früh.",
+       "Bitte geben Sie mir nicht zu viele Aufgaben auf einmal, sondern teilen Sie sie in kleine Schritte auf.",
+       "Ich würde gern an einem ruhigen Ort sprechen, an dem ich wenig abgelenkt werde.",
+       "Bitte machen Sie mir keine Vorwürfe für das, was nicht geklappt hat, sondern würdigen Sie, was ich geschafft habe."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schilddrüsenunterfunktion",
+        "why": "Laut dieser Seite können bei einer Schilddrüsenunterfunktion neben Müdigkeit auch Schwierigkeiten mit der Konzentration und mit dem Gedächtnis dazukommen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenunterfunktion",
+         "url": "https://gesund.bund.de/schilddruesenunterfunktion",
+         "kind": "summary",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Obstruktive Schlafapnoe (OSA)",
+        "why": "Diese Seite beschreibt nächtliche Atemaussetzer, die meist unbemerkt bleiben und tagsüber zu starker Müdigkeit führen können. Sie nennt auch Konzentrations- und Gedächtnisstörungen als mögliche Folge.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Obstruktive Schlafapnoe (OSA)",
+         "url": "https://gesund.bund.de/obstruktive-schlafapnoe-osa",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Schlafmangel",
+        "why": "Laut dieser Seite wirken sich zu wenig und zu schlechter Schlaf auch auf die geistige Leistungsfähigkeit aus.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Gut schlafen",
+         "url": "https://gesund.bund.de/gut-schlafen",
+         "kind": "summary",
+         "upd": "2023-03-27"
+        }
+       },
+       {
+        "name": "Restless-Legs-Syndrom",
+        "why": "Diese Seite beschreibt einen starken Drang, die Beine zu bewegen, der in Ruhe auftritt und den Schlaf stören kann. Tagsüber kann es dann laut Seite schwerer fallen, sich zu konzentrieren.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Restless-Legs-Syndrom",
+         "url": "https://gesund.bund.de/restless-legs-syndrom",
+         "kind": "summary",
+         "upd": "2025-11-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Laut dieser Seite gehört es zu den typischen Beschwerden einer Depression, dass es schwerfällt, sich zu konzentrieren und Entscheidungen zu treffen. Auch der Alltag, die Arbeit oder das Lernen können dann Mühe machen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Diese Seite beschreibt eine Angst, die nahezu ständig da ist. Dabei können laut Seite Erschöpfung sowie Schwierigkeiten mit der Konzentration und mit dem Schlaf dazukommen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS)",
+        "why": "Diese Seite schreibt, dass ADHS bis ins Erwachsenenalter bestehen bleiben kann und sich dann oft als innere Unruhe oder Rastlosigkeit zeigt. Auch Schwierigkeiten bei der Arbeit und in Beziehungen werden genannt.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "ADHS",
+         "url": "https://gesund.bund.de/adhs",
+         "kind": "summary",
+         "upd": "2022-10-21"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Laut dieser Seite fällt es Menschen mit Autismus schwer, flexibel und spontan zu handeln, und sie legen großen Wert auf feste Abläufe. Unter den Beeinträchtigungen, die zusätzlich auftreten können, nennt die Seite auch ADHS.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "summary",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "deeutb",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Schwierigkeiten mit anderen Menschen, festen Gewohnheiten und Sinneseindrücken",
+      "lead": "Schwierigkeiten, mit anderen zu sprechen oder zusammen zu sein, ein starkes Bedürfnis, Dinge auf eine bestimmte Art zu tun, oder Geräusche, Licht und Gerüche, die schwer auszuhalten sind.",
+      "scenes": [
+       "In einem Gespräch fällt es mir schwer, zu erfassen, was mein Gegenüber fühlt oder wie die Stimmung im Raum ist, und ich habe oft den Eindruck, dass wir aneinander vorbeireden.",
+       "Wenn ich vor Leuten sprechen muss oder alle Blicke auf mich gerichtet sind, werde ich sehr angespannt und gehe solchen Situationen aus dem Weg.",
+       "Mit Menschen, die mir nahestehen, kann ich sprechen, aber vor anderen bringe ich keinen Ton heraus.",
+       "Wenn sich mein gewohntes Vorgehen, die Reihenfolge der Schritte oder der Platz meiner Sachen ändert, löst das bei mir starke Unruhe aus.",
+       "Geräusche, Licht und Gerüche nehme ich sehr stark wahr, und Orte mit vielen Menschen sind für mich schwer auszuhalten.",
+       "Ich kann schlecht hören, was andere sagen, oder meine Stimmung ist gedrückt, und es fällt mir inzwischen schwer, Menschen zu treffen oder mit ihnen zu sprechen."
+      ],
+      "asks": [
+       "Bitte sprechen Sie langsam und deutlich.",
+       "Bitte schreiben Sie mir wichtige Dinge auf.",
+       "Ich würde gern an einem ruhigen Ort sprechen.",
+       "Bitte sagen Sie mir vorher Bescheid, wenn sich Pläne oder Abläufe ändern.",
+       "Bitte drängen Sie mich nicht, sondern lassen Sie mir Zeit zum Antworten.",
+       "Ich würde gern schriftlich oder mit einer kurzen Notiz antworten, statt zu sprechen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schwerhörigkeit",
+        "why": "Wer schlecht hört, kann sich laut dieser Seite schwerer mit anderen verständigen, manche vor allem dann, wenn es viele Nebengeräusche gibt. Manche haben dadurch weniger Kontakt zu anderen, fühlen sich ausgeschlossen oder sind oft bedrückt.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schwerhörigkeit und Gehörlosigkeit bei Erwachsenen",
+         "url": "https://gesund.bund.de/schwerhoerigkeit-gehoerlosigkeit-erwachsene",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       },
+       {
+        "name": "Tinnitus (Ohrgeräusche)",
+        "why": "Laut dieser Seite kann bei manchen Menschen mit Tinnitus das Gehör überempfindlich auf Schall reagieren, sodass sie laute Orte als unangenehm erleben.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Tinnitus",
+         "url": "https://gesund.bund.de/tinnitus",
+         "kind": "summary",
+         "upd": "2024-08-28"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Laut dieser Seite gehört der Rückzug von Familie und Freunden zu den typischen Beschwerden einer Depression. Die Seite beschreibt auch, dass soziale Kontakte dann gemieden werden können.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Zwangsstörung",
+        "why": "Laut dieser Seite sind Menschen mit einem Ordnungszwang überzeugt, dass Dinge genau an ihrem festen Platz und in einer festen Richtung stehen müssen; versuchen sie, solche Handlungen zu unterdrücken, werden sie unruhig, angespannt und ängstlich. Eine fortgeschrittene Zwangsstörung kann laut Seite auch das private Umfeld und die Partnerschaft belasten.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Zwangsstörung",
+         "url": "https://gesund.bund.de/zwangsstoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Laut dieser Seite fällt es Menschen mit Autismus schwerer, die Gefühle anderer zu verstehen, und sie legen großen Wert auf feste Abläufe. Auf Reize wie Geräusche, Gerüche oder Berührungen reagieren sie manchmal besonders stark oder kaum.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "summary",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "deeutb",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Schwierigkeiten mit Lesen, Schreiben oder Rechnen",
+      "lead": "Wenn Lesen, Schreiben oder der Umgang mit Zahlen trotz Mühe schwer bleibt.",
+      "scenes": [
+       "Ich brauche länger als andere, um einen Text zu lesen, und muss ihn oft mehrmals lesen.",
+       "Auch nach dem Lesen kommt der Inhalt bei mir nicht an, und es fällt mir schwer zu verstehen, was in Unterlagen oder Briefen steht.",
+       "Mit der Rechtschreibung habe ich Mühe: Ich mache viele Fehler oder vergesse beim Schreiben Buchstaben oder Wörter.",
+       "Meine Handschrift ist unregelmäßig, und Schreiben kostet mich viel Zeit und Kraft.",
+       "Bei einfachen Rechenaufgaben und bei Textaufgaben komme ich nicht weiter.",
+       "Ich kann ohne Schwierigkeiten sprechen und zuhören, aber beim Lesen, Schreiben oder Rechnen komme ich nicht so voran, wie ich möchte, auch wenn ich mir viel Zeit nehme."
+      ],
+      "asks": [
+       "Bitte zeigen Sie mir Texte in großer Schrift und mit weitem Zeilenabstand, und erklären Sie mir Wichtiges in einfachen Worten oder in Leichter Sprache.",
+       "Bitte lesen Sie mir wichtige Inhalte laut vor oder sagen Sie sie mir mündlich.",
+       "Bitte lassen Sie mich, statt mit der Hand zu schreiben, am Computer oder Handy tippen oder etwas mit Fotos oder Sprachaufnahmen festhalten.",
+       "Bitte lassen Sie mich beim Rechnen einen Taschenrechner benutzen.",
+       "Bitte geben Sie mir mehr Zeit zum Lesen, Schreiben und Rechnen.",
+       "Bitte geben Sie mir nicht alles auf einmal, sondern eins nach dem anderen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alterssichtigkeit (Presbyopie)",
+        "why": "Diese Seite beschreibt, dass eine Alterssichtigkeit meist zuerst beim Lesen auffällt: Das Sehen in der Nähe lässt nach, und längeres Lesen strengt die Augen an.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Alterssichtigkeit (Presbyopie)",
+         "url": "https://gesund.bund.de/alterssichtigkeit-presbyopie",
+         "kind": "summary",
+         "upd": "2024-10-18"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Laut dieser Seite kann eine Depression dazu führen, dass Lernen, Arbeiten und alltägliche Aufgaben nur schwer gelingen. Unter den Beschwerden nennt sie auch Schwierigkeiten, sich zu konzentrieren und Entscheidungen zu treffen.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Legasthenie (Lese-Rechtschreib-Störung)",
+        "why": "Diese Seite schreibt, dass Schwierigkeiten beim Lesen, Schreiben oder Rechnen nicht unbedingt etwas über Intelligenz oder Fleiß aussagen. Als mögliche Gründe nennt sie eine Legasthenie oder eine Dyskalkulie und zählt beide zu den Teilleistungsstörungen.",
+        "src": {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Trotz Hürden zum Abitur",
+         "url": "https://www.arbeitsagentur.de/bildung/berufe-und-wege/erfahrungsbericht-trotz-huerden-abitur",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Dyskalkulie (Rechenstörung)",
+        "why": "Diese Seite nennt die Dyskalkulie, eine Rechenstörung, als möglichen Grund dafür, dass jemand nicht gut rechnen kann. Das muss nach der Seite nichts mit geringerer Intelligenz oder weniger Fleiß zu tun haben.",
+        "src": {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Trotz Hürden zum Abitur",
+         "url": "https://www.arbeitsagentur.de/bildung/berufe-und-wege/erfahrungsbericht-trotz-huerden-abitur",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "deeutb",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Starke Stimmungsschwankungen",
+      "lead": "Wenn die Stimmung stark auf und ab geht und es schwer ist, mit den eigenen Gefühlen Schritt zu halten.",
+      "scenes": [
+       "Zeiten, in denen ich viel zu viel Energie habe, wechseln sich mit Zeiten ab, in denen ich so niedergedrückt bin, dass ich mich kaum bewegen kann.",
+       "Es gibt Zeiten, in denen ich kaum schlafe und trotzdem voller Energie und ständig in Bewegung bin.",
+       "Mir fällt eine Idee nach der anderen ein, und alles bleibt halb fertig.",
+       "In einer übermütigen Stimmung habe ich schon einmal so viel Geld ausgegeben, dass ich später deswegen in Schwierigkeiten geraten bin.",
+       "Schon bei Kleinigkeiten werde ich gereizt, und es fällt mir schwer, meine Gefühle im Griff zu behalten.",
+       "Was ich getan habe, als meine Stimmung sehr hoch war, hat sich auf meine Beziehungen oder meine Arbeit ausgewirkt."
+      ],
+      "asks": [
+       "Bitte fragen Sie mich auch nach den Zeiten, in denen es mir ungewöhnlich gut ging und ich ungewöhnlich viel Energie hatte.",
+       "Bitte nehmen Sie sich Zeit, mit mir gemeinsam mein Auf und Ab durchzugehen.",
+       "Bitte helfen Sie mir, vor großen Entscheidungen über Geld oder Arbeit innezuhalten und zuerst nachzudenken.",
+       "Bitte schauen Sie auch nach körperlichen Ursachen, Schlaf, Medikamente und Alkohol eingeschlossen.",
+       "Wenn ich anders wirke als sonst, sagen Sie es mir bitte, ohne mir Vorwürfe zu machen.",
+       "Bitte hören Sie mir bis zum Ende zu, wenn es mir gut geht und wenn ich niedergedrückt bin."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schilddrüsenüberfunktion",
+        "why": "Diese Seite nennt innere Unruhe, Gereiztheit und Schlaflosigkeit unter den Beschwerden einer Schilddrüsenüberfunktion. Die Ursache liegt hier in einer zu hohen Hormonbildung der Schilddrüse, also im Körper.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://gesund.bund.de/schilddruesenueberfunktion",
+         "kind": "summary",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Schlafmangel",
+        "why": "Diese Seite beschreibt, dass Schlafmangel auf Dauer der Gesundheit schaden kann, und nennt dabei ausdrücklich auch Folgen für die Psyche und die geistige Leistungsfähigkeit.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Gut schlafen",
+         "url": "https://gesund.bund.de/gut-schlafen",
+         "kind": "summary",
+         "upd": "2023-03-27"
+        }
+       },
+       {
+        "name": "Alkohol (Wirkung und Entzugserscheinungen)",
+        "why": "Laut dieser Seite hebt Alkohol die Stimmung zunächst künstlich, bringt am Ende aber selbst Gereiztheit und Unwohlsein mit sich. Nach regelmäßigem, hohem Konsum kann es beim Wegfall des Alkohols zu Entzugserscheinungen kommen, die nach der Seite unter anderem eine Depression hervorrufen oder verschlimmern können.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Depression und Alkohol",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-depressionen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Prämenstruelle dysphorische Störung (PMDS)",
+        "why": "Diese Seite beschreibt beim prämenstruellen Syndrom vor der Regelblutung unter anderem Stimmungsschwankungen, Reizbarkeit und Niedergeschlagenheit. Eine besonders schwere Form, bei der vor allem psychische Beschwerden das Leben stark beeinträchtigen, nennt sie prämenstruelle dysphorische Störung (PMDS).",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://gesund.bund.de/praemenstruelles-syndrom-pms",
+         "kind": "summary",
+         "upd": "2022-10-21"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Diese Seite beschreibt Niedergeschlagenheit, Antriebslosigkeit und Interessenverlust als häufige Beschwerden einer Depression. Bei vielen Menschen kommen depressive Phasen laut der Seite immer wieder, und dazwischen liegen Zeiten ohne Beschwerden.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Bipolare Störung",
+        "why": "Diese Seite beschreibt, dass die Stimmung bei einer bipolaren Störung stark zwischen Hochgefühl mit viel Antrieb und Niedergeschlagenheit schwankt. Für manische Phasen nennt sie unter anderem ein geringeres Schlafbedürfnis, Selbstüberschätzung und manchmal Gereiztheit. Sie schreibt auch, dass die Phasen oft Arbeit und Familienleben belasten.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Bipolare Störung",
+         "url": "https://gesund.bund.de/bipolare-stoerung",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Wer einen Namen kennt, sieht in alltäglichen Schwankungen leichter ein Symptom",
+       "body": "Wer den Namen einer Erkrankung oder einer Entwicklungsstörung kennt, bei dem kann eine kleine Müdigkeit oder ein Moment der Unaufmerksamkeit leichter wie ein Symptom aussehen.\n\nGefühle können tatsächlich verändern, wie sich Körper und Stimmung anfühlen. Das ist keine Einbildung, das geschieht wirklich. Auch Schlafmangel, Stress, die Handynutzung oder das, was um einen herum geschieht, können Ähnliches bewirken.\n\nWenn Sie beim Lesen eines Namens denken: „Das könnte es sein“, bleiben Sie nicht gleich dabei stehen, sondern denken Sie auch an andere Gründe. Wenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, auch ohne einen Namen.",
+       "srcs": []
+      },
+      {
+       "h": "Schwankende Stimmung, Angst und den Wunsch, noch einmal nachzusehen, kennt fast jeder Mensch",
+       "body": "Schwankungen der Stimmung und den Wunsch, etwas sicherheitshalber noch einmal zu kontrollieren, kennt fast jeder Mensch. Das Nationale Gesundheitsportal schreibt auf seiner Seite zur Zwangsstörung: „Fast jeder Mensch macht mal etwas, wovon er weiß, dass es eigentlich übertrieben und gar nicht nötig ist. Etwa vor einer Reise zweimal zu kontrollieren, ob der Herd auch wirklich aus ist.“ Und auf der Seite zur generalisierten Angststörung: „Jeder Mensch fürchtet sich manchmal oder hat Angst.“\n\nEinen Namen für Beschwerden zu vergeben, ist Sache von Fachleuten, etwa von Ärztinnen und Ärzten. Im Gespräch erfragen sie die Beschwerden und achten zugleich darauf, ob eine andere Erkrankung oder ein anderes Problem hinter ähnlichen Beschwerden stecken kann. Manchmal gehört dazu auch eine Untersuchung des Körpers.\n\nWenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, welcher Name es auch sein mag.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Zwangsstörung",
+         "url": "https://gesund.bund.de/zwangsstoerung",
+         "kind": "quote",
+         "upd": "2026-02-05"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "quote",
+         "upd": "2026-02-05"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       ]
+      },
+      {
+       "h": "Auch ohne Diagnose können Sie über Ihre Schwierigkeiten sprechen",
+       "body": "Auch ohne den Namen einer Erkrankung können Sie über Ihre Schwierigkeiten sprechen, so wie sie sind. Eine Anlaufstelle dafür ist der Sozialpsychiatrische Dienst in Ihrer Region. Laut dem Nationalen Gesundheitsportal ist das Angebot kostenlos und an keine Voraussetzungen gebunden: Weder eine offizielle Diagnose noch eine Krankenversicherung ist nötig. Wer dort arbeitet, ist zur Verschwiegenheit verpflichtet, und Sie können sich auch anonym beraten lassen. Psychotherapie oder psychiatrische Versorgung bietet der Dienst selbst nicht an, er kann aber bei der Suche nach einem Psychotherapieplatz oder einer psychiatrischen Praxis helfen. Was er genau übernimmt, ist je nach Bundesland etwas verschieden.\n\nDie Hausarztpraxis beschreibt das Nationale Gesundheitsportal als die Stelle, an die man sich mit Fragen zur Gesundheit in der Regel zuerst wendet. Für ein erstes Gespräch in der psychotherapeutischen Sprechstunde braucht es laut Bundesgesundheitsministerium keine Überweisung; Versicherte können selbst eine Praxis ansprechen oder sich an die Terminservicestelle der Kassenärztlichen Vereinigung wenden.\n\nBei der Arbeit und bei Bundesbehörden sind drei Ebenen zu unterscheiden. Erstens verbietet das Allgemeine Gleichbehandlungsgesetz (AGG), Beschäftigte wegen einer Behinderung zu benachteiligen. Nach der Antidiskriminierungsstelle des Bundes fallen auch chronische Erkrankungen unter diesen Schutz, wenn sie den Alltag auf Dauer prägen und die Teilhabe an der Gesellschaft einschränken; psychische Erkrankungen rechnet sie ausdrücklich zu den chronischen Erkrankungen, die ebenso Behinderungen sein können. Eine amtliche Anerkennung nennt die Stelle dafür nicht als Voraussetzung. Zweitens regelt § 164 Absatz 4 des Neunten Buches Sozialgesetzbuch (SGB IX) ausdrückliche Ansprüche auf eine behinderungsgerechte Gestaltung des Arbeitsplatzes, der Arbeitsorganisation und der Arbeitszeit. Sie gelten für schwerbehinderte Menschen und für Menschen, die ihnen gleichgestellt sind, und nur, soweit das für den Arbeitgeber zumutbar und nicht mit unverhältnismäßigen Aufwendungen verbunden ist. Drittens gilt für Behörden und Einrichtungen des Bundes § 7 Absatz 2 des Behindertengleichstellungsgesetzes (BGG): Verweigern sie angemessene Vorkehrungen für Menschen mit Behinderungen, ist das eine Benachteiligung.\n\nBetriebsärztinnen und Betriebsärzte unterliegen der ärztlichen Schweigepflicht. Nach der Verordnung zur arbeitsmedizinischen Vorsorge stellt die Ärztin oder der Arzt dem Arbeitgeber eine Bescheinigung darüber aus, dass, wann und aus welchem Anlass ein Vorsorgetermin stattgefunden hat und wann der nächste ansteht. Diagnosen, Befunde und Einzelheiten des Gesprächs erfährt der Arbeitgeber wegen der Schweigepflicht nicht ohne Ihre Zustimmung. Eine Ausnahme sieht die Verordnung vor: Ergeben sich Anhaltspunkte, dass die Schutzmaßnahmen am Arbeitsplatz nicht ausreichen, teilt die Ärztin oder der Arzt das dem Arbeitgeber mit und schlägt Maßnahmen des Arbeitsschutzes vor. Hält die Ärztin oder der Arzt aus medizinischen Gründen, die allein in Ihrer Person liegen, einen Wechsel der Tätigkeit für nötig, darf sie oder er das dem Arbeitgeber nur mit Ihrer Einwilligung mitteilen.\n\nBei der elektronischen Krankmeldung über die gesetzliche Krankenkasse bekommt der Arbeitgeber laut dem Nationalen Gesundheitsportal keine Angaben zur Diagnose.\n\nFür Fragen rund um Teilhabe und Unterstützung gibt es die Ergänzende unabhängige Teilhabeberatung (EUTB). Die Beratung ist nach der zugehörigen Verordnung kostenlos und nicht an eine Teilhabebeeinträchtigung geknüpft.\n\nWas Sie sich wünschen und was möglich ist, hängt von der Situation und von der anderen Seite ab. Das wird im Gespräch geklärt.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Sozialpsychiatrischer Dienst",
+         "url": "https://gesund.bund.de/sozialpsychiatrischer-dienst",
+         "kind": "summary",
+         "upd": "2025-04-15"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Hausärztliche Praxis",
+         "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/notfaelle/hausaerztliche-praxis",
+         "kind": "summary",
+         "upd": "2026-04-23"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit",
+         "title": "Psychotherapeutische Sprechstunde",
+         "url": "https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/p/psychotherapeutische-sprechstunde",
+         "kind": "summary",
+         "upd": "2026-01-08"
+        },
+        {
+         "org": "Antidiskriminierungsstelle des Bundes",
+         "title": "Behinderung / chronische Krankheiten",
+         "url": "https://www.antidiskriminierungsstelle.gov.de/DE/ueber-diskriminierung/diskriminierungsmerkmale/behinderung-und-chronische-krankheiten/behinderung-und-chronische-krankheiten-node.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Allgemeines Gleichbehandlungsgesetz (AGG) § 7",
+         "url": "https://www.gesetze-im-internet.de/agg/__7.html",
+         "kind": "summary",
+         "upd": "2023-12-22"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Sozialgesetzbuch Neuntes Buch (SGB IX) § 164",
+         "url": "https://www.gesetze-im-internet.de/sgb_9_2018/__164.html",
+         "kind": "summary",
+         "upd": "2026-07-24"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Sozialgesetzbuch Neuntes Buch (SGB IX) § 151",
+         "url": "https://www.gesetze-im-internet.de/sgb_9_2018/__151.html",
+         "kind": "summary",
+         "upd": "2026-07-24"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Behindertengleichstellungsgesetz (BGG) § 7",
+         "url": "https://www.gesetze-im-internet.de/bgg/__7.html",
+         "kind": "summary",
+         "upd": "2022-05-23"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) § 8",
+         "url": "https://www.gesetze-im-internet.de/asig/__8.html",
+         "kind": "summary",
+         "upd": "2013-04-20"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Verordnung zur arbeitsmedizinischen Vorsorge (ArbMedVV) § 6",
+         "url": "https://www.gesetze-im-internet.de/arbmedvv/__6.html",
+         "kind": "summary",
+         "upd": "2026-05-11"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Die elektronische Arbeitsunfähigkeitsbescheinigung (eAU)",
+         "url": "https://gesund.bund.de/die-elektronische-arbeitsunfaehigkeitsbescheinigung-eau",
+         "kind": "summary",
+         "upd": "2024-11-13"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Teilhabeberatungsverordnung (EUTBV) § 2",
+         "url": "https://www.gesetze-im-internet.de/eutbv/__2.html",
+         "kind": "summary",
+         "upd": "2026-09-01"
+        }
+       ]
+      },
+      {
+       "h": "Für manche Leistungen werden aber ärztliche Unterlagen verlangt",
+       "body": "Für manche Leistungen sind ärztliche Unterlagen nötig. Was genau verlangt wird, hängt von der Leistung ab.\n\nFür einen Schwerbehindertenausweis stellt man einen Antrag beim zuständigen Amt; wie es heißt, ist je nach Bundesland verschieden, zum Beispiel Versorgungsamt oder Amt für Soziale Angelegenheiten. Das Amt stützt sich dabei auf ärztliche Unterlagen, etwa Entlassbriefe oder medizinische Gutachten.\n\nWer krank ist und nicht arbeiten kann, muss dem Arbeitgeber die Arbeitsunfähigkeit mitteilen. Dauert sie länger als ein paar Tage oder verlangt der Arbeitgeber die Bescheinigung früher, ist eine ärztliche Bescheinigung nötig (§ 5 Entgeltfortzahlungsgesetz). Bei der elektronischen Krankmeldung über die gesetzliche Krankenkasse geht die Diagnose an die Krankenkasse; der Arbeitgeber erhält keine Angaben dazu.\n\nAuch bei einer Rente wegen Erwerbsminderung stützt sich die Deutsche Rentenversicherung auf ärztliche Unterlagen, um zu klären, wie viel jemand noch arbeiten kann, und verlangt manchmal zusätzliche Gutachten.\n\nFür einen Nachteilsausgleich bei Prüfungen im Studium, zum Beispiel eine mündliche statt einer schriftlichen Prüfung oder mehr Zeit für die Abgabe von Arbeiten, braucht man nach der Bundesagentur für Arbeit eine Bescheinigung einer Fachärztin oder eines Facharztes. Prüfungsordnungen müssen die besonderen Belange von Studierenden mit Behinderungen berücksichtigen (§ 16 Hochschulrahmengesetz).\n\nFragen Sie am besten vor dem Antrag bei der zuständigen Stelle nach, was Sie brauchen.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Rechte von Menschen mit Schwerbehinderung",
+         "url": "https://gesund.bund.de/schwerbehinderung",
+         "kind": "summary",
+         "upd": "2025-01-01"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Entgeltfortzahlungsgesetz (EntgFG) § 5",
+         "url": "https://www.gesetze-im-internet.de/entgfg/__5.html",
+         "kind": "summary",
+         "upd": "2026-05-12"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Die elektronische Arbeitsunfähigkeitsbescheinigung (eAU)",
+         "url": "https://gesund.bund.de/die-elektronische-arbeitsunfaehigkeitsbescheinigung-eau",
+         "kind": "summary",
+         "upd": "2024-11-13"
+        },
+        {
+         "org": "Deutsche Rentenversicherung",
+         "title": "Erwerbsminderungsrenten",
+         "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Rentenarten-und-Leistungen/Erwerbsminderungsrente",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Studieren mit Behinderungen",
+         "url": "https://www.arbeitsagentur.de/bildung/studium/studieren-mit-behinderung",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Hochschulrahmengesetz (HRG) § 16",
+         "url": "https://www.gesetze-im-internet.de/hrg/__16.html",
+         "kind": "summary",
+         "upd": "2019-11-15"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Der Name einer Erkrankung ist kein Werkzeug, um sich über andere zu stellen",
+       "body": "Der Name einer Erkrankung ist kein Werkzeug, um sich über jemanden zu stellen oder auf andere herabzusehen.\nManche Menschen fühlen sich erleichtert, wenn sie einen Namen für das finden, was sie erleben. Das ist wichtig.\nAuch der Wunsch, dass die Menschen um einen herum einen verstehen oder freundlich zu einem sind, ist natürlich.\n\nWenn Sie sich wünschen, dass jemand freundlich mit Ihnen umgeht, können Sie das direkt sagen, ohne den Namen einer Erkrankung zu nennen.\nEs kommt leichter an, wenn Sie zwei Dinge zusammen sagen: womit Sie Schwierigkeiten haben und was Sie sich von der anderen Person wünschen.\n\nZum Beispiel können Sie sagen:\n„Ich bin heute müde, bitte sprechen Sie langsam mit mir.“\n„Wenn mir viel auf einmal gesagt wird, verliere ich den Faden. Bitte sagen Sie mir eins nach dem anderen.“\n„Was ich nur höre, kann ich mir schlecht merken. Bitte schreiben Sie Wichtiges auf, auf Papier oder per E-Mail.“\n„Orte mit vielen Menschen fallen mir schwer. Ich würde gern an einem ruhigen Ort sprechen.“\n„Ich brauche etwas Zeit zum Antworten. Bitte warten Sie einen Moment.“\n„Im Moment bin ich sehr aufgewühlt. Bitte hören Sie mir zuerst einfach zu. Ratschläge können später kommen.“\n„Mir geht es heute nicht gut. Bitte lassen Sie mich ein wenig ausruhen.“\n„Plötzliche Planänderungen bringen mich durcheinander. Bitte sagen Sie mir so früh wie möglich Bescheid.“\n„Wenn jemand laut mit mir spricht, bekomme ich Angst. Bitte sprechen Sie ruhig mit mir.“\n\nWenn es schwerfällt, es gut zu sagen, können Sie es auch auf Papier schreiben und übergeben. Sie können auch den Bildschirm „Meine Schwierigkeiten“ mit dem Knopf „Groß anzeigen“ zeigen; er erscheint in dieser App, wenn Sie eine Schwierigkeit wählen und die Fragen beantworten.\nWenn Sie den Namen einer Erkrankung nennen möchten, dürfen Sie das. Auch dann hilft es der anderen Person zu handeln, wenn Sie zugleich sagen, womit Sie Schwierigkeiten haben und was Sie sich wünschen.\nManchmal kann die andere Person nicht tun, worum Sie bitten, wegen ihrer eigenen Lage. Dann können Sie gemeinsam überlegen, ob es einen anderen Weg gibt.\n\nWenn Sie bei der Arbeit oder im Studium eine verbindliche Anpassung wünschen, können Sie mit der Betriebsärztin oder dem Betriebsarzt oder mit der zuständigen Stelle Ihrer Hochschule sprechen. Dafür können ärztliche Unterlagen nötig sein.\n\nBitte nutzen Sie die Liste der Namen in dieser App nicht, um an den Menschen um Sie herum zu zweifeln.",
+       "srcs": [
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) § 3",
+         "url": "https://www.gesetze-im-internet.de/asig/__3.html",
+         "kind": "summary",
+         "upd": "2013-04-20"
+        },
+        {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Studieren mit Behinderungen",
+         "url": "https://www.arbeitsagentur.de/bildung/studium/studieren-mit-behinderung",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Über diese App",
+       "body": "Das ist keine Diagnose. Diese Liste sagt nicht, ob Sie eine Erkrankung haben. Diese App ist kein Medizinprodukt und ersetzt kein Gespräch mit einer Ärztin, einem Arzt oder einer anderen Fachperson. Auch das Nationale Gesundheitsportal weist bei seinen Artikeln darauf hin, dass sie den Besuch bei einer Ärztin oder einem Arzt nicht ersetzen.\n\nIhre Antworten werden nirgendwohin gesendet und nicht auf diesem Gerät gespeichert. Sie verschwinden, wenn Sie die App schließen.\n\nUnabhängige App. SOYOGI ist eine nicht gewinnorientierte Gruppe aus Japan. SOYOGI steht in keiner Verbindung zur Bundesregierung, zu Bundesbehörden wie dem Bundesministerium für Gesundheit, dem BfArM oder dem Robert Koch-Institut, zu Krankenkassen, Kassenärztlichen Vereinigungen oder Einrichtungen des Gesundheitswesens und wird von keiner dieser Stellen empfohlen. Die Namen der Stellen zeigen nur, woher die Angaben stammen. Die Originaltexte können auf den Seiten der jeweiligen Stellen kostenlos gelesen werden.\n\nSOYOGI hat diese Inhalte mit eigenen Worten nach öffentlichen Seiten in Deutschland geschrieben; die wenigen wörtlich übernommenen Stellen stehen in Anführungszeichen. Die Quellen stehen auf jedem Bildschirm mit dem Datum der jeweiligen Seite. Stand: 21. Oktober 2026. Nummern und Zeiten können sich ändern, die Zeiten sind in deutscher Zeit angegeben.\n\nOb Sie sich Hilfe holen, entscheiden Sie, nicht die App.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "„Fühlen Sie sich anhaltend psychisch belastet oder geraten in eine psychische Krise, sollten Sie sich professionelle Hilfe suchen.“",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Psychische Gesundheit am Arbeitsplatz",
+       "url": "https://gesund.bund.de/psychische-gesundheit-am-arbeitsplatz",
+       "kind": "quote",
+       "upd": "2025-08-18"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Zur Hausarztpraxis schreibt das Nationale Gesundheitsportal: „In gesundheitlichen Fragen ist die Hausarztpraxis grundsätzlich die erste Anlaufstelle.“",
+       "src": {
+        "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+        "title": "Hausärztliche Praxis",
+        "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/notfaelle/hausaerztliche-praxis",
+        "kind": "quote",
+        "upd": "2026-04-23"
+       }
+      },
+      {
+       "text": "Zur Ergänzenden unabhängigen Teilhabeberatung (EUTB) heißt es in der Verordnung: „Die Inanspruchnahme der Beratung ist für die Ratsuchenden unentgeltlich. Sie setzt weder eine regionale Anbindung an ein Beratungsangebot voraus noch ist sie an eine Teilhabebeeinträchtigung geknüpft.“",
+       "src": {
+        "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+        "title": "Teilhabeberatungsverordnung (EUTBV) § 2",
+        "url": "https://www.gesetze-im-internet.de/eutbv/__2.html",
+        "kind": "quote",
+        "upd": "2026-09-01"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Dazu, wie Namen (Diagnosen) vergeben werden, steht auf einer öffentlichen Seite in Deutschland:",
+      "text": "Im Gespräch fragen Ärztinnen und Ärzte nach den Beschwerden. Sie achten auch darauf, ob eine andere Erkrankung oder ein anderes Problem hinter ähnlichen Beschwerden stecken kann, und untersuchen dafür manchmal auch den Körper.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+       "title": "Depression",
+       "url": "https://gesund.bund.de/depression",
+       "kind": "summary",
+       "upd": "2025-04-04"
       }
      }
     }
