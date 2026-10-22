@@ -28,7 +28,8 @@ window.KOMARI_DATA = {
   "jp",
   "us",
   "fr",
-  "de"
+  "de",
+  "es"
  ],
  "c": {
   "jp": {
@@ -37,7 +38,8 @@ window.KOMARI_DATA = {
     "ja": "日本",
     "en": "Japan",
     "fr": "Japon",
-    "de": "Japan"
+    "de": "Japan",
+    "es": "Japón"
    },
    "langs": [
     "ja",
@@ -3148,7 +3150,8 @@ window.KOMARI_DATA = {
     "ja": "アメリカ",
     "en": "United States",
     "fr": "États-Unis",
-    "de": "Vereinigte Staaten"
+    "de": "Vereinigte Staaten",
+    "es": "Estados Unidos"
    },
    "langs": [
     "en"
@@ -4862,7 +4865,8 @@ window.KOMARI_DATA = {
     "ja": "フランス",
     "en": "France",
     "fr": "France",
-    "de": "Frankreich"
+    "de": "Frankreich",
+    "es": "Francia"
    },
    "langs": [
     "fr"
@@ -6712,7 +6716,8 @@ window.KOMARI_DATA = {
     "ja": "ドイツ",
     "en": "Germany",
     "fr": "Allemagne",
-    "de": "Deutschland"
+    "de": "Deutschland",
+    "es": "Alemania"
    },
    "langs": [
     "de"
@@ -8552,6 +8557,1591 @@ window.KOMARI_DATA = {
        "url": "https://gesund.bund.de/depression",
        "kind": "summary",
        "upd": "2025-04-04"
+      }
+     }
+    }
+   }
+  },
+  "es": {
+   "id": "es",
+   "name": {
+    "ja": "スペイン",
+    "en": "Spain",
+    "fr": "Espagne",
+    "de": "Spanien",
+    "es": "España"
+   },
+   "langs": [
+    "es"
+   ],
+   "main": "es",
+   "fallback": "es",
+   "srcLang": "es",
+   "freeHosts": [
+    "portal.guiasalud.es"
+   ],
+   "adaptHosts": [
+    "sanidad.gob.es",
+    "pnsd.sanidad.gob.es",
+    "estilosdevidasaludable.sanidad.gob.es",
+    "mapas.sanidad.gob.es",
+    "violenciagenero.igualdad.gob.es",
+    "igualdad.gob.es",
+    "imserso.es",
+    "rpdiscapacidad.gob.es",
+    "boe.es",
+    "juntadeandalucia.es",
+    "seg-social.es"
+   ],
+   "srcNote": {
+    "boe.es": "Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Los textos consolidados tienen carácter meramente informativo.",
+    "imserso.es": "Fuente: Sitio web del Imserso: www.imserso.es"
+   },
+   "factRef": true,
+   "ver": "2026-10-23",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "es024",
+     "band": "now",
+     "tel": "024",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "Línea 024 de atención a la conducta suicida",
+      "desc": "Línea de ayuda para personas que tienen pensamientos de suicidio y para sus familiares y personas cercanas. Los profesionales del 024 te escuchan y te acompañan para que puedas calmarte; también te pueden recomendar que contactes con los servicios sanitarios y, si ven una situación de emergencia, pasan la llamada al 112. Es confidencial y se puede llamar desde toda España. En la página del 024 hay también un chat y acceso en lengua de signos por videointerpretación. Si tu vida corre peligro en este momento, puedes llamar directamente al 112.",
+      "hours": "Las 24 horas, todos los días del año. Gratuita.",
+      "src": {
+       "org": "Ministerio de Sanidad",
+       "title": "024. Línea de atención a la conducta suicida",
+       "url": "https://www.sanidad.gob.es/linea024/home.htm",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Sanidad",
+      "title": "024. Línea de atención a la conducta suicida",
+      "url": "https://www.sanidad.gob.es/linea024/home.htm",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "es112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "112 (emergencias)",
+      "desc": "En casos de urgente necesidad, el 112 sirve para pedir ayuda a los servicios de urgencias sanitarias, de bomberos y salvamento, y de seguridad ciudadana. La llamada es gratuita.",
+      "hours": "",
+      "src": {
+       "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+       "title": "Real Decreto 903/1997, de 16 de junio, por el que se regula el acceso, mediante redes de telecomunicaciones, al servicio de atención de llamadas de urgencia a través del número telefónico 112",
+       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-14058",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+      "title": "Real Decreto 903/1997, de 16 de junio, por el que se regula el acceso, mediante redes de telecomunicaciones, al servicio de atención de llamadas de urgencia a través del número telefónico 112",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-14058",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "essinvoz",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "Si no puedes hablar o no oyes bien: Servicio de Comunicación por Texto (SCT)",
+      "desc": "Para personas sordas o con dificultades en el habla. Escribes por chat o por correo electrónico, y una persona del servicio habla por voz con quien necesitas y te pasa la conversación por escrito. Tiene un chat específico para servicios de emergencia como el 112 y para el 016. Antes de usarlo hay que registrarse en www.svisual.org.",
+      "hours": "Las 24 horas, todos los días del año. Gratuito.",
+      "src": {
+       "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+       "title": "Derechos Sociales impulsa un nuevo servicio para que personas sordas o con dificultades en el habla puedan comunicarse",
+       "url": "https://www.dsca.gob.es/es/comunicacion/notas-prensa/derechos-sociales-impulsa-nuevo-servicio-personas-sordas-o-dificultades",
+       "kind": "fact",
+       "upd": "2025-06-06"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+      "title": "Derechos Sociales impulsa un nuevo servicio para que personas sordas o con dificultades en el habla puedan comunicarse",
+      "url": "https://www.dsca.gob.es/es/comunicacion/notas-prensa/derechos-sociales-impulsa-nuevo-servicio-personas-sordas-o-dificultades",
+      "kind": "fact",
+      "upd": "2025-06-06"
+     }
+    },
+    {
+     "id": "es016",
+     "band": "now",
+     "tel": "016",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "016: atención a todas las formas de violencia contra las mujeres",
+      "desc": "Información, asesoramiento jurídico y atención psicosocial inmediata para mujeres que viven violencia y para su entorno. Además del teléfono 016, puedes escribir por WhatsApp al 600 000 016 (solo mensajes, no llamadas), por el chat de violenciagenero.igualdad.gob.es o por correo a 016-online@igualdad.gob.es. Es gratuito y confidencial. Por teléfono te atienden en 53 idiomas. Las llamadas de emergencia se pasan al 112. En algunos modelos de móvil, las llamadas al 016 no quedan guardadas en el registro de llamadas; depende del modelo.",
+      "hours": "Teléfono, chat y correo: las 24 horas, todos los días. Asesoramiento jurídico: de 8 a 22 h, todos los días.",
+      "src": {
+       "org": "Ministerio de Igualdad (Delegación del Gobierno contra la Violencia de Género)",
+       "title": "Teléfono 016 - 016 online - WhatsApp",
+       "url": "https://violenciagenero.igualdad.gob.es/informacion-3/recursos/telefono016/",
+       "kind": "summary",
+       "upd": "2024-05-29"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Igualdad (Delegación del Gobierno contra la Violencia de Género)",
+      "title": "Teléfono 016 - 016 online - WhatsApp",
+      "url": "https://violenciagenero.igualdad.gob.es/informacion-3/recursos/telefono016/",
+      "kind": "summary",
+      "upd": "2024-05-29"
+     }
+    },
+    {
+     "id": "esmedico",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.sanidad.gob.es/ciudadanos/centros.do",
+     "linkOk": false,
+     "es": {
+      "name": "Tu centro de salud (médico o médica de familia)",
+      "desc": "La atención primaria es el primer nivel de atención de la sanidad pública. Allí también se atienden los problemas de ansiedad, de ánimo o de adaptación y, si hace falta, te derivan a los servicios de salud mental. Cada comunidad autónoma decide cómo se organiza. Puedes enseñar «Mis dificultades». En el buscador del Ministerio de Sanidad puedes buscar centros de salud por comunidad autónoma y provincia.",
+      "hours": "Según el centro.",
+      "src": {
+       "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+       "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización",
+       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+       "kind": "summary",
+       "upd": "2026-07-31"
+      }
+     },
+     "src": {
+      "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+      "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+      "kind": "summary",
+      "upd": "2026-07-31"
+     }
+    },
+    {
+     "id": "esadiccion",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "Centros de atención a las adicciones",
+      "desc": "En este mapa del Ministerio de Sanidad puedes buscar centros de atención a las adicciones por comunidad autónoma y provincia, o por dirección, ciudad o código postal.",
+      "hours": "Según el centro.",
+      "src": {
+       "org": "Ministerio de Sanidad",
+       "title": "Centros de Atención a las Adicciones",
+       "url": "https://mapas.sanidad.gob.es/mapascon/vermapa.jsf?idm=1&frame=yes",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Sanidad",
+      "title": "Centros de Atención a las Adicciones",
+      "url": "https://mapas.sanidad.gob.es/mapascon/vermapa.jsf?idm=1&frame=yes",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "essocial",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "Servicios sociales de tu ayuntamiento",
+      "desc": "Los servicios sociales públicos atienden situaciones de especial necesidad, por ejemplo cuando una persona se queda sin hogar o pierde sus ingresos, o cuando hay adicciones o violencia de género. La primera atención se da en tu municipio, en los servicios sociales de atención primaria. Para saber cuál te corresponde, pregunta en tu ayuntamiento.",
+      "hours": "Según el municipio.",
+      "src": {
+       "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+       "title": "Servicios Sociales",
+       "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+      "title": "Servicios Sociales",
+      "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "esdiscap",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "Reconocimiento del grado de discapacidad (tu comunidad autónoma)",
+      "desc": "Para que se reconozca un grado de discapacidad, la persona interesada presenta una solicitud en el órgano que corresponde a su comunidad autónoma de residencia (en Ceuta y Melilla, en el Imserso), con documentos que acrediten su identidad y su situación de salud. El grado reconocido es válido en toda España.",
+      "hours": "",
+      "src": {
+       "org": "Instituto de Mayores y Servicios Sociales (Imserso)",
+       "title": "Grado de discapacidad",
+       "url": "https://imserso.es/autonomia-personal-dependencia/grado-de-discapacidad",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Instituto de Mayores y Servicios Sociales (Imserso)",
+      "title": "Grado de discapacidad",
+      "url": "https://imserso.es/autonomia-personal-dependencia/grado-de-discapacidad",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "esdefensor",
+     "band": "day",
+     "tel": "900 101 025",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "es": {
+      "name": "Defensor del Pueblo",
+      "desc": "Si crees que una administración (estatal, autonómica o local) o un servicio público ha vulnerado tus derechos, puedes presentar una queja. Puede acudir cualquier persona, española o extranjera, sea cual sea su edad o su situación legal en España. Es gratuito y no hace falta abogado. No se tramitan quejas anónimas. Si tienes alguna dificultad para presentar la queja, puedes llamar gratis desde España al 900 101 025.",
+      "hours": "",
+      "src": {
+       "org": "Defensor del Pueblo",
+       "title": "¿Cómo te podemos ayudar?",
+       "url": "https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/",
+       "kind": "fact",
+       "upd": "2026-03-16"
+      }
+     },
+     "src": {
+      "org": "Defensor del Pueblo",
+      "title": "¿Cómo te podemos ayudar?",
+      "url": "https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/",
+      "kind": "fact",
+      "upd": "2026-03-16"
+     }
+    }
+   ],
+   "es": {
+    "groups": {
+     "mood": {
+      "label": "Ánimo bajo, sin energía",
+      "lead": "Cuando el ánimo sigue bajo y cuesta encontrar fuerzas para cualquier cosa.",
+      "scenes": [
+       "Tengo el ánimo bajo de la mañana a la noche.",
+       "Cosas que antes me gustaban ya no me hacen disfrutar.",
+       "No tengo fuerzas ni puedo concentrarme, así que el trabajo y las tareas de casa se quedan sin hacer.",
+       "Me echo la culpa de todo y siempre pienso lo peor.",
+       "De noche no puedo dormir, o duermo demasiado. He perdido el apetito y el cuerpo me pesa.",
+       "A veces quiero desaparecer o dejar de estar aquí."
+      ],
+      "asks": [
+       "Me ayuda que me expliquen lo que hay que hacer, una cosa cada vez.",
+       "Necesito tiempo para pensar: prefiero que no me presionen para responder ni para decidir.",
+       "Prefiero que me den por escrito lo importante.",
+       "Antes de decirme «¡Ánimo!» o «Pon de tu parte», me ayuda que me escuchen primero.",
+       "Cuando descanso, prefiero que no lo tomen por pereza.",
+       "Me ayuda que se mire conmigo si alguna enfermedad física o algún medicamento que tomo puede influir."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Enfermedades físicas o medicamentos",
+        "why": "Esta página cuenta que algunos casos de depresión pueden deberse a una enfermedad física o a un medicamento.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Hipotiroidismo (por ejemplo, tiroiditis de Hashimoto)",
+        "why": "Esta página explica que, cuando la tiroides produce menos hormonas, pueden aparecer cansancio y depresión, entre otras cosas.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Tiroiditis de Hashimoto",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/tiroiditis-hashimoto",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Esta guía explica que el insomnio puede acompañarse de cambios de humor, dificultad para concentrarse y cansancio físico y mental.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Alcohol u otras drogas",
+        "why": "Según esta página, la depresión puede ir a peor cuando se bebe demasiado alcohol o se toman otras drogas.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "«Aunque todas las personas pueden sufrir sentimientos de tristeza ocasionalmente de forma transitoria, en algunas de ellas, estos sentimientos son persistentes y se acompañan de otros síntomas, como por ejemplo pensamientos negativos que dificultan significativamente su vida cotidiana.»",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "quote",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta página lo describe como un trastorno en el que se alternan épocas de ánimo muy elevado con épocas de tristeza.",
+        "src": {
+         "org": "Osakidetza (Servicio Vasco de Salud)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.osakidetza.euskadi.eus/webosk00-oskenf/es/contenidos/informacion/osk_osaesk_trastorno_bipolar/es_def/index.shtml",
+         "kind": "fact",
+         "upd": "2023-05-04"
+        }
+       },
+       {
+        "name": "Trastorno adaptativo",
+        "why": "Esta página lo presenta como una reacción emocional, con ánimo bajo y ganas de llorar, ante un suceso estresante.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Depresión",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/depresion",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mucha preocupación o tensión",
+      "lead": "Preocupaciones que no se van, palpitaciones e inquietud, dificultades delante de otras personas o al salir de casa, y cosas parecidas.",
+      "scenes": [
+       "Cuando tengo que hablar delante de otras personas o me observan, siento tanta ansiedad que me quedo con la mente en blanco.",
+       "De repente el corazón me late muy deprisa y me falta el aire. Me preocupa que vuelva a pasar y por eso me cuesta salir de casa.",
+       "Sin un motivo claro, me preocupo por una cosa tras otra, siento mucha inquietud y no me quedan fuerzas.",
+       "Lo paso mal en los sitios de los que es difícil salir, como el metro, el tren o el autobús, los centros comerciales o los lugares con mucha gente, y también cuando salgo de casa sin compañía. Por eso intento evitarlo.",
+       "Como evito lo que me da miedo, cada vez voy a menos sitios y veo a menos gente. Mi vida se ha hecho más pequeña.",
+       "Las preocupaciones no se me van de la cabeza y por la noche me cuesta dormirme."
+      ],
+      "asks": [
+       "Cuando hablo, me ayuda que me den tiempo y no me metan prisa.",
+       "Prefiero que me expliquen con antelación el plan y cómo va a transcurrir todo.",
+       "Prefiero que no me pidan opinión de repente delante de otras personas, y poder responder también por escrito.",
+       "Si me encuentro mal, me ayuda poder salir un momento a descansar.",
+       "Prefiero hablar en un sitio tranquilo y con pocas personas.",
+       "Antes de decirme que me preocupo demasiado, me ayuda que escuchen primero lo que me cuesta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipertiroidismo (por ejemplo, enfermedad de Graves)",
+        "why": "Esta página explica que, cuando la tiroides trabaja en exceso, puede haber irritabilidad, problemas para dormir y ansiedad.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Enfermedad de Graves",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/enfermedad-graves",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problemas del corazón",
+        "why": "Según esta página, un problema del corazón, entre otras causas del cuerpo, puede causar molestias parecidas a las de una crisis de pánico.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno de Pánico",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-panico",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Otras enfermedades o medicamentos",
+        "why": "Según esta guía, a veces en la consulta se mira también si la ansiedad guarda relación con algún medicamento o con otra enfermedad.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Trastorno de Ansiedad Generalizada: Información para pacientes adultos, familiares y cuidadores",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2024/11/gpc_641_ansiedad_sescs_pacientes.pdf",
+         "kind": "summary",
+         "upd": "2024-11-29"
+        }
+       },
+       {
+        "name": "Alcohol, otras drogas y cafeína",
+        "why": "Esta guía menciona el alcohol, algunas drogas y las bebidas estimulantes, como las que llevan cafeína, entre lo que puede producir o empeorar la ansiedad.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar la ansiedad",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_430_Ansiedad_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2008-09-01"
+        }
+       },
+       {
+        "name": "Retirada de medicamentos para dormir o para tranquilizarse",
+        "why": "Esta página cuenta que, si se dejan de golpe medicamentos para dormir o para tranquilizarse que se han tomado durante mucho tiempo, pueden aparecer ansiedad, temblor o insomnio.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Dejar las pastillas para dormir",
+         "url": "https://www.comunidad.madrid/salud/dejar-pastillas-dormir",
+         "kind": "summary",
+         "upd": "2026-04-27"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Según esta guía, con el insomnio pueden aparecer nerviosismo, tensión y ansiedad.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada (TAG)",
+        "why": "Según esta guía, en este trastorno la preocupación y la tensión están presentes casi todo el tiempo y cuesta controlarlas, aunque no haya un motivo claro.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Trastorno de Ansiedad Generalizada: Información para pacientes adultos, familiares y cuidadores",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2024/11/gpc_641_ansiedad_sescs_pacientes.pdf",
+         "kind": "summary",
+         "upd": "2024-11-29"
+        }
+       },
+       {
+        "name": "Trastorno de pánico (trastorno de angustia) y agorafobia",
+        "why": "Esta guía describe crisis de angustia repentinas, la inquietud constante de que vuelvan a ocurrir y el hecho de evitar lugares como el metro, el tren, el autobús o los centros comerciales.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar la ansiedad",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_430_Ansiedad_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2008-09-01"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Me cuesta dejar de comprobar o de repetir",
+      "lead": "Cuando compruebas una y otra vez la puerta o el gas, te lavas las manos o repites otras acciones y te cuesta parar aunque quieras.",
+      "scenes": [
+       "Al salir de casa necesito comprobar una y otra vez si he cerrado bien la puerta o el gas; si no, no consigo irme con tranquilidad.",
+       "Me lavo las manos o el cuerpo cada vez más veces y, aunque quiero parar, no puedo.",
+       "La misma preocupación me viene a la cabeza una y otra vez y no consigo dejar de pensar en ella, aunque quiero.",
+       "Si las cosas no están colocadas o no se hacen en el orden que tengo fijado, me inquieto y acabo recolocándolas o empezando de nuevo.",
+       "Comprobar las cosas me lleva tanto tiempo que salgo de casa más tarde de lo previsto o llego tarde a mis citas y al trabajo.",
+       "Mi cuerpo se mueve o suelto sonidos sin querer, y me cuesta parar aunque lo intente."
+      ],
+      "asks": [
+       "Prefiero que no me digan que exagero, y que primero me escuchen.",
+       "Comprobar las cosas me lleva tiempo, así que me ayuda que se deje un margen de tiempo.",
+       "Cuando cambien los planes o los pasos a seguir, prefiero que me avisen con antelación.",
+       "Prefiero que no me señalen ni se rían de mí delante de otras personas cuando estoy comprobando algo o lavándome las manos.",
+       "Me ayuda que me den las explicaciones y las instrucciones de una en una y por escrito.",
+       "Antes de decidir cómo seguimos, prefiero que escuchen mis preocupaciones y que lo decidamos con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno obsesivo-compulsivo (TOC)",
+        "why": "Esta página lo describe como pensamientos no deseados que vuelven una y otra vez, junto con conductas repetidas, como comprobar cerraduras o lavarse las manos, que pueden ocupar mucho tiempo.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-obsesivo-compulsivo-toc",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastornos de ansiedad (por ejemplo, ansiedad generalizada)",
+        "why": "La página cita la ansiedad generalizada entre los trastornos que se distinguen del TOC.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-obsesivo-compulsivo-toc",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página explica que el espectro autista influye en cómo una persona se comunica y se relaciona, y que aparecen conductas repetitivas y formas de actuar muy fijas.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Los Trastornos del Espectro Autista (TEA)",
+         "url": "https://www.comunidad.madrid/salud/trastornos-espectro-autista-tea",
+         "kind": "summary",
+         "upd": "2024-06-13"
+        }
+       },
+       {
+        "name": "Síndrome de Tourette (tics)",
+        "why": "«El síndrome de Gilles de la Tourette es un trastorno caracterizado por movimientos repetitivos o sonidos indeseados (tics) que no se pueden controlar con facilidad.»",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Síndrome de Gilles de la Tourette",
+         "url": "https://www.comunidad.madrid/salud/enfermedades-poco-frecuentes-sindrome-gilles-tourette",
+         "kind": "quote",
+         "upd": "2026-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Una experiencia dura me sigue afectando",
+      "lead": "Recuerdos que vuelven una y otra vez, dormir mal o una tensión que no se va después de una experiencia dura.",
+      "scenes": [
+       "Por cualquier detalle, de repente vuelven la escena y las sensaciones de aquel momento tan duro.",
+       "Tengo pesadillas parecidas una y otra vez y muchas noches no consigo dormir profundamente.",
+       "Estoy siempre en tensión y hasta un ruido pequeño o un imprevisto me sobresalta.",
+       "Siempre que puedo, evito los lugares, las personas y los temas que me recuerdan aquello, y mi día a día se ha ido reduciendo.",
+       "Es como si algo dentro de mí se hubiera apagado, y no consigo sentir hacia mi familia y mis amistades lo mismo que antes.",
+       "Me echo la culpa cada vez más, o me cuesta más confiar en la gente que me rodea."
+      ],
+      "asks": [
+       "Prefiero que no me pregunten todos los detalles de lo que pasó. Quiero contarlo a mi ritmo y hasta donde pueda.",
+       "Hay sonidos, lugares y temas que lo reviven todo. Me ayuda que se acepte que prefiero evitarlos.",
+       "Me ayuda que no me hablen de repente por detrás ni hagan ruidos fuertes cerca de mí.",
+       "Cuando hablar me cuesta demasiado, prefiero poder entregar algo escrito.",
+       "Hay días en que no duermo o en que no se me quita el cansancio. Prefiero que no se tome por pereza.",
+       "Prefiero que no me metan prisa con frases como «Olvídalo» o «Pasa página», y que haya un lugar donde pueda hablar con tranquilidad."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Problemas de sueño",
+        "why": "Dormir mal puede ser una de las dificultades que aparecen después de un suceso muy duro, como una catástrofe. La página lo nombra junto a la angustia, el llanto y los pensamientos que vuelven sin querer.",
+        "src": {
+         "org": "Ministerio de Sanidad",
+         "title": "Salud mental",
+         "url": "https://www.sanidad.gob.es/areas/alertasEmergenciasSanitarias/alertasActuales/infoDana/riesgoParaLaSalud/saludMental.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastornos relacionados con el trauma",
+        "why": "La página explica que, en situaciones de catástrofe, las dificultades pueden ir desde la ansiedad y la depresión hasta trastornos relacionados con el trauma.",
+        "src": {
+         "org": "Ministerio de Sanidad",
+         "title": "Salud mental",
+         "url": "https://www.sanidad.gob.es/areas/alertasEmergenciasSanitarias/alertasActuales/infoDana/riesgoParaLaSalud/saludMental.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Ansiedad",
+        "why": "La página recoge la ansiedad entre las dificultades que pueden aparecer en situaciones de catástrofe.",
+        "src": {
+         "org": "Ministerio de Sanidad",
+         "title": "Salud mental",
+         "url": "https://www.sanidad.gob.es/areas/alertasEmergenciasSanitarias/alertasActuales/infoDana/riesgoParaLaSalud/saludMental.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página incluye haber sufrido un trauma físico o psicológico entre los sucesos que pueden desencadenar una depresión. También cita el cansancio y los problemas de sueño entre las dificultades que pueden acompañarla.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Trastorno adaptativo",
+        "why": "Es una reacción del ánimo ante un suceso estresante, en la que puede haber desesperanza, llanto o tristeza.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Depresión",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/depresion",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificultades con el sueño",
+      "lead": "Te cuesta dormirte, te despiertas por la noche, te cuesta levantarte o durante el día te entra mucho sueño.",
+      "scenes": [
+       "Aunque me meta en la cama, tardo mucho en dormirme.",
+       "Me despierto varias veces por la noche y no duermo de un tirón hasta la mañana.",
+       "A la hora de levantarme no consigo hacerlo, y llego tarde al trabajo o a clase una y otra vez.",
+       "Durante el día me entra un sueño muy fuerte y estoy a punto de dormirme en una reunión o al volante.",
+       "Mi familia me dice que ronco muy fuerte y que, mientras duermo, parece que se me corta la respiración.",
+       "Al caer la tarde y por la noche noto en las piernas una sensación incómoda que no me deja descansar ni dormir."
+      ],
+      "asks": [
+       "Me ayuda que se tomen el tiempo de preguntarme cómo duermo: cuánto tardo en dormirme, si me despierto de noche, lo que me cuesta levantarme y cuánto sueño tengo de día.",
+       "Prefiero que repasen conmigo los medicamentos que tomo y mis hábitos con el café, el alcohol y el tabaco, para ver qué puede estar influyendo.",
+       "Me ayuda que no se dé por hecho que es cuestión de actitud, y que se revise también la salud del cuerpo y el estado de ánimo.",
+       "Prefiero explicar mis horarios con una nota escrita, con la hora a la que me acuesto y a la que me levanto, y que la miren con calma.",
+       "Si hay que tomar algún medicamento, me ayuda que me expliquen con palabras sencillas cómo actúa y qué precauciones tiene.",
+       "Por las mañanas me cuesta mucho, así que prefiero que me den cita por la tarde."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnio",
+        "why": "Puede costar dormirse, el sueño puede cortarse durante la noche o el despertar puede llegar demasiado pronto. El documento también habla de cansancio y de cambios de humor.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Apnea del sueño",
+        "why": "Mientras se duerme, la respiración se para una y otra vez. Otra persona puede ver esas pausas; también puede haber ronquidos fuertes y, durante el día, sueño y cansancio.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Apnea del sueño",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/apnea-sueno",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Síndrome de piernas inquietas",
+        "why": "Las piernas dan una sensación incómoda tras un rato sin moverse, sobre todo al caer la tarde y por la noche; caminar o cambiar de postura suele darles un respiro.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Síndrome de Piernas Inquietas",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/sindrome-piernas-inquietas",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Cambios de horario por trabajo o viajes",
+        "why": "El documento incluye los cambios de horario por trabajo o por viajes entre las causas que pueden alterar el sueño.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Narcolepsia",
+        "why": "«La narcolepsia es un trastorno del sueño de origen neurológico que provoca somnolencia durante el día, causando que las personas afectadas, tengan dificultad para mantenerse despiertas durante mucho tiempo.»",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Narcolepsia",
+         "url": "https://www.comunidad.madrid/salud/enfermedades-poco-frecuentes-narcolepsia",
+         "kind": "quote",
+         "upd": "2026-05-04"
+        }
+       },
+       {
+        "name": "Enfermedades, problemas de salud mental, medicamentos o sustancias",
+        "why": "Según el documento, dormir mal puede aparecer a raíz de una enfermedad, un problema de salud mental, ciertas sustancias o ciertos medicamentos.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Cafeína, alcohol y tabaco",
+        "why": "Según el documento, el café u otras bebidas con cafeína por la tarde pueden empeorar el sueño; el alcohol y el tabaco, también.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Entre lo que la página cuenta de la depresión figuran los problemas de sueño, junto con la pérdida de energía y los cambios en el apetito.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificultades con la comida",
+      "lead": "Cuando comer se hace difícil: no puedes comer mucho, no puedes parar o comer te da miedo.",
+      "scenes": [
+       "No me apetece comer y hay muchos días en que la comida casi no me pasa por la garganta.",
+       "Cuando empiezo a comer no consigo parar, y a veces como tanto que me siento mal.",
+       "Sin darme cuenta, no paro de pensar en la comida y me cuesta concentrarme en otras cosas.",
+       "Puedo comer muy pocas cosas, y evito muchos alimentos porque el sabor, el olor o la textura me resultan muy desagradables.",
+       "Desde que me atraganté con un alimento o vomité, comer me da miedo.",
+       "Por la noche como entre sueños y, por la mañana, a veces no me acuerdo de nada."
+      ],
+      "asks": [
+       "Prefiero que no hagan comentarios sobre mi cuerpo ni sobre mi aspecto.",
+       "Me ayuda que no me obliguen a comer ni me metan prisa para hacerlo.",
+       "Cuando se come en grupo, me ayuda que me dejen elegir otro sitio u otro momento.",
+       "Prefiero que me pregunten antes qué puedo comer y qué olores o texturas me cuestan.",
+       "Me ayuda que me expliquen antes cómo será la consulta y qué pruebas se van a hacer.",
+       "Prefiero poder entregar por escrito lo que me cuesta decir en voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Enfermedades del cuerpo (por ejemplo, digestivas u hormonales)",
+        "why": "Cuando el peso baja, la página señala que también hay causas del cuerpo que pueden explicarlo, por ejemplo hormonales o digestivas.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastornos de la Conducta Alimentaria",
+         "url": "https://www.comunidad.madrid/salud/trastornos-conducta-alimentaria",
+         "kind": "summary",
+         "upd": "2026-09-28"
+        }
+       },
+       {
+        "name": "Hipertiroidismo (por ejemplo, enfermedad de Graves)",
+        "why": "Una enfermedad de la tiroides que la hace producir hormonas de más. Entre los cambios que enumera la página figura una pérdida de peso sin explicación.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Enfermedad de Graves",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/enfermedad-graves",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hipotiroidismo (por ejemplo, tiroiditis de Hashimoto)",
+        "why": "Una enfermedad de la tiroides que reduce las hormonas que esta glándula produce. Entre los cambios que enumera la página figura un aumento de peso.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Tiroiditis de Hashimoto",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/tiroiditis-hashimoto",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastornos de la conducta alimentaria (anorexia nerviosa, bulimia, trastorno de atracones)",
+        "why": "Problemas serios con la comida, como comer muy poco por decisión propia, darse atracones o tener mucho miedo a ganar peso. Pueden afectar al cuerpo y al ánimo.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastornos de la Conducta Alimentaria",
+         "url": "https://www.comunidad.madrid/salud/trastornos-conducta-alimentaria",
+         "kind": "summary",
+         "upd": "2026-09-28"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "La página cuenta que, en la depresión, el apetito puede cambiar y, con ello, a veces también el peso.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Me cuesta dejar el alcohol, las apuestas o los videojuegos",
+      "lead": "Cuando quieres dejarlo o hacerlo menos, pero sigues.",
+      "scenes": [
+       "Me propongo dejarlo o hacerlo menos, pero luego me doy cuenta de que sigo igual.",
+       "No consigo respetar el tiempo, la cantidad ni el dinero que me había marcado para hoy.",
+       "Oculto a las personas cercanas que bebo, que apuesto o que juego a videojuegos, o lo disimulo con excusas.",
+       "Me acuesto muy tarde por jugar a videojuegos, por la mañana no consigo levantarme y cada vez más a menudo llego tarde o falto al trabajo o a clase.",
+       "Cuando pierdo dinero en apuestas deportivas u online o en las máquinas de las salas de juego, quiero recuperarlo y vuelvo a apostar.",
+       "Aunque sé que mi cuerpo se está resintiendo, no consigo beber menos."
+      ],
+      "asks": [
+       "Me ayuda que primero me escuchen, sin culparme ni sacar conclusiones antes de tiempo.",
+       "Me ayuda que me acompañen a ir viendo, paso a paso, cómo es mi día a día con esto y qué dificultades me trae.",
+       "Me gustaría que también se revisaran mi sueño y mi salud física.",
+       "Me ayuda que me digan de forma concreta dónde puedo recibir apoyo y a qué sitios puedo acudir.",
+       "Me gustaría saber si mi familia o una persona cercana puede venir a la consulta conmigo.",
+       "Prefiero que antes me digan a quién se va a contar lo que cuento y hasta qué punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dependencia del alcohol",
+        "why": "Esta página describe la dependencia del alcohol como una enfermedad en la que beber deja de poder controlarse y acaba interfiriendo con la salud, con la familia y con el trabajo.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problemas con las apuestas (ludopatía)",
+        "why": "Entre lo que describe esta página están volver a apostar otro día para intentar recuperar el dinero perdido y ocultar a los demás cuánto lugar ocupan las apuestas en la vida. También habla de que pueden ponerse en peligro relaciones personales o trabajos.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "Otras conductas adictivas",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/otrasAdicciones/home.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno por uso de videojuegos",
+        "why": "Un informe del Plan Nacional sobre Drogas lo explica como una forma de jugar en la que cuesta ponerse límites, el juego va antes que otras cosas del día a día y se sigue aunque traiga problemas.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "Informe sobre Adicciones comportamentales 2020",
+         "url": "https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2020_Informe_adicciones_comportamentales.pdf",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alteraciones del sueño",
+        "why": "La página incluye las alteraciones del sueño entre los problemas de salud que puede provocar beber en exceso durante mucho tiempo. Si el alcohol te está dando problemas, puedes comentar también cómo duermes.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "La página nombra la depresión entre los problemas de salud que puede provocar el consumo excesivo de alcohol durante mucho tiempo. Si el alcohol te está dando problemas, puedes comentar también cómo estás de ánimo.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Al hablar del TDAH en personas adultas, esta página menciona que la impulsividad, la inquietud mental y la dificultad para manejar las emociones pueden llevar, entre otras cosas, a un mal uso de sustancias.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.comunidad.madrid/salud/trastorno-deficit-atencion-e-hiperactividad-tdah",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       }
+      ],
+      "windows": [
+       "esadiccion",
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificultades de atención u organización",
+      "lead": "Dificultades para concentrarte, avanzar paso a paso o acordarte de las cosas.",
+      "scenes": [
+       "Aunque alguien me esté hablando, mi cabeza se va a otro sitio sin que me dé cuenta.",
+       "No consigo sacar adelante el trabajo o las tareas de casa por orden y se me pasan los plazos.",
+       "Muchas veces no recuerdo lo que me han pedido o lo que he prometido, o pierdo cosas.",
+       "Si llevo mucho rato con la misma tarea, se me acumulan los fallos por descuido.",
+       "Me cuesta estar mucho rato sin moverme y noto una inquietud que no me deja parar.",
+       "Las personas de mi entorno me dicen que a menudo se me olvidan las cosas o que llego tarde."
+      ],
+      "asks": [
+       "Me ayuda que me den las instrucciones de una en una.",
+       "Prefiero que me den por escrito lo importante.",
+       "Me ayuda que me avisen con tiempo de los plazos y de las citas.",
+       "Me ayuda que no me pidan muchas cosas a la vez, sino que las dividan en partes pequeñas.",
+       "Me gustaría hablar en un sitio tranquilo, donde me distraiga menos.",
+       "Me ayuda que se reconozca lo que sí he conseguido en vez de reprocharme lo que no."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Esta página señala que el TDAH puede hacer que cueste mantener la atención y concentrarse. En personas adultas habla de una inquietud que se siente por dentro y de empezar varias cosas a la vez sin acabarlas.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.comunidad.madrid/salud/trastorno-deficit-atencion-e-hiperactividad-tdah",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página cuenta que la depresión puede ir acompañada de dificultad para concentrarse y de problemas de memoria, además del ánimo bajo.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Una guía para pacientes menciona la dificultad para concentrarse entre lo que puede traer el insomnio, junto con cambios de humor y cansancio físico y mental.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada",
+        "why": "Una guía para pacientes describe una ansiedad o una preocupación que se mantiene en el tiempo, y menciona que puede costar concentrarse o que la mente se quede en blanco.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Trastorno de Ansiedad Generalizada: Información para pacientes adultos, familiares y cuidadores",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2024/11/gpc_641_ansiedad_sescs_pacientes.pdf",
+         "kind": "summary",
+         "upd": "2024-11-29"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Según esta página, el TEA a veces viene junto con otros problemas de salud, como la hiperactividad o dificultades con la atención y la memoria.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Los Trastornos del Espectro Autista (TEA)",
+         "url": "https://www.comunidad.madrid/salud/trastornos-espectro-autista-tea",
+         "kind": "summary",
+         "upd": "2024-06-13"
+        }
+       },
+       {
+        "name": "Hipotiroidismo (por ejemplo, tiroiditis de Hashimoto)",
+        "why": "Es una enfermedad en la que el tiroides fabrica menos hormonas de las que hacen falta. Según la página, puede traer cansancio y problemas cognitivos.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Tiroiditis de Hashimoto",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/tiroiditis-hashimoto",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Falta de sueño",
+        "why": "Según esta página, dormir lo suficiente favorece la concentración y la memoria.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Sueño y descanso",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/cuida-salud/estilo-vida/sueno-descanso",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Apnea del sueño",
+        "why": "Mientras se duerme, la respiración se corta una y otra vez. Según la página, muchas veces no se nota por la noche, pero de día puede costar concentrarse y puede haber cansancio y sueño.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Apnea del sueño",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/apnea-sueno",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "esdiscap"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificultades con el trato, las rutinas o los sentidos",
+      "lead": "Dificultades para hablar o estar con otras personas, una gran necesidad de hacer las cosas de una manera concreta, o ruidos, luces y olores difíciles de soportar.",
+      "scenes": [
+       "En una conversación me cuesta captar lo que siente la otra persona o el ambiente del momento, y a menudo tengo la impresión de que no nos entendemos.",
+       "Cuando tengo que hablar delante de otras personas o todas las miradas se dirigen a mí, siento mucha tensión y acabo evitándolo.",
+       "Con las personas cercanas puedo hablar, pero delante de otras no me sale la voz.",
+       "Si cambia mi manera habitual de hacer las cosas, el orden de los pasos o el sitio donde están mis cosas, siento una inquietud muy fuerte.",
+       "Los ruidos, las luces y los olores me resultan demasiado intensos, y los sitios con mucha gente se me hacen muy difíciles.",
+       "Me cuesta oír lo que dicen los demás, o tengo el ánimo bajo, y quedar con la gente o hablar con ella se me ha hecho muy difícil."
+      ],
+      "asks": [
+       "Me ayuda que me hablen despacio y con claridad.",
+       "Me ayuda que me escriban las cosas importantes.",
+       "Me gustaría hablar en un sitio tranquilo.",
+       "Me ayuda que me avisen antes si cambian los planes o la forma de hacer las cosas.",
+       "Prefiero que no me metan prisa y que me den tiempo para responder.",
+       "Me gustaría poder responder por escrito o con una nota breve, en lugar de hablar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Según esta página, el TEA tiene que ver con la forma de relacionarse y de comunicarse con los demás, y puede traer dificultades en el trato social y maneras de actuar que se repiten y cambian poco. También cuenta que en algunas personas no se identifica hasta la adolescencia o la edad adulta.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Los Trastornos del Espectro Autista (TEA)",
+         "url": "https://www.comunidad.madrid/salud/trastornos-espectro-autista-tea",
+         "kind": "summary",
+         "upd": "2024-06-13"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Entre las manifestaciones que esta página recoge de la depresión están el aislamiento y las dificultades en el trato con otras personas.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Depresión",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/depresion",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno obsesivo-compulsivo (TOC)",
+        "why": "Según esta página, en el TOC vuelven una y otra vez pensamientos que la persona no quiere tener, y puede haber una fuerte necesidad de que las cosas queden exactas. También cuenta que, por temor a esos pensamientos, hay quien se aparta de algunas situaciones o personas.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-obsesivo-compulsivo-toc",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "esdiscap",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Dificultades para leer, escribir o calcular",
+      "lead": "Cuando leer, escribir o manejar números sigue costando aunque te esfuerces.",
+      "scenes": [
+       "Me lleva más tiempo que a otras personas leer un texto, y muchas veces tengo que releerlo.",
+       "Aunque lea, el contenido no se me queda, y me cuesta entender lo que dicen los documentos o las cartas.",
+       "Me cuesta la ortografía: cometo muchas faltas o me como letras o palabras al escribir.",
+       "Mi letra me sale irregular, y escribir me lleva mucho tiempo y mucho esfuerzo.",
+       "Me atasco con las cuentas sencillas y con los problemas que vienen planteados en un texto.",
+       "Puedo hablar y escuchar sin dificultad, pero con la lectura, la escritura o el cálculo no avanzo como querría, aunque me tome mucho tiempo."
+      ],
+      "asks": [
+       "Me ayuda que me den los textos en letra grande y con más espacio entre líneas, o en lectura fácil.",
+       "Prefiero que lo importante me lo lean en voz alta o me lo digan de palabra.",
+       "Me ayuda poder teclear en el ordenador o en el móvil, o dejar constancia con fotos o grabaciones de voz, en lugar de escribir a mano.",
+       "Me ayuda poder usar una calculadora para las cuentas.",
+       "Me ayuda que me den más tiempo para leer, escribir y calcular.",
+       "Prefiero que me den las cosas de una en una y no todas a la vez."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnio",
+        "why": "La guía incluye la dificultad para concentrarse y el cansancio del cuerpo y de la mente entre lo que acompaña al insomnio.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio (Agencia Laín Entralgo)",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "La página de la Comunidad de Madrid nombra la dificultad para concentrarse y los problemas de memoria entre lo que, además del ánimo bajo, puede darse en la depresión.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Es una condición del neurodesarrollo. Según la página, en personas adultas puede afectar al trabajo o a los estudios, y a veces aparece junto con dificultades de aprendizaje.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-deficit-atencion-hiperactividad-tdah",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "esdiscap"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes altibajos de ánimo",
+      "lead": "Cuando el ánimo sube y baja mucho y cuesta seguir el ritmo de tus propias emociones.",
+      "scenes": [
+       "Épocas de demasiada energía se alternan con épocas de ánimo tan bajo que apenas puedo moverme.",
+       "Hay épocas en las que duermo muy poco y aun así tengo mucha energía y no paro de moverme.",
+       "Se me ocurre una idea tras otra y todo se queda a medias.",
+       "En épocas de mucha euforia he gastado tanto dinero que luego tuve problemas.",
+       "Por cualquier cosa me irrito y me cuesta contener mis emociones.",
+       "Lo que hice cuando mi ánimo estaba muy arriba ha afectado a mis relaciones o a mi trabajo."
+      ],
+      "asks": [
+       "Me ayuda que me pregunten también por las épocas en las que me sentí con una energía fuera de lo común.",
+       "Me ayuda que se tomen el tiempo de repasar conmigo mis subidas y bajadas de ánimo.",
+       "Me ayuda que, antes de decisiones importantes sobre dinero o trabajo, me animen a parar y a pensar primero.",
+       "Prefiero que también se tengan en cuenta las causas físicas, incluidos el sueño, los medicamentos y el alcohol.",
+       "Si notan que algo ha cambiado en mí respecto a lo habitual, prefiero que me lo digan sin reprocharme nada.",
+       "Me ayuda que me escuchen hasta el final, tanto cuando estoy arriba como cuando estoy abajo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipertiroidismo (por ejemplo, enfermedad de Graves)",
+        "why": "Es un problema en el que la tiroides trabaja de más. Entre las molestias que describe la página hay cambios en el cuerpo y también irritabilidad, insomnio o ansiedad.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Enfermedad de Graves",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/enfermedad-graves",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Falta de sueño",
+        "why": "Esta página une el sueño y el ánimo: dormir bien favorece el buen ánimo y la concentración, y dormir poco aparece ligado, entre otras cosas, a problemas del estado de ánimo.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Sueño y descanso",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/cuida-salud/estilo-vida/sueno-descanso",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Retirada brusca de medicamentos para dormir o calmar los nervios",
+        "why": "La página explica que, tras un uso largo de estos medicamentos, retirarlos de golpe puede traer ansiedad, irritabilidad o insomnio. Insiste en hacerlo con ayuda de un profesional de la salud y no por cuenta propia.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Dejar las pastillas para dormir",
+         "url": "https://www.comunidad.madrid/salud/dejar-pastillas-dormir",
+         "kind": "summary",
+         "upd": "2026-04-27"
+        }
+       },
+       {
+        "name": "Alcohol (efectos de un consumo excesivo y prolongado)",
+        "why": "Una página del Plan Nacional sobre Drogas incluye la agresividad y la depresión entre los efectos del consumo excesivo de alcohol a largo plazo, y añade que pueden darse aunque no haya dependencia.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno disfórico premenstrual (TDPM)",
+        "why": "Según la página, es una forma más fuerte de las molestias de los días antes de la regla, con irritabilidad y altibajos de humor muy intensos.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Mujer",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/ciudadania/mujer",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "La página presenta la depresión como un trastorno del estado de ánimo y nombra la irritabilidad y las ganas de llorar sin motivo claro entre lo que puede acompañar a la tristeza.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Habla de una enfermedad en la que se alternan épocas de ánimo muy alto y épocas de ánimo muy bajo, con desesperanza y tristeza. En las épocas altas, la persona puede dormir poco y aun así tener mucha energía.",
+        "src": {
+         "org": "Osakidetza (Servicio Vasco de Salud)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.osakidetza.euskadi.eus/webosk00-oskenf/es/contenidos/informacion/osk_osaesk_trastorno_bipolar/es_def/index.shtml",
+         "kind": "fact",
+         "upd": "2023-05-04"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Según la página de la Comunidad de Madrid, la impulsividad puede notarse al tomar decisiones y al dejar que las emociones o el estado de ánimo marquen lo que se hace.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.comunidad.madrid/salud/trastorno-deficit-atencion-e-hiperactividad-tdah",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conocer un nombre puede hacer que los altibajos de siempre parezcan síntomas",
+       "body": "Cuando conoces el nombre de una enfermedad o de una condición del desarrollo, un cansancio pasajero o un despiste cualquiera pueden empezar a parecerte un síntoma.\n\nLas emociones pueden cambiar cómo se sienten el cuerpo y el ánimo, y eso no es imaginación: ocurre de verdad. Pero dormir poco, el estrés, el uso del móvil o lo que pasa alrededor también pueden producir algo parecido.\n\nSi al leer un nombre piensas «a lo mejor es esto», no te quedes ahí: piensa también en otras razones. Y si lo que te cuesta sigue, puedes hablar de ello tal como es, aunque no tengas un nombre para ello.",
+       "srcs": []
+      },
+      {
+       "h": "El ánimo sube y baja en la vida de todas las personas",
+       "body": "El ánimo sube y baja en la vida de todas las personas. Una página de la Comunidad de Madrid sobre bienestar emocional dice: «La vida y las circunstancias cambian continuamente, por tanto, nuestro carácter, pensamientos y sentimientos también fluctúan.» Y el Servicio Canario de la Salud escribe: «A lo largo de la vida todas las personas podemos atravesar momentos de mayor vulnerabilidad emocional.»\n\nUn texto del Ministerio de Sanidad recuerda además que muchas personas están pasando por situaciones de ansiedad, tristeza, insomnio, soledad o desesperanza.\n\nPoner un nombre a lo que ocurre (un diagnóstico) es tarea de profesionales de la salud, a partir de lo que cuentas en la consulta. Además, miran si alguna enfermedad del cuerpo puede estar detrás de molestias parecidas.\n\nSi algo te cuesta, puedes hablar de ello tal como es, tengas o no un diagnóstico.",
+       "srcs": [
+        {
+         "org": "Comunidad de Madrid",
+         "title": "Bienestar emocional y salud",
+         "url": "https://www.comunidad.madrid/salud/bienestar-emocional-salud",
+         "kind": "quote",
+         "upd": "2026-09-17"
+        },
+        {
+         "org": "Servicio Canario de la Salud (Gobierno de Canarias)",
+         "title": "Día Mundial de la Salud Mental 2026",
+         "url": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=c168005c-ba59-11f1-a38c-b3f8d30d91f2&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117",
+         "kind": "quote",
+         "upd": "2026-10-13"
+        },
+        {
+         "org": "Ministerio de Sanidad",
+         "title": "Una mirada desde la calidad, los derechos y los determinantes sociales",
+         "url": "https://www.sanidad.gob.es/areas/saludMental/determinantesSociales.htm",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       ]
+      },
+      {
+       "h": "Puedes hablar de lo que te pasa aunque no tengas un diagnóstico",
+       "body": "Aunque no tengas un diagnóstico, puedes hablar de lo que te pasa tal como es. El Ministerio de Sanidad lo expresa así: se puede pedir ayuda en atención primaria y comunitaria cuando se necesita, también cuando lo que se vive es un sufrimiento psíquico ligado a las condiciones de vida. En el centro de salud, la atención primaria es el primer nivel de atención y se ocupa también de la salud mental; si la situación supera lo que puede resolverse allí, puede derivar a los servicios de salud mental.\n\nPara las dificultades de la vida diaria, como quedarse sin ingresos o sin vivienda, o tener problemas de adicción, están los servicios sociales. La primera puerta es tu ayuntamiento: allí te indican a qué centro acudir.\n\nEn el trabajo hay que distinguir varias cosas. La ley de igualdad de trato dice que nadie puede ser discriminado por discapacidad, enfermedad o condición de salud (Ley 15/2022, art. 2), y la ley de derechos de las personas con discapacidad aplica sus garantías de defensa aunque la persona no tenga reconocido un grado de discapacidad (Real Decreto Legislativo 1/2013, art. 64). Cuando te presentas a un puesto, la empresa no puede preguntarte por tus condiciones de salud (Ley 15/2022, art. 9).\n\nPara pedir formalmente una adaptación, es frecuente que pidan el certificado de discapacidad o un documento que indique el diagnóstico. Por ejemplo, en las pruebas de acceso al empleo público de la Administración del Estado, quien tiene reconocido un grado de discapacidad presenta el dictamen técnico facultativo, y quien no lo tiene puede pedir algunas adaptaciones acreditando formalmente su necesidad de apoyo por otros medios admitidos en derecho (Orden PJC/804/2025).\n\nLos datos médicos de los reconocimientos de salud del trabajo no pueden darse a la empresa sin tu consentimiento expreso. A la empresa sí se le comunican las conclusiones sobre la aptitud para el puesto y sobre si hacen falta medidas de protección (Ley 31/1995, art. 22). Y cuando hay una baja médica, la empresa recibe del Instituto Nacional de la Seguridad Social (INSS) datos de carácter meramente administrativo (Real Decreto 625/2014, art. 7).\n\nLo que te gustaría pedir y lo que se puede hacer depende de cada situación, y se decide hablando.",
+       "srcs": [
+        {
+         "org": "Ministerio de Sanidad",
+         "title": "Una mirada desde la calidad, los derechos y los determinantes sociales",
+         "url": "https://www.sanidad.gob.es/areas/saludMental/determinantesSociales.htm",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización (anexo II)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+         "kind": "summary",
+         "upd": "2026-07-31"
+        },
+        {
+         "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+         "title": "Servicios Sociales",
+         "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación (arts. 2 y 9)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589",
+         "kind": "summary",
+         "upd": "2022-07-13"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social (arts. 63 y 64)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632",
+         "kind": "summary",
+         "upd": "2026-10-03"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Orden PJC/804/2025, de 23 de julio, por la que se establecen criterios generales para la adaptación de medios y tiempos y la realización de otros ajustes razonables en los procesos selectivos para el acceso al empleo público de personas con discapacidad (arts. 4 y 7)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15426",
+         "kind": "summary",
+         "upd": "2025-07-25"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (art. 22)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+         "kind": "summary",
+         "upd": "2026-04-09"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración (art. 7)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7684",
+         "kind": "summary",
+         "upd": "2023-01-05"
+        }
+       ]
+      },
+      {
+       "h": "Para algunos trámites se piden informes médicos u otros documentos",
+       "body": "Algunos trámites piden informes médicos u otros documentos. Lo que hace falta depende de cada trámite.\n\nPara el certificado de discapacidad, la solicitud se presenta ante el órgano competente de tu comunidad autónoma (en Ceuta y Melilla, el Imserso), con la documentación que acredite tu identidad y tu situación de salud. La norma pide que la condición de salud que origina la dificultad haya recibido un diagnóstico dentro del sistema sanitario, que se hayan aplicado las medidas médicas y de rehabilitación correspondientes y que esté documentada.\n\nPara una baja laboral, el parte de baja lo expide, en general, el médico del servicio público de salud que ha atendido a la persona trabajadora.\n\nLa incapacidad permanente la declara el Instituto Nacional de la Seguridad Social (INSS). La ley habla de limitaciones graves del cuerpo o de sus funciones que quedan después de haber seguido la atención médica indicada, que se pueden determinar de forma objetiva, que se prevén definitivas y que reducen o anulan la capacidad de trabajar.\n\nEn la universidad, la ley prevé ajustes razonables para el estudiantado con discapacidad (Ley Orgánica 2/2023, art. 37), y las universidades públicas deben contar con un servicio de atención a la discapacidad (art. 43). Para adaptar las pruebas de acceso, los tribunales calificadores pueden requerir informes (Real Decreto 534/2024, art. 21).\n\nAntes de empezar un trámite, conviene preguntar en el organismo correspondiente qué documentos hacen falta.",
+       "srcs": [
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 888/2022, de 18 de octubre, por el que se establece el procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad (art. 6 y anexo III)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-17105",
+         "kind": "summary",
+         "upd": "2023-08-04"
+        },
+        {
+         "org": "Instituto de Mayores y Servicios Sociales (Imserso)",
+         "title": "Grado de discapacidad",
+         "url": "https://imserso.es/autonomia-personal-dependencia/grado-de-discapacidad",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración (art. 2)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7684",
+         "kind": "summary",
+         "upd": "2023-01-05"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social (arts. 193 y 200)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
+         "kind": "summary",
+         "upd": "2026-10-21"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario (arts. 37 y 43)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500",
+         "kind": "summary",
+         "upd": "2024-08-02"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión (art. 21)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11858",
+         "kind": "summary",
+         "upd": "2026-07-02"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie",
+       "body": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie ni para mirar a otras personas por encima del hombro.\nA algunas personas les reconforta encontrar un nombre para lo que viven. Eso es importante.\nTambién es natural querer que la gente de alrededor nos comprenda o nos trate con amabilidad.\n\nCuando quieres que te traten con amabilidad, puedes pedirlo directamente, sin necesidad de decir el nombre de ninguna enfermedad.\nSe entiende mejor si dices a la vez dos cosas: con qué tienes dificultades y qué te gustaría que hiciera la otra persona.\n\nPor ejemplo:\n«Hoy me falta energía, así que me ayuda que me hablen despacio.»\n«Si me dicen muchas cosas a la vez, me pierdo; me ayuda que me expliquen las cosas de una en una.»\n«Lo que me dicen de palabra me cuesta recordarlo; prefiero que lo importante me lo den por escrito, en papel o por correo electrónico.»\n«Los sitios con mucha gente se me hacen difíciles; me gustaría hablar en un lugar tranquilo.»\n«Necesito un poco de tiempo para responder; me ayuda que me esperen un momento.»\n«Ahora mismo tengo muchas emociones a la vez; me ayuda que primero me escuchen. Los consejos pueden venir después.»\n«Hoy no me encuentro bien; me ayuda que me dejen descansar un poco.»\n«Los cambios de planes repentinos me desconciertan; me ayuda que me avisen con antelación.»\n«Cuando me hablan en voz alta me da miedo; me ayuda que me hablen con calma.»\n\nSi te cuesta decirlo bien, puedes escribirlo en un papel y entregarlo. También puedes enseñar la pantalla «Mis dificultades» con el botón «Mostrar en grande»; aparece en esta aplicación cuando eliges una preocupación y respondes a las preguntas.\nSi quieres decir el nombre de un diagnóstico que ya tienes, puedes hacerlo. También entonces, a la otra persona le ayuda saber a la vez con qué tienes dificultades y qué te gustaría que hiciera.\nA veces la otra persona no puede hacer lo que le pides por su propia situación. Entonces se puede buscar, entre las dos partes, otra manera.\n\nEn el trabajo se puede pedir con las mismas palabras: «Me cuesta seguir varias instrucciones a la vez; prefiero que me las den por escrito.» Si lo que se necesita es una adaptación formal, pueden pedir un documento que lo acredite.\n\nNo uses la lista de nombres de esta aplicación para dudar de las personas de tu entorno.",
+       "srcs": [
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Orden PJC/804/2025, de 23 de julio, por la que se establecen criterios generales para la adaptación de medios y tiempos y la realización de otros ajustes razonables en los procesos selectivos para el acceso al empleo público de personas con discapacidad (arts. 4 y 7)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15426",
+         "kind": "summary",
+         "upd": "2025-07-25"
+        }
+       ]
+      },
+      {
+       "h": "Sobre esta aplicación",
+       "body": "Esto no es un diagnóstico. Esta lista no dice si tienes una enfermedad o un trastorno. Esta aplicación no es un dispositivo médico y no sustituye la consulta con un profesional sanitario.\n\nTus respuestas no se envían a ningún sitio ni se guardan en este dispositivo. Desaparecen al cerrar la aplicación.\n\nAplicación independiente. SOYOGI es un grupo sin ánimo de lucro de Japón. No tiene relación con el Gobierno de España, el Ministerio de Sanidad ni ningún otro ministerio u organismo público, las comunidades autónomas, el Sistema Nacional de Salud, los colegios profesionales ni ningún centro sanitario, y ninguno de ellos la recomienda ni la apoya. Los nombres de las instituciones únicamente indican de dónde procede la información. Los textos originales se pueden leer gratis en las páginas de cada institución.\n\nSOYOGI ha escrito estos contenidos con sus propias palabras a partir de páginas públicas de España; las pocas frases tomadas literalmente van entre comillas angulares. Las fuentes aparecen en cada pantalla, con la fecha de la página cuando la página la muestra. Consultado el 23 de octubre de 2026. Los números y los horarios pueden cambiar.\n\nPedir ayuda o no es una decisión tuya, no de la aplicación.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Podemos pedir ayuda en atención primaria y comunitaria cuando lo necesitemos, también cuando lo que estamos viviendo es un sufrimiento psíquico vinculado a nuestras condiciones de vida.",
+      "src": {
+       "org": "Ministerio de Sanidad",
+       "title": "Una mirada desde la calidad, los derechos y los determinantes sociales",
+       "url": "https://www.sanidad.gob.es/areas/saludMental/determinantesSociales.htm",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "En el centro de salud, la atención primaria es el primer nivel de atención y se ocupa también de la salud mental: atiende las dificultades de ánimo y de ansiedad y, si lo que ocurre supera lo que puede resolverse allí, puede derivar a los servicios de salud mental.",
+       "src": {
+        "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+        "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización (anexo II)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+        "kind": "summary",
+        "upd": "2026-07-31"
+       }
+      },
+      {
+       "text": "Los servicios sociales son una ayuda pública para momentos difíciles, por ejemplo cuando alguien se queda sin ingresos o sin vivienda, o tiene problemas de adicción. La primera puerta es tu ayuntamiento: allí te indican a qué centro acudir.",
+       "src": {
+        "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+        "title": "Servicios Sociales",
+        "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre cómo se ponen los nombres (diagnósticos), una página pública de España explica:",
+      "text": "Poner un nombre a lo que ocurre es tarea de un profesional de la salud, a partir de lo que cuentas en la consulta. Además, es importante que mire si alguna enfermedad del cuerpo puede estar detrás de molestias parecidas.",
+      "src": {
+       "org": "Comunidad de Madrid",
+       "title": "Depresión y conducta suicida",
+       "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+       "kind": "summary",
+       "upd": "2026-04-28"
       }
      }
     }

@@ -106,6 +106,11 @@
     var same = lang(api) === (data().srcLang || 'ja');
     if(src.kind === 'summary') p.appendChild(api.el('span', null, api.T(isAdapt(src.url) ? (same ? 'screen.ui.edited' : 'screen.ui.editedTr') : 'screen.ui.ref')));
     else if(src.kind === 'quote') p.appendChild(api.el('span', null, api.T(same ? 'screen.ui.quotedSame' : 'screen.ui.quoted')));
+    /* 事実だけを自分の言葉で書いた行(C)にも「自分の言葉で」を足す国(スペインの決まり E01 8-4・SPEC_V1 13-2)。ほかの国は今までどおり何も足さない */
+    else if(src.kind === 'fact' && data().factRef) p.appendChild(api.el('span', null, api.T('screen.ui.ref')));
+    /* 出典の書き方を利用条件で決めているサイトの決まった文(スペインの BOE・Imserso・SPEC_V1 13-2)。国の箱の srcNote にホストごとに置く */
+    var note = (data().srcNote || {})[host(src.url)];
+    if(note) p.appendChild(api.el('span', 'src-note', ' ' + note));
     return p;
   }
 

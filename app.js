@@ -9,11 +9,11 @@
      変えたら README の「シェルの変更点」に書く */
 (function(){
 
-var VER = '0.4.1';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
+var VER = '0.5.0';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
 var APP_KEY = 'komari_soudan';        // バックアップの識別(別アプリのファイルを読まない)
 var LS = 'komari.';
 var LS_PREF = LS + 'pref.v1';
-var LANGS = ['ja','en','fr','de'];      // 国に合わせて足していく(SPEC_V1 第9節)。i18n.js と index.html の選択肢も同じ順で
+var LANGS = ['ja','en','fr','de','es'];      // 国に合わせて足していく(SPEC_V1 第9節)。i18n.js と index.html の選択肢も同じ順で
 var RTL_LANGS = ['ar'];
 var THEMES = ['green','aqua','white','dark'];
 var BGMS = ['off','green','blue'];
