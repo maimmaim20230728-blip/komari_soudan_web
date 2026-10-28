@@ -1,5 +1,5 @@
 /* 困りごとから相談へ・そよぎ 文言テーブル(そよぎアプリ・キット v1・ことばは国に合わせて足していく=SPEC_V1 第9節)
-   ・window.KOMARI_I18N = { ja, en, fr, de, es }
+   ・window.KOMARI_I18N = { ja, en, fr, de, es, nl, ko, zh }
    ・キー構造は ja と en で完全一致(_check.js が ja を正として構造・配列要素数を機械照合)
    ・画面の操作文言はここ(screen.<画面id>.*)。中身(まとまり・窓口・名前・出典・知っておきたいこと)は data.js
    ・{n} などのプレースホルダは app.js/screens が実値に差し替える(訳文でも記号のまま残す)
@@ -13,7 +13,7 @@
 var ja = {
   app: { name:'困りごとから相談へ・そよぎ', short:'困りごとから相談へ', tagline:'困りごとを言葉にして、相談の一歩へ。' },
   nav: { home:'えらぶ', names:'名前の てびき', madoguchi:'相談先', learn:'知って おきたい こと', set:'せってい' },
-  langName: { ja:'日本語', en:'英語', fr:'フランス語', de:'ドイツ語', es:'スペイン語', nl:'オランダ語', ko:'韓国語' },   // 「〇〇で 見せる」のことばの名前
+  langName: { ja:'日本語', en:'英語', fr:'フランス語', de:'ドイツ語', es:'スペイン語', nl:'オランダ語', ko:'韓国語', zh:'中国語' },   // 「〇〇で 見せる」のことばの名前
   common: {
     ok:'OK', cancel:'やめる', save:'ほぞんする', del:'けす', back:'もどる', close:'とじる',
     yes:'はい', no:'いいえ', add:'ついか', edit:'なおす', next:'つぎ', prev:'まえ', done:'できた',
@@ -183,7 +183,7 @@ var ja = {
 var en = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Put your worries into words, and take a step toward help.' },
   nav: { home:'Choose', names:'Names guide', madoguchi:'Where to ask', learn:'Good to know', set:'Settings' },
-  langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish', nl:'Dutch', ko:'Korean' },   // language names for "Show in ..."
+  langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish', nl:'Dutch', ko:'Korean', zh:'Chinese' },   // language names for "Show in ..."
   common: {
     ok:'OK', cancel:'Cancel', save:'Save', del:'Delete', back:'Back', close:'Close',
     yes:'Yes', no:'No', add:'Add', edit:'Edit', next:'Next', prev:'Previous', done:'Done',
@@ -349,7 +349,7 @@ var en = {
 var fr = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Mettre vos soucis en mots, et faire un pas vers l’aide.' },
   nav: { home:'Choisir', names:'Guide des noms', madoguchi:'Où demander', learn:'Bon à savoir', set:'Réglages' },
-  langName: { ja:'japonais', en:'anglais', fr:'français', de:'allemand', es:'espagnol', nl:'néerlandais', ko:'coréen' },   // « Afficher en ... »
+  langName: { ja:'japonais', en:'anglais', fr:'français', de:'allemand', es:'espagnol', nl:'néerlandais', ko:'coréen', zh:'chinois' },   // « Afficher en ... »
   common: {
     ok:'OK', cancel:'Annuler', save:'Enregistrer', del:'Supprimer', back:'Retour', close:'Fermer',
     yes:'Oui', no:'Non', add:'Ajouter', edit:'Modifier', next:'Suivant', prev:'Précédent', done:'Terminé',
@@ -517,7 +517,7 @@ var de = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Sorgen in Worte fassen und einen Schritt zur Hilfe gehen.' },
   /* 下のナビは 375px で1つ 75px ほど。長い語は SHY(やわらかいハイフン・折れたときだけ「-」が出る)で折る(hyphens:auto はドイツ語の辞書が無い端末で効かない) */
   nav: { home:'Auswählen', names:'Namens' + SHY + 'übersicht', madoguchi:'Anlauf' + SHY + 'stellen', learn:'Gut zu wissen', set:'Einstel' + SHY + 'lungen' },
-  langName: { ja:'Japanisch', en:'Englisch', fr:'Französisch', de:'Deutsch', es:'Spanisch', nl:'Niederländisch', ko:'Koreanisch' },   // „Auf ... anzeigen“
+  langName: { ja:'Japanisch', en:'Englisch', fr:'Französisch', de:'Deutsch', es:'Spanisch', nl:'Niederländisch', ko:'Koreanisch', zh:'Chinesisch' },   // „Auf ... anzeigen“
   common: {
     ok:'OK', cancel:'Abbrechen', save:'Speichern', del:'Löschen', back:'Zurück', close:'Schließen',
     yes:'Ja', no:'Nein', add:'Hinzufügen', edit:'Ändern', next:'Weiter', prev:'Vorherige', done:'Fertig',
@@ -683,7 +683,7 @@ var de = {
 var es = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Poner en palabras lo que te preocupa y dar un paso hacia la ayuda.' },
   nav: { home:'Elegir', names:'Guía de nombres', madoguchi:'Dónde consultar', learn:'Conviene saber', set:'Ajustes' },
-  langName: { ja:'japonés', en:'inglés', fr:'francés', de:'alemán', es:'español', nl:'neerlandés', ko:'coreano' },   // «Mostrar en ...»
+  langName: { ja:'japonés', en:'inglés', fr:'francés', de:'alemán', es:'español', nl:'neerlandés', ko:'coreano', zh:'chino' },   // «Mostrar en ...»
   common: {
     ok:'OK', cancel:'Cancelar', save:'Guardar', del:'Borrar', back:'Atrás', close:'Cerrar',
     yes:'Sí', no:'No', add:'Añadir', edit:'Cambiar', next:'Siguiente', prev:'Anterior', done:'Listo',
@@ -850,7 +850,7 @@ var es = {
 var nl = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Zet in woorden waar je mee zit, en zet een stap naar hulp.' },
   nav: { home:'Kiezen', names:'Namen' + SHY + 'wijzer', madoguchi:'Hulp vinden', learn:'Goed om te weten', set:'Instel' + SHY + 'lingen' },
-  langName: { ja:'Japans', en:'Engels', fr:'Frans', de:'Duits', es:'Spaans', nl:'Nederlands', ko:'Koreaans' },   // ‘Tonen in het ...’
+  langName: { ja:'Japans', en:'Engels', fr:'Frans', de:'Duits', es:'Spaans', nl:'Nederlands', ko:'Koreaans', zh:'Chinees' },   // ‘Tonen in het ...’
   common: {
     ok:'OK', cancel:'Annuleren', save:'Bewaren', del:'Wissen', back:'Terug', close:'Sluiten',
     yes:'Ja', no:'Nee', add:'Toevoegen', edit:'Wijzigen', next:'Volgende', prev:'Vorige', done:'Klaar',
@@ -1017,7 +1017,7 @@ var nl = {
 var ko = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'어려움을 말로 정리하고, 상담으로 한 걸음 나아가요.' },
   nav: { home:'고르기', names:'이름 안내', madoguchi:'상담 창구', learn:'알아 두기', set:'설정' },
-  langName: { ja:'일본어', en:'영어', fr:'프랑스어', de:'독일어', es:'스페인어', nl:'네덜란드어', ko:'한국어' },   // ‘…로 보기’(どれも 어 で終わるので 로)
+  langName: { ja:'일본어', en:'영어', fr:'프랑스어', de:'독일어', es:'스페인어', nl:'네덜란드어', ko:'한국어', zh:'중국어' },   // ‘…로 보기’(どれも 어 で終わるので 로)
   common: {
     ok:'확인', cancel:'취소', save:'저장', del:'지우기', back:'뒤로', close:'닫기',
     yes:'예', no:'아니요', add:'추가', edit:'고치기', next:'다음', prev:'이전', done:'완료',
@@ -1179,6 +1179,174 @@ var ko = {
   }
 };
 
+/* ============ zh(2026-10-29 多国籍版・台湾の国と合わせて足す。表示は繁體中文(台湾の書き方)・<html lang> は zh-Hant-TW。アプリの正式名は英語名のまま。
+   読み手を呼ぶ語(你・您)はなるべく使わず主語を省く(SPEC_V1 第16節)。カードの1人称は「我」。引用符は「…」・かっこは全角。
+   「諮商」は心理師法の業務の語なので、アプリの自分の文では「諮詢」を使う ============ */
+var zh = {
+  app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'把困擾說出來，朝諮詢踏出一步。' },
+  nav: { home:'選擇', names:'名稱指引', madoguchi:'諮詢窗口', learn:'先了解', set:'設定' },
+  langName: { ja:'日文', en:'英文', fr:'法文', de:'德文', es:'西班牙文', nl:'荷蘭文', ko:'韓文', zh:'中文' },   // 「以…顯示」
+  common: {
+    ok:'確定', cancel:'取消', save:'儲存', del:'刪除', back:'返回', close:'關閉',
+    yes:'是', no:'否', add:'新增', edit:'修改', next:'下一步', prev:'上一步', done:'完成',
+    saved:'已儲存 ✓', saveFail:'無法儲存', storageFull:'儲存空間不足，無法儲存',
+    deleted:'已刪除', delConfirm:'確定要刪除嗎？', empty:'還沒有內容',
+    optional:'不用全部填寫也沒關係。', today:'今天',
+    photo: {
+      camera:'拍照', roll:'從相簿選擇',
+      cropTitle:'裁切照片', cropHint:'可以用手指或箭頭移動照片，用滑桿調整大小。',
+      zoom:'大小', panUp:'往上', panDown:'往下', panLeft:'往左', panRight:'往右',
+      make:'就用這張', fail:'無法讀取照片'
+    }
+  },
+  set: {
+    hNormal:'基本設定',
+    hBackup:'換手機時（備份）',
+    fs:'字體大小', fsSizes:['一般','大','特大'],
+    lang:'ことば / Language',
+    theme:'顏色', themes:['綠色','水藍色','白色','黑色'],
+    bgm:'音樂', bgms:['無','綠色的聲音','藍色的聲音'],
+    sound:'按鍵音', on:'開', off:'關',
+    country:'國家或地區', countryPick:'請選擇國家或地區',
+    bkHint:'換到新手機時，請按「匯出」儲存檔案，再到新手機上按「匯入」。',
+    bkExport:'匯出', bkImport:'匯入',
+    exported:'已匯出 ✓', imported:'已匯入 ✓', importFail:'無法匯入',
+    note:'回答的內容和寫下的文字都不會儲存（關閉 App 或回到首頁就會消失）。只會儲存設定，也不會傳送到任何地方。',
+    privacy:'隱私權政策',
+    credit:'開發：照顧與支持的諮詢空間 SOYOGI'
+  },
+  guide: {
+    title:'使用方式', step:'{n} / {m}', start:'我知道了', again:'再看一次',
+    countryNote:'這個 App 會顯示所選國家或地區的政府與公部門網頁上的諮詢窗口和資訊。選擇的語言和國家或地區只會留在這台裝置上，之後可以在「設定」更改。',
+    countryNeed:'請先選擇國家或地區',
+    heads:[
+      '這個 App 能做什麼',
+      '這不是診斷',
+      '回答的內容不會儲存',
+      '難過到想消失的時候'
+    ],
+    bodies:[
+      '把困擾整理成文字，看看可以諮詢的地方，以及諮詢時有時會一起確認的名稱。\n請在首頁選出和現在的狀況最接近的一項，接著問題會一題一題出現。',
+      '這裡出現的名稱，並不代表已經被「診斷」。\n就算沒有病名，也可以把現在的困擾照實說出來、尋求諮詢。',
+      '回答的內容不會傳送到任何地方，也不會儲存在這台裝置上（關閉 App 或回到首頁就會消失）。\n只會儲存語言和字體大小等設定。',
+      '按下首頁最上方的按鈕，就能看到不分日夜都能聯絡的地方。'
+    ]
+  },
+  screen: {
+    ui: {
+      src:'{org}，「{title}」{url}（{date} 確認）',
+      edited:'，SOYOGI 改寫',
+      editedTr:'，SOYOGI 改寫並翻譯',
+      ref:'，SOYOGI 參考這個網頁撰寫',
+      quoted:'，以 SOYOGI 的翻譯引用',
+      quotedSame:'，照原文引用',
+      upd:'（網頁更新：{upd}）',
+      updNone:'（網頁上沒有標示更新日期）',
+      copy:'複製', copied:'已複製', copyFail:'無法複製',
+      close:'關閉',
+      call:'撥打 {tel}',
+      text:'傳簡訊到 {tel}',
+      checked:'{date} 確認。號碼和時間可能會變更。',
+      soon:'準備中',
+      crisisBtn:'難過到想消失',
+      crisisHead:'現在非常難受的時候',
+      countryHead:'{country}的諮詢窗口'
+    },
+    home: {
+      title:'選擇',
+      lead:'請選出和現在的困擾最接近的一項。',
+      other:'就算是這裡沒有的困擾，也可以照實尋求諮詢。',
+      labels:{
+        mood:'心情低落、提不起勁',
+        anxiety:'擔心或緊張的感覺很強',
+        repeat:'很難停下確認或重複的行為',
+        after:'經歷難受的事之後，一直放在心上',
+        sleep:'睡眠有困擾',
+        eating:'飲食有困擾',
+        habit:'很難停下喝酒、賭博、玩遊戲',
+        attention:'很難集中注意力或做計畫',
+        social:'在人際關係、固定的做法或感官上有困擾',
+        reading:'閱讀、書寫、計算有困難',
+        wave:'心情起伏很大'
+      }
+    },
+    flow: {
+      step:'{n} / {m}', close:'關閉', back:'返回', next:'下一步',
+      ownPh:'自己寫（想寫的話，一行就好）',
+      linePh:'一行（想寫的話）',
+      optional:'不寫也沒關係。',
+      qScenes:'請選出常發生的情況（可以選好幾個）',
+      qRecent:'最近一次發生是什麼時候？',
+      qRecentNo:'沒有那樣的時候是什麼時候？',
+      qSince:'從什麼時候開始？',
+      since:{
+        w2:'最近一兩週', m1:'大約一個月', m6:'大約半年', y1:'一年以上',
+        small:'從小就有', school:'上學的時候也有', unknown:'不知道'
+      },
+      qSpread:'在哪裡發生？',
+      spread:{ one:'只在一個地方', many:'在好幾個地方（家裡、學校、職場、外面）', unknown:'不知道' },
+      qDegree:'有多難受？',
+      degree:{ bit:'有一點', much:'相當', very:'非常（日常生活有困難）', effort:'很努力才勉強撐著' },
+      qAsks:'對諮詢的人有什麼希望嗎？（可以選好幾個）',
+      qOthers:'身邊的人有沒有說過「跟平常不一樣」或「看起來很辛苦」？',
+      others:{ yes:'有', no:'沒有', unknown:'不知道' },
+      gone:'請回到首頁重新選擇。',
+      toHome:'回到首頁'
+    },
+    result: {
+      r1Head:'我的困擾',
+      card:{
+        trouble:'困擾', recent:'最近一次', recentNo:'沒有那樣的時候', since:'從什麼時候開始',
+        spread:'在哪裡', degree:'有多難受', others:'身邊的人說過的話', asks:'希望的事'
+      },
+      cardSince:{
+        w2:'最近一兩週', m1:'大約一個月', m6:'大約半年', y1:'一年以上',
+        small:'從小就有', school:'上學的時候也有', unknown:'不知道'
+      },
+      cardSpread:{ one:'只在一個地方', many:'在好幾個地方（家裡、學校、職場、外面）', unknown:'不知道' },
+      cardDegree:{ bit:'有一點', much:'相當', very:'非常（日常生活有困難）', effort:'很努力才勉強撐著' },
+      cardOthers:{ yes:'身邊的人說過我跟平常不一樣，或看起來很辛苦', no:'沒有人這樣說過', unknown:'不知道' },
+      empty:'還沒有選任何項目。',
+      copy:'複製', show:'放大顯示',
+      copied:'已複製。如果已經貼到其他 App，這裡的內容可以刪掉。',
+      noName:'就算沒有病名，也可以照這裡寫的，說出現在遇到的事。',
+      mainLang:'以{lang}顯示',
+      backLang:'回到原本的語言',
+      junbi:'用「諮詢與就醫之前」做準備（整理困擾、到目前為止的經過、以前的文件）',
+      back:'返回', next:'下一步', prev:'上一步', home:'回到首頁',
+      r2Head:'諮詢窗口',
+      meyasuHead:'可以考慮諮詢的時候（政府與公部門的說明）',
+      generalHead:'政府與公部門網頁上的說明',
+      yourAns:'選擇的回答',
+      ansSince:'從什麼時候開始：{v}', ansDegree:'有多難受：{v}', notChosen:'沒有選',
+      same:'如果說明和現在遇到的事相近，就可以去諮詢。不太確定的時候，只要有困擾，也可以說出來。',
+      winHead:'可以諮詢的地方',
+      toNames:'看名稱一覽',
+      r3Head:'諮詢時有時會一起確認的名稱',
+      toLearn:'閱讀：「{h}」', toLearnNote:'也有請別人配合調整時的說法範例。'
+    },
+    names: {
+      title:'名稱指引',
+      lead:'選擇一個類別，就能看到諮詢時有時會一起確認的名稱一覽。不回答問題也能看。',
+      back:'回到類別選擇',
+      pre:'這些是諮詢時有時會一起確認的名稱。同樣的困擾，原因也有很多種。這份一覽不能說明有沒有疾病或障礙。諮詢之後，也可能不會有任何名稱。',
+      howLead:'關於名稱（診斷名稱）是怎麼來的，日本國立精神・神經醫療研究中心的網頁這樣寫：',
+      notHere:'也有不在這裡的名稱。',
+      noDoubt:'請不要用這份一覽去懷疑身邊的人。'
+    },
+    madoguchi: {
+      title:'諮詢窗口',
+      nowHead:'現在非常難受的時候（不分日夜）',
+      dayHead:'白天諮詢'
+    },
+    learn: {
+      title:'先了解的事',
+      step:'{n} / {m}', prev:'上一步', next:'下一步',
+      srcHead:'出處', allSrcHead:'所有出處'
+    }
+  }
+};
+
 /* フランス語は « と » の内側と、» : ; ? ! の前を改行しない空白にする(約物が行の端に離れて残らないように。data.js は _make_data.js の frTypo で同じことをする) */
 var NB = String.fromCharCode(160);
 (function nb(o){
@@ -1188,5 +1356,5 @@ var NB = String.fromCharCode(160);
   }
 })(fr);
 
-window.KOMARI_I18N = { ja: ja, en: en, fr: fr, de: de, es: es, nl: nl, ko: ko };
+window.KOMARI_I18N = { ja: ja, en: en, fr: fr, de: de, es: es, nl: nl, ko: ko, zh: zh };
 })();

@@ -31,7 +31,8 @@ window.KOMARI_DATA = {
   "de",
   "es",
   "nl",
-  "ko"
+  "ko",
+  "tw"
  ],
  "c": {
   "jp": {
@@ -43,7 +44,8 @@ window.KOMARI_DATA = {
     "de": "Japan",
     "es": "Japón",
     "nl": "Japan",
-    "ko": "일본"
+    "ko": "일본",
+    "zh": "日本"
    },
    "langs": [
     "ja",
@@ -3157,7 +3159,8 @@ window.KOMARI_DATA = {
     "de": "Vereinigte Staaten",
     "es": "Estados Unidos",
     "nl": "Verenigde Staten",
-    "ko": "미국"
+    "ko": "미국",
+    "zh": "美國"
    },
    "langs": [
     "en"
@@ -4874,7 +4877,8 @@ window.KOMARI_DATA = {
     "de": "Frankreich",
     "es": "Francia",
     "nl": "Frankrijk",
-    "ko": "프랑스"
+    "ko": "프랑스",
+    "zh": "法國"
    },
    "langs": [
     "fr"
@@ -6727,7 +6731,8 @@ window.KOMARI_DATA = {
     "de": "Deutschland",
     "es": "Alemania",
     "nl": "Duitsland",
-    "ko": "독일"
+    "ko": "독일",
+    "zh": "德國"
    },
    "langs": [
     "de"
@@ -8581,7 +8586,8 @@ window.KOMARI_DATA = {
     "de": "Spanien",
     "es": "España",
     "nl": "Spanje",
-    "ko": "스페인"
+    "ko": "스페인",
+    "zh": "西班牙"
    },
    "langs": [
     "es"
@@ -10168,7 +10174,8 @@ window.KOMARI_DATA = {
     "de": "Niederlande",
     "es": "Países Bajos",
     "nl": "Nederland",
-    "ko": "네덜란드"
+    "ko": "네덜란드",
+    "zh": "荷蘭"
    },
    "langs": [
     "nl"
@@ -11776,7 +11783,8 @@ window.KOMARI_DATA = {
     "de": "Südkorea",
     "es": "Corea del Sur",
     "nl": "Zuid-Korea",
-    "ko": "한국"
+    "ko": "한국",
+    "zh": "韓國"
    },
    "langs": [
     "ko"
@@ -13472,6 +13480,1619 @@ window.KOMARI_DATA = {
        "kind": "quote",
        "upd": "none"
       }
+     }
+    }
+   }
+  },
+  "tw": {
+   "id": "tw",
+   "name": {
+    "ja": "台湾",
+    "en": "Taiwan",
+    "fr": "Taïwan",
+    "de": "Taiwan",
+    "es": "Taiwán",
+    "nl": "Taiwan",
+    "ko": "대만",
+    "zh": "臺灣"
+   },
+   "langs": [
+    "zh"
+   ],
+   "main": "zh",
+   "fallback": "zh",
+   "srcLang": "zh",
+   "freeHosts": [
+    "fda.gov.tw",
+    "cdc.gov.tw",
+    "law.moj.gov.tw",
+    "tpech.gov.taipei",
+    "ntch.ntpc.gov.tw",
+    "ihealth.vghtpe.gov.tw"
+   ],
+   "adaptHosts": [
+    "mohw.gov.tw",
+    "dep.mohw.gov.tw",
+    "hpa.gov.tw",
+    "fda.gov.tw",
+    "cdc.gov.tw",
+    "law.moj.gov.tw",
+    "health.gov.taipei",
+    "npa.gov.tw",
+    "nfa.gov.tw",
+    "nhrc.cy.gov.tw",
+    "health.ntpc.gov.tw",
+    "mol.gov.tw",
+    "wda.gov.tw"
+   ],
+   "srcNote": {
+    "mohw.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "dep.mohw.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "hpa.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "fda.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "cdc.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "health.gov.taipei": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "npa.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license",
+    "nfa.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license"
+   },
+   "factRef": true,
+   "ver": "2026-10-29",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "tw1925",
+     "band": "now",
+     "tel": "1925",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "安心專線 1925",
+      "desc": "衛生福利部設置的心理諮詢專線，用市話或手機撥打「1925」就能接通。接聽的人會傾聽心理上的困擾，也會依需要提供相關資訊、轉介醫療單位資訊。情況危急時，可能會聯繫警察機關協助緊急救援。",
+      "hours": "全年無休，24小時，免付費。",
+      "src": {
+       "org": "衛生福利部",
+       "title": "安心專線改4碼更好記！1925依舊愛我 持續服務你和我",
+       "url": "https://www.mohw.gov.tw/cp-16-48244-1.html",
+       "kind": "summary",
+       "upd": "108-07-01"
+      }
+     },
+     "src": {
+      "org": "衛生福利部",
+      "title": "安心專線改4碼更好記！1925依舊愛我 持續服務你和我",
+      "url": "https://www.mohw.gov.tw/cp-16-48244-1.html",
+      "kind": "summary",
+      "upd": "108-07-01"
+     }
+    },
+    {
+     "id": "tw1995",
+     "band": "now",
+     "tel": "1995",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "生命線 1995",
+      "desc": "生命線的電話輔導。各種心理上的困擾都可以談，例如危機處理、家庭、感情、人際關係、精神與心理的困擾。由民間團體（生命線協會）接聽。",
+      "hours": "週一至週日，24小時。",
+      "src": {
+       "org": "數位發展部（我的E政府）",
+       "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
+       "url": "https://www.gov.tw/News_Content_26_826198",
+       "kind": "fact",
+       "upd": "115-05-28"
+      }
+     },
+     "src": {
+      "org": "數位發展部（我的E政府）",
+      "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
+      "url": "https://www.gov.tw/News_Content_26_826198",
+      "kind": "fact",
+      "upd": "115-05-28"
+     }
+    },
+    {
+     "id": "tw119",
+     "band": "now",
+     "tel": "119",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "119",
+      "desc": "發生火災或需要緊急救助時，撥打119。手機沒有訊號時，可以撥112再按9，轉接到所在地的119。",
+      "hours": "24小時。",
+      "src": {
+       "org": "內政部消防署",
+       "title": "119、112",
+       "url": "https://www.nfa.gov.tw/cht/index.php?code=list&ids=66",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "內政部消防署",
+      "title": "119、112",
+      "url": "https://www.nfa.gov.tw/cht/index.php?code=list&ids=66",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "tw110",
+     "band": "now",
+     "tel": "110",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "110",
+      "desc": "有急難需要協助或救助時，撥打110，或聯絡所在地的警察局勤務指揮中心。",
+      "hours": "",
+      "src": {
+       "org": "內政部警政署",
+       "title": "110報案",
+       "url": "https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1048&serno=e3ad2889-4dee-41cf-aef8-9b9d26dc6950",
+       "kind": "fact",
+       "upd": "114-07-28"
+      }
+     },
+     "src": {
+      "org": "內政部警政署",
+      "title": "110報案",
+      "url": "https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1048&serno=e3ad2889-4dee-41cf-aef8-9b9d26dc6950",
+      "kind": "fact",
+      "upd": "114-07-28"
+     }
+    },
+    {
+     "id": "twtext",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "不方便說話時：用手機簡訊向警察局報案",
+      "desc": "各縣市警察局都設有手機簡訊報案專線，除了聽語障人士，一般民眾也可以使用。只能傳一般的文字簡訊。簡訊號碼每個縣市不同，請在內政部警政署的網頁確認住處所在地的號碼。",
+      "hours": "",
+      "src": {
+       "org": "內政部警政署",
+       "title": "110聽語障人士報案專線",
+       "url": "https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=808&serno=d08673f4-0775-4a09-b4d8-d47c2c4edca2",
+       "kind": "fact",
+       "upd": "115-07-20"
+      }
+     },
+     "src": {
+      "org": "內政部警政署",
+      "title": "110聽語障人士報案專線",
+      "url": "https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=808&serno=d08673f4-0775-4a09-b4d8-d47c2c4edca2",
+      "kind": "fact",
+      "upd": "115-07-20"
+     }
+    },
+    {
+     "id": "tw113",
+     "band": "now",
+     "tel": "113",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "113保護專線",
+      "desc": "本人或家人、朋友遭受家庭暴力、性侵害或性騷擾的困擾時，可以撥打。市話、公共電話、手機都可以撥打，免付費。也可以用簡訊或網路對談諮詢。有立即的人身安全危險時，請先撥110報警。",
+      "hours": "24小時，全年無休。",
+      "src": {
+       "org": "衛生福利部保護服務司",
+       "title": "113保護專線介紹",
+       "url": "https://dep.mohw.gov.tw/DOPS/cp-1183-6499-105.html",
+       "kind": "summary",
+       "upd": "115-10-28"
+      }
+     },
+     "src": {
+      "org": "衛生福利部保護服務司",
+      "title": "113保護專線介紹",
+      "url": "https://dep.mohw.gov.tw/DOPS/cp-1183-6499-105.html",
+      "kind": "summary",
+      "upd": "115-10-28"
+     }
+    },
+    {
+     "id": "twcmhc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "住處所在縣市的社區心理衛生中心",
+      "desc": "各縣市依法設置的社區心理衛生中心，辦理心理衛生促進、諮詢、轉介等服務。中心裡有心理、護理、社會工作等專業人員。可以出示「我的困擾」。",
+      "hours": "電話和預約方式依縣市而不同。",
+      "src": {
+       "org": "法務部 全國法規資料庫",
+       "title": "精神衛生法 第28條",
+       "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+       "kind": "summary",
+       "upd": "111-12-14"
+      }
+     },
+     "src": {
+      "org": "法務部 全國法規資料庫",
+      "title": "精神衛生法 第28條",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+      "kind": "summary",
+      "upd": "111-12-14"
+     }
+    },
+    {
+     "id": "twhosp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "精神科的診所、醫院",
+      "desc": "用健保看門診時，自己負擔一部分的費用。沒有轉診也可以看門診，但到醫院（地區醫院、區域醫院、醫學中心）看門診時，自己負擔的比例會比較高。可以出示「我的困擾」。",
+      "hours": "依診所、醫院而不同。",
+      "src": {
+       "org": "法務部 全國法規資料庫",
+       "title": "全民健康保險法 第43條",
+       "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060001&flno=43",
+       "kind": "summary",
+       "upd": "112-06-28"
+      }
+     },
+     "src": {
+      "org": "法務部 全國法規資料庫",
+      "title": "全民健康保險法 第43條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060001&flno=43",
+      "kind": "summary",
+      "upd": "112-06-28"
+     }
+    },
+    {
+     "id": "twalc",
+     "band": "day",
+     "tel": "0800-255959",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "台灣戒酒暨酒癮防治中心 0800-255959",
+      "desc": "衛生福利部成立的酒癮防治中心的免付費諮詢專線。有飲酒問題困擾的本人和家屬都可以撥打，由專業人員一對一提供諮詢、衛教和轉介。也可以到各縣市衛生局指定的機構諮詢。",
+      "hours": "",
+      "src": {
+       "org": "衛生福利部心理健康司",
+       "title": "健康臺灣好生活！戒酒有醫伴你行",
+       "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-502-80517-107.html",
+       "kind": "summary",
+       "upd": "113-11-15"
+      }
+     },
+     "src": {
+      "org": "衛生福利部心理健康司",
+      "title": "健康臺灣好生活！戒酒有醫伴你行",
+      "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-502-80517-107.html",
+      "kind": "summary",
+      "upd": "113-11-15"
+     }
+    },
+    {
+     "id": "twdrug",
+     "band": "day",
+     "tel": "0800-770-885",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "毒品危害防制中心諮詢專線 0800-770-885",
+      "desc": "和毒品有關的困擾，可以撥打各縣市毒品危害防制中心的諮詢專線。",
+      "hours": "週一至週日，24小時。",
+      "src": {
+       "org": "衛生福利部",
+       "title": "諮詢服務專線",
+       "url": "https://www.mohw.gov.tw/cp-23-135-1.html",
+       "kind": "summary",
+       "upd": "114-06-23"
+      }
+     },
+     "src": {
+      "org": "衛生福利部",
+      "title": "諮詢服務專線",
+      "url": "https://www.mohw.gov.tw/cp-23-135-1.html",
+      "kind": "summary",
+      "upd": "114-06-23"
+     }
+    },
+    {
+     "id": "tw1980",
+     "band": "day",
+     "tel": "1980",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "張老師 1980",
+      "desc": "協助處理情緒和生活適應上的各種困擾，也可以針對眼前的問題一起想辦法。由民間團體（張老師基金會）接聽。",
+      "hours": "週一至週六 9:00～12:00、14:00～17:00、18:00～21:30；週日 9:00～12:00、14:00～17:00。",
+      "src": {
+       "org": "數位發展部（我的E政府）",
+       "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
+       "url": "https://www.gov.tw/News_Content_26_826198",
+       "kind": "fact",
+       "upd": "115-05-28"
+      }
+     },
+     "src": {
+      "org": "數位發展部（我的E政府）",
+      "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
+      "url": "https://www.gov.tw/News_Content_26_826198",
+      "kind": "fact",
+      "upd": "115-05-28"
+     }
+    },
+    {
+     "id": "tw1957",
+     "band": "day",
+     "tel": "1957",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "福利諮詢專線 1957",
+      "desc": "衛生福利部的福利諮詢專線，由社工接聽。遇到急難時可以求助，也可以詢問社會福利的相關資訊。也受理通報。",
+      "hours": "每天 8:00～22:00。",
+      "src": {
+       "org": "衛生福利部社會救助及社工司",
+       "title": "春節提前啟動加強關懷 協助陷困弱勢平安過年",
+       "url": "https://dep.mohw.gov.tw/DOSAASW/cp-609-85341-103.html",
+       "kind": "summary",
+       "upd": "115-02-04"
+      }
+     },
+     "src": {
+      "org": "衛生福利部社會救助及社工司",
+      "title": "春節提前啟動加強關懷 協助陷困弱勢平安過年",
+      "url": "https://dep.mohw.gov.tw/DOSAASW/cp-609-85341-103.html",
+      "kind": "summary",
+      "upd": "115-02-04"
+     }
+    },
+    {
+     "id": "twlaf",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "zh": {
+      "name": "法律扶助基金會 電話法律諮詢",
+      "desc": "有法律問題時，可以打電話請律師提供諮詢，不需要負擔律師費。撥打法扶全國專線 412-8518 後按「2」（用手機撥打時，前面加 02）。身心障礙者有專用的選項。通話費依電信業者計算。諮詢時會請您提供一些基本資料，通話會錄音。",
+      "hours": "週一至週五的白天（午休時間除外）。",
+      "src": {
+       "org": "財團法人法律扶助基金會",
+       "title": "電話法律諮詢",
+       "url": "https://www.laf.org.tw/service-legal-advice-tel",
+       "kind": "fact",
+       "upd": "2026-09-09"
+      }
+     },
+     "src": {
+      "org": "財團法人法律扶助基金會",
+      "title": "電話法律諮詢",
+      "url": "https://www.laf.org.tw/service-legal-advice-tel",
+      "kind": "fact",
+      "upd": "2026-09-09"
+     }
+    }
+   ],
+   "zh": {
+    "groups": {
+     "mood": {
+      "label": "心情低落、提不起勁",
+      "lead": "心情長時間低落，想做什麼都提不起勁。",
+      "scenes": [
+       "從早到晚，心情一直很低落。",
+       "以前喜歡做的事，現在做了也不覺得開心。",
+       "提不起勁，也很難專心，工作和家事都做不下去。",
+       "常常責怪自己，或是總把事情往壞處想。",
+       "晚上睡不著，或是反過來睡太多。沒什麼食慾，身體也覺得沉重、沒力氣。",
+       "有時候會想要消失。"
+      ],
+      "asks": [
+       "希望要做的事，一次只說一件。",
+       "希望不要催我回答或做決定，給我一些時間想一想。",
+       "重要的事，希望可以寫下來給我。",
+       "在說「加油」之前，希望先聽我說。",
+       "希望不要因為我在休息，就認定我是在偷懶。",
+       "希望也一起確認，和身體的疾病或現在吃的藥有沒有關係。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "身體的疾病（甲狀腺功能低下、糖尿病等）",
+        "why": "文章寫到，甲狀腺功能低下或糖尿病等身體的疾病，有時會和心情低落有關。",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：為什麼我的憂鬱症看不好？",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "藥物的影響（某些降血壓藥、類固醇等）",
+        "why": "文章寫到，某些降血壓藥、類固醇等藥物，有時會和心情低落有關。請不要自己停藥，先和開藥的醫師談談。",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：為什麼我的憂鬱症看不好？",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "聽力損失（聽不清楚）",
+        "why": "頁面寫到，年紀漸長、聽力變差時，因為交談變得困難，容易不想參加社交活動，心情也跟著低落。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "年紀大了，聽不清楚是聽覺功能自然退化，不理會沒關係？",
+         "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=127&pid=14395",
+         "kind": "summary",
+         "upd": "2021-08-24"
+        }
+       },
+       {
+        "name": "失眠",
+        "why": "文章寫到，睡不好的時候，白天容易提不起精神，情緒也可能變得不穩定。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "更年期",
+        "why": "頁面談的是女性的更年期，寫到在心理方面，會有焦慮、煩躁、失眠、心情低落等現象。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "酒精使用障礙症",
+        "why": "衛生福利部的新聞稿寫到，酒精成癮會嚴重傷害身心的健康，這個狀態的名稱是「酒精使用障礙症」。",
+        "src": {
+         "org": "衛生福利部",
+         "title": "聰明酒杯記得「量」！不喝更好最健康 衛福部聯袂各大醫院、協會團體啟動酒癮防治新藍圖",
+         "url": "https://www.mohw.gov.tw/cp-16-75242-1.html",
+         "kind": "summary",
+         "upd": "112-07-14"
+        }
+       },
+       {
+        "name": "憂鬱症",
+        "why": "頁面談的是女性晚年的憂鬱，寫到有時會整天悶悶不樂、對什麼事都提不起興趣，也會睡不好。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "雙向情緒障礙症（躁鬱症）",
+        "why": "頁面寫到，除了心情很低落的時期，也會有精力和情緒特別高昂的時期，心情在這兩頭之間起伏。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "擔心或緊張的感覺很強",
+      "lead": "擔心停不下來，或心跳加快、坐立不安，或很難待在人前、很難出門。",
+      "scenes": [
+       "在人前說話，或被大家注視的時候，非常不安，腦袋一片空白。",
+       "突然心跳加快、喘不過氣，擔心「又發生怎麼辦」，所以很難出門。",
+       "沒有明確的原因，卻一件接著一件擔心，坐立不安，整個人很疲累。",
+       "搭捷運、公車或火車，在人很多的百貨公司或夜市裡，或是一個人出門時，覺得很難離開，所以會避開。",
+       "一直避開讓我不安的事，去的地方和見面的人越來越少，生活的範圍越來越小。",
+       "擔心的事一直在腦中打轉，晚上很難入睡。"
+      ],
+      "asks": [
+       "希望我說話的時候不要催促，等我慢慢說完。",
+       "希望事先告訴我行程和進行的方式。",
+       "希望不要突然要我在大家面前表達意見，也讓我可以選擇用寫的方式說明。",
+       "覺得不舒服的時候，希望允許我先離開座位休息一下。",
+       "希望在安靜的地方，和少數人談話。",
+       "希望不要用「想太多」「太敏感」一句話帶過，先聽聽我在困擾什麼。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "甲狀腺亢進症",
+        "why": "新聞稿寫到，甲狀腺亢進時，會有心悸、手抖等情形，咖啡、濃茶等刺激性飲品可能讓心悸和焦慮更明顯。",
+        "src": {
+         "org": "臺北市政府衛生局",
+         "title": "甲狀腺亢進",
+         "url": "https://health.gov.taipei/News_Content.aspx?n=BB5A41BA1E6CA260&sms=72544237BBE4C5F6&s=6BBABDA76F1F086B",
+         "kind": "summary",
+         "upd": "114-11-13"
+        }
+       },
+       {
+        "name": "咖啡因的影響",
+        "why": "食藥署的頁面寫到，大量攝取含咖啡因的食品，可能導致心悸、手抖或失眠。",
+        "src": {
+         "org": "衛生福利部食品藥物管理署",
+         "title": "聽說喝咖啡可以用來止痛，這是真的嗎?",
+         "url": "https://www.fda.gov.tw/TC/newsContent.aspx?cid=5049&id=27325",
+         "kind": "summary",
+         "upd": "2023-01-18"
+        }
+       },
+       {
+        "name": "酒精與戒斷",
+        "why": "頁面寫到，喝下的酒精在體內退去時，身體會出現反彈，可能會手發抖、心跳加快，也會覺得非常不安、緊繃。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "酒澆愁更愁：喝酒助眠是在幫大腦「硬拔插頭」！",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=51F47524FABD6338",
+         "kind": "fact",
+         "upd": "115-08-12"
+        }
+       },
+       {
+        "name": "安眠藥的影響（停藥時）",
+        "why": "頁面寫到，安眠藥用了很久或越吃越多之後，一停下來有時會出現焦慮，或反而更睡不著。請不要自己停藥，先和開藥的醫師談談。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "失眠與安眠藥依賴風險",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=D842DE1A5DCC1056",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "社交焦慮症",
+        "why": "頁面寫到，在別人面前時會很擔心出醜，一被注意就非常緊張，有時身體也會不舒服，於是避開和人相處或上台說話的場合。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "社交焦慮與網路成癮",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=9071B5E7CEEAFA81",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "廣場恐懼症",
+        "why": "頁面寫到，讓人害怕的並不只是空曠的地方，而是覺得一旦出狀況就難以脫身、也難以找人幫忙的場合，例如搭捷運或人潮擁擠的地方。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "廣場恐懼症",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=755126052217544F",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "恐慌症",
+        "why": "文章寫到，恐慌發作時會感到強烈的難受和恐懼，之後也常一直擔心同樣的情形再出現。",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：認識恐慌症",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "急性壓力症、創傷後壓力症（PTSD）",
+        "why": "衛生福利部的頁面寫到，經歷很大的衝擊之後，有時會一直回想、容易受驚嚇、睡不著。急性壓力症和創傷後壓力症是頁面上出現的名稱。",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "很難停下確認或重複的行為",
+      "lead": "一再確認門窗或瓦斯、一直洗手等，重複同樣的事，想停也很難停下來。",
+      "scenes": [
+       "出門前要確認好幾次門有沒有鎖、瓦斯有沒有關，才能安心出門。",
+       "洗手或洗身體的次數越來越多，想停也停不下來。",
+       "同樣的擔心一再出現在腦中，很想不再去想，卻停不下來。",
+       "東西的擺法或順序，沒有照我定好的方式就很不安，會一直重新擺、重新做。",
+       "確認著確認著，時間就過去了，出門晚了，趕不上約定或上班的時間。",
+       "身體會不由自主地動，或發出聲音，想停也很難停下來。"
+      ],
+      "asks": [
+       "希望不要用「想太多」「太敏感」一句話帶過，先聽聽我在困擾什麼。",
+       "我確認需要花時間，希望時間可以安排得寬鬆一些。",
+       "要更改行程或步驟的時候，希望事先告訴我。",
+       "我在確認或洗手的時候，希望不要在別人面前指出來，或拿來取笑。",
+       "說明或指示，希望一項一項寫下來給我。",
+       "之後要怎麼諮詢、怎麼看診，希望先聽聽我擔心的地方，再慢慢決定。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "強迫症",
+        "why": "文章寫到，強迫症會讓人一再檢查、反覆洗手，本人也因此覺得非常辛苦。",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：為什麼我的憂鬱症看不好？",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "妥瑞症",
+        "why": "頁面寫到，妥瑞症會讓身體忍不住動起來或發出聲音，壓力大的時候常會比較明顯。",
+        "src": {
+         "org": "臺北榮民總醫院護理部",
+         "title": "妥瑞症的照護",
+         "url": "https://ihealth.vghtpe.gov.tw/media/784",
+         "kind": "fact",
+         "upd": "2024-10-15"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "經歷難受的事之後，一直放在心上",
+      "lead": "經歷難受的事之後，當時的記憶一再浮現，或睡不好，或一直沒辦法放鬆。",
+      "scenes": [
+       "因為一點小事，難受時的畫面和心情突然又湧上來。",
+       "一再夢到類似的可怕夢境，常常睡不安穩。",
+       "總是繃緊神經，一點聲響或小事都會嚇一跳。",
+       "盡量避開會讓我想起那時候的地方、人和話題，能做的事越來越少。",
+       "感覺心好像麻木了，對家人和朋友，也沒辦法再像以前那樣投入感情。",
+       "責怪自己的心情越來越強，或是很難相信身邊的人。"
+      ],
+      "asks": [
+       "希望不要追問發生了什麼事的細節。我想用自己的步調，只說說得出口的部分。",
+       "有些聲音、地方和話題會讓我想起那時候。我說想避開的時候，希望能尊重我的想法。",
+       "希望不要突然從背後叫我，或發出很大的聲響。",
+       "說不出口的時候，希望可以改成把寫好的紙條交給對方。",
+       "希望不要把睡不著、疲倦沒有消失的日子，當成是偷懶。",
+       "希望不要催我「忘了吧」「趕快走出來」，給我一個能安心說話的地方。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "失眠",
+        "why": "頁面寫到，失去親人等生活中很大的壓力，有時也會讓人一陣子睡不好。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "急性壓力症",
+        "why": "衛生福利部心理健康司的頁面寫到，經歷極度嚴重的創傷壓力事件之後，很多人一開始會一再回想、夢到當時的事，也容易受驚嚇、睡不好。其中有些人的困擾很強又持續下去，帶來苦惱或影響生活時，有時會用「急性壓力症」稱呼。",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       },
+       {
+        "name": "創傷後壓力症（PTSD）",
+        "why": "同一頁寫到，這些困擾持續得更久，又影響到工作、學業和與人往來時，會用「創傷後壓力症」稱呼。",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       },
+       {
+        "name": "憂鬱、焦慮的狀態",
+        "why": "同一頁也寫到，經歷重大事件之後的身心困難，也可能以憂鬱、焦慮的形式出現。",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "睡眠有困擾",
+      "lead": "很難入睡、半夜常醒來、早上很難起床，或白天很想睡。",
+      "scenes": [
+       "躺到床上，還是很久都睡不著。",
+       "半夜醒來好幾次，到早上都沒辦法睡得安穩。",
+       "到了該起床的時間卻起不來，上班或上學一直遲到。",
+       "白天非常想睡，開會、開車或騎機車的時候差點睡著。",
+       "家人說我打呼很大聲，睡覺時好像會停止呼吸。",
+       "到了傍晚或晚上，腿部不舒服、靜不下來，睡不著。"
+      ],
+      "asks": [
+       "希望花時間聽我說睡眠的情形，包括入睡的狀況、半夜醒來、早上起不來和白天想睡的程度。",
+       "希望把我正在吃的藥，以及喝咖啡、喝酒、抽菸的習慣也算進去，一起想想原因。",
+       "希望不要用「想太多」「想開一點」帶過，也一起確認身體的疾病和心情的部分。",
+       "我想用寫著睡覺和起床時間的紙條來說明，希望能看一下。",
+       "如果要用藥，希望用容易懂的方式說明藥怎麼作用、要注意什麼。",
+       "早上比較困難，希望能看下午或晚上的門診（夜診）。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "失眠",
+        "why": "頁面寫到，失眠包括躺了很久還睡不著、夜裡一再醒來、清晨太早醒來就睡不回去等情形；睡不好時，白天也會覺得累、難以專心、心情起伏大。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "睡眠呼吸中止症",
+        "why": "頁面寫到，有睡眠呼吸中止的問題，本人也不一定察覺得到；頁面舉出的情形有白天很想睡、提不起精神、難以專心等。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "鼻塞與睡眠呼吸中止症",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=CEC98CD9D601DB7D&s=DCAC4891DA7F2E0D",
+         "kind": "fact",
+         "upd": "113-07-26"
+        }
+       },
+       {
+        "name": "不寧腿症候群",
+        "why": "頁面寫到，不寧腿症候群會在晚上快要睡覺時，腳發麻、發癢，很不舒服，因此難以入睡。",
+        "src": {
+         "org": "新北市立聯合醫院",
+         "title": "睡前老是腳麻、腳麻有蟲在爬？當心不寧腿症候群作怪",
+         "url": "https://www.ntch.ntpc.gov.tw/home.jsp?id=f545584b3fd42965&act=be4f48068b2b0031&dataserno=7c85869309f68f57ddad5388a2b8a787&mserno=81bc30641f6ae52b789097524d228377",
+         "kind": "fact",
+         "upd": "2021-03-02"
+        }
+       },
+       {
+        "name": "咖啡因的影響",
+        "why": "食藥署的頁面寫到，大量攝取含咖啡因的食品，可能出現心悸、手抖或睡不著的情形。",
+        "src": {
+         "org": "衛生福利部食品藥物管理署",
+         "title": "聽說喝咖啡可以用來止痛，這是真的嗎?",
+         "url": "https://www.fda.gov.tw/TC/newsContent.aspx?cid=5049&id=27325",
+         "kind": "summary",
+         "upd": "2023-01-18"
+        }
+       },
+       {
+        "name": "安眠藥的影響",
+        "why": "頁面寫到，安眠藥用了很久，不只睡眠的品質會受影響，記憶、專注和反應也會變差，白天也會想睡。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "失眠與安眠藥依賴風險",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=D842DE1A5DCC1056",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "酒精的影響",
+        "why": "頁面寫到，喝酒雖然可能讓人比較快睡著，睡眠的結構卻會被打亂。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "酒澆愁更愁：喝酒助眠是在幫大腦「硬拔插頭」！",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=51F47524FABD6338",
+         "kind": "fact",
+         "upd": "115-08-12"
+        }
+       },
+       {
+        "name": "更年期",
+        "why": "國民健康署的頁面說明，更年期是自然的過程，不是疾病；女性在這段時期，心理方面也可能出現焦慮、煩躁、失眠、心情低落等。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "憂鬱症",
+        "why": "頁面談的是女性到了晚年的憂鬱，寫到這時有時會整天心情鬱悶、對什麼都失去興趣，也會睡不好。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       }
+      ],
+      "windows": [
+       "twhosp",
+       "twcmhc"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "飲食有困擾",
+      "lead": "吃東西變得困難。只能吃一點點、停不下來，或對吃東西感到害怕。",
+      "scenes": [
+       "不想吃東西，食物很難吞下去的日子一直持續。",
+       "一開始吃就停不下來，有時吃到肚子很難受。",
+       "回過神來，滿腦子都是食物，很難專心做別的事。",
+       "能吃的東西很有限，味道、氣味或口感讓我難受，所以常常避開很多食物。",
+       "被食物噎到或吐過一次之後，就變得害怕吃東西。",
+       "晚上有時在半夢半醒的狀態下吃東西，到了早上完全不記得。"
+      ],
+      "asks": [
+       "希望不要評論我的身材、胖瘦或外表。",
+       "希望不要勉強我吃，也不要催我快點吃。",
+       "聚餐、尾牙或家族聚會吃飯的場合，希望可以選別的地方或時間。",
+       "希望先問我能吃什麼，以及哪些氣味、口感讓我難受。",
+       "希望先說明要做哪些身體檢查、看診的流程。",
+       "難以開口說的事，希望可以寫在紙上交給對方。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "甲狀腺亢進症",
+        "why": "頁面寫到，甲狀腺分泌過多賀爾蒙時，身體的代謝會變快，可能出現心悸、手抖，也可能食慾很好、體重卻下降。",
+        "src": {
+         "org": "臺北市政府衛生局",
+         "title": "甲狀腺亢進",
+         "url": "https://health.gov.taipei/News_Content.aspx?n=BB5A41BA1E6CA260&sms=72544237BBE4C5F6&s=6BBABDA76F1F086B",
+         "kind": "summary",
+         "upd": "114-11-13"
+        }
+       },
+       {
+        "name": "甲狀腺功能低下",
+        "why": "頁面（寫作「甲狀腺機能低下」）寫到，這時有時會吃不太下、容易便祕；也寫到，光有這些情形，並不能說就是這個問題。",
+        "src": {
+         "org": "臺北榮民總醫院護理部",
+         "title": "甲狀腺機能低下之照護",
+         "url": "https://ihealth.vghtpe.gov.tw/media/1079",
+         "kind": "fact",
+         "upd": "2026-05-11"
+        }
+       },
+       {
+        "name": "飲食疾患（厭食症、暴食症、嗜食症）",
+        "why": "文章寫到，吃東西這件事也會成為很大的煩惱；文中舉出的飲食疾患，包括厭食症、暴食症、嗜食症等。",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：當飲食變成困擾，認識飲食疾患",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "雙向情緒障礙症（躁鬱症）",
+        "why": "頁面寫到，雙向情緒障礙症有情緒低落的時期，這時睡眠和食慾都可能改變。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       }
+      ],
+      "windows": [
+       "twhosp",
+       "twcmhc"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "很難停下喝酒、賭博、玩遊戲",
+      "lead": "想停下來或減少，卻還是一直做下去。",
+      "scenes": [
+       "明明決定要停下來、要減少，回過神來又繼續了。",
+       "給自己定好「今天到這裡為止」的時間、量或金額，卻沒辦法遵守。",
+       "喝酒、玩遊戲或賭博的事，會瞞著身邊的人，或用別的說法帶過。",
+       "因為打電動、玩手遊熬夜，早上起不來，遲到或請假變多了。",
+       "輸了之後，想把輸掉的贏回來，於是又賭了。",
+       "明知身體不舒服，還是沒辦法少喝一點。"
+      ],
+      "asks": [
+       "希望不要責備或下定論，先聽我說。",
+       "希望一起照順序，整理目前的情況和困擾的地方。",
+       "希望也一併確認睡眠和身體的狀況。",
+       "希望具體告訴我，可以去哪裡諮詢、有哪些可以去的地方。",
+       "希望告訴我，家人或身邊的人能不能一起諮詢。",
+       "希望先和我確認，我說的內容會告訴誰、告訴到什麼程度。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "安眠藥的依賴",
+        "why": "對安眠藥產生依賴，頁面說明和意志力強弱無關，是大腦對藥物的一種適應。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "失眠與安眠藥依賴風險",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=D842DE1A5DCC1056",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "酒精使用障礙症",
+        "why": "衛生福利部的新聞稿寫到，酒精成癮會嚴重危害身心健康，文中也提到「酒精使用障礙症」這個名稱。",
+        "src": {
+         "org": "衛生福利部",
+         "title": "聰明酒杯記得「量」！不喝更好最健康 衛福部聯袂各大醫院、協會團體啟動酒癮防治新藍圖",
+         "url": "https://www.mohw.gov.tw/cp-16-75242-1.html",
+         "kind": "summary",
+         "upd": "112-07-14"
+        }
+       },
+       {
+        "name": "賭博成癮（嗜賭症）",
+        "why": "頁面寫到，賭博的問題嚴重時，一般會用「賭博成癮」或「嗜賭症」來稱呼。",
+        "src": {
+         "org": "臺北市政府衛生局（臺北市社區心理衛生中心）",
+         "title": "衛生局新聞稿1090309：「賭博不是病，上癮要人命」 聯合醫院博奕門診 幫助您擺脫賭博成癮",
+         "url": "https://mental-health.gov.taipei/News_Content.aspx?n=7496ABB6D8F96898&sms=6E3C235DABB63062&s=73C318C517075921",
+         "kind": "summary",
+         "upd": "109-05-05"
+        }
+       },
+       {
+        "name": "注意力不足過動症（ADHD）",
+        "why": "成人的注意力不足過動症，頁面寫到常同時有焦慮、憂鬱或物質使用的困擾。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twalc",
+       "twdrug",
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "很難集中注意力或做計畫",
+      "lead": "很難專心、很難照順序做事、很難記住事情。",
+      "scenes": [
+       "聽別人說話的時候，不知不覺就在想別的事。",
+       "工作或家事沒辦法照順序做，趕不上期限。",
+       "別人拜託的事或約好的事，後來常想不起來，也常弄丟東西。",
+       "一直做同樣的事，粗心的失誤就變多。",
+       "一直坐著不動，就覺得靜不下來、坐立不安。",
+       "有時會被身邊的人說，常忘東西或遲到。"
+      ],
+      "asks": [
+       "希望指示一次只說一項。",
+       "希望把重要的事寫成文字給我。",
+       "希望期限和約定的事，早一點告訴我。",
+       "希望不要一次拜託很多事，分成幾小份。",
+       "希望在比較安靜、不容易分心的地方談。",
+       "希望不要責怪做不到的地方，也肯定我做到的部分。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "失眠",
+        "why": "睡不好的時候，白天可能比較疲倦，也比較難專心、容易忘東西。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "睡眠呼吸中止症",
+        "why": "有睡眠呼吸中止症時，本人不一定會發現；頁面提到白天容易想睡、沒什麼精神、不容易專心。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "鼻塞與睡眠呼吸中止症",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=CEC98CD9D601DB7D&s=DCAC4891DA7F2E0D",
+         "kind": "fact",
+         "upd": "113-07-26"
+        }
+       },
+       {
+        "name": "甲狀腺功能低下",
+        "why": "頁面寫到，甲狀腺功能低下時，有時會覺得疲倦、記性變差、不容易專心。",
+        "src": {
+         "org": "臺北榮民總醫院護理部",
+         "title": "甲狀腺機能低下之照護",
+         "url": "https://ihealth.vghtpe.gov.tw/media/1079",
+         "kind": "fact",
+         "upd": "2026-05-11"
+        }
+       },
+       {
+        "name": "更年期",
+        "why": "頁面談的是女性的更年期，寫到心理方面有時會出現焦慮、煩躁、失眠、記憶力衰退等現象。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "憂鬱症",
+        "why": "頁面談的是女性晚年的憂鬱，寫到有時會對事情提不起勁、比較難專心、容易忘東西。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "雙向情緒障礙症（躁鬱症）",
+        "why": "頁面寫到，在情緒和精力特別高漲的時期，念頭轉得很快，很難把注意力放在一件事上。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "注意力不足過動症（ADHD）",
+        "why": "頁面寫到，做事常拖延、東忘西忘等困擾，有時會和成人的注意力不足過動症有關。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "在人際關係、固定的做法或感官上有困擾",
+      "lead": "和人說話或相處有困難，或很想一直用同樣的做法，或很難忍受聲音、光線、氣味。",
+      "scenes": [
+       "很難抓到對方的心情和現場的氣氛，覺得話接不上。",
+       "在人前說話，或被大家注目的時候會非常緊張，所以會避開這樣的場合。",
+       "和熟悉的人可以說話，在不熟的人面前卻發不出聲音。",
+       "固定的做法、順序或物品擺放的位置一改變，就會非常不安。",
+       "聲音、光線、氣味等覺得特別強烈，人多的地方很難受。",
+       "聽不清楚別人說的話，或心情低落，連見人、說話都覺得辛苦。"
+      ],
+      "asks": [
+       "希望慢一點、清楚地說。",
+       "希望重要的事用寫的告訴我。",
+       "希望在安靜的地方談話。",
+       "希望更改預定或做法的時候，先告訴我。",
+       "希望不要催我回答，耐心等我。",
+       "希望可以用文字或字條代替說話來回答。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "聽力損失（聽不清楚）",
+        "why": "頁面談的是年紀漸長之後的聽力損失，寫到聽不清楚、溝通困難時，容易變得封閉、不想參加社交活動，心情也容易低落。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "年紀大了，聽不清楚是聽覺功能自然退化，不理會沒關係？",
+         "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=127&pid=14395",
+         "kind": "summary",
+         "upd": "2021-08-24"
+        }
+       },
+       {
+        "name": "憂鬱症",
+        "why": "頁面談的是女性晚年的憂鬱，寫到有時會不太想和人來往，對很多事情也提不起勁。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "社交焦慮症",
+        "why": "頁面寫到，有社交焦慮症時，會很怕在大家面前丟臉，被人注意就特別緊張，於是避開聚會或上台說話的場合。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "社交焦慮與網路成癮",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=9071B5E7CEEAFA81",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "廣場恐懼症",
+        "why": "頁面寫到，有時會害怕在捷運、商場或人多的地方出事時逃不開、沒人幫忙，慢慢就不去這些地方。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "廣場恐懼症",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=755126052217544F",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "閱讀、書寫、計算有困難",
+      "lead": "就算很努力，閱讀、書寫、處理數字還是一直很困難。",
+      "scenes": [
+       "我讀一篇文章比別人花更多時間，常常要重複讀好幾遍。",
+       "讀了之後，內容還是進不到腦子裡，很難弄懂文件或信件在說什麼。",
+       "常寫錯字、別字，或想不起字怎麼寫，也常漏寫。",
+       "字寫得不工整，寫字要花很多時間和力氣。",
+       "簡單的計算，或用文字敘述的計算題，我常常卡住。",
+       "說話和聽別人說話都做得到，但是一碰到讀、寫、計算，就算花很多時間，也沒辦法照自己想的進行。"
+      ],
+      "asks": [
+       "希望文字能用大一點的字和寬一點的行距呈現，難懂的詞也希望換成簡單的說法。",
+       "重要的內容，希望能念給我聽，或用口頭告訴我。",
+       "希望可以讓我用手機或電腦輸入，或用拍照、錄音記下來，代替手寫。",
+       "計算的時候，希望可以讓我使用計算機。",
+       "讀、寫、計算的時間，希望可以多給我一些。",
+       "希望一次給的量少一點，一項一項交給我。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "中老年常見的眼睛疾病（老花眼、白內障等）",
+        "why": "頁面寫到，中老年常見的眼睛疾病有白內障、老花眼、乾眼症、青光眼等，白內障在早期可能看東西模糊、怕光。看字吃力的時候，也可以把眼睛的狀況一起說給醫師聽。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "常見中老年眼部問題",
+         "url": "https://tpech.gov.taipei/mp109181/News_Content.aspx?n=80359412498D4193&s=31D804C1E8DD06B0",
+         "kind": "fact",
+         "upd": "108-07-12"
+        }
+       },
+       {
+        "name": "聽力損失",
+        "why": "頁面談的是長者的聽力損失，寫到聽不清楚別人說話、需要對方再說一次等情形。聽得吃力的時候，也可以和讀、寫、計算的困難一起說給醫師聽。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "年紀大了，聽不清楚是聽覺功能自然退化，不理會沒關係？",
+         "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=127&pid=14395",
+         "kind": "summary",
+         "upd": "2021-08-24"
+        }
+       },
+       {
+        "name": "失眠",
+        "why": "頁面寫到，失眠時，白天有時會沒精神、記性變差、不容易專心，連帶影響課業或工作。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "注意力不足過動症（ADHD）",
+        "why": "頁面談的是成人的注意力不足過動症，說明注意力由好幾種能力互相配合，其中一部分失去平衡時，有時會出現容易分心、健忘的情形。讀、寫、計算很吃力的時候，專注的情形也可以一併說給醫師聽。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "心情起伏很大",
+      "lead": "心情起伏很大，自己也很難跟上自己的心情。",
+      "scenes": [
+       "精神特別亢奮的時期，和低落到動不了的時期，輪流出現。",
+       "有一段時期，我幾乎沒怎麼睡，卻很有精神，可以一直動個不停。",
+       "想做的事一件接一件冒出來，每一件都做到一半就放著。",
+       "心情高漲，膽子變大，花了太多錢，事後很傷腦筋。",
+       "一點小事就煩躁，很難壓住自己的情緒。",
+       "情緒高漲的時候做的事，後來影響到人際關係或工作。"
+      ],
+      "asks": [
+       "希望也問問我精神特別好的那段時期的情況。",
+       "希望花一些時間，和我一起回頭看看心情的起起落落。",
+       "在做和金錢、工作有關的重大決定之前，希望能提醒我先停下來想一想。",
+       "希望也一併了解我的睡眠、用藥和喝酒的情形，從身體方面一起確認。",
+       "如果覺得我和平常不太一樣，希望不要責備我，直接告訴我。",
+       "不管是精神很好的時候，還是低落的時候，都希望能把我的話聽到最後。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "甲狀腺功能的問題",
+        "why": "頁面寫到，情緒起伏有時和身體方面的原因有關，甲狀腺功能的問題就是常見的例子之一。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "失眠",
+        "why": "頁面寫到，失眠時，白天有時會容易發脾氣、心情起伏不定。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "酒精的影響",
+        "why": "頁面寫到，酒精的作用退去之後，身體會出現反彈，可能讓人煩躁、不安，靠喝酒幫助入睡的人，隔天控制情緒也比較吃力。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "酒澆愁更愁：喝酒助眠是在幫大腦「硬拔插頭」！",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=51F47524FABD6338",
+         "kind": "fact",
+         "upd": "115-08-12"
+        }
+       },
+       {
+        "name": "更年期",
+        "why": "頁面談的是女性的更年期，寫到心理方面有焦慮、煩躁、心情低落等現象。",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "經前症候群、經前不悅症",
+        "why": "頁面談的是女性的經前症候群，寫到心理方面會出現焦慮、憂鬱、情緒起伏等，也提到程度更嚴重的情形叫做「經前不悅症」。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性身心的微妙變奏：經前症候群",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=940658456FC7FC71",
+         "kind": "fact",
+         "upd": "112-12-18"
+        }
+       },
+       {
+        "name": "憂鬱症",
+        "why": "這一頁談的是晚年女性的憂鬱，寫到有時會整天悶悶不樂、什麼事都提不起勁、睡不好。心情低落的時期，也可以一起說給醫師聽。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "雙向情緒障礙症（躁鬱症）",
+        "why": "頁面寫到，躁鬱症有精力旺盛、情緒高昂的「躁」，也有心情沉重、提不起勁的「鬱」，情緒有時會在短時間內大起大落。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "注意力不足過動症（ADHD）",
+        "why": "頁面談的是成人的注意力不足過動症，開頭舉出的困擾，包括情緒一來就忍不住衝動、常常忘東忘西、事情一拖再拖。",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twhosp",
+       "twcmhc"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "知道名稱之後，平常的小起伏有時會看起來像症狀",
+       "body": "知道疾病或發展方面的名稱之後，平常小小的疲倦或發呆，有時會看起來像是症狀。\n\n心情的變化會影響身體和情緒，這不是心理作用，而是真的會發生的事。不過，睡眠不足、壓力、長時間滑手機、周圍的狀況，也會造成類似的情形。\n\n看到某個名稱，覺得「好像就是這個」的時候，不要只憑這一點就下結論，也想想有沒有別的原因。困擾持續的時候，不論有沒有名稱，都可以直接諮詢。",
+       "srcs": []
+      },
+      {
+       "h": "心情低落，也是生活中會經歷的事",
+       "body": "心情低落是一種情緒，也是生活中會經歷的事。\n\n不過，名稱（診斷名）由醫師綜合各種情況來決定。工作、人際、家庭、日常生活受到明顯影響的時候，也可以去看診。\n\n困擾持續的時候，不論有沒有名稱，都可以直接諮詢。",
+       "srcs": [
+        {
+         "org": "衛生福利部 社會安全網",
+         "title": "請問精神疾病的定義、範圍及常見的精神疾病症狀？",
+         "url": "https://topics.mohw.gov.tw/SS/cp-4530-50107-204.html",
+         "kind": "fact",
+         "upd": "111-05-18"
+        }
+       ]
+      },
+      {
+       "h": "沒有病名，也可以諮詢",
+       "body": "沒有病名，困擾也可以直接諮詢。\n\n衛生福利部的1925安心專線（依舊愛我）頁面寫著：有心理壓力或情緒困擾時，可以撥打，提供24小時免付費的心理諮詢服務。頁面的條件裡沒有寫到病名。\n\n住的縣市有社區心理衛生中心。精神衛生法規定，地方政府要由社區心理衛生中心辦理心理衛生促進、諮詢、轉介等服務。\n\n病歷、醫療、健康檢查等個人資料，依個人資料保護法，原則上不得蒐集、處理或利用（有法律明文規定、本人書面同意等例外），在職場上也一樣。就業服務法也規定，雇主不可以違反本人的意思，要求提供和就業所需無關的隱私資料。精神衛生法則寫著，就醫、就學、應考、僱用和社區生活等方面，不可以因為有精神疾病而受到不公平的對待。\n\n說明自己需要什麼幫忙時，可以把「在什麼情況下，遇到什麼困難，希望怎麼配合」一起說。",
+       "srcs": [
+        {
+         "org": "衛生福利部心理健康司",
+         "title": "1925安心專線（依舊愛我）",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html",
+         "kind": "summary",
+         "upd": "114-08-28"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "精神衛生法 第28條、第37條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+         "kind": "summary",
+         "upd": "111-12-14"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "個人資料保護法 第6條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021",
+         "kind": "summary",
+         "upd": "114-11-11"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "就業服務法 第5條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0090001",
+         "kind": "summary",
+         "upd": "114-01-20"
+        }
+       ]
+      },
+      {
+       "h": "不過，使用制度有時需要診斷證明等文件",
+       "body": "不過，要使用制度，有時候需要醫師的診斷證明等文件。需要什麼，因制度而不同。\n\n重大傷病證明：需要醫師開立、寫明病名和國際疾病分類碼的診斷證明書。精神方面的項目，多數限由精神科專科醫師開立，也要看病情是否已經慢性化。\n\n身心障礙證明：要經過包含診察、診斷的鑑定。鑑定的一般原則是，經過積極的醫療處置，仍然明顯影響生活，或有足夠的醫學證據可以推斷會長期明顯影響生活，才適合接受鑑定。\n\n職務再設計（向政府申請工作調整的協助）：還沒有領到身心障礙證明、但有精神疾病的人，也可以申請。申請時，要附上精神科專科醫師開立的診斷證明。\n\n職業災害：精神疾病和執行職務有相當因果關係時，視為職業病。向職業災害保險提出申請時，要針對生病前在工作中受到的危害、生病的證據、疾病和工作的因果關係等，陳述意見或提供證據。\n\n請假：請假時，雇主可以要求提出有關的證明文件。\n\n大學：大學有支持身心障礙學生的單位（資源教室）。需要什麼文件，先向學校確認。\n\n辦手續前，先問窗口需要什麼。",
+       "srcs": [
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "全民健康保險保險對象免自行負擔費用辦法 第2條、附表一",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060015",
+         "kind": "summary",
+         "upd": "113-09-16"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "身心障礙者鑑定作業辦法 第7條、附表二甲",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020020",
+         "kind": "summary",
+         "upd": "115-06-29"
+        },
+        {
+         "org": "勞動部",
+         "title": "勞動部擴大職務再設計服務　支持身障就業再升級",
+         "url": "https://www.mol.gov.tw/1607/1632/1633/90851/",
+         "kind": "summary",
+         "upd": "2026-06-02"
+        },
+        {
+         "org": "勞動部勞動力發展署",
+         "title": "尚未取得身障證明4類對象專區",
+         "url": "https://jobacmd.wda.gov.tw/DJOB_WEB/PwdEld/List",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "勞工職業災害保險職業傷病審查準則 第20條、第21條、第22條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050008",
+         "kind": "summary",
+         "upd": "114-05-26"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "勞工請假規則 第10條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030006",
+         "kind": "summary",
+         "upd": "115-09-30"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "特殊教育法 第35條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080027",
+         "kind": "summary",
+         "upd": "112-06-21"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "病名不是用來站在別人之上的工具",
+       "body": "病名不是用來站在別人之上，或是看不起別人的工具。\n知道名稱之後，心情變輕鬆的人也有。這很重要。\n希望周圍的人理解自己、對自己溫柔一點，也是很自然的事。\n\n希望別人對自己溫柔一點的時候，可以直接開口請求。\n把「遇到什麼困難」和「希望對方怎麼做」一起說，比較容易傳達。\n\n例如這樣說：\n「今天比較累，希望說話可以慢一點。」\n「一次聽到很多事我會搞混，希望一件一件說。」\n「只用聽的比較難記住，重要的事希望寫在紙上，或用電子郵件寄給我。」\n「人多的地方我比較吃不消，希望可以在安靜的地方談。」\n「我回答需要一點時間，希望可以稍微等一下。」\n「現在心裡裝滿了情緒，希望先聽我說，建議之後再給就好。」\n「今天狀況不太好，希望可以讓我休息一下。」\n「突然改變計畫我會慌張，希望可以早一點告訴我。」\n「被大聲說話我會害怕，希望可以平靜地說。」\n\n如果不太會說，也可以寫在紙上交給對方。在這個應用程式裡，選擇困擾、回答問題之後會出現「我的困擾」，也可以用「放大顯示」給對方看。\n想告訴對方病名的時候，可以告訴對方。這時候，除了病名，也把「遇到什麼困難、希望怎麼做」一起說，對方比較知道怎麼配合。\n就算開口請求了，有時對方也因為自己的狀況做不到。這時候，可以一起談談有沒有別的做法。\n在職場上請對方配合時，可以這樣說：「我在○○的時候比較吃力，希望可以○○。」\n\n請不要把這個應用程式的名稱一覽，當成懷疑周圍的人的材料。",
+       "srcs": []
+      },
+      {
+       "h": "關於這個應用程式",
+       "body": "這不是診斷。看到名稱一覽裡的某個名稱，不代表醫師已經做了診斷。\n\nSOYOGI 是日本的非營利民間團體（未登記為法人）。和臺灣的政府、衛生福利部及所屬機關、縣市政府、社區心理衛生中心、醫院、專業團體，都沒有關係。這些機關沒有推薦或支持這個應用程式。畫面上出現的機關名稱，只是用來標示資料的出處。\n\n這個應用程式不是醫療器材，無法說明有沒有生病；有沒有生病，要由醫師看診來決定。\n\n內容是 SOYOGI 參考各機關公開的資料，用自己的話整理而成。出處標示在各個畫面上，原本的文字可以在各機關的網站免費閱讀。確認日期是 2026年10月29日，電話號碼和時間可能會有變動。\n\n要不要諮詢，由自己決定，不是由這個應用程式決定。",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "衛生福利部呼籲：如果有情緒上的困擾，或身心的不舒服一直持續，可以使用心理健康資源，或尋求醫療協助。",
+      "src": {
+       "org": "衛生福利部",
+       "title": "守護災民與救災英雄的心 掌握五字訣善用心理健康資源",
+       "url": "https://www.mohw.gov.tw/cp-16-84219-1.html",
+       "kind": "summary",
+       "upd": "114-10-15"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "有心理壓力或情緒困擾時，不必一個人承受，可以撥打衛生福利部的1925安心專線（24小時、免付費）。",
+       "src": {
+        "org": "衛生福利部心理健康司",
+        "title": "1925安心專線（依舊愛我）",
+        "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html",
+        "kind": "summary",
+        "upd": "114-08-28"
+       }
+      },
+      {
+       "text": "住的縣市有社區心理衛生中心。精神衛生法規定，地方政府要由社區心理衛生中心辦理心理衛生促進、諮詢、轉介等服務。",
+       "src": {
+        "org": "法務部 全國法規資料庫",
+        "title": "精神衛生法 第28條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+        "kind": "summary",
+        "upd": "111-12-14"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "名稱（診斷名）由醫師等醫療專業人員綜合各種情況來決定。同樣的困擾，原因也可能各不相同。",
+      "text": "",
+      "src": null
      }
     }
    }

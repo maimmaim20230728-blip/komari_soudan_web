@@ -215,8 +215,9 @@
     if(com.namesHow){
       /* 前置きの機関名は国で違う(日本=NCNP)。data の namesHow.lead があればそれ、無ければ i18n(日本の文) */
       box.appendChild(api.el('p', 'names-how-lead', com.namesHow.lead || api.T('screen.names.howLead')));
-      box.appendChild(api.el('p', 'names-how', com.namesHow.text));
-      box.appendChild(srcLine(api, com.namesHow.src));
+      /* 台湾は国の一般向けの文が無いので前置き(そよぎの言葉)だけ(SPEC_V1 16-5 ⑨) */
+      if(com.namesHow.text) box.appendChild(api.el('p', 'names-how', com.namesHow.text));
+      if(com.namesHow.src) box.appendChild(srcLine(api, com.namesHow.src));
     }
     box.appendChild(api.el('p', 'names-not-here', api.T('screen.names.notHere')));
     box.appendChild(api.el('p', 'note names-no-doubt', api.T('screen.names.noDoubt')));

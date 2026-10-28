@@ -9,18 +9,19 @@
      変えたら README の「シェルの変更点」に書く */
 (function(){
 
-var VER = '0.7.0';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
+var VER = '0.8.0';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
 var APP_KEY = 'komari_soudan';        // バックアップの識別(別アプリのファイルを読まない)
 var LS = 'komari.';
 var LS_PREF = LS + 'pref.v1';
-var LANGS = ['ja','en','fr','de','es','nl','ko'];      // 国に合わせて足していく(SPEC_V1 第9節)。i18n.js と index.html の選択肢も同じ順で
+var LANGS = ['ja','en','fr','de','es','nl','ko','zh'];      // 国に合わせて足していく(SPEC_V1 第9節)。i18n.js と index.html の選択肢も同じ順で
 var RTL_LANGS = ['ar'];
 var THEMES = ['green','aqua','white','dark'];
 var BGMS = ['off','green','blue'];
 var DEFAULT_THEME = 'green';         // 🔴 THEMES の中から選ぶ(2026-10-17 'light' だったため、はじめて開いたとき せっていの「いろ」が空だった)
 var DEFAULT_BGM = 'off';
 var GUIDE_AGAIN = true;             // せっていから「つかいかた」をもう一度ひらけるか(隠れた入口の開き方を書いたアプリは false)
-var TTS_LANG = { ja:'ja-JP', en:'en-US', de:'de-DE', fr:'fr-FR', es:'es-ES', it:'it-IT', pt:'pt-PT', nl:'nl-NL', sv:'sv-SE', ko:'ko-KR', zh:'zh-CN', ar:'ar-SA' };
+var TTS_LANG = { ja:'ja-JP', en:'en-US', de:'de-DE', fr:'fr-FR', es:'es-ES', it:'it-IT', pt:'pt-PT', nl:'nl-NL', sv:'sv-SE', ko:'ko-KR', zh:'zh-TW', ar:'ar-SA' };   // zh = 台湾の繁體中文(SPEC_V1 第16節)
+var HTML_LANG = { zh:'zh-Hant-TW' };   // <html lang>(繁體の字形で出すため。ほかのことばは印のまま)
 
 var $ = function(id){ return document.getElementById(id); };
 
@@ -112,7 +113,7 @@ function applyI18n(){
     var scr = navs[i].getAttribute('data-scr');
     if(scr) navs[i].textContent = T('nav.' + scr);
   }
-  document.documentElement.lang = pref.lang;
+  document.documentElement.lang = HTML_LANG[pref.lang] || pref.lang;
   document.documentElement.dir = (RTL_LANGS.indexOf(pref.lang) >= 0) ? 'rtl' : 'ltr';
   if($('btn-fs'))    $('btn-fs').textContent    = T('set.fsSizes')[pref.fs];
   if($('btn-theme')) $('btn-theme').textContent = T('set.themes')[THEMES.indexOf(pref.theme)];

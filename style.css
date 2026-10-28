@@ -30,6 +30,10 @@ body{
   overflow:hidden;
   -webkit-touch-callout:none;
 }
+/* 繁體中文は日本語のフォントで出すと字形が日本式になる(「說」「骨」など)。台湾の字形のフォントを先に置く(SPEC_V1 第16節) */
+html[lang^="zh"] body{
+  font-family:"PingFang TC","Microsoft JhengHei","Noto Sans TC","Noto Sans CJK TC","Source Han Sans TC",system-ui,sans-serif;
+}
 body.fs0{ font-size:18px; }
 body.fs1{ font-size:21px; }
 body.fs2{ font-size:25px; }
@@ -318,3 +322,6 @@ input[type="file"].hidden{ display:none; }
 .guide-row .btn{ flex:1 1 0; min-width:0; min-height:64px; font-size:1.15em; }
 /* ドイツ語の長い語(Aufmerksamkeitsdefizit- など)を、文字の途中でなくハイフンで折る(app.js が <html lang> を画面のことばにする・D00 B11) */
 html[lang="de"] body{ -webkit-hyphens:auto; hyphens:auto; }
+/* 中国語(繁體)は語の間に空白が無いので、keep-all のままだと句読点の間が切れない一かたまりになる。ふつうの折り方に戻す(app.js が <html lang> を zh-Hant-TW にする) */
+html[lang^="zh"] .nav-btn, html[lang^="zh"] .ask-msg, html[lang^="zh"] .group-btn .lbl, html[lang^="zh"] .other-btn .lbl, html[lang^="zh"] .q-h,
+html[lang^="zh"] .learn-h, html[lang^="zh"] .learn-body, html[lang^="zh"] .btn.learn-link, html[lang^="zh"] .learn-lead, html[lang^="zh"] .guide-h, html[lang^="zh"] .guide-p{ word-break:normal; }
