@@ -29,7 +29,8 @@ window.KOMARI_DATA = {
   "us",
   "fr",
   "de",
-  "es"
+  "es",
+  "nl"
  ],
  "c": {
   "jp": {
@@ -39,7 +40,8 @@ window.KOMARI_DATA = {
     "en": "Japan",
     "fr": "Japon",
     "de": "Japan",
-    "es": "Japón"
+    "es": "Japón",
+    "nl": "Japan"
    },
    "langs": [
     "ja",
@@ -3151,7 +3153,8 @@ window.KOMARI_DATA = {
     "en": "United States",
     "fr": "États-Unis",
     "de": "Vereinigte Staaten",
-    "es": "Estados Unidos"
+    "es": "Estados Unidos",
+    "nl": "Verenigde Staten"
    },
    "langs": [
     "en"
@@ -4866,7 +4869,8 @@ window.KOMARI_DATA = {
     "en": "France",
     "fr": "France",
     "de": "Frankreich",
-    "es": "Francia"
+    "es": "Francia",
+    "nl": "Frankrijk"
    },
    "langs": [
     "fr"
@@ -6717,7 +6721,8 @@ window.KOMARI_DATA = {
     "en": "Germany",
     "fr": "Allemagne",
     "de": "Deutschland",
-    "es": "Alemania"
+    "es": "Alemania",
+    "nl": "Duitsland"
    },
    "langs": [
     "de"
@@ -8569,7 +8574,8 @@ window.KOMARI_DATA = {
     "en": "Spain",
     "fr": "Espagne",
     "de": "Spanien",
-    "es": "España"
+    "es": "España",
+    "nl": "Spanje"
    },
    "langs": [
     "es"
@@ -10142,6 +10148,1613 @@ window.KOMARI_DATA = {
        "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
        "kind": "summary",
        "upd": "2026-04-28"
+      }
+     }
+    }
+   }
+  },
+  "nl": {
+   "id": "nl",
+   "name": {
+    "ja": "オランダ",
+    "en": "Netherlands",
+    "fr": "Pays-Bas",
+    "de": "Niederlande",
+    "es": "Países Bajos",
+    "nl": "Nederland"
+   },
+   "langs": [
+    "nl"
+   ],
+   "main": "nl",
+   "fallback": "nl",
+   "srcLang": "nl",
+   "freeHosts": [
+    "zorginstituutnederland.nl"
+   ],
+   "adaptHosts": [
+    "rijksoverheid.nl",
+    "arboportaal.nl",
+    "mensenrechten.nl",
+    "wetten.overheid.nl"
+   ],
+   "srcNote": {
+    "zorginstituutnederland.nl": "Bron: Zorginstituut Nederland - www.zorginstituutnederland.nl",
+    "vzinfo.nl": "Bron: VZinfo.nl, RIVM.",
+    "ciz.nl": "Bron: CIZ, www.ciz.nl"
+   },
+   "factRef": true,
+   "ver": "2026-10-28",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "nl113",
+     "band": "now",
+     "tel": "113",
+     "tel2": "0800-0113",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "113 Zelfmoordpreventie",
+      "desc": "Een telefonische hulplijn voor mensen met gedachten aan zelfdoding, en voor hun naasten. Je kunt bellen naar 113 of naar 0800-0113.",
+      "hours": "Dag en nacht, elke dag. Gratis.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Aanpak om aantal zelfmoorden te verminderen",
+       "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/geestelijke-gezondheidszorg/zelfmoorden-verminderen",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Aanpak om aantal zelfmoorden te verminderen",
+      "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/geestelijke-gezondheidszorg/zelfmoorden-verminderen",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nl112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "112 (alarmnummer)",
+      "desc": "Bel 112 als je dringend hulp nodig hebt van de politie, de brandweer of de ambulance. Je komt eerst bij de meldkamer. Die verbindt je meteen door met de hulpdienst in jouw regio. Je kunt 112 altijd bellen, ook zonder beltegoed en zonder simkaart.",
+      "hours": "Altijd bereikbaar.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Wat gebeurt er als ik alarmnummer 112 bel?",
+       "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/alarmnummer-112/vraag-en-antwoord/alarmnummer-112/wat-gebeurt-er-als-ik-alarmnummer-112-bel",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Wat gebeurt er als ik alarmnummer 112 bel?",
+      "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/alarmnummer-112/vraag-en-antwoord/alarmnummer-112/wat-gebeurt-er-als-ik-alarmnummer-112-bel",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nltekst",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Als je niet kunt praten of slecht hoort: 112 met tekst",
+      "desc": "Ben je doof of slechthorend, of heb je een spraakbeperking? Met de app Tolkcontact kun je via de bemiddelingsdienst met tekst contact leggen met 112. Met een tolk Nederlandse Gebarentaal (beeld) kan het ook. Je kunt ook de 112NL app gebruiken. Wil je 112 een sms sturen (e-sms)? Dan moet je je eerst één keer aanmelden: sms het woord ‘aanmelden’ naar 112.",
+      "hours": "Met tekst: dag en nacht. Met een tolk gebarentaal: elke dag van 7:00 tot 22:00 uur.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Hoe kan ik alarmnummer 112 bereiken als ik doof of slechthorend ben?",
+       "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/alarmnummer-112/vraag-en-antwoord/alarmnummer-112/112-bellen-doven-slechthorenden",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Hoe kan ik alarmnummer 112 bereiken als ik doof of slechthorend ben?",
+      "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/alarmnummer-112/vraag-en-antwoord/alarmnummer-112/112-bellen-doven-slechthorenden",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlveilig",
+     "band": "now",
+     "tel": "0800-2000",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Veilig Thuis (huiselijk geweld)",
+      "desc": "Voor als je te maken hebt met huiselijk geweld, of als je denkt dat iemand in je omgeving het meemaakt. Ook als je het geweld zelf gebruikt of het hebt gezien, kun je bellen. Je kunt advies vragen of een melding doen. Als je belt, zeg je de naam van je woonplaats. Dan kom je vanzelf bij Veilig Thuis in jouw regio. Je praat met een hulpverlener. Als je wilt, kun je anoniem blijven. Ben je in direct gevaar? Bel dan 112.",
+      "hours": "Dag en nacht, elke dag. Gratis.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Wat moet ik doen bij (vermoedens van) huiselijk geweld?",
+       "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/huiselijk-geweld/vraag-en-antwoord/huiselijk-geweld/wat-moet-ik-doen-bij-huiselijk-geweld",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Wat moet ik doen bij (vermoedens van) huiselijk geweld?",
+      "url": "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/huiselijk-geweld/vraag-en-antwoord/huiselijk-geweld/wat-moet-ik-doen-bij-huiselijk-geweld",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlcsg",
+     "band": "now",
+     "tel": "0800-0188",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Centrum Seksueel Geweld",
+      "desc": "Voor iedereen die een nare seksuele ervaring of seksueel misbruik heeft meegemaakt. Het maakt niet uit of het kort of lang geleden is, of dat het online gebeurde. Als je belt, word je doorverbonden met het Centrum Seksueel Geweld in jouw regio. Je kunt anoniem contact opnemen. Het 0800-nummer werkt niet vanuit het buitenland.",
+      "hours": "Dag en nacht, elke dag. Gratis.",
+      "src": {
+       "org": "Centrum Seksueel Geweld",
+       "title": "Home - Centrum Seksueel Geweld",
+       "url": "https://centrumseksueelgeweld.nl/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Centrum Seksueel Geweld",
+      "title": "Home - Centrum Seksueel Geweld",
+      "url": "https://centrumseksueelgeweld.nl/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlhap",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Huisartsenpost (als je huisartsenpraktijk dicht is)",
+      "desc": "Is je huisartsenpraktijk dicht? Dan verwijst je huisarts je naar de huisartsenpost. Neem altijd eerst contact op met de huisartsenpost voordat je naar de spoedeisende hulp van een ziekenhuis gaat. Bij levensgevaar bel je meteen 112. De zorg van de huisartsenpost gaat niet van je eigen risico af.",
+      "hours": "Als je huisartsenpraktijk dicht is.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Wanneer moet ik naar de huisartsenpost of de spoedeisende hulppost?",
+       "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/eerstelijnszorg/vraag-en-antwoord/eerstelijnszorg/huisartsenpost-spoedeisende-hulp",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Wanneer moet ik naar de huisartsenpost of de spoedeisende hulppost?",
+      "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/eerstelijnszorg/vraag-en-antwoord/eerstelijnszorg/huisartsenpost-spoedeisende-hulp",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlluister",
+     "band": "now",
+     "tel": "088 07 67 000",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "De Luisterlijn",
+      "desc": "Voor een vertrouwelijk gesprek of informatie, bijvoorbeeld als je je eenzaam voelt. Op de website van De Luisterlijn kun je ook chatten met een vrijwilliger.",
+      "hours": "Dag en nacht. Je betaalt de gewone belkosten.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Wat kan ik doen als ik me eenzaam voel?",
+       "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/eenzaamheid/vraag-en-antwoord/eenzaamheid/wat-kan-ik-doen-als-ik-me-eenzaam-voel",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Wat kan ik doen als ik me eenzaam voel?",
+      "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/eenzaamheid/vraag-en-antwoord/eenzaamheid/wat-kan-ik-doen-als-ik-me-eenzaam-voel",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlhuisarts",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Je huisarts",
+      "desc": "Met psychische problemen kun je bij je huisarts terecht. De huisarts helpt je zelf, samen met een praktijkondersteuner ggz, of verwijst je door naar hulpverleners in de ggz. Heb je werk, dan kun je ook bij je bedrijfsarts terecht. Je kunt ‘Waar ik moeite mee heb’ laten zien.",
+      "hours": "Volgens je huisartsenpraktijk.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Waar vind ik hulp bij psychische problemen?",
+       "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/geestelijke-gezondheidszorg/vraag-en-antwoord/geestelijke-gezondheidszorg/waar-vind-ik-hulp-bij-psychische-problemen",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Waar vind ik hulp bij psychische problemen?",
+      "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/geestelijke-gezondheidszorg/vraag-en-antwoord/geestelijke-gezondheidszorg/waar-vind-ik-hulp-bij-psychische-problemen",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlgemeente",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Je gemeente (Wmo-loket of sociaal wijkteam)",
+      "desc": "Het Wmo-loket of het sociale wijkteam van je gemeente geeft informatie over ondersteuning, zoals persoonlijke begeleiding, en helpt je bij de aanvraag. De gemeente kijkt samen met jou wat je nodig hebt en wat je wilt. Dat doet de gemeente binnen 6 weken nadat je je hebt gemeld. Je kunt je gratis laten bijstaan door een onafhankelijke cliëntondersteuner.",
+      "hours": "Verschilt per gemeente.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Hoe krijg ik ondersteuning van de gemeente vanuit de Wmo?",
+       "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/zorg-en-ondersteuning-thuis/vraag-en-antwoord/zorg-en-ondersteuning-thuis/ondersteuning-gemeente-wmo-2015-aanvragen",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Hoe krijg ik ondersteuning van de gemeente vanuit de Wmo?",
+      "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/zorg-en-ondersteuning-thuis/vraag-en-antwoord/zorg-en-ondersteuning-thuis/ondersteuning-gemeente-wmo-2015-aanvragen",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlgok",
+     "band": "day",
+     "tel": "0800 24 000 22",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "OpenOverGokken (gokken)",
+      "desc": "Een hulplijn voor als gokken je zorgen geeft. Je kunt gratis en anoniem bellen. Je kunt ook een bericht sturen via WhatsApp of de chat op de website. OpenOverGokken is een initiatief van de Kansspelautoriteit.",
+      "hours": "Bellen: dag en nacht. WhatsApp en chat: van 08.00 tot 00.00 uur.",
+      "src": {
+       "org": "Kansspelautoriteit (OpenOverGokken)",
+       "title": "Hulplijnen",
+       "url": "https://openovergokken.nl/hulplijnen/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Kansspelautoriteit (OpenOverGokken)",
+      "title": "Hulplijnen",
+      "url": "https://openovergokken.nl/hulplijnen/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nldiscr",
+     "band": "day",
+     "tel": "0800-0880",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Discriminatie.nl",
+      "desc": "Ben je gediscrimineerd? Dan kun je dat melden bij Discriminatie.nl, de website van de antidiscriminatiebureaus. Je kunt er ook terecht voor hulp of advies. Bellen kan ook.",
+      "hours": "",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Ik ben slachtoffer van discriminatie. Wat kan ik doen?",
+       "url": "https://www.rijksoverheid.nl/themas/migratie-en-reizen/discriminatie-en-racisme/vraag-en-antwoord/discriminatie-en-racisme/wat-kan-ik-doen-als-ik-gediscrimineerd-word",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Rijksoverheid",
+      "title": "Ik ben slachtoffer van discriminatie. Wat kan ik doen?",
+      "url": "https://www.rijksoverheid.nl/themas/migratie-en-reizen/discriminatie-en-racisme/vraag-en-antwoord/discriminatie-en-racisme/wat-kan-ik-doen-als-ik-gediscrimineerd-word",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nlombudsman",
+     "band": "day",
+     "tel": "0800 33 55 555",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "nl": {
+      "name": "Nationale ombudsman",
+      "desc": "Gaat het mis tussen jou en de overheid? Dan kun je een vraag stellen of een klacht indienen bij de Nationale ombudsman. Bellen is gratis.",
+      "hours": "Elke werkdag van 9.00 tot 17.00 uur.",
+      "src": {
+       "org": "Nationale ombudsman",
+       "title": "Contact en adres",
+       "url": "https://www.nationaleombudsman.nl/contact-en-adres",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Nationale ombudsman",
+      "title": "Contact en adres",
+      "url": "https://www.nationaleombudsman.nl/contact-en-adres",
+      "kind": "summary",
+      "upd": "none"
+     }
+    }
+   ],
+   "nl": {
+    "groups": {
+     "mood": {
+      "label": "Somber, geen energie",
+      "lead": "Als je je lang somber voelt en het moeite kost om ergens energie voor te vinden.",
+      "scenes": [
+       "Van ’s ochtends tot ’s avonds voel ik me somber.",
+       "Dingen die ik vroeger leuk vond, geven me geen plezier meer.",
+       "Ik heb geen energie en kan me niet concentreren, waardoor mijn werk en het huishouden blijven liggen.",
+       "Ik geef mezelf overal de schuld van en zie steeds de negatieve kant van dingen.",
+       "Ik slaap slecht of juist veel te veel. Ik heb weinig eetlust en mijn lichaam voelt zwaar.",
+       "Soms wil ik er niet meer zijn, of wil ik verdwijnen."
+      ],
+      "asks": [
+       "Het helpt me als dingen één voor één worden uitgelegd.",
+       "Het helpt me als ik niet word opgejaagd om te antwoorden of te beslissen en tijd krijg om na te denken.",
+       "Belangrijke dingen krijg ik liever op papier.",
+       "Voordat iemand ‘Kop op!’ of ‘Zet je eroverheen’ zegt, helpt het me als eerst naar me wordt geluisterd.",
+       "Het helpt me als het niet meteen als luiheid wordt gezien wanneer ik rust.",
+       "Het helpt me als we samen nagaan of een lichamelijke ziekte of een medicijn dat ik gebruik een rol speelt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Lichamelijke ziekten (zoals hart- en vaatziekten of diabetes)",
+        "why": "Deze pagina noemt lichamelijke ziekten, zoals hart- en vaatziekten en diabetes, bij de dingen die een rol kunnen spelen bij het ontstaan van een depressie.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Depressie en andere stemmingsstoornissen | Oorzaken",
+         "url": "https://www.vzinfo.nl/depressie-en-andere-stemmingsstoornissen/oorzaken",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hypothyroïdie (schildklier die te langzaam werkt)",
+        "why": "Deze pagina beschrijft dat een schildklier die te langzaam werkt allerlei klachten kan geven, waaronder depressieve gevoelens. Zulke klachten horen niet alleen bij deze aandoening.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Hypothyroïdie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/hypothyroidie",
+         "kind": "fact",
+         "upd": "2024-03-01"
+        }
+       },
+       {
+        "name": "Slechthorendheid",
+        "why": "Mensen die slecht horen, hebben volgens deze pagina vaker last van depressieve gevoelens en eenzaamheid.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Gehoorstoornissen | Oorzaken en gevolgen",
+         "url": "https://www.vzinfo.nl/gehoorstoornissen/oorzaken-en-gevolgen",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alcoholproblemen",
+        "why": "Deze pagina noemt mentale problemen als een van de gevolgen van alcoholgebruik, naast ziektes en verslaving.",
+        "src": {
+         "org": "Rijksoverheid",
+         "title": "Schade door alcoholgebruik beperken",
+         "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/alcohol/schade-door-alcoholgebruik-beperken",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Bij een depressie hoort volgens deze pagina een sombere stemming, veel minder plezier en interesse in dingen, of allebei.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Depressie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/depressie",
+         "kind": "fact",
+         "upd": "2024-11-01"
+        }
+       },
+       {
+        "name": "Bipolaire stoornis",
+        "why": "Deze pagina beschrijft periodes met een depressie en periodes waarin de stemming juist heel opgewekt of snel geïrriteerd is.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Depressie en andere stemmingsstoornissen | Definities",
+         "url": "https://www.vzinfo.nl/depressie-en-andere-stemmingsstoornissen/verantwoording/definities",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Overspannenheid en burn-out",
+        "why": "Volgens deze pagina horen bij overspannenheid en burn-out klachten die met stress samenhangen, zoals moe zijn en snel geïrriteerd raken. Die stress kan uit het werk komen, maar ook uit het privéleven.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Overspannenheid en burn-out | Verantwoording | Definities",
+         "url": "https://www.vzinfo.nl/overspannenheid-en-burn-out/verantwoording-definities",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgemeente"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Veel zorgen of spanning",
+      "lead": "Zorgen die niet weggaan, hartkloppingen en onrust, moeite in het bijzijn van anderen of buiten de deur, en dat soort dingen.",
+      "scenes": [
+       "Als ik voor anderen moet praten of als iedereen naar me kijkt, word ik zo angstig dat mijn hoofd helemaal leeg raakt.",
+       "Ineens gaat mijn hart heel snel kloppen en krijg ik het benauwd. Ik ben bang dat dat weer gebeurt, en daardoor kom ik moeilijk de deur uit.",
+       "Ook zonder duidelijke reden maak ik me zorgen over van alles. Ik ben onrustig en word er moe van.",
+       "Ik vind het moeilijk op plekken waar het lastig is om weg te komen, zoals in de trein, bus of tram, in drukke winkels of gebouwen, of als ik alleen de deur uit ga. Daarom probeer ik die plekken te vermijden.",
+       "Doordat ik vermijd wat me angstig maakt, kom ik op steeds minder plekken en zie ik steeds minder mensen. Mijn leven is kleiner geworden.",
+       "Mijn zorgen blijven in mijn hoofd rondgaan en ’s avonds val ik moeilijk in slaap."
+      ],
+      "asks": [
+       "Het helpt me als ik de tijd krijg om te praten, zonder haast.",
+       "Ik hoor graag van tevoren wat het plan is en hoe alles verloopt.",
+       "Het helpt me als ik niet ineens waar anderen bij zijn mijn mening moet geven, en als ik ook schriftelijk mag antwoorden.",
+       "Als ik me niet goed voel, helpt het me als ik even weg mag om bij te komen.",
+       "Ik praat liever op een rustige plek en met weinig mensen.",
+       "Voordat er wordt gezegd dat ik me te veel zorgen maak, helpt het me als er eerst wordt geluisterd naar waar ik moeite mee heb."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroïdie (schildklier die te snel werkt)",
+        "why": "Volgens deze pagina kan een schildklier die te snel werkt klachten geven zoals een gejaagd gevoel, beven en hartkloppingen.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Hyperthyroïdie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/hyperthyroidie",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       },
+       {
+        "name": "Atriumfibrilleren (hartritmestoornis)",
+        "why": "Volgens deze pagina kan deze stoornis van het hartritme hartkloppingen en kortademigheid geven. Het hart klopt dan onregelmatig, en vaak ook snel.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Atriumfibrilleren",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/atriumfibrilleren",
+         "kind": "fact",
+         "upd": "2024-03-01"
+        }
+       },
+       {
+        "name": "Bloedarmoede (anemie)",
+        "why": "Bloedarmoede kan vage klachten geven, zoals hartkloppingen, kortademigheid bij inspanning en vermoeidheid.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Ijzergebreksanemie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/anemie?anchor=anemie_ijzergebreksanemie",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problematisch alcoholgebruik (ook bij stoppen of minderen)",
+        "why": "Volgens deze pagina kunnen angst en prikkelbaarheid optreden als iemand na langdurig veel drinken stopt of minder gaat drinken.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Problematisch alcoholgebruik",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/problematisch_alcoholgebruik",
+         "kind": "fact",
+         "upd": "2024-07-01"
+        }
+       },
+       {
+        "name": "Paniekstoornis (incl. agorafobie)",
+        "why": "Deze pagina beschrijft paniekaanvallen die steeds opnieuw onverwacht komen, en de angst voor een volgende aanval. Agorafobie valt hier volgens de pagina ook onder.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Angststoornissen",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/angststoornissen",
+         "kind": "fact",
+         "upd": "2025-11-01"
+        }
+       },
+       {
+        "name": "Sociale angststoornis (sociale fobie)",
+        "why": "Volgens deze pagina gaat het om sterke angst in één of meer situaties waarin anderen kunnen kijken en oordelen, zoals spreken voor een groep.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Angststoornissen",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/angststoornissen",
+         "kind": "fact",
+         "upd": "2025-11-01"
+        }
+       },
+       {
+        "name": "Gegeneraliseerde angststoornis",
+        "why": "Deze pagina beschrijft aanhoudende spanning en zorgen over alledaagse dingen, en moeite om het piekeren te stoppen.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Angststoornissen",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/angststoornissen",
+         "kind": "fact",
+         "upd": "2025-11-01"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgemeente"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Moeilijk om te stoppen met controleren of herhalen",
+      "lead": "Als je steeds opnieuw de deur of het gas controleert, je handen wast of iets anders herhaalt, en moeilijk kunt stoppen, ook al wil je dat.",
+      "scenes": [
+       "Voordat ik de deur uit ga, moet ik telkens opnieuw controleren of de deur op slot is en de kookplaat uit staat, anders kan ik niet gerust weggaan.",
+       "Ik was mijn handen of mijn lichaam steeds vaker en kan er niet mee ophouden, ook al wil ik dat wel.",
+       "Dezelfde zorg komt telkens in mijn hoofd op. Ik wil er niet meer aan denken, maar het lukt niet om te stoppen.",
+       "Als spullen niet precies zo staan of dingen niet in de volgorde gebeuren die ik heb bepaald, word ik onrustig. Dan zet ik ze weer goed of begin ik opnieuw.",
+       "Het controleren kost zoveel tijd dat ik later vertrek, of dat ik te laat kom voor afspraken en op mijn werk.",
+       "Mijn lichaam beweegt of ik maak geluiden zonder dat ik het wil, en het is moeilijk om te stoppen, ook als ik het probeer."
+      ],
+      "asks": [
+       "Ik wil graag eerst gehoord worden, zonder dat er meteen wordt gezegd dat ik me te druk maak.",
+       "Controleren kost me tijd, dus het helpt als er wat extra tijd wordt ingepland.",
+       "Als plannen of stappen veranderen, hoor ik dat graag van tevoren.",
+       "Het helpt me als niemand er in het bijzijn van anderen iets over zegt of er grapjes over maakt wanneer ik iets controleer of mijn handen was.",
+       "Uitleg en instructies krijg ik graag één voor één en op papier.",
+       "Voordat we beslissen hoe we verder gaan, wil ik graag dat eerst naar mijn zorgen wordt geluisterd en dat we het rustig bespreken."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dwangstoornis (obsessieve-compulsieve stoornis, OCS)",
+        "why": "Volgens deze pagina kan het gaan om gedachten of beelden die zich steeds weer opdringen, om handelingen waartoe iemand zich gedwongen voelt, of om allebei.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Angststoornissen",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/angststoornissen",
+         "kind": "fact",
+         "upd": "2025-11-01"
+        }
+       },
+       {
+        "name": "Gegeneraliseerde angststoornis",
+        "why": "Volgens deze pagina is het bij deze stoornis moeilijk om het piekeren te stoppen. De pagina noemt de stoornis apart, naast de dwangstoornis.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Angststoornissen",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/angststoornissen",
+         "kind": "fact",
+         "upd": "2025-11-01"
+        }
+       },
+       {
+        "name": "Autismespectrumstoornis",
+        "why": "Deze pagina beschrijft herhaalde gedragingen, vaste routines en moeite met veranderingen als onderdeel van een autismespectrumstoornis.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Autismespectrumstoornis | Over autismespectrumstoornis",
+         "url": "https://www.vzinfo.nl/autismespectrumstoornis-over-autismespectrumstoornis",
+         "kind": "summary",
+         "upd": "2025-03-20"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Een nare gebeurtenis blijft me raken",
+      "lead": "Herinneringen die steeds terugkomen, slecht slapen of een spanning die niet weggaat na een nare gebeurtenis.",
+      "scenes": [
+       "Door iets kleins komen de beelden en gevoelens van die nare tijd ineens weer terug.",
+       "Ik heb steeds dezelfde soort enge dromen en slaap veel nachten niet diep.",
+       "Ik sta altijd op scherp en schrik van het kleinste geluid of een onverwachte gebeurtenis.",
+       "Ik ga plekken, mensen en onderwerpen die me aan die tijd doen denken liever uit de weg, waardoor mijn leven kleiner is geworden.",
+       "Het is alsof er iets in mij is uitgegaan. Voor mijn familie en vrienden voel ik niet meer wat ik vroeger voelde.",
+       "Ik geef mezelf steeds vaker de schuld, of het wordt moeilijker om de mensen om me heen te vertrouwen."
+      ],
+      "asks": [
+       "Het helpt me als er niet wordt doorgevraagd naar alle details van wat er is gebeurd. Ik vertel het in mijn eigen tempo, en alleen zo veel als ik kan.",
+       "Sommige geluiden, plekken en onderwerpen halen alles weer naar boven. Het helpt me als wordt geaccepteerd dat ik die liever vermijd.",
+       "Het helpt me als ik niet ineens van achteren word aangesproken en als er geen harde geluiden vlak bij me worden gemaakt.",
+       "Als praten te zwaar is, geef ik liever een tekst die ik heb opgeschreven. Het helpt me als dat mag.",
+       "Er zijn dagen dat ik slecht slaap of dat de vermoeidheid blijft. Het helpt me als dat niet wordt gezien als luiheid.",
+       "Het helpt me als ik niet word gehaast met opmerkingen als ‘Probeer het te vergeten’ of ‘Laat het los’, en als er een plek is waar ik rustig kan praten."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Slaapproblemen (zoals nachtmerries)",
+        "why": "Na een schokkende gebeurtenis kan slapen moeilijk worden, soms met nachtmerries.",
+        "src": {
+         "org": "Ministerie van Defensie",
+         "title": "Adviezen en tips: slaap en vermoeidheid",
+         "url": "https://www.defensie.nl/onderwerpen/g/gezondheidszorg/psychische-hulp/adviezen-en-tips/slaap-en-vermoeidheid",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Middelenmisbruik (problemen met alcohol of drugs)",
+        "why": "Bij mensen met PTSS komt middelenmisbruik volgens de pagina vaker voor.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Posttraumatische stressstoornis | Oorzaken en gevolgen",
+         "url": "https://www.vzinfo.nl/posttraumatische-stressstoornis/oorzaken-en-gevolgen",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Posttraumatische stressstoornis (PTSS)",
+        "why": "PTSS kan ontstaan nadat iemand iets heel schokkends heeft meegemaakt. Volgens de pagina kan het ook leiden tot problemen in het contact met anderen, op het werk en met de lichamelijke gezondheid.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Posttraumatische stressstoornis | Oorzaken en gevolgen",
+         "url": "https://www.vzinfo.nl/posttraumatische-stressstoornis/oorzaken-en-gevolgen",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Naast PTSS komen volgens de pagina vaak ook stemmingsstoornissen voor. Depressie wordt daarbij apart genoemd.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Posttraumatische stressstoornis | Oorzaken en gevolgen",
+         "url": "https://www.vzinfo.nl/posttraumatische-stressstoornis/oorzaken-en-gevolgen",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Angststoornissen",
+        "why": "Naast PTSS komen volgens de pagina vaak ook angststoornissen voor.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Posttraumatische stressstoornis | Oorzaken en gevolgen",
+         "url": "https://www.vzinfo.nl/posttraumatische-stressstoornis/oorzaken-en-gevolgen",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgemeente"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Moeite met slapen",
+      "lead": "Moeilijk in slaap komen, ’s nachts wakker worden, moeilijk opstaan of overdag erg slaperig zijn.",
+      "scenes": [
+       "Ook als ik in bed lig, duurt het lang voordat ik in slaap val.",
+       "Ik word ’s nachts steeds weer wakker en slaap niet in één keer door tot de ochtend.",
+       "Als het tijd is om op te staan, lukt dat niet, en ik kom steeds te laat op mijn werk of opleiding.",
+       "Overdag word ik overvallen door een sterke slaperigheid en ik val bijna in slaap tijdens een vergadering of achter het stuur.",
+       "Mijn familie zegt dat ik hard snurk en dat ik in mijn slaap lijk te stoppen met ademen.",
+       "’s Avonds en ’s nachts voelen mijn benen onrustig en vervelend, waardoor ik niet in slaap kom."
+      ],
+      "asks": [
+       "Het helpt me als er rustig de tijd wordt genomen om te vragen hoe ik slaap: of ik moeilijk in slaap kom, ’s nachts wakker word, moeilijk uit bed kom of overdag slaperig ben.",
+       "Het helpt me als er samen met mij wordt gekeken naar wat er meespeelt, ook naar de medicijnen die ik gebruik en naar mijn gewoonten met koffie, alcohol en sigaretten.",
+       "Het helpt me als niet meteen wordt gezegd dat het ‘tussen de oren zit’, maar ook mijn lichamelijke gezondheid en mijn stemming worden bekeken.",
+       "Ik laat graag op een briefje zien hoe laat ik naar bed ga en wakker word. Het helpt me als daarnaar wordt gekeken.",
+       "Als medicijnen worden voorgesteld, helpt het me als in begrijpelijke taal wordt uitgelegd hoe ze werken en waar ik op moet letten.",
+       "Ik heb moeite met ochtenden. Het helpt me als een afspraak ’s middags of aan het eind van de dag kan zijn."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Slapeloosheid (insomnie)",
+        "why": "Bij slapeloosheid gaat slapen vaak moeizaam, zoals ’s nachts steeds wakker worden, al heel vroeg wakker zijn of lang wakker liggen voordat de slaap komt. Overdag kunnen vermoeidheid en een minder goede concentratie erbij horen.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Slapeloosheid",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/slapeloosheid",
+         "kind": "fact",
+         "upd": "2025-01-01"
+        }
+       },
+       {
+        "name": "Obstructieve slaapapneu",
+        "why": "Bij slaapapneu valt de ademhaling tijdens de slaap steeds even stil. Overdag kan dat zorgen voor veel slaperigheid en vermoeidheid.",
+        "src": {
+         "org": "Zorginstituut Nederland",
+         "title": "Brede inspanning bij verbeteren zorgtraject slaapapneu",
+         "url": "https://www.zorginstituutnederland.nl/actueel/nieuws/2021/03/09/publicatie-verbetersignalement-obstructieve-slaapapneu",
+         "kind": "summary",
+         "upd": "2021-03-09"
+        }
+       },
+       {
+        "name": "Restless-legssyndroom (rusteloze benen)",
+        "why": "Slapen kan ’s nachts lastig worden door onrustige benen: iemand kan het dan haast niet laten om ze te bewegen, vaak met een naar gevoel erin.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Restless-legssyndroom",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/restless_legssyndroom",
+         "kind": "fact",
+         "upd": "2025-01-01"
+        }
+       },
+       {
+        "name": "Verstoord dag-nachtritme (bijvoorbeeld door nachtwerk)",
+        "why": "Werken in de nacht kan het dag-nachtritme (bioritme) van het lichaam verstoren. Wie ’s nachts werkt, slaapt vaak korter en met onderbrekingen.",
+        "src": {
+         "org": "Ministerie van Sociale Zaken en Werkgelegenheid (Arboportaal)",
+         "title": "Welke risico’s brengt werken in een nachtdienst met zich mee?",
+         "url": "https://www.arboportaal.nl/onderwerpen/arbowet--en--regelgeving/werk--en-rusttijden-arbeidstijdenwet/nachtdienst/risico%E2%80%99s-van-werken-in-een-nachtdienst",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Invloed van koffie, nicotine en alcohol op het slapen",
+        "why": "Roken, energiedrank en koffie werken oppeppend en kunnen daardoor het slapen verstoren. Na alcohol lukt inslapen vaak nog wel, maar later in de nacht kan iemand wakker worden en dan niet meer in slaap komen.",
+        "src": {
+         "org": "Ministerie van Defensie",
+         "title": "Adviezen en tips: slaap en vermoeidheid",
+         "url": "https://www.defensie.nl/onderwerpen/g/gezondheidszorg/psychische-hulp/adviezen-en-tips/slaap-en-vermoeidheid",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Slecht slapen, vooral moeite om door te slapen, wordt op de pagina bij depressie genoemd.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Depressie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/depressie",
+         "kind": "fact",
+         "upd": "2024-11-01"
+        }
+       },
+       {
+        "name": "Angststoornissen",
+        "why": "De pagina noemt slaap- en concentratieproblemen bij de klachten die bij angst kunnen horen.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Angststoornissen | Verantwoording | Definities",
+         "url": "https://www.vzinfo.nl/angststoornissen/verantwoording/definities",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Moeite met eten",
+      "lead": "Als eten moeilijk wordt: je kunt weinig eten, je kunt niet stoppen, of eten maakt je bang.",
+      "scenes": [
+       "Ik heb geen zin in eten en het lukt me al dagen nauwelijks om iets door te slikken.",
+       "Als ik eenmaal begin met eten, kan ik zelf niet stoppen, en soms eet ik zo veel dat het pijn doet.",
+       "Ik merk dat ik steeds aan eten denk en me moeilijk op andere dingen kan concentreren.",
+       "Ik kan maar weinig dingen eten en ik mijd veel voedsel vanwege de smaak, de geur of de textuur ervan.",
+       "Sinds ik me een keer heb verslikt in eten of heb moeten overgeven, ben ik bang om te eten.",
+       "’s Nachts eet ik soms half slapend en ’s ochtends weet ik daar niets meer van."
+      ],
+      "asks": [
+       "Het helpt me als er geen opmerkingen worden gemaakt over mijn lichaam of uiterlijk.",
+       "Het helpt me als ik niet word gedwongen om te eten en niet word gehaast.",
+       "Als er samen wordt gegeten, helpt het me als ik een andere plek of een ander moment mag kiezen.",
+       "Ik vind het fijn als er eerst wordt gevraagd wat ik kan eten en welke geuren of texturen moeilijk voor me zijn.",
+       "Het helpt me als vooraf wordt uitgelegd wat er bij een lichamelijk onderzoek of bij de afspraak gaat gebeuren.",
+       "Wat ik moeilijk hardop kan zeggen, geef ik liever op papier. Het helpt me als dat mag."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroïdie (schildklier die te snel werkt)",
+        "why": "Bij een te snel werkende schildklier kan het gewicht dalen terwijl de eetlust juist groter is.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Hyperthyroïdie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/hyperthyroidie",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       },
+       {
+        "name": "Hypothyroïdie (schildklier die te langzaam werkt)",
+        "why": "Gewichtstoename staat op de pagina bij de klachten die een te langzaam werkende schildklier kan geven. Volgens de pagina horen zulke klachten niet alleen bij deze aandoening.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Hypothyroïdie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/hypothyroidie",
+         "kind": "fact",
+         "upd": "2024-03-01"
+        }
+       },
+       {
+        "name": "Eetstoornissen (anorexia nervosa, boulimia nervosa, eetbuistoornis)",
+        "why": "Anorexia nervosa, boulimia nervosa en eetbuistoornis horen bij de eetstoornissen. Die hebben volgens de pagina vaak ook gevolgen voor het lichaam.",
+        "src": {
+         "org": "Gezondheidsraad",
+         "title": "Advies Preventie en vroege behandeling van eetstoornissen",
+         "url": "https://www.gezondheidsraad.nl/documenten/2022/06/28/preventie-en-vroege-behandeling-van-eetstoornissen",
+         "kind": "summary",
+         "upd": "2022-06-28"
+        }
+       },
+       {
+        "name": "ARFID (vermijdende of restrictieve voedselinnamestoornis)",
+        "why": "Bij ARFID is er soms geen zin in eten. Ook mijden sommige mensen steeds bepaalde soorten eten, om de smaak, hoe het eruitziet of hoe het in de mond aanvoelt, of uit zorg over wat er na het eten kan gebeuren.",
+        "src": {
+         "org": "Gezondheidsraad",
+         "title": "Preventie en vroege behandeling van eetstoornissen",
+         "url": "https://www.gezondheidsraad.nl/site/binaries/site-content/collections/documents/2022/06/28/preventie-en-vroege-behandeling-van-eetstoornissen/advies-Preventie-en-vroege-behandeling-van-eetstoornissen.pdf",
+         "kind": "fact",
+         "upd": "2022-06-28"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Meer of juist minder zin in eten, of een verandering in gewicht, wordt op de pagina bij depressie genoemd.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Depressie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/depressie",
+         "kind": "fact",
+         "upd": "2024-11-01"
+        }
+       },
+       {
+        "name": "Autisme (autismespectrumstoornis)",
+        "why": "Volgens het advies zijn autisme en anorexia nervosa of ARFID vaak tegelijk aanwezig. Als autisme en anorexia nervosa samengaan, kan een sterke gevoeligheid voor zintuiglijke prikkels veel invloed hebben op het ontstaan en blijven bestaan van de eetstoornis.",
+        "src": {
+         "org": "Gezondheidsraad",
+         "title": "Preventie en vroege behandeling van eetstoornissen",
+         "url": "https://www.gezondheidsraad.nl/site/binaries/site-content/collections/documents/2022/06/28/preventie-en-vroege-behandeling-van-eetstoornissen/advies-Preventie-en-vroege-behandeling-van-eetstoornissen.pdf",
+         "kind": "fact",
+         "upd": "2022-06-28"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Moeilijk om te stoppen met alcohol, gokken of gamen",
+      "lead": "Als je wilt stoppen of minderen, maar toch doorgaat.",
+      "scenes": [
+       "Ik neem me voor om te stoppen of minder te doen, maar even later merk ik dat ik gewoon weer doorga.",
+       "Het lukt me niet om me te houden aan wat ik met mezelf had afgesproken over de tijd, de hoeveelheid of het geld voor vandaag.",
+       "Ik verberg voor mensen om me heen dat ik drink, gok of game, of ik zoek smoesjes om het te verbloemen.",
+       "Ik blijf ’s nachts gamen, kom ’s ochtends moeilijk uit bed en ben steeds vaker te laat of afwezig op mijn werk of opleiding.",
+       "Als ik geld verlies bij sportweddenschappen, online casino’s of gokautomaten, wil ik het terugwinnen en ga ik weer gokken.",
+       "Ook al merk ik dat mijn lichaam er last van heeft, het lukt me niet om minder te drinken."
+      ],
+      "asks": [
+       "Het helpt me als er eerst naar me geluisterd wordt, zonder verwijten en zonder dat er meteen conclusies worden getrokken.",
+       "Het helpt me als we samen stap voor stap op een rijtje zetten hoe ik er nu mee omga en welke problemen het geeft.",
+       "Ik wil graag dat ook mijn slaap en mijn lichamelijke gezondheid aan bod komen.",
+       "Het helpt me als ik concreet hoor waar ik terechtkan voor hulp en welke plekken ik kan bezoeken.",
+       "Ik wil graag weten of iemand uit mijn omgeving mee mag komen naar het gesprek.",
+       "Ik hoor liever vooraf aan wie wordt doorgegeven wat ik vertel en hoeveel daarvan."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Slaapproblemen",
+        "why": "Deze pagina brengt gokken in verband met slecht slapen en met vermoeidheid overdag.",
+        "src": {
+         "org": "Kansspelautoriteit (OpenOverGokken)",
+         "title": "Wat doet gokken met je?",
+         "url": "https://openovergokken.nl/wat-doet-gokken-met-je/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problematisch alcoholgebruik",
+        "why": "Het Kompas gebruikt deze naam als drinken klachten of problemen geeft, bijvoorbeeld in het contact met anderen, in hoe iemand zich voelt of in het lichaam. Het gaat daarbij niet alleen om de hoeveelheid.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Problematisch alcoholgebruik",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/problematisch_alcoholgebruik",
+         "kind": "fact",
+         "upd": "2024-07-01"
+        }
+       },
+       {
+        "name": "Gokverslaving",
+        "why": "Gokken kan een verslaving worden: iemand blijft gokken ondanks de problemen die dat oplevert.",
+        "src": {
+         "org": "Kansspelautoriteit (OpenOverGokken)",
+         "title": "Top 10 risico’s van gokken",
+         "url": "https://openovergokken.nl/top-10-risicos-van-gokken/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Overmatig gamen",
+        "why": "Volgens deze pagina kan overmatig gamen tot een verslaving leiden, ook bij volwassenen.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Gevolgen van socialemediagebruik en gamen",
+         "url": "https://www.vzinfo.nl/onderwerpen/socialemediagebruik-en-gamen/gevolgen",
+         "kind": "summary",
+         "upd": "2023-09-27"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Volgens deze pagina kan gokken gepaard gaan met somberheid en depressieve gevoelens.",
+        "src": {
+         "org": "Kansspelautoriteit (OpenOverGokken)",
+         "title": "Wat doet gokken met je?",
+         "url": "https://openovergokken.nl/wat-doet-gokken-met-je/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD",
+        "why": "Bij volwassenen met ADHD geven verslaving en moeite op werk of in relaties volgens het Kompas vaak meer problemen dan ADHD op zich.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "ADHD",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/adhd",
+         "kind": "fact",
+         "upd": "2026-03-01"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgok",
+       "nlgemeente"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Moeite met aandacht of plannen",
+      "lead": "Moeite met je concentreren, stap voor stap werken of dingen onthouden.",
+      "scenes": [
+       "Ook als iemand tegen me praat, dwalen mijn gedachten ongemerkt af naar iets anders.",
+       "Het lukt me niet om werk of huishoudelijke taken stap voor stap af te werken, waardoor ik deadlines niet haal.",
+       "Vaak weet ik achteraf niet meer wat me gevraagd is of wat ik beloofd heb, of ik raak dingen kwijt.",
+       "Als ik lang met dezelfde taak bezig ben, maak ik steeds meer slordige foutjes.",
+       "Ik vind het moeilijk om stil te blijven zitten en voel me vanbinnen onrustig.",
+       "Mensen om me heen zeggen dat ik vaak dingen vergeet of te laat kom."
+      ],
+      "asks": [
+       "Het helpt me als instructies één voor één worden gegeven.",
+       "Ik krijg belangrijke dingen liever op papier.",
+       "Het helpt me als deadlines en afspraken ruim van tevoren worden doorgegeven.",
+       "Het helpt me als er niet veel tegelijk wordt gevraagd, maar in kleine stukjes.",
+       "Ik praat liever op een rustige plek waar ik minder snel word afgeleid.",
+       "Het helpt me als gezien wordt wat me wel lukt, en als me niet wordt verweten wat niet lukt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructieve slaapapneu",
+        "why": "Bij deze slaapaandoening valt de ademhaling tijdens de slaap steeds even weg. Volgens deze pagina kan dat overdag zorgen voor sterke slaperigheid en vermoeidheid.",
+        "src": {
+         "org": "Zorginstituut Nederland",
+         "title": "Brede inspanning bij verbeteren zorgtraject slaapapneu",
+         "url": "https://www.zorginstituutnederland.nl/actueel/nieuws/2021/03/09/publicatie-verbetersignalement-obstructieve-slaapapneu",
+         "kind": "summary",
+         "upd": "2021-03-09"
+        }
+       },
+       {
+        "name": "Verstoord dag-nachtritme (bijvoorbeeld door nachtwerk)",
+        "why": "Het Arboportaal schrijft dat nachtwerk het dag-nachtritme van het lichaam kan verstoren, en dat dit onder meer tot concentratieproblemen kan leiden.",
+        "src": {
+         "org": "Ministerie van Sociale Zaken en Werkgelegenheid (Arboportaal)",
+         "title": "Welke risico’s brengt werken in een nachtdienst met zich mee?",
+         "url": "https://www.arboportaal.nl/onderwerpen/arbowet--en--regelgeving/werk--en-rusttijden-arbeidstijdenwet/nachtdienst/risico%E2%80%99s-van-werken-in-een-nachtdienst",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Slapeloosheid (insomnie)",
+        "why": "Het Kompas noemt bij slapeloosheid ook gevolgen overdag, waaronder een slechtere concentratie en vermoeidheid.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Slapeloosheid",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/slapeloosheid",
+         "kind": "fact",
+         "upd": "2025-01-01"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Het Kompas noemt moeite met concentreren als iets wat bij een depressie kan horen.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Depressie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/depressie",
+         "kind": "fact",
+         "upd": "2024-11-01"
+        }
+       },
+       {
+        "name": "Angststoornissen",
+        "why": "Deze pagina noemt concentratieproblemen onder de klachten die bij angst kunnen horen.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Angststoornissen | Verantwoording | Definities",
+         "url": "https://www.vzinfo.nl/angststoornissen/verantwoording/definities",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Overspannenheid of burn-out",
+        "why": "Deze pagina noemt concentratieproblemen en vergeetachtigheid onder de klachten die bij overspannenheid en burn-out kunnen horen. De stress kan met het werk te maken hebben, maar ook met het leven daarbuiten.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Overspannenheid en burn-out | Verantwoording | Definities",
+         "url": "https://www.vzinfo.nl/overspannenheid-en-burn-out/verantwoording-definities",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD",
+        "why": "Volgens het Kompas hebben volwassenen met ADHD vaak moeite met geldzaken en papierwerk, en met plannen en organiseren.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "ADHD",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/adhd",
+         "kind": "fact",
+         "upd": "2026-03-01"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgemeente"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Moeite met contact, vaste gewoontes of zintuigen",
+      "lead": "Moeite met praten of omgaan met andere mensen, een sterke behoefte om dingen op een vaste manier te doen, of geluid, licht en geuren die moeilijk te verdragen zijn.",
+      "scenes": [
+       "In een gesprek heb ik moeite om aan te voelen wat er in de ander omgaat of hoe de sfeer is, en vaak lijkt het alsof we langs elkaar heen praten.",
+       "Als ik voor een groep moet praten of als alle ogen op mij gericht zijn, word ik heel gespannen en ga ik zulke situaties uit de weg.",
+       "Met mensen die ik goed ken kan ik praten, maar bij anderen krijg ik geen woord over mijn lippen.",
+       "Als mijn vaste manier van doen, de volgorde van dingen of de plek van mijn spullen verandert, word ik erg onrustig.",
+       "Geluid, licht en geuren komen heel sterk bij me binnen, en daardoor zijn drukke plekken moeilijk voor me.",
+       "Ik versta mensen slecht of ik voel me somber, en daardoor kost het me veel moeite om mensen te ontmoeten of met ze te praten."
+      ],
+      "asks": [
+       "Het helpt me als er rustig en duidelijk tegen me wordt gepraat.",
+       "Het helpt me als belangrijke dingen ook worden opgeschreven.",
+       "Ik praat liever op een rustige plek.",
+       "Het helpt me als ik van tevoren hoor wanneer plannen of werkwijzen veranderen.",
+       "Het helpt me als ik niet word gehaast en rustig tijd krijg om te antwoorden.",
+       "Ik wil graag schriftelijk kunnen antwoorden, bijvoorbeeld met een kort briefje, in plaats van te praten."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Slechthorendheid",
+        "why": "‘Bij volwassenen is slechthorendheid sterk geassocieerd met een verminderd psychosociaal welbevinden en sociaal functioneren.’",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Gehoorstoornissen | Oorzaken en gevolgen",
+         "url": "https://www.vzinfo.nl/gehoorstoornissen/oorzaken-en-gevolgen",
+         "kind": "quote",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Sociale angststoornis (sociale fobie)",
+        "why": "Het Kompas noemt spreken voor een groep als voorbeeld van een situatie waarin sociale angst kan spelen. Het kan gaan om één zo’n situatie of om meer.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Angststoornissen",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/angststoornissen",
+         "kind": "fact",
+         "upd": "2025-11-01"
+        }
+       },
+       {
+        "name": "Autismespectrumstoornis",
+        "why": "Deze pagina beschrijft aanhoudende moeite in het contact met anderen als iets wat bij autisme hoort. Ook vaste gewoontes, moeite met veranderingen en gevoeligheid voor prikkels worden genoemd.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Autismespectrumstoornis | Over autismespectrumstoornis",
+         "url": "https://www.vzinfo.nl/autismespectrumstoornis-over-autismespectrumstoornis",
+         "kind": "summary",
+         "upd": "2025-03-20"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgemeente"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Moeite met lezen, schrijven of rekenen",
+      "lead": "Als lezen, schrijven of met getallen werken moeite blijft kosten, ook als je je best doet.",
+      "scenes": [
+       "Ik doe er langer over dan andere mensen om een tekst te lezen en ik moet vaak opnieuw lezen.",
+       "Ook als ik een tekst lees, blijft er weinig van hangen en is het lastig te begrijpen wat er in brieven of formulieren staat.",
+       "Ik maak veel spelfouten of vergeet letters of woorden.",
+       "Mijn handschrift is onregelmatig en schrijven kost me veel tijd en moeite.",
+       "Ik loop vast bij eenvoudige sommen en bij rekenopgaven die als tekst worden gegeven.",
+       "Praten en luisteren lukt me zonder moeite, maar met lezen, schrijven of rekenen kom ik niet zo ver als ik zou willen, ook al neem ik er veel tijd voor."
+      ],
+      "asks": [
+       "Het helpt me als teksten in grote letters en met ruime regelafstand worden gegeven, of in eenvoudige taal.",
+       "Ik krijg belangrijke dingen liever voorgelezen of mondeling verteld.",
+       "Het helpt me als ik mag typen op een computer of telefoon, of foto’s en geluidsopnames mag gebruiken in plaats van met de hand te schrijven.",
+       "Het helpt me als ik een rekenmachine mag gebruiken.",
+       "Het helpt me als ik extra tijd krijg om te lezen, te schrijven en te rekenen.",
+       "Het helpt me als ik dingen één voor één krijg en niet allemaal tegelijk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Slapeloosheid (insomnie)",
+        "why": "Op de pagina staat dat slecht slapen overdag het moeilijker kan maken om je aandacht erbij te houden.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Slapeloosheid",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/slapeloosheid",
+         "kind": "fact",
+         "upd": "2025-01-01"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "Op de pagina staat dat er bij depressie, naast een sombere stemming, ook moeite kan zijn om je gedachten ergens bij te houden.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Depressie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/depressie",
+         "kind": "fact",
+         "upd": "2024-11-01"
+        }
+       },
+       {
+        "name": "ADHD",
+        "why": "Op de pagina staat dat het bij volwassenen met ADHD vaak lastig is om planning, papierwerk en geldzaken op orde te houden.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "ADHD",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/adhd",
+         "kind": "fact",
+         "upd": "2026-03-01"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts",
+       "nlgemeente"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grote schommelingen in stemming",
+      "lead": "Als je stemming sterk op en neer gaat en het moeilijk is om je eigen gevoelens bij te houden.",
+      "scenes": [
+       "Periodes waarin ik te veel energie heb, wisselen af met periodes waarin ik zo somber ben dat ik niet meer in beweging kom.",
+       "Er zijn periodes waarin ik bijna niet slaap en toch vol energie zit en maar door blijf gaan.",
+       "Het ene idee na het andere komt bij me op en alles blijft half af.",
+       "In periodes waarin ik me heel uitbundig voelde, heb ik zoveel geld uitgegeven dat ik er later mee in de problemen kwam.",
+       "Ik raak snel geïrriteerd door kleine dingen en het is moeilijk om mijn gevoelens in toom te houden.",
+       "Wat ik deed in periodes dat mijn stemming heel hoog was, heeft invloed gehad op mijn relaties of mijn werk."
+      ],
+      "asks": [
+       "Het helpt me als er ook naar de periodes wordt gevraagd waarin ik juist heel veel energie had.",
+       "Het helpt me als er rustig de tijd wordt genomen om samen terug te kijken op de ups en downs in mijn stemming.",
+       "Het helpt me als iemand me voor grote beslissingen over geld of werk aanmoedigt om even stil te staan en na te denken.",
+       "Ik wil graag dat ook naar lichamelijke oorzaken wordt gekeken, zoals slaap, medicijnen en alcohol.",
+       "Als er iets aan me opvalt wat anders is dan gewoonlijk, hoor ik dat graag zonder verwijt.",
+       "Het helpt me als er naar me wordt geluisterd tot ik uitgepraat ben, of ik nu veel energie heb of somber ben."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroïdie (schildklier die te snel werkt)",
+        "why": "Als de schildklier te veel hormoon maakt, kan dat volgens de pagina niet alleen klachten in je lichaam geven, maar ook je stemming raken en je onrustig maken.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Hyperthyroïdie",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/hyperthyroidie",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       },
+       {
+        "name": "Problematisch alcoholgebruik (ook bij stoppen of minderen)",
+        "why": "Op de pagina staat dat stoppen of minderen na lange tijd veel drinken ervoor kan zorgen dat je slecht slaapt en sneller geïrriteerd raakt.",
+        "src": {
+         "org": "Zorginstituut Nederland (Farmacotherapeutisch Kompas)",
+         "title": "Problematisch alcoholgebruik",
+         "url": "https://www.farmacotherapeutischkompas.nl/bladeren/indicatieteksten/problematisch_alcoholgebruik",
+         "kind": "fact",
+         "upd": "2024-07-01"
+        }
+       },
+       {
+        "name": "Depressie",
+        "why": "De pagina rekent depressie tot de stemmingsstoornissen. Daarbij blijft de stemming lang somber en is er nauwelijks nog zin in de dingen van elke dag.",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Depressie en andere stemmingsstoornissen | Definities",
+         "url": "https://www.vzinfo.nl/depressie-en-andere-stemmingsstoornissen/verantwoording/definities",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolaire stoornis",
+        "why": "‘Bij een bipolaire stoornis zijn er zowel depressieve als manische episodes.’",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Depressie en andere stemmingsstoornissen | Definities",
+         "url": "https://www.vzinfo.nl/depressie-en-andere-stemmingsstoornissen/verantwoording/definities",
+         "kind": "quote",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Overspannenheid en burn-out",
+        "why": "‘Burn-out en overspannenheid zijn stress-gerelateerde aandoeningen waarbij verschillende klachten optreden zoals vermoeidheid, prikkelbaarheid en emotionele labiliteit.’",
+        "src": {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Overspannenheid en burn-out | Verantwoording | Definities",
+         "url": "https://www.vzinfo.nl/overspannenheid-en-burn-out/verantwoording-definities",
+         "kind": "quote",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "nlhuisarts"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Een naam leren kennen kan gewone schommelingen sneller op klachten laten lijken",
+       "body": "Als je de naam van een ziekte of aandoening leert kennen, kan een beetje vermoeidheid of verstrooidheid ineens op een klacht gaan lijken.\n\nGevoelens kunnen veranderen hoe je lichaam en je stemming aanvoelen. Dat is geen inbeelding, het gebeurt echt. Maar slecht slapen, stress, veel op je telefoon zitten of wat er om je heen gebeurt, kan iets vergelijkbaars doen.\n\nAls je bij het zien van een naam denkt: ‘Misschien is dit het wel’, houd het daar dan niet bij. Denk ook aan andere redenen. En blijft iets moeite kosten, dan kun je erover praten zoals het is, ook zonder naam.",
+       "srcs": []
+      },
+      {
+       "h": "De stemming gaat bij iedereen weleens op en neer",
+       "body": "Hoe je je voelt, gaat bij iedereen weleens op en neer. In 2022 zei de toenmalige staatssecretaris van Volksgezondheid, Welzijn en Sport dat niemand zich altijd even goed voelt en dat je niet elke dag de beste versie van jezelf hoeft te zijn. Dat is een uitspraak van één bewindspersoon uit 2022, geen standpunt over deze app.\n\nZo schrijft de Rijksoverheid over eenzaamheid dat iedereen zich in sommige periodes van het leven eenzaam kan voelen.\n\nWaar mentale problemen overgaan in een psychische stoornis, is geen scherpe lijn te trekken. Het RIVM schrijft: ‘De overgang van mentale problemen naar psychische stoornis is een glijdende schaal, die onder meer afhangt van de mate waarin de klachten de betreffende persoon belemmeren in zijn dagelijks leven.’\n\nBlijft iets moeite kosten, dan kun je erover praten zoals het is, met of zonder naam.",
+       "srcs": [
+        {
+         "org": "Rijksoverheid",
+         "title": "Kabinet start brede beweging voor betere mentale gezondheid",
+         "url": "https://www.rijksoverheid.nl/actueel/nieuws/2022/06/10/kabinet-start-brede-beweging-voor-betere-mentale-gezondheid",
+         "kind": "summary",
+         "upd": "2022-06-10"
+        },
+        {
+         "org": "Rijksoverheid",
+         "title": "Wat kan ik doen als ik me eenzaam voel?",
+         "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/eenzaamheid/wat-kan-ik-doen-als-ik-me-eenzaam-voel",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "RIVM (VZinfo.nl)",
+         "title": "Mentale gezondheid | Psychische stoornissen",
+         "url": "https://www.vzinfo.nl/mentale-gezondheid/psychische-stoornissen",
+         "kind": "quote",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Je kunt over je problemen praten, ook zonder diagnose",
+       "body": "Kom je er zelf niet uit, of weet je niet precies wat er met je aan de hand is? Dan kun je naar je huisarts gaan. Als je werkt, kan dat ook bij je bedrijfsarts. Ook zonder diagnose kun je dus praten over waar je moeite mee hebt.\n\nVoor zorg van de huisarts betaal je geen eigen risico. Dat geldt ook als de huisarts samen met een praktijkondersteuner ggz (POH-ggz) aan je klachten werkt. Het kan gebeuren dat niet duidelijk is wat er speelt of waar het door komt, bijvoorbeeld als er schulden of eenzaamheid meespelen. Dan kan de huisarts een verkennend gesprek voor je regelen.\n\nVoor ondersteuning in het dagelijks leven kun je terecht bij het Wmo-loket of het sociale wijkteam van je gemeente. Daar kun je ook vragen naar gratis cliëntondersteuning. Hoe dat loket heet, verschilt per gemeente.\n\nMensen met een beperking of chronische ziekte moeten volgens de Rijksoverheid net als ieder ander kunnen meedoen: op school, op hun werk, in het openbaar vervoer en in hun vrije tijd. De wet gaat uit van aanpassingen die passen bij wat iemand nodig heeft. In veel gevallen kun je vragen om een aanpassing voor je eigen situatie. Aanpassingen die heel veel geld of moeite kosten, onveilig zijn of niet uitgevoerd kunnen worden, zijn niet verplicht.\n\nAls je je ziek meldt, mag je werkgever niet vragen welke ziekte het is of waardoor die komt. De bedrijfsarts geeft je werkgever dan standaard alleen door dat je tijdelijk niet kunt werken, hoe lang dat ongeveer duurt, wat je wel kunt en welke aanpassingen gewenst zijn. Medische gegevens deelt de bedrijfsarts alleen in uitzonderlijke situaties en met jouw uitdrukkelijke toestemming.\n\nBij een sollicitatie mag een werkgever niet vragen of je een ziekte of beperking hebt. Maar kun je door een ziekte of beperking belangrijke delen van het werk niet doen, dan moet je dat zelf vertellen.\n\nWat je zou willen vragen en wat er kan, hangt af van de situatie. Dat bespreek je samen.",
+       "srcs": [
+        {
+         "org": "Rijksoverheid",
+         "title": "Waar vind ik hulp bij psychische problemen?",
+         "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/geestelijke-gezondheidszorg/waar-vind-ik-hulp-bij-psychische-problemen",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Zorginstituut Nederland",
+         "title": "Geneeskundige ggz (Zvw)",
+         "url": "https://www.zorginstituutnederland.nl/verzekerde-zorg/g/geneeskundige-ggz-zvw",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Rijksoverheid",
+         "title": "Wanneer betaal ik een eigen risico voor mijn zorg?",
+         "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zorgverzekering/eigen-risico-zorgverzekering",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Rijksoverheid",
+         "title": "Hoe krijg ik ondersteuning van de gemeente vanuit de Wmo?",
+         "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zorg-en-ondersteuning-thuis/ondersteuning-gemeente-wmo-2015-aanvragen",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Overheid.nl (wetten.overheid.nl)",
+         "title": "Wet gelijke behandeling op grond van handicap of chronische ziekte, artikel 2",
+         "url": "https://wetten.overheid.nl/BWBR0014915/2026-01-01",
+         "kind": "summary",
+         "upd": "2026-01-01"
+        },
+        {
+         "org": "Rijksoverheid",
+         "title": "Gelijke rechten voor mensen met beperking of chronische ziekte",
+         "url": "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/leven-met-een-beperking/gelijke-rechten-mensen-met-beperking-of-chronische-ziekte",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Autoriteit Persoonsgegevens",
+         "title": "Regels voor werkgevers bij zieke werknemers",
+         "url": "https://autoriteitpersoonsgegevens.nl/themas/werk-en-uitkering/zieke-werknemers/regels-voor-werkgevers-bij-zieke-werknemers",
+         "kind": "summary",
+         "upd": "2025-01-02"
+        },
+        {
+         "org": "Autoriteit Persoonsgegevens",
+         "title": "Rol arbodienst of bedrijfsarts bij zieke werknemers",
+         "url": "https://autoriteitpersoonsgegevens.nl/themas/werk-en-uitkering/zieke-werknemers/rol-arbodienst-of-bedrijfsarts-bij-zieke-werknemers",
+         "kind": "summary",
+         "upd": "2025-01-02"
+        },
+        {
+         "org": "Autoriteit Persoonsgegevens",
+         "title": "Gegevens over gezondheid bij sollicitaties",
+         "url": "https://autoriteitpersoonsgegevens.nl/themas/werk-en-uitkering/sollicitaties/gegevens-over-gezondheid-bij-sollicitaties",
+         "kind": "summary",
+         "upd": "2025-01-02"
+        }
+       ]
+      },
+      {
+       "h": "Voor sommige regelingen zijn wel papieren van een arts nodig",
+       "body": "Voor sommige regelingen heb je wel een verklaring van een arts of een ander document nodig. Wat nodig is, verschilt per regeling.\n\nWil je zorg in de ggz uit de basisverzekering, dan heb je een verwijzing nodig, bijvoorbeeld van de huisarts. Welke naam past, bepaalt een zorgverlener.\n\nMeld je je ziek bij je werk, dan bepaalt de bedrijfsarts of je kunt werken. In het stuk dat je werkgever van de bedrijfsarts krijgt over je terugkeer naar werk, staat niet welke ziekte het is of waardoor die komt.\n\nVraag je een WIA-uitkering aan omdat je lange tijd niet kunt werken, dan nodigt UWV je uit voor een gesprek met een verzekeringsarts.\n\nHulpmiddelen of een jobcoach voor je werk vraag je aan bij UWV of bij je gemeente.\n\nIn de regels van elke opleiding aan een hogeschool of universiteit staat hoe studenten met een handicap of chronische ziekte tentamens kunnen afleggen. Heb je door ziekte of een beperking onderdelen van je studie gemist en wil je die later volgen, dan moet je in je verzoek kunnen laten zien dat het daardoor kwam, bijvoorbeeld met een verklaring van een arts. Je kunt eerst met een studentendecaan praten.\n\nLangdurige zorg (Wlz) is bedoeld voor mensen die door een aandoening of beperking dag en nacht iemand in de buurt nodig hebben, en dat blijvend. Je vraagt daarvoor een indicatie aan bij het CIZ. Daarvoor zijn documenten van een arts of andere zorgverlener nodig, met de diagnose en de datum waarop die is gesteld.\n\nVraag voordat je begint bij het loket welke papieren nodig zijn.",
+       "srcs": [
+        {
+         "org": "Zorginstituut Nederland",
+         "title": "Geneeskundige ggz (Zvw)",
+         "url": "https://www.zorginstituutnederland.nl/verzekerde-zorg/g/geneeskundige-ggz-zvw",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerie van Sociale Zaken en Werkgelegenheid (Arboportaal)",
+         "title": "Ziekte en re-integratie",
+         "url": "https://www.arboportaal.nl/onderwerpen/ondersteuning-bij-arbowet/bedrijfsarts/rol-van-de-bedrijfsarts-bij-ziekte-en-re-integratie",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Autoriteit Persoonsgegevens",
+         "title": "Re-integratie van zieke werknemers",
+         "url": "https://autoriteitpersoonsgegevens.nl/themas/werk-en-uitkering/zieke-werknemers/re-integratie-van-zieke-werknemers",
+         "kind": "summary",
+         "upd": "2025-01-02"
+        },
+        {
+         "org": "Uitvoeringsinstituut Werknemersverzekeringen (UWV)",
+         "title": "De 9 meestgestelde vragen over de WIA",
+         "url": "https://www.uwv.nl/nl/ervaringsverhalen/9-meest-gestelde-vragen-wia",
+         "kind": "fact",
+         "upd": "2023-11-03"
+        },
+        {
+         "org": "Rijksoverheid",
+         "title": "Kan ik als zieke of arbeidsbeperkte hulp krijgen als ik (weer) ga werken?",
+         "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/werken-met-arbeidsbeperking/kan-ik-als-zieke-of-arbeidsbeperkte-hulp-krijgen-als-ik-weer-ga-werken",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Overheid.nl (wetten.overheid.nl)",
+         "title": "Wet op het hoger onderwijs en wetenschappelijk onderzoek, artikel 7.13",
+         "url": "https://wetten.overheid.nl/BWBR0005682/2026-08-01",
+         "kind": "summary",
+         "upd": "2026-08-01"
+        },
+        {
+         "org": "Rijksoverheid",
+         "title": "Ik heb studievertraging opgelopen. Wat kan ik doen?",
+         "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/hoger-onderwijs/wat-kan-ik-doen-als-ik-aan-de-universiteit-of-hogeschool-studievertraging-heb-opgelopen",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "CIZ (Centrum Indicatiestelling Zorg)",
+         "title": "Voor wie is de Wet langdurige zorg (Wlz)?",
+         "url": "https://www.ciz.nl/wet-langdurige-zorg/voor-wie-is-de-wet-langdurige-zorg-wlz",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "CIZ (Centrum Indicatiestelling Zorg)",
+         "title": "Wat moet u weten voordat u een aanvraag doet?",
+         "url": "https://www.ciz.nl/wet-langdurige-zorg/wat-moet-u-weten-voordat-u-een-aanvraag-doet",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "De naam van een ziekte is geen middel om je boven iemand anders te stellen",
+       "body": "De naam van een ziekte is geen middel om je boven iemand anders te stellen of op anderen neer te kijken.\nVoor sommige mensen is het fijn om een naam te vinden voor wat ze meemaken. Dat is belangrijk.\nHet is ook begrijpelijk dat je wilt dat de mensen om je heen je begrijpen en vriendelijk met je omgaan.\n\nWil je dat mensen vriendelijk met je omgaan, dan kun je dat gewoon vragen, zonder de naam van een ziekte te noemen.\nHet is duidelijker voor de ander als je twee dingen tegelijk zegt: waar je moeite mee hebt en wat je graag zou willen.\n\nBijvoorbeeld:\n‘Ik heb vandaag weinig energie. Het helpt me als er langzaam met me wordt gepraat.’\n‘Als ik veel tegelijk hoor, raak ik de draad kwijt. Het helpt me als de dingen één voor één worden uitgelegd.’\n‘Wat ik alleen te horen krijg, onthoud ik moeilijk. Ik krijg belangrijke dingen liever op papier of per e-mail.’\n‘Op drukke plekken heb ik het moeilijk. Ik praat liever op een rustige plek.’\n‘Ik heb wat tijd nodig om te antwoorden. Het helpt me als er even op me wordt gewacht.’\n‘Ik zit nu vol gevoelens. Het helpt me als er eerst naar me wordt geluisterd. Adviezen mogen later.’\n‘Ik voel me vandaag niet goed. Het helpt me als ik even kan rusten.’\n‘Plotselinge veranderingen in de planning brengen me in de war. Het helpt me als ik het op tijd hoor.’\n‘Als er hard tegen me wordt gepraat, word ik bang. Het helpt me als er rustig met me wordt gepraat.’\n\nKun je het moeilijk zeggen, dan mag je het ook opschrijven en overhandigen. Je kunt ook het scherm ‘Waar ik moeite mee heb’ laten zien met de knop ‘Groot laten zien’. Dat scherm verschijnt in deze app als je kiest waar je mee zit en de vragen beantwoordt.\nWil je de naam van een diagnose noemen, dan mag dat. Ook dan helpt het de ander als je er tegelijk bij zegt waar je moeite mee hebt en wat je graag zou willen.\nSoms kan de ander niet doen wat je vraagt, door de eigen situatie. Dan kun je samen naar een andere manier zoeken.\n\nOp je werk kun je met dezelfde woorden vragen: ‘Meerdere instructies tegelijk volgen kost me moeite. Ik krijg ze liever op papier.’\n\nGebruik de lijst met namen in deze app niet om aan de mensen om je heen te twijfelen.",
+       "srcs": []
+      },
+      {
+       "h": "Over deze app",
+       "body": "Dit is geen diagnose. Deze lijst zegt niet of je een ziekte of stoornis hebt. Deze app is geen medisch hulpmiddel en vervangt geen gesprek met een zorgmedewerker.\n\nJe antwoorden worden nergens naartoe gestuurd en niet op dit apparaat bewaard. Ze worden gewist als je de app sluit.\n\nOnafhankelijke app. SOYOGI is een groep zonder winstoogmerk uit Japan. De app heeft geen band met de Nederlandse overheid, de ministeries, het RIVM of andere overheidsinstanties, gemeenten, GGD’en, beroepsorganisaties of zorgaanbieders, en geen van hen beveelt de app aan of geeft er steun aan. Wat hier staat, is niet automatisch de mening van de Rijksoverheid of van een andere instantie. De namen van instanties laten alleen zien waar de informatie vandaan komt. De originele teksten zijn gratis te lezen op de websites van die instanties.\n\nSOYOGI heeft deze teksten in eigen woorden geschreven op basis van openbare pagina’s uit Nederland. De paar zinnen die letterlijk zijn overgenomen, staan tussen ‘…’. De bronnen staan bij elk scherm, met de datum van de pagina, voor zover de pagina een datum laat zien. Geraadpleegd op 2026-10-28. Nummers en tijden kunnen veranderen.\n\nOf je hulp vraagt, bepaal je zelf en niet de app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Kom je er zelf niet uit, of weet je niet precies wat er met je aan de hand is? Dan kun je naar je huisarts gaan. Als je werkt, kan dat ook bij je bedrijfsarts.",
+      "src": {
+       "org": "Rijksoverheid",
+       "title": "Waar vind ik hulp bij psychische problemen?",
+       "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/geestelijke-gezondheidszorg/waar-vind-ik-hulp-bij-psychische-problemen",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Voor problemen in het dagelijks leven kun je informatie krijgen bij het Wmo-loket of het sociale wijkteam van je gemeente. Hoe dat loket heet, verschilt per gemeente.",
+       "src": {
+        "org": "Rijksoverheid",
+        "title": "Hoe krijg ik ondersteuning van de gemeente vanuit de Wmo?",
+        "url": "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zorg-en-ondersteuning-thuis/ondersteuning-gemeente-wmo-2015-aanvragen",
+        "kind": "summary",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Weet je zelf niet precies wat er speelt of waar het door komt? Dan kan de huisarts een verkennend gesprek voor je regelen.",
+       "src": {
+        "org": "Zorginstituut Nederland",
+        "title": "Geneeskundige ggz (Zvw)",
+        "url": "https://www.zorginstituutnederland.nl/verzekerde-zorg/g/geneeskundige-ggz-zvw",
+        "kind": "summary",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Over het verschil tussen klachten en een naam (diagnose) schrijft het RIVM:",
+      "text": "‘De overgang van mentale problemen naar psychische stoornis is een glijdende schaal, die onder meer afhangt van de mate waarin de klachten de betreffende persoon belemmeren in zijn dagelijks leven.’",
+      "src": {
+       "org": "RIVM (VZinfo.nl)",
+       "title": "Mentale gezondheid | Psychische stoornissen",
+       "url": "https://www.vzinfo.nl/mentale-gezondheid/psychische-stoornissen",
+       "kind": "quote",
+       "upd": "none"
       }
      }
     }

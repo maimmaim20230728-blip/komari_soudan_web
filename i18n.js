@@ -13,7 +13,7 @@
 var ja = {
   app: { name:'困りごとから相談へ・そよぎ', short:'困りごとから相談へ', tagline:'困りごとを言葉にして、相談の一歩へ。' },
   nav: { home:'えらぶ', names:'名前の てびき', madoguchi:'相談先', learn:'知って おきたい こと', set:'せってい' },
-  langName: { ja:'日本語', en:'英語', fr:'フランス語', de:'ドイツ語', es:'スペイン語' },   // 「〇〇で 見せる」のことばの名前
+  langName: { ja:'日本語', en:'英語', fr:'フランス語', de:'ドイツ語', es:'スペイン語', nl:'オランダ語' },   // 「〇〇で 見せる」のことばの名前
   common: {
     ok:'OK', cancel:'やめる', save:'ほぞんする', del:'けす', back:'もどる', close:'とじる',
     yes:'はい', no:'いいえ', add:'ついか', edit:'なおす', next:'つぎ', prev:'まえ', done:'できた',
@@ -183,7 +183,7 @@ var ja = {
 var en = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Put your worries into words, and take a step toward help.' },
   nav: { home:'Choose', names:'Names guide', madoguchi:'Where to ask', learn:'Good to know', set:'Settings' },
-  langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish' },   // language names for "Show in ..."
+  langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish', nl:'Dutch' },   // language names for "Show in ..."
   common: {
     ok:'OK', cancel:'Cancel', save:'Save', del:'Delete', back:'Back', close:'Close',
     yes:'Yes', no:'No', add:'Add', edit:'Edit', next:'Next', prev:'Previous', done:'Done',
@@ -349,7 +349,7 @@ var en = {
 var fr = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Mettre vos soucis en mots, et faire un pas vers l’aide.' },
   nav: { home:'Choisir', names:'Guide des noms', madoguchi:'Où demander', learn:'Bon à savoir', set:'Réglages' },
-  langName: { ja:'japonais', en:'anglais', fr:'français', de:'allemand', es:'espagnol' },   // « Afficher en ... »
+  langName: { ja:'japonais', en:'anglais', fr:'français', de:'allemand', es:'espagnol', nl:'néerlandais' },   // « Afficher en ... »
   common: {
     ok:'OK', cancel:'Annuler', save:'Enregistrer', del:'Supprimer', back:'Retour', close:'Fermer',
     yes:'Oui', no:'Non', add:'Ajouter', edit:'Modifier', next:'Suivant', prev:'Précédent', done:'Terminé',
@@ -517,7 +517,7 @@ var de = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Sorgen in Worte fassen und einen Schritt zur Hilfe gehen.' },
   /* 下のナビは 375px で1つ 75px ほど。長い語は SHY(やわらかいハイフン・折れたときだけ「-」が出る)で折る(hyphens:auto はドイツ語の辞書が無い端末で効かない) */
   nav: { home:'Auswählen', names:'Namens' + SHY + 'übersicht', madoguchi:'Anlauf' + SHY + 'stellen', learn:'Gut zu wissen', set:'Einstel' + SHY + 'lungen' },
-  langName: { ja:'Japanisch', en:'Englisch', fr:'Französisch', de:'Deutsch', es:'Spanisch' },   // „Auf ... anzeigen“
+  langName: { ja:'Japanisch', en:'Englisch', fr:'Französisch', de:'Deutsch', es:'Spanisch', nl:'Niederländisch' },   // „Auf ... anzeigen“
   common: {
     ok:'OK', cancel:'Abbrechen', save:'Speichern', del:'Löschen', back:'Zurück', close:'Schließen',
     yes:'Ja', no:'Nein', add:'Hinzufügen', edit:'Ändern', next:'Weiter', prev:'Vorherige', done:'Fertig',
@@ -683,7 +683,7 @@ var de = {
 var es = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Poner en palabras lo que te preocupa y dar un paso hacia la ayuda.' },
   nav: { home:'Elegir', names:'Guía de nombres', madoguchi:'Dónde consultar', learn:'Conviene saber', set:'Ajustes' },
-  langName: { ja:'japonés', en:'inglés', fr:'francés', de:'alemán', es:'español' },   // «Mostrar en ...»
+  langName: { ja:'japonés', en:'inglés', fr:'francés', de:'alemán', es:'español', nl:'neerlandés' },   // «Mostrar en ...»
   common: {
     ok:'OK', cancel:'Cancelar', save:'Guardar', del:'Borrar', back:'Atrás', close:'Cerrar',
     yes:'Sí', no:'No', add:'Añadir', edit:'Cambiar', next:'Siguiente', prev:'Anterior', done:'Listo',
@@ -845,6 +845,173 @@ var es = {
   }
 };
 
+/* ============ nl(2026-10-28 多国籍版・オランダの国と合わせて足す。アプリの正式名は英語名のまま。読み手は je(心の健康の国・RIVM の一般向けの文と同じ=SPEC_V1 14-1)・引用符は ‘…’(Rijksoverheid の書き方)。
+   下のナビの長い語は SHY で折る(ドイツと同じ・375px)。countryNote は国とことばを選ぶ前に「この端末にだけ残す」と知らせる(ACM の「使う前に知らせる」=N01 照合 (7)・SPEC_V1 14-6) ============ */
+var nl = {
+  app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Zet in woorden waar je mee zit, en zet een stap naar hulp.' },
+  nav: { home:'Kiezen', names:'Namen' + SHY + 'wijzer', madoguchi:'Hulp vinden', learn:'Goed om te weten', set:'Instel' + SHY + 'lingen' },
+  langName: { ja:'Japans', en:'Engels', fr:'Frans', de:'Duits', es:'Spaans', nl:'Nederlands' },   // ‘Tonen in het ...’
+  common: {
+    ok:'OK', cancel:'Annuleren', save:'Bewaren', del:'Wissen', back:'Terug', close:'Sluiten',
+    yes:'Ja', no:'Nee', add:'Toevoegen', edit:'Wijzigen', next:'Volgende', prev:'Vorige', done:'Klaar',
+    saved:'Bewaard ✓', saveFail:'Bewaren is niet gelukt', storageFull:'Er is geen ruimte meer; bewaren is niet gelukt',
+    deleted:'Gewist', delConfirm:'Weet je zeker dat je dit wilt wissen?', empty:'Nog niets',
+    optional:'Je hoeft niet alles in te vullen.', today:'Vandaag',
+    photo: {
+      camera:'Foto maken', roll:'Foto kiezen',
+      cropTitle:'Foto bijsnijden', cropHint:'Verschuif de foto met je vinger of met de pijltjes, en verander de grootte met de schuifregelaar.',
+      zoom:'Grootte', panUp:'Omhoog', panDown:'Omlaag', panLeft:'Links', panRight:'Rechts',
+      make:'Deze gebruiken', fail:'De foto kon niet worden geladen'
+    }
+  },
+  set: {
+    hNormal:'Basisinstellingen',
+    hBackup:'Naar een andere telefoon (reservekopie)',
+    fs:'Tekstgrootte', fsSizes:['Normaal','Groot','Heel groot'],
+    lang:'ことば / Language',
+    theme:'Kleur', themes:['Groen','Lichtblauw','Wit','Zwart'],
+    bgm:'Muziek', bgms:['Geen','Groen geluid','Blauw geluid'],
+    sound:'Geluid bij aanraken', on:'Aan', off:'Uit',
+    country:'Land', countryPick:'Kies een land',
+    bkHint:'Ga je naar een andere telefoon? Tik op ‘Exporteren’ om een bestand te bewaren, en tik op de nieuwe telefoon op ‘Importeren’.',
+    bkExport:'Exporteren', bkImport:'Importeren',
+    exported:'Geëxporteerd ✓', imported:'Geïmporteerd ✓', importFail:'Importeren is niet gelukt',
+    note:'Je antwoorden en wat je schrijft worden niet bewaard (ze verdwijnen als je de app sluit of teruggaat naar het begin). Alleen de instellingen worden bewaard. Er wordt niets verstuurd.',
+    privacy:'Privacybeleid',
+    credit:'Ontwikkeld door SOYOGI, een plek voor gesprekken over zorg en ondersteuning'
+  },
+  guide: {
+    title:'Zo werkt het', step:'{n} / {m}', start:'Begrepen', again:'Nog een keer bekijken',
+    countryNote:'De app laat hulp en informatie zien van pagina’s van overheidsinstanties uit het land dat je kiest. De taal en het land die je kiest, worden alleen op dit apparaat bewaard. Je kunt ze later veranderen bij Instellingen.',
+    countryNeed:'Kies eerst een land',
+    heads:[
+      'Wat je met deze app kunt doen',
+      'Dit is geen diagnose',
+      'Je antwoorden worden niet bewaard',
+      'Als je je zo slecht voelt dat je er niet meer wilt zijn'
+    ],
+    bodies:[
+      'Zet in woorden waar je mee zit, en bekijk waar je hulp kunt vragen en welke namen een zorgverlener samen met je kan nagaan als je hulp vraagt.\nKies op de beginpagina wat het meest lijkt op wat er met je gebeurt. Daarna komen de vragen één voor één.',
+      'Als hier een naam staat, betekent dat niet dat je een ‘diagnose’ hebt.\nOok zonder de naam van een ziekte kun je hulp vragen bij waar je mee zit, zoals het is.',
+      'Je antwoorden worden nergens naartoe gestuurd en ook niet op dit apparaat bewaard (ze verdwijnen als je de app sluit of teruggaat naar het begin).\nAlleen instellingen zoals de taal en de tekstgrootte worden bewaard.',
+      'Met de knop helemaal bovenaan op de beginpagina zie je hulp die dag en nacht bereikbaar is.'
+    ]
+  },
+  screen: {
+    ui: {
+      src:'{org}, ‘{title}’ {url} (geraadpleegd op {date})',
+      edited:', bewerkt door SOYOGI',
+      editedTr:', bewerkt en vertaald door SOYOGI',
+      ref:', in eigen woorden geschreven door SOYOGI op basis van deze pagina',
+      quoted:', geciteerd in een vertaling van SOYOGI',
+      quotedSame:', geciteerd',
+      upd:' (pagina bijgewerkt op {upd})',
+      updNone:' (op de pagina staat geen datum van bijwerken)',
+      copy:'Kopiëren', copied:'Gekopieerd', copyFail:'Kopiëren is niet gelukt',
+      close:'Sluiten',
+      call:'Bel {tel}',
+      text:'Stuur een sms naar {tel}',
+      checked:'Geraadpleegd op {date}. Nummers en tijden kunnen veranderen.',
+      soon:'In voorbereiding',
+      crisisBtn:'Ik voel me zo slecht dat ik er niet meer wil zijn',
+      crisisHead:'Als het nu heel zwaar is',
+      countryHead:'Hulp in {country}'
+    },
+    home: {
+      title:'Kiezen',
+      lead:'Kies wat het meest lijkt op waar je nu mee zit.',
+      other:'Ook als wat er met je gebeurt hier niet bij staat, kun je hulp vragen, zoals het is.',
+      labels:{
+        mood:'Somber, geen energie',
+        anxiety:'Veel zorgen of spanning',
+        repeat:'Moeilijk om te stoppen met controleren of herhalen',
+        after:'Een nare gebeurtenis blijft me raken',
+        sleep:'Moeite met slapen',
+        eating:'Moeite met eten',
+        habit:'Moeilijk om te stoppen met alcohol, gokken of gamen',
+        attention:'Moeite met aandacht of plannen',
+        social:'Moeite met contact, vaste gewoontes of zintuigen',
+        reading:'Moeite met lezen, schrijven of rekenen',
+        wave:'Grote schommelingen in stemming'
+      }
+    },
+    flow: {
+      step:'{n} / {m}', close:'Sluiten', back:'Terug', next:'Volgende',
+      ownPh:'Schrijf het zelf (één regel, als je wilt)',
+      linePh:'Eén regel (als je wilt)',
+      optional:'Je hoeft niets te schrijven.',
+      qScenes:'Kies wat vaak gebeurt (zoveel als je wilt)',
+      qRecent:'Wanneer gebeurde het de laatste keer?',
+      qRecentNo:'Wanneer gebeurde het niet?',
+      qSince:'Sinds wanneer?',
+      since:{
+        w2:'De laatste 1 of 2 weken', m1:'Ongeveer een maand', m6:'Ongeveer een half jaar', y1:'Langer dan een jaar',
+        small:'Al zolang ik me kan herinneren', school:'Ook toen ik op school zat', unknown:'Weet ik niet'
+      },
+      qSpread:'Waar gebeurt het?',
+      spread:{ one:'Alleen op één soort plek', many:'Op verschillende plekken (thuis, op school of studie, op het werk, buiten)', unknown:'Weet ik niet' },
+      qDegree:'Hoeveel last heb je ervan?',
+      degree:{ bit:'Een beetje', much:'Best veel', very:'Heel veel (het dagelijks leven lukt niet meer)', effort:'Ik houd het met heel veel moeite vol' },
+      qAsks:'Is er iets wat je graag zou willen van de mensen bij wie je hulp vraagt? (zoveel als je wilt)',
+      qOthers:'Heeft iemand om je heen gezegd dat je anders lijkt, of dat het je zwaar lijkt te vallen?',
+      others:{ yes:'Ja', no:'Nee', unknown:'Weet ik niet' },
+      gone:'Kies op de beginpagina opnieuw waar je mee zit.',
+      toHome:'Naar het begin'
+    },
+    result: {
+      r1Head:'Waar ik moeite mee heb',
+      card:{
+        trouble:'Wat me moeite kost', recent:'De laatste keer dat het gebeurde', recentNo:'Een keer dat het niet gebeurde', since:'Sinds wanneer',
+        spread:'Waar het gebeurt', degree:'Hoeveel last ik ervan heb', others:'Wat mensen om me heen hebben gezegd', asks:'Wat ik graag zou willen'
+      },
+      cardSince:{
+        w2:'De laatste 1 of 2 weken', m1:'Ongeveer een maand', m6:'Ongeveer een half jaar', y1:'Langer dan een jaar',
+        small:'Al zolang ik me kan herinneren', school:'Ook toen ik op school zat', unknown:'Weet ik niet'
+      },
+      cardSpread:{ one:'Alleen op één soort plek', many:'Op verschillende plekken (thuis, op school of studie, op het werk, buiten)', unknown:'Weet ik niet' },
+      cardDegree:{ bit:'Een beetje', much:'Best veel', very:'Heel veel (het dagelijks leven lukt niet meer)', effort:'Ik houd het met heel veel moeite vol' },
+      cardOthers:{ yes:'Mensen om me heen hebben gezegd dat ik anders lijk, of dat het me zwaar lijkt te vallen', no:'Niemand heeft dat gezegd', unknown:'Weet ik niet' },
+      empty:'Je hebt nog niets gekozen.',
+      copy:'Kopiëren', show:'Groot laten zien',
+      copied:'Gekopieerd. Als je het in een andere app hebt geplakt, kun je het hier wissen.',
+      noName:'Ook zonder de naam van een ziekte kun je vertellen wat er met je gebeurt, zoals het hier staat.',
+      mainLang:'Tonen in het {lang}',
+      backLang:'Terug naar mijn taal',
+      junbi:'Je bezoek voorbereiden met ‘Voor het gesprek’ (notities over waar je mee zit, een tijdlijn, oude papieren)',
+      back:'Terug', next:'Volgende', prev:'Vorige', home:'Naar het begin',
+      r2Head:'Hulp vinden',
+      meyasuHead:'Wanneer je hulp kunt vragen (tekst van een overheidsinstantie)',
+      generalHead:'Van pagina’s van overheidsinstanties',
+      yourAns:'De antwoorden die je koos',
+      ansSince:'Sinds wanneer: {v}', ansDegree:'Hoeveel last: {v}', notChosen:'Niet gekozen',
+      same:'Lijkt de tekst op wat jij meemaakt, dan kun je hulp vragen. En ook als je twijfelt: als iets je moeite kost, mag je erover praten.',
+      winHead:'Waar je hulp kunt vragen',
+      toNames:'De lijst met namen bekijken',
+      r3Head:'Namen die een zorgverlener samen met je kan nagaan',
+      toLearn:'Lezen: ‘{h}’', toLearnNote:'Er staan ook voorbeelden in van hoe je kunt vragen om vriendelijk met je om te gaan.'
+    },
+    names: {
+      title:'Namenwijzer',
+      lead:'Kies een groep om de lijst met namen te zien die een zorgverlener samen met je kan nagaan als je hulp vraagt. Je kunt de lijst bekijken zonder vragen te beantwoorden.',
+      back:'Terug naar de groepen',
+      pre:'Dit zijn namen die zorgverleners kunnen nagaan als je hulp vraagt. Achter dezelfde moeite kunnen heel verschillende oorzaken zitten. Deze lijst zegt niet of je een ziekte of stoornis hebt. Ook als je hulp vraagt, krijg je soms geen naam.',
+      howLead:'Over hoe namen (diagnoses) worden gegeven, schrijft een pagina van het Japanse National Center of Neurology and Psychiatry:',
+      notHere:'Het kan ook een naam zijn die niet in deze lijst staat.',
+      noDoubt:'Gebruik deze lijst niet om te twijfelen aan de mensen om je heen.'
+    },
+    madoguchi: {
+      title:'Hulp vinden',
+      nowHead:'Als het nu heel zwaar is (dag en nacht)',
+      dayHead:'Overdag hulp vragen'
+    },
+    learn: {
+      title:'Goed om te weten',
+      step:'{n} / {m}', prev:'Vorige', next:'Volgende',
+      srcHead:'Bronnen', allSrcHead:'Alle bronnen'
+    }
+  }
+};
+
 /* フランス語は « と » の内側と、» : ; ? ! の前を改行しない空白にする(約物が行の端に離れて残らないように。data.js は _make_data.js の frTypo で同じことをする) */
 var NB = String.fromCharCode(160);
 (function nb(o){
@@ -854,5 +1021,5 @@ var NB = String.fromCharCode(160);
   }
 })(fr);
 
-window.KOMARI_I18N = { ja: ja, en: en, fr: fr, de: de, es: es };
+window.KOMARI_I18N = { ja: ja, en: en, fr: fr, de: de, es: es, nl: nl };
 })();
