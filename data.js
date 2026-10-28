@@ -30,7 +30,8 @@ window.KOMARI_DATA = {
   "fr",
   "de",
   "es",
-  "nl"
+  "nl",
+  "ko"
  ],
  "c": {
   "jp": {
@@ -41,7 +42,8 @@ window.KOMARI_DATA = {
     "fr": "Japon",
     "de": "Japan",
     "es": "Japón",
-    "nl": "Japan"
+    "nl": "Japan",
+    "ko": "일본"
    },
    "langs": [
     "ja",
@@ -3154,7 +3156,8 @@ window.KOMARI_DATA = {
     "fr": "États-Unis",
     "de": "Vereinigte Staaten",
     "es": "Estados Unidos",
-    "nl": "Verenigde Staten"
+    "nl": "Verenigde Staten",
+    "ko": "미국"
    },
    "langs": [
     "en"
@@ -4870,7 +4873,8 @@ window.KOMARI_DATA = {
     "fr": "France",
     "de": "Frankreich",
     "es": "Francia",
-    "nl": "Frankrijk"
+    "nl": "Frankrijk",
+    "ko": "프랑스"
    },
    "langs": [
     "fr"
@@ -6722,7 +6726,8 @@ window.KOMARI_DATA = {
     "fr": "Allemagne",
     "de": "Deutschland",
     "es": "Alemania",
-    "nl": "Duitsland"
+    "nl": "Duitsland",
+    "ko": "독일"
    },
    "langs": [
     "de"
@@ -8575,7 +8580,8 @@ window.KOMARI_DATA = {
     "fr": "Espagne",
     "de": "Spanien",
     "es": "España",
-    "nl": "Spanje"
+    "nl": "Spanje",
+    "ko": "스페인"
    },
    "langs": [
     "es"
@@ -10161,7 +10167,8 @@ window.KOMARI_DATA = {
     "fr": "Pays-Bas",
     "de": "Niederlande",
     "es": "Países Bajos",
-    "nl": "Nederland"
+    "nl": "Nederland",
+    "ko": "네덜란드"
    },
    "langs": [
     "nl"
@@ -11753,6 +11760,1715 @@ window.KOMARI_DATA = {
        "org": "RIVM (VZinfo.nl)",
        "title": "Mentale gezondheid | Psychische stoornissen",
        "url": "https://www.vzinfo.nl/mentale-gezondheid/psychische-stoornissen",
+       "kind": "quote",
+       "upd": "none"
+      }
+     }
+    }
+   }
+  },
+  "ko": {
+   "id": "ko",
+   "name": {
+    "ja": "韓国",
+    "en": "South Korea",
+    "fr": "Corée du Sud",
+    "de": "Südkorea",
+    "es": "Corea del Sur",
+    "nl": "Zuid-Korea",
+    "ko": "한국"
+   },
+   "langs": [
+    "ko"
+   ],
+   "main": "ko",
+   "fallback": "ko",
+   "srcLang": "ko",
+   "freeHosts": [
+    "health.kdca.go.kr",
+    "mohw.go.kr",
+    "law.go.kr",
+    "mogef.go.kr"
+   ],
+   "adaptHosts": [
+    "mohw.go.kr",
+    "law.go.kr",
+    "mogef.go.kr"
+   ],
+   "factRef": true,
+   "ver": "2026-10-29",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "ko109",
+     "band": "now",
+     "tel": "109",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "자살예방상담전화 109",
+      "desc": "죽고 싶은 마음이 들 만큼 힘들 때 전화할 수 있는 상담전화예요. 상담 내용은 기본적으로 비밀이 지켜지지만, 위급할 때는 다른 기관에 도움을 요청할 수 있어요. 따로 동의하지 않으면 개인정보를 모으지 않아요. 카카오톡, 앱, 문자로 상담하는 ‘마들랜’도 있어요.",
+      "hours": "365일 24시간.",
+      "src": {
+       "org": "보건복지부 보건복지상담센터",
+       "title": "자주하는 질문(자살예방)",
+       "url": "https://www.129.go.kr/faq/faq06.do?searchConsultingKeyword=F01",
+       "kind": "fact",
+       "upd": "2024-12-23"
+      }
+     },
+     "src": {
+      "org": "보건복지부 보건복지상담센터",
+      "title": "자주하는 질문(자살예방)",
+      "url": "https://www.129.go.kr/faq/faq06.do?searchConsultingKeyword=F01",
+      "kind": "fact",
+      "upd": "2024-12-23"
+     }
+    },
+    {
+     "id": "ko1577",
+     "band": "now",
+     "tel": "1577-0199",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "정신건강위기상담전화 1577-0199",
+      "desc": "전국 어디서나 같은 번호예요. 휴대전화 위치를 기준으로 가까운 정신건강복지센터로 연결돼요. 자살 위기 상담을 포함한 정신건강 상담, 정신건강 정보, 정신의료기관 안내를 받을 수 있어요.",
+      "hours": "밤과 휴일에는 광역정신건강복지센터로 연결돼요.",
+      "src": {
+       "org": "보건복지부",
+       "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+       "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+       "kind": "fact",
+       "upd": "2025-08-19"
+      }
+     },
+     "src": {
+      "org": "보건복지부",
+      "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+      "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+      "kind": "fact",
+      "upd": "2025-08-19"
+     }
+    },
+    {
+     "id": "ko119",
+     "band": "now",
+     "tel": "119",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "119",
+      "desc": "목숨이 위험할 때, 갑자기 몹시 아프거나 다쳤을 때는 119에 연락하세요. 혼자 판단하기 어려울 때도 119에서 의학적인 상담을 받을 수 있어요.",
+      "hours": "",
+      "src": {
+       "org": "보건복지부",
+       "title": "설 연휴, 갑자기 아프면 이젠(E-gen)에서 가까운 문 여는 병의원을 찾으세요",
+       "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1484434",
+       "kind": "summary",
+       "upd": "2025-01-23"
+      }
+     },
+     "src": {
+      "org": "보건복지부",
+      "title": "설 연휴, 갑자기 아프면 이젠(E-gen)에서 가까운 문 여는 병의원을 찾으세요",
+      "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1484434",
+      "kind": "summary",
+      "upd": "2025-01-23"
+     }
+    },
+    {
+     "id": "ko112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "112",
+      "desc": "범죄나 폭력으로 위험할 때는 112에 신고하세요. 긴급한 신고는 112와 119로 모여 있고, 급하지 않은 민원 상담은 110이에요.",
+      "hours": "",
+      "src": {
+       "org": "행정안전부",
+       "title": "긴급신고 통합서비스",
+       "url": "https://www.mois.go.kr/frt/sub/a06/b10/emergencycall/screen.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "행정안전부",
+      "title": "긴급신고 통합서비스",
+      "url": "https://www.mois.go.kr/frt/sub/a06/b10/emergencycall/screen.do",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "kotext",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "112",
+     "ko": {
+      "name": "말하기 어려울 때: 112에 문자, 똑똑112",
+      "desc": "문자 받는 사람에 112를 넣고, 이름과 장소, 신고하는 이유를 문자로 보낼 수 있어요. 112에 전화했는데 말하기 어려우면, 전화가 연결된 뒤 아무 숫자 버튼이나 누르세요. 말하기 어려운 상황이라는 것을 경찰이 알게 돼요.",
+      "hours": "",
+      "src": {
+       "org": "대한민국 정책브리핑",
+       "title": "말하기 어려운 상황엔 '똑똑112'",
+       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943833",
+       "kind": "fact",
+       "upd": "2025-05-29"
+      }
+     },
+     "src": {
+      "org": "대한민국 정책브리핑",
+      "title": "말하기 어려운 상황엔 '똑똑112'",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943833",
+      "kind": "fact",
+      "upd": "2025-05-29"
+     }
+    },
+    {
+     "id": "kosign",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "듣기나 말하기가 어려울 때: 119 영상통화",
+      "desc": "청각·언어장애가 있는 사람은 119에 영상통화로 직접 신고할 수 있어요. 119 접수 직원이 손말이음센터(107)를 불러, 수어 통역사와 함께 세 사람이 영상통화로 이야기해요.",
+      "hours": "",
+      "src": {
+       "org": "대한민국 정책브리핑",
+       "title": "청각·언어장애인도 긴급상황시 119 직접 신고 가능해져",
+       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148941990",
+       "kind": "fact",
+       "upd": "2025-04-17"
+      }
+     },
+     "src": {
+      "org": "대한민국 정책브리핑",
+      "title": "청각·언어장애인도 긴급상황시 119 직접 신고 가능해져",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148941990",
+      "kind": "fact",
+      "upd": "2025-04-17"
+     }
+    },
+    {
+     "id": "ko1366",
+     "band": "now",
+     "tel": "1366",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "여성긴급전화 1366",
+      "desc": "가정폭력, 성폭력, 스토킹, 디지털 성범죄 등 폭력 피해로 긴급한 구조나 보호, 상담이 필요할 때 전화할 수 있어요. 112·119와 연결하거나, 의료 기관과 보호 시설에 대한 정보를 알려 줘요.",
+      "hours": "365일 24시간.",
+      "src": {
+       "org": "성평등가족부",
+       "title": "여성긴급전화1366 운영 지원",
+       "url": "https://www.mogef.go.kr/sp/hrp/sp_hrp_f002.do",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "성평등가족부",
+      "title": "여성긴급전화1366 운영 지원",
+      "url": "https://www.mogef.go.kr/sp/hrp/sp_hrp_f002.do",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "komhc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "사는 곳의 정신건강복지센터(시·군·구)",
+      "desc": "지역 주민을 위한 정신건강 서비스의 기초가 되는 곳이에요. 먼저 사는 시·군·구의 정신건강복지센터에 문의해 보세요. 정신건강위기상담전화(1577-0199)도 이곳이 맡아요. ‘제가 힘든 점’을 보여 줄 수 있어요.",
+      "hours": "센터에 따라 달라요.",
+      "src": {
+       "org": "보건복지부",
+       "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+       "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+       "kind": "fact",
+       "upd": "2025-08-19"
+      }
+     },
+     "src": {
+      "org": "보건복지부",
+      "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+      "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+      "kind": "fact",
+      "upd": "2025-08-19"
+     }
+    },
+    {
+     "id": "kohosp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "정신건강의학과 의원·병원",
+      "desc": "동네 의원과 병원에는 요양급여의뢰서 없이 갈 수 있어요. 상급종합병원(큰 대학병원 등)에서 건강보험으로 진료를 받으려면, 먼저 다른 병원이나 의원에서 받은 요양급여의뢰서 등이 필요해요. ‘제가 힘든 점’을 보여 줄 수 있어요.",
+      "hours": "의원·병원에 따라 달라요.",
+      "src": {
+       "org": "국가법령정보센터(법제처)",
+       "title": "국민건강보험 요양급여의 기준에 관한 규칙 제2조",
+       "url": "https://www.law.go.kr/법령/국민건강보험요양급여의기준에관한규칙",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "국가법령정보센터(법제처)",
+      "title": "국민건강보험 요양급여의 기준에 관한 규칙 제2조",
+      "url": "https://www.law.go.kr/법령/국민건강보험요양급여의기준에관한규칙",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "koaddict",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "사는 지역의 중독관리통합지원센터",
+      "desc": "술, 마약, 도박, 인터넷 등의 중독 문제가 있는 사람과 가족, 주민이 이용할 수 있어요. 전화로 상담하거나 센터에 찾아가서 이용해요. 센터가 있는 곳은 보건복지부 페이지의 목록에서 볼 수 있어요.",
+      "hours": "센터에 따라 달라요.",
+      "src": {
+       "org": "보건복지부",
+       "title": "중독관리통합지원센터 운영 및 현황",
+       "url": "https://www.mohw.go.kr/menu.es?mid=a10706040400",
+       "kind": "fact",
+       "upd": "2026-03-06"
+      }
+     },
+     "src": {
+      "org": "보건복지부",
+      "title": "중독관리통합지원센터 운영 및 현황",
+      "url": "https://www.mohw.go.kr/menu.es?mid=a10706040400",
+      "kind": "fact",
+      "upd": "2026-03-06"
+     }
+    },
+    {
+     "id": "ko1336",
+     "band": "day",
+     "tel": "1336",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "한국도박문제예방치유원 헬프라인 1336",
+      "desc": "도박 문제로 어려움이 있는 사람과 가족이 상담할 수 있어요. 전화 말고도 문자, 채팅, 카카오톡, 게시판으로 상담할 수 있어요. 위기 상황에서는 긴급구조기관과 연결해 줘요.",
+      "hours": "전화 상담: 매일 9:00~22:00(무료). 채팅 상담: 평일 9:00~18:00(주말과 공휴일 제외).",
+      "src": {
+       "org": "한국도박문제예방치유원",
+       "title": "상담안내",
+       "url": "https://www.kcgp.or.kr/portal/main/contents.do?menuNo=200062",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "한국도박문제예방치유원",
+      "title": "상담안내",
+      "url": "https://www.kcgp.or.kr/portal/main/contents.do?menuNo=200062",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ko129",
+     "band": "day",
+     "tel": "129",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "보건복지상담센터 129",
+      "desc": "보건복지부의 상담센터예요. 전국 어디서나 국번 없이 무료로 전화할 수 있어요. 긴급복지지원, 복지 사각지대, 정신건강 상담은 24시간 받아요.",
+      "hours": "평일 9:00~18:00. 정신건강 상담은 24시간.",
+      "src": {
+       "org": "보건복지부 보건복지상담센터",
+       "title": "129 전화상담",
+       "url": "https://www.129.go.kr/counsel/counsel01.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "보건복지부 보건복지상담센터",
+      "title": "129 전화상담",
+      "url": "https://www.129.go.kr/counsel/counsel01.do",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ko1331",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "국가인권위원회 인권상담 1331",
+      "desc": "장애, 성별, 나이, 병력 등으로 차별을 받았다고 생각될 때, 국가기관이나 공공기관, 지방자치단체에 인권을 침해당했다고 생각될 때 상담할 수 있어요. 국번 없이 1331이고, 휴대전화로 걸 때는 지역번호를 먼저 눌러요.",
+      "hours": "월~금 9:00~18:00(점심시간 12:00~13:00 제외).",
+      "src": {
+       "org": "국가인권위원회",
+       "title": "상담안내",
+       "url": "https://case.humanrights.go.kr/cnslt/guide.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "국가인권위원회",
+      "title": "상담안내",
+      "url": "https://case.humanrights.go.kr/cnslt/guide.do",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ko132",
+     "band": "day",
+     "tel": "132",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ko": {
+      "name": "대한법률구조공단 132",
+      "desc": "법률 문제를 전화로 상담할 수 있어요. 전화로는 간단한 내용만 상담할 수 있어요. 통화료는 거는 사람이 내요.",
+      "hours": "평일 낮(점심시간 제외).",
+      "src": {
+       "org": "대한법률구조공단",
+       "title": "전화상담",
+       "url": "https://www.klac.or.kr/legalstruct/telephoneConsultation.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "대한법률구조공단",
+      "title": "전화상담",
+      "url": "https://www.klac.or.kr/legalstruct/telephoneConsultation.do",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "ko": {
+    "groups": {
+     "mood": {
+      "label": "기분이 가라앉고 기운이 없어요",
+      "lead": "기분이 오래 가라앉아 있고, 무엇을 하려 해도 기운이 잘 나지 않아요.",
+      "scenes": [
+       "아침부터 밤까지 기분이 계속 가라앉아 있어요.",
+       "전에는 좋아하던 일을 해도 즐겁다는 느낌이 들지 않아요.",
+       "기운이 나지 않고 집중도 안 돼서, 일이나 집안일이 잘 진행되지 않아요.",
+       "자꾸 제 탓을 하게 되고, 모든 일을 어둡게만 생각하게 돼요.",
+       "밤에 잠이 오지 않거나, 반대로 너무 많이 자요. 입맛이 없고 몸도 무거워요.",
+       "가끔 사라지고 싶다는 생각이 들어요."
+      ],
+      "asks": [
+       "해야 할 일은 한 번에 하나씩 알려 주시면 좋겠어요.",
+       "대답이나 결정을 재촉하지 말고, 생각할 시간을 주시면 좋겠어요.",
+       "중요한 내용은 글로 적어서 건네주시면 좋겠어요.",
+       "“힘내”라고 하기 전에 먼저 제 이야기를 들어 주시면 좋겠어요.",
+       "쉬고 있다고 해서 게으르다고 단정하지 말아 주시면 좋겠어요.",
+       "몸의 병이나 지금 먹고 있는 약이 관련되어 있지는 않은지도 함께 확인해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": true,
+       "text": "“우울감이 지속되거나 심해지는 경우에는 정신건강 전문가와 상의하는 것이 바람직합니다.”",
+       "src": {
+        "org": "질병관리청 국가건강정보포털",
+        "title": "우울감",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+        "kind": "quote",
+        "upd": "none"
+       }
+      },
+      "names": [
+       {
+        "name": "몸의 병이나 약의 영향",
+        "why": "당뇨병이나 뇌졸중, 갑상선의 이상 같은 몸의 병이나 약의 부작용 때문에 기분이 가라앉는 일도 있다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갑상선기능저하증",
+        "why": "몸이 몹시 피곤해지고, 기억이 흐려지거나 집중이 어렵고 의욕이 나지 않는 일이 있다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능저하증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5810",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "난청(나이가 들면서 귀가 잘 안 들림)",
+        "why": "나이가 들면서 귀가 잘 안 들리게 되면, 대화가 어려워져 사람들과 멀어지고 기분이 가라앉기 쉽다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "노인성 난청",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5489",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "수면무호흡증",
+        "why": "잠자는 동안 숨이 자꾸 멈추는 병으로, 낮에는 기분이 가라앉거나 불안해지고 집중하기 어려워지기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "수면무호흡증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6308",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "폐경기",
+        "why": "폐경 무렵의 여성에게 나타나는 마음의 변화로, 의욕이 사라지거나 기분이 가라앉고 잠을 이루기 어려운 일 등이 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "폐경기",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6687",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "술(음주)의 영향",
+        "why": "술을 지나치게 마시는 것이 잠의 어려움이나 우울한 기분과 관련이 있다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "기분이 가라앉는 것 말고도 집중이 어렵고 입맛이나 잠이 달라지는 등, 몸과 마음에 여러 변화가 함께 온다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "양극성장애(조울증)",
+        "why": "기분이 크게 들뜨는 때와 가라앉는 때가 되풀이해서 찾아오는 병이라고 쓰여 있어요.",
+        "src": {
+         "org": "국립춘천병원",
+         "title": "양극성장애",
+         "url": "https://www.cnmh.go.kr/menu.es?mid=a10203020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "걱정이나 긴장이 커요",
+      "lead": "걱정이 사라지지 않거나, 가슴이 두근거리고 안절부절못하거나, 사람들 앞이나 밖에 나가는 것이 힘들어요.",
+      "scenes": [
+       "사람들 앞에서 말하거나 주목을 받으면, 너무 불안해서 머릿속이 하얘져요.",
+       "갑자기 가슴이 두근거리고 숨이 가빠져요. “또 그러면 어떡하지” 하는 걱정에 밖에 나가기가 힘들어요.",
+       "뚜렷한 이유가 없는데도 이것저것 걱정이 돼서, 안절부절못하고 금세 지쳐요.",
+       "지하철이나 버스, 엘리베이터, 사람이 많은 건물 안처럼 쉽게 빠져나오기 어려운 곳이나, 혼자 하는 외출이 힘들어서 피하고 있어요.",
+       "불안한 것을 피하다 보니 가는 곳도 만나는 사람도 줄어서, 생활이 점점 좁아지고 있어요.",
+       "걱정거리가 머릿속에서 떠나지 않아서, 밤에 잠들기 어려워요."
+      ],
+      "asks": [
+       "제가 말할 때 재촉하지 말고 기다려 주시면 좋겠어요.",
+       "일정이나 진행 순서를 미리 알려 주시면 좋겠어요.",
+       "갑자기 사람들 앞에서 의견을 묻지 말고, 글로 적어서 전하는 방법도 고를 수 있게 해 주시면 좋겠어요.",
+       "몸이 안 좋아지면 잠깐 자리를 비우고 쉬는 것을 허락해 주시면 좋겠어요.",
+       "조용한 곳에서 적은 인원으로 이야기할 수 있게 해 주시면 좋겠어요.",
+       "“너무 예민해”, “신경 쓰지 마”라고 단정하지 말고, 먼저 제가 힘든 점을 들어 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "갑상선기능항진증",
+        "why": "불안하고 잠들기 어려운 모습과 함께, 가슴이 두근거리고 손이 떨리기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "부정맥",
+        "why": "심장이 뛰는 리듬이 흐트러지는 상태로, 대표적인 모습의 첫째로 두근거림이 쓰여 있어요. 원인은 심장의 병 말고도 카페인, 약, 스트레스, 갑상선 질환 등 여러 가지라고 나와 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "부정맥",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1102",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "빈혈",
+        "why": "빈혈이 있으면 피로 말고도 어지럽거나 숨이 차고, 심장이 빠르게 뛰는 일이 생기기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "빈혈",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1104",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "카페인의 영향",
+        "why": "카페인을 너무 많이 먹거나 마시는 일도 두근거림이 생기는 까닭의 하나로 나와 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "술을 끊을 때의 변화(금단 증후군)",
+        "why": "오랫동안 많이 마시던 술을 갑자기 끊었을 때, 손이 떨리거나 식은땀이 나고 가슴이 두근거리는 변화가 나타난다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "약의 영향",
+        "why": "두근거림의 원인을 다룬 곳에, 병원에서 처방된 약 때문에 심장 박동이 흐트러지는 경우도 있다고 나와 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "공황장애",
+        "why": "두근거림의 마음 쪽 원인을 다룬 곳에, 사람이 붐비거나 좁은 곳에서 두근거림과 식은땀, 불안이 함께 오는 예로 나와 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "불안장애",
+        "why": "두근거림의 원인 가운데 마음에서 비롯되는 것으로, 불안장애가 가장 흔한 것 중 하나라고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "확인하거나 되풀이하는 것을 멈추기 어려워요",
+      "lead": "문이나 가스를 몇 번이고 확인하거나 손을 계속 씻는 등 같은 일을 되풀이하고, 그만두고 싶어도 멈추기 어려워요.",
+      "scenes": [
+       "집을 나설 때 현관문을 잠갔는지, 가스 밸브를 잠갔는지 몇 번이고 확인하지 않으면 마음 놓고 나가지 못해요.",
+       "손이나 몸을 씻는 횟수가 늘어서, 그만하고 싶어도 멈추지 못해요.",
+       "같은 걱정이 자꾸 머릿속에 떠올라서, 그만 생각하고 싶은데도 멈추지 못해요.",
+       "물건을 놓는 방식이나 순서를 정해 둔 대로 하지 않으면 마음이 불편해서, 고치거나 처음부터 다시 하게 돼요.",
+       "확인하다 보면 시간이 지나서, 출발이 늦어지거나 약속이나 일에 늦기도 해요.",
+       "저도 모르게 몸이 움직이거나 소리가 나와서, 멈추려 해도 멈추기 어려워요."
+      ],
+      "asks": [
+       "“너무 예민해”, “신경 쓰지 마”라고 단정하지 말고, 먼저 이야기를 들어 주시면 좋겠어요.",
+       "확인하는 데 시간이 걸리니, 시간을 넉넉하게 잡아 주시면 좋겠어요.",
+       "일정이나 순서를 바꿀 때는 미리 알려 주시면 좋겠어요.",
+       "제가 확인하거나 씻는 모습을 다른 사람 앞에서 지적하거나 놀리지 말아 주시면 좋겠어요.",
+       "설명이나 지시는 하나씩, 글로 적어서 전해 주시면 좋겠어요.",
+       "상담이나 진료를 앞으로 어떻게 이어 갈지는, 제 불안한 점을 먼저 들으신 뒤에 천천히 함께 정해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "강박장애(강박증)",
+        "why": "원하지 않는 생각이 되풀이해서 떠오르고, 그 생각을 떨쳐 내려고 손 씻기나 확인을 거듭하는 일이 많다고 쓰여 있어요.",
+        "src": {
+         "org": "국립춘천병원",
+         "title": "강박장애",
+         "url": "https://www.cnmh.go.kr/menu.es?mid=a10205000000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "우울증에서는 괴로운 생각을 자꾸 곱씹게 되거나, 쉽게 지치고 주의가 흐트러지는 일이 많다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "틱장애",
+        "why": "눈 깜박임이나 어깨 으쓱임처럼 갑자기 빠르게 일어나 되풀이되는 움직임, 또는 헛기침 같은 소리를 틱이라고 부른다고 쓰여 있어요.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "틱장애",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_04_00_02",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "자폐스펙트럼장애",
+        "why": "같은 행동을 되풀이하거나 관심과 활동이 좁은 범위에 머무는 것이 특징의 하나로 쓰여 있어요.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "자폐스펙트럼장애",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_05_00_01",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "힘든 일을 겪은 뒤로 계속 마음에 걸려요",
+      "lead": "힘든 일을 겪은 뒤로 그때 기억이 자꾸 떠오르거나, 잠을 잘 못 자거나, 긴장이 풀리지 않아요.",
+      "scenes": [
+       "별것 아닌 계기로도 힘들었던 때의 장면과 감정이 갑자기 되살아나요.",
+       "비슷한 무서운 꿈을 자꾸 꿔서, 깊이 잠들지 못하는 날이 많아요.",
+       "늘 긴장하고 있어서, 작은 소리나 일에도 깜짝 놀라요.",
+       "그때를 떠오르게 하는 장소나 사람, 이야기를 되도록 피하다 보니 하는 일의 범위가 점점 좁아졌어요.",
+       "감정이 무뎌진 것처럼 느껴져서, 가족이나 친구에게도 예전 같은 마음이 잘 들지 않아요.",
+       "스스로를 탓하는 마음이 커지거나, 주변 사람을 믿기 어려워졌어요."
+      ],
+      "asks": [
+       "무슨 일이 있었는지 자세히 캐묻지 않아 주시면 좋겠어요. 말할 수 있는 만큼만, 제 속도대로 이야기하고 싶어요.",
+       "그때를 떠오르게 하는 소리나 장소, 이야기가 있어서, 피하고 싶다고 말하면 그 뜻을 받아들여 주시면 좋겠어요.",
+       "갑자기 뒤에서 말을 걸거나 큰 소리를 내지 않아 주시면 좋겠어요.",
+       "말하기 힘들 때는 적어 온 글을 건네는 것으로 대신할 수 있게 해 주시면 좋겠어요.",
+       "잠을 못 자는 날이나 피곤이 남는 날이 있는 것을 게으름으로 받아들이지 않아 주시면 좋겠어요.",
+       "“이제 그만 잊어”, “빨리 털어 버려”라고 재촉하지 않고, 편하게 이야기할 수 있는 자리를 마련해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "불면·악몽",
+        "why": "국가트라우마센터 페이지에, 재난으로 큰 충격을 겪은 뒤에 나타나기도 하는 반응으로 잠이 오지 않는 것과 악몽이 적혀 있어요.",
+        "src": {
+         "org": "국가트라우마센터",
+         "title": "심리적 반응 및 대처방법",
+         "url": "https://www.nct.go.kr/distMental/understand/understand02_1_1.do",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "술이나 약물 사용이 늘어남",
+        "why": "같은 페이지에, 큰 충격을 겪은 뒤의 행동 변화로 술이나 약물을 쓰는 일이 늘어나는 것도 적혀 있어요.",
+        "src": {
+         "org": "국가트라우마센터",
+         "title": "심리적 반응 및 대처방법",
+         "url": "https://www.nct.go.kr/distMental/understand/understand02_1_1.do",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "불안",
+        "why": "같은 페이지에, 큰 충격을 겪은 뒤 마음에 나타나는 반응으로 불안이 적혀 있어요.",
+        "src": {
+         "org": "국가트라우마센터",
+         "title": "심리적 반응 및 대처방법",
+         "url": "https://www.nct.go.kr/distMental/understand/understand02_1_1.do",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "외상 후 스트레스 장애(PTSD)",
+        "why": "질병관리청 페이지에 우울감과 관련된 병의 하나로 적혀 있어요. 다른 사람과 멀어지는 느낌, 피하고 움츠러드는 모습, 잠의 어려움이 우울증과 공통으로 있다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "소중한 사람과의 이별이나 실직 같은 삶의 사건이 우울증을 불러오거나 더 힘들게 하기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "잠에 어려움이 있어요",
+      "lead": "잠들기 어렵거나, 밤에 자꾸 깨거나, 아침에 일어나기 힘들거나, 낮에 많이 졸려요.",
+      "scenes": [
+       "이불 속에 들어가도 좀처럼 잠들지 못해요.",
+       "밤중에 몇 번이나 깨서, 아침까지 푹 자지 못해요.",
+       "아침에 일어날 시간이 되어도 일어나지 못해서, 직장이나 학교에 늦는 날이 이어지고 있어요.",
+       "낮에 강한 졸음이 몰려와서, 회의 중이나 운전 중에 졸 뻔해요.",
+       "가족이 제가 코를 크게 골고, 자는 동안 숨이 멈추는 것 같다고 말했어요.",
+       "저녁이나 밤이 되면 다리가 불편하고 가만히 있기 어려워서 잠들지 못해요."
+      ],
+      "asks": [
+       "잠드는 데 걸리는 시간, 밤중에 깨는 일, 아침에 일어나기 힘든 정도, 낮의 졸음 같은 잠의 상태를 시간을 들여 물어봐 주시면 좋겠어요.",
+       "먹고 있는 약이나 커피, 술, 담배 습관까지 포함해서 원인을 함께 생각해 주시면 좋겠어요.",
+       "“마음먹기 나름”, “의지가 약해서”라고 단정하지 말고, 몸에 병이 있는지, 마음 상태는 어떤지도 함께 살펴봐 주시면 좋겠어요.",
+       "잠든 시각과 일어난 시각을 적은 메모로 전하고 싶으니, 봐 주시면 좋겠어요.",
+       "약을 쓰게 되면, 어떻게 작용하는지와 주의할 점을 알기 쉽게 설명해 주시면 좋겠어요.",
+       "아침에는 힘들어서, 오후나 저녁 시간대에 진료해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "불면증",
+        "why": "잠들기 힘들고 자주 깨는 일이 이어져서, 낮의 생활에 지장이 생기거나 마음이 힘들어지는 것을 가리키는 이름이라고 쓰여 있어요. 스트레스가 사라져도 잠의 어려움이 이어지는 일이 있다고도 해요.",
+        "src": {
+         "org": "국립정신건강센터(국가정신건강정보포털)",
+         "title": "뜨거운 여름 밤, 오늘은 어떻게 자야하나?(작성자: 소민아)",
+         "url": "https://www.mentalhealth.go.kr/portal/bbs/bbsDetail.do?bbsId=BBSINIT_2&nttId=244",
+         "kind": "fact",
+         "upd": "2020-05-13"
+        }
+       },
+       {
+        "name": "수면무호흡증",
+        "why": "낮에 몹시 졸리고 피곤한 것, 자는 동안 숨이 멈추거나 심하게 코를 고는 것, 자주 깨는 것이 함께 쓰여 있어요. 함께 자는 배우자가 숨이 멈추는 것을 보고 걱정하는 일도 흔하다고 해요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "수면무호흡증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6308",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갑상선기능항진증",
+        "why": "갑상선호르몬이 지나치게 많이 만들어지는 몸의 병으로, 불안하고 예민해지며 잠을 잘 이루지 못하는 모습이 함께 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "폐경기",
+        "why": "폐경 무렵에 얼굴이나 몸이 갑자기 달아오르는 열감이 생기고, 그것이 밤에 더 심해져 잠을 방해하기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "폐경기",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6687",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "약·카페인의 영향",
+        "why": "스트레스 말고도, 커피 같은 음료나 먹고 있는 약이 잠을 방해하는 요인이 되기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "국립정신건강센터(국가정신건강정보포털)",
+         "title": "뜨거운 여름 밤, 오늘은 어떻게 자야하나?(작성자: 소민아)",
+         "url": "https://www.mentalhealth.go.kr/portal/bbs/bbsDetail.do?bbsId=BBSINIT_2&nttId=244",
+         "kind": "fact",
+         "upd": "2020-05-13"
+        }
+       },
+       {
+        "name": "술(음주)의 영향",
+        "why": "술이 잠에 어려움을 일으키기도 하고, 많이 마시면 잠의 질과 자는 시간이 줄어든다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "기분이 가라앉는 것과 함께, 잠을 잘 이루지 못하거나 반대로 너무 많이 자는 모습도 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "kohosp",
+       "komhc"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "먹는 것에 어려움이 있어요",
+      "lead": "먹는 것이 어려워졌어요. 조금밖에 못 먹거나, 멈추지 못하거나, 먹는 것이 무서워요.",
+      "scenes": [
+       "먹고 싶은 마음이 들지 않아서, 음식이 잘 넘어가지 않는 날이 이어지고 있어요.",
+       "먹기 시작하면 스스로 멈출 수 없어서, 너무 많이 먹어 속이 괴로울 때가 있어요.",
+       "어느새 음식 생각만 하고 있어서, 다른 일에 집중하기 어려워요.",
+       "먹을 수 있는 음식이 아주 한정되어 있고, 맛이나 냄새, 식감이 힘들어서 피하는 음식이 많아요.",
+       "음식이 목에 걸리거나 토한 일을 겪은 뒤로, 먹는 것이 무서워졌어요.",
+       "밤에 반쯤 잠든 상태로 먹고, 아침에는 기억나지 않을 때가 있어요."
+      ],
+      "asks": [
+       "살이 빠졌다·쪘다는 말이나 외모에 대한 말은 하지 말아 주시면 좋겠어요.",
+       "억지로 먹이거나 어서 먹으라고 재촉하지 않아 주시면 좋겠어요.",
+       "회식이나 여럿이 함께 먹는 자리는, 다른 장소나 시간을 고를 수 있게 해 주시면 좋겠어요.",
+       "먹을 수 있는 음식이나, 힘든 냄새와 식감을 먼저 물어봐 주시면 좋겠어요.",
+       "몸 검사나 진찰 순서를 먼저 설명해 주시면 좋겠어요.",
+       "말하기 어려운 것은 종이에 적어서 건네도 괜찮게 해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "몸의 병(위장관·내분비 질환 등)과 약의 영향",
+        "why": "의도하지 않게 체중이 줄 때, 위나 장의 병이나 호르몬(내분비)의 병, 약의 부작용 같은 몸의 이유도 있다고 쓰여 있어요. 체중이 눈에 띄게 줄었다면 병원에서 원인을 알아보는 것이 중요하다고 해요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "체중 감소",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6546",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갑상선기능항진증",
+        "why": "갑상선호르몬이 지나치게 많이 만들어지는 몸의 병으로, 식욕이 늘어 많이 먹는데도 체중이 줄어드는 일이 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갑상선기능저하증",
+        "why": "갑상선호르몬이 모자라는 몸의 병으로, 입맛이 없어 잘 먹지 못하는데도 몸이 붓고 체중이 늘어나는 모습이 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능저하증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5810",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "기분이 가라앉는 것과 함께, 식욕이 떨어지거나 반대로 너무 많이 먹게 되는 일도 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "kohosp",
+       "komhc"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "술·도박·게임을 멈추기 어려워요",
+      "lead": "그만두거나 줄이고 싶은데도 계속하게 돼요.",
+      "scenes": [
+       "그만두거나 줄이기로 마음먹어도, 정신을 차려 보면 또 계속하고 있어요.",
+       "‘오늘은 여기까지’라고 정한 시간이나 양, 돈을 지키지 못해요.",
+       "술이나 게임, 도박을 하는 것을 가까운 사람에게 숨기거나 둘러대요.",
+       "게임 때문에 밤을 새우는 날이 이어져서 아침에 일어나지 못하고, 지각이나 결석, 결근이 늘었어요.",
+       "잃은 돈을 되찾고 싶어서 또 도박을 하게 돼요.",
+       "몸 상태가 좋지 않다는 것을 알면서도 술을 줄이지 못해요."
+      ],
+      "asks": [
+       "탓하거나 단정하지 말고, 먼저 제 이야기를 들어 주시면 좋겠어요.",
+       "지금 어떻게 하고 있는지, 어떤 점이 힘든지를 차례대로 함께 정리해 주시면 좋겠어요.",
+       "잠이나 몸 상태도 함께 확인해 주시면 좋겠어요.",
+       "상담할 수 있는 창구나 다닐 수 있는 곳을 구체적으로 알려 주시면 좋겠어요.",
+       "가족이나 가까운 사람이 함께 상담할 수 있는지도 알려 주시면 좋겠어요.",
+       "제가 말한 내용을 누구에게 어디까지 전할지, 먼저 저와 함께 확인해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "수면장애(잠의 어려움)",
+        "why": "술을 많이 마시면 푹 자기도 어렵고 자는 시간도 짧아진다고 쓰여 있어요. 술 때문에 힘들 때는 잠 이야기도 함께 할 수 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "알코올 사용 장애(술 문제)",
+        "why": "술을 마시고 싶은 욕구와, 마시는 것을 스스로 조절하지 못하는 일이 서로 이어져 있다고 쓰여 있어요. 조절하지 못하는 일은 술 문제의 중요한 특징으로 설명돼요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "도박 문제(도박중독)",
+        "why": "잃은 돈을 되찾으려고 다시 도박을 하는 일, 줄이거나 그만두려고 해도 잘 되지 않는 일이 쓰여 있어요.",
+        "src": {
+         "org": "한국도박문제예방치유원",
+         "title": "도박의 이해",
+         "url": "https://www.kcgp.or.kr/portal/main/contents.do?menuNo=200246",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "게임 등 행위 중독",
+        "why": "게임이나 쇼핑 같은 행동에도 ‘행위 중독’이라는 말을 쓰며, 그런 행동이 지나치게 되는 일이 있다고 쓰여 있어요. 스스로 조절하는 힘을 잃는 것을 중독의 특징 가운데 하나로 들고 있어요.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "중독장애(게임·약물)",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_04_00_04",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "술 같은 물질을 쓰는 문제와 우울증이 함께 있는 경우가 많다고 쓰여 있어요. 술 때문에 힘들 때는 기분이 가라앉는지도 함께 전할 수 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "불안장애",
+        "why": "술 문제와 불안장애가 함께 나타나기도 한다고 쓰여 있어요. 불안이 크게 느껴질 때는 그 이야기도 함께 할 수 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD(주의력결핍과잉행동장애)",
+        "why": "ADHD가 있는 성인은 술이나 약물에 의존하게 되는 경우가 있다고 쓰여 있어요.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "중독장애(게임·약물)",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_04_00_04",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "koaddict",
+       "ko1336",
+       "komhc",
+       "kohosp"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "주의를 기울이거나 계획하기 어려워요",
+      "lead": "집중하기, 차례대로 일하기, 기억해 두기가 어려워요.",
+      "scenes": [
+       "다른 사람이 이야기하고 있어도, 어느새 다른 생각을 하고 있어요.",
+       "일이나 집안일을 순서대로 해 나가지 못해서, 마감이나 기한을 맞추지 못해요.",
+       "부탁받은 일이나 약속이 나중에 기억나지 않거나, 물건을 잃어버리는 일이 많아요.",
+       "같은 작업을 오래 하다 보면 부주의한 실수가 늘어요.",
+       "가만히 앉아 있으면 차분해지지 않고 안절부절못해요.",
+       "깜빡하고 물건을 두고 오거나 지각이 잦다는 말을 주변에서 듣기도 해요."
+      ],
+      "asks": [
+       "지시는 한 가지씩 전해 주시면 좋겠어요.",
+       "중요한 내용은 글로 써서 건네주시면 좋겠어요.",
+       "기한이나 약속은 미리 알려 주시면 좋겠어요.",
+       "한꺼번에 많이 부탁하지 말고, 나누어서 부탁해 주시면 좋겠어요.",
+       "주의가 덜 흐트러지는 조용한 곳에서 이야기하게 해 주시면 좋겠어요.",
+       "하지 못한 부분을 탓하지 말고, 해낸 부분을 알아봐 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "수면무호흡증",
+        "why": "잠자는 동안 숨이 멈추는 일과 관련된 이름이에요. 낮 동안 기억이나 판단이 흐려지고 집중이 잘 안 되는 일이 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "수면무호흡증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6308",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갑상선기능저하증",
+        "why": "갑상선 호르몬이 부족할 때 쓰는 이름이에요. 기억이 깜빡깜빡하거나 집중하기 어려워지고, 의욕도 잘 생기지 않는 일이 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능저하증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5810",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갑상선기능항진증",
+        "why": "갑상선 호르몬이 많아질 때 쓰는 이름이에요. 집중이 흐트러져 일을 해내기 힘들어지고, 신경이 날카로워지거나 불안해지는 일이 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "폐경기",
+        "why": "집중하기 힘들어지거나 기억이 흐려지는 일이, 폐경을 맞은 여성이 흔히 겪는 마음의 변화로 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "폐경기",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6687",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "만성피로증후군",
+        "why": "피로와 함께, 집중이 어려워지는 것처럼 머리를 쓰는 일에 어려움이 생기기도 한다고 쓰여 있어요. 원인은 아직 분명하지 않다고 해요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "만성피로증후군",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6549",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "우울증이 있을 때도 집중이 잘 안 되는 일이 있다고 쓰여 있어요. 기분이 가라앉으면서 머리가 잘 돌아가지 않게 되기도 한다고 해요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "양극성장애(조울증)",
+        "why": "기분이 가라앉았을 때는 집중하기 힘들어지고, 기분이 크게 들떴을 때는 주위의 다른 일로 주의가 금방 옮겨 간다고 쓰여 있어요.",
+        "src": {
+         "org": "국립부곡병원",
+         "title": "양극성장애",
+         "url": "https://www.bgnmh.go.kr/menu.es?mid=a10202020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD(주의력결핍과잉행동장애)",
+        "why": "집중이 이어지기 어렵고, 충동적이거나 가만히 있기 어려운 모습이 함께 쓰여 있는 이름이에요.",
+        "src": {
+         "org": "국립춘천병원",
+         "title": "주의력결핍과잉행동장애(ADHD)",
+         "url": "https://www.cnmh.go.kr/menu.es?mid=a10209020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "사람과의 관계, 늘 같은 방식, 감각에 어려움이 있어요",
+      "lead": "사람과 이야기하거나 어울리기가 어렵거나, 늘 같은 방식으로 하고 싶은 마음이 강하거나, 소리·빛·냄새를 견디기 힘들어요.",
+      "scenes": [
+       "대화할 때 상대방의 마음이나 그 자리의 분위기를 알아차리기 어려워서, 이야기가 서로 어긋난다고 느껴요.",
+       "사람들 앞에서 말하거나 다른 사람의 시선이 모이는 자리에서는 많이 긴장해서, 그런 자리를 피하게 돼요.",
+       "가까운 사람과는 이야기할 수 있는데, 그렇지 않은 사람 앞에서는 목소리가 나오지 않아요.",
+       "정해 둔 방식이나 순서, 물건을 두는 자리가 바뀌면 몹시 불안해져요.",
+       "소리나 빛, 냄새 같은 것이 너무 강하게 느껴져서, 사람이 많은 곳이 힘들어요.",
+       "다른 사람의 말이 잘 들리지 않거나 기분이 가라앉아서, 사람을 만나는 것도 이야기하는 것도 힘들어졌어요."
+      ],
+      "asks": [
+       "천천히, 또렷하게 말해 주시면 좋겠어요.",
+       "중요한 내용은 글로 써서 전해 주시면 좋겠어요.",
+       "조용한 곳에서 이야기하게 해 주시면 좋겠어요.",
+       "일정이나 방식을 바꿀 때는 미리 알려 주시면 좋겠어요.",
+       "대답을 재촉하지 말고 기다려 주시면 좋겠어요.",
+       "말하는 대신 글이나 메모로 대답하게 해 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "난청(귀가 잘 안 들림)",
+        "why": "사람들과 멀어지고 기분이 가라앉거나 자신감이 줄어드는 일이, 잘 들리지 않아 대화가 힘들어지는 데서 오기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "노인성 난청",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5489",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "우울증에서는 사람과의 관계나 학교·직장 생활처럼 날마다 해 나가야 하는 일이 몹시 힘들어진다고 쓰여 있어요. 다른 사람과 멀어지고 고립된 느낌이 드는 일도 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "강박장애(강박증)",
+        "why": "균형이 맞아야 한다거나 정확해야 한다는 마음과 그와 관련된 행동이, 강박증의 여러 모습 가운데 하나로 쓰여 있어요. 이런 행동을 되풀이하게 되는 까닭으로, 행동을 멈추면 불안이 되살아나는 일을 들고 있어요.",
+        "src": {
+         "org": "국립부곡병원",
+         "title": "강박증",
+         "url": "https://www.bgnmh.go.kr/menu.es?mid=a10205030000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "자폐스펙트럼장애",
+        "why": "행동이나 관심, 하는 일의 폭이 좁고 같은 것이 되풀이되는 점과, 사람과 대화를 주고받고 관계를 맺는 데 어려움이 이어지는 점을 특징으로 들고 있어요.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "자폐스펙트럼장애",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_05_00_01",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "읽기, 쓰기, 계산이 어려워요",
+      "lead": "애를 써도 읽기, 쓰기, 숫자 다루기가 계속 어려워요.",
+      "scenes": [
+       "글을 읽는 데 다른 사람보다 시간이 오래 걸리고, 몇 번이고 다시 읽게 돼요.",
+       "읽어도 내용이 머리에 잘 들어오지 않아서, 서류나 안내문의 뜻을 이해하기 어려워요.",
+       "맞춤법이나 띄어쓰기를 자주 틀리고, 글자나 단어를 빠뜨리고 쓰는 일이 많아요.",
+       "글씨 모양이 고르지 않고, 쓰는 데 시간도 힘도 많이 들어요.",
+       "간단한 계산이나, 글로 설명된 계산 문제에서 막혀요.",
+       "말하고 듣는 것은 어렵지 않은데, 읽기·쓰기나 계산은 시간을 들여도 생각대로 잘 되지 않아요."
+      ],
+      "asks": [
+       "글은 큰 글씨와 넓은 줄 간격으로 보여 주시고, 어려운 한자어는 쉬운 말로 바꾸거나 풀어서 써 주시면 좋겠어요.",
+       "중요한 내용은 소리 내어 읽어 주시거나 말로 전해 주시면 좋겠어요.",
+       "손으로 쓰는 대신 컴퓨터나 스마트폰으로 입력하거나, 사진이나 녹음으로 남기게 해 주시면 좋겠어요.",
+       "계산할 때는 계산기를 쓰게 해 주시면 좋겠어요.",
+       "읽고 쓰고 계산하는 시간을 넉넉하게 주시면 좋겠어요.",
+       "한꺼번에 주는 양을 줄이고, 하나씩 건네 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "노안",
+        "why": "나이를 먹으면서 눈 속 수정체가 덜 유연해져, 가까운 것에 초점을 맞추기 힘들어지는 눈의 변화라고 쓰여 있어요. 읽을거리를 눈에서 멀찍이 떼어야 글자가 잘 보이는 일도 그런 모습의 하나로 들고 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "노안",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5226",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "저시력",
+        "why": "안경이나 렌즈를 쓰거나 약이나 수술을 거친 뒤에도 시력이 낮거나 보이는 범위가 좁은 채로 남는 상태라고 쓰여 있어요. 시야의 한가운데가 흐려지면 글자를 읽기가 힘들어진다고도 적혀 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "저시력",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5224",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "기분이 가라앉는 것과 함께, 집중하기가 어려워져서 글을 읽어도 머리에 남지 않는 일이 있다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "기분의 오르내림이 커요",
+      "lead": "기분이 크게 오르내리고, 자기 마음을 따라가기 어려워요.",
+      "scenes": [
+       "기분이 지나치게 들뜨는 때와, 가라앉아서 움직이지 못하는 때가 번갈아 와요.",
+       "거의 잠을 자지 않았는데도 기운이 넘쳐서 계속 움직이는 때가 있어요.",
+       "하고 싶은 일이 계속 떠올라서, 어느 것도 끝내지 못하고 하다 만 채로 남아요.",
+       "기분이 들떠서 나중에 곤란해질 만큼 돈을 써 버린 적이 있어요.",
+       "사소한 일에도 짜증이 나서 감정을 누르기 어려워요.",
+       "기분이 들떠서 했던 일 때문에 인간관계나 일에 영향이 있었던 적이 있어요."
+      ],
+      "asks": [
+       "기분이 많이 들떠 있던 때의 이야기도 함께 물어봐 주시면 좋겠어요.",
+       "기분이 오르내린 일을 시간을 들여 함께 돌아봐 주시면 좋겠어요.",
+       "돈이나 일에 관한 큰 결정을 하기 전에, 잠시 멈추고 생각해 보라고 말해 주시면 좋겠어요.",
+       "수면이나 약, 술 이야기도 포함해서 몸에 원인이 있는지도 함께 확인해 주시면 좋겠어요.",
+       "제가 평소와 달라 보이면, 탓하지 말고 알려 주시면 좋겠어요.",
+       "기운이 날 때도 가라앉아 있을 때도, 이야기를 끝까지 들어 주시면 좋겠어요."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "갑상선기능항진증",
+        "why": "갑상선에서 호르몬이 너무 많이 나올 때 보이는 모습은 불안 발작이나 조증 같은 병과 비슷한 데가 많다고 쓰여 있어요. 그래서 몸에 원인이 있는데도 기분의 문제처럼 보이기도 해요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "갱년기",
+        "why": "갱년기에 나타나는 우울에는 불안과 함께 기분이 크게 오르내리는 변화도 있다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "술(음주)의 영향",
+        "why": "우울함이나 불안, 잠 못 드는 괴로움이 술을 마시면 가시고 기분도 좋아지는 경험이 이어지면서 술에 기대게 된다고 쓰여 있어요. 지나치게 마시면 잠이 어려워지고 우울한 기분과도 관련이 있다고 적혀 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "월경전 불쾌장애(PMDD)",
+        "why": "월경이 다가올 때마다 기운이 빠지고 일상의 일에 흥미가 줄거나, 마음이 불안해지고 화가 나기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "우울증",
+        "why": "우울증에서도 사람에 따라 쉽게 화가 터지거나, 불안하고 초조해지는 등 예민한 반응이 나타나기도 한다고 쓰여 있어요.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "양극성장애(조울증)",
+        "why": "생각과 행동, 기운과 기분이 크게 바뀌는 것이 특징이고, 기분이 높이 올라간 때와 깊이 가라앉은 때를 오간다고 쓰여 있어요. 기분이 높은 때에는 지칠 줄 모르고 잠을 덜 원하게 되거나, 생각이 쉴 새 없이 내달리는 느낌이 든다고 적혀 있어요.",
+        "src": {
+         "org": "국립부곡병원",
+         "title": "양극성장애",
+         "url": "https://www.bgnmh.go.kr/menu.es?mid=a10202020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "kohosp",
+       "komhc"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "이름을 알고 나면, 평소의 작은 흔들림이 병처럼 보이기 쉬워질 때가 있어요",
+       "body": "병이나 발달에 관한 이름을 알고 나면, 평소의 가벼운 피곤함이나 멍한 순간이 병의 모습처럼 보이기 쉬워질 때가 있어요.\n\n마음의 움직임이 몸과 기분을 바꾸는 것은 기분 탓이 아니라 실제로 일어나는 일이에요. 하지만 잠이 모자라거나, 스트레스를 받거나, 스마트폰을 오래 보거나, 주변 사정이 있을 때도 비슷한 일이 일어나요.\n\n이름을 보고 ‘내 이야기 같아’ 하는 생각이 들어도, 그것만으로 정하지 말고 다른 이유도 함께 생각해 보세요. 어려움이 이어질 때는 이름이 없어도 그대로 상담해도 괜찮아요.",
+       "srcs": []
+      },
+      {
+       "h": "기분이 가라앉는 때는 누구에게나 있어요",
+       "body": "질병관리청 국가건강정보포털은 이렇게 써요: “일시적인 우울감은 때때로 누구나 겪습니다.”\n\n보건복지부와 국립정신건강센터가 2024년에 내놓은 정신건강 광고 ‘마주해요’에도, 정신적 어려움은 누구나 언제든 겪을 수 있다는 메시지가 담겨 있어요.\n\n하지만 이름(진단명)은 어려움이 얼마나 이어지는지, 생활에 얼마나 지장이 있는지 등을 보고 의사가 판단해요.\n\n어려움이 이어질 때는, 이름이 있든 없든 그대로 상담해도 괜찮아요.",
+       "srcs": [
+        {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "quote",
+         "upd": "none"
+        },
+        {
+         "org": "보건복지부",
+         "title": "보건복지부·국립정신건강센터, 정신건강 인식개선 광고 ‘마주해요’ 공개",
+         "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1483558",
+         "kind": "summary",
+         "upd": "2024-11-05"
+        }
+       ]
+      },
+      {
+       "h": "병명이 없어도 상담할 수 있어요",
+       "body": "병명이 없어도, 어려운 일은 그대로 상담할 수 있어요. 보건복지부는 어려움을 겪는 누구나 주저하지 말고 129 상담 전화를 이용해 달라고 전하고 있어요.\n\n사는 곳의 시·군·구 정신건강복지센터는 지역 주민을 대상으로 해요. 병명이 있어야 한다는 조건은 쓰여 있지 않아요. 정신건강복지법은 우울·불안·외로움처럼 정신건강이 나빠질까 걱정되는 문제도 ‘정신건강상 문제’에 넣고 있어요.\n\n술, 도박, 인터넷 등으로 어려움을 겪을 때는 사는 지역의 중독관리통합지원센터에서도 상담할 수 있어요. 전화 상담이나 센터 방문으로 이용할 수 있다고 쓰여 있어요.\n\n「장애인차별금지 및 권리구제 등에 관한 법률」이 말하는 장애는 신체적·정신적 손상이나 기능상실이 오랫동안 일상이나 사회생활에 상당한 제약을 가져오는 상태예요. 장애인 등록은 그 정의에 들어 있지 않아요. 국가인권위원회의 장애인차별시정위원회도 2024년의 한 결정에서, 장애인복지법에 등록된 장애인이 아닌 사람을 이 법의 장애인으로 보았어요.\n\n이 법은 정당한 사유 없이 ‘정당한 편의’ 제공을 거부하는 것을 차별이라고 정하고 있어요. 학교는 재학 중인 장애인이 요청한 편의 제공을 정당한 사유 없이 거절해서는 안 된다고 쓰여 있어요. 일터에서는 법령이 정한 규모의 사업장에 이 의무가 적용돼요.\n\n건강에 관한 정보는 개인정보 보호법이 처리를 제한하는 ‘민감정보’예요. 회사가 이 정보를 처리하려면 따로 동의를 받거나 법령의 근거가 있어야 해요. 채용 전에 장애가 있는지 알아보기 위한 의학적 검사는 법으로 금지되어 있어요. 채용할 때 병력을 이유로 합리적인 이유 없이 차별해서는 안 된다는 법도 있어요.\n\n무엇을 도와주면 좋을지, 어디까지 할 수 있을지는 상황과 상대의 사정에 따라 다르니까, 함께 이야기하며 정해 가요.",
+       "srcs": [
+        {
+         "org": "보건복지부",
+         "title": "힘들때 129, 막막할 때 129, 추석연휴에도 129 보건복지상담센터 24시간 운영",
+         "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492014",
+         "kind": "summary",
+         "upd": "2026-09-18"
+        },
+        {
+         "org": "보건복지부",
+         "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+         "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+         "kind": "fact",
+         "upd": "2025-08-19"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률 제11조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=285345&chrClsCd=010202&urlMode=lsInfoR&efYd=20261008&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "보건복지부",
+         "title": "중독관리통합지원센터 운영 및 현황",
+         "url": "https://www.mohw.go.kr/menu.es?mid=a10706040400",
+         "kind": "fact",
+         "upd": "2026-03-06"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인차별금지 및 권리구제 등에 관한 법률 제2조·제4조·제11조·제12조·제13조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=279699&chrClsCd=010202&urlMode=lsInfoR&efYd=20251111&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2025-11-11"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인차별금지 및 권리구제 등에 관한 법률 시행령 제6조·별표 1",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=290475&chrClsCd=010202&urlMode=lsInfoR&efYd=20261002&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-10-02"
+        },
+        {
+         "org": "국가인권위원회",
+         "title": "교정시설의 장애인 수용자에 대한 피의자 조사 시 조력받을 권리 보장해야",
+         "url": "https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7610242&menuLevel=3&menuNo=91",
+         "kind": "fact",
+         "upd": "2024-05-20"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "개인정보 보호법 제23조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=283839&chrClsCd=010202&urlMode=lsInfoR&efYd=20260911&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-09-11"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "고용정책 기본법 제7조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=276847&chrClsCd=010202&urlMode=lsInfoR&efYd=20260102&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-01-02"
+        }
+       ]
+      },
+      {
+       "h": "다만, 제도를 이용하려면 서류가 필요할 때가 있어요",
+       "body": "제도를 이용하려면 의사의 진단서 같은 서류가 필요할 때가 있어요. 무엇이 필요한지는 제도마다 달라요.\n\n치료비 지원을 받으려면 정신건강의학과 전문의의 진단이 필요하고, 소득이나 재산 등의 기준도 있어요.\n\n장애인 등록을 신청하면 장애 상태를 확인하는 서류가 필요하고, 시·군·구가 장애의 종류에 맞는 전문의가 있는 의료기관에 장애 진단을 맡기기도 해요. 더 정밀한 심사가 필요하면 국민연금공단에 심사를 맡기고, 이때는 동의를 받아 진료기록을 열람하기도 해요. 정신장애는 일정 기간 이상 꾸준히 진료를 받은 뒤에 장애를 진단한다고 쓰여 있어요.\n\n일 때문에 생긴 병이나 부상으로 산재 요양급여를 신청할 때는 재해에 대한 의학적 소견을 적은 서류가 필요해요. 일과 관계없는 병으로 쉴 때의 규칙은 일하는 곳의 규칙(취업규칙 등)에 따라 달라요.\n\n일을 돕는 제도 중에는 장애인등록증 같은 자료로 대상인지 확인하는 것이 있어요.\n\n대학에는 장애학생지원센터가 있어요. 작은 대학은 담당 부서가 그 역할을 하기도 해요. 법은 대학이 지원 내용을 학칙에 쓰도록 하고 있고, 어떤 증빙이 필요한지는 대학마다 달라요.\n\n신청하기 전에 창구에서 무엇이 필요한지 물어보세요.",
+       "srcs": [
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률 시행령 제5조의2",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=287177&chrClsCd=010202&urlMode=lsInfoR&efYd=20260701&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-07-01"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인복지법 시행규칙 제3조·제3조의2",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=282417&chrClsCd=010202&urlMode=lsInfoR&efYd=20260701&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-07-01"
+        },
+        {
+         "org": "국민연금공단",
+         "title": "장애유형별 장애진단 시기",
+         "url": "https://nps.or.kr/das/ttm/getOHAO0024M0.do",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "산업재해보상보험법 제37조·제41조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=283459&chrClsCd=010202&urlMode=lsInfoR&efYd=20260701&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-07-01"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "근로기준법 제93조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=285279&chrClsCd=010202&urlMode=lsInfoR&efYd=20261008&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인고용촉진 및 직업재활법 시행령 제3조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=285611&chrClsCd=010202&urlMode=lsInfoR&efYd=20260512&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-05-12"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인 등에 대한 특수교육법 제30조·제32조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=276191&chrClsCd=010202&urlMode=lsInfoR&efYd=20251001&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2025-10-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "병명은, 다른 사람보다 위에 서기 위한 도구가 아니에요",
+       "body": "병명은 다른 사람보다 위에 서거나 사람을 낮춰 보기 위한 도구가 아니에요.\n이름을 알고 마음이 편해지는 사람도 있어요. 그것은 소중한 일이에요.\n주변 사람이 이해해 주면 좋겠고, 다정하게 대해 주면 좋겠다고 생각하는 것도 자연스러운 일이에요.\n\n다정하게 대해 주기를 바랄 때는, 병명을 말하지 않아도 그대로 부탁해도 괜찮아요.\n‘무엇이 어려운지’와 ‘무엇을 해 주면 좋은지’를 함께 말하면 더 잘 전해져요.\n\n예를 들면 이런 말이 있어요.\n‘오늘은 많이 피곤해서, 천천히 말해 주시면 좋겠어요.’\n‘한꺼번에 여러 가지를 들으면 헷갈려서, 하나씩 말해 주시면 좋겠어요.’\n‘귀로만 들으면 기억하기 어려워서, 중요한 내용은 종이나 메일로 써 주시면 좋겠어요.’\n‘사람이 많은 곳은 힘들어서, 조용한 곳에서 이야기하고 싶어요.’\n‘대답하는 데 시간이 걸려서, 조금 기다려 주시면 좋겠어요.’\n‘지금은 마음이 가득 차 있어서, 먼저 이야기를 들어 주시면 좋겠어요. 조언은 나중에 들어도 괜찮아요.’\n‘오늘은 컨디션이 안 좋아서, 조금 쉬게 해 주시면 좋겠어요.’\n‘갑자기 일정이 바뀌면 당황해서, 미리 알려 주시면 좋겠어요.’\n‘큰 소리로 말하면 무서워져서, 차분하게 말해 주시면 좋겠어요.’\n\n잘 말하지 못할 때는 종이에 써서 건네도 괜찮아요. 이 앱에서 힘든 점이 있는 묶음을 고르고 질문에 답하면 나오는 ‘제가 힘든 점’ 화면을 ‘크게 보기’로 보여 줄 수도 있어요.\n병명을 전하고 싶을 때는 전해도 괜찮아요. 그때도 병명과 함께 ‘무엇이 어려운지’와 ‘무엇을 해 주면 좋은지’를 전하면, 상대가 움직이기 쉬워져요.\n부탁해도 상대의 사정으로 해 주기 어려운 일도 있어요. 그럴 때는 다른 방법이 없는지 함께 이야기해 보세요.\n\n일터에서도 같은 방식으로 부탁할 수 있어요. ‘지시를 여러 개 한꺼번에 따르기가 어려워서, 종이로 전해 주시면 좋겠어요.’\n\n이 앱의 이름 목록을 주변 사람을 의심하는 데 쓰지 말아 주세요.",
+       "srcs": []
+      },
+      {
+       "h": "이 앱에 대하여",
+       "body": "이것은 진단이 아니에요. 이 목록에 있다고 해서 ‘진단을 받았다’고 말할 수는 없어요. 이 앱은 의료기기가 아니어서 병이 있는지 판단할 수 없고, 병이 있는지는 의사의 진찰로 판단해요. 상담이나 진료를 대신하지도 않아요.\n\n답한 내용은 어디로도 보내지 않고 이 기기에도 저장하지 않아요. 앱을 닫으면 지워져요.\n\n독립 앱이에요. SOYOGI는 일본의 비영리 임의단체예요. 이 앱은 대한민국 정부와 부처, 질병관리청, 식품의약품안전처, 지방자치단체, 정신건강복지센터를 비롯한 공공기관, 전문가 단체, 어떤 의료기관과도 관계가 없어요. 이들 기관이 이 앱을 추천하거나 지원하지 않아요. 여기에 적힌 내용이 곧 어느 기관의 의견이라는 뜻도 아니에요. 기관의 이름은 정보의 출처를 밝히기 위해서만 적었어요. 원래의 글은 각 기관의 누리집에서 무료로 읽을 수 있어요.\n\nSOYOGI가 대한민국의 공개된 페이지를 바탕으로 자기 말로 썼어요. 자료의 문장을 한 글자도 바꾸지 않고 옮긴 곳은 “…”로 묶었어요. 출처는 각 화면에 적었고, 페이지에 날짜가 보이는 경우에는 그 날짜도 함께 적었어요. 확인한 날은 2026-10-29이고, 번호나 시간은 바뀌기도 해요.\n\n상담을 할지는 앱이 아니라 본인이 정해요.",
+       "srcs": [
+        {
+         "org": "식품의약품안전처",
+         "title": "의료기기와 개인용 건강관리제품(웰니스) 판단기준",
+         "url": "https://www.mfds.go.kr/brd/m_1059/view.do?seq=15229",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       ]
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "보건복지부는 ‘힘들땐 129’라는 말과 함께, 어려움을 겪는 누구나 주저하지 말고 상담 전화를 이용해 달라고 전하고 있어요.",
+      "src": {
+       "org": "보건복지부",
+       "title": "힘들때 129, 막막할 때 129, 추석연휴에도 129 보건복지상담센터 24시간 운영",
+       "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492014",
+       "kind": "summary",
+       "upd": "2026-09-18"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "혼자 안고 있지 말고, 사는 곳의 시·군·구 정신건강복지센터에 물어볼 수 있어요. 센터는 지역 주민을 대상으로 해요.",
+       "src": {
+        "org": "보건복지부",
+        "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+        "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+        "kind": "fact",
+        "upd": "2025-08-19"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "이름(진단명)은 의사가 진료를 통해 판단해요. 같은 어려움이라도 원인은 여러 가지예요. 질병관리청은 우울증에 대해 이렇게 써요:",
+      "text": "“우울증의 발생에는 신경생물학적 요인, 심리사회적 요인, 암이나 갑상선 질환과 같은 신체질환에 의한 요인 등 다양한 원인이 작용할 수 있습니다.”",
+      "src": {
+       "org": "질병관리청 국가건강정보포털",
+       "title": "우울감",
+       "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
        "kind": "quote",
        "upd": "none"
       }

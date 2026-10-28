@@ -13,7 +13,7 @@
 var ja = {
   app: { name:'困りごとから相談へ・そよぎ', short:'困りごとから相談へ', tagline:'困りごとを言葉にして、相談の一歩へ。' },
   nav: { home:'えらぶ', names:'名前の てびき', madoguchi:'相談先', learn:'知って おきたい こと', set:'せってい' },
-  langName: { ja:'日本語', en:'英語', fr:'フランス語', de:'ドイツ語', es:'スペイン語', nl:'オランダ語' },   // 「〇〇で 見せる」のことばの名前
+  langName: { ja:'日本語', en:'英語', fr:'フランス語', de:'ドイツ語', es:'スペイン語', nl:'オランダ語', ko:'韓国語' },   // 「〇〇で 見せる」のことばの名前
   common: {
     ok:'OK', cancel:'やめる', save:'ほぞんする', del:'けす', back:'もどる', close:'とじる',
     yes:'はい', no:'いいえ', add:'ついか', edit:'なおす', next:'つぎ', prev:'まえ', done:'できた',
@@ -183,7 +183,7 @@ var ja = {
 var en = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Put your worries into words, and take a step toward help.' },
   nav: { home:'Choose', names:'Names guide', madoguchi:'Where to ask', learn:'Good to know', set:'Settings' },
-  langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish', nl:'Dutch' },   // language names for "Show in ..."
+  langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish', nl:'Dutch', ko:'Korean' },   // language names for "Show in ..."
   common: {
     ok:'OK', cancel:'Cancel', save:'Save', del:'Delete', back:'Back', close:'Close',
     yes:'Yes', no:'No', add:'Add', edit:'Edit', next:'Next', prev:'Previous', done:'Done',
@@ -349,7 +349,7 @@ var en = {
 var fr = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Mettre vos soucis en mots, et faire un pas vers l’aide.' },
   nav: { home:'Choisir', names:'Guide des noms', madoguchi:'Où demander', learn:'Bon à savoir', set:'Réglages' },
-  langName: { ja:'japonais', en:'anglais', fr:'français', de:'allemand', es:'espagnol', nl:'néerlandais' },   // « Afficher en ... »
+  langName: { ja:'japonais', en:'anglais', fr:'français', de:'allemand', es:'espagnol', nl:'néerlandais', ko:'coréen' },   // « Afficher en ... »
   common: {
     ok:'OK', cancel:'Annuler', save:'Enregistrer', del:'Supprimer', back:'Retour', close:'Fermer',
     yes:'Oui', no:'Non', add:'Ajouter', edit:'Modifier', next:'Suivant', prev:'Précédent', done:'Terminé',
@@ -517,7 +517,7 @@ var de = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Sorgen in Worte fassen und einen Schritt zur Hilfe gehen.' },
   /* 下のナビは 375px で1つ 75px ほど。長い語は SHY(やわらかいハイフン・折れたときだけ「-」が出る)で折る(hyphens:auto はドイツ語の辞書が無い端末で効かない) */
   nav: { home:'Auswählen', names:'Namens' + SHY + 'übersicht', madoguchi:'Anlauf' + SHY + 'stellen', learn:'Gut zu wissen', set:'Einstel' + SHY + 'lungen' },
-  langName: { ja:'Japanisch', en:'Englisch', fr:'Französisch', de:'Deutsch', es:'Spanisch', nl:'Niederländisch' },   // „Auf ... anzeigen“
+  langName: { ja:'Japanisch', en:'Englisch', fr:'Französisch', de:'Deutsch', es:'Spanisch', nl:'Niederländisch', ko:'Koreanisch' },   // „Auf ... anzeigen“
   common: {
     ok:'OK', cancel:'Abbrechen', save:'Speichern', del:'Löschen', back:'Zurück', close:'Schließen',
     yes:'Ja', no:'Nein', add:'Hinzufügen', edit:'Ändern', next:'Weiter', prev:'Vorherige', done:'Fertig',
@@ -683,7 +683,7 @@ var de = {
 var es = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Poner en palabras lo que te preocupa y dar un paso hacia la ayuda.' },
   nav: { home:'Elegir', names:'Guía de nombres', madoguchi:'Dónde consultar', learn:'Conviene saber', set:'Ajustes' },
-  langName: { ja:'japonés', en:'inglés', fr:'francés', de:'alemán', es:'español', nl:'neerlandés' },   // «Mostrar en ...»
+  langName: { ja:'japonés', en:'inglés', fr:'francés', de:'alemán', es:'español', nl:'neerlandés', ko:'coreano' },   // «Mostrar en ...»
   common: {
     ok:'OK', cancel:'Cancelar', save:'Guardar', del:'Borrar', back:'Atrás', close:'Cerrar',
     yes:'Sí', no:'No', add:'Añadir', edit:'Cambiar', next:'Siguiente', prev:'Anterior', done:'Listo',
@@ -850,7 +850,7 @@ var es = {
 var nl = {
   app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Zet in woorden waar je mee zit, en zet een stap naar hulp.' },
   nav: { home:'Kiezen', names:'Namen' + SHY + 'wijzer', madoguchi:'Hulp vinden', learn:'Goed om te weten', set:'Instel' + SHY + 'lingen' },
-  langName: { ja:'Japans', en:'Engels', fr:'Frans', de:'Duits', es:'Spaans', nl:'Nederlands' },   // ‘Tonen in het ...’
+  langName: { ja:'Japans', en:'Engels', fr:'Frans', de:'Duits', es:'Spaans', nl:'Nederlands', ko:'Koreaans' },   // ‘Tonen in het ...’
   common: {
     ok:'OK', cancel:'Annuleren', save:'Bewaren', del:'Wissen', back:'Terug', close:'Sluiten',
     yes:'Ja', no:'Nee', add:'Toevoegen', edit:'Wijzigen', next:'Volgende', prev:'Vorige', done:'Klaar',
@@ -1012,6 +1012,173 @@ var nl = {
   }
 };
 
+/* ============ ko(2026-10-28 多国籍版・韓国の国と合わせて足す。アプリの正式名は英語名のまま。アプリの自分の文は全部 해요체(SPEC_V1 15-1・K00 A08)。
+   主語は省き「당신」「여러분」は使わない。カードの1人称は「저・제」。引用符は ‘…’。使わない語は _check.js の BAN_KO(K00 第7章 7-2)で見る ============ */
+var ko = {
+  app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'어려움을 말로 정리하고, 상담으로 한 걸음 나아가요.' },
+  nav: { home:'고르기', names:'이름 안내', madoguchi:'상담 창구', learn:'알아 두기', set:'설정' },
+  langName: { ja:'일본어', en:'영어', fr:'프랑스어', de:'독일어', es:'스페인어', nl:'네덜란드어', ko:'한국어' },   // ‘…로 보기’(どれも 어 で終わるので 로)
+  common: {
+    ok:'확인', cancel:'취소', save:'저장', del:'지우기', back:'뒤로', close:'닫기',
+    yes:'예', no:'아니요', add:'추가', edit:'고치기', next:'다음', prev:'이전', done:'완료',
+    saved:'저장했어요 ✓', saveFail:'저장하지 못했어요', storageFull:'저장 공간이 모자라서 저장하지 못했어요',
+    deleted:'지웠어요', delConfirm:'정말 지울까요?', empty:'아직 없어요',
+    optional:'다 쓰지 않아도 괜찮아요.', today:'오늘',
+    photo: {
+      camera:'사진 찍기', roll:'사진 고르기',
+      cropTitle:'사진 자르기', cropHint:'손가락이나 화살표로 사진을 옮기고, 슬라이더로 크기를 바꿀 수 있어요.',
+      zoom:'크기', panUp:'위로', panDown:'아래로', panLeft:'왼쪽으로', panRight:'오른쪽으로',
+      make:'이걸로 할게요', fail:'사진을 불러오지 못했어요'
+    }
+  },
+  set: {
+    hNormal:'기본 설정',
+    hBackup:'다른 휴대폰으로 옮기기(백업)',
+    fs:'글자 크기', fsSizes:['보통','크게','아주 크게'],
+    lang:'ことば / Language',
+    theme:'색', themes:['초록','하늘색','흰색','검정'],
+    bgm:'음악', bgms:['없음','초록 소리','파란 소리'],
+    sound:'누를 때 소리', on:'켜기', off:'끄기',
+    country:'나라', countryPick:'나라를 골라 주세요',
+    bkHint:'다른 휴대폰으로 옮길 때는 ‘내보내기’를 눌러 파일을 저장하고, 새 휴대폰에서 ‘가져오기’를 눌러 주세요.',
+    bkExport:'내보내기', bkImport:'가져오기',
+    exported:'내보냈어요 ✓', imported:'가져왔어요 ✓', importFail:'가져오지 못했어요',
+    note:'답한 내용과 쓴 글은 저장하지 않아요(앱을 닫거나 처음 화면으로 돌아가면 사라져요). 저장하는 것은 설정뿐이에요. 어디에도 보내지 않아요.',
+    privacy:'개인정보 처리방침',
+    credit:'개발: 돌봄과 지원의 상담 공간 SOYOGI'
+  },
+  guide: {
+    title:'사용 방법', step:'{n} / {m}', start:'알겠어요', again:'다시 보기',
+    countryNote:'이 앱은 고른 나라의 정부와 공공기관 페이지에 있는 상담 창구와 정보를 보여 줘요. 고른 언어와 나라는 이 기기에만 남아요. 나중에 ‘설정’에서 바꿀 수 있어요.',
+    countryNeed:'먼저 나라를 골라 주세요',
+    heads:[
+      '이 앱으로 할 수 있는 것',
+      '이것은 진단이 아니에요',
+      '답한 내용은 저장하지 않아요',
+      '사라지고 싶을 만큼 힘들 때'
+    ],
+    bodies:[
+      '어려움을 말로 정리하고, 상담할 수 있는 곳과 상담할 때 함께 확인하는 경우가 있는 이름을 볼 수 있어요.\n처음 화면에서 지금 겪는 일과 가장 가까운 것을 골라 주세요. 그다음에 질문이 하나씩 나와요.',
+      '여기에 이름이 나와도 ‘진단’을 받았다는 뜻이 아니에요.\n병명이 없어도 지금 겪는 어려움을 있는 그대로 상담할 수 있어요.',
+      '답한 내용은 어디에도 보내지 않고, 이 기기에도 저장하지 않아요(앱을 닫거나 처음 화면으로 돌아가면 사라져요).\n언어와 글자 크기 같은 설정만 저장해요.',
+      '처음 화면 맨 위의 버튼을 누르면 밤낮없이 연락할 수 있는 곳을 볼 수 있어요.'
+    ]
+  },
+  screen: {
+    ui: {
+      src:'{org}, ‘{title}’ {url} ({date} 확인)',
+      edited:', SOYOGI가 고쳐 씀',
+      editedTr:', SOYOGI가 고쳐 쓰고 번역함',
+      ref:', 이 페이지를 참고하여 SOYOGI가 작성',
+      quoted:', SOYOGI의 번역으로 인용',
+      quotedSame:', 원문 그대로 인용',
+      upd:' (페이지 업데이트 {upd})',
+      updNone:' (페이지에 업데이트 날짜 표시 없음)',
+      copy:'복사', copied:'복사했어요', copyFail:'복사하지 못했어요',
+      close:'닫기',
+      call:'{tel}에 전화하기',
+      text:'{tel}에 문자 보내기',
+      checked:'{date}에 확인했어요. 번호나 시간은 바뀔 수 있어요.',
+      soon:'준비 중',
+      crisisBtn:'사라지고 싶을 만큼 힘들어요',
+      crisisHead:'지금 너무 힘들 때',
+      countryHead:'{country}의 상담 창구'
+    },
+    home: {
+      title:'고르기',
+      lead:'지금 겪는 어려움과 가장 가까운 것을 골라 주세요.',
+      other:'여기에 없는 어려움이라도 있는 그대로 상담할 수 있어요.',
+      labels:{
+        mood:'기분이 가라앉고 기운이 없어요',
+        anxiety:'걱정이나 긴장이 커요',
+        repeat:'확인하거나 되풀이하는 것을 멈추기 어려워요',
+        after:'힘든 일을 겪은 뒤로 계속 마음에 걸려요',
+        sleep:'잠에 어려움이 있어요',
+        eating:'먹는 것에 어려움이 있어요',
+        habit:'술·도박·게임을 멈추기 어려워요',
+        attention:'주의를 기울이거나 계획하기 어려워요',
+        social:'사람과의 관계, 늘 같은 방식, 감각에 어려움이 있어요',
+        reading:'읽기, 쓰기, 계산이 어려워요',
+        wave:'기분의 오르내림이 커요'
+      }
+    },
+    flow: {
+      step:'{n} / {m}', close:'닫기', back:'뒤로', next:'다음',
+      ownPh:'직접 써 주세요(원하면 한 줄)',
+      linePh:'한 줄(원하면)',
+      optional:'쓰지 않아도 괜찮아요.',
+      qScenes:'자주 있는 일을 골라 주세요(여러 개 골라도 돼요)',
+      qRecent:'마지막으로 그런 일이 있었던 때는 언제예요?',
+      qRecentNo:'그렇지 않았던 때는 언제예요?',
+      qSince:'언제부터예요?',
+      since:{
+        w2:'최근 1~2주', m1:'한 달쯤', m6:'반년쯤', y1:'1년 넘게',
+        small:'어릴 때부터', school:'학교에 다닐 때도 있었어요', unknown:'모르겠어요'
+      },
+      qSpread:'어디에서 일어나요?',
+      spread:{ one:'한 곳에서만', many:'여러 곳에서(집, 학교, 일터, 밖)', unknown:'모르겠어요' },
+      qDegree:'얼마나 힘들어요?',
+      degree:{ bit:'조금', much:'꽤', very:'아주 많이(일상생활이 어려워요)', effort:'애써서 겨우 버티고 있어요' },
+      qAsks:'상담하는 사람에게 바라는 것이 있나요? (여러 개 골라도 돼요)',
+      qOthers:'주변 사람에게서 평소와 다르다거나 힘들어 보인다는 말을 들은 적이 있나요?',
+      others:{ yes:'예', no:'아니요', unknown:'모르겠어요' },
+      gone:'처음 화면에서 다시 골라 주세요.',
+      toHome:'처음 화면으로'
+    },
+    result: {
+      r1Head:'제가 힘든 점',
+      card:{
+        trouble:'힘든 점', recent:'마지막으로 있었던 때', recentNo:'그렇지 않았던 때', since:'언제부터',
+        spread:'어디에서', degree:'얼마나 힘든지', others:'주변 사람에게서 들은 말', asks:'바라는 것'
+      },
+      cardSince:{
+        w2:'최근 1~2주', m1:'한 달쯤', m6:'반년쯤', y1:'1년 넘게',
+        small:'어릴 때부터', school:'학교에 다닐 때도 있었어요', unknown:'모르겠어요'
+      },
+      cardSpread:{ one:'한 곳에서만', many:'여러 곳에서(집, 학교, 일터, 밖)', unknown:'모르겠어요' },
+      cardDegree:{ bit:'조금', much:'꽤', very:'아주 많이(일상생활이 어려워요)', effort:'애써서 겨우 버티고 있어요' },
+      cardOthers:{ yes:'주변 사람에게서 평소와 다르다거나 힘들어 보인다는 말을 들었어요', no:'그런 말을 들은 적은 없어요', unknown:'모르겠어요' },
+      empty:'아직 아무것도 고르지 않았어요.',
+      copy:'복사', show:'크게 보기',
+      copied:'복사했어요. 다른 앱에 붙여 넣었다면 여기서는 지워도 돼요.',
+      noName:'병명이 없어도, 여기에 적힌 그대로 지금 겪는 일을 이야기할 수 있어요.',
+      mainLang:'{lang}로 보기',
+      backLang:'원래 언어로 돌아가기',
+      junbi:'‘상담과 진료 전에’로 준비하기(힘든 점 메모, 지금까지의 흐름, 예전 서류)',
+      back:'뒤로', next:'다음', prev:'이전', home:'처음 화면으로',
+      r2Head:'상담 창구',
+      meyasuHead:'상담해 볼 수 있는 때(정부·공공기관의 글)',
+      generalHead:'정부·공공기관 페이지에서',
+      yourAns:'고른 답',
+      ansSince:'언제부터: {v}', ansDegree:'얼마나 힘든지: {v}', notChosen:'고르지 않음',
+      same:'글이 지금 겪는 일과 비슷하면 상담할 수 있어요. 잘 모르겠을 때도, 힘든 일이 있다면 이야기해도 괜찮아요.',
+      winHead:'상담할 수 있는 곳',
+      toNames:'이름 목록 보기',
+      r3Head:'상담할 때 함께 확인하는 경우가 있는 이름',
+      toLearn:'읽기: ‘{h}’', toLearnNote:'배려를 부탁하는 말의 예도 있어요.'
+    },
+    names: {
+      title:'이름 안내',
+      lead:'묶음을 고르면 상담할 때 함께 확인하는 경우가 있는 이름 목록을 볼 수 있어요. 질문에 답하지 않아도 볼 수 있어요.',
+      back:'묶음 고르기로 돌아가기',
+      pre:'상담할 때 함께 확인하는 경우가 있는 이름이에요. 같은 어려움이라도 원인은 아주 여러 가지예요. 이 목록은 병이나 장애가 있는지 없는지를 말해 주지 않아요. 상담해도 이름이 붙지 않을 때도 있어요.',
+      howLead:'이름(진단명)이 붙는 방법에 대해 일본 국립정신·신경의료연구센터의 페이지는 이렇게 써요:',
+      notHere:'여기에 없는 이름도 있어요.',
+      noDoubt:'이 목록을 주변 사람을 의심하는 데 쓰지 말아 주세요.'
+    },
+    madoguchi: {
+      title:'상담 창구',
+      nowHead:'지금 너무 힘들 때(밤낮없이)',
+      dayHead:'낮에 상담하기'
+    },
+    learn: {
+      title:'알아 두면 좋은 것',
+      step:'{n} / {m}', prev:'이전', next:'다음',
+      srcHead:'출처', allSrcHead:'모든 출처'
+    }
+  }
+};
+
 /* フランス語は « と » の内側と、» : ; ? ! の前を改行しない空白にする(約物が行の端に離れて残らないように。data.js は _make_data.js の frTypo で同じことをする) */
 var NB = String.fromCharCode(160);
 (function nb(o){
@@ -1021,5 +1188,5 @@ var NB = String.fromCharCode(160);
   }
 })(fr);
 
-window.KOMARI_I18N = { ja: ja, en: en, fr: fr, de: de, es: es, nl: nl };
+window.KOMARI_I18N = { ja: ja, en: en, fr: fr, de: de, es: es, nl: nl, ko: ko };
 })();
