@@ -11692,7 +11692,8 @@ window.KOMARI_DATA = {
     "it": "Spagna"
    },
    "langs": [
-    "es"
+    "es",
+    "en"
    ],
    "main": "es",
    "fallback": "es",
@@ -11755,6 +11756,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Línea 024 de atención a la conducta suicida (suicide prevention line)",
+      "desc": "A helpline for people who have thoughts of suicide and for their relatives and others close to them. The 024 professionals listen to you and stay with you so that you can calm down; they can also recommend that you contact health services and, if they see an emergency, they pass the call to 112. It is confidential and can be called from anywhere in Spain. The 024 page also has a chat and access in sign language through video interpreting. If your life is in danger right now, you can call 112 directly.",
+      "hours": "24 hours a day, every day of the year. Free of charge.",
+      "src": {
+       "org": "Ministerio de Sanidad",
+       "title": "024. Línea de atención a la conducta suicida",
+       "url": "https://www.sanidad.gob.es/linea024/home.htm",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Ministerio de Sanidad",
       "title": "024. Línea de atención a la conducta suicida",
@@ -11773,6 +11786,18 @@ window.KOMARI_DATA = {
      "es": {
       "name": "112 (emergencias)",
       "desc": "En casos de urgente necesidad, el 112 sirve para pedir ayuda a los servicios de urgencias sanitarias, de bomberos y salvamento, y de seguridad ciudadana. La llamada es gratuita.",
+      "hours": "",
+      "src": {
+       "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+       "title": "Real Decreto 903/1997, de 16 de junio, por el que se regula el acceso, mediante redes de telecomunicaciones, al servicio de atención de llamadas de urgencia a través del número telefónico 112",
+       "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-14058",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "112 (emergency number)",
+      "desc": "In cases of urgent need, 112 is used to ask for help from the emergency health services, the fire and rescue services, and the public safety services. The call is free of charge.",
       "hours": "",
       "src": {
        "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
@@ -11809,6 +11834,18 @@ window.KOMARI_DATA = {
        "upd": "2025-06-06"
       }
      },
+     "en": {
+      "name": "If you cannot speak or cannot hear well: Servicio de Comunicación por Texto (SCT, text communication service)",
+      "desc": "For people who are deaf or have difficulties with speech. You write by chat or by email, and a person from the service speaks by voice with whoever you need to reach and passes the conversation back to you in writing. It has a specific chat for emergency services such as 112 and for 016. Before using it you have to register at www.svisual.org.",
+      "hours": "24 hours a day, every day of the year. Free of charge.",
+      "src": {
+       "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+       "title": "Derechos Sociales impulsa un nuevo servicio para que personas sordas o con dificultades en el habla puedan comunicarse",
+       "url": "https://www.dsca.gob.es/es/comunicacion/notas-prensa/derechos-sociales-impulsa-nuevo-servicio-personas-sordas-o-dificultades",
+       "kind": "fact",
+       "upd": "2025-06-06"
+      }
+     },
      "src": {
       "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
       "title": "Derechos Sociales impulsa un nuevo servicio para que personas sordas o con dificultades en el habla puedan comunicarse",
@@ -11828,6 +11865,18 @@ window.KOMARI_DATA = {
       "name": "016: atención a todas las formas de violencia contra las mujeres",
       "desc": "Información, asesoramiento jurídico y atención psicosocial inmediata para mujeres que viven violencia y para su entorno. Además del teléfono 016, puedes escribir por WhatsApp al 600 000 016 (solo mensajes, no llamadas), por el chat de violenciagenero.igualdad.gob.es o por correo a 016-online@igualdad.gob.es. Es gratuito y confidencial. Por teléfono te atienden en 53 idiomas. Las llamadas de emergencia se pasan al 112. En algunos modelos de móvil, las llamadas al 016 no quedan guardadas en el registro de llamadas; depende del modelo.",
       "hours": "Teléfono, chat y correo: las 24 horas, todos los días. Asesoramiento jurídico: de 8 a 22 h, todos los días.",
+      "src": {
+       "org": "Ministerio de Igualdad (Delegación del Gobierno contra la Violencia de Género)",
+       "title": "Teléfono 016 - 016 online - WhatsApp",
+       "url": "https://violenciagenero.igualdad.gob.es/informacion-3/recursos/telefono016/",
+       "kind": "summary",
+       "upd": "2024-05-29"
+      }
+     },
+     "en": {
+      "name": "016 (helpline for all forms of violence against women)",
+      "desc": "Information, legal advice and immediate psychosocial care for women who experience violence and for the people around them. Besides the 016 phone line, you can write on WhatsApp to 600 000 016 (messages only, no calls), through the chat at violenciagenero.igualdad.gob.es or by email to 016-online@igualdad.gob.es. It is free of charge and confidential. By phone, they answer in 53 languages. Emergency calls are passed to 112. On some phone models, calls to 016 are not saved in the call log; it depends on the model.",
+      "hours": "Phone, chat and email: 24 hours a day, every day. Legal advice: from 8 a.m. to 10 p.m., every day.",
       "src": {
        "org": "Ministerio de Igualdad (Delegación del Gobierno contra la Violencia de Género)",
        "title": "Teléfono 016 - 016 online - WhatsApp",
@@ -11863,6 +11912,18 @@ window.KOMARI_DATA = {
        "upd": "2026-07-31"
       }
      },
+     "en": {
+      "name": "Centro de salud (your local health center and family doctor)",
+      "desc": "Primary care is the first level of care in the public health system. Problems with anxiety, mood or adjustment are also seen there and, if needed, you are referred to mental health services. Each autonomous community decides how it is organized. You can show “My worries”. In the search tool of the Ministry of Health you can look for health centers by autonomous community and province.",
+      "hours": "Depends on the center.",
+      "src": {
+       "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+       "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización",
+       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+       "kind": "summary",
+       "upd": "2026-07-31"
+      }
+     },
      "src": {
       "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
       "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización",
@@ -11882,6 +11943,18 @@ window.KOMARI_DATA = {
       "name": "Centros de atención a las adicciones",
       "desc": "En este mapa del Ministerio de Sanidad puedes buscar centros de atención a las adicciones por comunidad autónoma y provincia, o por dirección, ciudad o código postal.",
       "hours": "Según el centro.",
+      "src": {
+       "org": "Ministerio de Sanidad",
+       "title": "Centros de Atención a las Adicciones",
+       "url": "https://mapas.sanidad.gob.es/mapascon/vermapa.jsf?idm=1&frame=yes",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Centros de atención a las adicciones (addiction care centers)",
+      "desc": "On this map from the Ministry of Health you can search for addiction care centers by autonomous community and province, or by address, city or postal code.",
+      "hours": "Depends on the center.",
       "src": {
        "org": "Ministerio de Sanidad",
        "title": "Centros de Atención a las Adicciones",
@@ -11917,6 +11990,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Servicios sociales (social services of your town or city council)",
+      "desc": "Public social services help people at especially hard times, for example when a person is left without a home or loses their income, or when there are addictions or gender-based violence. Your first point of contact is the primary care social services in your municipality. To find out which one is yours, ask at your town or city council.",
+      "hours": "Depends on the municipality.",
+      "src": {
+       "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+       "title": "Servicios Sociales",
+       "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
       "title": "Servicios Sociales",
@@ -11944,6 +12029,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Reconocimiento del grado de discapacidad (recognition of a degree of disability, through your autonomous community)",
+      "desc": "To have a degree of disability recognised, the person concerned submits an application to the body responsible in their autonomous community of residence (in Ceuta and Melilla, to the Imserso), with documents that prove their identity and their health situation. The degree recognised is valid throughout Spain.",
+      "hours": "",
+      "src": {
+       "org": "Instituto de Mayores y Servicios Sociales (Imserso)",
+       "title": "Grado de discapacidad",
+       "url": "https://imserso.es/autonomia-personal-dependencia/grado-de-discapacidad",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Instituto de Mayores y Servicios Sociales (Imserso)",
       "title": "Grado de discapacidad",
@@ -11962,6 +12059,18 @@ window.KOMARI_DATA = {
      "es": {
       "name": "Defensor del Pueblo",
       "desc": "Si crees que una administración (estatal, autonómica o local) o un servicio público ha vulnerado tus derechos, puedes presentar una queja. Puede acudir cualquier persona, española o extranjera, sea cual sea su edad o su situación legal en España. Es gratuito y no hace falta abogado. No se tramitan quejas anónimas. Si tienes alguna dificultad para presentar la queja, puedes llamar gratis desde España al 900 101 025.",
+      "hours": "",
+      "src": {
+       "org": "Defensor del Pueblo",
+       "title": "¿Cómo te podemos ayudar?",
+       "url": "https://www.defensordelpueblo.es/el-defensor/como-te-podemos-ayudar/",
+       "kind": "fact",
+       "upd": "2026-03-16"
+      }
+     },
+     "en": {
+      "name": "Defensor del Pueblo (the Ombudsman)",
+      "desc": "If you believe that an administration (national, regional or local) or a public service has violated your rights, you can submit a complaint. Anyone can turn to it, Spanish or foreign, whatever their age or legal situation in Spain. It is free of charge and you do not need a lawyer. Anonymous complaints are not processed. If you have any difficulty submitting the complaint, you can call free of charge from Spain on 900 101 025.",
       "hours": "",
       "src": {
        "org": "Defensor del Pueblo",
@@ -13256,6 +13365,1292 @@ window.KOMARI_DATA = {
      "namesHow": {
       "lead": "Sobre cómo se ponen los nombres (diagnósticos), una página pública de España explica:",
       "text": "Poner un nombre a lo que ocurre es tarea de un profesional de la salud, a partir de lo que cuentas en la consulta. Además, es importante que mire si alguna enfermedad del cuerpo puede estar detrás de molestias parecidas.",
+      "src": {
+       "org": "Comunidad de Madrid",
+       "title": "Depresión y conducta suicida",
+       "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+       "kind": "summary",
+       "upd": "2026-04-28"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood is low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home do not get done.",
+       "I blame myself for everything and always think the worst.",
+       "At night I cannot sleep, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what needs to be done, one thing at a time.",
+       "I need time to think; please do not pressure me to answer or to decide.",
+       "Please give me the important things in writing.",
+       "Before telling me “Cheer up!” or “Do your part”, please listen to me first.",
+       "Please do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses or medicines",
+        "why": "This page says that some cases of depression can be caused by a physical illness or by a medicine.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Hypothyroidism (for example, Hashimoto's thyroiditis)",
+        "why": "This page explains that when the thyroid makes fewer hormones, tiredness and depression, among other things, can appear.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Tiroiditis de Hashimoto",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/tiroiditis-hashimoto",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This guide explains that insomnia can come with mood changes, difficulty concentrating, and physical and mental tiredness.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Alcohol or other drugs",
+        "why": "According to this page, depression can get worse when a person drinks too much alcohol or takes other drugs.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that for some people, sad feelings last and come with other difficulties, such as negative thoughts, that make everyday life much harder. It adds that short, passing moments of sadness happen to everyone.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "fact",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes it as a disorder in which periods of very elevated mood alternate with periods of sadness.",
+        "src": {
+         "org": "Osakidetza (Servicio Vasco de Salud)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.osakidetza.euskadi.eus/webosk00-oskenf/es/contenidos/informacion/osk_osaesk_trastorno_bipolar/es_def/index.shtml",
+         "kind": "fact",
+         "upd": "2023-05-04"
+        }
+       },
+       {
+        "name": "Adjustment disorder",
+        "why": "This page presents it as an emotional reaction to a stressful event, with low mood and feeling like crying.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Depresión",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/depresion",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worries or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or they are watching me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly starts beating very fast and I cannot get enough air. I worry that it will happen again, and because of that it is hard for me to leave the house.",
+       "For no clear reason, I worry about one thing after another, feel very restless and have no strength left.",
+       "I have a hard time in places that are hard to get out of, like the metro, the train or the bus, shopping centers or very crowded places, and also when I go out of the house without company. So I try to avoid these things.",
+       "Because I avoid what frightens me, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "The worries will not leave my head, and at night it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "When I speak, please give me time and do not rush me.",
+       "Please explain the plan to me in advance, and how everything will go.",
+       "Please do not ask for my opinion suddenly in front of other people, and let me answer in writing as well.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "Before telling me that I worry too much, please listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (for example, Graves' disease)",
+        "why": "This page explains that when the thyroid is overactive, there can be irritability, trouble sleeping and anxiety.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Enfermedad de Graves",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/enfermedad-graves",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Heart problems",
+        "why": "According to this page, a heart problem, among other physical causes, can cause discomfort similar to that of a panic attack.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno de Pánico",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-panico",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Other illnesses or medicines",
+        "why": "According to this guide, at the appointment it is sometimes also checked whether the anxiety is related to a medicine or to another illness.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Trastorno de Ansiedad Generalizada: Información para pacientes adultos, familiares y cuidadores",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2024/11/gpc_641_ansiedad_sescs_pacientes.pdf",
+         "kind": "summary",
+         "upd": "2024-11-29"
+        }
+       },
+       {
+        "name": "Alcohol, other drugs and caffeine",
+        "why": "This guide mentions alcohol, some drugs and stimulant drinks, such as those that contain caffeine, among the things that can cause or worsen anxiety.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar la ansiedad",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_430_Ansiedad_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2008-09-01"
+        }
+       },
+       {
+        "name": "Stopping medicines for sleep or for calming down",
+        "why": "This page says that if medicines for sleep or for calming down that have been taken for a long time are stopped suddenly, anxiety, trembling or insomnia can appear.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Dejar las pastillas para dormir",
+         "url": "https://www.comunidad.madrid/salud/dejar-pastillas-dormir",
+         "kind": "summary",
+         "upd": "2026-04-27"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "According to this guide, nervousness, tension and anxiety can appear with insomnia.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "According to this guide, in this disorder the worry and tension are present almost all the time and are hard to control, even when there is no clear reason.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Trastorno de Ansiedad Generalizada: Información para pacientes adultos, familiares y cuidadores",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2024/11/gpc_641_ansiedad_sescs_pacientes.pdf",
+         "kind": "summary",
+         "upd": "2024-11-29"
+        }
+       },
+       {
+        "name": "Panic disorder and agoraphobia",
+        "why": "This guide describes sudden panic attacks, the constant unease that they will happen again, and avoiding places such as the metro, the train, the bus or shopping centers.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar la ansiedad",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_430_Ansiedad_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2008-09-01"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the door or the gas again and again, wash your hands or repeat other actions, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave the house I need to check again and again whether I have closed the door or the gas properly; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes into my head again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not arranged, or not done, in the order I have set, I become uneasy and end up rearranging them or starting again.",
+       "Checking things takes me so long that I leave home later than planned or arrive late for my appointments and for work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop even when I try."
+      ],
+      "asks": [
+       "Please do not tell me I am exaggerating; please listen to me first.",
+       "Checking things takes me time, so it helps me when some extra time is allowed.",
+       "When plans or the steps to follow change, please let me know in advance.",
+       "Please do not point at me or laugh at me in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before we decide how to go on, please listen to my worries, and let us decide calmly together."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes it as unwanted thoughts that come back again and again, together with repeated behaviors, such as checking locks or washing hands, that can take up a lot of time.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-obsesivo-compulsivo-toc",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anxiety disorders (for example, generalized anxiety)",
+        "why": "The page lists generalized anxiety among the disorders that are told apart from OCD.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-obsesivo-compulsivo-toc",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that the autism spectrum affects how a person communicates and relates to others, and that repetitive behaviors and very fixed ways of acting are seen.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Los Trastornos del Espectro Autista (TEA)",
+         "url": "https://www.comunidad.madrid/salud/trastornos-espectro-autista-tea",
+         "kind": "summary",
+         "upd": "2024-06-13"
+        }
+       },
+       {
+        "name": "Tourette syndrome (tics)",
+        "why": "This page explains that in this syndrome a person has tics that are hard to hold back: the body makes the same movements again and again, or sounds come out that the person does not want.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Síndrome de Gilles de la Tourette",
+         "url": "https://www.comunidad.madrid/salud/enfermedades-poco-frecuentes-sindrome-gilles-tourette",
+         "kind": "fact",
+         "upd": "2026-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "Memories that keep coming back, sleeping badly, or tension that does not go away after a hard experience.",
+      "scenes": [
+       "Any small detail can suddenly bring back the scene and the feelings of that very hard moment.",
+       "I keep having similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a small noise or something unexpected makes me jump.",
+       "Whenever I can, I avoid the places, people and topics that remind me of it, and my daily life has been getting smaller.",
+       "It is as if something inside me had switched off, and I cannot feel the same toward my family and friends as I did before.",
+       "I blame myself more and more, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "Please do not ask me for every detail of what happened. I want to tell it at my own pace and only as far as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I prefer to avoid them.",
+       "It helps me when people do not speak to me suddenly from behind or make loud noises near me.",
+       "When talking is too hard, please let me hand you something written.",
+       "There are days when I do not sleep or when the tiredness does not go away. Please do not take that for laziness.",
+       "Please do not rush me with phrases like “Forget it” or “Move on”, and please let me have a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep problems",
+        "why": "Sleeping badly can be one of the difficulties that appear after a very hard event, such as a disaster. The page names it together with distress, crying and thoughts that come back unwanted.",
+        "src": {
+         "org": "Ministerio de Sanidad",
+         "title": "Salud mental",
+         "url": "https://www.sanidad.gob.es/areas/alertasEmergenciasSanitarias/alertasActuales/infoDana/riesgoParaLaSalud/saludMental.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trauma-related disorders",
+        "why": "The page explains that, in disaster situations, the difficulties can range from anxiety and depression to disorders related to trauma.",
+        "src": {
+         "org": "Ministerio de Sanidad",
+         "title": "Salud mental",
+         "url": "https://www.sanidad.gob.es/areas/alertasEmergenciasSanitarias/alertasActuales/infoDana/riesgoParaLaSalud/saludMental.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anxiety",
+        "why": "The page lists anxiety among the difficulties that can appear in disaster situations.",
+        "src": {
+         "org": "Ministerio de Sanidad",
+         "title": "Salud mental",
+         "url": "https://www.sanidad.gob.es/areas/alertasEmergenciasSanitarias/alertasActuales/infoDana/riesgoParaLaSalud/saludMental.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page includes having gone through a physical or psychological trauma among the events that can trigger depression. It also mentions tiredness and sleep problems among the difficulties that can go with it.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Adjustment disorder",
+        "why": "It is a reaction in mood to a stressful event, which can include hopelessness, crying or sadness.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Depresión",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/depresion",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times in the night and do not sleep through until morning.",
+       "When it is time to get up I cannot manage it, and I am late for work or class again and again.",
+       "During the day a very strong sleepiness comes over me, and I almost fall asleep in a meeting or at the wheel.",
+       "My family tells me that I snore very loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and at night I feel an uncomfortable sensation in my legs that does not let me rest or sleep."
+      ],
+      "asks": [
+       "It helps me when people take the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "Please go over with me the medicines I take and my habits with coffee, alcohol and tobacco, to see what may be having an influence.",
+       "It helps me when people do not assume that it is a matter of attitude, and when my physical health and my mood are looked at as well.",
+       "I prefer to explain my sleep times with a written note showing when I go to bed and when I get up. Please take your time looking at it.",
+       "If I have to take a medicine, it helps me when someone explains in simple words how it works and what precautions come with it.",
+       "Mornings are very hard for me, so I would prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "It can be hard to fall asleep, sleep can be broken up during the night, or a person can wake up too early. The document also mentions tiredness and changes in mood.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "During sleep, breathing stops again and again. Another person may see those pauses; there can also be loud snoring and, during the day, sleepiness and tiredness.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Apnea del sueño",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/apnea-sueno",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "The legs feel uncomfortable after a while without moving, especially in the late afternoon and at night; walking or changing position usually gives them some relief.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Síndrome de Piernas Inquietas",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/sindrome-piernas-inquietas",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Schedule changes because of work or travel",
+        "why": "The document includes changes of schedule because of work or travel among the causes that can disturb sleep.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "According to this page, with narcolepsy sleepiness comes during the day, and staying awake for a long time is hard for the people it affects. The page says it is a sleep disorder that comes from the nervous system.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Narcolepsia",
+         "url": "https://www.comunidad.madrid/salud/enfermedades-poco-frecuentes-narcolepsia",
+         "kind": "fact",
+         "upd": "2026-05-04"
+        }
+       },
+       {
+        "name": "Illnesses, mental health problems, medicines or substances",
+        "why": "According to the document, sleeping badly can come from an illness, a mental health problem, certain substances or certain medicines.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Caffeine, alcohol and tobacco",
+        "why": "According to the document, coffee or other drinks with caffeine in the afternoon can make sleep worse; alcohol and tobacco can too.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Among the things the page says about depression are sleep problems, together with loss of energy and changes in appetite.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop, or eating scares you.",
+      "scenes": [
+       "I do not feel like eating, and on many days food hardly goes down my throat.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel unwell.",
+       "Without realizing it, I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat very few things, and I avoid many foods because the taste, smell or texture is very unpleasant to me.",
+       "Since I choked on some food or vomited, eating scares me.",
+       "At night I eat half asleep and, in the morning, I sometimes remember nothing."
+      ],
+      "asks": [
+       "Please do not make comments about my body or my appearance.",
+       "It helps me when people do not force me to eat or rush me to do it.",
+       "When people eat in a group, it helps me when I am allowed to choose another place or another time.",
+       "I would like to be asked beforehand what I can eat and which smells or textures are hard for me.",
+       "It helps me when people explain beforehand how the appointment will go and what tests will be done.",
+       "I would rather be able to hand over in writing what is hard for me to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses (for example, digestive or hormonal)",
+        "why": "When weight goes down, the page points out that there are also physical causes that can explain it, for example hormonal or digestive ones.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastornos de la Conducta Alimentaria",
+         "url": "https://www.comunidad.madrid/salud/trastornos-conducta-alimentaria",
+         "kind": "summary",
+         "upd": "2026-09-28"
+        }
+       },
+       {
+        "name": "Hyperthyroidism (for example, Graves' disease)",
+        "why": "A thyroid illness that makes the gland produce too many hormones. Among the changes the page lists is weight loss with no explanation.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Enfermedad de Graves",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/enfermedad-graves",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hypothyroidism (for example, Hashimoto's thyroiditis)",
+        "why": "A thyroid illness that lowers the amount of hormones this gland produces. Among the changes the page lists is weight gain.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Tiroiditis de Hashimoto",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/tiroiditis-hashimoto",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Eating disorders (anorexia nervosa, bulimia, binge-eating disorder)",
+        "why": "Serious problems with food, such as choosing to eat very little, binge eating, or being very afraid of gaining weight. They can affect both the body and the mood.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastornos de la Conducta Alimentaria",
+         "url": "https://www.comunidad.madrid/salud/trastornos-conducta-alimentaria",
+         "kind": "summary",
+         "upd": "2026-09-28"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page explains that, in depression, appetite can change and, with it, sometimes weight too.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to give up alcohol, betting or video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going the same as before.",
+       "I can't stick to the time, the amount or the money I had set for myself for today.",
+       "I hide from people close to me that I drink, that I bet or that I play video games, or I cover it up with excuses.",
+       "I go to bed very late because I play video games, I can't get up in the morning, and more and more often I am late for work or class, or miss it.",
+       "When I lose money on sports or online bets or on the machines in gambling halls, I want to win it back and I bet again.",
+       "Even though I know my body is feeling the strain, I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when someone looks with me, step by step, at what my day-to-day life with this is like and what difficulties it brings me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me when I am told in concrete terms where I can get support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can come to the appointment with me.",
+       "I would rather be told beforehand who will hear about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence",
+        "why": "This page describes alcohol dependence as an illness in which drinking can no longer be controlled and ends up getting in the way of health, of family and of work.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problems with betting (gambling addiction)",
+        "why": "Among the things this page describes are betting again another day to try to win back the money that was lost, and hiding from others how big a part betting plays in their life. It also says that personal relationships or jobs can be put in danger.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "Otras conductas adictivas",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/otrasAdicciones/home.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gaming disorder",
+        "why": "A report from the Plan Nacional sobre Drogas explains it as a way of playing in which it is hard to set limits, gaming comes before other things in daily life, and it goes on even when it brings problems.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "Informe sobre Adicciones comportamentales 2020",
+         "url": "https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2020_Informe_adicciones_comportamentales.pdf",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Sleep disturbances",
+        "why": "The page includes sleep disturbances among the health problems that drinking too much over a long time can bring on. If alcohol is causing you problems, you can also mention how you sleep.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page names depression among the health problems that drinking too much over a long time can bring on. If alcohol is causing you problems, you can also mention how your mood is.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "When it talks about ADHD in adults, this page mentions that impulsiveness, mental restlessness and difficulty managing emotions can lead, among other things, to the misuse of substances.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.comunidad.madrid/salud/trastorno-deficit-atencion-e-hiperactividad-tdah",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       }
+      ],
+      "windows": [
+       "esadiccion",
+       "esmedico",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts somewhere else without my noticing.",
+       "I can't get my work or my housework done in order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I promised, or I lose things.",
+       "If I have been on the same task for a long time, careless mistakes pile up.",
+       "It's hard for me to stay still for a long time, and I feel a restlessness that won't let me stop.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would rather be given the important things in writing.",
+       "It helps me when I am told about deadlines and appointments in good time.",
+       "It helps me when people don't ask me for many things at once, but split them into small parts.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people recognize what I have managed to do, instead of reproaching me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page points out that ADHD can make it hard to keep your attention and concentrate. For adults, it mentions an inner restlessness and starting several things at once without finishing them.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.comunidad.madrid/salud/trastorno-deficit-atencion-e-hiperactividad-tdah",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that depression can come with difficulty concentrating and with memory problems, as well as low mood.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "A guide written for people with insomnia mentions difficulty concentrating among what insomnia can bring, together with mood changes and physical and mental tiredness.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "A guide written for people with this disorder describes anxiety or worry that keeps going over time, and mentions that it can be hard to concentrate or that the mind can go blank.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Trastorno de Ansiedad Generalizada: Información para pacientes adultos, familiares y cuidadores",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2024/11/gpc_641_ansiedad_sescs_pacientes.pdf",
+         "kind": "summary",
+         "upd": "2024-11-29"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, ASD sometimes comes together with other health problems, such as hyperactivity or difficulties with attention and memory.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Los Trastornos del Espectro Autista (TEA)",
+         "url": "https://www.comunidad.madrid/salud/trastornos-espectro-autista-tea",
+         "kind": "summary",
+         "upd": "2024-06-13"
+        }
+       },
+       {
+        "name": "Hypothyroidism (for example, Hashimoto's thyroiditis)",
+        "why": "It is an illness in which the thyroid makes fewer hormones than are needed. According to the page, it can bring tiredness and cognitive problems.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Tiroiditis de Hashimoto",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/tiroiditis-hashimoto",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Sleep deprivation",
+        "why": "According to this page, getting enough sleep helps concentration and memory.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Sueño y descanso",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/cuida-salud/estilo-vida/sueno-descanso",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "While a person sleeps, their breathing stops again and again. According to the page, it often goes unnoticed at night, but during the day it can be hard to concentrate, and there can be tiredness and sleepiness.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Apnea del sueño",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/apnea-sueno",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "esdiscap"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to pick up what the other person feels or the mood of the moment, and I often have the impression that we don't understand each other.",
+       "When I have to speak in front of other people or all eyes turn to me, I feel a lot of tension and end up avoiding it.",
+       "I can talk with people close to me, but in front of others my voice won't come out.",
+       "If my usual way of doing things, the order of the steps or the place where I keep my things changes, I feel a very strong unease.",
+       "Noises, lights and smells feel too intense to me, and places with lots of people are very hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking with them has become very difficult."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance if plans or ways of doing things change.",
+       "I would rather not be rushed, and be given time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, ASD has to do with the way of relating to and communicating with other people, and it can bring difficulties in social contact and ways of acting that repeat and change little. It also says that in some people it is not identified until adolescence or adulthood.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Los Trastornos del Espectro Autista (TEA)",
+         "url": "https://www.comunidad.madrid/salud/trastornos-espectro-autista-tea",
+         "kind": "summary",
+         "upd": "2024-06-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Among the manifestations of depression that this page lists are isolation and difficulties in dealing with other people.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Depresión",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/depresion",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "According to this page, in OCD, thoughts that the person does not want to have keep coming back again and again, and there can be a strong need for things to be exact. It also says that, out of fear of those thoughts, some people keep away from certain situations or people.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-obsesivo-compulsivo-toc",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "esdiscap",
+       "essocial"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand what documents or letters say.",
+       "I have trouble with spelling: I make many mistakes, or I leave out letters or words when I write.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on problems that are set out in a text.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not get on as well as I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "Please give me texts in large print with more space between the lines, or in Easy Read (lectura fácil).",
+       "Please read important things aloud to me or tell them to me out loud.",
+       "Please let me use the keyboard of a computer or phone, or keep a record with photos or voice recordings, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please give me things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "The guide includes difficulty concentrating and tiredness of the body and mind among what goes along with insomnia.",
+        "src": {
+         "org": "GuíaSalud (Sistema Nacional de Salud)",
+         "title": "Aprendiendo a conocer y manejar el insomnio (Agencia Laín Entralgo)",
+         "url": "https://portal.guiasalud.es/wp-content/uploads/2019/01/GPC_465_Insomnio_Lain_Entr_paciente.pdf",
+         "kind": "summary",
+         "upd": "2009-01-01"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The Community of Madrid page names difficulty concentrating and memory problems among what, besides low mood, can occur in depression.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "It is a neurodevelopmental condition. According to the page, in adults it can affect work or studies, and sometimes it appears together with learning difficulties.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/trastorno-deficit-atencion-hiperactividad-tdah",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico",
+       "esdiscap"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own emotions.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when my mood is so low that I can hardly move.",
+       "There are periods when I sleep very little and yet I have a lot of energy and cannot stop moving.",
+       "One idea after another comes to me and everything ends up half done.",
+       "In periods of great euphoria I have spent so much money that I later had problems.",
+       "I get irritated over any little thing, and I find it hard to hold back my emotions.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the times when I felt I had an unusual amount of energy.",
+       "Please take the time to go over my ups and downs in mood with me.",
+       "Before important decisions about money or work, please encourage me to stop and think first.",
+       "Please also take physical causes into account, including sleep, medicines and alcohol.",
+       "If you notice that something in me has changed from how I usually am, please tell me without blaming me.",
+       "Please hear me out to the end, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (for example, Graves' disease)",
+        "why": "It is a problem in which the thyroid is overactive. Among the discomforts the page describes are changes in the body and also irritability, insomnia or anxiety.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Enfermedad de Graves",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/enfermedades/enfermedad-graves",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Lack of sleep",
+        "why": "This page links sleep and mood: sleeping well supports a good mood and concentration, and sleeping little is linked, among other things, to problems with mood.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Sueño y descanso",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/cuida-salud/estilo-vida/sueno-descanso",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Abrupt withdrawal from medicines for sleep or for calming the nerves",
+        "why": "The page explains that, after long use of these medicines, stopping them all at once can bring anxiety, irritability or insomnia. It stresses doing this with the help of a health professional and not on your own.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Dejar las pastillas para dormir",
+         "url": "https://www.comunidad.madrid/salud/dejar-pastillas-dormir",
+         "kind": "summary",
+         "upd": "2026-04-27"
+        }
+       },
+       {
+        "name": "Alcohol (effects of heavy, long-term use)",
+        "why": "A page from the National Plan on Drugs (Plan Nacional sobre Drogas) includes aggression and depression among the effects of excessive alcohol use over the long term, and adds that they can occur even when there is no dependence.",
+        "src": {
+         "org": "Ministerio de Sanidad (Plan Nacional sobre Drogas)",
+         "title": "A LARGO PLAZO (efectos crónicos)",
+         "url": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/alcohol/menuAlcohol/largoPlazo.htm",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "According to the page, it is a stronger form of the discomforts of the days before a period, with irritability and very intense mood swings.",
+        "src": {
+         "org": "Junta de Castilla y León (Consejería de Sanidad)",
+         "title": "Mujer",
+         "url": "https://www.saludcastillayleon.es/escueladepacientes/es/ciudadania/mujer",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page presents depression as a mood disorder and names irritability and wanting to cry for no clear reason among what can go along with sadness.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "The page describes an illness in which periods of very high mood alternate with periods of very low mood, with hopelessness and sadness. In the high periods, a person can sleep little and still have a lot of energy.",
+        "src": {
+         "org": "Osakidetza (Servicio Vasco de Salud)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.osakidetza.euskadi.eus/webosk00-oskenf/es/contenidos/informacion/osk_osaesk_trastorno_bipolar/es_def/index.shtml",
+         "kind": "fact",
+         "upd": "2023-05-04"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "According to the Community of Madrid page, impulsivity can be noticed in making decisions and in letting emotions or mood decide what one does.",
+        "src": {
+         "org": "Comunidad de Madrid",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad (TDAH)",
+         "url": "https://www.comunidad.madrid/salud/trastorno-deficit-atencion-e-hiperactividad-tdah",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       }
+      ],
+      "windows": [
+       "esmedico"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "When you know the name of an illness or of a developmental condition, passing tiredness or an ordinary lapse of attention can start to look like a symptom to you.\n\nFeelings can change how the body and the mood feel, and that is not imagination: it really happens. But sleeping little, stress, phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe it is this,” do not stop there: think of other reasons too. And if what is hard for you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Mood goes up and down in everyone's life",
+       "body": "Mood goes up and down in everyone's life. A Community of Madrid page on emotional well-being explains that how we feel and think, and even our character, shifts over time, because our lives and situations keep changing. The Canary Islands Health Service (Servicio Canario de la Salud) makes the point that anyone can have stretches of life when they feel more emotionally fragile.\n\nA text from the Ministry of Health also reminds us that many people are going through anxiety, sadness, insomnia, loneliness or hopelessness.\n\nGiving a name to what is happening (a diagnosis) is a job for health professionals, based on what you tell them in the appointment. They also check whether an illness of the body could be behind similar discomforts.\n\nIf something is hard for you, you can talk about it as it is, whether or not you have a diagnosis.",
+       "srcs": [
+        {
+         "org": "Comunidad de Madrid",
+         "title": "Bienestar emocional y salud",
+         "url": "https://www.comunidad.madrid/salud/bienestar-emocional-salud",
+         "kind": "fact",
+         "upd": "2026-09-17"
+        },
+        {
+         "org": "Servicio Canario de la Salud (Gobierno de Canarias)",
+         "title": "Día Mundial de la Salud Mental 2026",
+         "url": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=c168005c-ba59-11f1-a38c-b3f8d30d91f2&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117",
+         "kind": "fact",
+         "upd": "2026-10-13"
+        },
+        {
+         "org": "Ministerio de Sanidad",
+         "title": "Una mirada desde la calidad, los derechos y los determinantes sociales",
+         "url": "https://www.sanidad.gob.es/areas/saludMental/determinantesSociales.htm",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Comunidad de Madrid",
+         "title": "Depresión y conducta suicida",
+         "url": "https://www.comunidad.madrid/salud/depresion-conducta-suicida",
+         "kind": "summary",
+         "upd": "2026-04-28"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is happening to you even without a diagnosis",
+       "body": "Even without a diagnosis, you can talk about what is happening to you as it is. The Ministry of Health puts it like this: help can be sought in primary and community care whenever it is needed, including when what someone is going through is psychological distress linked to their living conditions. At the health center, primary care is the first level of care and also deals with mental health; if the situation goes beyond what can be resolved there, it can refer you to mental health services.\n\nFor difficulties of daily life, such as being left without income or without housing, or having problems with addiction, there are the social services. Your first point of contact is your town or city council: they will tell you which center to go to.\n\nAt work, several things need to be told apart. The equal treatment law says that nobody can be discriminated against because of disability, illness or health condition (Law 15/2022, art. 2), and the law on the rights of people with disabilities applies its legal protections even when the person has no recognised degree of disability (Royal Legislative Decree 1/2013, art. 64). When you apply for a job, the company cannot ask you about your health conditions (Law 15/2022, art. 9).\n\nWhen you formally ask for an adjustment, you are often asked for the disability certificate or a document that states the diagnosis. For example, in the selection tests for public employment in the State Administration, someone who has a recognised degree of disability submits the technical medical opinion (dictamen técnico facultativo), and someone who does not can ask for some adjustments by formally showing their need for support through other means accepted in law (Order PJC/804/2025).\n\nThe medical data from workplace health check-ups cannot be given to the company without your express consent. The company is, however, told the conclusions about fitness for the job and about whether protective measures are needed (Law 31/1995, art. 22). And when there is sick leave, the company receives from the National Social Security Institute (INSS) data of a merely administrative nature (Royal Decree 625/2014, art. 7).\n\nWhat you would like to ask for and what can be done depend on each situation, and are decided by talking.",
+       "srcs": [
+        {
+         "org": "Ministerio de Sanidad",
+         "title": "Una mirada desde la calidad, los derechos y los determinantes sociales",
+         "url": "https://www.sanidad.gob.es/areas/saludMental/determinantesSociales.htm",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización (anexo II)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+         "kind": "summary",
+         "upd": "2026-07-31"
+        },
+        {
+         "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+         "title": "Servicios Sociales",
+         "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación (arts. 2 y 9)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589",
+         "kind": "summary",
+         "upd": "2022-07-13"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social (arts. 63 y 64)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632",
+         "kind": "summary",
+         "upd": "2026-10-03"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Orden PJC/804/2025, de 23 de julio, por la que se establecen criterios generales para la adaptación de medios y tiempos y la realización de otros ajustes razonables en los procesos selectivos para el acceso al empleo público de personas con discapacidad (arts. 4 y 7)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15426",
+         "kind": "summary",
+         "upd": "2025-07-25"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (art. 22)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+         "kind": "summary",
+         "upd": "2026-04-09"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración (art. 7)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7684",
+         "kind": "summary",
+         "upd": "2023-01-05"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for medical reports or other documents",
+       "body": "Some procedures ask for medical reports or other documents. What is needed depends on each procedure.\n\nFor the disability certificate, the application is submitted to the competent body of your autonomous community (in Ceuta and Melilla, the Imserso), with the documents that prove your identity and your health situation. The rule asks that the health condition that causes the difficulty has already received a diagnosis within the health system, that the corresponding medical and rehabilitation measures have been applied, and that it is documented.\n\nFor sick leave, the sick-leave notice is generally issued by the doctor of the public health service who has seen the worker.\n\nPermanent incapacity is declared by the National Social Security Institute (INSS). The law speaks of serious limitations of the body or of its functions that remain after the prescribed medical care has been followed, that can be determined objectively, that are expected to be permanent and that reduce or remove the ability to work.\n\nAt university, the law provides for reasonable adjustments for students with disabilities (Organic Law 2/2023, art. 37), and public universities must have a disability support service (art. 43). To adapt the entrance exams, the grading panels can ask for reports (Royal Decree 534/2024, art. 21).\n\nBefore starting a procedure, it is a good idea to ask the relevant body which documents are needed.",
+       "srcs": [
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 888/2022, de 18 de octubre, por el que se establece el procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad (art. 6 y anexo III)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-17105",
+         "kind": "summary",
+         "upd": "2023-08-04"
+        },
+        {
+         "org": "Instituto de Mayores y Servicios Sociales (Imserso)",
+         "title": "Grado de discapacidad",
+         "url": "https://imserso.es/autonomia-personal-dependencia/grado-de-discapacidad",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración (art. 2)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7684",
+         "kind": "summary",
+         "upd": "2023-01-05"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social (arts. 193 y 200)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724",
+         "kind": "summary",
+         "upd": "2026-10-21"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario (arts. 37 y 43)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-7500",
+         "kind": "summary",
+         "upd": "2024-08-02"
+        },
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Real Decreto 534/2024, de 11 de junio, por el que se regulan los requisitos de acceso a las enseñanzas universitarias oficiales de Grado, las características básicas de la prueba de acceso y la normativa básica de los procedimientos de admisión (art. 21)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-11858",
+         "kind": "summary",
+         "upd": "2026-07-02"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nSome people feel comforted when they find a name for what they are living through. That matters.\nIt is also natural to want the people around us to understand us or to be kind to us.\n\nWhen you want people to be kind to you, you can ask for it directly, without needing to say the name of any illness.\nIt is understood better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have no energy today, so it helps me when people speak slowly.”\n“If I am told many things at once, I get lost; it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told in words; I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me; I would like to talk in a quiet place.”\n“I need a little time to answer; it helps me when people wait a moment.”\n“Right now I have many emotions at once; it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today; it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off; it helps me when I am told in advance.”\n“When people speak to me loudly I get scared; it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to say the name of a diagnosis you already have, you can. Then too, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then the two of you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.” If what is needed is a formal adjustment, they can ask for a document that shows it.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": [
+        {
+         "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+         "title": "Orden PJC/804/2025, de 23 de julio, por la que se establecen criterios generales para la adaptación de medios y tiempos y la realización de otros ajustes razonables en los procesos selectivos para el acceso al empleo público de personas con discapacidad (arts. 4 y 7)",
+         "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-15426",
+         "kind": "summary",
+         "upd": "2025-07-25"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit group in Japan. It has no connection to the Government of Spain, the Ministry of Health or any other ministry or public body, the autonomous communities, the National Health System (SNS), the professional associations or any medical institution, and none of these bodies has recommended or supported this app. The names of the institutions only show where the information comes from. The original texts can be read free of charge on the pages of each institution.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Spain. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page when the page shows one. Checked on 23 October 2026. Numbers and hours may change.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "We can ask for help in primary and community care when we need it, including when what we are going through is psychological distress linked to our living conditions.",
+      "src": {
+       "org": "Ministerio de Sanidad",
+       "title": "Una mirada desde la calidad, los derechos y los determinantes sociales",
+       "url": "https://www.sanidad.gob.es/areas/saludMental/determinantesSociales.htm",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "At the health center, primary care is the first level of care and also deals with mental health: it sees difficulties with mood and anxiety and, if what is happening goes beyond what can be resolved there, it can refer you to mental health services.",
+       "src": {
+        "org": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+        "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización (anexo II)",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-16212",
+        "kind": "summary",
+        "upd": "2026-07-31"
+       }
+      },
+      {
+       "text": "Social services are public support for difficult times, for example when someone is left without income or without housing, or has problems with addiction. Your first point of contact is your town or city council: they will tell you which center to go to.",
+       "src": {
+        "org": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+        "title": "Servicios Sociales",
+        "url": "https://www.dsca.gob.es/es/derechos-sociales/servicios-sociales",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is given, a public page in Spain explains:",
+      "text": "Giving a name to what is happening is a job for a health professional, based on what you tell them in the appointment. It is also important that they check whether an illness of the body could be behind similar discomforts.",
       "src": {
        "org": "Comunidad de Madrid",
        "title": "Depresión y conducta suicida",
