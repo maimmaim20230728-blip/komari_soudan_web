@@ -20824,7 +20824,8 @@ window.KOMARI_DATA = {
     "it": "Taiwan"
    },
    "langs": [
-    "zh"
+    "zh",
+    "en"
    ],
    "main": "zh",
    "fallback": "zh",
@@ -20900,6 +20901,18 @@ window.KOMARI_DATA = {
        "upd": "108-07-01"
       }
      },
+     "en": {
+      "name": "安心專線 1925 (Peace-of-Mind Line, a phone line for mental health consultation)",
+      "desc": "A phone line for mental health consultation set up by the Ministry of Health and Welfare. You can reach it by dialing 1925 from a landline or a mobile phone. The person who answers listens to emotional and mental difficulties, and also gives related information and information about medical units you can be referred to, as needed. In an urgent situation, the line may contact the police to help with emergency rescue.",
+      "hours": "Every day of the year, 24 hours a day, free of charge.",
+      "src": {
+       "org": "衛生福利部",
+       "title": "安心專線改4碼更好記！1925依舊愛我 持續服務你和我",
+       "url": "https://www.mohw.gov.tw/cp-16-48244-1.html",
+       "kind": "summary",
+       "upd": "108-07-01"
+      }
+     },
      "src": {
       "org": "衛生福利部",
       "title": "安心專線改4碼更好記！1925依舊愛我 持續服務你和我",
@@ -20921,6 +20934,18 @@ window.KOMARI_DATA = {
       "hours": "週一至週日，24小時。",
       "src": {
        "org": "數位發展部（我的E政府）",
+       "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
+       "url": "https://www.gov.tw/News_Content_26_826198",
+       "kind": "fact",
+       "upd": "115-05-28"
+      }
+     },
+     "en": {
+      "name": "生命線 1995 (Life Line)",
+      "desc": "Phone support from Life Line. You can talk about many kinds of difficulties, for example crisis situations, family, love and romantic relationships, relationships with other people, and mental and emotional difficulties. It is answered by a private group (the Life Line association).",
+      "hours": "Monday to Sunday, 24 hours a day.",
+      "src": {
+       "org": "行政院（我的E政府）",
        "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
        "url": "https://www.gov.tw/News_Content_26_826198",
        "kind": "fact",
@@ -20954,6 +20979,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "119 (fire and emergency number)",
+      "desc": "Call 119 for a fire or when you need urgent rescue. When your mobile phone has no signal, you can dial 112 and then press 9 to be connected to the 119 of the place where you are.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "內政部消防署",
+       "title": "119、112",
+       "url": "https://www.nfa.gov.tw/cht/index.php?code=list&ids=66",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "內政部消防署",
       "title": "119、112",
@@ -20972,6 +21009,18 @@ window.KOMARI_DATA = {
      "zh": {
       "name": "110",
       "desc": "有急難需要協助或救助時，撥打110，或聯絡所在地的警察局勤務指揮中心。",
+      "hours": "",
+      "src": {
+       "org": "內政部警政署",
+       "title": "110報案",
+       "url": "https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=1048&serno=e3ad2889-4dee-41cf-aef8-9b9d26dc6950",
+       "kind": "fact",
+       "upd": "114-07-28"
+      }
+     },
+     "en": {
+      "name": "110 (police emergency number)",
+      "desc": "Call 110 when you face an emergency and need help or rescue, or contact the duty command center of the police bureau of the place where you are.",
       "hours": "",
       "src": {
        "org": "內政部警政署",
@@ -21008,6 +21057,18 @@ window.KOMARI_DATA = {
        "upd": "115-07-20"
       }
      },
+     "en": {
+      "name": "If it is hard to speak: report to the police by mobile phone text message",
+      "desc": "Police bureaus in every city and county have a text message line for reports. Besides people with hearing or speech disabilities, the general public can also use it. Only ordinary text messages can be sent. The number is different in each city or county, so check the number for the place where you live on the page of the National Police Agency of the Ministry of the Interior.",
+      "hours": "",
+      "src": {
+       "org": "內政部警政署",
+       "title": "110聽語障人士報案專線",
+       "url": "https://www.npa.gov.tw/ch/app/artwebsite/view?module=artwebsite&id=808&serno=d08673f4-0775-4a09-b4d8-d47c2c4edca2",
+       "kind": "fact",
+       "upd": "115-07-20"
+      }
+     },
      "src": {
       "org": "內政部警政署",
       "title": "110聽語障人士報案專線",
@@ -21027,6 +21088,18 @@ window.KOMARI_DATA = {
       "name": "113保護專線",
       "desc": "本人或家人、朋友遭受家庭暴力、性侵害或性騷擾的困擾時，可以撥打。市話、公共電話、手機都可以撥打，免付費。也可以用簡訊或網路對談諮詢。有立即的人身安全危險時，請先撥110報警。",
       "hours": "24小時，全年無休。",
+      "src": {
+       "org": "衛生福利部保護服務司",
+       "title": "113保護專線介紹",
+       "url": "https://dep.mohw.gov.tw/DOPS/cp-1183-6499-105.html",
+       "kind": "summary",
+       "upd": "115-10-28"
+      }
+     },
+     "en": {
+      "name": "113保護專線 (113 protection line)",
+      "desc": "You can call when you, a family member or a friend is having trouble because of domestic violence, sexual assault or sexual harassment. You can call from a landline, a public phone or a mobile phone, free of charge. You can also get advice by text message or online chat. If you are in immediate danger, call 110 to report it first.",
+      "hours": "24 hours a day, all year round.",
       "src": {
        "org": "衛生福利部保護服務司",
        "title": "113保護專線介紹",
@@ -21062,6 +21135,18 @@ window.KOMARI_DATA = {
        "upd": "111-12-14"
       }
      },
+     "en": {
+      "name": "住處所在縣市的社區心理衛生中心 (community mental health center of the city or county where you live)",
+      "desc": "Each city and county sets up a community mental health center as required by law, and it provides services such as promoting mental health, consultation and referral. The center has staff in fields such as psychology, nursing and social work. You can show “My worries”.",
+      "hours": "Phone numbers and how to make an appointment depend on the city or county.",
+      "src": {
+       "org": "全國法規資料庫（法務部）",
+       "title": "精神衛生法 第28條",
+       "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+       "kind": "summary",
+       "upd": "111-12-14"
+      }
+     },
      "src": {
       "org": "法務部 全國法規資料庫",
       "title": "精神衛生法 第28條",
@@ -21089,6 +21174,18 @@ window.KOMARI_DATA = {
        "upd": "112-06-28"
       }
      },
+     "en": {
+      "name": "精神科的診所、醫院 (psychiatric clinics and hospitals)",
+      "desc": "When you see a doctor under national health insurance, you pay part of the cost yourself. You can see a doctor without a referral, but at a hospital (district hospital, regional hospital or medical center) the share you pay yourself is higher. You can show “My worries”.",
+      "hours": "Depends on the clinic or hospital.",
+      "src": {
+       "org": "全國法規資料庫（法務部）",
+       "title": "全民健康保險法 第43條",
+       "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060001&flno=43",
+       "kind": "summary",
+       "upd": "112-06-28"
+      }
+     },
      "src": {
       "org": "法務部 全國法規資料庫",
       "title": "全民健康保險法 第43條",
@@ -21107,6 +21204,18 @@ window.KOMARI_DATA = {
      "zh": {
       "name": "台灣戒酒暨酒癮防治中心 0800-255959",
       "desc": "衛生福利部成立的酒癮防治中心的免付費諮詢專線。有飲酒問題困擾的本人和家屬都可以撥打，由專業人員一對一提供諮詢、衛教和轉介。也可以到各縣市衛生局指定的機構諮詢。",
+      "hours": "",
+      "src": {
+       "org": "衛生福利部心理健康司",
+       "title": "健康臺灣好生活！戒酒有醫伴你行",
+       "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-502-80517-107.html",
+       "kind": "summary",
+       "upd": "113-11-15"
+      }
+     },
+     "en": {
+      "name": "台灣戒酒暨酒癮防治中心 0800-255959 (alcohol addiction prevention center, consultation line)",
+      "desc": "A toll-free consultation line of the alcohol addiction prevention center set up by the Ministry of Health and Welfare. People who are troubled by a problem with drinking, and their families, can call. Professional staff give one-to-one consultation, health education and referral. You can also ask at the facilities designated by the health bureau of each city or county.",
       "hours": "",
       "src": {
        "org": "衛生福利部心理健康司",
@@ -21143,6 +21252,18 @@ window.KOMARI_DATA = {
        "upd": "114-06-23"
       }
      },
+     "en": {
+      "name": "毒品危害防制中心諮詢專線 0800-770-885 (drug harm prevention center consultation line)",
+      "desc": "For difficulties that have to do with drugs, you can call the consultation line of the drug harm prevention center of your city or county.",
+      "hours": "Monday to Sunday, 24 hours a day.",
+      "src": {
+       "org": "衛生福利部",
+       "title": "諮詢服務專線",
+       "url": "https://www.mohw.gov.tw/cp-23-135-1.html",
+       "kind": "summary",
+       "upd": "114-06-23"
+      }
+     },
      "src": {
       "org": "衛生福利部",
       "title": "諮詢服務專線",
@@ -21164,6 +21285,18 @@ window.KOMARI_DATA = {
       "hours": "週一至週六 9:00～12:00、14:00～17:00、18:00～21:30；週日 9:00～12:00、14:00～17:00。",
       "src": {
        "org": "數位發展部（我的E政府）",
+       "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
+       "url": "https://www.gov.tw/News_Content_26_826198",
+       "kind": "fact",
+       "upd": "115-05-28"
+      }
+     },
+     "en": {
+      "name": "張老師 1980 (Teacher Chang phone line)",
+      "desc": "Helps with many kinds of difficulties with feelings and with adjusting to daily life, and can also work out with you ways to deal with the problem at hand. It is answered by a private group (the Teacher Chang Foundation).",
+      "hours": "Monday to Saturday 9:00 to 12:00, 14:00 to 17:00 and 18:00 to 21:30; Sunday 9:00 to 12:00 and 14:00 to 17:00. Taiwan time.",
+      "src": {
+       "org": "行政院（我的E政府）",
        "title": "追求健康「心」生活，心理諮商資源與求助管道一次整理給您看！",
        "url": "https://www.gov.tw/News_Content_26_826198",
        "kind": "fact",
@@ -21197,6 +21330,18 @@ window.KOMARI_DATA = {
        "upd": "115-02-04"
       }
      },
+     "en": {
+      "name": "福利諮詢專線 1957 (welfare consultation line)",
+      "desc": "The welfare consultation line of the Ministry of Health and Welfare, answered by social workers. You can ask for help when you face an emergency or a sudden hardship, and you can also ask for information about social welfare. It also takes reports.",
+      "hours": "Every day 8:00 to 22:00, Taiwan time.",
+      "src": {
+       "org": "衛生福利部社會救助及社工司",
+       "title": "春節提前啟動加強關懷 協助陷困弱勢平安過年",
+       "url": "https://dep.mohw.gov.tw/DOSAASW/cp-609-85341-103.html",
+       "kind": "summary",
+       "upd": "115-02-04"
+      }
+     },
      "src": {
       "org": "衛生福利部社會救助及社工司",
       "title": "春節提前啟動加強關懷 協助陷困弱勢平安過年",
@@ -21216,6 +21361,18 @@ window.KOMARI_DATA = {
       "name": "法律扶助基金會 電話法律諮詢",
       "desc": "有法律問題時，可以打電話請律師提供諮詢，不需要負擔律師費。撥打法扶全國專線 412-8518 後按「2」（用手機撥打時，前面加 02）。身心障礙者有專用的選項。通話費依電信業者計算。諮詢時會請您提供一些基本資料，通話會錄音。",
       "hours": "週一至週五的白天（午休時間除外）。",
+      "src": {
+       "org": "財團法人法律扶助基金會",
+       "title": "電話法律諮詢",
+       "url": "https://www.laf.org.tw/service-legal-advice-tel",
+       "kind": "fact",
+       "upd": "2026-09-09"
+      }
+     },
+     "en": {
+      "name": "法律扶助基金會 電話法律諮詢 (Legal Aid Foundation, legal advice by phone)",
+      "desc": "When you have a legal problem, you can call and get advice from a lawyer without paying lawyer's fees. Call the national line of the Legal Aid Foundation, 412-8518, and press “2” (from a mobile phone, add 02 in front). There is a special option for people with disabilities. The call charge depends on the telephone company. When you consult, you will be asked for some basic information, and the call is recorded.",
+      "hours": "Monday to Friday during the day (except the lunch break). Taiwan time.",
       "src": {
        "org": "財團法人法律扶助基金會",
        "title": "電話法律諮詢",
@@ -22418,6 +22575,1196 @@ window.KOMARI_DATA = {
      ],
      "namesHow": {
       "lead": "名稱（診斷名）由醫師等醫療專業人員綜合各種情況來決定。同樣的困擾，原因也可能各不相同。",
+      "text": "",
+      "src": null
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low for a long time and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Even when I do things I used to enjoy, they do not make me happy now.",
+       "I have no energy and find it hard to concentrate, so I cannot get through my work or housework.",
+       "I often blame myself, or I keep seeing everything in a negative light.",
+       "I cannot sleep at night, or I sleep too much. I have little appetite, and my body feels heavy and drained.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what to do one thing at a time.",
+       "Please do not rush me to answer or decide; give me some time to think.",
+       "Please write important things down for me.",
+       "Please listen to me first before telling me to 'Keep going' or 'Hang in there'.",
+       "Please do not assume I am being lazy just because I am resting.",
+       "Please also check together with me whether it has anything to do with a physical illness or the medicines I take now."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses (hypothyroidism, diabetes, etc.)",
+        "why": "According to this article, physical illnesses such as an underactive thyroid or diabetes can sometimes be linked to a low mood.",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：為什麼我的憂鬱症看不好？",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "Effects of medicines (some blood pressure medicines, steroids, etc.)",
+        "why": "According to this article, certain medicines, such as some blood pressure medicines and steroids, can sometimes be linked to a low mood. Please do not stop a medicine on your own; talk first with the doctor who prescribed it.",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：為什麼我的憂鬱症看不好？",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "Hearing difficulty (hearing loss)",
+        "why": "The page says that when hearing gets worse with age, conversation becomes hard, so people can easily lose the wish to join social activities, and their mood drops along with it.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "年紀大了，聽不清楚是聽覺功能自然退化，不理會沒關係？",
+         "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=127&pid=14395",
+         "kind": "summary",
+         "upd": "2021-08-24"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "According to this article, when sleep is poor, it is easy to feel drained during the day, and moods can become unsettled too.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page is about menopause in women. It says that the changes on the mental side include anxiety, irritability, sleeplessness and a low mood.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alcohol use disorder",
+        "why": "The Ministry of Health and Welfare press release says that alcohol addiction seriously harms physical and mental health, and that the name for this condition is “alcohol use disorder”.",
+        "src": {
+         "org": "衛生福利部",
+         "title": "聰明酒杯記得「量」！不喝更好最健康 衛福部聯袂各大醫院、協會團體啟動酒癮防治新藍圖",
+         "url": "https://www.mohw.gov.tw/cp-16-75242-1.html",
+         "kind": "summary",
+         "upd": "112-07-14"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page is about depression in women in later life. It says that a person can sometimes feel gloomy all day, find no interest in anything, and sleep badly.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "The page says that besides periods of very low mood, there are also periods of unusually high energy and spirits, and that mood goes up and down between these two ends.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worries or tension",
+      "lead": "Worries that will not stop, a racing heart and restlessness, or finding it hard to be in front of people or to go out.",
+      "scenes": [
+       "When I speak in front of people, or when everyone is looking at me, I feel very uneasy and my mind goes blank.",
+       "My heart suddenly starts racing and I find it hard to breathe. I worry, “What if it happens again?”, so it is hard for me to go out.",
+       "Even without a clear reason, I worry about one thing after another, feel restless, and get completely worn out.",
+       "On the MRT, buses or trains, in crowded department stores or night markets, or when I go out alone, I feel it is hard to get away, so I avoid them.",
+       "I keep avoiding what makes me anxious, so the places I go and the people I meet are fewer and fewer, and my life keeps getting smaller.",
+       "The things I worry about keep going around in my head, and it is hard to fall asleep at night."
+      ],
+      "asks": [
+       "Please do not rush me when I speak; wait until I finish, at my own pace.",
+       "Please tell me the schedule and how things will go ahead of time.",
+       "Please do not suddenly ask me to give my opinion in front of everyone, and also let me choose to explain in writing.",
+       "When I feel unwell, please let me leave my seat and rest for a moment.",
+       "I would like to talk in a quiet place, with only a few people.",
+       "Please do not brush it off with 'You are overthinking' or 'You are too sensitive'; please listen first to what is troubling me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "The press release says that with an overactive thyroid there can be palpitations, shaky hands and similar changes, and that stimulating drinks such as coffee and strong tea can make the palpitations and anxiety more noticeable.",
+        "src": {
+         "org": "臺北市政府衛生局",
+         "title": "甲狀腺亢進",
+         "url": "https://health.gov.taipei/News_Content.aspx?n=BB5A41BA1E6CA260&sms=72544237BBE4C5F6&s=6BBABDA76F1F086B",
+         "kind": "summary",
+         "upd": "114-11-13"
+        }
+       },
+       {
+        "name": "Effects of caffeine",
+        "why": "The Food and Drug Administration page says that taking in a lot of foods that contain caffeine can cause palpitations, shaky hands or sleeplessness.",
+        "src": {
+         "org": "衛生福利部食品藥物管理署",
+         "title": "聽說喝咖啡可以用來止痛，這是真的嗎?",
+         "url": "https://www.fda.gov.tw/TC/newsContent.aspx?cid=5049&id=27325",
+         "kind": "summary",
+         "upd": "2023-01-18"
+        }
+       },
+       {
+        "name": "Alcohol and alcohol withdrawal",
+        "why": "According to this page, when the alcohol a person has drunk wears off in the body, the body reacts with a rebound: hands can shake, the heart can beat faster, and the person can feel very uneasy and tense.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "酒澆愁更愁：喝酒助眠是在幫大腦「硬拔插頭」！",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=51F47524FABD6338",
+         "kind": "fact",
+         "upd": "115-08-12"
+        }
+       },
+       {
+        "name": "Effects of sleeping pills (when stopping them)",
+        "why": "According to this page, after sleeping pills have been taken for a long time or in larger and larger amounts, stopping them can sometimes bring anxiety, or sleep that is even worse than before. Please do not stop a medicine on your own; talk first with the doctor who prescribed it.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "失眠與安眠藥依賴風險",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=D842DE1A5DCC1056",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "Social anxiety disorder",
+        "why": "According to this page, a person worries a great deal about embarrassing themselves in front of others and becomes very tense as soon as they get attention. The body can sometimes feel unwell too, so the person avoids being with people or speaking in front of an audience.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "社交焦慮與網路成癮",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=9071B5E7CEEAFA81",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "Agoraphobia",
+        "why": "According to this page, what frightens people is not only open spaces, but situations where it feels hard to get away and hard to find help if something happens, such as riding the MRT or being in a crowded place.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "廣場恐懼症",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=755126052217544F",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "According to this article, during a panic attack a person feels intense distress and fear, and afterwards often keeps worrying that the same thing will happen again.",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：認識恐慌症",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "Acute stress disorder, PTSD (post-traumatic stress disorder)",
+        "why": "The Ministry of Health and Welfare page says that after a very big shock, a person can sometimes keep remembering it, be easily startled, and be unable to sleep. Acute stress disorder and post-traumatic stress disorder are names that appear on the page.",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the doors and windows or the gas again and again, keep washing your hands, or repeat the same things in other ways, and find it hard to stop even when you want to.",
+      "scenes": [
+       "Before I go out, I have to check several times whether the door is locked and the gas is off; only then can I leave with peace of mind.",
+       "I wash my hands or my body more and more often, and I cannot stop even when I want to.",
+       "The same worry keeps coming back in my head, and I badly want to stop thinking about it, but I cannot stop.",
+       "If things are not placed the way I have decided, or not done in the order I have decided, I feel very uneasy, and I keep putting them back or starting over.",
+       "I keep checking and checking, and time passes, so I leave late and cannot make it in time for appointments or work.",
+       "My body moves, or sounds come out of me, without my meaning to, and it is hard to stop even when I want to."
+      ],
+      "asks": [
+       "Please do not brush it off with 'You are overthinking' or 'You are too sensitive'; please listen first to what is troubling me.",
+       "Checking takes me time, so please allow a more relaxed schedule.",
+       "When plans or steps are going to change, please tell me in advance.",
+       "When I am checking or washing my hands, please do not point it out in front of others or make fun of me for it.",
+       "Please write down explanations and instructions for me, one item at a time.",
+       "When it comes to how to get advice or see a doctor from here on, please listen first to what I am worried about, and then let us take our time deciding."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "According to this article, obsessive-compulsive disorder makes a person check things again and again or wash their hands over and over, and the person finds this very hard to bear.",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：為什麼我的憂鬱症看不好？",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "Tourette syndrome",
+        "why": "According to this page, with Tourette syndrome a person cannot help moving or making sounds, and this often shows more when stress is high.",
+        "src": {
+         "org": "臺北榮民總醫院護理部",
+         "title": "妥瑞症的照護",
+         "url": "https://ihealth.vghtpe.gov.tw/media/784",
+         "kind": "fact",
+         "upd": "2024-10-15"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Memories of that time that keep coming back, poor sleep, or not being able to relax after a painful event.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having similar frightening dreams, and I often don't sleep soundly.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I try hard to avoid places, people, and topics that remind me of that time, and there are fewer and fewer things I can do.",
+       "It feels as if my heart has gone numb, and I can no longer put my feelings into my time with family and friends the way I used to.",
+       "The feeling of blaming myself keeps getting stronger, or I find it hard to trust the people around me."
+      ],
+      "asks": [
+       "Please don't press me for the details of what happened. I'd like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places, and topics remind me of that time. When I say I want to avoid them, please respect my wishes.",
+       "Please don't call out to me suddenly from behind or make loud noises.",
+       "When I can't say it out loud, please let me hand over a note I have written instead.",
+       "Please don't see my sleepless days, or days when the tiredness doesn't go away, as laziness.",
+       "Please don't rush me with “Just forget it” or “Get over it quickly”. Please give me a place where I can talk and feel safe."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "The page says that major stress in life, such as losing a family member, can sometimes make a person sleep poorly for a while.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "Acute stress disorder",
+        "why": "A page from the Department of Mental Health at the Ministry of Health and Welfare says that after an extremely serious event that causes traumatic stress, many people at first keep recalling and dreaming about what happened, are easily startled, and sleep poorly. For some of them, these difficulties are strong and keep going, causing distress or affecting daily life, and this is sometimes called “acute stress disorder”.",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The same page says that when these difficulties last longer and also affect work, studies, and relationships with others, the name used is “post-traumatic stress disorder”.",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       },
+       {
+        "name": "Depression and anxiety",
+        "why": "The same page also says that difficulties of mind and body after a major event can show up in the form of depression or anxiety.",
+        "src": {
+         "org": "衛生福利部心理健康司",
+         "title": "災難心理重建Q&A",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/fp-334-618-107.html",
+         "kind": "summary",
+         "upd": "113-05-27"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up often in the night, finding it hard to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep for a long time.",
+       "I wake up several times in the night and can't sleep soundly all the way to morning.",
+       "When it is time to get up I can't, and I keep being late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings, while driving, or while riding a scooter.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening or at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "Please take the time to listen to how my sleep is going: how I fall asleep, waking in the night, trouble getting up in the morning, and how sleepy I am in the daytime.",
+       "Please think through the cause with me, including the medicines I take and my habits with coffee, alcohol, and cigarettes.",
+       "Please don't brush it aside with “you think too much” or “just let it go”. Please look with me at both physical illness and my mood.",
+       "I would like to explain my sleep with a note of when I go to bed and when I wake up. Please take a look at it.",
+       "If I am given medicine, please explain in plain words how it works and what to watch for.",
+       "Mornings are harder for me, so I would like to come during afternoon or evening clinic hours."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "The page says insomnia includes lying in bed for a long time unable to fall asleep, waking again and again during the night, and waking too early in the morning and not getting back to sleep. It also says that when sleep is poor, a person can feel tired in the daytime, find it hard to concentrate, and have a mood that goes up and down.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "The page says that a person with sleep apnea (breathing that stops during sleep) may not notice it themselves. The situations the page lists include being very sleepy in the daytime, lacking energy, and finding it hard to concentrate.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "鼻塞與睡眠呼吸中止症",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=CEC98CD9D601DB7D&s=DCAC4891DA7F2E0D",
+         "kind": "fact",
+         "upd": "113-07-26"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "The page says that restless legs syndrome makes the legs feel tingly or itchy and very uncomfortable at night, just before sleep, so it is hard to fall asleep.",
+        "src": {
+         "org": "新北市立聯合醫院",
+         "title": "睡前老是腳麻、腳麻有蟲在爬？當心不寧腿症候群作怪",
+         "url": "https://www.ntch.ntpc.gov.tw/home.jsp?id=f545584b3fd42965&act=be4f48068b2b0031&dataserno=7c85869309f68f57ddad5388a2b8a787&mserno=81bc30641f6ae52b789097524d228377",
+         "kind": "fact",
+         "upd": "2021-03-02"
+        }
+       },
+       {
+        "name": "Effects of caffeine",
+        "why": "A page from the Food and Drug Administration of the Ministry of Health and Welfare says that taking in a lot of food products containing caffeine may cause a racing heart, shaky hands, or trouble sleeping.",
+        "src": {
+         "org": "衛生福利部食品藥物管理署",
+         "title": "聽說喝咖啡可以用來止痛，這是真的嗎?",
+         "url": "https://www.fda.gov.tw/TC/newsContent.aspx?cid=5049&id=27325",
+         "kind": "summary",
+         "upd": "2023-01-18"
+        }
+       },
+       {
+        "name": "Effects of sleeping pills",
+        "why": "The page says that when sleeping pills are used for a long time, not only the quality of sleep is affected: memory, concentration, and reaction speed also get worse, and a person also feels sleepy during the day.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "失眠與安眠藥依賴風險",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=D842DE1A5DCC1056",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "Effects of alcohol",
+        "why": "The page says that although drinking alcohol may help a person fall asleep faster, it disrupts the structure of sleep.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "酒澆愁更愁：喝酒助眠是在幫大腦「硬拔插頭」！",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=51F47524FABD6338",
+         "kind": "fact",
+         "upd": "115-08-12"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "A page from the Health Promotion Administration of the Ministry of Health and Welfare explains that menopause is a natural process, not an illness. It says that during this time, women may also have changes on the mental side, such as anxiety, irritability, trouble sleeping, and low mood.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page is about depression in women in later life. It says that this can sometimes mean feeling down all day and losing interest in everything, and that sleep can also be poor.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       }
+      ],
+      "windows": [
+       "twhosp",
+       "twcmhc"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "Eating has become hard: being able to eat only a little, not being able to stop, or feeling afraid of eating.",
+      "scenes": [
+       "I do not feel like eating, and the days when food is hard to swallow keep going on.",
+       "Once I start eating I cannot stop, and sometimes I eat until my stomach feels very uncomfortable.",
+       "Before I realize it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I often avoid many foods because their taste, smell, or texture is hard for me.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it at all."
+      ],
+      "asks": [
+       "Please do not comment on my body shape, my weight, or my appearance.",
+       "Please do not force me to eat or rush me to eat.",
+       "For group meals, year-end company dinners, or family gatherings with a meal, please let me choose another place or time.",
+       "Please ask me first what I can eat, and which smells or textures are hard for me.",
+       "Please first explain which physical exams will be done and how the visit will go.",
+       "Please let me write down what is hard to say out loud and hand it to you."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "The page says that when the thyroid makes too much hormone, the body's metabolism speeds up, and a person may have a racing heart and shaky hands, or may have a good appetite and still lose weight.",
+        "src": {
+         "org": "臺北市政府衛生局",
+         "title": "甲狀腺亢進",
+         "url": "https://health.gov.taipei/News_Content.aspx?n=BB5A41BA1E6CA260&sms=72544237BBE4C5F6&s=6BBABDA76F1F086B",
+         "kind": "summary",
+         "upd": "114-11-13"
+        }
+       },
+       {
+        "name": "Hypothyroidism (underactive thyroid)",
+        "why": "The page (which writes the name as 甲狀腺機能低下) says that with this, a person sometimes cannot eat much and easily gets constipated. It also says that having these things alone does not mean it is this condition.",
+        "src": {
+         "org": "臺北榮民總醫院護理部",
+         "title": "甲狀腺機能低下之照護",
+         "url": "https://ihealth.vghtpe.gov.tw/media/1079",
+         "kind": "fact",
+         "upd": "2026-05-11"
+        }
+       },
+       {
+        "name": "Eating disorders (anorexia nervosa, bulimia nervosa, binge-eating disorder)",
+        "why": "The article says that eating itself can also become a big worry. The eating disorders it lists include anorexia nervosa, bulimia nervosa, binge-eating disorder, and others.",
+        "src": {
+         "org": "臺北市立聯合醫院松德院區",
+         "title": "跨越57載 傳承與約定心未來 衛教文章合輯：當飲食變成困擾，認識飲食疾患",
+         "url": "https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNTE4L3JlbGZpbGUvMC8xMzkwOTMvOTMyNGFjODktZmY1NS00Y2EwLTg4YzEtZTFiNWMxYjUxMzc0LnBkZg%3d%3d&n=NTflubTpmaLmhbYt6KGb5pWZ5paH56ug5ZCI6LyvLnBkZg%3d%3d&icon=.pdf",
+         "kind": "fact",
+         "upd": "115年4月"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "The page says that bipolar disorder has periods of low mood, and that during those times both sleep and appetite may change.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       }
+      ],
+      "windows": [
+       "twhosp",
+       "twcmhc"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but before I know it I am doing it again.",
+       "I set a time, an amount or a sum of money for myself, saying ‘that's enough for today’, but I can't keep to it.",
+       "I hide my drinking, gaming or gambling from the people around me, or gloss over it by putting it another way.",
+       "I stay up late playing video games or mobile games, so I can't get up in the morning, and I arrive late or take time off more often.",
+       "After I lose, I want to win back what I lost, so I gamble again.",
+       "Even though I know my body isn't doing well, I can't drink any less."
+      ],
+      "asks": [
+       "Please listen to me first, without blaming me or jumping to conclusions.",
+       "Please go through with me, step by step, how things are for me right now and what I find hard.",
+       "Please also look at my sleep and how my body is doing.",
+       "Please tell me specifically where I can ask for advice and which places I can go to.",
+       "Please tell me whether my family or someone close to me can take part in the consultation with me.",
+       "Please check with me first who you will tell about what I say, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dependence on sleeping pills",
+        "why": "About becoming dependent on sleeping pills, the page explains that this has nothing to do with whether a person's willpower is strong or weak. It describes it as a kind of adjustment the brain makes to a medicine.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "失眠與安眠藥依賴風險",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=D842DE1A5DCC1056",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "Alcohol use disorder",
+        "why": "A press release from the Ministry of Health and Welfare says that alcohol addiction seriously harms body and mind, and the text also mentions the name ‘alcohol use disorder’.",
+        "src": {
+         "org": "衛生福利部",
+         "title": "聰明酒杯記得「量」！不喝更好最健康 衛福部聯袂各大醫院、協會團體啟動酒癮防治新藍圖",
+         "url": "https://www.mohw.gov.tw/cp-16-75242-1.html",
+         "kind": "summary",
+         "upd": "112-07-14"
+        }
+       },
+       {
+        "name": "Gambling addiction (compulsive gambling)",
+        "why": "The page says that when problems with gambling are serious, they are usually called ‘gambling addiction’ or ‘compulsive gambling’.",
+        "src": {
+         "org": "臺北市政府衛生局（臺北市社區心理衛生中心）",
+         "title": "衛生局新聞稿1090309：「賭博不是病，上癮要人命」 聯合醫院博奕門診 幫助您擺脫賭博成癮",
+         "url": "https://mental-health.gov.taipei/News_Content.aspx?n=7496ABB6D8F96898&sms=6E3C235DABB63062&s=73C318C517075921",
+         "kind": "summary",
+         "upd": "109-05-05"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "For ADHD in adults, the page says it often comes together with difficulties with anxiety, depression or substance use.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twalc",
+       "twdrug",
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or planning",
+      "lead": "Trouble concentrating, getting things done in order, or remembering things.",
+      "scenes": [
+       "While someone is talking to me, before I know it I am thinking about something else.",
+       "I can't get my work or housework done in order, and I miss deadlines.",
+       "I often can't remember later what people asked me to do or what we agreed, and I also lose things often.",
+       "When I keep doing the same thing for a long time, my careless mistakes increase.",
+       "When I sit still for a long time, I feel unsettled and restless.",
+       "Sometimes people around me tell me that I often forget things or turn up late."
+      ],
+      "asks": [
+       "Please give me instructions one at a time.",
+       "Please put important things in writing for me.",
+       "Please tell me deadlines and appointments early.",
+       "Please don't ask me for many things at once; please break them into a few small parts.",
+       "Please let us talk in a quieter place where I am less easily distracted.",
+       "Please don't blame me for what I can't do, and please also recognize what I do manage."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "When sleep is poor, a person can feel more tired during the day, find it harder to concentrate and forget things more easily.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "With sleep apnea, the person may not notice it themselves. The page mentions being sleepy in the daytime, having little energy and finding it hard to concentrate.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "鼻塞與睡眠呼吸中止症",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=CEC98CD9D601DB7D&s=DCAC4891DA7F2E0D",
+         "kind": "fact",
+         "upd": "113-07-26"
+        }
+       },
+       {
+        "name": "Hypothyroidism (underactive thyroid)",
+        "why": "The page says that when the thyroid is underactive, a person can sometimes feel tired, have a poorer memory and find it hard to concentrate.",
+        "src": {
+         "org": "臺北榮民總醫院護理部",
+         "title": "甲狀腺機能低下之照護",
+         "url": "https://ihealth.vghtpe.gov.tw/media/1079",
+         "kind": "fact",
+         "upd": "2026-05-11"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page is about menopause in women, and says that mental changes can sometimes include anxiety, irritability, poor sleep and a weaker memory.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page is about depression in women in later life, and says that a person can sometimes lose motivation for things, find it harder to concentrate and forget things more easily.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "The page says that during times when mood and energy are especially high, thoughts race and it is hard to keep attention on one thing.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "The page says that difficulties such as often putting things off and forgetting things can sometimes be connected with ADHD in adults.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "It is hard for me to pick up on how the other person feels and on the mood in the room, and I feel that the conversation doesn't flow.",
+       "I get very tense when I speak in front of people or when everyone is looking at me, so I avoid such situations.",
+       "I can talk with people I know well, but in front of people I don't know well my voice won't come out.",
+       "When my set way of doing things, the order of the steps or the place where things are kept changes, I become very anxious.",
+       "Sounds, light, smells and the like feel especially strong to me, and places with many people are hard to bear.",
+       "I can't hear clearly what others say, or my mood is low, and even meeting people and talking with them feels like a struggle."
+      ],
+      "asks": [
+       "Please speak slowly and clearly.",
+       "Please tell me important things in writing.",
+       "Please let us talk in a quiet place.",
+       "Please tell me beforehand when plans or ways of doing things change.",
+       "Please don't rush me for an answer; please wait for me patiently.",
+       "Please let me answer in writing or with a note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "The page is about hearing loss as people get older. It says that when it is hard to hear and to communicate, a person can easily become withdrawn, not want to join social activities, and feel low.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "年紀大了，聽不清楚是聽覺功能自然退化，不理會沒關係？",
+         "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=127&pid=14395",
+         "kind": "summary",
+         "upd": "2021-08-24"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page is about depression in women in later life, and says that sometimes a person does not feel much like spending time with others and finds it hard to get motivated about many things.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "Social anxiety disorder",
+        "why": "The page says that with social anxiety disorder, a person is very afraid of being embarrassed in front of others and becomes especially tense when people notice them, and so avoids gatherings or speaking in front of an audience.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "社交焦慮與網路成癮",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=9071B5E7CEEAFA81",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "Agoraphobia",
+        "why": "The page says that a person can sometimes fear being unable to get away, or having no one to help, if something happens on the MRT, in shopping malls or in crowded places, and gradually stops going to these places.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "廣場恐懼症",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=755126052217544F",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers stays hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I often have to read it over several times.",
+       "Even after reading, the content does not sink in, and I find it hard to understand what documents or letters say.",
+       "I often write wrong characters, or I cannot remember how a character is written, and I often leave things out when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I often get stuck on simple calculations and on math problems given in words.",
+       "I can talk and listen to others without trouble, but with reading, writing and calculating, things do not go the way I intend, even when I take a lot of time."
+      ],
+      "asks": [
+       "Please show me text in larger characters with wider line spacing, and please replace difficult words with simpler ones.",
+       "Please read important information aloud to me, or tell it to me out loud.",
+       "Please let me enter text on a phone or computer, or keep notes with photos or audio recordings, instead of writing by hand.",
+       "Please let me use a calculator when I calculate.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please give me less at a time, one item at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Common eye conditions in middle and later life (presbyopia, cataracts, and others)",
+        "why": "The page says that eye conditions common in middle and later life include cataracts, presbyopia, dry eye and glaucoma, and that in its early stage a cataract can bring blurred vision and sensitivity to light. When it is a strain to see written words, you can also tell the doctor about how your eyes are doing.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "常見中老年眼部問題",
+         "url": "https://tpech.gov.taipei/mp109181/News_Content.aspx?n=80359412498D4193&s=31D804C1E8DD06B0",
+         "kind": "fact",
+         "upd": "108-07-12"
+        }
+       },
+       {
+        "name": "Hearing loss",
+        "why": "The page is about hearing loss in older adults. It describes situations such as not being able to hear what other people say clearly and needing them to say it again. When hearing is a strain, you can also tell the doctor about it together with your difficulty with reading, writing and calculating.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "年紀大了，聽不清楚是聽覺功能自然退化，不理會沒關係？",
+         "url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=127&pid=14395",
+         "kind": "summary",
+         "upd": "2021-08-24"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "The page says that when a person has insomnia, they can sometimes feel low on energy during the day, remember less well and find it hard to concentrate, and that this in turn affects their studies or work.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "The page is about ADHD in adults. It explains that attention is made up of several abilities working together, and that when some part of this falls out of balance, a person can sometimes be easily distracted or forgetful. When reading, writing and calculating are very hard, you can also tell the doctor about how your concentration is.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twcmhc",
+       "twhosp"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own feelings.",
+      "scenes": [
+       "Periods when I am unusually high-spirited alternate with periods when I am so low that I cannot move.",
+       "There are periods when I hardly sleep, yet I am full of energy and keep on moving without stopping.",
+       "Things I want to do keep coming up one after another, and I leave each one half done.",
+       "When my mood was running high, I became bolder and spent too much money, and I had real trouble over it afterwards.",
+       "Small things make me irritable, and it is hard to hold back my feelings.",
+       "Things I did when my mood was high later affected my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the times when I was in unusually good spirits.",
+       "Please take some time to look back with me over the ups and downs of my mood.",
+       "Before I make big decisions about money or work, please remind me to stop and think first.",
+       "Please also find out about my sleep, my medicines and my drinking, and check the physical side together with me.",
+       "If I seem different from usual, please tell me directly, without blaming me.",
+       "Whether I am in good spirits or feeling low, please hear me out to the end."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Problems with thyroid function",
+        "why": "The page says that ups and downs in mood can sometimes be connected to causes in the body, and that problems with thyroid function are one common example.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "The page says that when a person has insomnia, they can sometimes be easily irritated during the day and have a mood that goes up and down.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "淺談失眠",
+         "url": "https://tpech.gov.taipei/mp109171/News_Content.aspx?n=0B9EBB2D2FC839D6&s=87CF2347837D7EBF",
+         "kind": "fact",
+         "upd": "112-09-13"
+        }
+       },
+       {
+        "name": "Effects of alcohol",
+        "why": "The page says that after the effects of alcohol wear off, the body reacts with a rebound that can make a person irritable and uneasy, and that for people who drink to help them fall asleep, controlling their emotions the next day is also harder.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "酒澆愁更愁：喝酒助眠是在幫大腦「硬拔插頭」！",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=51F47524FABD6338",
+         "kind": "fact",
+         "upd": "115-08-12"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page is about menopause in women. On the psychological side, it lists anxiety, irritability and low mood, among other things.",
+        "src": {
+         "org": "衛生福利部國民健康署",
+         "title": "更年期保健",
+         "url": "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=218",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Premenstrual syndrome and premenstrual dysphoric disorder (PMDD)",
+        "why": "The page is about premenstrual syndrome in women. On the psychological side, it lists anxiety, depressed mood and ups and downs in mood, among other things, and it also mentions that a more severe form is called “premenstrual dysphoric disorder”.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性身心的微妙變奏：經前症候群",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=940658456FC7FC71",
+         "kind": "fact",
+         "upd": "112-12-18"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page is about depression in women in later life. It says that a person can sometimes feel gloomy all day, have no energy for anything and sleep badly. You can also tell the doctor about the times when your mood is low.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "女性晚年憂鬱",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=6A91FAA3E841588E",
+         "kind": "fact",
+         "upd": "112-10-23"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "The page says that bipolar disorder has “mania”, with plenty of energy and high spirits, and also “depression”, with a heavy mood and no energy to do things, and that moods can sometimes swing up and down sharply within a short time.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "什麼是躁鬱症?",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=321AC70C1F69505C",
+         "kind": "fact",
+         "upd": "114-11-20"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "The page is about ADHD in adults. The difficulties it lists at the start include acting on impulse as soon as emotions rise, often forgetting things, and putting things off again and again.",
+        "src": {
+         "org": "臺北市立聯合醫院",
+         "title": "成人注意力不足過動症（ADHD）",
+         "url": "https://tpech.gov.taipei/mp109201/News_Content.aspx?n=86F3259FB2239188&sms=F761433975E2FD9A&s=86ACDA8702E409AB",
+         "kind": "fact",
+         "upd": "115-05-04"
+        }
+       }
+      ],
+      "windows": [
+       "twhosp",
+       "twcmhc"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Once you know a name, ordinary small ups and downs can sometimes look like symptoms",
+       "body": "Once you know the name of an illness or of a developmental condition, a little ordinary tiredness or a moment of spacing out can sometimes look like a symptom.\n\nA change in mood affects the body and the feelings. That is not just imagination; it really happens. But too little sleep, stress, looking at a phone for a long time, and the situation around you can also bring about something similar.\n\nWhen you see a name and think “this sounds like me,” do not draw a conclusion from that alone; think about whether there are other reasons too. If the difficulties continue, you can talk about them as they are, whether or not there is a name.",
+       "srcs": []
+      },
+      {
+       "h": "Low mood is also something people go through in life",
+       "body": "Low mood is an emotion, and it is also something people go through in life.\n\nA name (a diagnosis), however, is decided by a doctor who looks at the whole situation. It is also fine to see a doctor when work, relationships, family or daily life are clearly affected.\n\nIf the difficulties continue, you can talk about them as they are, whether or not there is a name.",
+       "srcs": [
+        {
+         "org": "衛生福利部 社會安全網",
+         "title": "請問精神疾病的定義、範圍及常見的精神疾病症狀？",
+         "url": "https://topics.mohw.gov.tw/SS/cp-4530-50107-204.html",
+         "kind": "fact",
+         "upd": "111-05-18"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for advice even without the name of an illness",
+       "body": "Even without the name of an illness, you can bring your difficulties just as they are.\n\nThe page of the Ministry of Health and Welfare on the 1925安心專線（依舊愛我） (the 1925 line) says that when you have mental stress or emotional difficulties, you can call it, and that it offers a free mental health consultation service 24 hours a day. The conditions on the page do not mention the name of an illness.\n\nThe city or county where you live has a community mental health center. The Mental Health Act (精神衛生法) says that local governments are to provide services such as promoting mental health, consultation and referral through the community mental health centers.\n\nUnder the Personal Data Protection Act (個人資料保護法), personal data such as medical records, medical care and health examinations may not, as a rule, be collected, processed or used (with exceptions such as when a law expressly provides for it or the person gives written consent), and this is the same at work. The Employment Service Act (就業服務法) also says that an employer must not go against the person's wishes and ask for private information that has nothing to do with what the job needs. The Mental Health Act says that, when it comes to seeking medical care, going to school, taking exams, employment and life in the community, people must not be put at an unfair disadvantage on the grounds of having a mental illness.\n\nWhen you explain what help you need, you can say these things together: in what situation, what difficulty you run into, and how you would like the other person to work with you.",
+       "srcs": [
+        {
+         "org": "衛生福利部心理健康司",
+         "title": "1925安心專線（依舊愛我）",
+         "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html",
+         "kind": "summary",
+         "upd": "114-08-28"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "精神衛生法 第28條、第37條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+         "kind": "summary",
+         "upd": "111-12-14"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "個人資料保護法 第6條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021",
+         "kind": "summary",
+         "upd": "114-11-11"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "就業服務法 第5條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0090001",
+         "kind": "summary",
+         "upd": "114-01-20"
+        }
+       ]
+      },
+      {
+       "h": "However, using a program sometimes requires documents such as a doctor's certificate",
+       "body": "However, to use a program, you sometimes need documents such as a doctor's certificate of diagnosis. What is needed differs from program to program.\n\nCertificate for serious illness or injury (重大傷病證明): a certificate of diagnosis issued by a doctor, stating the name of the illness and its international classification code, is needed. For mental health items, most must be issued by a specialist doctor in psychiatry, and it also matters whether the condition has become long-lasting.\n\nDisability certificate (身心障礙證明): you have to go through an evaluation that includes an examination and a diagnosis. The general rule of the evaluation is that it suits a person only when, even after active medical care, daily life is still clearly affected, or there is enough medical evidence to infer that daily life will be clearly affected over the long term.\n\nJob redesign (職務再設計, asking the government for help with adjusting work): a person who does not yet have a disability certificate but who has a mental illness can also apply. When applying, you attach a certificate of diagnosis issued by a specialist doctor in psychiatry.\n\nOccupational accidents (職業災害): when a mental illness has a considerable causal link with carrying out one's duties, it is regarded as an occupational disease. When you apply to the occupational accident insurance, you are asked to state your views or provide evidence about the hazards you were exposed to at work before falling ill, the evidence of the illness, the causal link between the illness and the work, and so on.\n\nLeave: when you ask for leave, the employer can ask you to provide related supporting documents.\n\nUniversity: universities have a unit to support students with disabilities (a resource room). Ask the school first what documents are needed.\n\nBefore going through a procedure, ask the service desk what is needed.",
+       "srcs": [
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "全民健康保險保險對象免自行負擔費用辦法 第2條、附表一",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060015",
+         "kind": "summary",
+         "upd": "113-09-16"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "身心障礙者鑑定作業辦法 第7條、附表二甲",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020020",
+         "kind": "summary",
+         "upd": "115-06-29"
+        },
+        {
+         "org": "勞動部",
+         "title": "勞動部擴大職務再設計服務　支持身障就業再升級",
+         "url": "https://www.mol.gov.tw/1607/1632/1633/90851/",
+         "kind": "summary",
+         "upd": "2026-06-02"
+        },
+        {
+         "org": "勞動部勞動力發展署",
+         "title": "尚未取得身障證明4類對象專區",
+         "url": "https://jobacmd.wda.gov.tw/DJOB_WEB/PwdEld/List",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "勞工職業災害保險職業傷病審查準則 第20條、第21條、第22條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050008",
+         "kind": "summary",
+         "upd": "114-05-26"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "勞工請假規則 第10條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030006",
+         "kind": "summary",
+         "upd": "115-09-30"
+        },
+        {
+         "org": "法務部 全國法規資料庫",
+         "title": "特殊教育法 第35條",
+         "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080027",
+         "kind": "summary",
+         "upd": "112-06-21"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for standing above other people",
+       "body": "The name of an illness is not a tool for standing above other people or looking down on them.\nSome people feel lighter once they know the name. That matters.\nIt is also natural to hope that the people around you will understand you and be gentle with you.\n\nWhen you hope people will be gentle with you, you can ask them directly.\nIt reaches the other person more easily when you say both what is hard and what you would like them to do.\n\nFor example:\n“I am rather tired today, so it would help if you spoke a little more slowly.”\n“I get confused when I hear many things at once, so it would help if you told me one at a time.”\n“It is hard for me to remember what I only hear, so I would like the important things written on paper or sent to me by email.”\n“Crowded places are hard for me to cope with, so I would like to talk somewhere quiet.”\n“It takes me a little time to answer, so it would help if you waited a bit.”\n“I am full of feelings right now, so I would like you to listen to me first. It is fine to give advice later.”\n“I am not feeling well today, so it would help if I could rest a little.”\n“I get flustered when plans change suddenly, so I would like to be told early.”\n“I get scared when people speak loudly, so it would help if you spoke calmly.”\n\nIf it is hard to say it well, it is fine to write it on paper and hand it over. In this app, when you choose a group of worries and answer the questions, the “My worries” screen appears. You can also show that screen to the other person with the “Show it large” button.\nIf you want to tell the other person the name of an illness, you can. Even then, saying what is hard and what you would like along with the name makes it easier for the other person to know how to help.\nEven when you ask, the other person sometimes cannot do it because of their own circumstances. Then you can talk together about whether there is another way.\nAt work, you can ask in this way: “It is hard for me when ___, so I would like ___.”\n\nPlease do not use this app's list of names as material for doubting the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. Seeing a name in the list of names does not mean that a doctor has made a diagnosis.\n\nSOYOGI is a non-profit group in Japan (not registered as a legal entity). It is not connected to the government of Taiwan, the Ministry of Health and Welfare and its agencies, city and county governments, community mental health centers, hospitals or professional groups. These bodies have not recommended or supported this app. The names of the bodies on the screens are given only to show where the information comes from.\n\nThis app is not a medical device and cannot tell whether someone has an illness. Whether someone has an illness is decided by a doctor's examination.\n\nSOYOGI wrote this content in its own words, drawing on public pages of various bodies. Sources are shown on each screen, and the original texts can be read free of charge on the website of each body. Checked on 29 October 2026. Phone numbers and hours may change.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "The Ministry of Health and Welfare urges people: if you have emotional difficulties, or if discomfort of the body or mind keeps going, you can use mental health resources or seek medical help.",
+      "src": {
+       "org": "衛生福利部",
+       "title": "守護災民與救災英雄的心 掌握五字訣善用心理健康資源",
+       "url": "https://www.mohw.gov.tw/cp-16-84219-1.html",
+       "kind": "summary",
+       "upd": "114-10-15"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "When you have mental stress or emotional difficulties, you do not have to carry them alone. You can call the 1925 line of the Ministry of Health and Welfare (24 hours a day, free of charge).",
+       "src": {
+        "org": "衛生福利部心理健康司",
+        "title": "1925安心專線（依舊愛我）",
+        "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html",
+        "kind": "summary",
+        "upd": "114-08-28"
+       }
+      },
+      {
+       "text": "The city or county where you live has a community mental health center. The Mental Health Act says that local governments are to provide services such as promoting mental health, consultation and referral through the community mental health centers.",
+       "src": {
+        "org": "法務部 全國法規資料庫",
+        "title": "精神衛生法 第28條",
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020030",
+        "kind": "summary",
+        "upd": "111-12-14"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "A name (a diagnosis) is decided by a doctor or another medical professional who looks at the whole situation. Even the same difficulty can have causes that differ from person to person.",
       "text": "",
       "src": null
      }
