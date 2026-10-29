@@ -17663,7 +17663,8 @@ window.KOMARI_DATA = {
     "it": "Corea del Sud"
    },
    "langs": [
-    "ko"
+    "ko",
+    "en"
    ],
    "main": "ko",
    "fallback": "ko",
@@ -17717,6 +17718,18 @@ window.KOMARI_DATA = {
        "upd": "2024-12-23"
       }
      },
+     "en": {
+      "name": "자살예방상담전화 109 (suicide prevention line)",
+      "desc": "A phone line you can call when things are so hard that you have thoughts of suicide. What you say is kept confidential as a rule, but in an emergency they can ask other bodies for help. They do not collect personal information unless you agree separately. There is also ‘마들랜’, where you can talk through KakaoTalk, an app or text messages.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "보건복지부 보건복지상담센터",
+       "title": "자주하는 질문(자살예방)",
+       "url": "https://www.129.go.kr/faq/faq06.do?searchConsultingKeyword=F01",
+       "kind": "fact",
+       "upd": "2024-12-23"
+      }
+     },
      "src": {
       "org": "보건복지부 보건복지상담센터",
       "title": "자주하는 질문(자살예방)",
@@ -17736,6 +17749,18 @@ window.KOMARI_DATA = {
       "name": "정신건강위기상담전화 1577-0199",
       "desc": "전국 어디서나 같은 번호예요. 휴대전화 위치를 기준으로 가까운 정신건강복지센터로 연결돼요. 자살 위기 상담을 포함한 정신건강 상담, 정신건강 정보, 정신의료기관 안내를 받을 수 있어요.",
       "hours": "밤과 휴일에는 광역정신건강복지센터로 연결돼요.",
+      "src": {
+       "org": "보건복지부",
+       "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+       "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+       "kind": "fact",
+       "upd": "2025-08-19"
+      }
+     },
+     "en": {
+      "name": "정신건강위기상담전화 1577-0199 (mental health crisis line)",
+      "desc": "It is the same number everywhere in the country. Based on the location of your mobile phone, you are connected to a mental health welfare center near you. You can get mental health advice including for suicide crises, mental health information, and guidance to mental health care institutions.",
+      "hours": "At night and on holidays, you are connected to the regional mental health welfare center.",
       "src": {
        "org": "보건복지부",
        "title": "정신건강 복지센터 및 정신건강상담전화 운영",
@@ -17771,6 +17796,18 @@ window.KOMARI_DATA = {
        "upd": "2025-01-23"
       }
      },
+     "en": {
+      "name": "119 (emergency number)",
+      "desc": "If your life is in danger, or you suddenly become very ill or get hurt, contact 119. Even when it is hard to tell for yourself what to do, you can get medical advice from 119.",
+      "hours": "",
+      "src": {
+       "org": "보건복지부",
+       "title": "설 연휴, 갑자기 아프면 이젠(E-gen)에서 가까운 문 여는 병의원을 찾으세요",
+       "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1484434",
+       "kind": "summary",
+       "upd": "2025-01-23"
+      }
+     },
      "src": {
       "org": "보건복지부",
       "title": "설 연휴, 갑자기 아프면 이젠(E-gen)에서 가까운 문 여는 병의원을 찾으세요",
@@ -17789,6 +17826,18 @@ window.KOMARI_DATA = {
      "ko": {
       "name": "112",
       "desc": "범죄나 폭력으로 위험할 때는 112에 신고하세요. 긴급한 신고는 112와 119로 모여 있고, 급하지 않은 민원 상담은 110이에요.",
+      "hours": "",
+      "src": {
+       "org": "행정안전부",
+       "title": "긴급신고 통합서비스",
+       "url": "https://www.mois.go.kr/frt/sub/a06/b10/emergencycall/screen.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "112 (police emergency number)",
+      "desc": "If you are in danger because of a crime or violence, report it to 112. Urgent reports go through 112 and 119, and 110 is for inquiries that are not urgent.",
       "hours": "",
       "src": {
        "org": "행정안전부",
@@ -17826,6 +17875,18 @@ window.KOMARI_DATA = {
        "upd": "2025-05-29"
       }
      },
+     "en": {
+      "name": "If it is hard to speak: text 112, 똑똑112 (Tok Tok 112)",
+      "desc": "You can put 112 as the recipient of a text message and send your name, your location and the reason you are reporting. If you called 112 and find it hard to speak, press any number key after the call connects. The police will know that you are in a situation where speaking is hard.",
+      "hours": "",
+      "src": {
+       "org": "보건복지부(대한민국 정책브리핑)",
+       "title": "말하기 어려운 상황엔 '똑똑112'",
+       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148943833",
+       "kind": "fact",
+       "upd": "2025-05-29"
+      }
+     },
      "src": {
       "org": "대한민국 정책브리핑",
       "title": "말하기 어려운 상황엔 '똑똑112'",
@@ -17853,6 +17914,18 @@ window.KOMARI_DATA = {
        "upd": "2025-04-17"
       }
      },
+     "en": {
+      "name": "If hearing or speaking is hard: 119 video call",
+      "desc": "People with hearing or speech disabilities can report directly to 119 by video call. The 119 staff member brings in the 손말이음센터 (107, sign language relay center), and three people, you, the staff member and a sign language interpreter, talk together on the video call.",
+      "hours": "",
+      "src": {
+       "org": "과학기술정보통신부(대한민국 정책브리핑)",
+       "title": "청각·언어장애인도 긴급상황시 119 직접 신고 가능해져",
+       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148941990",
+       "kind": "fact",
+       "upd": "2025-04-17"
+      }
+     },
      "src": {
       "org": "대한민국 정책브리핑",
       "title": "청각·언어장애인도 긴급상황시 119 직접 신고 가능해져",
@@ -17872,6 +17945,18 @@ window.KOMARI_DATA = {
       "name": "여성긴급전화 1366",
       "desc": "가정폭력, 성폭력, 스토킹, 디지털 성범죄 등 폭력 피해로 긴급한 구조나 보호, 상담이 필요할 때 전화할 수 있어요. 112·119와 연결하거나, 의료 기관과 보호 시설에 대한 정보를 알려 줘요.",
       "hours": "365일 24시간.",
+      "src": {
+       "org": "성평등가족부",
+       "title": "여성긴급전화1366 운영 지원",
+       "url": "https://www.mogef.go.kr/sp/hrp/sp_hrp_f002.do",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "여성긴급전화 1366 (emergency helpline for violence)",
+      "desc": "You can call when you need urgent rescue, protection or advice because of violence such as domestic violence, sexual violence, stalking or digital sex crimes. They can connect you with 112 or 119, or tell you about medical institutions and shelters.",
+      "hours": "24 hours a day, 365 days a year.",
       "src": {
        "org": "성평등가족부",
        "title": "여성긴급전화1366 운영 지원",
@@ -17907,6 +17992,18 @@ window.KOMARI_DATA = {
        "upd": "2025-08-19"
       }
      },
+     "en": {
+      "name": "정신건강복지센터 (mental health welfare center of your city, county or district)",
+      "desc": "It is the base of mental health services for local residents. First, ask the mental health welfare center of the city, county or district where you live. The mental health crisis line (1577-0199) is also run by these centers. You can show “My worries”.",
+      "hours": "Depends on the center.",
+      "src": {
+       "org": "보건복지부",
+       "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+       "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+       "kind": "fact",
+       "upd": "2025-08-19"
+      }
+     },
      "src": {
       "org": "보건복지부",
       "title": "정신건강 복지센터 및 정신건강상담전화 운영",
@@ -17926,6 +18023,18 @@ window.KOMARI_DATA = {
       "name": "정신건강의학과 의원·병원",
       "desc": "동네 의원과 병원에는 요양급여의뢰서 없이 갈 수 있어요. 상급종합병원(큰 대학병원 등)에서 건강보험으로 진료를 받으려면, 먼저 다른 병원이나 의원에서 받은 요양급여의뢰서 등이 필요해요. ‘제가 힘든 점’을 보여 줄 수 있어요.",
       "hours": "의원·병원에 따라 달라요.",
+      "src": {
+       "org": "국가법령정보센터(법제처)",
+       "title": "국민건강보험 요양급여의 기준에 관한 규칙 제2조",
+       "url": "https://www.law.go.kr/법령/국민건강보험요양급여의기준에관한규칙",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "정신건강의학과 의원·병원 (psychiatry clinics and hospitals)",
+      "desc": "You can go to clinics and hospitals in your neighborhood without a 요양급여의뢰서 (referral form for medical care benefits). To receive care under national health insurance at a 상급종합병원 (a large university hospital and the like), you first need a 요양급여의뢰서 or similar paper from another hospital or clinic. You can show “My worries”.",
+      "hours": "Depends on the clinic or hospital.",
       "src": {
        "org": "국가법령정보센터(법제처)",
        "title": "국민건강보험 요양급여의 기준에 관한 규칙 제2조",
@@ -17961,6 +18070,18 @@ window.KOMARI_DATA = {
        "upd": "2026-03-06"
       }
      },
+     "en": {
+      "name": "중독관리통합지원센터 (integrated addiction management support center in your area)",
+      "desc": "People who have addiction problems with alcohol, drugs, gambling, the internet and the like, their families, and local residents can use it. You can phone the center or visit it. You can see where the centers are in the list on a Ministry of Health and Welfare page.",
+      "hours": "Depends on the center.",
+      "src": {
+       "org": "보건복지부",
+       "title": "중독관리통합지원센터 운영 및 현황",
+       "url": "https://www.mohw.go.kr/menu.es?mid=a10706040400",
+       "kind": "fact",
+       "upd": "2026-03-06"
+      }
+     },
      "src": {
       "org": "보건복지부",
       "title": "중독관리통합지원센터 운영 및 현황",
@@ -17980,6 +18101,18 @@ window.KOMARI_DATA = {
       "name": "한국도박문제예방치유원 헬프라인 1336",
       "desc": "도박 문제로 어려움이 있는 사람과 가족이 상담할 수 있어요. 전화 말고도 문자, 채팅, 카카오톡, 게시판으로 상담할 수 있어요. 위기 상황에서는 긴급구조기관과 연결해 줘요.",
       "hours": "전화 상담: 매일 9:00~22:00(무료). 채팅 상담: 평일 9:00~18:00(주말과 공휴일 제외).",
+      "src": {
+       "org": "한국도박문제예방치유원",
+       "title": "상담안내",
+       "url": "https://www.kcgp.or.kr/portal/main/contents.do?menuNo=200062",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "한국도박문제예방치유원 헬프라인 1336 (gambling problem helpline)",
+      "desc": "People who have difficulties because of gambling, and their families, can talk to staff here. Besides phone calls, you can reach them by text message, chat, KakaoTalk and a message board. In a crisis, they connect you with emergency rescue agencies.",
+      "hours": "Phone: every day 9:00 to 22:00 Korean time (free of charge). Chat: weekdays 9:00 to 18:00 Korean time (not weekends and public holidays).",
       "src": {
        "org": "한국도박문제예방치유원",
        "title": "상담안내",
@@ -18015,6 +18148,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "보건복지상담센터 129 (Ministry of Health and Welfare helpline)",
+      "desc": "It is a helpline of the Ministry of Health and Welfare. You can call free of charge from anywhere in the country, without an area code. Calls about urgent welfare support, about people left out of the welfare system, and about mental health are taken 24 hours a day.",
+      "hours": "Weekdays 9:00 to 18:00 Korean time. Mental health calls: 24 hours.",
+      "src": {
+       "org": "보건복지부 보건복지상담센터",
+       "title": "129 전화상담",
+       "url": "https://www.129.go.kr/counsel/counsel01.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "보건복지부 보건복지상담센터",
       "title": "129 전화상담",
@@ -18042,6 +18187,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "국가인권위원회 인권상담 1331 (National Human Rights Commission of Korea, human rights helpline)",
+      "desc": "You can talk to them when you think you were discriminated against because of disability, sex, age, medical history and the like, or when you think a state body, public institution or local government violated your rights. The number is 1331 without an area code; when you call from a mobile phone, press the area code first.",
+      "hours": "Monday to Friday 9:00 to 18:00 Korean time (except 12:00 to 13:00, the lunch break).",
+      "src": {
+       "org": "국가인권위원회",
+       "title": "상담안내",
+       "url": "https://case.humanrights.go.kr/cnslt/guide.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "국가인권위원회",
       "title": "상담안내",
@@ -18061,6 +18218,18 @@ window.KOMARI_DATA = {
       "name": "대한법률구조공단 132",
       "desc": "법률 문제를 전화로 상담할 수 있어요. 전화로는 간단한 내용만 상담할 수 있어요. 통화료는 거는 사람이 내요.",
       "hours": "평일 낮(점심시간 제외).",
+      "src": {
+       "org": "대한법률구조공단",
+       "title": "전화상담",
+       "url": "https://www.klac.or.kr/legalstruct/telephoneConsultation.do",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "대한법률구조공단 132 (Korea Legal Aid Corporation, legal helpline)",
+      "desc": "You can get advice on legal problems by phone. By phone, only simple matters can be handled. The caller pays the call charge.",
+      "hours": "Weekday daytime (except the lunch break).",
       "src": {
        "org": "대한법률구조공단",
        "title": "전화상담",
@@ -19354,6 +19523,1287 @@ window.KOMARI_DATA = {
        "title": "우울감",
        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
        "kind": "quote",
+       "upd": "none"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low for a long time and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Even when I do things I used to like, I do not feel any enjoyment.",
+       "I have no energy and cannot concentrate, so I have trouble getting work and housework done.",
+       "I keep blaming myself, and I end up seeing everything in a dark light.",
+       "At night I cannot fall asleep, or on the contrary I sleep far too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what I need to do one thing at a time.",
+       "Please do not rush me for an answer or a decision; please give me time to think.",
+       "Please write down important things and hand them to me.",
+       "Before telling me “Cheer up”, please listen to my story first.",
+       "Please do not assume I am lazy just because I am resting.",
+       "Please also check together with me whether a physical illness or the medicine I am taking now might be involved."
+      ],
+      "meyasu": {
+       "has": true,
+       "text": "According to this page, talking it over with a mental health specialist is a good idea when a low mood lingers or becomes heavier.",
+       "src": {
+        "org": "질병관리청 국가건강정보포털",
+        "title": "우울감",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      "names": [
+       {
+        "name": "Physical illness or the effects of medicine",
+        "why": "The page says that a low mood can also come from a physical illness, such as diabetes, a stroke or a thyroid problem, or from the side effects of medicine.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "The page says that the body can become extremely tired, memory can get hazy, and it can be hard to concentrate or to feel motivated.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능저하증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5810",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hearing loss (hearing less well with age)",
+        "why": "The page says that when hearing gets worse with age, talking with others becomes hard, people can drift away from others, and it is easy for the mood to sink.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "노인성 난청",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5489",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "The page describes it as an illness in which breathing keeps stopping during sleep, and says that during the day the mood can sink, people can feel anxious, and it can become hard to concentrate.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "수면무호흡증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6308",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page describes changes in feelings that appear in women around menopause, and lists things like losing motivation, a sinking mood and trouble sleeping.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "폐경기",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6687",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Effects of alcohol (drinking)",
+        "why": "The page says that drinking too much alcohol is linked to trouble sleeping and a depressed mood.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Besides a sinking mood, the page says that many changes in body and mind come together, such as trouble concentrating and changes in appetite and sleep.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "The page describes it as an illness in which times when the mood is greatly lifted and times when it sinks keep coming back again and again.",
+        "src": {
+         "org": "국립춘천병원",
+         "title": "양극성장애",
+         "url": "https://www.cnmh.go.kr/menu.es?mid=a10203020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worries or tension",
+      "lead": "Worries that will not go away, a pounding heart and restlessness, or finding it hard to be in front of people or to go out.",
+      "scenes": [
+       "When I speak in front of people or become the center of attention, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and I get short of breath. I worry, “What if it happens again?”, and it becomes hard to go outside.",
+       "Even without a clear reason, I worry about one thing after another, feel restless and get worn out quickly.",
+       "I find it hard to be in places that are not easy to get out of, such as the subway, a bus, an elevator or the inside of a crowded building, and I find it hard to go out alone, so I avoid these things.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I meet have become fewer, and my life is getting narrower and narrower.",
+       "Worries will not leave my head, so it is hard for me to fall asleep at night."
+      ],
+      "asks": [
+       "Please wait for me when I speak instead of rushing me.",
+       "Please tell me the schedule and the order of things in advance.",
+       "Please do not suddenly ask for my opinion in front of other people, and let me also choose to give it in writing.",
+       "If I start to feel unwell, please allow me to step away for a moment and rest.",
+       "Please let me talk in a quiet place with only a few people.",
+       "Please do not just tell me flatly, “You are too sensitive” or “Don't let it bother you”; please first listen to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "The page says that along with feeling anxious and having trouble falling asleep, the heart can pound and the hands can tremble.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Arrhythmia (irregular heartbeat)",
+        "why": "The page describes it as a state in which the rhythm of the heartbeat is disturbed, and puts a pounding heart first among its typical features. It also says the causes are many, including caffeine, medicine, stress and thyroid conditions as well as heart disease.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "부정맥",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1102",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anemia",
+        "why": "The page says that with anemia, besides tiredness, there can be dizziness, shortness of breath and a heart that beats fast.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "빈혈",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1104",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Effects of caffeine",
+        "why": "The page lists having too much caffeine, whether eaten or drunk, as one of the reasons a pounding heart can occur.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Changes when stopping alcohol (withdrawal syndrome)",
+        "why": "The page says that when someone who has been drinking a lot for a long time suddenly stops, changes such as trembling hands, cold sweats and a pounding heart appear.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Effects of medicine",
+        "why": "In the part about the causes of a pounding heart, the page says that medicine prescribed at a hospital can sometimes disturb the heartbeat.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "In the part about the causes of a pounding heart that come from the mind, the page gives as an example a case where a pounding heart, cold sweats and anxiety come together in crowded or cramped places.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anxiety disorder",
+        "why": "Among the causes of a pounding heart that come from the mind, the page says that anxiety disorder is one of the most common.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "두근거림",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you repeat the same things, such as checking the door or the gas again and again or washing your hands over and over, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I cannot feel at ease going out unless I check again and again whether I locked the front door and turned off the gas valve.",
+       "I wash my hands or body more and more often, and I cannot stop even when I want to.",
+       "The same worry keeps coming up in my head, and I cannot stop it even though I want to stop thinking about it.",
+       "If I do not put things where I have decided, or do them in the order I have decided, I feel uncomfortable, so I fix them or start over from the beginning.",
+       "While I am checking, time slips by, so I sometimes leave late or end up late for appointments or work.",
+       "My body moves or sounds come out without my meaning to, and it is hard to stop even when I try."
+      ],
+      "asks": [
+       "Please do not just tell me flatly, “You are too sensitive” or “Don't let it bother you”; please listen to me first.",
+       "Checking takes time, so please allow plenty of time.",
+       "When the schedule or the order of things changes, please tell me in advance.",
+       "Please do not point out my checking or washing, or tease me about it, in front of other people.",
+       "Please give explanations and instructions one at a time, in writing.",
+       "As for how to carry on with consultations or medical visits from now on, please first listen to what worries me, and then decide together with me, slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "The page says that unwanted thoughts come back again and again, and that it is common for people to wash their hands or check over and over to push those thoughts away.",
+        "src": {
+         "org": "국립춘천병원",
+         "title": "강박장애",
+         "url": "https://www.cnmh.go.kr/menu.es?mid=a10205000000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that in depression, it is common to keep going over painful thoughts, and to get tired easily and lose focus.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Tic disorders",
+        "why": "The page says that movements that come on suddenly and quickly and repeat, such as blinking or shrugging the shoulders, and sounds such as clearing the throat, are called tics.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "틱장애",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_04_00_02",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "The page lists repeating the same behavior, and interests and activities staying within a narrow range, as one of its features.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "자폐스펙트럼장애",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_05_00_01",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Memories of that time that keep coming back, poor sleep, or tension that does not ease after a painful event.",
+      "scenes": [
+       "Even a small trigger suddenly brings back the scene and the feelings of that hard time.",
+       "I keep having similar frightening dreams, so on many nights I cannot sleep deeply.",
+       "I am always on edge, so even small noises or events make me jump.",
+       "I avoid the places, people and topics that remind me of that time as much as I can, and because of this the range of things I do has gradually become narrower.",
+       "My feelings seem dulled, so even toward my family and friends I do not feel the way I used to.",
+       "I blame myself more and more, or it has become hard for me to trust the people around me."
+      ],
+      "asks": [
+       "Please don't press me for the details of what happened. I'd like to talk about it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring that time back to me, so when I say I want to avoid them, please accept it.",
+       "Please don't speak to me suddenly from behind or make loud noises.",
+       "When it is hard to speak, please let me hand over something I have written instead.",
+       "Please don't take it as laziness when there are days I cannot sleep or days when tiredness stays with me.",
+       "Please don't rush me with “Just forget it” or “Shake it off quickly”. Please give me a place where I can talk comfortably."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia and nightmares",
+        "why": "The 국가트라우마센터 (National Center for Disaster and Trauma) page lists not being able to sleep and nightmares as reactions that sometimes appear after a major shock from a disaster.",
+        "src": {
+         "org": "국가트라우마센터",
+         "title": "심리적 반응 및 대처방법",
+         "url": "https://www.nct.go.kr/distMental/understand/understand02_1_1.do",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Increased alcohol or drug use",
+        "why": "The same page also lists drinking or using drugs more as a change in behavior after a major shock.",
+        "src": {
+         "org": "국가트라우마센터",
+         "title": "심리적 반응 및 대처방법",
+         "url": "https://www.nct.go.kr/distMental/understand/understand02_1_1.do",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anxiety",
+        "why": "The same page lists anxiety as a reaction that appears in the mind after a major shock.",
+        "src": {
+         "org": "국가트라우마센터",
+         "title": "심리적 반응 및 대처방법",
+         "url": "https://www.nct.go.kr/distMental/understand/understand02_1_1.do",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The 질병관리청 (Korea Disease Control and Prevention Agency) page lists it as one of the illnesses related to a low mood. It says that feeling distant from other people, avoiding and withdrawing, and trouble with sleep are found in both this and depression.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that life events such as being separated from someone dear or losing a job can bring on depression or make it harder to bear.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up often in the night, finding it hard to get up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even after getting into bed, I can hardly fall asleep.",
+       "I wake up several times in the night and cannot sleep soundly until morning.",
+       "When it is time to get up in the morning I cannot get up, so I keep being late for work or school.",
+       "Strong sleepiness comes over me during the day, and I nearly doze off in meetings or while driving.",
+       "My family told me that I snore loudly and that my breathing seems to stop while I sleep.",
+       "In the evening or at night my legs feel uncomfortable and it is hard to keep still, so I cannot fall asleep."
+      ],
+      "asks": [
+       "Please take the time to ask about my sleep: how long it takes me to fall asleep, waking in the night, how hard it is to get up in the morning, and sleepiness during the day.",
+       "Please think through the causes with me, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "Please don't simply conclude that it is “all a matter of attitude” or “because of weak willpower”. Please also look with me at whether I have a physical illness and how I am doing emotionally.",
+       "I would like to tell you about my sleep with a note of when I fell asleep and when I woke up, so please take a look at it.",
+       "If I start taking a medicine, please explain in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so please see me in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "The page says this is the name for when trouble falling asleep and waking up often keep going, so that daytime life is disrupted or the person feels distressed. It also says that trouble with sleep can continue even after the stress is gone.",
+        "src": {
+         "org": "국립정신건강센터(국가정신건강정보포털)",
+         "title": "뜨거운 여름 밤, 오늘은 어떻게 자야하나?(작성자: 소민아)",
+         "url": "https://www.mentalhealth.go.kr/portal/bbs/bbsDetail.do?bbsId=BBSINIT_2&nttId=244",
+         "kind": "fact",
+         "upd": "2020-05-13"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "The page lists together being very sleepy and tired during the day, breathing stopping or heavy snoring during sleep, and waking often. It also says it is common for a spouse who sleeps beside the person to see the breathing stop and worry.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "수면무호흡증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6308",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hyperthyroidism",
+        "why": "A physical illness in which too much thyroid hormone is made. The page also lists becoming anxious and sensitive and not being able to sleep well.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page says that around menopause a sudden feeling of heat in the face or body can appear, and that it gets stronger at night and can get in the way of sleep.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "폐경기",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6687",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Effects of medicines and caffeine",
+        "why": "The page says that, besides stress, drinks such as coffee and the medicines a person is taking can also be factors that get in the way of sleep.",
+        "src": {
+         "org": "국립정신건강센터(국가정신건강정보포털)",
+         "title": "뜨거운 여름 밤, 오늘은 어떻게 자야하나?(작성자: 소민아)",
+         "url": "https://www.mentalhealth.go.kr/portal/bbs/bbsDetail.do?bbsId=BBSINIT_2&nttId=244",
+         "kind": "fact",
+         "upd": "2020-05-13"
+        }
+       },
+       {
+        "name": "Effects of alcohol",
+        "why": "The page says that alcohol can cause trouble with sleep, and that drinking a lot lowers both the quality and the length of sleep.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Along with a low mood, the page also lists not being able to sleep well or, the other way around, sleeping too much.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "kohosp",
+       "komhc"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating has become hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, so for days now food has been hard to get down.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that my stomach feels very uncomfortable.",
+       "Before I realize it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "Ever since food got stuck in my throat or I vomited, eating has felt scary.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "Please do not comment on my weight going down or up, or on my appearance.",
+       "Please do not force me to eat or rush me to eat.",
+       "For work dinners or other times when many people eat together, please let me choose another place or time.",
+       "Please ask me first what foods I can eat, and which smells and textures are hard for me.",
+       "Please explain the order of any physical exam or tests beforehand.",
+       "Please let me write down on paper what is hard for me to say and hand it to you."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses (such as digestive and hormonal conditions) and the effects of medicines",
+        "why": "The page says that when a person loses weight without meaning to, there can also be physical reasons, such as illnesses of the stomach or intestines, hormonal (endocrine) illnesses, and side effects of medicines. It also says that if weight has clearly dropped, it is important to find out the cause at a hospital.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "체중 감소",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6546",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hyperthyroidism",
+        "why": "A physical illness in which too much thyroid hormone is made. The page describes weight going down even though appetite grows and the person eats a lot.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "A physical illness in which not enough thyroid hormone is made. The page describes the body becoming puffy and weight going up even though the person has little appetite and does not eat much.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능저하증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5810",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Along with a low mood, the page also lists appetite dropping or, the other way around, eating too much.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "kohosp",
+       "komhc"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I decide ‘that's enough for today’ about the time, amount or money, but I can't stick to it.",
+       "I hide my drinking, gaming or gambling from people close to me, or make excuses.",
+       "I have been staying up all night gaming day after day, so I can't get up in the morning, and I am late or miss school or work more often.",
+       "I want to win back the money I lost, so I end up gambling again.",
+       "Even though I know my body is not doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "Please listen to me first, without blaming me or jumping to conclusions.",
+       "Please sort out with me, step by step, how things are for me right now and what I find hard.",
+       "Please look at my sleep and how my body is doing as well.",
+       "Please tell me specifically where I can ask for advice and which places I can go to regularly.",
+       "Please also tell me whether my family or someone close to me can take part in the consultation with me.",
+       "Please check with me first about who you will tell what I said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep disorders (trouble sleeping)",
+        "why": "The page says that drinking a lot makes it hard to sleep deeply and shortens the time you sleep. When drinking is making things hard for you, you can also talk about your sleep.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alcohol use disorder (problems with drinking)",
+        "why": "The page says that the wish to drink and not being able to control your drinking yourself are linked to each other. Not being able to control it is described as an important feature of problems with drinking.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gambling problems (gambling addiction)",
+        "why": "The page describes gambling again to win back money that was lost, and not managing to cut down or stop even when trying.",
+        "src": {
+         "org": "한국도박문제예방치유원",
+         "title": "도박의 이해",
+         "url": "https://www.kcgp.or.kr/portal/main/contents.do?menuNo=200246",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gaming and other behavioral addictions",
+        "why": "The page uses the term ‘behavioral addiction’ for actions such as gaming or shopping, and says such actions can become excessive. It lists losing the power to control yourself as one of the features of addiction.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "중독장애(게임·약물)",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_04_00_04",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that problems with using substances such as alcohol and depression often occur together. When drinking is making things hard for you, you can also mention whether your mood is low.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "The page says that problems with drinking and anxiety disorders sometimes show up together. When your anxiety feels strong, you can talk about that as well.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "The page says that some adults with ADHD come to depend on alcohol or drugs.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "중독장애(게임·약물)",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_04_00_04",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "koaddict",
+       "ko1336",
+       "komhc",
+       "kohosp"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and planning",
+      "lead": "Trouble concentrating, getting things done in order, or remembering things.",
+      "scenes": [
+       "Even while someone is talking, before I know it I am thinking about something else.",
+       "I can't work through my job or housework in order, so I miss deadlines and due dates.",
+       "I often can't remember later what I was asked to do or what I promised, or I lose things.",
+       "When I do the same task for a long time, I make more careless mistakes.",
+       "When I sit still, I can't settle down and I feel restless.",
+       "People around me sometimes tell me that I often leave things behind without thinking, or that I am often late."
+      ],
+      "asks": [
+       "Please give me instructions one at a time.",
+       "Please write down important things and hand them to me.",
+       "Please tell me deadlines and appointments in advance.",
+       "Instead of asking me for many things at once, please ask me a few at a time.",
+       "Please let us talk in a quiet place where I am less easily distracted.",
+       "Please don't blame me for what I couldn't do; please notice what I did manage."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep apnea",
+        "why": "This name has to do with breathing that stops during sleep. The page describes memory and decision-making becoming hazy and trouble concentrating during the day.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "수면무호흡증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6308",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hypothyroidism (underactive thyroid)",
+        "why": "This is the name used when there is too little thyroid hormone. The page describes becoming forgetful or finding it hard to concentrate, and not feeling much drive.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능저하증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5810",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "This is the name used when thyroid hormone becomes high. The page describes concentration slipping so that it becomes hard to get work done, and becoming on edge or anxious.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page writes about finding it hard to concentrate, or memory becoming hazy, as mental changes that women who have reached menopause commonly go through.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "폐경기",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6687",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Chronic fatigue syndrome",
+        "why": "The page says that along with tiredness, difficulties with using your mind, such as trouble concentrating, can also come up. It says the cause is not yet clear.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "만성피로증후군",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6549",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that it can be hard to concentrate when someone has depression, too. It says that as your mood sinks, your mind can also stop working as smoothly.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "The page says that when mood is low it becomes hard to concentrate, and when mood is very high, attention quickly shifts to other things around you.",
+        "src": {
+         "org": "국립부곡병원",
+         "title": "양극성장애",
+         "url": "https://www.bgnmh.go.kr/menu.es?mid=a10202020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This is a name under which the page writes about difficulty keeping concentration going, together with acting on impulse or finding it hard to stay still.",
+        "src": {
+         "org": "국립춘천병원",
+         "title": "주의력결핍과잉행동장애(ADHD)",
+         "url": "https://www.cnmh.go.kr/menu.es?mid=a10209020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, it is hard for me to pick up on what the other person feels or the mood in the room, so I feel we are talking past each other.",
+       "When I speak in front of people, or when I am somewhere with people's eyes on me, I get very tense, so I end up avoiding those situations.",
+       "I can talk with people close to me, but in front of other people my voice won't come out.",
+       "When my set way of doing things, the order of the steps, or the place where I keep my things changes, I become very anxious.",
+       "Sounds, lights, smells and things like that feel too strong to me, so places with many people are hard for me.",
+       "I can't hear what others say very well, or my mood is low, so meeting people and talking with them have both become hard."
+      ],
+      "asks": [
+       "Please speak slowly and clearly.",
+       "Please write down important things and give them to me.",
+       "Please let us talk in a quiet place.",
+       "Please tell me in advance when plans or ways of doing things change.",
+       "Please don't rush me for an answer; please wait for me.",
+       "Please let me answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "The page says that pulling away from people, feeling low, or losing confidence sometimes comes from conversations becoming hard because you can't hear well.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "노인성 난청",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5489",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that with depression, the things you have to keep up with every day, such as relationships with people and life at school or work, become very hard. It also describes growing distant from others and feeling isolated.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "The page writes about the feeling that things have to be balanced or exactly right, and the actions that go with it, as one of the many forms OCD takes. As a reason these actions get repeated, it points to anxiety coming back when the actions stop.",
+        "src": {
+         "org": "국립부곡병원",
+         "title": "강박증",
+         "url": "https://www.bgnmh.go.kr/menu.es?mid=a10205030000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "The page names these as its features: behavior, interests and the things a person does stay within a narrow range, with the same things repeated, and there is ongoing difficulty with back-and-forth conversation and building relationships with people.",
+        "src": {
+         "org": "국립나주병원",
+         "title": "자폐스펙트럼장애",
+         "url": "https://www.najumh.go.kr/html/content.do?depth=fc&menu_cd=02_05_00_01",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers stays hard even with effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I end up reading it again and again.",
+       "Even when I read, the content does not sink in, and I find it hard to understand what documents or notices mean.",
+       "I often make mistakes with spelling and word spacing, and I often leave out letters or words when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on word problems.",
+       "I can speak and listen without difficulty, but reading, writing and calculating do not go the way I intend, even when I take plenty of time."
+      ],
+      "asks": [
+       "Please show me texts in large print with wide line spacing, and replace difficult words with plain ones or explain them in simple words.",
+       "Please read important things aloud to me or tell them to me out loud.",
+       "Please let me use the keyboard of a computer or phone, or keep a record with photos or voice recordings, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me plenty of time for reading, writing and calculating.",
+       "Please give me less at a time, and hand things to me one at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Presbyopia (age-related difficulty seeing up close)",
+        "why": "It is described as a change in the eyes: as people get older, the lens inside the eye becomes less flexible, and it gets hard to focus on things close up. The page also lists having to hold reading material far from the eyes to see the letters well as one way this shows up.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "노안",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5226",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Low vision",
+        "why": "It is described as a condition in which eyesight stays low, or the area a person can see stays narrow, even after glasses or lenses, medicine or surgery. The page also says that when the center of the field of view gets blurry, reading letters becomes hard.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "저시력",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5224",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that along with a low mood, it becomes hard to concentrate, so that even when a person reads, the words do not stay in the mind.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "komhc",
+       "kohosp",
+       "ko129"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own feelings.",
+      "scenes": [
+       "Times when my mood is much too high alternate with times when I sink down and cannot move.",
+       "There are times when I have hardly slept and yet I am full of energy and keep on moving.",
+       "Things I want to do keep coming to mind one after another, so I never finish any of them and leave them half done.",
+       "When my mood was high, I once spent so much money that it caused me trouble later.",
+       "I get irritated over small things and find it hard to hold back my feelings.",
+       "Something I did when my mood was high has affected my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the times when my mood was very high.",
+       "Please take the time to look back with me on how my mood has gone up and down.",
+       "Before I make big decisions about money or work, please tell me to pause for a moment and think.",
+       "Please also check with me whether there is a cause in my body, including sleep, medicine and alcohol.",
+       "If I seem different from usual, please tell me without blaming me.",
+       "Whether I am full of energy or feeling low, please listen to me to the end."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "It says that when the thyroid releases too much hormone, what shows up has a lot in common with conditions such as anxiety attacks or mania. So even when the cause is in the body, it can look like a problem with mood.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "갑상선기능항진증",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1831",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "It says that the low mood that comes around menopause also includes big ups and downs in mood, along with anxiety.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Effects of alcohol (drinking)",
+        "why": "It says that when drinking keeps bringing relief from low mood, anxiety or the distress of not being able to sleep, and lifts the mood, a person comes to lean on alcohol. It also says that drinking too much makes sleep harder and is linked with low mood.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "음주",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "It says that each time the period gets close, energy drops and interest in everyday things falls, or the mind becomes anxious and angry.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "It says that, depending on the person, depression can also bring easy outbursts of anger, or touchy reactions such as feeling anxious and restless.",
+        "src": {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic-depressive illness)",
+        "why": "It is described as marked by big shifts in thinking and behavior, energy and mood, with a person moving between times when mood is very high and times when it is deeply low. The page says that in the high times a person does not get tired and wants less sleep, or feels thoughts racing without a pause.",
+        "src": {
+         "org": "국립부곡병원",
+         "title": "양극성장애",
+         "url": "https://www.bgnmh.go.kr/menu.es?mid=a10202020000",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "kohosp",
+       "komhc"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can sometimes make small everyday ups and downs look like an illness",
+       "body": "Once you know the name of an illness or of a developmental condition, a little everyday tiredness or a moment of feeling spaced out can start to look like part of that illness.\n\nWhen feelings change how your body and your mood feel, that is not just imagination. It really happens. But sleeping too little, stress, looking at a phone for a long time, or things going on around you can bring about something similar.\n\nIf, when you read a name, you think “this sounds like me,” do not settle on that alone; think of other reasons too. And if the difficulties continue, it is fine to talk about them as they are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Everyone has times when their mood is low",
+       "body": "The health information portal of the Korea Disease Control and Prevention Agency has a page on low mood. According to that page, feeling down for a short while is something that happens to all of us at times.\n\nThe mental health awareness ad ‘마주해요’ (“Facing it”), released in 2024 by the Ministry of Health and Welfare and the National Center for Mental Health, also carries the message that anyone can face mental difficulties at any time.\n\nBut a name (a diagnosis) is decided by a doctor, who looks at things such as how long the difficulties last and how much they get in the way of daily life.\n\nIf the difficulties continue, it is fine to talk about them as they are, with or without a name.",
+       "srcs": [
+        {
+         "org": "질병관리청 국가건강정보포털",
+         "title": "우울감",
+         "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "보건복지부",
+         "title": "보건복지부·국립정신건강센터, 정신건강 인식개선 광고 ‘마주해요’ 공개",
+         "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1483558",
+         "kind": "summary",
+         "upd": "2024-11-05"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for advice even without the name of an illness",
+       "body": "Even without the name of an illness, you can talk about what is hard just as it is. The Ministry of Health and Welfare is telling everyone who is having difficulties not to hesitate to use the 129 helpline.\n\nThe mental health welfare center of the city, county or district where you live serves local residents. The page does not say that you need the name of an illness. The Mental Health Welfare Act (정신건강복지법) also counts problems such as depression, anxiety and loneliness, where there is concern that mental health could get worse, among the ‘mental health problems’.\n\nIf you are having difficulties with alcohol, gambling, the internet and the like, you can also talk to the integrated addiction management support center in your area. The page says you can use it by phone or by visiting the center.\n\nUnder the Act on the Prohibition of Discrimination against Persons with Disabilities and Remedy against Infringement of Their Rights (장애인차별금지 및 권리구제 등에 관한 법률), a disability means a state in which a physical or mental impairment or loss of function places considerable limits on daily life or social life over a long period. Registration as a person with a disability is not part of that definition. In one decision in 2024, the Committee on Disability Discrimination Remedies (장애인차별시정위원회) of the National Human Rights Commission also regarded a person who was not registered under the Welfare of Persons with Disabilities Act as a person with a disability under this Act.\n\nThe Act defines refusing to provide ‘reasonable accommodation’ (정당한 편의) without a justifiable reason as discrimination. It says that schools must not refuse, without a justifiable reason, accommodations requested by a person with a disability who is enrolled there. At work, this duty applies to workplaces of the size set by law.\n\nInformation about health is ‘sensitive information’, and the Personal Information Protection Act restricts how it is processed. For a company to process it, it needs separate consent or a basis in law. Medical examinations to find out before hiring whether someone has a disability are banned by law. There is also a law that says that, when hiring, an employer must not discriminate on the grounds of medical history without a reasonable reason.\n\nWhat kind of help would be good and how far it can go depend on the situation and on the other side's circumstances, so you and the other side decide together by talking it over.",
+       "srcs": [
+        {
+         "org": "보건복지부",
+         "title": "힘들때 129, 막막할 때 129, 추석연휴에도 129 보건복지상담센터 24시간 운영",
+         "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492014",
+         "kind": "summary",
+         "upd": "2026-09-18"
+        },
+        {
+         "org": "보건복지부",
+         "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+         "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+         "kind": "fact",
+         "upd": "2025-08-19"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률 제11조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=285345&chrClsCd=010202&urlMode=lsInfoR&efYd=20261008&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "보건복지부",
+         "title": "중독관리통합지원센터 운영 및 현황",
+         "url": "https://www.mohw.go.kr/menu.es?mid=a10706040400",
+         "kind": "fact",
+         "upd": "2026-03-06"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인차별금지 및 권리구제 등에 관한 법률 제2조·제4조·제11조·제12조·제13조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=279699&chrClsCd=010202&urlMode=lsInfoR&efYd=20251111&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2025-11-11"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인차별금지 및 권리구제 등에 관한 법률 시행령 제6조·별표 1",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=290475&chrClsCd=010202&urlMode=lsInfoR&efYd=20261002&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-10-02"
+        },
+        {
+         "org": "국가인권위원회",
+         "title": "교정시설의 장애인 수용자에 대한 피의자 조사 시 조력받을 권리 보장해야",
+         "url": "https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7610242&menuLevel=3&menuNo=91",
+         "kind": "fact",
+         "upd": "2024-05-20"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "개인정보 보호법 제23조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=283839&chrClsCd=010202&urlMode=lsInfoR&efYd=20260911&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-09-11"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "고용정책 기본법 제7조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=276847&chrClsCd=010202&urlMode=lsInfoR&efYd=20260102&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-01-02"
+        }
+       ]
+      },
+      {
+       "h": "However, some programs ask for documents",
+       "body": "Some programs ask for papers such as a doctor's certificate. What is needed differs from program to program.\n\nTo get support with the costs of care, you need a diagnosis by a specialist doctor in psychiatry (정신건강의학과 전문의), and there are also standards for income and assets.\n\nIf you apply to be registered as a person with a disability, papers that show your condition are needed, and the city, county or district sometimes has a medical institution with a specialist for that kind of disability carry out the disability diagnosis. If a closer review is needed, the National Pension Service (국민연금공단) is asked to carry it out, and in that case consent is obtained and medical records are sometimes looked at. For mental disability, it is written that the disability is determined after a person has been seeing a doctor steadily for a set period or longer.\n\nWhen you apply for industrial accident care benefits (산재 요양급여) for an illness or injury caused by work, a paper with a medical opinion about that work-related injury or illness is needed. When you take time off for an illness unrelated to work, the rules depend on the rules of your workplace (work rules and the like).\n\nSome programs that help with work check whether you are eligible with something like a disability registration card.\n\nUniversities have a disability student support center (장애학생지원센터). A small university sometimes has a department in charge that does this job. The law requires universities to write the support into their rules, and what kind of proof is needed differs from university to university.\n\nBefore you apply, ask at the service desk what is needed.",
+       "srcs": [
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률 시행령 제5조의2",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=287177&chrClsCd=010202&urlMode=lsInfoR&efYd=20260701&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-07-01"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인복지법 시행규칙 제3조·제3조의2",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=282417&chrClsCd=010202&urlMode=lsInfoR&efYd=20260701&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-07-01"
+        },
+        {
+         "org": "국민연금공단",
+         "title": "장애유형별 장애진단 시기",
+         "url": "https://nps.or.kr/das/ttm/getOHAO0024M0.do",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "산업재해보상보험법 제37조·제41조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=283459&chrClsCd=010202&urlMode=lsInfoR&efYd=20260701&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-07-01"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "근로기준법 제93조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=285279&chrClsCd=010202&urlMode=lsInfoR&efYd=20261008&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인고용촉진 및 직업재활법 시행령 제3조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=285611&chrClsCd=010202&urlMode=lsInfoR&efYd=20260512&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2026-05-12"
+        },
+        {
+         "org": "국가법령정보센터(법제처)",
+         "title": "장애인 등에 대한 특수교육법 제30조·제32조",
+         "url": "https://www.law.go.kr/LSW/lsInfoR.do?lsiSeq=276191&chrClsCd=010202&urlMode=lsInfoR&efYd=20251001&ancYnChk=0",
+         "kind": "summary",
+         "upd": "2025-10-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for standing above other people",
+       "body": "The name of an illness is not a tool for standing above other people or looking down on them.\nSome people feel at ease when they learn the name. That matters.\nIt is also natural to hope that the people around you will understand you and be kind to you.\n\nWhen you hope people will be kind to you, it is fine to ask for it just as it is, without saying the name of an illness.\nIt reaches the other person better when you say both what is hard and what would help.\n\nFor example:\n“I am very tired today, so it would help if you spoke slowly.”\n“I get confused when I hear many things at once, so it would help if you told me one at a time.”\n“It is hard for me to remember what I only hear, so I would like the important things written on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me time to answer, so it would help if you waited a little.”\n“My mind is very full right now, so I would like you to listen first. I am fine with hearing advice later.”\n“I am not feeling well today, so it would help if I could rest a little.”\n“I get flustered when the schedule changes suddenly, so I would like to be told in advance.”\n“I get scared when people speak loudly, so it would help if you spoke calmly.”\n\nIf it is hard to say it well, it is fine to write it on paper and hand it over. In this app, when you choose a group of worries and answer the questions, the “My worries” screen appears. You can also show that screen with the “Show it large” button.\nIf you want to say the name of a diagnosis, you can. Even then, saying what is hard and what would help along with the name makes it easier for the other person to act.\nSometimes the other person cannot do what you ask because of their own circumstances. Then talk together about whether there is another way.\n\nYou can ask in the same way at work. “It is hard for me to follow several instructions at once, so I would like to get them on paper.”\n\nPlease do not use this app's list of names to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. Being on this list does not mean you can say that you have received a diagnosis. This app is not a medical device, so it cannot tell whether someone has an illness. A doctor's examination is needed for that. It also does not take the place of a consultation or a medical visit.\n\nYour answers are not sent anywhere and are not saved on this device. They are erased when you close the app.\n\nIndependent app. SOYOGI is a non-profit group in Japan. This app is not connected to the Korean government or its ministries, the Korea Disease Control and Prevention Agency, the Ministry of Food and Drug Safety, local governments, public institutions including mental health welfare centers, professional associations or any medical institution. These bodies have not recommended or supported this app. What is written here does not mean that it is the opinion of any body. The names of the bodies are given only to show where the information comes from. The original texts can be read free of charge on the website of each body.\n\nSOYOGI wrote this content in its own words, drawing on public pages in South Korea. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page where the page shows one. Checked on 29 October 2026. Numbers and hours may change.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": [
+        {
+         "org": "식품의약품안전처",
+         "title": "의료기기와 개인용 건강관리제품(웰니스) 판단기준",
+         "url": "https://www.mfds.go.kr/brd/m_1059/view.do?seq=15229",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       ]
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Under the slogan ‘힘들땐 129’ (“When it is hard, 129”), the Ministry of Health and Welfare is telling everyone who is having difficulties not to hesitate to use the helpline.",
+      "src": {
+       "org": "보건복지부",
+       "title": "힘들때 129, 막막할 때 129, 추석연휴에도 129 보건복지상담센터 24시간 운영",
+       "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492014",
+       "kind": "summary",
+       "upd": "2026-09-18"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Instead of carrying it all by yourself, you can ask the mental health welfare center of the city, county or district where you live. The centers serve local residents.",
+       "src": {
+        "org": "보건복지부",
+        "title": "정신건강 복지센터 및 정신건강상담전화 운영",
+        "url": "https://www.mohw.go.kr/menu.es?mid=a10706040100",
+        "kind": "fact",
+        "upd": "2025-08-19"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "A name (a diagnosis) is decided by a doctor through a medical examination. Even the same difficulty can have many causes. A page from the Korea Disease Control and Prevention Agency says the following about depression.",
+      "text": "This page explains that depression does not grow from one single cause. Physical illnesses such as cancer or thyroid disease can play a part, and so can psychological and social factors and the biology of the brain and nerves.",
+      "src": {
+       "org": "질병관리청 국가건강정보포털",
+       "title": "우울감",
+       "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6788",
+       "kind": "fact",
        "upd": "none"
       }
      }
