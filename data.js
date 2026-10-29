@@ -8269,7 +8269,8 @@ window.KOMARI_DATA = {
     "it": "Germania"
    },
    "langs": [
-    "de"
+    "de",
+    "en"
    ],
    "main": "de",
    "fallback": "de",
@@ -8322,6 +8323,18 @@ window.KOMARI_DATA = {
        "upd": "2025-10-06"
       }
      },
+     "en": {
+      "name": "TelefonSeelsorge 116 123 (listening line)",
+      "desc": "If you feel mentally unwell or are in a crisis, you can call here. Staff with psychological training give you advice free of charge and anonymously. There is also advice by e-mail and chat. The advice is in German only. In Turkish, Arabic and Urdu, the Muslim telephone helpline MuTeS (030 44 35 09 821) gives advice around the clock, and in Russian, Doweria (030 440 308 454) gives advice around the clock. If the line is busy, please try again a little later.",
+      "hours": "24 hours a day, seven days a week. Free of charge.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Nummern für den Notfall",
+       "url": "https://gesund.bund.de/notfallnummern",
+       "kind": "summary",
+       "upd": "2025-10-06"
+      }
+     },
      "src": {
       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
       "title": "Nummern für den Notfall",
@@ -8340,6 +8353,18 @@ window.KOMARI_DATA = {
      "de": {
       "name": "112 (Rettungsdienst) · 110 (Polizei)",
       "desc": "Wenn Sie sich selbst oder andere in Gefahr sehen, zögern Sie nicht anzurufen: den Rettungsdienst unter 112 oder die Polizei unter 110.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Anlaufstellen bei psychischen Krisen",
+       "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/psychische-gesundheit/anlaufstellen-bei-psychischen-krisen",
+       "kind": "summary",
+       "upd": "2026-04-23"
+      }
+     },
+     "en": {
+      "name": "112 (emergency medical service) · 110 (police)",
+      "desc": "If you see yourself or others in danger, do not hesitate to call: the emergency medical service on 112 or the police on 110.",
       "hours": "",
       "src": {
        "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
@@ -8376,6 +8401,18 @@ window.KOMARI_DATA = {
        "upd": "2025-10-06"
       }
      },
+     "en": {
+      "name": "116 117 (on-call doctor service)",
+      "desc": "If the doctor's practice is closed and you have urgent symptoms that cannot wait until the next consultation hours, the on-call doctor service can help. It is meant for cases that are not life-threatening. If life is in danger, call 112. The call is free of charge.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Nummern für den Notfall",
+       "url": "https://gesund.bund.de/notfallnummern",
+       "kind": "summary",
+       "upd": "2025-10-06"
+      }
+     },
      "src": {
       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
       "title": "Nummern für den Notfall",
@@ -8394,6 +8431,18 @@ window.KOMARI_DATA = {
      "de": {
       "name": "Notruf ohne Sprechen (Fax, nora)",
       "desc": "Wenn Sie nicht sprechen können oder schlecht hören: Sie können ein Notfall-Fax an die 110 oder die 112 senden. Mit nora, dem Notruf-App-System der Bundesländer, schreiben Sie mit der Leitstelle. Die App muss vorher eingerichtet werden: Bei der Registrierung werden Ihr Name und Ihre Handynummer erfasst, manchmal ist ein zusätzlicher Bestätigungsschritt nötig. Wenn die Registrierung nicht klappt, rufen Sie, wenn Sie können, die 110 oder die 112 an.",
+      "hours": "",
+      "src": {
+       "org": "nora, die Notruf-App der Bundesländer",
+       "title": "Häufig gestellte Fragen (FAQ)",
+       "url": "https://www.nora-notruf.de/de-as/fragen/faq",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Emergency call without speaking (fax, nora)",
+      "desc": "If you cannot speak or are hard of hearing: you can send an emergency fax to 110 or 112. With nora, the emergency call app system of the federal states, you communicate in writing with the emergency control center. The app has to be set up beforehand: when you register, your name and your mobile phone number are recorded, and sometimes an additional confirmation step is needed. If registration does not work, call 110 or 112 if you can.",
       "hours": "",
       "src": {
        "org": "nora, die Notruf-App der Bundesländer",
@@ -8430,6 +8479,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Hilfetelefon “Gewalt gegen Frauen” (helpline on violence against women)",
+      "desc": "For women who experience violence. Trained advisers listen. You decide for yourself what you tell them. The call is free of charge, even with no credit on your phone, and you can stay anonymous. Your number is not shown to the adviser, and the helpline's number does not appear on an itemized phone bill. It does appear in the call list of your phone, though, and you have to delete it there yourself. The number can only be reached within Germany. There may be waiting times.",
+      "hours": "Around the clock, including weekends and public holidays.",
+      "src": {
+       "org": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (Hilfetelefon „Gewalt gegen Frauen“)",
+       "title": "Telefon-Beratung",
+       "url": "https://www.hilfetelefon.de/das-hilfetelefon/beratung/telefon-beratung/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (Hilfetelefon „Gewalt gegen Frauen“)",
       "title": "Telefon-Beratung",
@@ -8449,6 +8510,18 @@ window.KOMARI_DATA = {
       "name": "Ihre Hausarztpraxis",
       "desc": "Bei Fragen zur Gesundheit ist die Hausarztpraxis oft der erste Ort, an den man sich wendet. Sie können Ihre Praxis frei wählen und auch wechseln. Sie können dort „Meine Schwierigkeiten“ zeigen. Außerhalb der Öffnungszeiten erreichen Sie mit akuten Beschwerden den Bereitschaftsdienst unter 116 117. Praxen in Ihrer Nähe finden Sie über die Suche von gesund.bund.de.",
       "hours": "Je nach Praxis.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Hausärztliche Versorgung",
+       "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/aerztliche-betreuung/hausaerztliche-versorgung",
+       "kind": "summary",
+       "upd": "2026-04-23"
+      }
+     },
+     "en": {
+      "name": "Hausarztpraxis (your family doctor)",
+      "desc": "For questions about health, the family doctor's practice is often the first place people turn to. You can choose your practice freely and also change it. You can show \"My worries\" there. Outside opening hours, you can reach the on-call service on 116 117 with acute symptoms. You can find practices near you through the search on gesund.bund.de.",
+      "hours": "Depends on the practice.",
       "src": {
        "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
        "title": "Hausärztliche Versorgung",
@@ -8484,6 +8557,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Psychotherapeutische Sprechstunde (first consultation for psychological difficulties)",
+      "desc": "A first conversation in a Sprechstunde (consultation hour) for psychological difficulties. You do not need a referral for it. You can call a practice yourself or book an appointment for a Sprechstunde online. If you cannot find a practice, a call to 116 117 will help you. It can take a while until the appointment.",
+      "hours": "Depends on the practice.",
+      "src": {
+       "org": "Kassenärztliche Bundesvereinigung (KBV)",
+       "title": "Psychotherapie",
+       "url": "https://www.116117.de/de/psychotherapie.php",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Kassenärztliche Bundesvereinigung (KBV)",
       "title": "Psychotherapie",
@@ -8503,6 +8588,18 @@ window.KOMARI_DATA = {
       "name": "Sozialpsychiatrischer Dienst",
       "desc": "Beratung und Begleitung für Menschen mit psychischen Problemen und für ihr Umfeld. Für jeden Ort gibt es einen zuständigen Dienst. Das Angebot ist kostenlos, und es gibt keine Zugangsvoraussetzungen: Eine offizielle Diagnose oder eine Krankenversicherung ist nicht nötig. Die Mitarbeitenden unterliegen der Schweigepflicht, und die Beratung kann auch anonym sein. Den zuständigen Dienst finden Sie zum Beispiel über das örtliche Gesundheitsamt.",
       "hours": "Je nach Ort. Manche Dienste haben offene Sprechstunden ohne Termin.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Sozialpsychiatrischer Dienst",
+       "url": "https://gesund.bund.de/sozialpsychiatrischer-dienst",
+       "kind": "summary",
+       "upd": "2025-04-15"
+      }
+     },
+     "en": {
+      "name": "Sozialpsychiatrischer Dienst (social psychiatric service)",
+      "desc": "Advice and support for people with psychological problems and for the people around them. There is a responsible service for each place. The service is free of charge, and there are no entry requirements: a formal diagnosis or health insurance is not needed. The staff are bound by confidentiality, and the advice can also be anonymous. You can find the responsible service, for example, through your local public health office.",
+      "hours": "Depends on the place. Some services have open consultation hours without an appointment.",
       "src": {
        "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
        "title": "Sozialpsychiatrischer Dienst",
@@ -8538,6 +8635,18 @@ window.KOMARI_DATA = {
        "upd": "2026-10-19"
       }
      },
+     "en": {
+      "name": "Unabhängige Patientenberatung Deutschland (UPD, independent health advice service)",
+      "desc": "If you do not know whom to turn to: the UPD gives advice on questions about health and helps you find suitable contact points. The advice is free of charge, confidential and anonymous. It is open to everyone, whether covered by statutory insurance, private insurance or no health insurance.",
+      "hours": "Mon. and Tue. 9 a.m. to 12 noon and 2:30 p.m. to 5 p.m., Wed. 9 a.m. to 2 p.m., Thu. 9 a.m. to 12 noon and 2 p.m. to 6 p.m., Fri. 9:30 a.m. to 2 p.m.",
+      "src": {
+       "org": "Stiftung Unabhängige Patientenberatung Deutschland (UPD)",
+       "title": "Häufige Fragen und Antworten",
+       "url": "https://patientenberatung.de/ueber-uns/faq/",
+       "kind": "fact",
+       "upd": "2026-10-19"
+      }
+     },
      "src": {
       "org": "Stiftung Unabhängige Patientenberatung Deutschland (UPD)",
       "title": "Häufige Fragen und Antworten",
@@ -8557,6 +8666,18 @@ window.KOMARI_DATA = {
       "name": "EUTB (Ergänzende unabhängige Teilhabeberatung)",
       "desc": "Beratung für Menschen mit Behinderungen, für Menschen, denen eine Behinderung droht, und für Angehörige, auch schon bevor Sie etwas beantragen. Die Beratung ist kostenlos und nicht an eine Teilhabebeeinträchtigung geknüpft.",
       "hours": "Je nach Beratungsstelle.",
+      "src": {
+       "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+       "title": "Verordnung zur Weiterführung der Ergänzenden unabhängigen Teilhabeberatung (Teilhabeberatungsverordnung - EUTBV)",
+       "url": "https://www.gesetze-im-internet.de/eutbv/BJNR179600021.html",
+       "kind": "summary",
+       "upd": "2026-09-01"
+      }
+     },
+     "en": {
+      "name": "EUTB (Ergänzende unabhängige Teilhabeberatung, supplementary independent advice on participation)",
+      "desc": "Advice for people with disabilities, for people who are threatened by a disability, and for relatives, even before you apply for anything. The advice is free of charge and is not tied to an impairment of participation (Teilhabebeeinträchtigung).",
+      "hours": "Depends on the advice center.",
       "src": {
        "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
        "title": "Verordnung zur Weiterführung der Ergänzenden unabhängigen Teilhabeberatung (Teilhabeberatungsverordnung - EUTBV)",
@@ -8592,6 +8713,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Sucht & Drogen Hotline (addiction and drugs helpline)",
+      "desc": "Telephone advice for people with addiction problems and for relatives, friends or colleagues. Experienced specialists from drug and addiction services inform, advise and refer to local services. A joint service of the drug emergency services of Frankfurt am Main and Munich; the BIÖG provides the organizational umbrella.",
+      "hours": "Daily 8 a.m. to midnight. There is a charge: 0.20 euros per call from a landline and from a mobile network.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "Sucht & Drogen Hotline",
+       "url": "https://www.bioeg.de/service/beratungsangebote/sucht-drogen-hotline/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
       "title": "Sucht & Drogen Hotline",
@@ -8611,6 +8744,18 @@ window.KOMARI_DATA = {
       "name": "Suchtberatungsstellen in Ihrer Nähe",
       "desc": "Beratungsstellen zu Alkohol, Tabak, Drogen, Medikamenten und Glücksspiel finden Sie im Suchthilfeverzeichnis der Deutschen Hauptstelle für Suchtfragen (DHS), einem Kooperationspartner des BIÖG (dhs.de).",
       "hours": "Je nach Beratungsstelle.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "Beratungsstellen-Adressen",
+       "url": "https://www.bioeg.de/service/beratungsstellen/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Addiction advice centers near you",
+      "desc": "You can find advice centers for alcohol, tobacco, drugs, medicines and gambling in the addiction help directory of the Deutsche Hauptstelle für Suchtfragen (DHS), a cooperation partner of the BIÖG (dhs.de).",
+      "hours": "Depends on the advice center.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
        "title": "Beratungsstellen-Adressen",
@@ -8646,6 +8791,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "BIÖG gambling helpline",
+      "desc": "Telephone advice about gambling for everyone who gambles, for relatives and for anyone interested. The number is free of charge.",
+      "hours": "Monday to Thursday 10 a.m. to 10 p.m., Friday to Sunday 10 a.m. to 6 p.m.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
+       "url": "https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
       "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
@@ -8665,6 +8822,18 @@ window.KOMARI_DATA = {
       "name": "BIÖG-Infotelefon zu Essstörungen",
       "desc": "Information und Beratung rund ums Essen für Betroffene, Angehörige und Interessierte. Das Infotelefon nennt auch Adressen von Beratungsstellen und Einrichtungen.",
       "hours": "Montag bis Donnerstag 10 bis 22 Uhr, Freitag bis Sonntag 10 bis 18 Uhr. Kosten wie ein Anruf ins deutsche Festnetz.",
+      "src": {
+       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+       "title": "Das BIÖG - Infotelefon zu Essstörungen",
+       "url": "https://www.bioeg.de/service/beratungsangebote/essstoerungen/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "BIÖG information line on eating disorders",
+      "desc": "Information and advice about eating, for people affected, relatives and anyone interested. The information line also gives addresses of advice centers and institutions.",
+      "hours": "Monday to Thursday 10 a.m. to 10 p.m., Friday to Sunday 10 a.m. to 6 p.m. The cost is the same as for a call to a German landline.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
        "title": "Das BIÖG - Infotelefon zu Essstörungen",
@@ -8700,6 +8869,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Hilfetelefon Gewalt an Männern (helpline on violence against men)",
+      "desc": "For men who experience violence. Free of charge and anonymous: on the phone you do not have to give your name or where you live. No registration is needed for the chat.",
+      "hours": "Phone: Monday to Thursday 8 a.m. to 8 p.m., Friday 8 a.m. to 3 p.m. Chat: Monday to Thursday 12 noon to 3 p.m. and 5 p.m. to 7 p.m.",
+      "src": {
+       "org": "Hilfetelefon Gewalt an Männern (Land Nordrhein-Westfalen)",
+       "title": "Startseite",
+       "url": "https://www.maennerhilfetelefon.de/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Hilfetelefon Gewalt an Männern (Land Nordrhein-Westfalen)",
       "title": "Startseite",
@@ -8718,6 +8899,18 @@ window.KOMARI_DATA = {
      "de": {
       "name": "Wenn Sie keine Wohnung haben: Ihre Stadt oder Gemeinde",
       "desc": "Wenden Sie sich an Ihre Stadt oder Gemeinde. Städte und Gemeinden sind verpflichtet, Menschen, die unfreiwillig obdachlos sind, menschenwürdig unterzubringen.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+       "title": "Überwindung der Obdach- und Wohnungslosigkeit in Deutschland bis 2030",
+       "url": "https://www.bmwsb.bund.de/DE/wohnen/wohnungsmarkt/nationaler-aktionsplan-gegen-wohnungslosigkeit/nationaler-aktionsplan-gegen-wohnungslosigkeit_node.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "If you have no home: your city or municipality",
+      "desc": "Contact your city or municipality. Cities and municipalities are obliged to house people who are homeless against their will in a way that respects human dignity.",
       "hours": "",
       "src": {
        "org": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
@@ -10100,6 +10293,1380 @@ window.KOMARI_DATA = {
      "namesHow": {
       "lead": "Dazu, wie Namen (Diagnosen) vergeben werden, steht auf einer öffentlichen Seite in Deutschland:",
       "text": "Im Gespräch fragen Ärztinnen und Ärzte nach den Beschwerden. Sie achten auch darauf, ob eine andere Erkrankung oder ein anderes Problem hinter ähnlichen Beschwerden stecken kann, und untersuchen dafür manchmal auch den Körper.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+       "title": "Depression",
+       "url": "https://gesund.bund.de/depression",
+       "kind": "summary",
+       "upd": "2025-04-04"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things that used to bring me joy no longer do.",
+       "I have no energy and cannot concentrate, so work and housework are left undone.",
+       "I blame myself and see everything in a bleak light.",
+       "At night I cannot sleep, or I sleep far too much. My appetite has dropped and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what to do, one thing at a time.",
+       "Please do not push me to give answers or make decisions; I need time to think.",
+       "Please give me important things in writing.",
+       "Please listen to me first before telling me 'Pull yourself together' or 'Chin up'.",
+       "Please do not assume that I am lazy when I am resting.",
+       "Please check together with me whether a physical illness or a medicine I am taking at the moment could play a role."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses",
+        "why": "This page names physical illnesses as one of several factors that can contribute to depression, for example a stroke, a heart attack or an underactive thyroid.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "This page lists tiredness, changes in the skin and a low mood among the symptoms of an underactive thyroid.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenunterfunktion",
+         "url": "https://gesund.bund.de/schilddruesenunterfunktion",
+         "kind": "fact",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Vitamin B deficiency",
+        "why": "According to this page, a lack of vitamin B9 (folate) or B12 can show itself through tiredness, a reduced ability to perform, forgetfulness and a low mood, among other things.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Vitamin-B-Mangel",
+         "url": "https://gesund.bund.de/vitamin-b-mangel",
+         "kind": "summary",
+         "upd": "2022-02-26"
+        }
+       },
+       {
+        "name": "Hearing difficulty (hearing loss)",
+        "why": "According to this page, poor hearing can make it harder to communicate with others. For some people this goes together with fewer contacts and often a low mood.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schwerhörigkeit und Gehörlosigkeit bei Erwachsenen",
+         "url": "https://gesund.bund.de/schwerhoerigkeit-gehoerlosigkeit-erwachsene",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       },
+       {
+        "name": "Sleep disorders",
+        "why": "This page mentions anxiety disorders and depression as examples of mental health conditions that sleep problems can be connected with.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "fact",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Alcohol use and alcohol dependence",
+        "why": "This page describes how alcohol and depression affect each other: drinking a lot over a long time can lead to depression, and some people with depression drink to dull their symptoms.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Depression und Alkohol",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-depressionen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, depression can include lasting low spirits, a lack of drive and a loss of interests. Tiredness, sleep problems and loss of appetite are also named as physical complaints.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "According to this page, in bipolar disorder phases of low mood and lack of drive alternate with phases of elated mood and a lot of drive.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Bipolare Störung",
+         "url": "https://gesund.bund.de/bipolare-stoerung",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worries or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or everyone is looking at me, I get so anxious that my mind goes completely blank.",
+       "My heart suddenly starts racing and I have trouble breathing. I worry that it will happen again, so it is hard for me to leave the house.",
+       "Even without a clear reason, I worry about one thing after another, and I feel restless and worn out.",
+       "I can hardly stand places that are hard to get away from, for example the U-Bahn (subway), the S-Bahn (commuter train) or the bus, and also crowded buildings. Going out of the house alone is hard for me too. So I avoid these things.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My life has become narrower.",
+       "The worries will not leave my head, and in the evening it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "Please wait until I speak, and do not rush me.",
+       "Please tell me beforehand what the plan is and how things will go.",
+       "Please do not suddenly ask for my opinion in front of other people, and let me answer in writing as well.",
+       "If I feel unwell, please let me step out for a moment and rest.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "Please do not just tell me that I am overthinking it; listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "According to this page, an overactive thyroid can include, among other things, a pounding heart, nervousness, trembling and sleeplessness.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://gesund.bund.de/schilddruesenueberfunktion",
+         "kind": "summary",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Arrhythmia (irregular heartbeat)",
+        "why": "This page explains that a high pulse can be felt as a racing heart, with the heart beating very fast even without any physical effort.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Herzrhythmusstörung",
+         "url": "https://gesund.bund.de/herzrhythmusstoerung",
+         "kind": "fact",
+         "upd": "2023-02-03"
+        }
+       },
+       {
+        "name": "Anemia",
+        "why": "According to this page, besides tiredness and weakness, anemia can also come with a racing heart and shortness of breath on exertion.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Blutarmut (Anämie)",
+         "url": "https://gesund.bund.de/blutarmut-anaemie",
+         "kind": "summary",
+         "upd": "2021-07-13"
+        }
+       },
+       {
+        "name": "Certain medicines or drugs",
+        "why": "According to this page, certain medicines or drugs, for example amphetamines (speed), can cause physical complaints like those seen in generalized anxiety disorder, such as a fast pulse or trembling.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Sleep disorders",
+        "why": "This page mentions anxiety disorders and depression as examples of mental health conditions that sleep problems can be connected with.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "fact",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "According to this page, in generalized anxiety disorder fear and worry are present almost all the time, cannot be controlled and relate to many things in life. The page also names phobias and panic disorders as mental health conditions with similar complaints.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, depression can include inner restlessness, hopelessness and fear of the future, as well as a low mood.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page explains that in PTSD, memories of a terrible experience keep coming back, and the people affected are often on constant alert. Among the physical complaints, it names a pounding heart, difficulty breathing, trembling and a feeling of tightness in the chest.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Posttraumatische Belastungsstörung",
+         "url": "https://gesund.bund.de/posttraumatische-belastungsstoerung",
+         "kind": "summary",
+         "upd": "2023-03-17"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the stove, wash your hands, or repeat other things again and again, and find it hard to stop even though you want to.",
+      "scenes": [
+       "When I leave the house, I have to check the door lock or the stove again and again; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and cannot stop, even when I want to.",
+       "The same worrying thought keeps coming back, and I cannot stop thinking about it even though I want to.",
+       "When things are not placed the way I have set them, or do not happen in the order I have set, I become uneasy and rearrange things or start again from the beginning.",
+       "Checking takes so long that I leave late or arrive late for appointments or work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop, even when I try."
+      ],
+      "asks": [
+       "Please do not just tell me that I am overthinking it; listen to me first.",
+       "Checking takes me time, so please allow a little extra time.",
+       "When plans or routines change, please tell me beforehand.",
+       "Please do not bring it up in front of others, and do not make fun of me when I check something or wash my hands.",
+       "Please explain things to me and give me instructions one at a time and in writing.",
+       "Please listen to my worries first, and then let us take our time to decide together how to go on from here."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page explains that obsessive-compulsive disorder involves repeating certain actions or thoughts over and over.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Zwangsstörung",
+         "url": "https://gesund.bund.de/zwangsstoerung",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "According to this page, in generalized anxiety disorder the worries can be about almost everything in life. Among the conditions with similar complaints, the page also names obsessive-compulsive disorder.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page names feelings of guilt and constant brooding among the emotional symptoms of depression.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page gives arm flapping and always doing things in one very particular way as examples of behaviors that people with autism tend to repeat over and over.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "fact",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Memories that keep coming back, poor sleep, or tension that does not ease after a painful event.",
+      "scenes": [
+       "A small detail is enough to suddenly bring back the terrible scene and what I felt back then.",
+       "I keep having similar nightmares, and on many nights I do not sleep deeply.",
+       "I am under constant tension, and even a small noise or event makes me flinch.",
+       "As much as I can, I avoid places, people and topics that remind me of that time, and my daily life has become narrower as a result.",
+       "I feel numb inside, and I can no longer be as warm toward my family and my circle of friends as I used to be.",
+       "I blame myself more and more often, or it is getting harder for me to trust the people around me."
+      ],
+      "asks": [
+       "Please do not ask about every detail of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Certain sounds, places and topics bring everything back up. When I say that I would rather avoid them, please accept that.",
+       "Please do not speak to me suddenly from behind, and do not make loud noises near me.",
+       "If talking is too hard, please let me hand you something I have written.",
+       "Please do not take days when I cannot sleep, or when the exhaustion stays, for laziness.",
+       "Please do not push me with phrases like “Just forget it” or “That was a long time ago”. Please give me a place where I feel safe and can talk in peace."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia (sleep disorders)",
+        "why": "This page names worries and stress, and stressful life events, among the things that can cause sleep disorders. According to the page, sleep is not restful, for example, when falling asleep takes a long time, when a person wakes up often at night, or wakes too early in the morning.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Acute stress reaction",
+        "why": "According to this page, difficulties that appear right after a traumatic experience are called an acute stress reaction. It says that the first difficulties can begin during the experience or shortly afterward.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Posttraumatische Belastungsstörung",
+         "url": "https://gesund.bund.de/posttraumatische-belastungsstoerung",
+         "kind": "summary",
+         "upd": "2023-03-17"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page explains that with PTSD, distressing memories of what happened keep coming back, including in the form of nightmares. According to the page, people with PTSD are often constantly on alert, sleep badly, and avoid situations, places or conversations that remind them of what happened.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Posttraumatische Belastungsstörung",
+         "url": "https://gesund.bund.de/posttraumatische-belastungsstoerung",
+         "kind": "summary",
+         "upd": "2023-03-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page lists stressful experiences among the factors that can contribute to depression. Among the difficulties it names are low mood, exhaustion and sleep problems.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This page mentions that some people with an anxiety disorder have lived through serious, distressing experiences, such as trauma or losses. Life crises are also named there as something that can trigger fears.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I am already in bed, I find it hard to fall asleep.",
+       "I wake up several times in the night and never really sleep through until morning.",
+       "In the morning I cannot get out of bed at my usual time, and again and again I do not make it to work, vocational training or school on time.",
+       "During the day I am overcome by strong sleepiness, and in meetings or at the wheel I almost doze off.",
+       "My family tells me that I snore loudly and that my breathing sometimes seems to stop while I sleep.",
+       "In the evening and at night my legs feel uncomfortable, I cannot settle, and I cannot sleep."
+      ],
+      "asks": [
+       "Please take the time to listen to how things are with my sleep: falling asleep, waking in the night, difficulty getting up in the morning, and sleepiness during the day.",
+       "Please think with me about what may play a part, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "Please do not dismiss it as “all in my head”. Please also look at my physical health and my mood.",
+       "I would like to show you my sleep times with a note saying when I went to bed and when I got up. Please look at it.",
+       "If I am offered a medicine, please explain to me in simple words how it works and what I need to watch out for.",
+       "A lot is hard for me in the morning. If it can be done, please give me an appointment in the afternoon or early evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia (sleep disorders)",
+        "why": "This page explains that sleep can be disturbed for many reasons, for example noise, worries and stress, shift work or physical complaints. According to the page, sleep is not restful, for example, when falling asleep takes a long time, when a person wakes up often at night, or wakes too early in the morning.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "According to this page, in obstructive sleep apnea breathing stops again and again during sleep, mostly without the person noticing. Many people with it snore loudly and are sleepy and exhausted during the day even though they get enough sleep.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Obstruktive Schlafapnoe (OSA)",
+         "url": "https://gesund.bund.de/obstruktive-schlafapnoe-osa",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page explains that restless legs syndrome (RLS) involves an uncomfortable tingling or pulling feeling in the legs, together with a distressing urge to move them.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Restless-Legs-Syndrom",
+         "url": "https://gesund.bund.de/restless-legs-syndrom",
+         "kind": "fact",
+         "upd": "2025-11-13"
+        }
+       },
+       {
+        "name": "Disturbed sleep-wake rhythm",
+        "why": "This page names shift work among the things that can cause disturbed sleep. Elsewhere it speaks of a disturbed sleep-wake rhythm, for example caused by shift work or a change of time zone (jet lag).",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Insufficient sleep",
+        "why": "According to this page, a lasting lack of sleep can harm health and affect how well the body and mind perform, as well as mental health. How much sleep a person needs differs from person to person, the page says.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Gut schlafen",
+         "url": "https://gesund.bund.de/gut-schlafen",
+         "kind": "summary",
+         "upd": "2023-03-27"
+        }
+       },
+       {
+        "name": "Physical illnesses (for example of the thyroid, the heart or the lungs)",
+        "why": "According to this page, illnesses of the lungs, the heart or the thyroid, and long-lasting kidney weakness, are among the things that can disturb sleep.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "fact",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Alcohol, caffeine and certain medicines",
+        "why": "This page names alcohol, drugs and caffeine, as well as certain medicines, among the things that can disturb sleep. According to the page, doctors ask in the conversation about medicines and about the use of caffeinated drinks, alcohol or drugs.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page names tiredness and sleep problems among the physical complaints that can occur with depression. It also says that many people with depression sleep badly.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and for a few days now I have barely been able to get anything down.",
+       "Once I have started eating, I cannot stop, and sometimes I eat so much that it hurts.",
+       "Without noticing it, I think only about food, and it is hard for me to concentrate on anything else.",
+       "I can eat only very few foods, and I avoid many because of their taste, smell or texture.",
+       "After a bite went down the wrong way, or after I had to vomit, I became afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I remember nothing about it."
+      ],
+      "asks": [
+       "Please do not make comments about my body or my appearance.",
+       "Please do not force me to eat, and do not put me under pressure while I eat.",
+       "When everyone eats together, please let me choose another place or another time.",
+       "Please ask me first what I can eat and which smells or textures are hard for me.",
+       "Please explain to me beforehand how the physical examination and any further examinations will go.",
+       "Please allow me to write down for you what I find hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses (for example chronic inflammatory bowel diseases or an overactive thyroid)",
+        "why": "According to this page, various long-term illnesses can lead to weight loss, for example chronic inflammatory bowel diseases or an overactive thyroid.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Untergewicht",
+         "url": "https://gesund.bund.de/untergewicht",
+         "kind": "summary",
+         "upd": "2025-10-31"
+        }
+       },
+       {
+        "name": "Irritable stomach (functional dyspepsia)",
+        "why": "According to this page, a person with an irritable stomach typically feels full early in a meal, feels bloated afterward, or has stomach pain. Because of this, many people with it find it hard to enjoy eating and drinking.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Reizmagensyndrom (funktionelle Dyspepsie)",
+         "url": "https://gesund.bund.de/reizmagen-funktionelle-dyspepsie",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Eating disorders (anorexia nervosa, bulimia nervosa, binge-eating disorder)",
+        "why": "According to this page, anorexia nervosa, bulimia and binge-eating disorder are the main eating disorders, and there are other forms as well.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Essstörungen",
+         "url": "https://gesund.bund.de/essstoerungen",
+         "kind": "fact",
+         "upd": "2025-08-12"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page counts loss of appetite, and weight loss or weight gain, among the physical complaints that can occur with depression. It also names low mood, lack of drive and loss of interest as frequent complaints.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder",
+        "why": "This page names eating disorders among the further difficulties that can occur in people with autism. It also explains that some people with autism are especially sensitive to sounds, smells or touch.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "summary",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "deessen",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going anyway.",
+       "I can't stick to the time, the amount or the money I set for myself for the day.",
+       "I hide my drinking, my video games or my gambling from people close to me, or I make it sound better than it is.",
+       "I often play video games late into the night, I can't get out of bed in the morning, and more and more often I am late or absent.",
+       "When I lose, I badly want to win the money back, so I bet again, for example at slot machines or on sports bets.",
+       "Even though I know my body is not doing well, I can't drink less."
+      ],
+      "asks": [
+       "Please listen to me first, without blaming me or criticizing me.",
+       "Please go through with me, step by step, what my habits look like and what difficulties they cause me.",
+       "Please look at my sleep and my physical health as well.",
+       "Please tell me specifically where I can get help and where I can go.",
+       "Please also tell me whether my family or someone close to me can come with me to the conversation.",
+       "Please tell me beforehand who you will share what I tell you with, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol-related fatty liver disease",
+        "why": "According to this page, fat can build up in the liver when someone drinks too much alcohol over a long time. A diseased liver does not hurt, so you hardly notice it yourself; the page therefore advises having the liver values in your blood checked regularly.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG), kenn-dein-limit.de",
+         "title": "Alkohol und Leber",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-leber/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page names alcohol and caffeine among the things that can disturb sleep. It also says that doctors ask whether and when someone drinks alcohol.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schlafstörungen",
+         "url": "https://gesund.bund.de/schlafstoerungen",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Alcohol dependence",
+        "why": "This page explains that when someone drinks often, the brain gets used to alcohol, so that over time more and more of it is needed and drinking less can feel worse. According to the page, this getting used to alcohol can end in alcohol dependence.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG), kenn-dein-limit.de",
+         "title": "Alkohol und Gehirn",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-gehirn/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gambling disorder (gambling addiction)",
+        "why": "Among the typical features of a gambling addiction, this page lists that it is hard to rein in the gambling, that you want to win losses back with new bets, and that you do not manage to stop gambling.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Glücksspielsucht",
+         "url": "https://gesund.bund.de/gluecksspielsucht",
+         "kind": "summary",
+         "upd": "2025-09-03"
+        }
+       },
+       {
+        "name": "Gaming disorder",
+        "why": "This page lists gaming disorder as an addiction. For online addiction it describes a loss of control, where a person carries on despite noticeable negative consequences, and school, work, hobbies and social life end up neglected.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Online-Sucht",
+         "url": "https://gesund.bund.de/online-sucht",
+         "kind": "summary",
+         "upd": "2025-07-02"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, alcohol problems and depression often go together and can make each other worse. Some people with depression turn to alcohol to feel better for a short while, and the other way around, drinking a lot over a long time can help bring on depression.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG), kenn-dein-limit.de",
+         "title": "Depression und Alkohol",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-depressionen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page points out that problems with internet use often occur together with other mental health conditions. It gives ADHD as an example.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Online-Sucht",
+         "url": "https://gesund.bund.de/online-sucht",
+         "kind": "summary",
+         "upd": "2025-07-02"
+        }
+       }
+      ],
+      "windows": [
+       "desdh",
+       "desuchtberatung",
+       "degluecks",
+       "dehausarzt",
+       "desozpsych"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and planning",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is telling me something, my thoughts are suddenly somewhere else without my noticing.",
+       "I can't get my work or the housework done in order, and I miss deadlines.",
+       "I often forget what I was asked to do or what I promised, or I lose things.",
+       "When I do the same task for a long time, careless mistakes pile up.",
+       "When I have to sit still for a long time, I get restless and fidgety.",
+       "People around me tell me that I often forget things or turn up late."
+      ],
+      "asks": [
+       "Please give me instructions one at a time, one after the other.",
+       "Please write down important information and give it to me to take with me.",
+       "Please tell me deadlines and appointments as early as you can.",
+       "Please don't give me too many tasks at once; break them down into small steps.",
+       "I would like to talk in a quiet place where there is little to distract me.",
+       "Please don't blame me for what did not work out; instead, acknowledge what I did manage."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypothyroidism (underactive thyroid)",
+        "why": "According to this page, with an underactive thyroid, difficulties with concentration and with memory can come on top of tiredness.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenunterfunktion",
+         "url": "https://gesund.bund.de/schilddruesenunterfunktion",
+         "kind": "summary",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea (OSA)",
+        "why": "This page describes pauses in breathing at night that mostly go unnoticed and can make a person very tired during the day. It also says that problems with concentration and memory can follow.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Obstruktive Schlafapnoe (OSA)",
+         "url": "https://gesund.bund.de/obstruktive-schlafapnoe-osa",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Sleep deprivation",
+        "why": "According to this page, too little sleep and poor sleep also affect mental performance.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Gut schlafen",
+         "url": "https://gesund.bund.de/gut-schlafen",
+         "kind": "summary",
+         "upd": "2023-03-27"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page describes a strong urge to move the legs that comes on at rest and can disturb sleep. During the day, according to the page, it can then be harder to concentrate.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Restless-Legs-Syndrom",
+         "url": "https://gesund.bund.de/restless-legs-syndrom",
+         "kind": "summary",
+         "upd": "2025-11-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, finding it hard to concentrate and to make decisions is among the typical complaints of depression. Everyday life, work or learning can also become an effort.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This page describes a fear that is there almost all the time. According to the page, exhaustion as well as difficulties with concentration and with sleep can come with it.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page says that ADHD can continue into adulthood and then often shows up as inner unrest or restlessness. Difficulties at work and in relationships are also mentioned.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "ADHS",
+         "url": "https://gesund.bund.de/adhs",
+         "kind": "summary",
+         "upd": "2022-10-21"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, people with autism find it hard to act flexibly and spontaneously, and they place great value on fixed routines. Among the additional difficulties that can occur, the page also names ADHD.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "summary",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "deeutb",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with other people, fixed routines and sensory impressions",
+      "lead": "Trouble talking or being with other people, a strong need to do things a certain way, or sounds, light and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation, I find it hard to grasp what the other person feels or what the mood in the room is, and I often have the impression that we are talking past each other.",
+       "When I have to speak in front of people or all eyes are on me, I get very tense and I avoid such situations.",
+       "I can talk with people close to me, but in front of others I can't get a sound out.",
+       "When my usual way of doing things, the order of the steps or the place where my things are kept changes, it makes me very uneasy.",
+       "I notice sounds, light and smells very strongly, and places with many people are hard for me to bear.",
+       "I have trouble hearing what others say, or my mood is low, and by now it has become hard for me to meet people or talk to them."
+      ],
+      "asks": [
+       "Please speak slowly and clearly.",
+       "Please write down important things for me.",
+       "I would like to talk in a quiet place.",
+       "Please tell me beforehand when plans or routines change.",
+       "Please don't rush me; give me time to answer.",
+       "I would like to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "According to this page, people who have trouble hearing can find it harder to communicate with others, some mainly when there is a lot of background noise. As a result, some have less contact with others, feel left out, or are often down.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schwerhörigkeit und Gehörlosigkeit bei Erwachsenen",
+         "url": "https://gesund.bund.de/schwerhoerigkeit-gehoerlosigkeit-erwachsene",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       },
+       {
+        "name": "Tinnitus (noises in the ears)",
+        "why": "According to this page, in some people with tinnitus the hearing can react too strongly to sound, so that they find loud places unpleasant.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Tinnitus",
+         "url": "https://gesund.bund.de/tinnitus",
+         "kind": "summary",
+         "upd": "2024-08-28"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, withdrawing from family and friends is among the typical complaints of depression. The page also says that people can then avoid social contact.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "According to this page, people with an obsessive need for order are convinced that things must be exactly in their fixed place and facing a fixed direction; if they try to hold back such actions, they become restless, tense and anxious. According to the page, an advanced obsessive-compulsive disorder can also put a strain on a person's private life and on their relationship with a partner.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Zwangsstörung",
+         "url": "https://gesund.bund.de/zwangsstoerung",
+         "kind": "summary",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, people with autism find it harder to understand the feelings of others, and they place great value on fixed routines. They sometimes react particularly strongly to stimuli such as sounds, smells or touch, or hardly react at all.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Autismus",
+         "url": "https://gesund.bund.de/autismus",
+         "kind": "summary",
+         "upd": "2024-07-04"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "deeutb",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it several times.",
+       "Even after reading, the content does not sink in, and I find it hard to understand what is written in documents or letters.",
+       "I have trouble with spelling: I make many mistakes, or I forget letters or words when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on word problems.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not get on as well as I would like, even when I take plenty of time."
+      ],
+      "asks": [
+       "Please show me texts in large print with wide line spacing, and explain important things to me in simple words or in Easy Language (Leichte Sprache).",
+       "Please read important content aloud to me or tell it to me out loud.",
+       "Please let me use the keyboard of a computer or phone, or keep a record with photos or voice recordings, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please do not give me everything at once, but one thing at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Presbyopia (age-related difficulty seeing up close)",
+        "why": "This page explains that age-related difficulty seeing up close is usually first noticed when reading: seeing at close range gets worse, and reading for longer strains the eyes.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Alterssichtigkeit (Presbyopie)",
+         "url": "https://gesund.bund.de/alterssichtigkeit-presbyopie",
+         "kind": "summary",
+         "upd": "2024-10-18"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, depression can make learning, working and everyday tasks hard to manage. Among the symptoms, it also lists difficulty concentrating and making decisions.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Dyslexia (reading and spelling disorder)",
+        "why": "This page says that difficulty with reading, writing or calculating does not necessarily say anything about intelligence or effort. It names dyslexia or dyscalculia as reasons that can lie behind such difficulty, and it counts both among the Teilleistungsstörungen (disorders that affect one area of ability).",
+        "src": {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Trotz Hürden zum Abitur",
+         "url": "https://www.arbeitsagentur.de/bildung/berufe-und-wege/erfahrungsbericht-trotz-huerden-abitur",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Dyscalculia (disorder of calculation)",
+        "why": "This page names dyscalculia, a disorder of calculation, as one reason that can lie behind someone not being able to calculate well. According to the page, this need not have anything to do with lower intelligence or less effort.",
+        "src": {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Trotz Hürden zum Abitur",
+         "url": "https://www.arbeitsagentur.de/bildung/berufe-und-wege/erfahrungsbericht-trotz-huerden-abitur",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "deeutb",
+       "deupd"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own feelings.",
+      "scenes": [
+       "Periods when I have far too much energy alternate with periods when I am so low that I can hardly move.",
+       "There are periods when I hardly sleep and yet I am full of energy and constantly on the move.",
+       "One idea after another comes to me, and everything stays half done.",
+       "When I was in a high-spirited mood, I once spent so much money that I got into difficulties because of it later.",
+       "Even small things make me irritable, and I find it hard to keep my feelings in check.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the times when I felt unusually good and had unusually high energy.",
+       "Please take the time to go through my ups and downs with me.",
+       "Before big decisions about money or work, please help me pause and think first.",
+       "Please also check for physical causes, including sleep, medicines and alcohol.",
+       "If I seem different from usual, please tell me, without blaming me.",
+       "Please hear me out, both when I am doing well and when I am low."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "This page lists inner restlessness, irritability and sleeplessness among the symptoms of an overactive thyroid. In this case the cause lies in the body: the thyroid makes too many hormones.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://gesund.bund.de/schilddruesenueberfunktion",
+         "kind": "summary",
+         "upd": "2026-02-23"
+        }
+       },
+       {
+        "name": "Lack of sleep",
+        "why": "This page explains that a lack of sleep can harm health over time, and it explicitly names effects on the mind and on mental performance as well.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Gut schlafen",
+         "url": "https://gesund.bund.de/gut-schlafen",
+         "kind": "summary",
+         "upd": "2023-03-27"
+        }
+       },
+       {
+        "name": "Alcohol (effects and withdrawal symptoms)",
+        "why": "According to this page, alcohol lifts the mood at first in an artificial way, but in the end it brings irritability and unease of its own. After regular, heavy use, stopping alcohol can bring withdrawal symptoms, which according to the page can, among other things, cause or worsen depression.",
+        "src": {
+         "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+         "title": "Depression und Alkohol",
+         "url": "https://www.kenn-dein-limit.de/alkoholkonsum/folgen-von-alkohol/alkohol-und-depressionen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "For premenstrual syndrome, this page describes mood swings, irritability and low mood, among other things, before the period. It calls a particularly severe form, in which mainly psychological symptoms strongly affect life, premenstrual dysphoric disorder (PMDD).",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://gesund.bund.de/praemenstruelles-syndrom-pms",
+         "kind": "summary",
+         "upd": "2022-10-21"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes low mood, lack of drive and loss of interest as common symptoms of depression. According to the page, in many people depressive phases come back again and again, with symptom-free periods in between.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page explains that in bipolar disorder the mood swings strongly between elation with a lot of drive and low mood. For manic phases it names, among other things, a lower need for sleep, overestimating oneself and sometimes irritability. It also says that the phases often put a strain on work and family life.",
+        "src": {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Bipolare Störung",
+         "url": "https://gesund.bund.de/bipolare-stoerung",
+         "kind": "summary",
+         "upd": "2022-03-31"
+        }
+       }
+      ],
+      "windows": [
+       "dehausarzt",
+       "depsychotherapie",
+       "desozpsych",
+       "deupd"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "If you know a name, it is easier to see a symptom in everyday ups and downs",
+       "body": "If you know the name of an illness or of a developmental disorder, a little tiredness or a moment of inattention can more easily look like a symptom.\n\nFeelings can really change how your body and your mood feel. This is not imagination, it really happens. Lack of sleep, stress, phone use or what is going on around you can also have similar effects.\n\nIf, when you read a name, you think \"that could be it,\" do not stop there right away, but think of other reasons too. If the difficulties continue, you can talk about them as they are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Almost everyone knows shifting moods, fear and the wish to check once more",
+       "body": "Almost everyone knows mood swings and the wish to check something once more to be on the safe side. On its page about obsessive-compulsive disorder, the National Health Portal gives an everyday example: making sure a second time before a trip that the stove is off. According to the page, almost everyone sometimes does things like this, even when they know it is more than is really needed. On its page about generalized anxiety disorder, it says that being afraid or anxious from time to time is part of every person's life.\n\nGiving a name to symptoms is a matter for professionals, such as doctors. In a conversation they ask about the symptoms and at the same time pay attention to whether another illness or another problem could be behind similar symptoms. Sometimes this also includes a physical examination.\n\nIf the difficulties continue, you can talk about them as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Zwangsstörung",
+         "url": "https://gesund.bund.de/zwangsstoerung",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Generalisierte Angststörung",
+         "url": "https://gesund.bund.de/generalisierte-angststoerung",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
+         "title": "Depression",
+         "url": "https://gesund.bund.de/depression",
+         "kind": "summary",
+         "upd": "2025-04-04"
+        }
+       ]
+      },
+      {
+       "h": "Even without a diagnosis, you can talk about your difficulties",
+       "body": "Even without the name of an illness, you can talk about your difficulties as they are. One contact point for this is the Sozialpsychiatrischer Dienst (social psychiatric service) in your region. According to the National Health Portal, the service is free of charge and has no conditions attached: neither a formal diagnosis nor health insurance is needed. The people who work there are bound by confidentiality, and you can also get advice anonymously. The service itself does not offer psychotherapy or psychiatric care, but it can help you look for a place for psychotherapy or for a psychiatric practice. What exactly it takes on differs somewhat from one federal state to another.\n\nThe National Health Portal describes the family doctor's practice as the place people usually turn to first with questions about health. According to the Federal Ministry of Health, you do not need a referral for a first consultation in the Psychotherapeutische Sprechstunde (consultation hour for psychological difficulties); insured people can contact a practice themselves or turn to the appointment service center (Terminservicestelle) of the Association of Statutory Health Insurance Physicians.\n\nAt work and with federal authorities, three levels need to be kept apart. First, the General Equal Treatment Act (AGG) forbids disadvantaging employees because of a disability. According to the Federal Anti-Discrimination Agency, chronic illnesses are also covered by this protection if they shape everyday life in the long term and limit participation in society; it expressly counts psychological illnesses among the chronic illnesses that can equally be disabilities. The agency does not name a formal recognition by an authority as a condition for this. Second, § 164 paragraph 4 of the Ninth Book of the Social Code (SGB IX) sets out express rights to have the workplace, the organization of work and working hours arranged to suit the disability. These rights apply to people with severe disabilities and to people placed on an equal footing with them, and only as far as this is reasonable for the employer and does not involve disproportionate expense. Third, for federal authorities and institutions, § 7 paragraph 2 of the Disability Equality Act (BGG) applies: if they refuse reasonable accommodation for people with disabilities, that counts as a disadvantage.\n\nOccupational physicians are bound by medical confidentiality. Under the Ordinance on Occupational Health Care, the doctor issues the employer a certificate saying that a preventive appointment took place, when and for what reason, and when the next one is due. Because of confidentiality, the employer does not learn the diagnosis, test findings or details of the conversation without your consent. The ordinance provides one exception: if there are indications that the protective measures at the workplace are not enough, the doctor tells the employer and proposes occupational safety measures. If the doctor considers a change in the work you do necessary for medical reasons that concern only you as a person, the doctor may tell the employer this only with your consent.\n\nWhen sick leave is reported electronically through statutory health insurance, the employer receives no information on the diagnosis, according to the National Health Portal.\n\nFor questions about participation and support, there is the Ergänzende unabhängige Teilhabeberatung (EUTB). According to the related ordinance, the advice is free of charge and not tied to an impairment of participation (Teilhabebeeinträchtigung).\n\nWhat you wish for and what can be done depend on the situation and on the other side. This is worked out in conversation.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Sozialpsychiatrischer Dienst",
+         "url": "https://gesund.bund.de/sozialpsychiatrischer-dienst",
+         "kind": "summary",
+         "upd": "2025-04-15"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Hausärztliche Praxis",
+         "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/notfaelle/hausaerztliche-praxis",
+         "kind": "summary",
+         "upd": "2026-04-23"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit",
+         "title": "Psychotherapeutische Sprechstunde",
+         "url": "https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/p/psychotherapeutische-sprechstunde",
+         "kind": "summary",
+         "upd": "2026-01-08"
+        },
+        {
+         "org": "Antidiskriminierungsstelle des Bundes",
+         "title": "Behinderung / chronische Krankheiten",
+         "url": "https://www.antidiskriminierungsstelle.gov.de/DE/ueber-diskriminierung/diskriminierungsmerkmale/behinderung-und-chronische-krankheiten/behinderung-und-chronische-krankheiten-node.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Allgemeines Gleichbehandlungsgesetz (AGG) § 7",
+         "url": "https://www.gesetze-im-internet.de/agg/__7.html",
+         "kind": "summary",
+         "upd": "2023-12-22"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Sozialgesetzbuch Neuntes Buch (SGB IX) § 164",
+         "url": "https://www.gesetze-im-internet.de/sgb_9_2018/__164.html",
+         "kind": "summary",
+         "upd": "2026-07-24"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Sozialgesetzbuch Neuntes Buch (SGB IX) § 151",
+         "url": "https://www.gesetze-im-internet.de/sgb_9_2018/__151.html",
+         "kind": "summary",
+         "upd": "2026-07-24"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Behindertengleichstellungsgesetz (BGG) § 7",
+         "url": "https://www.gesetze-im-internet.de/bgg/__7.html",
+         "kind": "summary",
+         "upd": "2022-05-23"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) § 8",
+         "url": "https://www.gesetze-im-internet.de/asig/__8.html",
+         "kind": "summary",
+         "upd": "2013-04-20"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Verordnung zur arbeitsmedizinischen Vorsorge (ArbMedVV) § 6",
+         "url": "https://www.gesetze-im-internet.de/arbmedvv/__6.html",
+         "kind": "summary",
+         "upd": "2026-05-11"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Die elektronische Arbeitsunfähigkeitsbescheinigung (eAU)",
+         "url": "https://gesund.bund.de/die-elektronische-arbeitsunfaehigkeitsbescheinigung-eau",
+         "kind": "summary",
+         "upd": "2024-11-13"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Teilhabeberatungsverordnung (EUTBV) § 2",
+         "url": "https://www.gesetze-im-internet.de/eutbv/__2.html",
+         "kind": "summary",
+         "upd": "2026-09-01"
+        }
+       ]
+      },
+      {
+       "h": "However, some benefits require medical documents",
+       "body": "For some benefits, medical documents are needed. What exactly is asked for depends on the benefit.\n\nFor a severe disability card (Schwerbehindertenausweis), you apply to the responsible office; what it is called differs from one federal state to another, for example Versorgungsamt or Amt für Soziale Angelegenheiten. The office relies on medical documents, such as hospital discharge letters or medical reports.\n\nIf you are ill and cannot work, you have to tell your employer about the incapacity to work. If it lasts longer than a few days, or if the employer asks for the certificate earlier, a medical certificate is needed (§ 5 Entgeltfortzahlungsgesetz, the Continued Remuneration Act). When sick leave is reported electronically through statutory health insurance, the diagnosis goes to the health insurance fund; the employer receives no information on it.\n\nFor a pension because of reduced earning capacity as well, the German Pension Insurance relies on medical documents to clarify how much someone can still work, and sometimes asks for additional reports.\n\nFor compensation for disadvantages in university exams, for example an oral instead of a written exam or more time for handing in work, you need, according to the Federal Employment Agency, a certificate from a medical specialist. Examination regulations must take the special needs of students with disabilities into account (§ 16 Hochschulrahmengesetz, the Framework Act for Higher Education).\n\nIt is best to ask the responsible office what you will need before you apply.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Rechte von Menschen mit Schwerbehinderung",
+         "url": "https://gesund.bund.de/schwerbehinderung",
+         "kind": "summary",
+         "upd": "2025-01-01"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Entgeltfortzahlungsgesetz (EntgFG) § 5",
+         "url": "https://www.gesetze-im-internet.de/entgfg/__5.html",
+         "kind": "summary",
+         "upd": "2026-05-12"
+        },
+        {
+         "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+         "title": "Die elektronische Arbeitsunfähigkeitsbescheinigung (eAU)",
+         "url": "https://gesund.bund.de/die-elektronische-arbeitsunfaehigkeitsbescheinigung-eau",
+         "kind": "summary",
+         "upd": "2024-11-13"
+        },
+        {
+         "org": "Deutsche Rentenversicherung",
+         "title": "Erwerbsminderungsrenten",
+         "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Rentenarten-und-Leistungen/Erwerbsminderungsrente",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Studieren mit Behinderungen",
+         "url": "https://www.arbeitsagentur.de/bildung/studium/studieren-mit-behinderung",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Hochschulrahmengesetz (HRG) § 16",
+         "url": "https://www.gesetze-im-internet.de/hrg/__16.html",
+         "kind": "summary",
+         "upd": "2019-11-15"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for an illness is not a tool for placing yourself above others",
+       "body": "A name for an illness is not a tool for placing yourself above someone or for looking down on others.\nSome people feel relieved when they find a name for what they are going through. That matters.\nThe wish that the people around you understand you, or are kind to you, is natural too.\n\nIf you wish for someone to be kind to you, you can say so directly, without naming an illness.\nIt comes across more easily if you say two things together: what you have difficulty with and what you wish from the other person.\n\nFor example, you can say:\n\"I am tired today, please speak to me slowly.\"\n\"When I am told a lot at once, I lose the thread. Please tell me one thing at a time.\"\n\"I find it hard to remember what I only hear. Please write down important things, on paper or by e-mail.\"\n\"Places with many people are hard for me. I would like to talk in a quiet place.\"\n\"I need a little time to answer. Please wait a moment.\"\n\"Right now I am very shaken up. Please just listen to me first. Advice can come later.\"\n\"I am not feeling well today. Please let me rest a little.\"\n\"Sudden changes of plan throw me off. Please tell me as early as you can.\"\n\"When someone speaks loudly to me, I get scared. Please speak calmly to me.\"\n\nIf it is hard to say it well, you can also write it on paper and hand it over. You can also show the \"My worries\" screen with the \"Show it large\" button; it appears in this app when you choose a worry and answer the questions.\nIf you want to name an illness, you can. Even then, it helps the other person to act if you also say what you have difficulty with and what you wish.\nSometimes the other person cannot do what you ask because of their own situation. Then you can think together about whether there is another way.\n\nIf you wish for a binding adjustment at work or in your studies, you can talk to the occupational physician or to the responsible office of your university. Medical documents may be needed for this.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": [
+        {
+         "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+         "title": "Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit (ASiG) § 3",
+         "url": "https://www.gesetze-im-internet.de/asig/__3.html",
+         "kind": "summary",
+         "upd": "2013-04-20"
+        },
+        {
+         "org": "Bundesagentur für Arbeit (BA)",
+         "title": "Studieren mit Behinderungen",
+         "url": "https://www.arbeitsagentur.de/bildung/studium/studieren-mit-behinderung",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness. This app is not a medical device and does not replace a conversation with a doctor or another professional. The National Health Portal also points out in its articles that they do not replace a visit to a doctor.\n\nYour answers are not sent anywhere and are not saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit group in Japan. SOYOGI has no connection to the German federal government, to federal agencies such as the Federal Ministry of Health, the BfArM or the Robert Koch Institute, to health insurance funds, to the Associations of Statutory Health Insurance Physicians or to health care institutions, and none of these bodies has recommended or supported this app. The names of the bodies only show where the information comes from. The original texts can be read free of charge on the websites of the bodies concerned.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Germany; the few quoted passages are translated and placed in quotation marks. Sources are shown on every screen, with the date of each page. As of: 21 October 2026. Numbers and hours may change; the hours are given in German time.\n\nIt is you, not the app, who decides whether to get help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "This page advises turning to professionals for help when mental strain does not let up, or when you are in a mental crisis.",
+      "src": {
+       "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+       "title": "Psychische Gesundheit am Arbeitsplatz",
+       "url": "https://gesund.bund.de/psychische-gesundheit-am-arbeitsplatz",
+       "kind": "fact",
+       "upd": "2025-08-18"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Family doctor's practice (Hausarztpraxis): This page explains that, for health questions, people normally start at their family doctor's practice.",
+       "src": {
+        "org": "Bundesministerium für Gesundheit (gesund.bund.de)",
+        "title": "Hausärztliche Praxis",
+        "url": "https://gesund.bund.de/wege-im-gesundheitswesen/erwachsenenleben/notfaelle/hausaerztliche-praxis",
+        "kind": "fact",
+        "upd": "2026-04-23"
+       }
+      },
+      {
+       "text": "On the Ergänzende unabhängige Teilhabeberatung (EUTB), the ordinance says: “Using the advice is free of charge for the people seeking advice. It neither requires a regional link to an advice service nor is it tied to an impairment of participation (Teilhabebeeinträchtigung).”",
+       "src": {
+        "org": "Bundesministerium der Justiz (gesetze-im-internet.de)",
+        "title": "Teilhabeberatungsverordnung (EUTBV) § 2",
+        "url": "https://www.gesetze-im-internet.de/eutbv/__2.html",
+        "kind": "quote",
+        "upd": "2026-09-01"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is given, a public page in Germany says:",
+      "text": "In a conversation, doctors ask about the symptoms. They also pay attention to whether another illness or another problem could be behind similar symptoms, and for this they sometimes examine the body as well.",
       "src": {
        "org": "Bundesministerium für Gesundheit (gesund.bund.de), in Zusammenarbeit mit dem IQWiG",
        "title": "Depression",
