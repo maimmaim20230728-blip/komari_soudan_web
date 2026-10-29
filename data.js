@@ -32,7 +32,8 @@ window.KOMARI_DATA = {
   "es",
   "nl",
   "ko",
-  "tw"
+  "tw",
+  "it"
  ],
  "c": {
   "jp": {
@@ -23767,6 +23768,3022 @@ window.KOMARI_DATA = {
       "lead": "A name (a diagnosis) is decided by a doctor or another medical professional who looks at the whole situation. Even the same difficulty can have causes that differ from person to person.",
       "text": "",
       "src": null
+     }
+    }
+   }
+  },
+  "it": {
+   "id": "it",
+   "name": {
+    "ja": "イタリア",
+    "en": "Italy",
+    "fr": "Italie",
+    "de": "Italien",
+    "es": "Italia",
+    "nl": "Italië",
+    "ko": "이탈리아",
+    "zh": "義大利",
+    "it": "Italia"
+   },
+   "langs": [
+    "it",
+    "en"
+   ],
+   "main": "it",
+   "fallback": "it",
+   "srcLang": "it",
+   "freeHosts": [
+    "salute.gov.it"
+   ],
+   "adaptHosts": [
+    "salute.gov.it",
+    "governo.it",
+    "normattiva.it",
+    "gazzettaufficiale.it",
+    "regione.emilia-romagna.it",
+    "iss.it",
+    "epicentro.iss.it"
+   ],
+   "srcNote": {
+    "salute.gov.it": "Contenuto rilasciato con licenza Creative Commons Attribuzione 4.0 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.it",
+    "iss.it": "Contenuto rilasciato con licenza Creative Commons Attribuzione 4.0 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.it",
+    "epicentro.iss.it": "Contenuto rilasciato con licenza Creative Commons Attribuzione 4.0 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.it",
+    "regione.emilia-romagna.it": "Contenuto rilasciato con licenza Creative Commons Attribuzione 4.0 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.it",
+    "governo.it": "Contenuto rilasciato con licenza Creative Commons Attribuzione 3.0 (CC BY 3.0): https://creativecommons.org/licenses/by/3.0/it/"
+   },
+   "factRef": true,
+   "ver": "2026-10-29",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "it112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "112: numero unico europeo per le emergenze",
+      "desc": "Per chiedere con urgenza l'intervento di polizia, vigili del fuoco o soccorso sanitario. Risponde un operatore, che passa la chiamata alla centrale competente per il tipo di emergenza. La chiamata è gratuita da rete fissa e mobile, anche quando il telefono non ha SIM, è bloccato o non c'è credito. Il servizio con la centrale unica di risposta non è attivo in tutte le zone: dove manca, il 112 è assicurato dalle centrali dell'Arma dei Carabinieri.",
+      "hours": "",
+      "src": {
+       "org": "Ministero della Salute",
+       "title": "Numero unico europeo per le emergenze (NUE) 112",
+       "url": "https://www.salute.gov.it/new/it/tema/112-118-e-pronto-soccorso/numero-unico-europeo-le-emergenze-nue-112/",
+       "kind": "summary",
+       "upd": "06/06/2024"
+      }
+     },
+     "en": {
+      "name": "112: numero unico europeo per le emergenze (single European emergency number)",
+      "desc": "To ask urgently for the police, the fire service or emergency medical help. An operator answers and passes the call to the control center responsible for that kind of emergency. The call is free from landlines and mobile phones, even when the phone has no SIM card, is locked or has no credit. The service with the single answering center is not active in every area: where it is missing, 112 is handled by the control centers of the Arma dei Carabinieri.",
+      "hours": "",
+      "src": {
+       "org": "Ministero della Salute",
+       "title": "Numero unico europeo per le emergenze (NUE) 112",
+       "url": "https://www.salute.gov.it/new/it/tema/112-118-e-pronto-soccorso/numero-unico-europeo-le-emergenze-nue-112/",
+       "kind": "summary",
+       "upd": "06/06/2024"
+      }
+     },
+     "src": {
+      "org": "Ministero della Salute",
+      "title": "Numero unico europeo per le emergenze (NUE) 112",
+      "url": "https://www.salute.gov.it/new/it/tema/112-118-e-pronto-soccorso/numero-unico-europeo-le-emergenze-nue-112/",
+      "kind": "summary",
+      "upd": "06/06/2024"
+     }
+    },
+    {
+     "id": "itnovoice",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Se non puoi parlare: l'app Where ARE U",
+      "desc": "Where ARE U è l'app del 112: serve a segnalare alla centrale operativa che non puoi parlare o che vuoi mandare un messaggio di testo. Trasmette in automatico la tua identità e la tua posizione. Va scaricata e registrata prima. Il servizio 112 con la centrale unica di risposta non è ancora attivo in tutte le zone: la mappa è sul sito 112.gov.it. Per le persone sorde esiste il servizio 112 Sordi.",
+      "hours": "",
+      "src": {
+       "org": "Ministero dell'Interno",
+       "title": "Numero Unico Europeo per le emergenze",
+       "url": "https://112.gov.it/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "If you cannot speak: the Where ARE U app",
+      "desc": "Where ARE U is the 112 app: it lets you tell the control center that you cannot speak or that you want to send a text message. It sends your identity and your location automatically. You need to download it and register beforehand. The 112 service with the single answering center is not yet active in every area: the map is on the website 112.gov.it. For deaf people, there is the 112 Sordi service.",
+      "hours": "",
+      "src": {
+       "org": "Ministero dell'Interno",
+       "title": "Numero Unico Europeo per le emergenze",
+       "url": "https://112.gov.it/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministero dell'Interno",
+      "title": "Numero Unico Europeo per le emergenze",
+      "url": "https://112.gov.it/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "it1522",
+     "band": "now",
+     "tel": "1522",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "1522: violenza e stalking",
+      "desc": "È il numero pubblico antiviolenza e antistalking, promosso dal Dipartimento per le pari opportunità. Rispondono operatrici specializzate, per chi subisce violenza o stalking. C'è anche una chat con un'operatrice sul sito 1522.eu e nella sua app.",
+      "hours": "Numero gratuito, attivo giorno e notte.",
+      "src": {
+       "org": "Dipartimento per le Pari Opportunità",
+       "title": "1522 - Numero Antiviolenza e Antistalking",
+       "url": "https://www.pariopportunita.gov.it/it/numeri-utili/1522-numero-antiviolenza-e-antistalking/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "1522: violenza e stalking (violence and stalking helpline)",
+      "desc": "This is the public helpline against violence and stalking, promoted by the Department for Equal Opportunities. Specially trained women operators answer, for people who are experiencing violence or stalking. There is also a chat with an operator on the website 1522.eu and in its app.",
+      "hours": "Free number, open day and night.",
+      "src": {
+       "org": "Dipartimento per le Pari Opportunità",
+       "title": "1522 - Numero Antiviolenza e Antistalking",
+       "url": "https://www.pariopportunita.gov.it/it/numeri-utili/1522-numero-antiviolenza-e-antistalking/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Dipartimento per le Pari Opportunità",
+      "title": "1522 - Numero Antiviolenza e Antistalking",
+      "url": "https://www.pariopportunita.gov.it/it/numeri-utili/1522-numero-antiviolenza-e-antistalking/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "itamico",
+     "band": "now",
+     "tel": "0223272327",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Telefono Amico Italia: 02 2327 2327",
+      "desc": "Se hai bisogno di parlare con qualcuno, puoi chiamare Telefono Amico Italia. Rispondono volontari. Il servizio è gratuito; la chiamata costa come una chiamata a un numero fisso. Se c'è un pericolo immediato, chiama il 112.",
+      "hours": "Ogni giorno.",
+      "src": {
+       "org": "Azienda Sanitaria della Provincia Autonoma di Bolzano (nonseidasolo.it)",
+       "title": "Ricerca rapida. Scopri a chi puoi rivolgerti.",
+       "url": "https://www.nonseidasolo.it/contatto",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Telefono Amico Italia: 02 2327 2327 (a line for people who need to talk)",
+      "desc": "If you need to talk with someone, you can call Telefono Amico Italia. Volunteers answer. The service is free, but the call costs the same as a call to a landline. If there is immediate danger, call 112.",
+      "hours": "Every day.",
+      "src": {
+       "org": "Azienda Sanitaria della Provincia Autonoma di Bolzano",
+       "title": "Ricerca rapida. Scopri a chi puoi rivolgerti.",
+       "url": "https://www.nonseidasolo.it/contatto",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Azienda Sanitaria della Provincia Autonoma di Bolzano (nonseidasolo.it)",
+      "title": "Ricerca rapida. Scopri a chi puoi rivolgerti.",
+      "url": "https://www.nonseidasolo.it/contatto",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "itmedico",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Medico di famiglia (medico di medicina generale)",
+      "desc": "L'assistenza medica generale è data dal medico di fiducia, che si sceglie tra i medici del Servizio sanitario nazionale che lavorano nella tua ASL o nel tuo comune di residenza. Il rapporto di fiducia può finire in ogni momento, se lo chiedi. Per scegliere il medico, chiedi alla tua ASL. Puoi mostrare la scheda «Le mie difficoltà».",
+      "hours": "",
+      "src": {
+       "org": "Normattiva",
+       "title": "Legge 23 dicembre 1978, n. 833, art. 25",
+       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833",
+       "kind": "summary",
+       "upd": "1994-06-01"
+      }
+     },
+     "en": {
+      "name": "Medico di famiglia, medico di medicina generale (family doctor, GP)",
+      "desc": "General medical care is provided by the doctor you trust (medico di fiducia), chosen from among the National Health Service doctors who work in your local health authority (ASL) or in the municipality where you live. This relationship of trust can end at any time, if you ask. To choose a doctor, ask your ASL. You can show the “My worries” card.",
+      "hours": "",
+      "src": {
+       "org": "Normattiva",
+       "title": "Legge 23 dicembre 1978, n. 833, art. 25",
+       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833",
+       "kind": "summary",
+       "upd": "1994-06-01"
+      }
+     },
+     "src": {
+      "org": "Normattiva",
+      "title": "Legge 23 dicembre 1978, n. 833, art. 25",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833",
+      "kind": "summary",
+      "upd": "1994-06-01"
+     }
+    },
+    {
+     "id": "itcsm",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Centro di Salute Mentale (CSM) della tua ASL",
+      "desc": "Il Centro di Salute Mentale (CSM) è il primo punto di riferimento per un disagio psichico. Al CSM lavora un'équipe di più professionisti: almeno uno psichiatra, uno psicologo, un assistente sociale e un infermiere. Come si accede cambia da una ASL all'altra: chiedi alla tua ASL. Puoi mostrare la scheda «Le mie difficoltà».",
+      "hours": "È previsto che il CSM sia attivo almeno 12 ore al giorno. Gli orari cambiano da una ASL all'altra.",
+      "src": {
+       "org": "Ministero della Salute",
+       "title": "La rete dei servizi per la salute mentale",
+       "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/la-rete-dei-servizi-la-salute-mentale/",
+       "kind": "summary",
+       "upd": "20/12/2024"
+      }
+     },
+     "en": {
+      "name": "Centro di Salute Mentale (CSM) della tua ASL (mental health center of your local health authority)",
+      "desc": "The Mental Health Center (CSM) is the first point of reference for psychological distress. A team of several professionals works at the CSM: at least a psychiatrist, a psychologist, a social worker and a nurse. How to get access differs from one ASL to another: ask your ASL. You can show the “My worries” card.",
+      "hours": "The CSM is expected to be open at least 12 hours a day. Hours differ from one ASL to another.",
+      "src": {
+       "org": "Ministero della Salute",
+       "title": "La rete dei servizi per la salute mentale",
+       "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/la-rete-dei-servizi-la-salute-mentale/",
+       "kind": "summary",
+       "upd": "20/12/2024"
+      }
+     },
+     "src": {
+      "org": "Ministero della Salute",
+      "title": "La rete dei servizi per la salute mentale",
+      "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/la-rete-dei-servizi-la-salute-mentale/",
+      "kind": "summary",
+      "upd": "20/12/2024"
+     }
+    },
+    {
+     "id": "itserd",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Ser.D.: servizi pubblici per le dipendenze",
+      "desc": "I Ser.D. sono i servizi pubblici del Servizio sanitario nazionale che si occupano delle dipendenze. Sul sito del Dipartimento per le politiche contro la droga e le altre dipendenze c'è l'elenco dei Ser.D. regione per regione. Come si accede e gli orari cambiano da una zona all'altra: chiedi alla tua ASL.",
+      "hours": "",
+      "src": {
+       "org": "Presidenza del Consiglio dei Ministri, Dipartimento per le politiche contro la droga e le altre dipendenze",
+       "title": "Servizi sul territorio",
+       "url": "https://www.dipendenze.gov.it/it/servizi-sul-territorio/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Ser.D.: servizi pubblici per le dipendenze (public services for addictions)",
+      "desc": "The Ser.D. are the public services of the National Health Service that deal with addictions. The website of the Department for policies against drugs and other addictions has a list of the Ser.D., region by region. How to get access and the opening hours differ from one area to another: ask your ASL.",
+      "hours": "",
+      "src": {
+       "org": "Presidenza del Consiglio dei Ministri, Dipartimento per le politiche contro la droga e le altre dipendenze",
+       "title": "Servizi sul territorio",
+       "url": "https://www.dipendenze.gov.it/it/servizi-sul-territorio/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Presidenza del Consiglio dei Ministri, Dipartimento per le politiche contro la droga e le altre dipendenze",
+      "title": "Servizi sul territorio",
+      "url": "https://www.dipendenze.gov.it/it/servizi-sul-territorio/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "itnvdip",
+     "band": "day",
+     "tel": "800940789",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Numero Verde Dipendenze 800 940 789",
+      "desc": "Numero Verde Nazionale Unico Dipendenze, attivo presso l'Istituto Superiore di Sanità: gratuito da telefono fisso e da cellulare. Risponde un'équipe di psicologi, ricercatori e professionisti specializzati. Dà ascolto, informazioni e orientamento sulle dipendenze da sostanze e comportamentali, come alcol, droghe, fumo, gioco d'azzardo e uso di internet, e passa la chiamata ai telefoni verdi dedicati.",
+      "hours": "Dal lunedì al venerdì, dalle 10.00 alle 19.30; le linee dedicate hanno orari diversi. Orario italiano.",
+      "src": {
+       "org": "Istituto Superiore di Sanità",
+       "title": "Il Numero Verde Nazionale Unico Dipendenze - 800 94 07 89",
+       "url": "https://www.iss.it/cndd-telefono-verde-dipendenze",
+       "kind": "summary",
+       "upd": "19/06/2026"
+      }
+     },
+     "en": {
+      "name": "Numero Verde Dipendenze 800 940 789 (toll-free addiction helpline)",
+      "desc": "The single national toll-free number for addictions, run at the Istituto Superiore di Sanità: free from landlines and mobile phones. A team of psychologists, researchers and specialized professionals answers. It offers listening, information and guidance on addictions to substances and behavioral addictions, such as alcohol, drugs, smoking, gambling and internet use, and passes the call on to the dedicated toll-free lines.",
+      "hours": "Monday to Friday, from 10:00 a.m. to 7:30 p.m.; the dedicated lines have different hours. Italian time.",
+      "src": {
+       "org": "Istituto Superiore di Sanità, Centro nazionale Dipendenze e doping",
+       "title": "Il Numero Verde Nazionale Unico Dipendenze - 800 94 07 89",
+       "url": "https://www.iss.it/cndd-telefono-verde-dipendenze",
+       "kind": "summary",
+       "upd": "19/06/2026"
+      }
+     },
+     "src": {
+      "org": "Istituto Superiore di Sanità",
+      "title": "Il Numero Verde Nazionale Unico Dipendenze - 800 94 07 89",
+      "url": "https://www.iss.it/cndd-telefono-verde-dipendenze",
+      "kind": "summary",
+      "upd": "19/06/2026"
+     }
+    },
+    {
+     "id": "itdna",
+     "band": "day",
+     "tel": "800180969",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "SOS Disturbi Alimentari 800 180 969",
+      "desc": "Per i disturbi dell'alimentazione c'è il numero verde nazionale SOS Disturbi Alimentari, 800 180 969.",
+      "hours": "",
+      "src": {
+       "org": "Regione Umbria",
+       "title": "Disturbi alimentari, in Umbria oltre 13mila casi: i dati del convegno di Perugia tracciano l'identikit di un'epidemia silenziosa",
+       "url": "https://insalute.regione.umbria.it/novita/disturbi-alimentari-in-umbria-oltre-13mila-casi-i-dati-del-convegno-di-perugia-tracciano-lidentikit-di-unepidemia-silenziosa/",
+       "kind": "fact",
+       "upd": "13/03/2026"
+      }
+     },
+     "en": {
+      "name": "SOS Disturbi Alimentari 800 180 969 (eating disorders helpline)",
+      "desc": "For eating disorders, there is the national toll-free number SOS Disturbi Alimentari, 800 180 969.",
+      "hours": "",
+      "src": {
+       "org": "Regione Umbria",
+       "title": "Disturbi alimentari, in Umbria oltre 13mila casi: i dati del convegno di Perugia tracciano l'identikit di un'epidemia silenziosa",
+       "url": "https://insalute.regione.umbria.it/novita/disturbi-alimentari-in-umbria-oltre-13mila-casi-i-dati-del-convegno-di-perugia-tracciano-lidentikit-di-unepidemia-silenziosa/",
+       "kind": "fact",
+       "upd": "13/03/2026"
+      }
+     },
+     "src": {
+      "org": "Regione Umbria",
+      "title": "Disturbi alimentari, in Umbria oltre 13mila casi: i dati del convegno di Perugia tracciano l'identikit di un'epidemia silenziosa",
+      "url": "https://insalute.regione.umbria.it/novita/disturbi-alimentari-in-umbria-oltre-13mila-casi-i-dati-del-convegno-di-perugia-tracciano-lidentikit-di-unepidemia-silenziosa/",
+      "kind": "fact",
+      "upd": "13/03/2026"
+     }
+    },
+    {
+     "id": "itconsult",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Consultorio familiare",
+      "desc": "Il consultorio familiare è un servizio del Servizio sanitario nazionale per le donne, le coppie e le famiglie. Ci lavorano per esempio ginecologi, psicologi, assistenti sociali, ostetriche e infermieri. Per sapere dov'è il più vicino e come si accede, chiedi alla tua ASL.",
+      "hours": "",
+      "src": {
+       "org": "Ministero della Salute",
+       "title": "Consultorio Familiare",
+       "url": "https://www.salute.gov.it/new/it/tema/nuova-assistenza-distrettuale/consultorio-familiare/",
+       "kind": "summary",
+       "upd": "14/01/2025"
+      }
+     },
+     "en": {
+      "name": "Consultorio familiare (family health clinic for women, couples and families)",
+      "desc": "The consultorio familiare is a service of the National Health Service for women, couples and families. Gynecologists, psychologists, social workers, midwives and nurses work there, for example. To find out where the nearest one is and how to get access, ask your ASL.",
+      "hours": "",
+      "src": {
+       "org": "Ministero della Salute",
+       "title": "Consultorio Familiare",
+       "url": "https://www.salute.gov.it/new/it/tema/nuova-assistenza-distrettuale/consultorio-familiare/",
+       "kind": "summary",
+       "upd": "14/01/2025"
+      }
+     },
+     "src": {
+      "org": "Ministero della Salute",
+      "title": "Consultorio Familiare",
+      "url": "https://www.salute.gov.it/new/it/tema/nuova-assistenza-distrettuale/consultorio-familiare/",
+      "kind": "summary",
+      "upd": "14/01/2025"
+     }
+    },
+    {
+     "id": "itlavoro",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Collocamento mirato (lavoro e disabilità)",
+      "desc": "Il collocamento mirato è il sistema previsto dalla legge 68/1999 per favorire l'inserimento al lavoro delle persone con disabilità, con servizi di sostegno. La legge si applica a chi ha una disabilità riconosciuta, alle condizioni che la legge stabilisce.",
+      "hours": "",
+      "src": {
+       "org": "Normattiva",
+       "title": "Legge 12 marzo 1999, n. 68, art. 1",
+       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68",
+       "kind": "summary",
+       "upd": "2015-09-24"
+      }
+     },
+     "en": {
+      "name": "Collocamento mirato (targeted job placement: work and disability)",
+      "desc": "Collocamento mirato is the system set up by Law 68/1999 to help people with disabilities get into work, with support services. The law applies to people with a recognized disability, under the conditions the law sets.",
+      "hours": "",
+      "src": {
+       "org": "Normattiva",
+       "title": "Legge 12 marzo 1999, n. 68, art. 1",
+       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68",
+       "kind": "summary",
+       "upd": "2015-09-24"
+      }
+     },
+     "src": {
+      "org": "Normattiva",
+      "title": "Legge 12 marzo 1999, n. 68, art. 1",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68",
+      "kind": "summary",
+      "upd": "2015-09-24"
+     }
+    },
+    {
+     "id": "itunar",
+     "band": "day",
+     "tel": "800901010",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Numero Verde Antidiscriminazione 800 90 10 10",
+      "desc": "Numero verde contro le discriminazioni. Il servizio non costa nulla e si può usare in più lingue. Nei giorni festivi e fuori orario si può lasciare in segreteria un messaggio con un recapito, per essere richiamati. Si può anche fare una segnalazione sul sito www.unar.it.",
+      "hours": "Dal lunedì al venerdì, dalle 8.00 alle 17.00. Orario italiano.",
+      "src": {
+       "org": "Dipartimento per le Pari Opportunità",
+       "title": "800 90 10 10 - Numero Verde Antidiscriminazione",
+       "url": "https://www.pariopportunita.gov.it/it/numeri-utili/800-90-10-10-numero-verde-antidiscriminazione/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Numero Verde Antidiscriminazione 800 90 10 10 (toll-free anti-discrimination line)",
+      "desc": "A toll-free number against discrimination. The service costs nothing and can be used in several languages. On holidays and outside opening hours, you can leave a message with a contact number on the answering machine, so that they can call you back. You can also make a report on the website www.unar.it.",
+      "hours": "Monday to Friday, from 8:00 a.m. to 5:00 p.m. Italian time.",
+      "src": {
+       "org": "Dipartimento per le Pari Opportunità",
+       "title": "800 90 10 10 - Numero Verde Antidiscriminazione",
+       "url": "https://www.pariopportunita.gov.it/it/numeri-utili/800-90-10-10-numero-verde-antidiscriminazione/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Dipartimento per le Pari Opportunità",
+      "title": "800 90 10 10 - Numero Verde Antidiscriminazione",
+      "url": "https://www.pariopportunita.gov.it/it/numeri-utili/800-90-10-10-numero-verde-antidiscriminazione/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "itlegal",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Patrocinio a spese dello Stato",
+      "desc": "La legge assicura la difesa a spese dello Stato ai cittadini non abbienti: nel processo penale e, quando le loro ragioni non sono manifestamente infondate, anche in quello civile, amministrativo, contabile e tributario. Le condizioni, tra cui un limite di reddito, sono fissate dalla legge.",
+      "hours": "",
+      "src": {
+       "org": "Normattiva",
+       "title": "D.P.R. 30 maggio 2002, n. 115, art. 74",
+       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115",
+       "kind": "summary",
+       "upd": "2022-01-27"
+      }
+     },
+     "en": {
+      "name": "Patrocinio a spese dello Stato (legal defense at the State's expense)",
+      "desc": "The law ensures a defense at the State's expense for citizens without the means to pay: in criminal proceedings and, when their claims are not manifestly unfounded, also in civil, administrative, accounting and tax proceedings. The conditions, including an income limit, are set by law.",
+      "hours": "",
+      "src": {
+       "org": "Normattiva",
+       "title": "D.P.R. 30 maggio 2002, n. 115, art. 74",
+       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115",
+       "kind": "summary",
+       "upd": "2022-01-27"
+      }
+     },
+     "src": {
+      "org": "Normattiva",
+      "title": "D.P.R. 30 maggio 2002, n. 115, art. 74",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-05-30;115",
+      "kind": "summary",
+      "upd": "2022-01-27"
+     }
+    },
+    {
+     "id": "itgarante",
+     "band": "day",
+     "tel": "06696772917",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "it": {
+      "name": "Garante per la protezione dei dati personali: URP",
+      "desc": "All'Ufficio relazioni con il pubblico (URP) del Garante puoi fare domande e chiedere informazioni sulla protezione dei dati personali e su come farli rispettare, per esempio con un reclamo o una segnalazione.",
+      "hours": "Per telefono, dal lunedì al venerdì, dalle 10.30 alle 12.30. Orario italiano.",
+      "src": {
+       "org": "Garante per la protezione dei dati personali",
+       "title": "Contatti - URP",
+       "url": "https://www.garanteprivacy.it/home/footer/contatti",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Garante per la protezione dei dati personali: URP (data protection authority, public relations office)",
+      "desc": "At the Garante's Public Relations Office (URP), you can ask questions and request information about the protection of personal data and about how to have it respected, for example with a complaint or a report.",
+      "hours": "By phone, Monday to Friday, from 10:30 a.m. to 12:30 p.m. Italian time.",
+      "src": {
+       "org": "Garante per la protezione dei dati personali",
+       "title": "Contatti - URP",
+       "url": "https://www.garanteprivacy.it/home/footer/contatti",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Garante per la protezione dei dati personali",
+      "title": "Contatti - URP",
+      "url": "https://www.garanteprivacy.it/home/footer/contatti",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "it": {
+    "groups": {
+     "mood": {
+      "label": "Umore giù, senza energie",
+      "lead": "L'umore resta giù a lungo e manca l'energia per fare qualsiasi cosa.",
+      "scenes": [
+       "Mi sento giù dalla mattina alla sera.",
+       "Anche le cose che prima mi piacevano non mi danno più piacere.",
+       "Non ho energie e non riesco a concentrarmi, così il lavoro e le faccende di casa restano indietro.",
+       "Mi do la colpa di tutto e vedo ogni cosa dal lato peggiore.",
+       "Di notte non riesco a dormire, oppure dormo troppo. Ho poco appetito e il corpo è pesante.",
+       "A volte vorrei sparire, o non esserci più."
+      ],
+      "asks": [
+       "Mi aiuta se le cose da fare mi vengono spiegate una alla volta.",
+       "Ho bisogno di tempo per pensare: mi aiuta se non c'è fretta di rispondere o di decidere.",
+       "Mi aiuta avere per iscritto le cose importanti.",
+       "Prima di sentirmi dire «Forza!», mi aiuta se qualcuno mi ascolta.",
+       "Mi aiuta se il riposo non viene scambiato per pigrizia.",
+       "Mi aiuta controllare insieme se c'entrano anche una malattia fisica o un farmaco che sto prendendo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipotiroidismo",
+        "why": "Quando la tiroide produce pochi ormoni, la pagina elenca tra i disturbi stanchezza, depressione e cambiamenti della memoria.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "23 Febbraio 2022"
+        }
+       },
+       {
+        "name": "Ipoacusia",
+        "why": "La pagina spiega che sentire poco può pesare anche sul piano emotivo e portare a restare più isolati, con meno scambi con familiari e amici.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipoacusia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipoacusia.html",
+         "kind": "fact",
+         "upd": "11 Maggio 2026"
+        }
+       },
+       {
+        "name": "Insonnia",
+        "why": "La pagina spiega che dormire male può lasciare stanchezza al risveglio e pesare sulla concentrazione e sull'umore.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Alcol (bere troppo)",
+        "why": "La pagina spiega che bere troppo alcol può far scendere l'umore.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Farmaci antidepressivi",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/antidepressivi.html",
+         "kind": "fact",
+         "upd": "28 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Stress cronico",
+        "why": "La pagina spiega che uno stress che dura a lungo può portare, tra l'altro, ansia, depressione e stanchezza.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Stress",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Burnout (stress sul lavoro)",
+        "why": "In una pagina dell'INAIL il burnout è presentato come una condizione che nasce da uno stress sul lavoro che si protrae nel tempo ed è gestito male.",
+        "src": {
+         "org": "INAIL",
+         "title": "Burnout: una sindrome in crescita che può interessare ogni ambito lavorativo",
+         "url": "https://www.inail.it/portale/it/inail-comunica/news/notizia.2025.11.burnout-una-sindrome-in-crescita-che-puo-interessare-ogni-ambito-lavorativo.html",
+         "kind": "fact",
+         "upd": "06 novembre 2025"
+        }
+       },
+       {
+        "name": "Depressione",
+        "why": "La pagina spiega che, quando l'umore è molto basso, si parla di depressione.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       },
+       {
+        "name": "Disturbo bipolare",
+        "why": "La pagina spiega che l'umore può scendere molto (depressione) o salire molto (mania), e che le due fasi possono alternarsi.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Molta preoccupazione o tensione",
+      "lead": "La preoccupazione non si ferma, oppure arrivano batticuore e agitazione, oppure è difficile stare tra la gente o uscire di casa.",
+      "scenes": [
+       "Quando devo parlare davanti agli altri o ho gli occhi di tutti addosso, ho tanta ansia che la mente si svuota.",
+       "All'improvviso il cuore batte forte e mi manca il respiro. Ho paura che succeda di nuovo, e uscire di casa diventa difficile.",
+       "Mi preoccupo di una cosa dopo l'altra, anche senza un motivo preciso. Ho addosso un'agitazione che alla fine mi sfinisce.",
+       "Faccio fatica sui mezzi pubblici (metro, autobus o treno), nei centri commerciali o nei luoghi affollati e a uscire senza nessuno: sono situazioni da cui è difficile andare via, e le evito.",
+       "Evitando ciò che mi mette ansia, vado in sempre meno posti e vedo sempre meno persone: la mia vita si sta restringendo.",
+       "Le preoccupazioni non mi lasciano in pace e di notte non riesco ad addormentarmi."
+      ],
+      "asks": [
+       "Mi aiuta se mi si lascia il tempo di parlare, senza fretta.",
+       "Mi aiuta sapere in anticipo il programma e come si svolgerà l'incontro.",
+       "Preferisco che non mi si chieda all'improvviso un'opinione davanti agli altri; mi aiuta poter rispondere anche per iscritto.",
+       "Se sto male, mi aiuta poter uscire un momento e riposarmi.",
+       "Preferisco parlare in un posto tranquillo e con poche persone.",
+       "Prima di sentirmi dire che mi preoccupo troppo, mi aiuta se qualcuno ascolta che cosa mi mette in difficoltà."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipertiroidismo",
+        "why": "Quando la tiroide produce troppi ormoni, la pagina elenca tra i disturbi nervosismo, ansia e battito del cuore rapido o irregolare.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Aritmia (battito irregolare)",
+        "why": "La pagina elenca tra i fattori che possono scatenare un battito irregolare lo stress forte, fisico o emotivo, e le bevande con caffeina.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Aritmia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/aritmia.html",
+         "kind": "fact",
+         "upd": "18 Settembre 2025"
+        }
+       },
+       {
+        "name": "Caffeina",
+        "why": "La pagina elenca tra gli effetti indesiderati di un consumo elevato di caffè agitazione, ansia e irrequietezza.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Caffè",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/c/caffe.html",
+         "kind": "fact",
+         "upd": "30 Maggio 2022"
+        }
+       },
+       {
+        "name": "Alcol (quando si smette di colpo)",
+        "why": "La pagina spiega che, nella dipendenza dall'alcol, smettere di bere di colpo può portare agitazione, tremori e battito del cuore accelerato.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Dipendenza alcolica",
+         "url": "https://www.salute.gov.it/new/it/tema/alcol/dipendenza-alcolica/",
+         "kind": "summary",
+         "upd": "28/11/2025"
+        }
+       },
+       {
+        "name": "Insonnia",
+        "why": "La pagina elenca stress e ansia tra le cause più frequenti dell'insonnia.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Disturbo d'ansia generalizzata (DAG)",
+        "why": "La pagina descrive un'ansia non legata a una situazione precisa, che tocca molti aspetti della vita ed è difficile da controllare.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        }
+       },
+       {
+        "name": "Disturbo di panico",
+        "why": "La pagina descrive attacchi di paura molto intensa che arrivano all'improvviso, senza un motivo evidente, e che si ripetono.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Disturbo di panico",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/attacchi-di-panico.html",
+         "kind": "fact",
+         "upd": "30 Novembre 2022"
+        }
+       },
+       {
+        "name": "Agorafobia",
+        "why": "La pagina parla della paura di luoghi e situazioni da cui è difficile andarsene o in cui è difficile trovare aiuto, come i mezzi pubblici.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Agorafobia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/agorafobia.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Faccio fatica a smettere di controllare o di ripetere",
+      "lead": "Controllare più volte la porta o il gas, lavarsi spesso le mani: si ripetono le stesse cose e smettere è difficile, anche quando lo si vorrebbe.",
+      "scenes": [
+       "Prima di uscire devo controllare più e più volte la porta di casa e il gas; se non lo faccio, non riesco ad andare via con serenità.",
+       "Mi lavo le mani o il corpo sempre più spesso e, anche se vorrei smettere, non ci riesco.",
+       "La stessa preoccupazione mi torna in mente più volte e non riesco a smettere di pensarci, anche se lo vorrei.",
+       "Se le cose non sono sistemate o fatte nell'ordine che ho stabilito, mi agito e finisco per risistemarle o per ricominciare da capo.",
+       "Controllare mi porta via così tanto tempo che esco più tardi del previsto o arrivo in ritardo agli appuntamenti e al lavoro.",
+       "Il corpo si muove o mi escono dei suoni senza volerlo, e anche se provo a fermarmi è difficile."
+      ],
+      "asks": [
+       "Prima di sentirmi dire che sto esagerando, mi aiuta se qualcuno mi ascolta.",
+       "Controllare mi richiede tempo: mi aiuta avere un po' di margine.",
+       "Quando cambiano i programmi o i passaggi da seguire, preferisco che mi si avvisi in anticipo.",
+       "Preferisco che, davanti ad altri, nessuno faccia commenti o rida di me quando controllo qualcosa o mi lavo le mani.",
+       "Mi aiuta se spiegazioni e indicazioni mi vengono date una alla volta e per iscritto.",
+       "Prima di decidere come andare avanti con gli incontri, preferisco che si ascoltino le mie preoccupazioni e che si decida con calma."
+      ],
+      "meyasu": {
+       "has": true,
+       "text": "Secondo una pagina dell'Istituto Superiore di Sanità, con il disturbo ossessivo-compulsivo capita spesso di rimandare la richiesta di aiuto per vergogna, imbarazzo o senso di colpa. La stessa pagina indica di rivolgersi a un medico specialista.",
+       "src": {
+        "org": "Istituto Superiore di Sanità (ISSalute)",
+        "title": "Disturbo ossessivo-compulsivo",
+        "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/disturbo-ossessivo-compulsivo.html",
+        "kind": "fact",
+        "upd": "28 Febbraio 2020"
+       }
+      },
+      "names": [
+       {
+        "name": "Disturbo ossessivo-compulsivo (DOC)",
+        "why": "La pagina descrive pensieri sgraditi che si ripresentano e azioni che ci si sente spinti a ripetere più volte.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Disturbo ossessivo-compulsivo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/disturbo-ossessivo-compulsivo.html",
+         "kind": "fact",
+         "upd": "28 Febbraio 2020"
+        }
+       },
+       {
+        "name": "Disturbo d'ansia generalizzata (DAG)",
+        "why": "La pagina spiega che a volte le preoccupazioni sono difficili da controllare e possono pesare sulla vita di ogni giorno.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        }
+       },
+       {
+        "name": "Disturbi dello spettro autistico",
+        "why": "La pagina cita tra le caratteristiche dello spettro autistico comportamenti, interessi o attività ristretti e ripetitivi.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Autismo (ASD)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/autismo/",
+         "kind": "summary",
+         "upd": "31/03/2026"
+        }
+       },
+       {
+        "name": "Tic e sindrome di Tourette",
+        "why": "La pagina descrive i tic come movimenti o suoni rapidi e ripetuti, che di solito non si riescono a controllare.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Tic",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/t/tic.html",
+         "kind": "fact",
+         "upd": "30 Novembre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Un'esperienza dura continua a pesarmi",
+      "lead": "Dopo un'esperienza dura, il ricordo torna spesso, si dorme male oppure non si riesce a rilassarsi.",
+      "scenes": [
+       "Per un nonnulla, all'improvviso tornano la scena e le sensazioni di quel momento difficile.",
+       "Faccio spesso brutti sogni molto simili tra loro e in molte notti non riesco a dormire profondamente.",
+       "Sono sempre in tensione e anche un rumore leggero o un imprevisto mi fa sobbalzare.",
+       "Evito il più possibile i luoghi, le persone e i discorsi che mi ricordano quel momento, e così la mia vita di ogni giorno si restringe.",
+       "È come se dentro di me qualcosa si fosse spento: verso la famiglia e gli amici non riesco più a provare quello che provavo prima.",
+       "Mi sento sempre più in colpa, oppure faccio più fatica a fidarmi di chi mi sta intorno."
+      ],
+      "asks": [
+       "Mi aiuta se non mi vengono chiesti tutti i dettagli di quello che è successo. Preferisco raccontare con i miei tempi, solo fino a dove riesco.",
+       "Alcuni suoni, luoghi e argomenti riportano tutto a galla. Mi aiuta se, quando dico che preferisco evitarli, la cosa viene accettata.",
+       "Mi aiuta se nessuno mi parla all'improvviso da dietro e se vicino a me si evitano i rumori forti.",
+       "Quando parlare è troppo difficile, preferisco poter consegnare qualcosa di scritto.",
+       "Ci sono notti in cui non dormo e giorni in cui la stanchezza non passa. Preferisco che non vengano scambiati per pigrizia.",
+       "Mi aiuta se nessuno mi mette fretta con frasi come «Dimentica tutto» o «Su, riprenditi», e se c'è un posto dove posso parlare con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Disturbo da stress post-traumatico (PTSD)",
+        "why": "La pagina spiega che uno stress molto forte e improvviso, come una violenza subita o vista, può portare a problemi di salute mentale come questo.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Stress",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Disturbo acuto da stress (in ambito lavorativo)",
+        "why": "In una pagina dell'INAIL, il disturbo acuto da stress è tra i disturbi più spesso legati allo stress sul lavoro.",
+        "src": {
+         "org": "INAIL",
+         "title": "Malattie psichiche sul lavoro: necessari interventi organizzativi mirati alla prevenzione",
+         "url": "https://www.inail.it/portale/it/inail-comunica/news/notizia.2025.09.malattie-psichiche-sul-lavoro-necessari-interventi-organizzativi-mirati-alla-prevenzione.html",
+         "kind": "fact",
+         "upd": "23/09/2025"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Difficoltà con il sonno",
+      "lead": "È difficile addormentarsi, ci si sveglia di notte, è difficile alzarsi la mattina oppure di giorno si ha molto sonno.",
+      "scenes": [
+       "Anche quando sono a letto, faccio fatica ad addormentarmi.",
+       "Mi sveglio più volte durante la notte e non riesco a dormire senza interruzioni fino al mattino.",
+       "Quando suona la sveglia non riesco ad alzarmi, e mi capita spesso di arrivare in ritardo al lavoro o a scuola.",
+       "Durante il giorno mi viene un sonno fortissimo e a volte sto per addormentarmi durante una riunione o alla guida.",
+       "In famiglia mi dicono che russo forte e che, mentre dormo, sembra che mi si fermi il respiro.",
+       "Verso sera e di notte sento nelle gambe un fastidio che mi spinge a muoverle e non mi lascia dormire."
+      ],
+      "asks": [
+       "Mi aiuta se qualcuno si prende il tempo di chiedermi come dormo: quanto ci metto ad addormentarmi, se mi sveglio di notte, quanta fatica faccio ad alzarmi e quanto sonno ho di giorno.",
+       "Mi aiuta se si guardano insieme a me i medicinali che prendo e le mie abitudini con caffè, alcol e sigarette, per capire che cosa può influire sul sonno.",
+       "Mi aiuta se non si dà per scontato che sia una questione di carattere o di buona volontà, e se si controllano insieme la salute del corpo e l'umore.",
+       "Preferisco spiegare i miei orari con un appunto scritto, con l'ora in cui vado a letto e quella in cui mi alzo, e che venga guardato con calma.",
+       "Se serve un medicinale, mi aiuta se mi viene spiegato con parole semplici come funziona e a che cosa bisogna fare attenzione.",
+       "La mattina faccio molta fatica: se possibile, preferisco un appuntamento nel pomeriggio."
+      ],
+      "meyasu": {
+       "has": true,
+       "text": "Per chi dorme male, il sito dell'Istituto Superiore di Sanità consiglia di provare prima qualche piccola abitudine utile per il sonno. Se le cose non cambiano, conviene parlarne con il tuo medico e, se ti è possibile, raccontare come sono andate le notti in cui non riuscivi a dormire.",
+       "src": {
+        "org": "Istituto Superiore di Sanità (ISSalute)",
+        "title": "Insonnia",
+        "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+        "kind": "fact",
+        "upd": "07 Agosto 2025"
+       }
+      },
+      "names": [
+       {
+        "name": "Insonnia",
+        "why": "La pagina parla di fatica ad addormentarsi, di sonno interrotto o di risveglio troppo presto, e di una stanchezza che pesa sulla giornata.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Apnea notturna ostruttiva",
+        "why": "La pagina spiega che durante il sonno la gola può restringersi e il respiro interrompersi per brevi momenti, e che spesso sono le persone vicine ad accorgersene.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Apnea notturna ostruttiva",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/apnea-notturna-ostruttiva.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Sindrome delle gambe senza riposo",
+        "why": "La pagina spiega che si sente il bisogno urgente di muovere le gambe, con sensazioni spiacevoli, e che questo può disturbare il sonno.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Sindrome delle gambe senza riposo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/sindrome-delle-gambe-senza-riposo.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Ipersonnia",
+        "why": "La pagina spiega che il bisogno di dormire è tanto forte, o la sonnolenza tanto continua, da ostacolare le attività di ogni giorno.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipersonnia idiopatica",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipersonnia-idiopatica.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Narcolessia",
+        "why": "La pagina la mette a confronto con l'ipersonnia: in tutte e due, di giorno, il sonno può essere così forte che ci si addormenta in qualunque momento.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipersonnia idiopatica",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipersonnia-idiopatica.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Turni di lavoro e jet lag",
+        "why": "La pagina indica, tra le cause più frequenti dell'insonnia, abitudini di vita come i turni di lavoro e il jet lag.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Caffeina, nicotina e alcol la sera",
+        "why": "La pagina nomina caffeina, nicotina e alcol poco prima di dormire tra le abitudini che possono disturbare il sonno.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Menopausa",
+        "why": "La pagina spiega che in menopausa le sudorazioni notturne possono far svegliare di notte.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Menopausa",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/m/menopausa.html",
+         "kind": "fact",
+         "upd": "18 Maggio 2020"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Difficoltà con il cibo",
+      "lead": "Mangiare è diventato difficile: si mangia pochissimo, non ci si riesce a fermare, oppure il cibo fa paura.",
+      "scenes": [
+       "Non ho voglia di mangiare e da giorni il cibo mi va giù a fatica.",
+       "Quando comincio a mangiare non riesco a fermarmi e a volte mangio fino a stare male.",
+       "Mi accorgo di pensare solo al cibo e faccio fatica a concentrarmi su altro.",
+       "Mangio solo pochissimi cibi: il gusto, l'odore o la consistenza di molti altri mi danno troppo fastidio e li evito.",
+       "Da quando ho avuto un boccone bloccato in gola, o ho vomitato, mangiare mi fa paura.",
+       "A volte di notte mangio quasi nel sonno e al mattino non me lo ricordo."
+      ],
+      "asks": [
+       "Mi aiuta se non vengono fatti commenti sul peso o sul corpo.",
+       "Mi aiuta se nessuno mi obbliga a mangiare o mi mette fretta.",
+       "Per i pranzi e le cene in compagnia, anche di lavoro, preferisco poter scegliere un altro luogo o un altro orario.",
+       "Mi aiuta se prima mi viene chiesto che cosa riesco a mangiare e quali odori o consistenze mi danno fastidio.",
+       "Mi aiuta se prima mi viene spiegato come si svolgono la visita e gli esami del corpo.",
+       "Per le cose difficili da dire a voce, preferisco poterle consegnare per iscritto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipertiroidismo",
+        "why": "La pagina elenca la perdita di peso, anche se l'appetito aumenta, tra i disturbi di quando la tiroide produce troppi ormoni.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Ipotiroidismo",
+        "why": "La pagina elenca l'aumento di peso tra i disturbi di quando la tiroide non produce abbastanza ormoni.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "23 Febbraio 2022"
+        }
+       },
+       {
+        "name": "Disturbi della nutrizione e dell'alimentazione (DNA)",
+        "why": "La pagina spiega che sono condizioni complesse, in cui il modo di mangiare diventa un problema e c'è una forte preoccupazione per il peso e per l'immagine del proprio corpo.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Cosa sono i Disturbi della Nutrizione e dell'Alimentazione (DNA)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/cosa-sono-i-disturbi-della-nutrizione-e-dellalimentazione-dna/",
+         "kind": "summary",
+         "upd": "09/03/2026"
+        }
+       },
+       {
+        "name": "Disturbi dell'umore e disturbi d'ansia",
+        "why": "La pagina spiega che i disturbi dell'alimentazione possono presentarsi insieme a disturbi dell'umore o d'ansia.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Cosa sono i Disturbi della Nutrizione e dell'Alimentazione (DNA)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/cosa-sono-i-disturbi-della-nutrizione-e-dellalimentazione-dna/",
+         "kind": "summary",
+         "upd": "09/03/2026"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itdna",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Faccio fatica a smettere con alcol, gioco d'azzardo o videogiochi",
+      "lead": "Si vorrebbe smettere o diminuire, ma si continua lo stesso.",
+      "scenes": [
+       "Anche quando decido di smettere o di ridurre, mi accorgo che ricomincio.",
+       "Non riesco a rispettare il tempo, la quantità o i soldi che avevo deciso («per oggi basta così»).",
+       "Con le persone vicine nascondo o minimizzo quanto bevo, quanto gioco d'azzardo o quanto uso i videogiochi.",
+       "Vado avanti con i videogiochi fino a tardi, la mattina non riesco ad alzarmi e aumentano i ritardi e le assenze.",
+       "Quando perdo dei soldi voglio rifarmi, e così scommetto ancora.",
+       "So che il mio corpo non sta bene, ma non riesco a bere di meno."
+      ],
+      "asks": [
+       "Mi aiuta se prima di tutto mi si ascolta, senza accuse e senza conclusioni già pronte.",
+       "Mi aiuta se si mette in ordine insieme a me, un passo alla volta, come mi comporto con l'alcol, il gioco d'azzardo o i videogiochi e quali difficoltà mi crea.",
+       "Mi aiuta se vengono controllati anche il sonno e la salute del corpo.",
+       "Vorrei sapere in modo concreto a quali servizi posso rivolgermi e dove posso andare.",
+       "Vorrei sapere anche se la mia famiglia o una persona vicina può venire con me agli incontri.",
+       "Vorrei che prima si chiarisse con me a chi viene riferito ciò che racconto, e fino a che punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insonnia",
+        "why": "La pagina indica il bere alcol la sera, prima di dormire, tra le cause dell'insonnia.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Dipendenza alcolica",
+        "why": "La pagina spiega che il bisogno di bere può diventare difficile da controllare e che con il tempo servono quantità sempre maggiori per avere lo stesso effetto.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Dipendenza alcolica",
+         "url": "https://www.salute.gov.it/new/it/tema/alcol/dipendenza-alcolica/",
+         "kind": "summary",
+         "upd": "28/11/2025"
+        }
+       },
+       {
+        "name": "Disturbo da gioco d'azzardo (DGA)",
+        "why": "La pagina lo descrive come un disturbo del comportamento, in cui diventa molto difficile trattenersi dal giocare soldi.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Il gioco d'azzardo è un vizio?",
+         "url": "https://www.issalute.it/index.php/falsi-miti-e-bufale/fumo-alcol-droghe-dipendenze/il-gioco-d-azzardo-e-un-vizio.html",
+         "kind": "fact",
+         "upd": "11 Marzo 2022"
+        }
+       },
+       {
+        "name": "Gaming Disorder (disturbo da gioco su Internet)",
+        "why": "La pagina spiega che si perde il controllo sul gioco, che il gioco passa davanti ad altri interessi e alle attività di ogni giorno e che si continua anche quando crea problemi. Riguarda i giochi su Internet che non sono d'azzardo.",
+        "src": {
+         "org": "Istituto Superiore di Sanità",
+         "title": "Gaming",
+         "url": "https://www.iss.it/-/gaming",
+         "kind": "summary",
+         "upd": "02/03/2023"
+        }
+       },
+       {
+        "name": "Depressione",
+        "why": "La pagina spiega che bere troppo alcol può essere, di per sé, una causa di depressione.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Farmaci antidepressivi",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/antidepressivi.html",
+         "kind": "fact",
+         "upd": "28 Gennaio 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itserd",
+       "itnvdip",
+       "itmedico"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Difficoltà di attenzione o di organizzazione",
+      "lead": "È difficile concentrarsi, fare le cose nell'ordine giusto o ricordarsele.",
+      "scenes": [
+       "Anche quando qualcuno mi sta parlando, la mia mente va altrove senza che me ne accorga.",
+       "Faccio fatica a portare avanti il lavoro o le faccende di casa nel giusto ordine e finisco per non rispettare le scadenze.",
+       "Spesso non mi ricordo più che cosa mi hanno chiesto o che cosa ho promesso, oppure perdo le cose.",
+       "Se faccio a lungo la stessa attività, aumentano gli errori di distrazione.",
+       "Se devo stare a lungo con il corpo fermo, sento un'agitazione che non mi lascia in pace.",
+       "Le persone intorno a me mi dicono che dimentico spesso le cose o che arrivo in ritardo."
+      ],
+      "asks": [
+       "Mi aiuta se le indicazioni mi vengono date una alla volta.",
+       "Mi aiuta avere per iscritto le cose importanti.",
+       "Mi aiuta sapere con anticipo scadenze e appuntamenti.",
+       "Mi aiuta se le richieste non arrivano tutte insieme, ma divise in parti piccole.",
+       "Preferisco parlare in un posto tranquillo, dove mi distraggo meno.",
+       "Mi aiuta se si riconosce ciò che ho fatto, senza rimproveri per ciò che non ho fatto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipertiroidismo",
+        "why": "Quando la tiroide produce troppi ormoni, tra i disturbi che la pagina elenca ci sono nervosismo, ansia e difficoltà a stare fermi.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Ipotiroidismo",
+        "why": "Quando la tiroide produce pochi ormoni, la pagina elenca tra i disturbi la stanchezza e cambiamenti della memoria.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "23 Febbraio 2022"
+        }
+       },
+       {
+        "name": "Anemia da carenza di ferro",
+        "why": "Tra i disturbi meno frequenti che la pagina elenca per la carenza di ferro ci sono anche un calo delle prestazioni e la difficoltà a concentrarsi.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Anemia da carenza di ferro",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/anemia-da-carenza-di-ferro.html",
+         "kind": "fact",
+         "upd": "18 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Insonnia",
+        "why": "La pagina scrive che dormire male può pesare sulla concentrazione e sulle attività di ogni giorno.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Stress cronico",
+        "why": "La pagina chiarisce che lo stress è il modo in cui il corpo risponde agli eventi vissuti come minacce, e non una malattia. Tra i disturbi legati allo stress che elenca ci sono la difficoltà a concentrarsi e a prendere decisioni.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Stress",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Disturbo d'ansia generalizzata (DAG)",
+        "why": "La pagina descrive preoccupazioni che toccano molti aspetti della vita e sono difficili da controllare. Tra i disturbi elencati ci sono anche le difficoltà a concentrarsi.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        }
+       },
+       {
+        "name": "ADHD (disturbo da deficit di attenzione e iperattività)",
+        "why": "La pagina descrive difficoltà di attenzione, irrequietezza, impulsività e scarsa pianificazione che restano nel tempo e interferiscono con la vita di ogni giorno.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Difficoltà nei rapporti, nelle abitudini o con i sensi",
+      "lead": "È difficile parlare o stare con gli altri, c'è un forte bisogno di fare le cose sempre allo stesso modo, oppure suoni, luci e odori sono difficili da sopportare.",
+      "scenes": [
+       "Faccio fatica a capire che cosa prova l'altra persona o com'è l'atmosfera del momento, e ho l'impressione che non riusciamo a capirci.",
+       "Parlare davanti agli altri, o avere gli occhi di tutti addosso, mi mette una tensione fortissima e finisco per evitare queste situazioni.",
+       "Con le persone che mi sono vicine riesco a parlare, ma davanti agli altri mi blocco e non mi esce la voce.",
+       "Se cambiano il mio modo fisso di fare le cose, l'ordine dei passaggi o il posto degli oggetti, mi viene molta ansia.",
+       "Rumori, luci e odori mi arrivano troppo forti e i luoghi affollati mi pesano.",
+       "Faccio fatica a sentire quello che dicono gli altri, oppure mi sento giù, e incontrare le persone o parlare mi pesa."
+      ],
+      "asks": [
+       "Mi aiuta se si parla lentamente e in modo chiaro.",
+       "Mi aiuta avere per iscritto le cose importanti.",
+       "Preferisco parlare in un posto tranquillo.",
+       "Mi aiuta sapere in anticipo quando cambiano i programmi o il modo di fare le cose.",
+       "Mi aiuta se non c'è fretta di avere una risposta e si aspetta con pazienza.",
+       "Vorrei poter rispondere per iscritto, o con un breve biglietto, invece di parlare."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipoacusia",
+        "why": "La pagina spiega che, quando si sente poco e seguire le conversazioni diventa faticoso, si può finire per stare più in disparte e perdere interesse per gli incontri con gli altri.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipoacusia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipoacusia.html",
+         "kind": "fact",
+         "upd": "11 Maggio 2026"
+        }
+       },
+       {
+        "name": "Fobia sociale (disturbo d'ansia sociale)",
+        "why": "Secondo la pagina, è un'ansia forte che nasce quando si è con altre persone, per esempio quando si deve parlare in pubblico, per la paura di fare brutta figura.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Fobie",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/f/fobie.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Disturbi dello spettro autistico",
+        "why": "La pagina parla di difficoltà che restano nel tempo nella comunicazione e nell'interazione con gli altri, in contesti diversi, e di comportamenti, interessi o attività ristretti e ripetitivi.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Autismo (ASD)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/autismo/",
+         "kind": "summary",
+         "upd": "31/03/2026"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Difficoltà a leggere, scrivere o fare i calcoli",
+      "lead": "Anche con tanto impegno, leggere, scrivere o lavorare con i numeri resta molto difficile.",
+      "scenes": [
+       "Per leggere un testo mi serve più tempo che agli altri e finisco per rileggere più volte.",
+       "Anche dopo aver letto, il contenuto non mi resta in testa e faccio fatica a capire il senso di moduli e lettere, anche della pubblica amministrazione.",
+       "Faccio fatica con l'ortografia (accenti, doppie, apostrofi) e spesso faccio errori o salto delle parole.",
+       "La mia calligrafia è irregolare e scrivere a mano mi richiede molto tempo e molta fatica.",
+       "Mi blocco anche sui calcoli semplici o sui problemi di matematica scritti a parole.",
+       "Parlare e ascoltare mi riesce, ma con la lettura, la scrittura e i calcoli, anche prendendomi tempo, le cose non vanno come vorrei."
+      ],
+      "asks": [
+       "Mi aiuta avere i testi con caratteri grandi, righe ben distanziate e parole semplici.",
+       "Mi aiuta se le informazioni importanti mi vengono lette ad alta voce o dette a voce.",
+       "Vorrei poter scrivere al computer o al telefono, oppure registrare con foto e audio, invece di scrivere a mano.",
+       "Mi aiuta poter usare la calcolatrice per i calcoli.",
+       "Mi aiuta avere più tempo per leggere, scrivere e fare i calcoli.",
+       "Mi aiuta se mi viene dato poco alla volta, una cosa per volta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipoacusia",
+        "why": "La pagina spiega che con l'ipoacusia i suoni si sentono meno bene e le parole si capiscono con più fatica. Se anche ascoltare ti costa fatica, puoi parlarne insieme alle difficoltà con lettura, scrittura e calcoli.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipoacusia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipoacusia.html",
+         "kind": "fact",
+         "upd": "11 Maggio 2026"
+        }
+       },
+       {
+        "name": "Dislessia e disturbi specifici dell'apprendimento (DSA)",
+        "why": "La pagina colloca la dislessia tra i disturbi specifici dell'apprendimento, che toccano lettura, scrittura e calcolo. La dislessia riguarda in particolare la lettura. Nel paragrafo sugli adulti indica come aiuto strumenti come la scrittura al computer.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Dislessia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/dislessia.html",
+         "kind": "fact",
+         "upd": "27 Febbraio 2020"
+        }
+       },
+       {
+        "name": "Discalculia",
+        "why": "La pagina la descrive come una difficoltà con i calcoli e, più in generale, con l'aritmetica. Spesso si presenta insieme ad altri disturbi dell'apprendimento, come la dislessia, e la pagina chiarisce che questi disturbi non dipendono da una minore capacità di ragionamento.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Discalculia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/discalculia.html",
+         "kind": "fact",
+         "upd": "21 Febbraio 2023"
+        }
+       },
+       {
+        "name": "ADHD (disturbo da deficit di attenzione e iperattività)",
+        "why": "La pagina descrive difficoltà di attenzione e di pianificazione che restano nel tempo e pesano sulla vita di ogni giorno. Se leggere, scrivere o fare calcoli ti costa fatica, puoi raccontare anche come va con l'attenzione.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandi alti e bassi dell'umore",
+      "lead": "L'umore sale e scende molto, ed è difficile stargli dietro.",
+      "scenes": [
+       "Ci sono periodi in cui ho troppa energia e periodi in cui sono così giù da non riuscire a muovermi, e si alternano.",
+       "A volte dormo pochissimo eppure ho tanta energia e sono sempre in movimento.",
+       "Mi vengono in mente un sacco di cose da fare una dopo l'altra, e restano tutte a metà.",
+       "Mi è capitato di spendere così tanti soldi da trovarmi poi in difficoltà.",
+       "Per piccole cose mi irrito e faccio fatica a tenere a bada le emozioni.",
+       "Quello che ho fatto quando avevo l'umore molto alto ha avuto conseguenze sui rapporti o sul lavoro."
+      ],
+      "asks": [
+       "Mi aiuta se mi si chiede anche dei momenti in cui stavo insolitamente bene o avevo tanta energia.",
+       "Mi aiuta se si ripercorrono insieme, con calma, i miei alti e bassi.",
+       "Prima di decisioni importanti su soldi o lavoro, mi aiuta fermarmi a riflettere con qualcuno.",
+       "Mi aiuta se si controllano anche le cause fisiche, compresi il sonno, i farmaci e l'alcol.",
+       "Se qualcosa in me sembra cambiato rispetto al solito, mi aiuta se me lo si dice senza rimproveri.",
+       "Mi aiuta se qualcuno mi ascolta fino in fondo, sia quando l'umore è alto sia quando è basso."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipertiroidismo",
+        "why": "Quando la tiroide produce troppi ormoni, tra i disturbi che la pagina elenca ci sono nervosismo, ansia e iperattività.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Insonnia",
+        "why": "La pagina scrive che dormire male può pesare anche sull'umore, oltre che sulla concentrazione.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Ciclo mestruale (fase premestruale)",
+        "why": "Secondo la pagina, nei giorni prima della mestruazione i cambiamenti degli ormoni possono portare irritabilità o un umore che cambia spesso.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ciclo mestruale",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/c/ciclo-mestruale.html",
+         "kind": "fact",
+         "upd": "28 Dicembre 2021"
+        }
+       },
+       {
+        "name": "Farmaci cortisonici",
+        "why": "La pagina elenca i cambiamenti di umore tra gli effetti di un uso intenso e prolungato di questi farmaci. Dice anche che, dopo un uso lungo, non vanno sospesi all'improvviso: la dose si abbassa poco alla volta, sotto la guida del medico.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Cortisone / Cortisonici",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/c/cortisone-cortisonici.html",
+         "kind": "fact",
+         "upd": "27 Febbraio 2020"
+        }
+       },
+       {
+        "name": "Alcol (effetti e astinenza)",
+        "why": "La pagina scrive che l'alcol influenza pensieri, emozioni e capacità di giudizio, e che smettere di colpo dopo averne bevuto molto e a lungo può dare agitazione.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Dipendenza alcolica",
+         "url": "https://www.salute.gov.it/new/it/tema/alcol/dipendenza-alcolica/",
+         "kind": "summary",
+         "upd": "28/11/2025"
+        }
+       },
+       {
+        "name": "Depressione",
+        "why": "La pagina ricorda che l'umore cambia sempre un po' e chiama depressione l'umore molto basso.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       },
+       {
+        "name": "Disturbo bipolare",
+        "why": "Secondo la pagina, l'umore può scendere molto (depressione) o salire molto (mania), e le due fasi possono anche alternarsi.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       },
+       {
+        "name": "ADHD (disturbo da deficit di attenzione e iperattività)",
+        "why": "La pagina descrive irrequietezza e impulsività che restano nel tempo, insieme a difficoltà di attenzione e di pianificazione.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conoscere un nome può far sembrare importanti i piccoli alti e bassi di ogni giorno",
+       "body": "Quando conosci il nome di una malattia o di una condizione dello sviluppo, un po' di stanchezza o un momento di distrazione possono iniziare a sembrarti la prova di qualcosa.\n\nLe emozioni possono cambiare il modo in cui ti senti, nel corpo e nell'umore, e non è immaginazione: succede davvero. Ma anche dormire poco, lo stress, l'uso del telefono o quello che succede intorno possono produrre qualcosa di simile.\n\nSe leggendo un nome pensi «forse è questo», non fermarti lì: pensa anche ad altre ragioni. E se quello che ti pesa continua, puoi parlarne così com'è, anche se non hai un nome per descriverlo.",
+       "srcs": []
+      },
+      {
+       "h": "Gli alti e bassi dell'umore capitano a tutti",
+       "body": "L'Istituto Superiore di Sanità, nella sua pagina sull'ansia negli adulti, scrive: «Ogni persona sperimenta l'ansia in alcuni momenti della vita, per esempio quando deve sostenere un esame, sottoporsi a una visita medica o a un colloquio di lavoro.»\n\nAnche gli alti e bassi dell'umore capitano a tutti.\n\nIl nome (la diagnosi) lo danno i professionisti della salute, dopo averti ascoltato e osservato.\n\nSe qualcosa ti pesa, puoi parlarne così com'è, che tu abbia o no un nome per descriverlo.",
+       "srcs": [
+        {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "quote",
+         "upd": "14 Gennaio 2021"
+        },
+        {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       ]
+      },
+      {
+       "h": "Puoi parlare delle tue difficoltà anche senza una diagnosi",
+       "body": "Anche senza una diagnosi puoi parlare delle tue difficoltà. Puoi rivolgerti al tuo medico di famiglia; in alcune zone puoi andare direttamente al consultorio o al Centro di Salute Mentale, in altre serve l'impegnativa del medico: chiedi alla tua ASL.\n\nIl Ministero della Salute descrive il Centro di Salute Mentale come il primo punto di riferimento per i cittadini con un disagio psichico. Le norme nazionali descrivono il consultorio familiare come un servizio a cui si può accedere direttamente; come funziona nella pratica cambia da una zona all'altra.\n\nQuando chiedi un aiuto, a scuola o al lavoro, puoi raccontare in quali situazioni hai difficoltà e che cosa ti aiuterebbe. Che cosa si può chiedere dipende dalla situazione, e si decide parlando.",
+       "srcs": [
+        {
+         "org": "Gazzetta Ufficiale della Repubblica Italiana",
+         "title": "Decreto 23 maggio 2022, n. 77, Allegato 1",
+         "url": "https://www.gazzettaufficiale.it/eli/gu/2022/06/22/144/sg/pdf",
+         "kind": "summary",
+         "upd": "22/06/2022"
+        },
+        {
+         "org": "Gazzetta Ufficiale della Repubblica Italiana",
+         "title": "DPCM 12 gennaio 2017, art. 24",
+         "url": "https://www.gazzettaufficiale.it/eli/gu/2017/03/18/65/so/15/sg/pdf",
+         "kind": "summary",
+         "upd": "18/03/2017"
+        },
+        {
+         "org": "Ministero della Salute",
+         "title": "La rete dei servizi per la salute mentale",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/la-rete-dei-servizi-la-salute-mentale/",
+         "kind": "summary",
+         "upd": "20/12/2024"
+        }
+       ]
+      },
+      {
+       "h": "Ma per alcune procedure possono servire documenti medici",
+       "body": "Ma alcune procedure richiedono documenti medici. Che cosa serve dipende dalla procedura.\n\nPer il riconoscimento della disabilità, un medico invia all'INPS un certificato medico elettronico; le modalità oggi non sono uguali in tutte le zone.\n\nAnche per l'esenzione dal ticket per una malattia cronica serve la certificazione di un medico specialista.\n\nPer un periodo di malattia il medico invia all'INPS il certificato telematico; al datore di lavoro arriva solo un attestato senza diagnosi.\n\nIl collocamento mirato è per le persone con disabilità riconosciuta.\n\nAll'università, per le misure legate alle difficoltà di lettura, scrittura e calcolo serve un documento rilasciato dal servizio sanitario.\n\nPrima di iniziare una procedura, chiedi all'ente competente quali documenti servono.",
+       "srcs": [
+        {
+         "org": "INPS",
+         "title": "Domanda invalidità civile e accertamento sanitario",
+         "url": "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.domanda-invalidita-civile-e-accertamento-sanitario-50004.accertamento-sanitario.html",
+         "kind": "fact",
+         "upd": "5 giugno 2026"
+        },
+        {
+         "org": "INPS",
+         "title": "Certificato medico introduttivo - Invalidità civile",
+         "url": "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.certificato-medico-introduttivo---invalidit--civile.html",
+         "kind": "fact",
+         "upd": "28 ottobre 2026"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Decreto legislativo 3 maggio 2024, n. 62, art. 8",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-05-03;62",
+         "kind": "summary",
+         "upd": "2024-06-30"
+        },
+        {
+         "org": "Regione Lombardia",
+         "title": "Ticket, esenzioni ed erogabilità delle prestazioni a carico del SSR",
+         "url": "https://www.regione.lombardia.it/sanita/ticket-ed-esenzioni/ticket-esenzioni-prestazioni-ssr",
+         "kind": "fact",
+         "upd": "28 Luglio 2026"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Decreto legislativo 29 aprile 1998, n. 124, art. 5",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-29;124",
+         "kind": "summary",
+         "upd": "1998-05-01"
+        },
+        {
+         "org": "INPS",
+         "title": "Come funziona il certificato di malattia telematico",
+         "url": "https://www.inps.it/content/dam/inps-site/pdf/inpscomunica/documents/Certificazione_malattia_visite_mediche_controllo_lavoratori_privati_pubblici_2024_v04.pdf",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Legge 12 marzo 1999, n. 68, art. 1",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68",
+         "kind": "summary",
+         "upd": "2015-09-24"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Legge 8 ottobre 2010, n. 170, artt. 3 e 5",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-10-08;170",
+         "kind": "summary",
+         "upd": "2010-11-02"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Il nome di una malattia non è uno strumento per mettersi al di sopra di qualcuno",
+       "body": "Il nome di una malattia non è uno strumento per mettersi al di sopra di qualcuno o per guardare dall'alto in basso gli altri.\nPer alcune persone trovare un nome per quello che vivono è un sollievo. Questo è importante.\nÈ anche naturale desiderare che chi ci sta intorno ci capisca e ci tratti con gentilezza.\n\nQuando vuoi che chi ti sta intorno sia gentile con te, puoi chiederlo direttamente, senza bisogno di dire il nome di una malattia.\nSi capisce meglio se dici insieme due cose: in che cosa hai difficoltà e che cosa vorresti che facesse l'altra persona.\n\nPer esempio:\n«Oggi ho poca energia: mi aiuta se mi parlano lentamente.»\n«Se mi dicono tante cose insieme mi confondo: mi aiuta se mi spiegano le cose una alla volta.»\n«Quello che mi dicono a voce faccio fatica a ricordarlo: preferisco che le cose importanti mi vengano date per iscritto, su carta o per email.»\n«I posti con molta gente mi pesano: vorrei parlare in un luogo tranquillo.»\n«Ho bisogno di un po' di tempo per rispondere: mi aiuta se mi aspettano un momento.»\n«In questo momento ho tante emozioni insieme: mi aiuta se prima mi ascoltano. I consigli possono venire dopo.»\n«Oggi non sto bene: mi aiuta se mi lasciano riposare un po'.»\n«I cambi di programma improvvisi mi spiazzano: mi aiuta se mi avvisano per tempo.»\n«Quando mi parlano a voce alta ho paura: mi aiuta se mi parlano con calma.»\n\nSe fai fatica a dirlo bene, puoi scriverlo su un foglio e consegnarlo. Puoi anche mostrare la schermata «Le mie difficoltà» con il pulsante «Mostra in grande»: compare in questa app quando scegli un tema e rispondi alle domande.\nSe vuoi dire il nome che ti hanno già dato, puoi farlo. Anche in quel caso, all'altra persona aiuta sapere insieme in che cosa hai difficoltà e che cosa vorresti che facesse.\nA volte l'altra persona non può fare quello che le chiedi, per la sua situazione. Allora si può cercare insieme un'altra strada.\n\nSul lavoro si può chiedere con le stesse parole: «Faccio fatica a seguire più istruzioni insieme; preferisco averle per iscritto.» Se serve un adattamento formale, può essere richiesto un documento che lo attesti.\n\nNon usare l'elenco di nomi di questa app per dubitare delle persone intorno a te.",
+       "srcs": []
+      },
+      {
+       "h": "Su questa app",
+       "body": "Questa non è una diagnosi. Se un nome compare nell'elenco, non vuol dire che un medico lo abbia indicato per te.\n\nQuesta app non è un dispositivo medico e non diagnostica, tratta, cura o previene alcuna patologia.\n\nSOYOGI è un gruppo senza scopo di lucro, privo di personalità giuridica, con sede in Giappone. Non ha alcun rapporto con il Governo italiano, il Ministero della Salute, l'Istituto Superiore di Sanità, le Regioni, le ASL, il Servizio sanitario nazionale, gli ordini professionali né con alcuna struttura sanitaria, e nessuno di loro raccomanda o sostiene l'app. I nomi delle istituzioni indicano soltanto da dove vengono le informazioni. I testi originali si possono leggere gratis sui siti di ciascuna istituzione.\n\nI contenuti sono stati scritti da SOYOGI con parole proprie, a partire da pagine pubbliche italiane; le poche frasi riprese alla lettera sono tra virgolette «così». Le fonti sono indicate in ogni schermata, con la data della pagina quando la pagina la mostra. Consultato il 29 ottobre 2026. I numeri e gli orari possono cambiare.\n\nSe chiedere aiuto o no lo decidi tu, non l'app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Anche quando non è chiaro da che cosa dipendono le tue difficoltà, puoi parlarne con il tuo medico di famiglia.",
+      "src": {
+       "org": "Istituto Superiore di Sanità (ISSalute)",
+       "title": "Stress",
+       "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+       "kind": "fact",
+       "upd": "27 Luglio 2020"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Puoi chiedere informazioni anche ai servizi sociali della zona in cui vivi: la legge prevede in ogni territorio un servizio sociale professionale e un segretariato sociale, che danno informazioni e consulenza alle persone e alle famiglie.",
+       "src": {
+        "org": "Normattiva",
+        "title": "Legge 8 novembre 2000, n. 328, art. 22",
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-08;328",
+        "kind": "summary",
+        "upd": "2000-11-28"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Il nome (la diagnosi) lo danno i professionisti della salute, dopo averti ascoltato e osservato. Le stesse difficoltà possono avere cause diverse, anche fisiche: per questo a volte il medico controlla anche altre cause.",
+      "text": "",
+      "src": {
+       "org": "Istituto Superiore di Sanità (ISSalute)",
+       "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+       "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+       "kind": "fact",
+       "upd": "25 Ottobre 2022"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low for a long time and it is hard to find the energy to do anything.",
+      "scenes": [
+       "I feel down from morning to night.",
+       "Even things I used to enjoy no longer give me pleasure.",
+       "I have no energy and cannot concentrate, so I fall behind with work and chores at home.",
+       "I blame myself for everything and see everything from the worst side.",
+       "At night I cannot sleep, or else I sleep too much. I have little appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when things to do are explained to me one at a time.",
+       "I need time to think: it helps me when there is no rush to answer or to decide.",
+       "It helps me to have important things in writing.",
+       "Before telling me “Come on, you can do it!”, please listen to me first.",
+       "It helps me when rest is not mistaken for laziness.",
+       "It helps me to check together whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypothyroidism",
+        "why": "When the thyroid makes too few hormones, this page lists tiredness, depression and changes in memory among the symptoms.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "23 Febbraio 2022"
+        }
+       },
+       {
+        "name": "Hearing difficulty (hearing loss)",
+        "why": "This page explains that hearing less can also weigh on a person emotionally and lead to being more isolated, with less contact with family and friends.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipoacusia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipoacusia.html",
+         "kind": "fact",
+         "upd": "11 Maggio 2026"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page explains that sleeping badly can leave a person tired on waking and can weigh on concentration and mood.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Alcohol (drinking too much)",
+        "why": "This page explains that drinking too much alcohol can bring a person's mood down.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Farmaci antidepressivi",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/antidepressivi.html",
+         "kind": "fact",
+         "upd": "28 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Chronic stress",
+        "why": "This page explains that stress that goes on for a long time can bring, among other things, anxiety, depression and tiredness.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Stress",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Burnout (work-related stress)",
+        "why": "On a page from INAIL, burnout is presented as a condition that comes from stress at work that goes on for a long time and is badly managed.",
+        "src": {
+         "org": "INAIL",
+         "title": "Burnout: una sindrome in crescita che può interessare ogni ambito lavorativo",
+         "url": "https://www.inail.it/portale/it/inail-comunica/news/notizia.2025.11.burnout-una-sindrome-in-crescita-che-puo-interessare-ogni-ambito-lavorativo.html",
+         "kind": "fact",
+         "upd": "06 novembre 2025"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that, when mood is very low, it is called depression.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page explains that mood can go very low (depression) or very high (mania), and that the two phases can alternate.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "A lot of worry or tension",
+      "lead": "For when worry will not stop, a pounding heart and restlessness come on, or it is hard to be among people or to leave the house.",
+      "scenes": [
+       "When I have to speak in front of other people or everyone is looking at me, I feel so anxious that my mind goes blank.",
+       "Suddenly my heart pounds and I cannot catch my breath. I am afraid it will happen again, and going out of the house becomes hard.",
+       "I worry about one thing after another, even without a clear reason. I feel a restlessness that wears me out in the end.",
+       "I have a hard time on public transportation (subway, bus or train), in shopping centers or crowded places, and going out without anyone with me. These are situations that are hard to get away from, and I avoid them.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My life is getting smaller.",
+       "The worries will not leave me in peace, and at night I cannot fall asleep."
+      ],
+      "asks": [
+       "It helps me when I am given time to speak, without being rushed.",
+       "It helps me to know the plan in advance and how the meeting will go.",
+       "I prefer not to be asked suddenly for my opinion in front of other people; it helps me to be able to answer in writing as well.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Before I am told that I worry too much, please listen to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "When the thyroid makes too many hormones, this page lists nervousness, anxiety and a fast or irregular heartbeat among the symptoms.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Arrhythmia (irregular heartbeat)",
+        "why": "Among the factors that can set off an irregular heartbeat, this page lists strong stress, physical or emotional, and drinks with caffeine.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Aritmia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/aritmia.html",
+         "kind": "fact",
+         "upd": "18 Settembre 2025"
+        }
+       },
+       {
+        "name": "Caffeine",
+        "why": "Among the unwanted effects of drinking a lot of coffee, this page lists agitation, anxiety and restlessness.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Caffè",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/c/caffe.html",
+         "kind": "fact",
+         "upd": "30 Maggio 2022"
+        }
+       },
+       {
+        "name": "Alcohol (stopping suddenly)",
+        "why": "This page explains that, with alcohol dependence, stopping drinking suddenly can bring agitation, tremors and a fast heartbeat.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Dipendenza alcolica",
+         "url": "https://www.salute.gov.it/new/it/tema/alcol/dipendenza-alcolica/",
+         "kind": "summary",
+         "upd": "28/11/2025"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page lists stress and anxiety among the most frequent causes of insomnia.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This page describes an anxiety that is not tied to one specific situation, touches many areas of life and is hard to control.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This page describes attacks of very intense fear that come suddenly, for no obvious reason, and that happen again and again.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Disturbo di panico",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/attacchi-di-panico.html",
+         "kind": "fact",
+         "upd": "30 Novembre 2022"
+        }
+       },
+       {
+        "name": "Agoraphobia",
+        "why": "This page talks about the fear of places and situations that are hard to leave or where it is hard to find help, such as public transportation.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Agorafobia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/agorafobia.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "For when you check the door or the gas several times, wash your hands often, and find it hard to stop repeating the same things, even when you want to.",
+      "scenes": [
+       "Before leaving the house I have to check the front door and the gas again and again; if I do not, I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes back into my mind again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not arranged or done in the order I have set, I get upset and end up rearranging them or starting again from the beginning.",
+       "Checking takes me so much time that I leave later than planned or arrive late for appointments and for work.",
+       "My body moves or sounds come out of me without my wanting it to, and even when I try to stop, it is hard."
+      ],
+      "asks": [
+       "Before I am told that I am exaggerating, please listen to me first.",
+       "Checking takes time: it helps me to have a little extra time.",
+       "When plans or the steps to follow change, I prefer to be told in advance.",
+       "I prefer that, in front of other people, nobody comments on it or laughs at me when I check something or wash my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before deciding how to go on with our meetings, I prefer that my worries are listened to and that we decide calmly."
+      ],
+      "meyasu": {
+       "has": true,
+       "text": "According to a page from the Istituto Superiore di Sanità, with obsessive-compulsive disorder people often put off asking for help because of shame, embarrassment or guilt. The same page says to turn to a specialist doctor.",
+       "src": {
+        "org": "Istituto Superiore di Sanità (ISSalute)",
+        "title": "Disturbo ossessivo-compulsivo",
+        "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/disturbo-ossessivo-compulsivo.html",
+        "kind": "fact",
+        "upd": "28 Febbraio 2020"
+       }
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes unwanted thoughts that keep coming back and actions that a person feels driven to repeat over and over.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Disturbo ossessivo-compulsivo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/disturbo-ossessivo-compulsivo.html",
+         "kind": "fact",
+         "upd": "28 Febbraio 2020"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This page explains that sometimes worries are hard to control and can weigh on everyday life.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page lists, among the characteristics of the autism spectrum, restricted and repetitive behaviors, interests or activities.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Autismo (ASD)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/autismo/",
+         "kind": "summary",
+         "upd": "31/03/2026"
+        }
+       },
+       {
+        "name": "Tics and Tourette syndrome",
+        "why": "This page describes tics as quick, repeated movements or sounds that usually cannot be controlled.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Tic",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/t/tic.html",
+         "kind": "fact",
+         "upd": "30 Novembre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still weighing on me",
+      "lead": "After a hard experience, the memory keeps coming back, sleep is poor, or it is hard to relax.",
+      "scenes": [
+       "At the smallest thing, the scene and the feelings of that difficult moment suddenly come back.",
+       "I often have bad dreams that are very much alike, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a slight noise or something unexpected makes me jump.",
+       "I avoid the places, people and conversations that remind me of that moment as much as I can, and so my everyday life is shrinking.",
+       "It is as if something inside me had switched off: toward my family and friends I can no longer feel what I used to feel.",
+       "I feel more and more guilty, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "It helps me when I am not asked for every detail of what happened. I prefer to tell it at my own pace, only as far as I can.",
+       "Some sounds, places and topics bring everything back. It helps me when it is accepted if I say I would rather avoid them.",
+       "It helps me when nobody speaks to me suddenly from behind and when loud noises are avoided near me.",
+       "When talking is too hard, I prefer to be able to hand over something written.",
+       "There are nights when I do not sleep and days when the tiredness does not go away. I would prefer that this not be mistaken for laziness.",
+       "It helps me when nobody rushes me with phrases like “Forget it all” or “Come on, pull yourself together”, and when there is a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The page explains that very strong, sudden stress, such as violence that a person has experienced or witnessed, can lead to mental health problems like this one.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Stress",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Acute stress disorder (in the workplace)",
+        "why": "On a page from INAIL, acute stress disorder is among the disorders most often linked to stress at work.",
+        "src": {
+         "org": "INAIL",
+         "title": "Malattie psichiche sul lavoro: necessari interventi organizzativi mirati alla prevenzione",
+         "url": "https://www.inail.it/portale/it/inail-comunica/news/notizia.2025.09.malattie-psichiche-sul-lavoro-necessari-interventi-organizzativi-mirati-alla-prevenzione.html",
+         "kind": "fact",
+         "upd": "23/09/2025"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I am in bed, I have trouble falling asleep.",
+       "I wake up several times during the night and cannot sleep straight through until morning.",
+       "When the alarm goes off I cannot get up, and I am often late for work or school.",
+       "During the day I get extremely sleepy, and sometimes I almost fall asleep in a meeting or while driving.",
+       "My family tells me that I snore loudly and that, while I sleep, it looks as if my breathing stops.",
+       "In the evening and at night I feel an uncomfortable sensation in my legs that makes me want to move them and does not let me sleep."
+      ],
+      "asks": [
+       "It helps me when someone takes the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "It helps me when the medicines I take and my habits with coffee, alcohol and cigarettes are looked at together with me, to understand what can affect my sleep.",
+       "It helps me when it is not taken for granted that this is a matter of character or willpower, and when my physical health and my mood are checked together.",
+       "I prefer to explain my schedule with a written note, with the time I go to bed and the time I get up, and to have it looked at calmly.",
+       "If a medicine is needed, it helps me when it is explained in simple words how it works and what to watch out for.",
+       "Mornings are very hard for me, so if it can be arranged, I prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": true,
+       "text": "For people who sleep badly, the website of the Istituto Superiore di Sanità advises first trying a few small habits that help sleep. If things do not change, it is a good idea to talk about it with your doctor and, if you can, to describe how the nights went when you could not sleep.",
+       "src": {
+        "org": "Istituto Superiore di Sanità (ISSalute)",
+        "title": "Insonnia",
+        "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+        "kind": "fact",
+        "upd": "07 Agosto 2025"
+       }
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "The page talks about trouble falling asleep, broken sleep or waking up too early, and about a tiredness that weighs on the day.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "The page explains that during sleep the throat can narrow and breathing can stop for brief moments, and that it is often the people nearby who notice.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Apnea notturna ostruttiva",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/apnea-notturna-ostruttiva.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "The page explains that a person feels an urgent need to move the legs, with unpleasant sensations, and that this can disturb sleep.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Sindrome delle gambe senza riposo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/sindrome-delle-gambe-senza-riposo.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Hypersomnia",
+        "why": "The page explains that the need to sleep is so strong, or the sleepiness so constant, that it gets in the way of everyday activities.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipersonnia idiopatica",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipersonnia-idiopatica.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "The page compares it with hypersomnia: in both, the daytime sleepiness can be so strong that a person falls asleep at any moment.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipersonnia idiopatica",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipersonnia-idiopatica.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Shift work and jet lag",
+        "why": "The page lists lifestyle habits such as shift work and jet lag among the most frequent causes of insomnia.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Caffeine, nicotine and alcohol in the evening",
+        "why": "The page names caffeine, nicotine and alcohol shortly before bed among the habits that can disturb sleep.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page explains that during menopause, night sweats can make a person wake up at night.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Menopausa",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/m/menopausa.html",
+         "kind": "fact",
+         "upd": "18 Maggio 2020"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating has become hard: you can eat only very little, you cannot stop, or food feels scary.",
+      "scenes": [
+       "I do not feel like eating, and for days now food has been hard to get down.",
+       "Once I start eating I cannot stop, and sometimes I eat until I feel sick.",
+       "I notice that I think only about food, and I find it hard to concentrate on anything else.",
+       "I eat only a very small number of foods: the taste, smell or texture of many others bothers me too much, and I avoid them.",
+       "Ever since a bite of food got stuck in my throat, or I vomited, eating scares me.",
+       "Sometimes at night I eat almost in my sleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "It helps me when no comments are made about my weight or my body.",
+       "It helps me when nobody forces me to eat or rushes me.",
+       "For lunches and dinners with other people, including work meals, I prefer to be able to choose another place or another time.",
+       "It helps me when I am first asked what I can eat and which smells or textures bother me.",
+       "It helps me when I am first told how the appointment and the physical exams will go.",
+       "For things that are hard to say out loud, I prefer to be able to hand them over in writing."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "The page lists weight loss, even when appetite increases, among the problems that come when the thyroid produces too many hormones.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "The page lists weight gain among the problems that come when the thyroid does not produce enough hormones.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "23 Febbraio 2022"
+        }
+       },
+       {
+        "name": "Feeding and eating disorders (called DNA in Italian)",
+        "why": "The page explains that these are complex conditions in which the way a person eats becomes a problem and there is a strong concern about weight and about the image of one's own body.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Cosa sono i Disturbi della Nutrizione e dell'Alimentazione (DNA)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/cosa-sono-i-disturbi-della-nutrizione-e-dellalimentazione-dna/",
+         "kind": "summary",
+         "upd": "09/03/2026"
+        }
+       },
+       {
+        "name": "Mood disorders and anxiety disorders",
+        "why": "The page explains that eating disorders can appear together with mood disorders or anxiety disorders.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Cosa sono i Disturbi della Nutrizione e dell'Alimentazione (DNA)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/cosa-sono-i-disturbi-della-nutrizione-e-dellalimentazione-dna/",
+         "kind": "summary",
+         "upd": "09/03/2026"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itdna",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I notice that I start again.",
+       "I can't stick to the time, the amount or the money I had decided on (“that's enough for today”).",
+       "With people close to me, I hide or play down how much I drink, how much I gamble or how much I play video games.",
+       "I keep playing video games until late, I can't get up in the morning, and I am late or absent more and more often.",
+       "When I lose money, I want to win it back, and so I bet again.",
+       "I know my body is not doing well, but I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me and without jumping to conclusions.",
+       "It helps me when someone sorts out with me, one step at a time, how I deal with alcohol, gambling or video games and what difficulties this causes me.",
+       "It helps me when my sleep and my physical health are looked at as well.",
+       "I would like to know specifically which services I can turn to and where I can go.",
+       "I would also like to know whether my family or someone close to me can come with me to the appointments.",
+       "I would like it to be made clear with me beforehand who will be told about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "According to this page, drinking alcohol in the evening, before going to sleep, is among the causes of insomnia.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Alcohol dependence",
+        "why": "The page explains that the need to drink can become hard to control and that, over time, larger and larger amounts are needed to get the same effect.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Dipendenza alcolica",
+         "url": "https://www.salute.gov.it/new/it/tema/alcol/dipendenza-alcolica/",
+         "kind": "summary",
+         "upd": "28/11/2025"
+        }
+       },
+       {
+        "name": "Gambling disorder",
+        "why": "This page describes it as a behavioral disorder in which it becomes very hard to hold back from betting money.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Il gioco d'azzardo è un vizio?",
+         "url": "https://www.issalute.it/index.php/falsi-miti-e-bufale/fumo-alcol-droghe-dipendenze/il-gioco-d-azzardo-e-un-vizio.html",
+         "kind": "fact",
+         "upd": "11 Marzo 2022"
+        }
+       },
+       {
+        "name": "Gaming disorder (internet gaming disorder)",
+        "why": "The page explains that a person loses control over gaming, that gaming comes before other interests and everyday activities, and that the person keeps going even when it causes difficulties. It covers games played on the internet that are not gambling.",
+        "src": {
+         "org": "Istituto Superiore di Sanità, Centro nazionale Dipendenze e doping",
+         "title": "Gaming",
+         "url": "https://www.iss.it/-/gaming",
+         "kind": "summary",
+         "upd": "02/03/2023"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that drinking too much alcohol can by itself be a cause of depression.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Farmaci antidepressivi",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/antidepressivi.html",
+         "kind": "fact",
+         "upd": "28 Gennaio 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itserd",
+       "itnvdip",
+       "itmedico"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, doing things in the right order, or remembering them.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts elsewhere without my noticing.",
+       "I find it hard to get through my work or housework in the right order, and I end up missing deadlines.",
+       "I often can't remember what I was asked or what I promised, or I lose things.",
+       "When I do the same activity for a long time, careless mistakes increase.",
+       "When I have to keep my body still for a long time, I feel a restlessness that gives me no peace.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "It helps me to have important things in writing.",
+       "It helps me to know deadlines and appointments in advance.",
+       "It helps me when requests don't come all at once, but are split into small parts.",
+       "I would rather talk in a quiet place, where I am less distracted.",
+       "It helps me when people recognize what I have done, without reproaching me for what I have not done."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "When the thyroid makes too many hormones, the difficulties the page lists include nervousness, anxiety and trouble staying still.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "When the thyroid makes too few hormones, the page lists tiredness and changes in memory among the difficulties.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "23 Febbraio 2022"
+        }
+       },
+       {
+        "name": "Iron-deficiency anemia",
+        "why": "The less frequent difficulties the page lists for iron deficiency also include lower performance and trouble concentrating.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Anemia da carenza di ferro",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/anemia-da-carenza-di-ferro.html",
+         "kind": "fact",
+         "upd": "18 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "The page says that sleeping badly can weigh on concentration and on everyday activities.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Chronic stress",
+        "why": "The page makes clear that stress is the way the body responds to events experienced as threats, and not an illness. Among the stress-related difficulties it lists are trouble concentrating and making decisions.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Stress",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "The page describes worries that touch many parts of life and are hard to control. The difficulties it lists also include trouble concentrating.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "The page describes difficulties with attention, restlessness, impulsivity and poor planning that last over time and interfere with everyday life.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or being with other people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "I find it hard to understand what the other person feels or what the mood of the moment is, and I have the impression that we can't understand each other.",
+       "Speaking in front of other people, or having everyone's eyes on me, makes me extremely tense, and I end up avoiding these situations.",
+       "With people close to me I can talk, but in front of others I freeze and my voice won't come out.",
+       "If my set way of doing things, the order of the steps or the place where things are kept changes, I get very anxious.",
+       "Noises, lights and smells feel too strong to me, and crowded places are hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking is hard for me."
+      ],
+      "asks": [
+       "It helps me when people speak slowly and clearly.",
+       "It helps me to have important things in writing.",
+       "I would rather talk in a quiet place.",
+       "It helps me to know in advance when plans or ways of doing things change.",
+       "It helps me when there is no rush for an answer and people wait patiently.",
+       "I would like to be able to answer in writing, or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "The page explains that when a person hears poorly and following conversations becomes tiring, they can end up keeping more to themselves and losing interest in getting together with other people.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipoacusia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipoacusia.html",
+         "kind": "fact",
+         "upd": "11 Maggio 2026"
+        }
+       },
+       {
+        "name": "Social phobia (social anxiety disorder)",
+        "why": "According to this page, it is a strong anxiety that comes up around other people, for example when a person has to speak in public, out of fear of making a bad impression.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Fobie",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/f/fobie.html",
+         "kind": "fact",
+         "upd": "27 Luglio 2020"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "The page speaks of difficulties in communication and in interaction with others, in different settings, that last over time, and of restricted and repetitive behaviors, interests or activities.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Autismo (ASD)",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/autismo/",
+         "kind": "summary",
+         "upd": "31/03/2026"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Difficulty with reading, writing or calculating",
+      "lead": "Even with a lot of effort, reading, writing or working with numbers stays very hard.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I end up reading it over several times.",
+       "Even after I have read something, the content does not stay in my head, and I find it hard to understand what forms and letters say, including ones from public offices.",
+       "I have trouble with spelling (accents, double letters, apostrophes), and I often make mistakes or skip words.",
+       "My handwriting is uneven, and writing by hand takes me a lot of time and a lot of effort.",
+       "I get stuck even on simple calculations or on math problems written out in words.",
+       "I can speak and listen without trouble, but with reading, writing and calculating, even when I take my time, things do not go the way I would like."
+      ],
+      "asks": [
+       "Please give me texts in large print, with well-spaced lines and simple words.",
+       "Please read important information aloud to me or tell it to me out loud.",
+       "Please let me write on a computer or phone, or record with photos and audio, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please give me things a little at a time, one thing at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "The page explains that with hearing loss, sounds are heard less well and words are understood with more effort. If listening takes effort for you too, you can talk about it together with your difficulties with reading, writing and calculating.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipoacusia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipoacusia.html",
+         "kind": "fact",
+         "upd": "11 Maggio 2026"
+        }
+       },
+       {
+        "name": "Dyslexia and specific learning disorders (DSA)",
+        "why": "The page places dyslexia among the specific learning disorders, which affect reading, writing and calculation. Dyslexia concerns reading in particular. In its paragraph on adults, it names tools such as writing on a computer as a help.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Dislessia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/dislessia.html",
+         "kind": "fact",
+         "upd": "27 Febbraio 2020"
+        }
+       },
+       {
+        "name": "Dyscalculia (difficulty with calculation)",
+        "why": "The page describes it as a difficulty with calculation and, more broadly, with arithmetic. It often appears together with other learning disorders, such as dyslexia, and the page makes clear that these disorders do not come from a lower ability to reason.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Discalculia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/d/discalculia.html",
+         "kind": "fact",
+         "upd": "21 Febbraio 2023"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "The page describes difficulties with attention and planning that last over time and weigh on everyday life. If reading, writing or calculating takes effort for you, you can also describe how things go with attention.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big ups and downs in mood",
+      "lead": "Mood goes up and down a lot, and it is hard to keep up with it.",
+      "scenes": [
+       "There are times when I have too much energy and times when I am so low that I cannot get moving, and they take turns.",
+       "Sometimes I sleep very little and yet I have a lot of energy and am always on the move.",
+       "Lots of things to do come to my mind one after another, and they all end up half done.",
+       "At times I have spent so much money that I later found myself in difficulty.",
+       "I get irritated over small things, and I find it hard to keep my emotions in check.",
+       "What I did when my mood was very high has had consequences for my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the times when I felt unusually well or had a lot of energy.",
+       "Please go over my ups and downs with me, calmly.",
+       "Before important decisions about money or work, it helps me to stop and think them over with someone.",
+       "Please also check for physical causes, including sleep, medicines and alcohol.",
+       "If something in me seems changed from how I usually am, please tell me without blaming me.",
+       "Please listen to me all the way through, both when my mood is high and when it is low."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "When the thyroid makes too many hormones, the difficulties the page lists include nervousness, anxiety and overactivity.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "21 Gennaio 2022"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "The page writes that sleeping badly can weigh on mood too, as well as on concentration.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Insonnia",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/i/insonnia.html",
+         "kind": "fact",
+         "upd": "07 Agosto 2025"
+        }
+       },
+       {
+        "name": "Menstrual cycle (the days before a period)",
+        "why": "According to the page, in the days before a period, changes in hormones can bring irritability or a mood that changes often.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ciclo mestruale",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/c/ciclo-mestruale.html",
+         "kind": "fact",
+         "upd": "28 Dicembre 2021"
+        }
+       },
+       {
+        "name": "Cortisone medicines (corticosteroids)",
+        "why": "The page lists changes in mood among the effects of intensive, long-term use of these medicines. It also says that after long use they should not be stopped suddenly: the dose is lowered little by little, under the doctor's guidance.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Cortisone / Cortisonici",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/c/cortisone-cortisonici.html",
+         "kind": "fact",
+         "upd": "27 Febbraio 2020"
+        }
+       },
+       {
+        "name": "Alcohol (effects and withdrawal)",
+        "why": "The page writes that alcohol affects thoughts, emotions and the ability to weigh things up, and that stopping suddenly after drinking a lot for a long time can cause agitation.",
+        "src": {
+         "org": "Ministero della Salute",
+         "title": "Dipendenza alcolica",
+         "url": "https://www.salute.gov.it/new/it/tema/alcol/dipendenza-alcolica/",
+         "kind": "summary",
+         "upd": "28/11/2025"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page reminds us that mood always changes a little, and calls a very low mood depression.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "According to the page, mood can drop a lot (depression) or rise a lot (mania), and the two phases can also take turns.",
+        "src": {
+         "org": "ASL Roma 1",
+         "title": "Disturbi dell'umore (depressivi gravi e disturbi bipolari)",
+         "url": "https://www.aslroma1.it/disturbi-dell-umore-depressivi-gravi-e-disturbi-bipolari",
+         "kind": "fact",
+         "upd": "23 Apr 2024"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "The page describes restlessness and impulsivity that last over time, together with difficulties with attention and planning.",
+        "src": {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       }
+      ],
+      "windows": [
+       "itmedico",
+       "itcsm"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make small everyday ups and downs seem important",
+       "body": "When you know the name of an illness or of a developmental condition, a bit of tiredness or a moment of distraction can start to seem like proof of something.\n\nEmotions can change how you feel, in your body and in your mood, and that is not imagination: it really happens. But not getting much sleep, stress, phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe this is it,” do not stop there: think of other reasons too. And if what weighs on you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs in mood happen to everyone",
+       "body": "The Istituto Superiore di Sanità page on anxiety in adults explains that feeling anxious at some moments is part of life for everyone. As examples, it mentions moments like an exam, a visit to the doctor or a job interview.\n\nUps and downs in mood happen to everyone too.\n\nA name (a diagnosis) is given by health professionals, after they have listened to you and observed you.\n\nIf something weighs on you, you can talk about it as it is, whether or not you have a name for it.",
+       "srcs": [
+        {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "Ansia nell'adulto - Disturbo d'ansia generalizzata (DAG)",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/ansia-nell-adulto-disturbo-d-ansia-generalizzata-dag.html",
+         "kind": "fact",
+         "upd": "14 Gennaio 2021"
+        },
+        {
+         "org": "Istituto Superiore di Sanità (ISSalute)",
+         "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+         "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+         "kind": "fact",
+         "upd": "25 Ottobre 2022"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about your difficulties even without a diagnosis",
+       "body": "Even without a diagnosis, you can talk about your difficulties. You can turn to your family doctor; in some areas you can go directly to the consultorio or to the Mental Health Center (CSM), in others you need the doctor's request form (impegnativa): ask your ASL.\n\nThe Ministry of Health describes the Mental Health Center as the first point of reference for citizens with psychological distress. The national rules describe the consultorio familiare as a service that can be accessed directly; how it works in practice differs from one area to another.\n\nWhen you ask for help, at school or at work, you can say in which situations you have difficulty and what would help you. What can be asked for depends on the situation, and it is decided by talking it through.",
+       "srcs": [
+        {
+         "org": "Gazzetta Ufficiale della Repubblica Italiana",
+         "title": "Decreto 23 maggio 2022, n. 77, Allegato 1",
+         "url": "https://www.gazzettaufficiale.it/eli/gu/2022/06/22/144/sg/pdf",
+         "kind": "summary",
+         "upd": "22/06/2022"
+        },
+        {
+         "org": "Gazzetta Ufficiale della Repubblica Italiana",
+         "title": "DPCM 12 gennaio 2017, art. 24",
+         "url": "https://www.gazzettaufficiale.it/eli/gu/2017/03/18/65/so/15/sg/pdf",
+         "kind": "summary",
+         "upd": "18/03/2017"
+        },
+        {
+         "org": "Ministero della Salute",
+         "title": "La rete dei servizi per la salute mentale",
+         "url": "https://www.salute.gov.it/new/it/tema/salute-mentale/la-rete-dei-servizi-la-salute-mentale/",
+         "kind": "summary",
+         "upd": "20/12/2024"
+        }
+       ]
+      },
+      {
+       "h": "But some procedures need medical documents",
+       "body": "But some procedures require medical documents. What is needed depends on the procedure.\n\nFor the recognition of disability, a doctor sends an electronic medical certificate to INPS; the way this is done today is not the same in all areas.\n\nFor an exemption from the co-payment (ticket) for a chronic illness, too, a certificate from a specialist doctor is needed.\n\nFor a period of sick leave, the doctor sends the electronic certificate to INPS; the employer receives only a statement without a diagnosis.\n\nCollocamento mirato is for people with a recognized disability.\n\nAt university, for the measures related to difficulties with reading, writing and calculation, a document issued by the health service is needed.\n\nBefore starting a procedure, ask the office in charge which documents are needed.",
+       "srcs": [
+        {
+         "org": "INPS",
+         "title": "Domanda invalidità civile e accertamento sanitario",
+         "url": "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.domanda-invalidita-civile-e-accertamento-sanitario-50004.accertamento-sanitario.html",
+         "kind": "fact",
+         "upd": "5 giugno 2026"
+        },
+        {
+         "org": "INPS",
+         "title": "Certificato medico introduttivo - Invalidità civile",
+         "url": "https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.certificato-medico-introduttivo---invalidit--civile.html",
+         "kind": "fact",
+         "upd": "28 ottobre 2026"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Decreto legislativo 3 maggio 2024, n. 62, art. 8",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-05-03;62",
+         "kind": "summary",
+         "upd": "2024-06-30"
+        },
+        {
+         "org": "Regione Lombardia",
+         "title": "Ticket, esenzioni ed erogabilità delle prestazioni a carico del SSR",
+         "url": "https://www.regione.lombardia.it/sanita/ticket-ed-esenzioni/ticket-esenzioni-prestazioni-ssr",
+         "kind": "fact",
+         "upd": "28 Luglio 2026"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Decreto legislativo 29 aprile 1998, n. 124, art. 5",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-29;124",
+         "kind": "summary",
+         "upd": "1998-05-01"
+        },
+        {
+         "org": "INPS",
+         "title": "Come funziona il certificato di malattia telematico",
+         "url": "https://www.inps.it/content/dam/inps-site/pdf/inpscomunica/documents/Certificazione_malattia_visite_mediche_controllo_lavoratori_privati_pubblici_2024_v04.pdf",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Legge 12 marzo 1999, n. 68, art. 1",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68",
+         "kind": "summary",
+         "upd": "2015-09-24"
+        },
+        {
+         "org": "Normattiva",
+         "title": "Legge 8 ottobre 2010, n. 170, artt. 3 e 5",
+         "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-10-08;170",
+         "kind": "summary",
+         "upd": "2010-11-02"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nFor some people, finding a name for what they are living through is a relief. That matters.\nIt is also natural to want the people around us to understand us and to be gentle with us.\n\nWhen you want the people around you to be kind to you, you can ask for it directly, without needing to say the name of an illness.\nPeople understand better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have little energy today: it helps me when people speak to me slowly.”\n“If I am told many things at once, I get confused: it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told out loud: I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me: I would like to talk in a quiet place.”\n“I need a little time to answer: it helps me when people wait a moment.”\n“Right now I have many emotions at once: it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today: it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off: it helps me when I am told in advance.”\n“When people speak to me loudly I get scared: it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a sheet of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button: it appears in this app when you choose a topic and answer the questions.\nIf you want to say the name you have already been given, you can. Even then, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.” If a formal adjustment is needed, a document proving it may be requested.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. If a name appears in the list, it does not mean that a doctor has pointed to it for you.\n\nThis app is not a medical device. It does not make a diagnosis, and it does not provide medical care for, or prevent, any medical condition.\n\nSOYOGI is a non-profit group based in Japan, without legal personality. It has no connection with the Italian Government, the Ministry of Health, the Istituto Superiore di Sanità, the Regions, the local health authorities (ASL), the National Health Service, professional bodies or any healthcare facility, and none of them has recommended or supported this app. The names of the institutions only show where the information comes from. The original texts can be read free of charge on the website of each institution.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Italy. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page when the page shows one. Checked on 29 October 2026. Numbers and hours may change.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Even when it is not clear what your difficulties come from, you can talk about them with your family doctor.",
+      "src": {
+       "org": "Istituto Superiore di Sanità (ISSalute)",
+       "title": "Stress",
+       "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/s/stress.html",
+       "kind": "fact",
+       "upd": "27 Luglio 2020"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "You can also ask for information from the social services of the area where you live: the law provides, in every territory, for a professional social service and a social secretariat (segretariato sociale), which give information and advice to individuals and families.",
+       "src": {
+        "org": "Normattiva",
+        "title": "Legge 8 novembre 2000, n. 328, art. 22",
+        "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-08;328",
+        "kind": "summary",
+        "upd": "2000-11-28"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "A name (a diagnosis) is given by health professionals, after they have listened to you and observed you. The same difficulties can have different causes, including physical ones: that is why the doctor sometimes checks for other causes too.",
+      "text": "",
+      "src": {
+       "org": "Istituto Superiore di Sanità (ISSalute)",
+       "title": "ADHD - Disturbo da deficit dell'attenzione e iperattività",
+       "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
+       "kind": "fact",
+       "upd": "25 Ottobre 2022"
+      }
      }
     }
    }
