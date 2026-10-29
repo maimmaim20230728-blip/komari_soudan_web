@@ -45,7 +45,8 @@ window.KOMARI_DATA = {
     "es": "Japón",
     "nl": "Japan",
     "ko": "일본",
-    "zh": "日本"
+    "zh": "日本",
+    "it": "Giappone"
    },
    "langs": [
     "ja",
@@ -3160,7 +3161,8 @@ window.KOMARI_DATA = {
     "es": "Estados Unidos",
     "nl": "Verenigde Staten",
     "ko": "미국",
-    "zh": "美國"
+    "zh": "美國",
+    "it": "Stati Uniti"
    },
    "langs": [
     "en"
@@ -4878,10 +4880,12 @@ window.KOMARI_DATA = {
     "es": "Francia",
     "nl": "Frankrijk",
     "ko": "프랑스",
-    "zh": "法國"
+    "zh": "法國",
+    "it": "Francia"
    },
    "langs": [
-    "fr"
+    "fr",
+    "en"
    ],
    "main": "fr",
    "fallback": "fr",
@@ -4939,6 +4943,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "3114 (national suicide prevention line)",
+      "desc": "A professional listens to you. They ask you a few questions to understand what you need. Calls are confidential. They may ask for your name and contact details. You can also call if you are worried about someone else. If you would rather not give your name, SOS Amitié and Suicide Écoute, further down this list, let you talk without giving it.",
+      "hours": "24 hours a day, 7 days a week. Free call from anywhere in France.",
+      "src": {
+       "org": "Numéro national de prévention du suicide (3114)",
+       "title": "Confidentialité et gratuité",
+       "url": "https://3114.fr/confidentialite-et-gratuite/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Numéro national de prévention du suicide (3114)",
       "title": "Confidentialité et gratuité",
@@ -4961,6 +4977,18 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Service Public (service-public.gouv.fr)",
        "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
+     "en": {
+      "name": "15 (Samu, emergency medical service) · 112",
+      "desc": "If a life is in immediate danger, call 15 (Samu) or 112. These calls are free and do not appear on phone bills. If you can get there, you can also go to the emergency department of the nearest hospital. The emergency services call back from 0 800 112 112.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Service Public",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
        "kind": "summary",
        "upd": "2026-08-25"
@@ -4993,6 +5021,18 @@ window.KOMARI_DATA = {
        "upd": "2026-09-15"
       }
      },
+     "en": {
+      "name": "SOS Amitié (listening line)",
+      "desc": "Trained volunteers listen to people in distress and to those close to them. You do not have to give your name. Free service. The second number (01 46 21 46 46) is an English-language line (SOS Help), every day from 3 p.m. to 11 p.m.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "© Psycom",
+       "title": "Les lignes d’écoute",
+       "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
+       "kind": "fact",
+       "upd": "2026-09-15"
+      }
+     },
      "src": {
       "org": "© Psycom",
       "title": "Les lignes d’écoute",
@@ -5012,6 +5052,18 @@ window.KOMARI_DATA = {
       "name": "Suicide Écoute",
       "desc": "Une autre ligne où vous n’avez pas à dire votre nom. Des bénévoles formés écoutent les personnes en grande souffrance psychologique ou confrontées au suicide, et leur entourage. Service gratuit. Si une ligne est occupée, vous pouvez patienter ou en essayer une autre.",
       "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "© Psycom",
+       "title": "Les lignes d’écoute",
+       "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
+       "kind": "fact",
+       "upd": "2026-09-15"
+      }
+     },
+     "en": {
+      "name": "Suicide Écoute (listening line)",
+      "desc": "Another line where you do not have to give your name. Trained volunteers listen to people in great psychological distress or facing suicide, and to those close to them. Free service. If a line is busy, you can wait or try another one.",
+      "hours": "24 hours a day, 7 days a week.",
       "src": {
        "org": "© Psycom",
        "title": "Les lignes d’écoute",
@@ -5048,6 +5100,18 @@ window.KOMARI_DATA = {
        "upd": "2026-08-25"
       }
      },
+     "en": {
+      "name": "114 (text message, video, sign language)",
+      "desc": "For people who are deaf, hard of hearing or who have difficulty speaking, and for when you cannot speak: send a text message to 114. You can also reach 114 by video call, chat and French Sign Language (LSF). It asks for your name, your exact address and the reason for the call.",
+      "hours": "24 hours a day, 7 days a week. Free.",
+      "src": {
+       "org": "Service Public",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
      "src": {
       "org": "Service Public (service-public.gouv.fr)",
       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
@@ -5070,6 +5134,18 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Service Public (service-public.gouv.fr)",
        "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
+     "en": {
+      "name": "3919 (Violences Femmes Info, helpline on violence against women)",
+      "desc": "Listening, information and guidance for women who are victims of violence and for people who witness such violence. The call is anonymous and does not appear on phone bills. In an emergency, call 17 or 112.",
+      "hours": "24 hours a day, 7 days a week. Free.",
+      "src": {
+       "org": "Service Public",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
        "kind": "summary",
        "upd": "2026-08-25"
@@ -5102,6 +5178,18 @@ window.KOMARI_DATA = {
        "upd": "2026-08-25"
       }
      },
+     "en": {
+      "name": "115 (Samu social, emergency line for people without housing)",
+      "desc": "To find a place to sleep tonight: 115 is the emergency and shelter number for people who are homeless. The call does not appear on phone bills.",
+      "hours": "24 hours a day, 7 days a week. Free, in mainland France and overseas.",
+      "src": {
+       "org": "Service Public",
+       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F33954",
+       "kind": "summary",
+       "upd": "2026-08-25"
+      }
+     },
      "src": {
       "org": "Service Public (service-public.gouv.fr)",
       "title": "Quels sont les numéros en cas d'urgence (Samu, pompiers...) et les numéros d'écoute ?",
@@ -5123,6 +5211,18 @@ window.KOMARI_DATA = {
       "hours": "Selon le cabinet.",
       "src": {
        "org": "Service Public (service-public.gouv.fr)",
+       "title": "Médecin traitant et parcours de soins coordonnés",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F163",
+       "kind": "summary",
+       "upd": "2026-08-21"
+      }
+     },
+     "en": {
+      "name": "Médecin traitant (your regular doctor)",
+      "desc": "This is your first point of contact for your health: they refer you to a specialist when needed. You can show them \"My worries\". If you cannot find a médecin traitant, you can contact your health insurance office (caisse d'Assurance maladie).",
+      "hours": "Depends on the practice.",
+      "src": {
+       "org": "Service Public",
        "title": "Médecin traitant et parcours de soins coordonnés",
        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F163",
        "kind": "summary",
@@ -5156,6 +5256,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "CMP (centre médico-psychologique, public mental health consultation center)",
+      "desc": "A public place for mental health consultations, linked to where you live. It welcomes everyone, with no conditions and no advance payment. Waits for an appointment are often fairly long. To find out where to go, you can ask your regular doctor or your pharmacist, or search on Santé.fr.",
+      "hours": "Depends on the center.",
+      "src": {
+       "org": "Santé publique France (Santé Mentale Info Service)",
+       "title": "Où consulter ?",
+       "url": "https://www.santementale-info-service.fr/trouver-de-l-aide/toutes-les-aides/ou-consulter",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Santé publique France (Santé Mentale Info Service)",
       "title": "Où consulter ?",
@@ -5178,6 +5290,18 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Service Public (service-public.gouv.fr)",
        "title": "Consultation d'un psychologue ou d'un psychiatre : quelle prise en charge ?",
+       "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34917",
+       "kind": "summary",
+       "upd": "2026-07-03"
+      }
+     },
+     "en": {
+      "name": "Mon soutien psy (sessions with a psychologist)",
+      "desc": "You can see a psychologist who has an agreement with the health insurance without your regular doctor's agreement. A session costs €50; the Assurance maladie covers 60% of it. Coverage is limited to 12 sessions per calendar year. The first session is a chance to see with the psychologist whether this scheme suits you. If you have thoughts of vanishing or of suicide, call 3114 first.",
+      "hours": "Depends on the psychologist.",
+      "src": {
+       "org": "Service Public",
+       "title": "Consultation d'un psychologue ou d'un psychiatre : quelle prise en charge ?",
        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34917",
        "kind": "summary",
        "upd": "2026-07-03"
@@ -5210,6 +5334,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Santé.fr: find a place for mental health care",
+      "desc": "A map on the public site Santé.fr to find, near you, a place for mental health care (CMP, hospital, psychologist...).",
+      "hours": "Site available at any time.",
+      "src": {
+       "org": "Santé publique France (Santé Mentale Info Service)",
+       "title": "Où consulter ?",
+       "url": "https://www.santementale-info-service.fr/trouver-de-l-aide/toutes-les-aides/ou-consulter",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Santé publique France (Santé Mentale Info Service)",
       "title": "Où consulter ?",
@@ -5229,6 +5365,18 @@ window.KOMARI_DATA = {
       "name": "PASS (permanence d’accès aux soins de santé)",
       "desc": "Un service de l’hôpital ouvert à toute personne malade en situation de précarité, par exemple sans couverture sociale. Il coordonne les soins (médicaux, sociaux, infirmiers) et vous accompagne dans votre parcours de santé. Renseignez-vous auprès d’un hôpital proche.",
       "hours": "Selon l’hôpital.",
+      "src": {
+       "org": "Santé.fr (Ministère chargé de la santé)",
+       "title": "Les permanences d’accès aux soins de santé - PASS",
+       "url": "https://www.sante.fr/trouver-aide-sante-mentale/les-permanences-dacces-aux-soins-de-sante-pass",
+       "kind": "fact",
+       "upd": "2025-04-03"
+      }
+     },
+     "en": {
+      "name": "PASS (permanence d'accès aux soins de santé, hospital service for access to care)",
+      "desc": "A hospital service open to anyone who is ill and in a precarious situation, for example without social security coverage. It coordinates care (medical, social, nursing) and supports you through your care. Ask at a hospital near you.",
+      "hours": "Depends on the hospital.",
       "src": {
        "org": "Santé.fr (Ministère chargé de la santé)",
        "title": "Les permanences d’accès aux soins de santé - PASS",
@@ -5264,6 +5412,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Alcool Info Service (alcohol helpline)",
+      "desc": "Listening and information about alcohol, for you or for someone close to you. Anonymous call, not charged at a premium rate. Chat every day from noon to 7 p.m. A service of Santé publique France.",
+      "hours": "Every day from 8 a.m. to 11 p.m.",
+      "src": {
+       "org": "Alcool Info Service (Santé publique France)",
+       "title": "Accueil",
+       "url": "https://www.alcool-info-service.fr/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Alcool Info Service (Santé publique France)",
       "title": "Accueil",
@@ -5283,6 +5443,18 @@ window.KOMARI_DATA = {
       "name": "Joueurs Info Service",
       "desc": "Écoute et information sur les jeux d’argent et de hasard (casino, paris sportifs ou hippiques, jeux de tirage ou de grattage), pour vous ou pour un proche. Appel anonyme et non surtaxé. Tchat tous les jours de 12 h à 19 h. Service de Santé publique France.",
       "hours": "Tous les jours de 8 h à 23 h.",
+      "src": {
+       "org": "Joueurs Info Service (Santé publique France)",
+       "title": "Joueurs Info Service",
+       "url": "https://www.joueurs-info-service.fr/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Joueurs Info Service (gambling helpline)",
+      "desc": "Listening and information about gambling and games of chance (casino, sports or horse-race betting, lottery or scratch games), for you or for someone close to you. Anonymous call, not charged at a premium rate. Chat every day from noon to 7 p.m. A service of Santé publique France.",
+      "hours": "Every day from 8 a.m. to 11 p.m.",
       "src": {
        "org": "Joueurs Info Service (Santé publique France)",
        "title": "Joueurs Info Service",
@@ -5318,6 +5490,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "Drogues Info Service (drug helpline)",
+      "desc": "Listening and information about drugs, for you or for someone close to you. Anonymous and free call. Chat every day from noon to 7 p.m. A service of Santé publique France.",
+      "hours": "Every day from 8 a.m. to 11 p.m.",
+      "src": {
+       "org": "Drogues Info Service (Santé publique France)",
+       "title": "Drogues Info Service",
+       "url": "https://www.drogues-info-service.fr/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Drogues Info Service (Santé publique France)",
       "title": "Drogues Info Service",
@@ -5340,6 +5524,18 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Maison de l’autisme",
        "title": "Qu’est-ce que la Maison de l’autisme ?",
+       "url": "https://maisondelautisme.gouv.fr/presentation-maison-de-l-autisme/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Autisme Info Service (autism helpline)",
+      "desc": "To talk about your own situation around autism with a listener, by phone or by e-mail.",
+      "hours": "Monday to Friday, 9 a.m. to 1 p.m. and 2 p.m. to 5 p.m.; on Tuesdays, also 6 p.m. to 8 p.m.",
+      "src": {
+       "org": "Maison de l’autisme",
+       "title": "Qu’est-ce que la Maison de l’autisme ?",
        "url": "https://maisondelautisme.gouv.fr/presentation-maison-de-l-autisme/",
        "kind": "fact",
        "upd": "none"
@@ -5372,6 +5568,18 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      },
+     "en": {
+      "name": "CRA (centre ressources autisme, autism resource center) in your region",
+      "desc": "CRAs provide information and guidance to people with autism and to the people close to them. They step in mainly when the situation calls for specialist expertise, for example a complex diagnosis.",
+      "hours": "Depends on the center.",
+      "src": {
+       "org": "Maison de l’autisme",
+       "title": "Qu'est-ce qu'un centre de ressources autisme (CRA)",
+       "url": "https://maisondelautisme.gouv.fr/accueil/centre-ressources-autisme-cra/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
      "src": {
       "org": "Maison de l’autisme",
       "title": "Qu'est-ce qu'un centre de ressources autisme (CRA)",
@@ -5394,6 +5602,18 @@ window.KOMARI_DATA = {
       "src": {
        "org": "Mon Parcours Handicap",
        "title": "MDPH : missions et fonctionnement",
+       "url": "https://www.monparcourshandicap.gouv.fr/aides/la-maison-departementale-des-personnes-handicapees-mdph-missions-et-fonctionnement",
+       "kind": "summary",
+       "upd": "2026-02-10"
+      }
+     },
+     "en": {
+      "name": "MDPH (maison départementale des personnes handicapées, departmental center for people with disabilities)",
+      "desc": "There is one MDPH in each département. It welcomes, informs, supports and advises people with disabilities and their families, whatever their age and situation. Rights and aids (such as the RQTH, recognition as a disabled worker) are requested through it; a medical certificate is required.",
+      "hours": "Depends on the département.",
+      "src": {
+       "org": "Mon Parcours Handicap",
+       "title": "MDPH : missions et fonctionnement",
        "url": "https://www.monparcourshandicap.gouv.fr/aides/la-maison-departementale-des-personnes-handicapees-mdph-missions-et-fonctionnement",
        "kind": "summary",
        "upd": "2026-02-10"
@@ -6720,6 +6940,1319 @@ window.KOMARI_DATA = {
       }
      }
     }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and find it hard to concentrate, so work and chores do not get done.",
+       "I blame myself, and I see everything in a dark light.",
+       "I cannot sleep at night, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what to do one thing at a time.",
+       "Please do not rush me for answers or decisions; I need time to think.",
+       "Please write important things down for me.",
+       "Please listen to me first before telling me to 'Hang in there' or 'Pull yourself together'.",
+       "Please do not assume I am being lazy when I am resting.",
+       "Please also help me check whether a physical illness or a medicine I am taking at the moment might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression caused or made worse by medicines",
+        "why": "According to this page, medicines can sometimes bring on depression or make it worse.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Troubles dépressifs",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-depressifs/",
+         "kind": "fact",
+         "upd": "2026-09-15"
+        }
+       },
+       {
+        "name": "Anemia",
+        "why": "According to this page, when tiredness comes from a health problem, the cause can be a silent illness such as anemia or a thyroid problem. The page also lists, among these causes, a depressed state, some medicines and lack of sleep.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Fatigue",
+         "url": "https://www.sante.fr/fatigue",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "This page explains that when the thyroid does not make enough hormones, many functions of the body slow down. Among the effects it lists lasting tiredness, a greater sensitivity to cold, weight gain, depression and memory problems.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Hypothyroïdie",
+         "url": "https://www.sante.fr/hypothyroidie",
+         "kind": "fact",
+         "upd": "2026-08-13"
+        }
+       },
+       {
+        "name": "Insomnia and other sleep disorders",
+        "why": "According to this page, a sleep problem can be one of the effects of a mental health condition. The examples it gives include generalized anxiety disorder, post-traumatic stress disorder, bipolar disorder and depression.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Quand le sommeil s'en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "fact",
+         "upd": "2026-09-16"
+        }
+       },
+       {
+        "name": "Effects of alcohol (including alcohol dependence)",
+        "why": "This page explains that drinking alcohol can lead to a gradual loss of control, up to dependence. It says that these behaviors also affect mental health, for example with anxiety, depression, isolation and a loss of self-esteem.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes depression as a state of deep distress that lasts, different from a passing low mood: constant sadness, loss of motivation, losing interest in activities that used to be enjoyable, and difficulty concentrating. It also lists changes in sleep and appetite, constant tiredness, and forms in which depression shows up mainly as pain or other physical problems.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Dépression de l'adulte",
+         "url": "https://www.sante.fr/depression-de-ladulte",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes bipolar disorder as alternating periods of depression and periods of very high energy and excitement, with a reduced need for sleep. It says that it can go unnoticed for a long time, especially when the periods of depression dominate, and that it is sometimes confused with other disorders.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or when all eyes turn to me, I get so anxious that my mind goes blank.",
+       "My heart suddenly starts pounding and I find it hard to breathe. I am afraid it will happen again, so going out feels hard.",
+       "Even without a clear reason, I worry about one thing, then about another. I cannot stay still, and it wears me out.",
+       "Places that are hard to leave, like the metro, the bus, the RER (commuter train) or crowded buildings, are difficult for me, and so is going out with no one to go with me. So I avoid them.",
+       "As I keep avoiding what makes me anxious, I go to fewer places and see fewer people: my life has become narrower.",
+       "My worries will not leave my head and I find it hard to fall asleep at night."
+      ],
+      "asks": [
+       "Please wait for me to speak instead of rushing me.",
+       "Please tell me the plan and how things will go ahead of time.",
+       "Please do not suddenly ask for my opinion in front of others, and let me choose to answer in writing too.",
+       "If I feel unwell, please let me step away and rest for a moment.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Please listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "This page explains that when the thyroid makes too much hormone, many functions of the body speed up. Among the effects it lists a very fast heartbeat, hot flashes, trembling, weight loss, anxiety and lasting tiredness.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Hyperthyroïdie",
+         "url": "https://www.sante.fr/hyperthyroidie",
+         "kind": "fact",
+         "upd": "2026-08-13"
+        }
+       },
+       {
+        "name": "Heart rhythm disorders (arrhythmias)",
+        "why": "This page explains that, when they are felt, heart rhythm disorders give a sensation of thumping in the chest or of a racing heart. When they have been there for a long time, the page also lists shortness of breath on effort, tiredness and anxiety.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Troubles du rythme cardiaque",
+         "url": "https://www.sante.fr/troubles-du-rythme-cardiaque",
+         "kind": "fact",
+         "upd": "2026-08-13"
+        }
+       },
+       {
+        "name": "Anemia",
+        "why": "This page lists anemia, like hyperthyroidism, among the illnesses that can cause palpitations, that is, the sensation of a heart beating very hard. It says that palpitations sometimes come with difficulty breathing, dizziness or anxiety.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Palpitations",
+         "url": "https://www.sante.fr/palpitations",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Effects of alcohol, tobacco or coffee",
+        "why": "According to this page, alcohol, tobacco and coffee play a part in anxiety: stopping alcohol and tobacco, and drinking less coffee, make anxiety symptoms go down.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Anxiété",
+         "url": "https://www.sante.fr/anxiete",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that anxiety and stress are the main causes of poor sleep. It also explains that insomnia that settles in can bring mood problems and irritability.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Anxiety disorders (generalized anxiety disorder, panic disorder, social phobia, specific phobia)",
+        "why": "This page describes several anxiety disorders: constant worry that is hard to control (generalized anxiety disorder), panic attacks with the fear of having another one (panic disorder), strong anxiety about being looked at by others (social phobia), and fears linked to certain situations such as enclosed spaces or public places (specific phobia). It says that the feared situations are sometimes avoided.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page links generalized anxiety disorder to depression: constant alertness and worry are often very tiring, and the page says this can contribute to a depressive disorder developing.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Troubles anxieux et phobies",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-anxieux-et-phobies/",
+         "kind": "fact",
+         "upd": "2026-09-24"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page lists post-traumatic stress disorder among the anxiety disorders. It explains that after a traumatic event, painful memories come back (flashbacks, nightmares), often with sweating or palpitations, and that the person avoids talking or thinking about it.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the gas, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I go out, I have to check the lock and the gas again and again before I can leave with peace of mind.",
+       "I wash my hands or my body more and more often, and I cannot stop even when I want to.",
+       "The same worry keeps coming back into my head, and I cannot stop thinking about it even though I want to.",
+       "If things are not placed, or not done, in the order I have decided, I feel uneasy and end up putting everything back in place or starting all over again.",
+       "Checking takes me so much time that I leave late, or arrive late for my appointments or at work.",
+       "My body moves or sounds come out of my mouth without my wanting them to, and it is hard to stop even when I try."
+      ],
+      "asks": [
+       "Please listen to me first, instead of just telling me I am overthinking it.",
+       "Checking takes me time, so please allow a little extra time.",
+       "When the plan or the way of doing things changes, please tell me in advance.",
+       "Please do not make remarks or make fun of me in front of others when I check or wash.",
+       "Please give me explanations and instructions one at a time, in writing.",
+       "When deciding what comes next (consultations, care), please listen to my worries first, and let us take our time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page explains that in OCD, distressing thoughts that are hard to ignore keep forcing their way into the mind, and that repeated actions (rituals) are a way to escape the anxiety. It gives examples such as checking again and again that the locks or the gas are properly shut, repeating a gesture many times or putting things in a precise order, and says that these rituals can take several hours of the day and get in the way of everyday life.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Troubles obsessionnels compulsifs (TOC)",
+         "url": "https://www.sante.fr/troubles-obsessionnels-compulsifs-toc",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "This page places OCD among the anxiety disorders. It describes repeated actions or rituals to calm anxiety or intrusive thoughts, such as washing, checking, tidying or counting.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page describes autism spectrum disorders as including repetitive and rigid behaviors and restricted interests, alongside difficulties in communication and in relationships with others. It places them among the neurodevelopmental disorders.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frannuaire",
+       "frmsp",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Memories that come back, trouble sleeping, or tension that does not ease after a painful event.",
+      "scenes": [
+       "A small detail is enough to suddenly bring back the scene and what I felt at that moment.",
+       "I often have the same kind of nightmare, and on many nights I can’t sleep deeply.",
+       "I am on edge all the time, and the slightest noise or surprise makes me jump.",
+       "As much as I can, I avoid the places, people and topics that remind me of that moment, and I do fewer and fewer things.",
+       "I feel emotionally flat, and I can no longer feel for my family and friends what I used to feel.",
+       "I blame myself for more and more things, or I find it harder to trust the people around me."
+      ],
+      "asks": [
+       "Please don’t ask me to describe in detail what happened. I would like to talk about it at my own pace, saying only what I can.",
+       "Some sounds, places or topics take me back to that moment. When I say I prefer to avoid them, please accept it.",
+       "Please don’t call out to me suddenly from behind, and don’t make sudden noises near me.",
+       "When talking is too hard, please let me give you something I have written.",
+       "On days when I could not sleep, or when the tiredness does not go away, please don’t take it for laziness.",
+       "Please don’t rush me with phrases like “you need to move on” or “get over it quickly”. I need a safe place where I can talk and feel at ease."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "This page explains that anxiety and stress are the leading causes of poor sleep, and that short-lived insomnia can be linked to a specific event. When insomnia lasts a long time, it can lead to mood problems, irritability and lower alertness during the day.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Acute stress reaction",
+        "why": "According to this page, a traumatic event can cause a shock, called an acute stress reaction. The page explains that in some people this period of stress lasts longer, and it is then called post-traumatic stress disorder.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Etat de stress post traumatique (ESPT)",
+         "url": "https://www.sante.fr/etat-de-stress-post-traumatique-espt",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page describes reactions that come with trauma, for example staying on guard all the time, memories of the event suddenly coming to mind, and nightmares.",
+        "src": {
+         "org": "Psycom",
+         "title": "Trouble de stress post-traumatique",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/trouble-de-stress-post-traumatique/",
+         "kind": "fact",
+         "upd": "2026-09-15"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, depressive symptoms appear in some cases of post-traumatic stress disorder, alongside sleep problems, irritability and difficulty concentrating.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Etat de stress post traumatique (ESPT)",
+         "url": "https://www.sante.fr/etat-de-stress-post-traumatique-espt",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Specific phobia (simple phobia, one of the anxiety disorders)",
+        "why": "This page describes simple phobia as an excessive fear of a specific object or situation, which can lead a person to limit their activities. It says that simple phobias are often linked to traumatic events experienced early in life.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Phobie",
+         "url": "https://www.sante.fr/phobie-0",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or a strong urge to sleep during the day.",
+      "scenes": [
+       "Even once I am in bed, I can’t fall asleep.",
+       "I wake up several times in the night and never sleep straight through until morning.",
+       "In the morning I can’t get up on time, and I am often late for work or class.",
+       "During the day I have strong urges to sleep, and I nearly fall asleep in meetings or while driving.",
+       "People close to me say I snore loudly and that my breathing seems to stop while I sleep.",
+       "In the evening and at night I have unpleasant feelings in my legs, I can’t keep still, and I can’t sleep."
+      ],
+      "asks": [
+       "Please take the time to listen to me talk about my sleep: falling asleep, waking in the night, trouble getting up in the morning and the urge to sleep during the day.",
+       "Please look with me at what may play a part, including the medicines I take and my habits with coffee, alcohol and tobacco.",
+       "Please don’t reduce it to “a question of willpower”. Please also look at my physical health and my mood.",
+       "I have written down my bedtimes and wake-up times on a sheet (a sleep diary). I would like you to look at it.",
+       "If a medicine is suggested to me, please explain simply how it works and what I should watch out for.",
+       "Mornings are hard for me. If it can be done, please offer me an appointment in the afternoon or late in the day."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "This page explains that there are several forms of insomnia: trouble falling asleep, waking during the night, or sleep that does not feel restful. Among the factors involved, it lists light, screens used late, exercise done late and taking certain medicines.",
+        "src": {
+         "org": "Inserm",
+         "title": "Sommeil",
+         "url": "https://www.inserm.fr/dossier/sommeil/",
+         "kind": "fact",
+         "upd": "2024-11-08"
+        }
+       },
+       {
+        "name": "Sleep apnea (obstructive sleep apnea-hypopnea syndrome)",
+        "why": "According to this page, in sleep apnea breathing stops or becomes shallower for a few seconds, which causes short awakenings that the person is not necessarily aware of. People with it often snore loudly, feel tired in the morning and have strong urges to sleep during the day.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Apnée du sommeil (SAOS)",
+         "url": "https://www.sante.fr/apnee-du-sommeil-saos",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page presents this syndrome as one of the causes of sleep problems: a pressing need to move the legs, with tingling or pins and needles, especially at rest, such as in bed, and stronger in the evening and at night.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Syndrome des jambes sans repos (impatiences)",
+         "url": "https://www.sante.fr/syndrome-des-jambes-sans-repos-impatiences-0",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Circadian rhythm disorders (body clock)",
+        "why": "According to this page, these disorders come from a disruption of the body clock. For example, with a delayed sleep phase, a person does not feel sleepy until late in the night.",
+        "src": {
+         "org": "Inserm",
+         "title": "Sommeil",
+         "url": "https://www.inserm.fr/dossier/sommeil/",
+         "kind": "fact",
+         "upd": "2024-11-08"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "This page describes narcolepsy as a rare sleep disorder: strong urges to sleep come during the day, at work or even while driving, and falling asleep can happen suddenly.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Narcolepsie-cataplexie Hypersomnie",
+         "url": "https://www.sante.fr/narcolepsie-cataplexie-hypersomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Insomnia linked to a physical cause (pain, hormones, menopause)",
+        "why": "According to this page, in some kinds of insomnia the poor sleep comes from the body, for example from pain, menopause or hormone imbalances. The page explains that a physical cause like this can be identified and then addressed.",
+        "src": {
+         "org": "Psycom",
+         "title": "Quand le sommeil s'en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "fact",
+         "upd": "2026-09-16"
+        }
+       },
+       {
+        "name": "Too much caffeine or alcohol",
+        "why": "This page lists too much caffeine or alcohol among the problems that can cause sleep disturbances. It also says that alcohol in the evening disrupts sleep and causes waking during the night.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that insomnia can also be linked to another mental health condition. It mentions depression, in which waking in the middle or at the end of the night is typical.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frannuaire",
+       "frcmp",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and for days food has been hard to get down.",
+       "Once I start eating I cannot stop, and sometimes I eat until it hurts.",
+       "Without realizing it, I think only about food, and I find it hard to concentrate on anything else.",
+       "I can only eat a few foods, and I avoid many others because of their taste, smell or texture.",
+       "After nearly choking on food, or after vomiting, I became afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "Please do not make any comments about my body or my appearance.",
+       "Please do not force me to eat or pressure me to eat.",
+       "When people eat in a group, please let me choose another place or another time.",
+       "Please ask me first what I can eat, and which smells or textures are hard for me.",
+       "Please explain to me in advance how the medical examination and the tests will go.",
+       "Please let me give you in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses (such as a chronic illness, or dental or mouth problems)",
+        "why": "According to this page, a loss of appetite can have physical reasons, such as pain linked to a chronic illness or dental and mouth problems. It also says that undernutrition is, most often, the consequence of an illness.",
+        "src": {
+         "org": "Santé.fr (Assurance Maladie)",
+         "title": "4e édition de la Semaine nationale de la dénutrition pour lutter contre cette maladie méconnue",
+         "url": "https://www.sante.fr/4e-edition-de-la-semaine-nationale-de-la-denutrition-pour-lutter-contre-cette-maladie-meconnue",
+         "kind": "fact",
+         "upd": "2023-11-09"
+        }
+       },
+       {
+        "name": "Eating disorders (anorexia nervosa, bulimia nervosa, binge-eating disorder)",
+        "why": "This page describes three eating disorders, called TCA in French: anorexia, bulimia and binge-eating disorder, which was once called hyperphagie boulimique. It notes that they also go by another French name, troubles des comportements alimentaires.",
+        "src": {
+         "org": "Psycom",
+         "title": "Troubles des conduites alimentaires (TCA)",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-des-conduites-alimentaires-tca/",
+         "kind": "fact",
+         "upd": "2026-09-07"
+        }
+       },
+       {
+        "name": "Avoidant/restrictive food intake disorder (ARFID)",
+        "why": "This page describes ARFID as a disorder in which the person is very selective about what they eat. It also describes pica, in which a person may eat things that are not food, such as soil or chalk, and rumination-regurgitation disorder, in which a person brings food back up and chews it again.",
+        "src": {
+         "org": "Psycom",
+         "title": "Troubles des conduites alimentaires (TCA)",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-des-conduites-alimentaires-tca/",
+         "kind": "fact",
+         "upd": "2026-09-07"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that a loss of appetite can also have psychological reasons, such as isolation or depression.",
+        "src": {
+         "org": "Santé.fr (Assurance Maladie)",
+         "title": "4e édition de la Semaine nationale de la dénutrition pour lutter contre cette maladie méconnue",
+         "url": "https://www.sante.fr/4e-edition-de-la-semaine-nationale-de-la-denutrition-pour-lutter-contre-cette-maladie-meconnue",
+         "kind": "fact",
+         "upd": "2023-11-09"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that difficulties with eating are common among people with autism: a very limited choice of foods, refusing certain textures, colors or smells, rituals around meals, or stress at group meals. It says that they are often linked to sensory differences and a strong need for predictability.",
+        "src": {
+         "org": "Maison de l’autisme",
+         "title": "Particularités alimentaires chez les personnes avec autisme",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/particularites-alimentaires-autisme/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frannuaire",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "I decided to stop or cut down, but I find that I keep doing it anyway.",
+       "I can't stick to the time, amount or money I had set for myself for the day.",
+       "I sometimes hide my drinking, my gaming or my gambling from people close to me, or bend the truth.",
+       "I play video games late at night, I have trouble getting up in the morning, and I am late or absent more and more often.",
+       "When I lose, I want to win the money back, so I bet again.",
+       "Even though I know my physical health is not good, I can't drink less."
+      ],
+      "asks": [
+       "Please listen to me first, without blaming me or criticizing me.",
+       "I would like to go over my habits, and the difficulties they cause me, with you step by step.",
+       "Please look at my sleep and my physical health as well.",
+       "Please tell me specifically where I can ask for help and where I can go.",
+       "Please tell me whether a family member or someone close to me can come and talk about this with me.",
+       "Before we start, please tell me who you will share what I tell you with, and how far."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "According to this page, drinking too much alcohol is one of the things that can disturb sleep: alcohol in the evening upsets your nights and makes you wake up. So when alcohol is causing a problem, sleep can be talked about as well.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Alcohol dependence (addiction to alcohol)",
+        "why": "This page presents alcohol dependence as an addiction that damages health, relationships and emotional life. It describes a continuous range, from not drinking at all to dependence. It also talks about difficulty controlling when you start, when you stop and how much you drink, and about the withdrawal that can be felt when you drink less or stop completely.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Alcoolodépendance",
+         "url": "https://www.sante.fr/alcoolodependance",
+         "kind": "fact",
+         "upd": "2026-08-13"
+        }
+       },
+       {
+        "name": "Gambling disorder (addiction to gambling)",
+        "why": "According to this page from a regional health agency, in an addiction without a substance, a person can no longer keep control over an activity. It adds that addiction to gambling, called gambling disorder, is one of the two addictions of this kind that have a precise clinical definition today.",
+        "src": {
+         "org": "Agence régionale de santé Hauts-de-France",
+         "title": "Addictions sans substances /comportementales : quel impact en région ?",
+         "url": "https://www.hauts-de-france.ars.sante.fr/addictions-sans-substances-comportementales-quel-impact-en-region",
+         "kind": "fact",
+         "upd": "2025-10-27"
+        }
+       },
+       {
+        "name": "Gaming disorder",
+        "why": "A page from a regional health agency says that no longer controlling how you play video games has a name: gaming disorder. It describes gaming that gradually takes up a large place in everyday life and comes before other interests, even when it brings difficulties.",
+        "src": {
+         "org": "Agence régionale de santé Bretagne",
+         "title": "Addictions sans substances/ comportementales",
+         "url": "https://www.bretagne.ars.sante.fr/addictions-sans-substances-comportementales-0",
+         "kind": "fact",
+         "upd": "2026-09-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that alcohol and depression can feed each other: drinking a lot can feed anxiety and depression, and, the other way around, a person who is stressed or depressed may feel like drinking in an attempt to feel better.",
+        "src": {
+         "org": "Santé.fr (Santé publique France - Alcool Info Service)",
+         "title": "Les effets de la consommation d'alcool sur votre santé",
+         "url": "https://www.sante.fr/les-effets-de-la-consommation-dalcool-sur-votre-sante",
+         "kind": "fact",
+         "upd": "2024-04-11"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page says that bipolar disorders often go together with anxiety disorders and with addictive behaviors, and it points to a study published in 2018 in a psychopharmacology journal.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Troubles bipolaires",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-bipolaires/",
+         "kind": "fact",
+         "upd": "2026-09-15"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "According to a page from a regional health agency, a behavioral addiction (gambling, video games) often comes with other mental health conditions. ADHD is one of those it names.",
+        "src": {
+         "org": "Agence régionale de santé Bretagne",
+         "title": "Addictions sans substances/ comportementales",
+         "url": "https://www.bretagne.ars.sante.fr/addictions-sans-substances-comportementales-0",
+         "kind": "fact",
+         "upd": "2026-09-17"
+        }
+       }
+      ],
+      "windows": [
+       "frais",
+       "frjis",
+       "frmt",
+       "frcmp",
+       "frmsp",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organized",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else without my noticing.",
+       "I can't get through my work or the housework in order, and I miss deadlines.",
+       "I often forget what I was asked to do or what I promised, or I lose my belongings.",
+       "When I do the same task for a long time, careless mistakes pile up.",
+       "Sitting still is hard for me: I get restless and can't stay put.",
+       "People around me say that I often forget things or that I am often late."
+      ],
+      "asks": [
+       "Please give me instructions one at a time.",
+       "Please write down the important information and hand it to me.",
+       "I would like to know about deadlines and appointments early enough.",
+       "Please don't ask me for too many things at once; break tasks into small steps.",
+       "I would like to talk in a quiet place with few distractions.",
+       "Instead of blaming me for what I did not manage, I would like you to acknowledge what I did manage to do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep deprivation",
+        "why": "This page explains that our mental abilities, also called cognitive abilities, go down when we get too little sleep.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Quand le sommeil s’en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "fact",
+         "upd": "2026-09-16"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "According to this page, lack of sleep can have consequences such as tiredness, irritability, memory problems or difficulty concentrating. When insomnia sets in, alertness during the day can also drop.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Insomnie",
+         "url": "https://www.sante.fr/insomnie",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page describes a very strong urge to move the legs, which comes mostly at rest, for example when sitting in an armchair. According to it, this syndrome disturbs sleep and can also harm memory and concentration.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Syndrome des jambes sans repos (impatiences)",
+         "url": "https://www.sante.fr/syndrome-des-jambes-sans-repos-impatiences-0",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Effects of alcohol",
+        "why": "According to this page, drinking a lot of alcohol on a regular basis can leave lasting problems that weigh on everyday life, in particular on memory, concentration and the ability to make decisions.",
+        "src": {
+         "org": "Santé.fr (Santé publique France - Alcool Info Service)",
+         "title": "Les effets de la consommation d'alcool sur votre santé",
+         "url": "https://www.sante.fr/les-effets-de-la-consommation-dalcool-sur-votre-sante",
+         "kind": "fact",
+         "upd": "2024-04-11"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, depression can affect concentration: it becomes harder to stay attentive, to remember things and to make decisions.",
+        "src": {
+         "org": "Santé publique France (Santé Mentale Info Service)",
+         "title": "Dépression : comment la reconnaître, comment agir",
+         "url": "https://www.santementale-info-service.fr/depression-comment-la-reconnaitre-comment-agir",
+         "kind": "fact",
+         "upd": "2026-06-01"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "According to this page, in generalized anxiety, fear and worry are about most events in life, and come with tiredness, irritability and difficulty concentrating.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Anxiété",
+         "url": "https://www.sante.fr/anxiete",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page explains that ADHD is a neurodevelopmental disorder that also concerns adults. It lists difficulty staying focused or remembering things (forgetting things often, getting distracted quickly), impulsivity and strong restlessness, which can be seen at work, at home or in social settings.",
+        "src": {
+         "org": "Mon Parcours Handicap",
+         "title": "Qu’est-ce que le trouble du déficit d’attention avec ou sans hyperactivité (TDAH) ?",
+         "url": "https://www.monparcourshandicap.gouv.fr/actualite/quest-ce-que-le-trouble-du-deficit-dattention-avec-ou-sans-hyperactivite-tdah",
+         "kind": "summary",
+         "upd": "2026-06-09"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, in autism spectrum disorder, attention can lock very strongly onto one interest, with difficulty moving on to something else. Thinking can also be rigid, with a need for routine. The page points out that some difficulties look like those of ADHD without having the same causes.",
+        "src": {
+         "org": "Maison de l’autisme",
+         "title": "Autisme et TDAH : quand les troubles coexistent",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/autisme-et-tdah/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frmdph",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up what the other person feels or the mood of the moment, and I feel that we do not understand each other.",
+       "When I have to speak in front of people or when everyone's eyes turn to me, I get very tense and I avoid these situations.",
+       "I can talk with people close to me, but in front of other people my voice will not come out.",
+       "When my way of doing things, the order of steps or where things are placed changes, it makes me very anxious.",
+       "Noises, lights and smells seem very strong to me, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and seeing other people or talking to them has become difficult."
+      ],
+      "asks": [
+       "Please speak slowly and clearly.",
+       "Please write down important things for me.",
+       "I would like to talk in a quiet place.",
+       "If the schedule or the way of doing things changes, please tell me in advance.",
+       "Please give me time to answer, without rushing me.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "According to this page, when you hear less well, talking with others becomes more complicated, which can lead to becoming isolated and losing self-confidence. It also mentions irritability.",
+        "src": {
+         "org": "Santé.fr (Santé Publique France - Pour Bien vieillir)",
+         "title": "Pour bien vieillir : Prendre soin de votre audition pour bien vieillir",
+         "url": "https://www.sante.fr/pour-bien-vieillir-prendre-soin-de-votre-audition-pour-bien-vieillir",
+         "kind": "fact",
+         "upd": "2025-01-06"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, depression can weigh on relationships with family, friends or colleagues, and reduce everyday activities. It also describes a person who seems sad, tired and withdrawn, and who stops doing what they used to enjoy.",
+        "src": {
+         "org": "Santé publique France (Santé Mentale Info Service)",
+         "title": "Dépression : comment la reconnaître, comment agir",
+         "url": "https://www.santementale-info-service.fr/depression-comment-la-reconnaitre-comment-agir",
+         "kind": "fact",
+         "upd": "2026-06-01"
+        }
+       },
+       {
+        "name": "Social anxiety disorder (social phobia)",
+        "why": "This page explains that people with social anxiety disorder usually fear that others will think badly of them. The worries it gives as examples include looking ridiculous, seeming cold, stupid or rude, and making what they see as social mistakes, such as saying awkward things, asking unwelcome questions, or talking too much or too little.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Troubles anxieux et phobies",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/troubles-anxieux-et-phobies/",
+         "kind": "fact",
+         "upd": "2026-09-24"
+        }
+       },
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes repeated actions done to calm anxiety, for example to put things in order or tidy up, that end up getting in the way of life with other people and of work. It also says that, when there is no care for it, OCD can lead to social phobia, linked to shame and to fear of what other people think.",
+        "src": {
+         "org": "Santé.fr (Service Public d’Information en Santé)",
+         "title": "Troubles obsessionnels compulsifs (TOC)",
+         "url": "https://www.sante.fr/troubles-obsessionnels-compulsifs-toc",
+         "kind": "fact",
+         "upd": "2026-08-12"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, a person with autism may take words literally and have difficulty with what is implied or with social codes. The page also talks about a need for very precise routines, difficulty with changes, and sounds, lights or textures felt more strongly or less strongly.",
+        "src": {
+         "org": "Maison de l’autisme",
+         "title": "Qu’est-ce que l’autisme ?",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/qu-est-ce-que-l-autisme/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frtnd",
+       "frcmp",
+       "frcra",
+       "frmdph",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I often have to reread it several times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble with spelling: I make many mistakes, or I leave out letters or words when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on math problems given in sentences.",
+       "I can talk and listen without difficulty, but with reading, writing or calculating, I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "Please show me text in large print with well-spaced lines.",
+       "Please read important information aloud to me or tell it to me out loud.",
+       "Please let me use the keyboard of a computer or phone, or keep a record with a photo or an audio recording, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please give me fewer things at once, one at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Among the common symptoms of depression, this page lists difficulty concentrating, slowness in thinking and in actions, and a loss of interest in activities once enjoyed.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Specific learning disorder (dyslexia, dysorthography, dyscalculia)",
+        "why": "This page explains that “dys” disorders are specific learning disorders that continue into adulthood. They can show up as difficulties with reading (dyslexia), with written expression (dysorthography) or with calculation (dyscalculia).",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "According to this Psycom page, ADHD fairly often goes together with dys disorders in the same person.",
+        "src": {
+         "org": "© Psycom",
+         "title": "La santé mentale avec un trouble dys",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/avec-un-trouble-du-neurodeveloppement/la-sante-mentale-avec-un-trouble-dys/",
+         "kind": "fact",
+         "upd": "2026-09-17"
+        }
+       },
+       {
+        "name": "Developmental coordination disorder (DCD, dyspraxia)",
+        "why": "This page explains that this disorder affects the planning and coordination of movements, with effects on handwriting and on fine motor skills. It also mentions dysgraphia, a difficulty with the movements of handwriting, which becomes slow, painful or hard to read.",
+        "src": {
+         "org": "Maison de l’autisme",
+         "title": "Troubles dys au sein des TND",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/troubles-dys/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Intellectual disability (intellectual developmental disorder)",
+        "why": "This page places intellectual developmental disorder among the neurodevelopmental disorders, which affect functions such as reasoning, memory or learning. It describes it as a limitation of intellectual functions (reasoning, problem solving, planning) together with difficulties adapting in daily life.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frmdph",
+       "frpass"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings can't keep up.",
+      "scenes": [
+       "Periods when I have far too much energy alternate with periods when my mood is so low that I cannot move.",
+       "There are periods when I hardly sleep, yet I have a lot of energy and keep on the move.",
+       "Ideas come to me one after another, and everything stays half done.",
+       "There have been times when, feeling capable of anything, I spent so much money that I had difficulties afterwards.",
+       "I get irritated over nothing, and I find it hard to keep my feelings in check.",
+       "Things I did when my mood was very high have had consequences for my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the periods when I was doing very well, with unusual energy.",
+       "Please take the time to go back over my highs and lows with me.",
+       "Before a big decision about money or work, please help me stop and think first.",
+       "Please also check physical causes, including sleep, medicines and alcohol.",
+       "If I am not my usual self, please tell me without blaming me.",
+       "Please hear me out, in my high periods as well as in my low ones."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Lack of sleep",
+        "why": "This Psycom page explains that not getting enough sleep lowers our thinking abilities (cognitive abilities) and makes our mood go up and down more.",
+        "src": {
+         "org": "© Psycom",
+         "title": "Quand le sommeil s’en mêle",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/quand-le-sommeil-sen-mele/",
+         "kind": "fact",
+         "upd": "2026-09-16"
+        }
+       },
+       {
+        "name": "Effects of stopping alcohol (withdrawal)",
+        "why": "According to this page, when someone drinks alcohol very regularly, stopping can bring anxiety, irritability and trouble sleeping. It adds that, afterwards, sadness or a low mood can last.",
+        "src": {
+         "org": "Santé.fr (Santé publique France - Alcool Info Service)",
+         "title": "Sevrage : ce qu'il faut savoir pour mieux vous préparer",
+         "url": "https://www.sante.fr/sevrage-ce-quil-faut-savoir-pour-mieux-vous-preparer",
+         "kind": "fact",
+         "upd": "2024-06-14"
+        }
+       },
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "According to this Psycom page, premenstrual syndrome and premenstrual dysphoric disorder (PMDD) can affect feelings as a period gets near, with irritability, impatience, anxiety, sadness, crying spells, low energy or a sense of unease. They can also affect the body, with painful breasts, stomach pain, lower back pain or weight gain.",
+        "src": {
+         "org": "© Psycom",
+         "title": "La santé mentale des femmes",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/la-sante-mentale-des-femmes/",
+         "kind": "fact",
+         "upd": "2026-09-16"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page places depression and bipolar disorder among the mood disorders. It describes depressive disorders as a decline in mood that affects daily life over a long period, and explains that bipolar disorder also includes periods of depression: bipolar disorder can go unnoticed for a long time, especially when these periods of depression are the main ones.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes bipolar disorder as alternating periods of depression and so-called manic periods. During the manic periods, a person may feel overflowing energy and strong excitement, need less sleep and act impulsively, sometimes with excessive spending.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "This page describes ADHD in terms of difficulties with attention, impulsivity (answering too quickly, finding it hard to wait one's turn) and, in some cases, hyperactivity, which can also be mental. It adds that ADHD also concerns adults.",
+        "src": {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        }
+       }
+      ],
+      "windows": [
+       "frmt",
+       "frcmp",
+       "frannuaire",
+       "frpass"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "When you learn the name of an illness or of a developmental condition, a little ordinary tiredness or a moment of inattention can more easily start to look like a symptom.\n\nEmotions can really change what you feel in your body and in your mood: this is not something you imagine, it really happens. Lack of sleep, stress, your phone or what is going on around you can also have similar effects.\n\nIf, when you see a name, you think \"maybe that is it,\" do not stop at that idea right away, and think of other reasons too. If the difficulties continue, you can talk about them as they are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Mood changes and the urge to check things happen to everyone",
+       "body": "Everyone's mood goes up and down over time, with stress, sadness, joy or discouragement. A French public page reminds readers not to confuse these changes in mood with a psychological disorder. According to that page, what leads people to speak of a disorder is distress that settles in over a long period and clearly gets in the way of everyday life.\n\nThe urge to check something \"just in case\" also happens to everyone. A Psycom page explains that obsessions and intrusive thoughts, such as wondering whether you really turned off the oven, are something every person goes through now and then.\n\nIt is better not to give yourself a name (a diagnosis): only a health professional can make a diagnosis. A general practitioner or a psychiatrist can also prescribe tests to rule out other illnesses that could cause similar symptoms. For \"dys\" disorders, for example, the page \"Les différents troubles\" explains that they appear early in life and continue into adulthood; this is why how things went in your early years can also matter.\n\nIf the difficulties continue, you can talk about them as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Les différents troubles",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+         "kind": "summary",
+         "upd": "2026-02-27"
+        },
+        {
+         "org": "Service d’information du Gouvernement (info.gouv.fr)",
+         "title": "Repérer les signaux d'alerte",
+         "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/reperer-les-signaux-d-alerte",
+         "kind": "summary",
+         "upd": "2026-02-11"
+        },
+        {
+         "org": "© Psycom",
+         "title": "Le TOC et les troubles apparentés",
+         "url": "https://www.psycom.org/sinformer/la-sante-mentale/les-troubles-psy/le-toc-et-les-troubles-apparentes/",
+         "kind": "fact",
+         "upd": "2026-07-06"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about your difficulties, even without a diagnosis",
+       "body": "Even without the name of an illness, you can talk about your difficulties as they are. For example, anyone affected by psychological difficulties or by neurodevelopmental disorders can go to the centre médico-psychologique (CMP) for their area: you can make an appointment directly, and the sessions are free. Your regular doctor (médecin traitant) can also be a first point of contact.\n\nAt work, you can ask the occupational physician (médecin du travail), or the prevention doctor (médecin de prévention) in the civil service, for an appointment at any time. Employees can contact them directly, without asking the employer's agreement, and the employer cannot penalize them for this request. The occupational physician and your regular doctor are bound by professional confidentiality: they give your employer no medical information about you. The occupational physician can propose adjustments to your workstation or working hours to the employer.\n\nUnder employment law, the employer's obligation to provide the necessary adjustments (known as reasonable accommodation, aménagement raisonnable) applies to people whose disability is recognized (RQTH, for example). In that framework, the employer must take into account the occupational physician's written recommendations and, if the employer refuses an adjustment, explain why. Without recognition, you can still ask for an adjustment of your workstation or hours, and discuss it through the occupational physician. Declaring an RQTH to your employer is not compulsory: it is a personal choice. If a refusal feels like discrimination, you can contact the Défenseur des droits (Defender of Rights).\n\nWhat you would like, and what is feasible, depends on the situation and on the other person: it is decided by talking about it together.",
+       "srcs": [
+        {
+         "org": "Maison de l’autisme",
+         "title": "Acteurs et organismes dans l’autisme",
+         "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/acteurs-et-organismes-autisme/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Mon Parcours Handicap",
+         "title": "Compenser votre handicap dans l'emploi",
+         "url": "https://www.monparcourshandicap.gouv.fr/emploi/compenser-votre-handicap-dans-lemploi",
+         "kind": "fact",
+         "upd": "2024-10-20"
+        },
+        {
+         "org": "Santé.fr (Ministère du Travail)",
+         "title": "Santé au travail : visites et examens médicaux dans le cadre du travail",
+         "url": "https://www.sante.fr/sante-au-travail-visites-et-examens-medicaux-dans-le-cadre-du-travail",
+         "kind": "fact",
+         "upd": "2022-04-06"
+        },
+        {
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Médecine du travail pour un salarié du secteur privé",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2211",
+         "kind": "summary",
+         "upd": "2025-08-11"
+        },
+        {
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Handicap : travail en milieu ordinaire",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F15926",
+         "kind": "summary",
+         "upd": "2026-06-01"
+        },
+        {
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Qu'est-ce que la reconnaissance de la qualité de travailleur handicapé (RQTH) ?",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1650",
+         "kind": "summary",
+         "upd": "2026-03-24"
+        }
+       ]
+      },
+      {
+       "h": "However, some schemes need a medical document",
+       "body": "However, to use certain schemes, a document from a doctor is needed.\n\nFor a long-term condition (affection de longue durée, ALD), your regular doctor draws up a \"care protocol\" (protocole de soins) with you and sends it to the Assurance Maladie; it is then the Assurance Maladie doctor who gives, or does not give, agreement for coverage. For an ALD described as \"exonérante\" (exempting), health costs linked to that illness are then reimbursed more fully (some costs, however, still have to be paid).\n\nFor any request to the departmental center for people with disabilities (MDPH), for example an RQTH or an allowance, a medical certificate must be attached. The doctor fills it in after an examination, with the diagnosis (or more than one) and the effects on daily life.\n\nFor sick leave (arrêt de travail), a doctor's prescription is needed. To receive the salary supplement paid by the employer, the medical certificate must also be sent to the employer.\n\nWhat is asked for depends on the scheme: ask the body concerned before you start the procedure.",
+       "srcs": [
+        {
+         "org": "Mon Parcours Handicap",
+         "title": "Les affections de longue durée (ALD)",
+         "url": "https://www.monparcourshandicap.gouv.fr/aides/les-affections-de-longue-duree-ald",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "Mon Parcours Handicap",
+         "title": "Certificat médical (formulaire Cerfa n° 15695*01)",
+         "url": "https://www.monparcourshandicap.gouv.fr/demarches/certificat-medical-formulaire-cerfa-ndeg-1569501",
+         "kind": "summary",
+         "upd": "2026-08-10"
+        },
+        {
+         "org": "Service Public (service-public.gouv.fr)",
+         "title": "Arrêt maladie : indemnités journalières versées au salarié",
+         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F3053",
+         "kind": "summary",
+         "upd": "2026-06-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for placing yourself above others",
+       "body": "A name for a condition is not a tool for placing yourself above someone, or for looking down on others.\nSome people feel lighter when they learn a name for what they are going through. That matters.\nWanting the people around you to understand, or to be gentler with you, is natural too.\n\nWhen you would like someone to be gentler with you, you can ask for it directly, without giving the name of a condition.\nIt is easier to understand if you say two things together: what makes things difficult for you, and what you would like the other person to do.\n\nFor example, you can say:\n\"Today I have little energy: could you speak to me slowly?\"\n\"When I am told many things at once, I get lost: could you tell me one at a time?\"\n\"I find it hard to remember what I only hear: could you write down the important things, on paper or by e-mail?\"\n\"Places with a lot of people are hard for me: I would rather talk somewhere quiet.\"\n\"I need a little time to answer: could you wait a moment?\"\n\"Right now my emotions are taking up all the space: could you listen to me first? Advice can wait.\"\n\"Today I am not feeling well: could you let me rest for a while?\"\n\"Sudden changes of plan throw me off: could you tell me as soon as you know?\"\n\"When people speak loudly to me, I get scared: could you speak to me calmly?\"\n\nIf it is hard to say, you can write it on a piece of paper and hand it over. You can also show the \"My worries\" screen with the \"Show it large\" button: it appears in this app when you choose a worry and answer the questions.\nIf you want to tell someone the name of a condition that concerns you, you can. In that case too, saying at the same time what makes things difficult for you and what you would like the other person to do helps them act.\nSometimes the other person cannot do what you ask because of their own situation. In that case, try to look together for another way of doing things.\n\nAt work or in higher education, if you would like your request to be considered within the framework set up for it, you can talk to the occupational physician, or to the disability unit (mission handicap) of your institution. In companies with at least 250 employees, a disability officer (référent handicap) is also responsible for informing and guiding. A doctor's opinion or document may then be requested.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": [
+        {
+         "org": "Mon Parcours Handicap",
+         "title": "Compenser votre handicap dans l'emploi",
+         "url": "https://www.monparcourshandicap.gouv.fr/emploi/compenser-votre-handicap-dans-lemploi",
+         "kind": "fact",
+         "upd": "2024-10-20"
+        },
+        {
+         "org": "Mon Parcours Handicap",
+         "title": "Quels sont vos droits et les obligations des établissements d’enseignement supérieur ?",
+         "url": "https://www.monparcourshandicap.gouv.fr/etudes-superieures/quels-sont-vos-droits-et-les-obligations-des-etablissements-denseignement",
+         "kind": "summary",
+         "upd": "2025-12-23"
+        },
+        {
+         "org": "Mon Parcours Handicap",
+         "title": "Référent handicap",
+         "url": "https://www.monparcourshandicap.gouv.fr/glossaire/referent-handicap",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have an illness or a disorder. This app is not a medical device and does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere and are not saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit group in Japan. It has no connection with the French State, the Assurance Maladie, the Haute Autorité de santé, Santé publique France or any health institution, and none of them has recommended or supported this app. The names of these bodies only show where the information comes from. The original texts can be read free of charge on the website of each body.\n\nSOYOGI wrote this content in its own words, drawing on French public pages; the few passages that are quoted are translated and placed in quotation marks. Sources are shown on each screen, with the update date of each page. Checked on 17 October 2026: numbers and hours may change.\n\nIt is you, not the app, who decides whether or not to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "When psychological distress becomes intense and settles in over a long period, mental health can decline, and it is then better to consult.",
+      "src": {
+       "org": "Service d’information du Gouvernement (info.gouv.fr)",
+       "title": "Les différents troubles",
+       "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/les-differents-troubles",
+       "kind": "summary",
+       "upd": "2026-02-27"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Your regular doctor (médecin traitant): “They are your first point of contact when you have difficulties. Ask them for advice, and they will know where to direct you.”",
+       "src": {
+        "org": "Mon Parcours Handicap",
+        "title": "Compenser votre handicap dans l'emploi",
+        "url": "https://www.monparcourshandicap.gouv.fr/emploi/compenser-votre-handicap-dans-lemploi",
+        "kind": "quote",
+        "upd": "2024-10-20"
+       }
+      },
+      {
+       "text": "Centre médico-psychologique (CMP): This page explains that people with neurodevelopmental or psychological disorders can all go to a CMP, whether to have a consultation or to be welcomed there.",
+       "src": {
+        "org": "Maison de l’autisme",
+        "title": "Acteurs et organismes dans l’autisme",
+        "url": "https://maisondelautisme.gouv.fr/fiches-pratiques-autisme/acteurs-et-organismes-autisme/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is given, a French public page says:",
+      "text": "Only a health professional can give a diagnosis. A general practitioner or a psychiatrist can prescribe examinations to rule out other illnesses that could cause similar symptoms, such as anemia, a lack of vitamins or a thyroid disease.",
+      "src": {
+       "org": "Service d’information du Gouvernement (info.gouv.fr)",
+       "title": "Repérer les signaux d'alerte",
+       "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/reperer-les-signaux-d-alerte",
+       "kind": "summary",
+       "upd": "2026-02-11"
+      }
+     }
+    }
    }
   },
   "de": {
@@ -6732,7 +8265,8 @@ window.KOMARI_DATA = {
     "es": "Alemania",
     "nl": "Duitsland",
     "ko": "독일",
-    "zh": "德國"
+    "zh": "德國",
+    "it": "Germania"
    },
    "langs": [
     "de"
@@ -8587,7 +10121,8 @@ window.KOMARI_DATA = {
     "es": "España",
     "nl": "Spanje",
     "ko": "스페인",
-    "zh": "西班牙"
+    "zh": "西班牙",
+    "it": "Spagna"
    },
    "langs": [
     "es"
@@ -10175,7 +11710,8 @@ window.KOMARI_DATA = {
     "es": "Países Bajos",
     "nl": "Nederland",
     "ko": "네덜란드",
-    "zh": "荷蘭"
+    "zh": "荷蘭",
+    "it": "Paesi Bassi"
    },
    "langs": [
     "nl"
@@ -11784,7 +13320,8 @@ window.KOMARI_DATA = {
     "es": "Corea del Sur",
     "nl": "Zuid-Korea",
     "ko": "한국",
-    "zh": "韓國"
+    "zh": "韓國",
+    "it": "Corea del Sud"
    },
    "langs": [
     "ko"
@@ -13494,7 +15031,8 @@ window.KOMARI_DATA = {
     "es": "Taiwán",
     "nl": "Taiwan",
     "ko": "대만",
-    "zh": "臺灣"
+    "zh": "臺灣",
+    "it": "Taiwan"
    },
    "langs": [
     "zh"

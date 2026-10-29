@@ -9,11 +9,11 @@
      変えたら README の「シェルの変更点」に書く */
 (function(){
 
-var VER = '0.8.0';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
+var VER = '0.9.0';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
 var APP_KEY = 'komari_soudan';        // バックアップの識別(別アプリのファイルを読まない)
 var LS = 'komari.';
 var LS_PREF = LS + 'pref.v1';
-var LANGS = ['ja','en','fr','de','es','nl','ko','zh'];      // 国に合わせて足していく(SPEC_V1 第9節)。i18n.js と index.html の選択肢も同じ順で
+var LANGS = ['ja','en','fr','de','es','nl','ko','zh','it'];      // 国に合わせて足していく(SPEC_V1 第9節)。i18n.js と index.html の選択肢も同じ順で
 var RTL_LANGS = ['ar'];
 var THEMES = ['green','aqua','white','dark'];
 var BGMS = ['off','green','blue'];
@@ -30,13 +30,51 @@ function loadJSON(key){ try{ var s = localStorage.getItem(key); return s ? JSON.
 function saveJSON(key, val){ try{ localStorage.setItem(key, JSON.stringify(val)); return true; }catch(_){ return false; } }
 function removeKey(key){ try{ localStorage.removeItem(key); }catch(_){} }
 
-/* 国(SPEC_V1 第9節・多国籍版 2026-10-17): 中身(窓口・名前の一覧など)は国ごと。ことばとは別に選ぶ。
+/* 国(SPEC_V1 第9節・多国籍版 2026-10-17): 中身(窓口・名前の一覧など)は国ごと。ことばは国に合わせる(その国のことば+英語の中身がある国は英語・10/29 ヒロさん)。
    一覧は data.js(app.js より前に読む)の countries。はじめての使い方で選ぶまでは null(初期値で進ませない) */
 function countries(){ var D = window.KOMARI_DATA; return (D && Array.isArray(D.countries)) ? D.countries : []; }
 function countryName(id, lang){
   var D = window.KOMARI_DATA, c = D && D.c && D.c[id];
   if(!c || !c.name) return id;
   return c.name[lang] || c.name.en || id;
+}
+/* 国で選べることば(2026-10-29 ヒロさん「全ての国で母国語と英語の2言語だけ選べるように」「中身まで英語」・SPEC_V1 第9節):
+   国の主なことば → 英語 の順。中身(data.js の langs)があることばだけ出す=英語の中身ができた国から英語が選べる。国を選ぶ前は全部 */
+function langsFor(id){
+  var D = window.KOMARI_DATA, c = id && D && D.c && D.c[id];
+  if(!c || !Array.isArray(c.langs)) return LANGS.slice();
+  var have = c.langs.filter(function(l){ return LANGS.indexOf(l) >= 0; });
+  var out = [];
+  if(have.indexOf(c.main) >= 0) out.push(c.main);
+  if(have.indexOf('en') >= 0 && out.indexOf('en') < 0) out.push('en');
+  return out.length ? out : have;
+}
+function fitLang(p){
+  var ok = langsFor(p.country);
+  if(p.country && ok.length && ok.indexOf(p.lang) < 0) p.lang = ok[0];
+  return p;
+}
+/* ことばの選択肢(ヘッダーの select・はじめての使い方の select 共通)。名前は index.html の選択肢の字(そのことば自身の書き方) */
+var LANG_LABEL = null;
+function langLabel(l){
+  if(!LANG_LABEL){
+    LANG_LABEL = {};
+    var s = $('set-lang');
+    if(s && s.options) for(var i = 0; i < s.options.length; i++) LANG_LABEL[s.options[i].value] = s.options[i].textContent;
+  }
+  return LANG_LABEL[l] || l;
+}
+function fillLangSel(sel){
+  if(!sel) return;
+  var ok = langsFor(pref.country);
+  ok.forEach(function(l){ langLabel(l); });            // 書きかえる前に字を覚える
+  sel.textContent = '';
+  ok.forEach(function(l){
+    var op = document.createElement('option');
+    op.value = l; op.textContent = langLabel(l);
+    sel.appendChild(op);
+  });
+  sel.value = pref.lang;
 }
 function detectLang(){
   try{ var n = String((navigator && navigator.language) || 'ja').slice(0, 2).toLowerCase(); return LANGS.indexOf(n) >= 0 ? n : 'ja'; }
@@ -55,7 +93,7 @@ function sanitizePref(p){
     extra: (p.extra && typeof p.extra === 'object' && !Array.isArray(p.extra)) ? p.extra : {}   // 画面側の小さな設定(api.setExtra)
   };
 }
-var pref = sanitizePref(loadJSON(LS_PREF));
+var pref = fitLang(sanitizePref(loadJSON(LS_PREF)));
 function savePref(){ saveJSON(LS_PREF, pref); }
 function next(list, cur){ return list[(list.indexOf(cur) + 1) % list.length]; }
 
@@ -103,8 +141,8 @@ function fillCountrySel(sel){
 }
 function setCountry(id){
   if(countries().indexOf(id) < 0) return;
-  pref.country = id; savePref();
-  applyI18n();                                       // 表示中の画面と はじめての使い方 を描き直す
+  pref.country = id; fitLang(pref); savePref();
+  applyI18n();                                      // 表示中の画面と はじめての使い方 を描き直す
 }
 function applyI18n(){
   for(var id in I18N_MAP){ var e = $(id); if(e) e.textContent = T(I18N_MAP[id]); }
@@ -120,6 +158,8 @@ function applyI18n(){
   if($('btn-bgm'))   $('btn-bgm').textContent   = T('set.bgms')[BGMS.indexOf(pref.bgm)];
   if($('btn-sound')) $('btn-sound').textContent = pref.sound ? T('set.on') : T('set.off');
   fillCountrySel($('set-country'));
+  fillLangSel($('set-lang'));
+  if($('lang-wrap')) $('lang-wrap').classList.toggle('hidden', langsFor(pref.country).length < 2);   // 選べることばが1つの国(アメリカ)では出さない
   if($('about-ver')) $('about-ver').textContent = 'v' + VER;
   document.title = T('app.name');
   fitTitle();
@@ -484,15 +524,11 @@ function openGuide(first){
     langLbl = el('span', 'guide-lang-lbl');
     langSel = document.createElement('select');
     langSel.setAttribute('aria-label', 'Language 言語');
-    for(var o = 0; o < src.options.length; o++){
-      var op = document.createElement('option');
-      op.value = src.options[o].value; op.textContent = src.options[o].textContent;
-      langSel.appendChild(op);
-    }
+    fillLangSel(langSel);                            // 国を選んだあとは、その国の主なことばと英語だけ
     langSel.addEventListener('change', function(){
+      if(langsFor(pref.country).indexOf(langSel.value) < 0){ langSel.value = pref.lang; return; }
       pref.lang = langSel.value; savePref();
-      if($('set-lang')) $('set-lang').value = pref.lang;
-      applyI18n();                                   // 案内も draw() で訳し直す
+      applyI18n();                                   // 案内も draw() で訳し直す(ヘッダーの select も applyI18n で合わせる)
     });
     langRow.appendChild(langLbl); langRow.appendChild(langSel);
   }
@@ -529,9 +565,9 @@ function openGuide(first){
     step.textContent = String(T('guide.step')).replace('{n}', i + 1).replace('{m}', n);
     step.setAttribute('dir', /[֐-ࣿ]/.test(step.textContent) ? 'rtl' : 'ltr');   // 「1 / 8」は右から左の言葉でも左から(ar の「8 / 1」を防ぐ)
     if(langRow){
-      langRow.style.display = (i === 0) ? '' : 'none';
+      fillLangSel(langSel);
+      langRow.style.display = (i === 0 && langSel.options.length > 1) ? '' : 'none';
       langLbl.textContent = T('set.lang');
-      langSel.value = pref.lang;
     }
     if(cRow){
       cRow.style.display = cNote.style.display = (i === 0) ? '' : 'none';
@@ -640,7 +676,11 @@ function init(){
   Tap.bind($('btn-theme'), function(){ pref.theme = next(THEMES, pref.theme); applyTheme(); savePref(); applyI18n(); });
   Tap.bind($('btn-bgm'), function(){ pref.bgm = next(BGMS, pref.bgm); applySound(true); savePref(); applyI18n(); });
   Tap.bind($('btn-sound'), function(){ pref.sound = !pref.sound; Sound.setEnabled(pref.sound); savePref(); applyI18n(); });
-  if($('set-lang')) $('set-lang').addEventListener('change', function(){ pref.lang = $('set-lang').value; savePref(); applyI18n(); });
+  if($('set-lang')) $('set-lang').addEventListener('change', function(){
+    var v = $('set-lang').value;
+    if(langsFor(pref.country).indexOf(v) < 0){ $('set-lang').value = pref.lang; return; }   // その国で選べないことばは受けない
+    pref.lang = v; savePref(); applyI18n();
+  });
   if($('set-country')) $('set-country').addEventListener('change', function(){ setCountry($('set-country').value); });
   /* 国: 国が1つだけなら その国。0.1.x から更新した人(使い方を読み終えた人)は日本のまま(SPEC_V1 第9節)。国が1つだけなら せっていの行も出さない */
   if(!pref.country){
