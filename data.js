@@ -33,7 +33,8 @@ window.KOMARI_DATA = {
   "nl",
   "ko",
   "tw",
-  "it"
+  "it",
+  "se"
  ],
  "c": {
   "jp": {
@@ -47,7 +48,8 @@ window.KOMARI_DATA = {
     "nl": "Japan",
     "ko": "일본",
     "zh": "日本",
-    "it": "Giappone"
+    "it": "Giappone",
+    "sv": "Japan"
    },
    "langs": [
     "ja",
@@ -3163,7 +3165,8 @@ window.KOMARI_DATA = {
     "nl": "Verenigde Staten",
     "ko": "미국",
     "zh": "美國",
-    "it": "Stati Uniti"
+    "it": "Stati Uniti",
+    "sv": "USA"
    },
    "langs": [
     "en"
@@ -4882,7 +4885,8 @@ window.KOMARI_DATA = {
     "nl": "Frankrijk",
     "ko": "프랑스",
     "zh": "法國",
-    "it": "Francia"
+    "it": "Francia",
+    "sv": "Frankrike"
    },
    "langs": [
     "fr",
@@ -8267,7 +8271,8 @@ window.KOMARI_DATA = {
     "nl": "Duitsland",
     "ko": "독일",
     "zh": "德國",
-    "it": "Germania"
+    "it": "Germania",
+    "sv": "Tyskland"
    },
    "langs": [
     "de",
@@ -11690,7 +11695,8 @@ window.KOMARI_DATA = {
     "nl": "Spanje",
     "ko": "스페인",
     "zh": "西班牙",
-    "it": "Spagna"
+    "it": "Spagna",
+    "sv": "Spanien"
    },
    "langs": [
     "es",
@@ -14674,7 +14680,8 @@ window.KOMARI_DATA = {
     "nl": "Nederland",
     "ko": "네덜란드",
     "zh": "荷蘭",
-    "it": "Paesi Bassi"
+    "it": "Paesi Bassi",
+    "sv": "Nederländerna"
    },
    "langs": [
     "nl",
@@ -17661,7 +17668,8 @@ window.KOMARI_DATA = {
     "nl": "Zuid-Korea",
     "ko": "한국",
     "zh": "韓國",
-    "it": "Corea del Sud"
+    "it": "Corea del Sud",
+    "sv": "Sydkorea"
    },
    "langs": [
     "ko",
@@ -20822,7 +20830,8 @@ window.KOMARI_DATA = {
     "nl": "Taiwan",
     "ko": "대만",
     "zh": "臺灣",
-    "it": "Taiwan"
+    "it": "Taiwan",
+    "sv": "Taiwan"
    },
    "langs": [
     "zh",
@@ -23783,7 +23792,8 @@ window.KOMARI_DATA = {
     "nl": "Italië",
     "ko": "이탈리아",
     "zh": "義大利",
-    "it": "Italia"
+    "it": "Italia",
+    "sv": "Italien"
    },
    "langs": [
     "it",
@@ -26783,6 +26793,3455 @@ window.KOMARI_DATA = {
        "url": "https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/a/adhd-disturbo-da-deficit-dell-attenzione-e-iperattivita.html",
        "kind": "fact",
        "upd": "25 Ottobre 2022"
+      }
+     }
+    }
+   }
+  },
+  "se": {
+   "id": "se",
+   "name": {
+    "ja": "スウェーデン",
+    "en": "Sweden",
+    "fr": "Suède",
+    "de": "Schweden",
+    "es": "Suecia",
+    "nl": "Zweden",
+    "ko": "스웨덴",
+    "zh": "瑞典",
+    "it": "Svezia",
+    "sv": "Sverige"
+   },
+   "langs": [
+    "sv",
+    "en"
+   ],
+   "main": "sv",
+   "fallback": "sv",
+   "srcLang": "sv",
+   "freeHosts": [
+    "1177.se",
+    "socialstyrelsen.se",
+    "kunskapsguiden.se",
+    "sbu.se",
+    "mfd.se",
+    "konsumentverket.se"
+   ],
+   "adaptHosts": [
+    "arbetsformedlingen.se",
+    "riksdagen.se",
+    "rkrattsbaser.gov.se"
+   ],
+   "factRef": true,
+   "ver": "2026-11-01",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "se112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "112, nödnumret",
+      "desc": "Ring 112 om ditt eller någon annans liv är i fara. Om du mår mycket dåligt och behöver akut hjälp kan du också kontakta en psykiatrisk akutmottagning. Det kostar inget att ringa 112.",
+      "hours": "",
+      "src": {
+       "org": "Region Stockholm (Hjälplinjen)",
+       "title": "Telefonrådgivning",
+       "url": "https://hjalplinjen.se/telefon",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "112 (the emergency number)",
+      "desc": "Call 112 if your life or someone else's life is in danger. If you feel very unwell and need urgent help, you can also contact a psychiatric emergency department. It is free to call 112.",
+      "hours": "",
+      "src": {
+       "org": "Region Stockholm (Hjälplinjen)",
+       "title": "Telefonrådgivning",
+       "url": "https://hjalplinjen.se/telefon",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Region Stockholm (Hjälplinjen)",
+      "title": "Telefonrådgivning",
+      "url": "https://hjalplinjen.se/telefon",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sehjalp",
+     "band": "now",
+     "tel": "90390",
+     "tel2": "020290390",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Hjälplinjen: 90390",
+      "desc": "Hjälplinjen är en nationell stödlinje för vuxna som befinner sig i en svår livssituation eller i kris, eller som har psykiska besvär. Den är till för dig som är över 18 år och drivs av Region Stockholm på uppdrag av regeringen. Folkhälsomyndigheten beskriver stödet som professionellt, anonymt och kostnadsfritt. Din telefonoperatör kan ta betalt för samtalet. Om samtalet inte kopplas fram kan du ringa 0202-90390. Stödet ges främst på svenska, men tolk kan användas vid behov.",
+      "hours": "Öppet dygnet runt, året om.",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Om du mår dåligt",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+       "kind": "fact",
+       "upd": "2025-05-06"
+      }
+     },
+     "en": {
+      "name": "Hjälplinjen: 90390 (national support line)",
+      "desc": "Hjälplinjen is a national support line for adults who are in a difficult life situation or in crisis, or who have mental health difficulties. It is for people over 18 and is run by Region Stockholm on behalf of the government. Folkhälsomyndigheten describes the support as professional, anonymous and free of charge. Your phone operator may charge for the call. If the call does not connect, you can call 0202-90390. The support is given mainly in Swedish, but an interpreter can be used when needed.",
+      "hours": "Open around the clock, all year.",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Om du mår dåligt",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+       "kind": "fact",
+       "upd": "2025-05-06"
+      }
+     },
+     "src": {
+      "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+      "title": "Om du mår dåligt",
+      "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+      "kind": "fact",
+      "upd": "2025-05-06"
+     }
+    },
+    {
+     "id": "sevald",
+     "band": "now",
+     "tel": "116016",
+     "tel2": "020505050",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Kvinnofridslinjen: 116 016, och tre andra stödlinjer",
+      "desc": "Kvinnofridslinjen, 116 016, ger stöd till den som utsatts för hot eller för fysiskt, psykiskt eller sexuellt våld. Samtalet kostar ingenting och syns inte på telefonräkningen, men det syns i samtalshistoriken i din telefon. Du kan själv ta bort det därifrån. Alla oavsett ålder kan ringa eller chatta. Du kan bara ringa från Sverige. Om du inte pratar svenska kan du be om tolk i telefon, och det kan ta en stund innan tolken kopplas in. Chatten är bara på svenska. Om du är under 18 år och berättar vem du är, var du bor och att du är i en svår situation, kan de behöva kontakta din kommun. De kontaktar inte kommunen utan att berätta det för dig först. Stödlinjen för män, 020-80 80 80, Stödlinjen för transpersoner, 020-55 00 00, och Rätt att välja, 020-57 70 70, drivs av samma centrum och är också öppna dygnet runt.",
+      "hours": "Telefonerna är öppna dygnet runt. Chatten på alla fyra är öppen måndag 15-21, tisdag 8-13, torsdag 15-21, fredag 9-16 och söndag 11-17 (svensk tid).",
+      "src": {
+       "org": "Nationellt centrum för kvinnofrid (NCK), Uppsala universitet",
+       "title": "Stöd till våldsutsatta",
+       "url": "https://www.uu.se/centrum/nck/stod-till-valdsutsatta",
+       "kind": "fact",
+       "upd": "2026-06-24"
+      }
+     },
+     "en": {
+      "name": "Kvinnofridslinjen: 116 016 (support line for people exposed to violence), and three other support lines",
+      "desc": "Kvinnofridslinjen, 116 016, gives support to people who have been exposed to threats or to physical, psychological or sexual violence. The call is free and does not show on the phone bill, but it does show in the call history on your phone. You can delete it from there yourself. People of any age can call or chat. You can only call from Sweden. If you do not speak Swedish you can ask for an interpreter on the phone, and it can take a while before the interpreter is connected. The chat is in Swedish only. If you are under 18 and tell them who you are, where you live and that you are in a difficult situation, they may need to contact your municipality (kommun). They do not contact the municipality without telling you first. Stödlinjen för män, 020-80 80 80, Stödlinjen för transpersoner, 020-55 00 00, and Rätt att välja, 020-57 70 70, are run by the same center and are also open around the clock.",
+      "hours": "The phones are open around the clock. The chat on all four lines is open Monday 15-21, Tuesday 8-13, Thursday 15-21, Friday 9-16 and Sunday 11-17 (Swedish time).",
+      "src": {
+       "org": "Nationellt centrum för kvinnofrid (NCK), Uppsala universitet",
+       "title": "Stöd till våldsutsatta",
+       "url": "https://www.uu.se/centrum/nck/stod-till-valdsutsatta",
+       "kind": "fact",
+       "upd": "2026-06-24"
+      }
+     },
+     "src": {
+      "org": "Nationellt centrum för kvinnofrid (NCK), Uppsala universitet",
+      "title": "Stöd till våldsutsatta",
+      "url": "https://www.uu.se/centrum/nck/stod-till-valdsutsatta",
+      "kind": "fact",
+      "upd": "2026-06-24"
+     }
+    },
+    {
+     "id": "senovoice",
+     "band": "now",
+     "tel": "",
+     "tel2": "0200221112",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Om du inte kan tala eller höra: sms, text och förmedlingstjänst till 112",
+      "desc": "Om du är döv, hörselskadad eller talskadad kan du registrera dig i förväg hos SOS Alarm för att kunna skicka sms till 112. Det tar några dagar efter anmälan innan tjänsten är klar att använda. Du kan också ringa 112 med realtidstext (RTT). Du behöver slå på RTT i inställningarna på telefonen. Via förmedlingstjänsten Teletal kan du nå 112 på 0200-22 11 12 utan att registrera dig, men bara under Teletals öppettider.",
+      "hours": "",
+      "src": {
+       "org": "SOS Alarm",
+       "title": "112 för tal- och hörselskadade",
+       "url": "https://www.sosalarm.se/112-och-andra-viktiga-nummer/viktiga-nummer/112/112-for-tal--och-horselskadade/",
+       "kind": "fact",
+       "upd": "13 mars 2026"
+      }
+     },
+     "en": {
+      "name": "If you cannot speak or hear: SMS, text and relay service to 112",
+      "desc": "If you are deaf, hard of hearing or speech-impaired, you can register in advance with SOS Alarm to be able to send an SMS to 112. It takes a few days after you register before the service is ready to use. You can also call 112 with real-time text (RTT). You need to turn on RTT in the settings on your phone. Through the relay service Teletal you can reach 112 on 0200-22 11 12 without registering, but only during Teletal's opening hours.",
+      "hours": "",
+      "src": {
+       "org": "SOS Alarm",
+       "title": "112 för tal- och hörselskadade",
+       "url": "https://www.sosalarm.se/112-och-andra-viktiga-nummer/viktiga-nummer/112/112-for-tal--och-horselskadade/",
+       "kind": "fact",
+       "upd": "13 mars 2026"
+      }
+     },
+     "src": {
+      "org": "SOS Alarm",
+      "title": "112 för tal- och hörselskadade",
+      "url": "https://www.sosalarm.se/112-och-andra-viktiga-nummer/viktiga-nummer/112/112-for-tal--och-horselskadade/",
+      "kind": "fact",
+      "upd": "13 mars 2026"
+     }
+    },
+    {
+     "id": "sejour",
+     "band": "now",
+     "tel": "087021680",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Jourhavande medmänniska: 08-702 16 80",
+      "desc": "Hit kan du ringa på natten om du behöver prata med någon. Det är volontärer som svarar, och i chatten svarar en människa. Du kan vara anonym. Samtalet kostar vanlig telefontaxa.",
+      "hours": "Telefon varje natt klockan 21-06. Chatt klockan 21-24 på lördagar, söndagar, måndagar och tisdagar (svensk tid).",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Ensamhet – och hur du kan bryta den",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/ensamhet/",
+       "kind": "fact",
+       "upd": "2026-01-15"
+      }
+     },
+     "en": {
+      "name": "Jourhavande medmänniska: 08-702 16 80 (night-time phone and chat)",
+      "desc": "You can call here at night if you need to talk to someone. Volunteers answer, and in the chat a person answers. You can be anonymous. The call costs the regular phone rate.",
+      "hours": "Phone every night 21-06. Chat 21-24 on Saturdays, Sundays, Mondays and Tuesdays (Swedish time).",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Ensamhet – och hur du kan bryta den",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/ensamhet/",
+       "kind": "fact",
+       "upd": "2026-01-15"
+      }
+     },
+     "src": {
+      "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+      "title": "Ensamhet – och hur du kan bryta den",
+      "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/ensamhet/",
+      "kind": "fact",
+      "upd": "2026-01-15"
+     }
+    },
+    {
+     "id": "semind",
+     "band": "now",
+     "tel": "90101",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Självmordslinjen: 90101",
+      "desc": "Självmordslinjen, 90101. Enligt Region Stockholm och Uppsala kommun är den öppen dygnet runt. Linjen drivs av föreningen Mind. De som svarar är volontärer som har fått utbildning.",
+      "hours": "",
+      "src": {
+       "org": "Region Stockholm (NASP)",
+       "title": "Hjälplinjer och stöd",
+       "url": "https://www.chis.regionstockholm.se/nasp/information-och-stod/hjalplinjer-och-stod/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Självmordslinjen: 90101 (suicide prevention line)",
+      "desc": "Självmordslinjen, 90101. According to Region Stockholm and Uppsala kommun it is open around the clock. The line is run by the association Mind. The people who answer are volunteers who have received training.",
+      "hours": "",
+      "src": {
+       "org": "Region Stockholm (NASP)",
+       "title": "Hjälplinjer och stöd",
+       "url": "https://www.chis.regionstockholm.se/nasp/information-och-stod/hjalplinjer-och-stod/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Region Stockholm (NASP)",
+      "title": "Hjälplinjer och stöd",
+      "url": "https://www.chis.regionstockholm.se/nasp/information-och-stod/hjalplinjer-och-stod/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sevc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Vårdcentral",
+      "desc": "Du kan kontakta en vårdcentral om du mår mycket dåligt, har ångest eller har känt dig nedstämd under en längre tid. Du behöver ingen remiss för att komma till en vårdcentral. Du kan visa sidan ”Det som är svårt för mig”.",
+      "hours": "",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Om du mår dåligt",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+       "kind": "fact",
+       "upd": "2025-05-06"
+      }
+     },
+     "en": {
+      "name": "Vårdcentral (health center)",
+      "desc": "You can contact a vårdcentral (health center) if you feel very unwell, have anxiety or have felt low for a long time. You do not need a referral to go to a health center. You can show the page “My worries”.",
+      "hours": "",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Om du mår dåligt",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+       "kind": "fact",
+       "upd": "2025-05-06"
+      }
+     },
+     "src": {
+      "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+      "title": "Om du mår dåligt",
+      "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+      "kind": "fact",
+      "upd": "2025-05-06"
+     }
+    },
+    {
+     "id": "sepsyk",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Psykiatrisk öppenvårdsmottagning",
+      "desc": "Du kan kontakta en psykiatrisk öppenvårdsmottagning om du mår mycket dåligt, har ångest eller har känt dig nedstämd under en längre tid. Om du behöver remiss skiljer sig mellan regionerna. Titta på 1177.se för din region eller ring 1177. Du kan visa sidan ”Det som är svårt för mig”.",
+      "hours": "",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Om du mår dåligt",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+       "kind": "fact",
+       "upd": "2025-05-06"
+      }
+     },
+     "en": {
+      "name": "Psykiatrisk öppenvårdsmottagning (psychiatric outpatient clinic)",
+      "desc": "You can contact a psychiatric outpatient clinic if you feel very unwell, have anxiety or have felt low for a long time. Whether you need a referral differs between the regions. Look at 1177.se for your region or call 1177. You can show the page “My worries”.",
+      "hours": "",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Om du mår dåligt",
+       "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+       "kind": "fact",
+       "upd": "2025-05-06"
+      }
+     },
+     "src": {
+      "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+      "title": "Om du mår dåligt",
+      "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+      "kind": "fact",
+      "upd": "2025-05-06"
+     }
+    },
+    {
+     "id": "se1177",
+     "band": "day",
+     "tel": "1177",
+     "tel2": "",
+     "url": "https://www.1177.se/",
+     "linkOk": true,
+     "sv": {
+      "name": "1177, sjukvårdsrådgivning",
+      "desc": "Du kan ringa 1177 dygnet runt. Sjuksköterskan som svarar ger råd och visar vidare till en lämplig mottagning när det behövs. Alla samtal spelas in, och samtal med rådgivning skrivs in i din journal. Uppgifter om ditt telefonnummer och vilken kommun du ringer ifrån förmedlas vidare. Samtalet kostar som ett vanligt telefonsamtal. Gäller det ett livshotande tillstånd ska du alltid ringa 112.",
+      "hours": "Dygnet runt.",
+      "src": {
+       "org": "1177 (ett samarbete mellan Sveriges regioner)",
+       "title": "När du ringer 1177",
+       "url": "https://www.1177.se/om-1177/nar-du-ringer-1177/nar-du-ringer-1177/",
+       "kind": "fact",
+       "upd": "2025-03-12"
+      }
+     },
+     "en": {
+      "name": "1177 (healthcare advice line)",
+      "desc": "You can call 1177 around the clock. The nurse who answers gives advice and points you on to a suitable clinic when needed. All calls are recorded, and calls with advice are entered in your medical record (journal). Information about your phone number and which municipality you are calling from is passed on. The call costs the same as a regular phone call. If it is a life-threatening situation, always call 112.",
+      "hours": "Around the clock.",
+      "src": {
+       "org": "1177 (ett samarbete mellan Sveriges regioner)",
+       "title": "När du ringer 1177",
+       "url": "https://www.1177.se/om-1177/nar-du-ringer-1177/nar-du-ringer-1177/",
+       "kind": "fact",
+       "upd": "2025-03-12"
+      }
+     },
+     "src": {
+      "org": "1177 (ett samarbete mellan Sveriges regioner)",
+      "title": "När du ringer 1177",
+      "url": "https://www.1177.se/om-1177/nar-du-ringer-1177/nar-du-ringer-1177/",
+      "kind": "fact",
+      "upd": "2025-03-12"
+     }
+    },
+    {
+     "id": "sebero",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.socialstyrelsen.se/stod-i-livet/skadligt-bruk-och-beroende/",
+     "linkOk": true,
+     "sv": {
+      "name": "Socialtjänsten i din kommun",
+      "desc": "Har du problem med alkohol, droger eller spel om pengar kan socialtjänsten i din kommun ge dig stöd och hjälp. Kontaktuppgifter hittar du på kommunens webbplats. Socialtjänsten arbetar ofta tillsammans med vården, till exempel vårdcentralen, psykiatrin eller en beroendemottagning. Socialtjänsten har tystnadsplikt, vilket betyder att uppgifter om dig inte lämnas ut utan ditt samtycke, om inte lagen säger något annat.",
+      "hours": "",
+      "src": {
+       "org": "Socialstyrelsen",
+       "title": "Skadligt bruk och beroende",
+       "url": "https://www.socialstyrelsen.se/stod-i-livet/skadligt-bruk-och-beroende/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Socialtjänsten (social services) in your municipality",
+      "desc": "If you have problems with alcohol, drugs or gambling for money, the social services (socialtjänsten) in your municipality can give you support and help. You can find contact details on the municipality's website. The social services often work together with healthcare, for example the health center, psychiatry or an addiction clinic. The social services are bound by professional secrecy, which means that information about you is not given out without your consent, unless the law says otherwise.",
+      "hours": "",
+      "src": {
+       "org": "Socialstyrelsen",
+       "title": "Skadligt bruk och beroende",
+       "url": "https://www.socialstyrelsen.se/stod-i-livet/skadligt-bruk-och-beroende/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Socialstyrelsen",
+      "title": "Skadligt bruk och beroende",
+      "url": "https://www.socialstyrelsen.se/stod-i-livet/skadligt-bruk-och-beroende/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sespel",
+     "band": "day",
+     "tel": "020819100",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Stödlinjen för spelare och anhöriga: 020-81 91 00",
+      "desc": "Stödlinjen är till för dig som är orolig för ditt eget eller någon annans spelande om pengar. Du kan ringa eller chatta. Det kostar ingenting och du behöver inte berätta vem du är. Du kan välja mellan svenska och engelska, och du kan be om tolk.",
+      "hours": "Måndag 9-19, tisdag 9-17, onsdag 9-17, torsdag 11-19, fredag 9-15 (svensk tid, inte på helgdagar).",
+      "src": {
+       "org": "Region Stockholm (Stödlinjen)",
+       "title": "Ett samtal med oss",
+       "url": "https://stodlinjen.se/om-oss/ett-samtal-med-oss",
+       "kind": "fact",
+       "upd": "2026-08-25"
+      }
+     },
+     "en": {
+      "name": "Stödlinjen för spelare och anhöriga: 020-81 91 00 (support line for people who gamble for money, and their relatives)",
+      "desc": "Stödlinjen is for you if you are worried about your own or someone else's gambling for money. You can call or chat. It is free and you do not have to say who you are. You can choose between Swedish and English, and you can ask for an interpreter.",
+      "hours": "Monday 9-19, Tuesday 9-17, Wednesday 9-17, Thursday 11-19, Friday 9-15 (Swedish time, not on public holidays).",
+      "src": {
+       "org": "Stödlinjen (Region Stockholm)",
+       "title": "Ett samtal med oss",
+       "url": "https://stodlinjen.se/om-oss/ett-samtal-med-oss",
+       "kind": "fact",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "Region Stockholm (Stödlinjen)",
+      "title": "Ett samtal med oss",
+      "url": "https://stodlinjen.se/om-oss/ett-samtal-med-oss",
+      "kind": "fact",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "sealko",
+     "band": "day",
+     "tel": "020844448",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Alkoholhjälpen: 020-84 44 48",
+      "desc": "Alkoholhjälpen erbjuder stöd via telefon och nätet till dig över 18 år som funderar på dina egna eller någon annans alkoholvanor. Stödet är kostnadsfritt och anonymt. De som svarar har tystnadsplikt, och de kan inte se ditt telefonnummer.",
+      "hours": "Måndag till torsdag 11-19 och fredag 11-16 (svensk tid, inte på helgdagar). Under en period på sommaren är tiderna kortare.",
+      "src": {
+       "org": "Region Stockholm (Alkoholhjälpen)",
+       "title": "Ring till oss",
+       "url": "https://alkoholhjalpen.se/linjen",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Alkoholhjälpen: 020-84 44 48 (alcohol help line)",
+      "desc": "Alkoholhjälpen offers support by phone and online to people over 18 who are thinking about their own or someone else's drinking habits. The support is free of charge and anonymous. The people who answer are bound by professional secrecy, and they cannot see your phone number.",
+      "hours": "Monday to Thursday 11-19 and Friday 11-16 (Swedish time, not on public holidays). During a period in the summer the hours are shorter.",
+      "src": {
+       "org": "Alkoholhjälpen (Beroendecentrum Stockholm, Region Stockholm)",
+       "title": "Ring till oss",
+       "url": "https://alkoholhjalpen.se/linjen",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Region Stockholm (Alkoholhjälpen)",
+      "title": "Ring till oss",
+      "url": "https://alkoholhjalpen.se/linjen",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "seaet",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Vårdcentral eller mottagning för ätstörningar",
+      "desc": "Om du är 18 år eller äldre kan du boka tid på en vårdcentral eller en psykiatrisk mottagning. Är du yngre visar 1177.se var du kan söka vård där du bor. I många regioner finns mottagningar som är inriktade på ätstörningar. Till en del av dem behövs en remiss, men på flera håll kan du kontakta dem själv.",
+      "hours": "",
+      "src": {
+       "org": "1177 (ett samarbete mellan Sveriges regioner)",
+       "title": "Ätstörningar",
+       "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/atstorningar/atstorningar/",
+       "kind": "fact",
+       "upd": "2026-10-02"
+      }
+     },
+     "en": {
+      "name": "Vårdcentral or clinic for eating disorders (mottagning för ätstörningar)",
+      "desc": "If you are 18 or older you can book an appointment at a health center (vårdcentral) or a psychiatric clinic. If you are younger, 1177.se shows where you can seek care where you live. In many regions there are clinics that focus on eating disorders. For some of them a referral is needed, but in several places you can contact them yourself.",
+      "hours": "",
+      "src": {
+       "org": "1177 (ett samarbete mellan Sveriges regioner)",
+       "title": "Ätstörningar",
+       "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/atstorningar/atstorningar/",
+       "kind": "fact",
+       "upd": "2026-10-02"
+      }
+     },
+     "src": {
+      "org": "1177 (ett samarbete mellan Sveriges regioner)",
+      "title": "Ätstörningar",
+      "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/atstorningar/atstorningar/",
+      "kind": "fact",
+      "upd": "2026-10-02"
+     }
+    },
+    {
+     "id": "sehab",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Habilitering",
+      "desc": "Habilitering är stöd till personer med en varaktig funktionsnedsättning och till deras anhöriga. I Stockholms län tar Habilitering & Hälsa emot personer med till exempel autism, intellektuell funktionsnedsättning eller rörelsenedsättning, och det finns också center med stöd vid bland annat adhd och förvärvad hjärnskada. Titta på 1177.se för vad som finns i din region.",
+      "hours": "",
+      "src": {
+       "org": "1177 (ett samarbete mellan Sveriges regioner)",
+       "title": "Habilitering i Stockholms län",
+       "url": "https://www.1177.se/Stockholm/undersokning-behandling/habilitering/habilitering-i-stockholms-lan/",
+       "kind": "fact",
+       "upd": "2026-07-17"
+      }
+     },
+     "en": {
+      "name": "Habilitering (support for people with a lasting disability)",
+      "desc": "Habilitering is support for people with a lasting disability and for their relatives. In Stockholm County, Habilitering & Hälsa receives people with, for example, autism, intellectual disability or a mobility impairment, and there are also centers with support for, among other things, ADHD and acquired brain injury. Look at 1177.se for what is available in your region.",
+      "hours": "",
+      "src": {
+       "org": "1177 (ett samarbete mellan Sveriges regioner)",
+       "title": "Habilitering i Stockholms län",
+       "url": "https://www.1177.se/Stockholm/undersokning-behandling/habilitering/habilitering-i-stockholms-lan/",
+       "kind": "fact",
+       "upd": "2026-07-17"
+      }
+     },
+     "src": {
+      "org": "1177 (ett samarbete mellan Sveriges regioner)",
+      "title": "Habilitering i Stockholms län",
+      "url": "https://www.1177.se/Stockholm/undersokning-behandling/habilitering/habilitering-i-stockholms-lan/",
+      "kind": "fact",
+      "upd": "2026-07-17"
+     }
+    },
+    {
+     "id": "seaf",
+     "band": "day",
+     "tel": "0771416416",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Arbetsförmedlingen: stöd vid funktionsnedsättning",
+      "desc": "Arbetsförmedlingen skriver att du kan ha rätt till stöd när du söker jobb, förbereder dig för arbetslivet och är på jobbet, om du har en funktionsnedsättning, en sjukdom eller någon svårighet. Du kan få stöd även om dina svårigheter saknas i listan på deras sida.",
+      "hours": "Måndag till fredag 8-16 (svensk tid).",
+      "src": {
+       "org": "Arbetsförmedlingen",
+       "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+       "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Arbetsförmedlingen (Swedish Public Employment Service): support if you have a disability",
+      "desc": "Arbetsförmedlingen writes that you can be entitled to support when you look for a job, prepare for working life and are at work, if you have a disability, an illness or some kind of difficulty. You can get support even if your difficulties are not on the list on their page.",
+      "hours": "Monday to Friday 8-16 (Swedish time).",
+      "src": {
+       "org": "Arbetsförmedlingen",
+       "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+       "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Arbetsförmedlingen",
+      "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+      "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sefk",
+     "band": "day",
+     "tel": "0771524524",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Försäkringskassan",
+      "desc": "Du kan ringa Försäkringskassans kundcenter för privatpersoner om ditt personliga ärende, till exempel om en ersättning. Du kan också kontakta dem via bildtelefon, texttelefon eller teletal, eller få hjälp på ett servicekontor.",
+      "hours": "Måndag till fredag 8-16 (svensk tid).",
+      "src": {
+       "org": "Försäkringskassan",
+       "title": "Kontakta Försäkringskassan",
+       "url": "https://www.forsakringskassan.se/kontakta-forsakringskassan",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Försäkringskassan (Swedish Social Insurance Agency)",
+      "desc": "You can call Försäkringskassan's customer center for private individuals about your personal matter, for example about a benefit. You can also contact them by video phone, text telephone or Teletal, or get help at a service office.",
+      "hours": "Monday to Friday 8-16 (Swedish time).",
+      "src": {
+       "org": "Försäkringskassan",
+       "title": "Kontakta Försäkringskassan",
+       "url": "https://www.forsakringskassan.se/kontakta-forsakringskassan",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Försäkringskassan",
+      "title": "Kontakta Försäkringskassan",
+      "url": "https://www.forsakringskassan.se/kontakta-forsakringskassan",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sedo",
+     "band": "day",
+     "tel": "081202070",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Diskrimineringsombudsmannen (DO)",
+      "desc": "DO tar emot anmälningar om diskriminering. Du kan anmäla på flera sätt, till exempel med ett formulär på webben, med en blankett eller via en förmedlingstjänst.",
+      "hours": "Måndag, tisdag, onsdag och fredag 9-15, torsdag 9-12, lunchstängt 12-13 (svensk tid, inte på röda dagar).",
+      "src": {
+       "org": "Diskrimineringsombudsmannen (DO)",
+       "title": "Kontakta oss",
+       "url": "https://www.do.se/om-do/kontakta-oss/",
+       "kind": "fact",
+       "upd": "1 oktober 2026"
+      }
+     },
+     "en": {
+      "name": "Diskrimineringsombudsmannen (DO, the Equality Ombudsman)",
+      "desc": "DO receives reports of discrimination. You can report in several ways, for example with a form on the web, with a paper form or through a relay service.",
+      "hours": "Monday, Tuesday, Wednesday and Friday 9-15, Thursday 9-12, closed for lunch 12-13 (Swedish time, not on public holidays).",
+      "src": {
+       "org": "Diskrimineringsombudsmannen (DO)",
+       "title": "Kontakta oss",
+       "url": "https://www.do.se/om-do/kontakta-oss/",
+       "kind": "fact",
+       "upd": "1 oktober 2026"
+      }
+     },
+     "src": {
+      "org": "Diskrimineringsombudsmannen (DO)",
+      "title": "Kontakta oss",
+      "url": "https://www.do.se/om-do/kontakta-oss/",
+      "kind": "fact",
+      "upd": "1 oktober 2026"
+     }
+    },
+    {
+     "id": "seimy",
+     "band": "day",
+     "tel": "086576100",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Integritetsskyddsmyndigheten (IMY)",
+      "desc": "Du kan ringa IMY:s telefonvägledning med allmänna frågor, till exempel om personuppgifter. Om någon hanterar dina personuppgifter på fel sätt kan du lämna in ett klagomål till IMY. Många ringer, så det kan vara svårt att komma fram.",
+      "hours": "Helgfria vardagar 9.30-11.30 (svensk tid).",
+      "src": {
+       "org": "Integritetsskyddsmyndigheten (IMY)",
+       "title": "Kontakta oss",
+       "url": "https://www.imy.se/om-oss/kontakta-oss/",
+       "kind": "fact",
+       "upd": "16 juli 2026"
+      }
+     },
+     "en": {
+      "name": "Integritetsskyddsmyndigheten (IMY, the Swedish Authority for Privacy Protection)",
+      "desc": "You can call IMY's telephone guidance with general questions, for example about personal data. If someone handles your personal data in the wrong way, you can file a complaint with IMY. Many people call, so it can be hard to get through.",
+      "hours": "Weekdays except public holidays 9.30-11.30 (Swedish time).",
+      "src": {
+       "org": "Integritetsskyddsmyndigheten (IMY)",
+       "title": "Kontakta oss",
+       "url": "https://www.imy.se/om-oss/kontakta-oss/",
+       "kind": "fact",
+       "upd": "16 juli 2026"
+      }
+     },
+     "src": {
+      "org": "Integritetsskyddsmyndigheten (IMY)",
+      "title": "Kontakta oss",
+      "url": "https://www.imy.se/om-oss/kontakta-oss/",
+      "kind": "fact",
+      "upd": "16 juli 2026"
+     }
+    },
+    {
+     "id": "sepat",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Patientnämnden",
+      "desc": "Har du synpunkter eller klagomål på vården kan du få hjälp av patientnämnden. Enligt lagen ska det finnas en eller flera patientnämnder i varje region och kommun, och deras huvuduppgift är att hjälpa dig att föra fram klagomål till vårdgivaren. Titta på 1177.se för din region eller ring 1177.",
+      "hours": "",
+      "src": {
+       "org": "Sveriges riksdag",
+       "title": "Lag (2017:372) om stöd vid klagomål mot hälso- och sjukvården, 1 och 2 §§ (lydelse t.o.m. SFS 2025:448)",
+       "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2017372-om-stod-vid-klagomal-mot-halso-och_sfs-2017-372/",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Patientnämnden (board for complaints about healthcare)",
+      "desc": "If you have views or complaints about healthcare, you can get help from Patientnämnden. According to the law there must be one or more such boards (patientnämnder) in every region and municipality, and their main task is to help you bring your complaint to the care provider. Look at 1177.se for your region or call 1177.",
+      "hours": "",
+      "src": {
+       "org": "Sveriges riksdag",
+       "title": "Lag (2017:372) om stöd vid klagomål mot hälso- och sjukvården, 1 och 2 §§ (lydelse t.o.m. SFS 2025:448)",
+       "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2017372-om-stod-vid-klagomal-mot-halso-och_sfs-2017-372/",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Sveriges riksdag",
+      "title": "Lag (2017:372) om stöd vid klagomål mot hälso- och sjukvården, 1 och 2 §§ (lydelse t.o.m. SFS 2025:448)",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2017372-om-stod-vid-klagomal-mot-halso-och_sfs-2017-372/",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "serh",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Rådgivning enligt rättshjälpslagen",
+      "desc": "Hos advokatbyråer och juridiska byråer kan du få råd enligt rättshjälpslagen. Du betalar själv en fast avgift, men för den som är ung eller har låg inkomst kan staten stå för hela eller en del av avgiften. Byråerna måste inte erbjuda den här rådgivningen, så fråga när du bokar tid.",
+      "hours": "",
+      "src": {
+       "org": "Sveriges Domstolar",
+       "title": "Rådgivning enligt rättshjälpslagen",
+       "url": "https://www.domstol.se/amnen/rattshjalp/vad-ar-rattshjalp-och-radgivning/radgivning-enligt-rattshjalpslagen/",
+       "kind": "fact",
+       "upd": "2026-01-02"
+      }
+     },
+     "en": {
+      "name": "Advice under the legal aid act (rådgivning enligt rättshjälpslagen)",
+      "desc": "At law firms and legal offices you can get advice under the legal aid act (rättshjälpslagen). You pay a fixed fee yourself, but for someone who is young or has a low income the state can pay all or part of the fee. The firms do not have to offer this advice, so ask when you book an appointment.",
+      "hours": "",
+      "src": {
+       "org": "Sveriges Domstolar",
+       "title": "Rådgivning enligt rättshjälpslagen",
+       "url": "https://www.domstol.se/amnen/rattshjalp/vad-ar-rattshjalp-och-radgivning/radgivning-enligt-rattshjalpslagen/",
+       "kind": "fact",
+       "upd": "2026-01-02"
+      }
+     },
+     "src": {
+      "org": "Sveriges Domstolar",
+      "title": "Rådgivning enligt rättshjälpslagen",
+      "url": "https://www.domstol.se/amnen/rattshjalp/vad-ar-rattshjalp-och-radgivning/radgivning-enligt-rattshjalpslagen/",
+      "kind": "fact",
+      "upd": "2026-01-02"
+     }
+    },
+    {
+     "id": "sedrog",
+     "band": "day",
+     "tel": "020919191",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Droghjälpen: 020-91 91 91",
+      "desc": "Droghjälpen erbjuder stöd via telefon och nätet till dig som funderar på din egen eller någon annans droganvändning. Region Stockholm skriver att stödlinjerna är till för dig över 18 år och dina anhöriga, att du kan vara anonym och att du får stöd av professionella rådgivare. Stödet är kostnadsfritt.",
+      "hours": "Helgfria måndagar och torsdagar 9-16 (svensk tid).",
+      "src": {
+       "org": "Region Stockholm",
+       "title": "Beroendemottagningar i Region Stockholms egen regi",
+       "url": "https://vard.regionstockholm.se/mottagning/beroendemottagningar/",
+       "kind": "fact",
+       "upd": "4 augusti 2026"
+      }
+     },
+     "en": {
+      "name": "Droghjälpen: 020-91 91 91 (drug help line)",
+      "desc": "Droghjälpen offers support by phone and online to people who are thinking about their own or someone else's drug use. Region Stockholm writes that the support lines are for people over 18 and their relatives, that you can be anonymous and that you get support from professional advisers. The support is free of charge.",
+      "hours": "Mondays and Thursdays 9-16, except public holidays (Swedish time).",
+      "src": {
+       "org": "Region Stockholm",
+       "title": "Beroendemottagningar i Region Stockholms egen regi",
+       "url": "https://vard.regionstockholm.se/mottagning/beroendemottagningar/",
+       "kind": "fact",
+       "upd": "4 augusti 2026"
+      }
+     },
+     "src": {
+      "org": "Region Stockholm",
+      "title": "Beroendemottagningar i Region Stockholms egen regi",
+      "url": "https://vard.regionstockholm.se/mottagning/beroendemottagningar/",
+      "kind": "fact",
+      "upd": "4 augusti 2026"
+     }
+    },
+    {
+     "id": "serok",
+     "band": "day",
+     "tel": "020840000",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sv": {
+      "name": "Sluta-röka-linjen: 020-84 00 00",
+      "desc": "Sluta-röka-linjen är en kostnadsfri stödlinje för dig som funderar på att sluta röka eller snusa. Du kan prata med dem i telefon eller chatta. Du behöver inte berätta vem du är.",
+      "hours": "Måndag till torsdag 10-18 och fredag 10-15 (svensk tid).",
+      "src": {
+       "org": "Region Stockholm (Sluta-röka-linjen)",
+       "title": "Om oss",
+       "url": "https://www.slutarokalinjen.se/om-oss/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Sluta-röka-linjen: 020-84 00 00 (quit-smoking line)",
+      "desc": "Sluta-röka-linjen is a free support line for people who are thinking about quitting smoking or using snus (Swedish moist snuff). You can talk to them by phone or chat. You do not have to say who you are.",
+      "hours": "Monday to Thursday 10-18 and Friday 10-15 (Swedish time).",
+      "src": {
+       "org": "Region Stockholm (Sluta-röka-linjen)",
+       "title": "Om oss",
+       "url": "https://www.slutarokalinjen.se/om-oss/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Region Stockholm (Sluta-röka-linjen)",
+      "title": "Om oss",
+      "url": "https://www.slutarokalinjen.se/om-oss/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "sv": {
+    "groups": {
+     "mood": {
+      "label": "Nedstämd, utan ork",
+      "lead": "Humöret är nere länge och orken räcker inte till någonting.",
+      "scenes": [
+       "Jag känner mig nedstämd från morgon till kväll.",
+       "Sådant som jag tidigare tyckte om att göra ger mig ingen glädje längre.",
+       "Jag har ingen ork och kan inte koncentrera mig, så jobbet och sysslorna hemma blir liggande.",
+       "Jag lägger skulden på mig själv och ser det mesta från den mörka sidan.",
+       "På natten kan jag inte sova, eller så sover jag för mycket. Jag har dålig matlust och kroppen känns tung.",
+       "Ibland vill jag bara försvinna, eller inte finnas längre."
+      ],
+      "asks": [
+       "Det hjälper mig om jag får veta vad jag ska göra, en sak i taget.",
+       "Jag behöver tid att tänka. Det hjälper mig om det inte är bråttom att svara eller bestämma.",
+       "Det hjälper mig att få viktiga saker skrivna på papper.",
+       "Innan någon säger ”Ryck upp dig!” hjälper det mig om någon lyssnar på mig först.",
+       "Jag vill inte att vila ska ses som lathet.",
+       "Det hjälper mig om vi tillsammans kollar om en kroppslig sjukdom eller ett läkemedel som jag tar kan ha med saken att göra."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Kroppsliga sjukdomar som kan ge besvär som liknar depression",
+        "why": "Sidan beskriver att även sjukdomar i kroppen, till exempel för mycket eller för lite sköldkörtelhormon eller blodbrist, kan ge besvär som liknar dem vid depression. Därför gör läkaren ofta en undersökning av kroppen också.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Depression",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/",
+         "kind": "fact",
+         "upd": "2025-01-15"
+        }
+       },
+       {
+        "name": "Hypotyreos (för lite sköldkörtelhormon)",
+        "why": "Sidan beskriver hypotyreos, när kroppen får för lite sköldkörtelhormon. Då kan man till exempel känna sig trött, frysa lätt och bli nedstämd.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypotyreos – brist på sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypotyreos--brist-pa-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Sömnbrist och sömnproblem",
+        "why": "Sidan beskriver att dålig sömn under en längre tid kan ge sämre humör och mindre ork.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Alkohol och droger",
+        "why": "Sidan beskriver att alkohol och droger kan kännas bättre för stunden, men att de brukar göra de tunga känslorna starkare på sikt.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Nedstämdhet",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2023-10-20"
+        }
+       },
+       {
+        "name": "Stress",
+        "why": "Sidan beskriver att humöret kan gå ner av orsaker i kroppen, till exempel stress eller för lite sömn.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Nedstämdhet",
+         "url": "https://www.1177.se/liv--halsa/psykisk-halsa/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Utmattningssyndrom",
+        "why": "Sidan beskriver utmattningssyndrom som något som kan komma efter svår stress när man inte har fått tillräckligt med återhämtning. Humöret kan också gå ner när arbetet, studierna eller vardagen inte fungerar som vanligt.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Utmattningssyndrom",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/utmattningssyndrom/",
+         "kind": "fact",
+         "upd": "2023-03-31"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Sidan beskriver depression som att man är nedstämd under en lång tid och inte ens har lust att göra sådant man annars gillar.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Bipolär sjukdom",
+        "why": "Sidan beskriver att humöret vid bipolär sjukdom kan gå mycket upp och mycket ner i olika perioder.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Bipolär sjukdom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/bipolar-sjukdom/",
+         "kind": "fact",
+         "upd": "2024-03-15"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mycket oro eller spänning",
+      "lead": "Oron slutar inte, hjärtat slår hårt och det är svårt att vara still, eller det är svårt att vara bland folk eller gå hemifrån.",
+      "scenes": [
+       "När jag ska prata inför andra eller är i centrum för uppmärksamheten får jag så mycket ångest att jag blir alldeles tom i huvudet.",
+       "Plötsligt börjar hjärtat slå hårt och jag får svårt att andas. Jag är rädd för att det ska hända igen, och det blir svårt att gå hemifrån.",
+       "Jag oroar mig för det ena efter det andra, även utan någon tydlig anledning. Jag är rastlös och blir helt slutkörd av det.",
+       "Platser där det är svårt att ta sig därifrån är jobbiga för mig, till exempel tåg och bussar, hissar, stora affärer och ställen med mycket folk. Att gå ut utan sällskap är också svårt, så jag undviker det.",
+       "Eftersom jag undviker det som gör mig orolig går jag till färre och färre platser och träffar färre människor. Min värld har blivit mindre.",
+       "Oron släpper inte taget om mig, och på natten kan jag inte somna."
+      ],
+      "asks": [
+       "Det hjälper mig om jag får tid att prata, utan att någon har bråttom.",
+       "Det hjälper mig att veta i förväg hur upplägget ser ut och hur mötet går till.",
+       "Jag vill helst inte bli tillfrågad om min åsikt inför andra utan förvarning. Det hjälper mig att också få svara skriftligt.",
+       "Om jag mår dåligt hjälper det mig att få gå ut en stund och vila.",
+       "Jag vill helst prata på en lugn plats med få personer.",
+       "Innan någon säger att jag oroar mig för mycket hjälper det mig om någon först lyssnar på vad som är svårt för mig."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypertyreos (för mycket sköldkörtelhormon)",
+        "why": "Sidan beskriver hypertyreos, när kroppen får för mycket sköldkörtelhormon. Det kan också påverka känslorna, så att man känner oro och ångest eller blir irriterad lättare.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Hjärtklappning",
+        "why": "Sidan beskriver hjärtklappning, när hjärtat slår extra slag eller fort under en kort stund. Rädsla och stress kan också få hjärtat att slå fortare.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hjärtklappning",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarta-och-blodkarl/hjartrytm/hjartklappning/",
+         "kind": "fact",
+         "upd": "2022-10-24"
+        }
+       },
+       {
+        "name": "Koffein och nikotin",
+        "why": "Sidan beskriver att koffein och nikotin kan göra ångesten starkare och sömnen sämre.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Ångest",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/angest--starka-kanslor-av-oro/",
+         "kind": "fact",
+         "upd": "2025-12-16"
+        }
+       },
+       {
+        "name": "Alkohol",
+        "why": "Sidan beskriver att alkohol kan bidra till oro och ångest och till att man sover sämre.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Alkohol är en riskfaktor för psykisk ohälsa",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/alkohol/",
+         "kind": "fact",
+         "upd": "2022-01-09"
+        }
+       },
+       {
+        "name": "Sömnsvårigheter",
+        "why": "Sidan beskriver att oro och ångest kan göra det svårt att sova.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Generaliserat ångestsyndrom (GAD)",
+        "why": "Sidan beskriver att GAD ofta innebär ångest, oro och rastlöshet, och att man kan känna sig spänd eller lättirriterad.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Generaliserat ångestsyndrom – GAD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/generaliserat-angestsyndrom---gad/",
+         "kind": "fact",
+         "upd": "2022-07-15"
+        }
+       },
+       {
+        "name": "Paniksyndrom",
+        "why": "Sidan beskriver paniksyndrom som återkommande panikattacker och en rädsla för att en ny attack ska komma. Av den rädslan kan man börja hålla sig borta från vissa platser eller situationer.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Paniksyndrom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/paniksyndrom/",
+         "kind": "fact",
+         "upd": "2022-09-29"
+        }
+       },
+       {
+        "name": "Social ångest",
+        "why": "Sidan beskriver social ångest som när det känns mycket obehagligt att vara med andra i vissa lägen, till exempel av oro för att bli granskad eller göra bort sig.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Social ångest",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/social-angest/",
+         "kind": "fact",
+         "upd": "2022-07-14"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Svårt att sluta kontrollera eller upprepa saker",
+      "lead": "Man kontrollerar ytterdörren eller spisen flera gånger eller tvättar händerna ofta: samma saker upprepas och det är svårt att sluta, även när man vill.",
+      "scenes": [
+       "När jag går hemifrån måste jag kontrollera ytterdörren och spisen om och om igen. Annars kan jag inte gå med lugnt sinne.",
+       "Jag tvättar händerna eller duschar allt oftare och kan inte sluta, även när jag vill.",
+       "Samma oro dyker upp i huvudet gång på gång, och jag kan inte sluta tänka på den fast jag vill.",
+       "Om saker inte står eller görs i den ordning jag har bestämt blir jag orolig och rättar till eller gör om dem.",
+       "Kontrollerandet tar så lång tid att jag kommer hemifrån för sent eller inte hinner i tid till möten och jobbet.",
+       "Kroppen rör sig eller ljud kommer ur mig utan att jag vill det, och det är svårt att hejda även när jag försöker."
+      ],
+      "asks": [
+       "Innan någon säger att jag oroar mig för mycket hjälper det mig om någon lyssnar först.",
+       "Det tar tid för mig att kontrollera saker, så det hjälper mig att ha lite extra tid.",
+       "Jag vill gärna få veta i förväg när planer eller rutiner ändras.",
+       "Jag vill inte att någon pekar ut mig eller skrattar åt mig inför andra när jag kontrollerar något eller tvättar händerna.",
+       "Det hjälper mig om förklaringar och anvisningar ges en i taget och skriftligt.",
+       "Innan vi bestämmer hur vi ska gå vidare vill jag att någon lyssnar på det jag oroar mig för, och att vi tar det lugnt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "OCD (tvångssyndrom)",
+        "why": "Sidan beskriver tvångssyndrom med tvångstankar och tvångshandlingar, till exempel att man kollar spisen fast man redan har gjort det, eller tvättar händerna länge och ofta. Med tiden kan det bli svårt att sluta.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "OCD – Tvångssyndrom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/ocd--tvangssyndrom/",
+         "kind": "fact",
+         "upd": "2025-01-31"
+        }
+       },
+       {
+        "name": "Generaliserat ångestsyndrom (GAD)",
+        "why": "Sidan beskriver att oron vid GAD kan göra att man frågar och dubbelkollar mycket och förbereder sig mer än man behöver, till exempel inför en resa.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Generaliserat ångestsyndrom – GAD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/generaliserat-angestsyndrom---gad/",
+         "kind": "fact",
+         "upd": "2022-07-15"
+        }
+       },
+       {
+        "name": "Tics",
+        "why": "Sidan beskriver tics som ljud eller rörelser som kommer plötsligt och som kan vara svåra att stoppa, och att man kan ha tics även som vuxen.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Tics",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/nerver/tics/",
+         "kind": "fact",
+         "upd": "2022-09-08"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "Sidan beskriver att man med autism kan ha upprepade mönster i det man gör och i det man är intresserad av.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Det här är autism",
+         "url": "https://www.autismforum.se/om-autism/det-har-ar-autism/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "En svår upplevelse fortsätter att tynga mig",
+      "lead": "Efter en svår upplevelse kommer minnet ofta tillbaka, sömnen blir dålig eller det är svårt att slappna av.",
+      "scenes": [
+       "En liten sak kan plötsligt få bilderna och känslorna från den svåra tiden att komma tillbaka.",
+       "Jag har ofta liknande mardrömmar, och många nätter sover jag inte djupt.",
+       "Jag är alltid på helspänn, och även ett litet ljud eller en liten händelse får mig att rycka till.",
+       "Jag undviker platser, människor och samtalsämnen som påminner om det som hände, och mitt liv har blivit allt mer begränsat.",
+       "Det är som om något inom mig har stängts av. Jag kan inte längre känna för min familj och mina vänner som jag gjorde förut.",
+       "Jag klandrar mig själv mer och mer, eller har svårare att lita på människorna omkring mig."
+      ],
+      "asks": [
+       "Det hjälper mig om ingen frågar efter varje detalj av det som hände. Jag vill berätta i min egen takt, och bara så mycket som jag orkar.",
+       "Vissa ljud, platser och samtalsämnen för allt tillbaka. Det hjälper mig om det accepteras när jag säger att jag helst undviker dem.",
+       "Det hjälper mig om ingen tilltalar mig plötsligt bakifrån och om höga ljud undviks nära mig.",
+       "När det är för svårt att prata vill jag gärna kunna lämna över något som jag har skrivit.",
+       "Vissa nätter sover jag inte, och vissa dagar sitter tröttheten kvar. Jag vill inte att det tas för lathet.",
+       "Det hjälper mig om ingen skyndar på mig med ”Försök glömma det” eller ”Nu måste du gå vidare”, och om det finns en plats där jag kan prata i lugn och ro."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Akut stressreaktion",
+        "why": "Sidan, som vänder sig till vårdpersonal, beskriver att många som har utsatts för sexuellt våld får en akut stressreaktion.",
+        "src": {
+         "org": "Nationellt centrum för kvinnofrid (NCK), Uppsala universitet",
+         "title": "Fysiska och psykiska konsekvenser av sexuellt våld",
+         "url": "https://www.uu.se/centrum/nck/for-yrkesverksamma/webbstodforvarden/omhandertagande-och-sparsakring/fysiska-och-psykiska-konsekvenser-av-sexuellt-vald",
+         "kind": "fact",
+         "upd": "2026-10-15"
+        }
+       },
+       {
+        "name": "Posttraumatiskt stressyndrom (PTSD)",
+        "why": "Sidan tar upp att besvären efter en skrämmande eller livshotande händelse hos en del inte släpper med tiden, utan fortsätter att påverka vardagen.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Posttraumatiskt stressyndrom, PTSD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/posttraumatiskt-stressyndrom-ptsd/",
+         "kind": "fact",
+         "upd": "2022-03-08"
+        }
+       },
+       {
+        "name": "Kris",
+        "why": "Sidan beskriver en kris som en reaktion när något oväntat har hänt, till exempel en olycka eller ett brott.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Att hamna i kris",
+         "url": "https://www.1177.se/liv--halsa/psykisk-halsa/att-hamna-i-kris/",
+         "kind": "fact",
+         "upd": "2026-02-11"
+        }
+       },
+       {
+        "name": "Nedstämdhet (efter en svår händelse)",
+        "why": "Sidan beskriver att man kan känna sig nedstämd efter något allvarligt eller jobbigt, till exempel när en nära anhörig blir sjuk eller dör.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Nedstämdhet",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2023-10-20"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Svårigheter med sömnen",
+      "lead": "Det är svårt att somna, man vaknar på natten, det är svårt att komma upp på morgonen eller man är mycket sömnig på dagen.",
+      "scenes": [
+       "Jag ligger i sängen men har svårt att somna.",
+       "Jag vaknar många gånger under natten och sover inte djupt hela natten.",
+       "Jag kan inte gå upp när det är dags på morgonen, och jag kommer ofta för sent till jobbet eller skolan.",
+       "På dagarna blir jag väldigt sömnig och håller på att somna på möten eller när jag kör bil.",
+       "Mina anhöriga säger att jag snarkar högt och att det låter som att jag slutar andas när jag sover.",
+       "På kvällen och natten pirrar och kryper det i benen så att jag inte kan vara still, och då kan jag inte sova."
+      ],
+      "asks": [
+       "Det hjälper mig om det finns tid att fråga om hur jag sover, till exempel hur jag somnar, om jag vaknar på natten, hur svårt det är att gå upp på morgonen och hur sömnig jag är på dagen.",
+       "Jag vill gärna att vi går igenom de läkemedel jag tar och mina vanor med kaffe, energidryck, alkohol, tobak eller snus, så att vi kan fundera på orsaken tillsammans.",
+       "Det hjälper mig om svårigheterna inte avfärdas som en fråga om inställning, och om både kroppen och måendet tas med.",
+       "Jag har skrivit upp när jag lägger mig och när jag går upp. Jag vill gärna att anteckningarna tas med.",
+       "Om läkemedel kommer på tal vill jag gärna få en tydlig förklaring av hur de verkar och vad man behöver tänka på.",
+       "Jag har svårt med morgnarna. Det är lättare för mig om jag kan få en tid på eftermiddagen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomni (sömnproblem som återkommer)",
+        "why": "Sidan tar upp att en del med återkommande sömnproblem kan få namnet insomni. Det kan handla om att ha svårt att somna, att vakna ofta under natten eller att vakna för tidigt.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Obstruktiv sömnapné",
+        "why": "Namnet gäller andningsuppehåll under sömnen. Sidan beskriver att sömnen blir störd, så att man ofta är trött på dagarna.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Obstruktiv sömnapné",
+         "url": "https://www.1177.se/sjukdomar--besvar/lungor-och-luftvagar/andningssvarigheter-och-andningsuppehall/obstruktiv-somnapne/",
+         "kind": "fact",
+         "upd": "2026-10-07"
+        }
+       },
+       {
+        "name": "Willis-Ekboms sjukdom (restless legs)",
+        "why": "Sidan beskriver obehag i benen, som pirrningar och krypningar, när man har varit stilla länge. Det kan märkas på natten i sängen.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Willis-Ekboms sjukdom - restless legs",
+         "url": "https://www.1177.se/sjukdomar--besvar/skelett-leder-och-muskler/ben-och-fotter/willis-ekboms-sjukdom---restless-legs/",
+         "kind": "fact",
+         "upd": "2023-02-02"
+        }
+       },
+       {
+        "name": "Dygnsrytmen ur balans (olika sovtider)",
+        "why": "Sidan tar upp att dygnsrytmen kan rubbas om man sover på mycket olika tider, till exempel längre på helgerna än på vardagarna.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Kroppsliga sjukdomar och smärta",
+        "why": "Sidan nämner kroppsliga sjukdomar och besvär som kan störa sömnen, till exempel värk i lederna, kramp och smärta.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Koffein, nikotin och alkohol",
+        "why": "Sidan tar upp att alkohol kan göra det lättare att somna men ger en sämre sömn under natten, och att även koffein och nikotin kan påverka sömnen.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Klimakteriet (när hormonerna förändras)",
+        "why": "Under klimakteriet kan svettningar och värmevallningar på natten störa sömnen.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Klimakteriet och psykisk hälsa",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/klimakteriet-och-psykisk-halsa/",
+         "kind": "fact",
+         "upd": "2024-10-18"
+        }
+       },
+       {
+        "name": "Depression och ångest",
+        "why": "Sidan tar upp att sömnen ofta påverkas när man mår dåligt psykiskt, och nämner depression och ångest bland exemplen.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "se1177",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Svårigheter med maten",
+      "lead": "Det har blivit svårt att äta: man äter väldigt lite, kan inte sluta, eller maten känns skrämmande.",
+      "scenes": [
+       "Jag har ingen lust att äta, och det har varit svårt att få ner mat under en längre tid.",
+       "När jag har börjat äta kan jag inte stoppa mig själv, och ibland äter jag så mycket att det gör ont.",
+       "Innan jag vet ordet av tänker jag bara på mat, och det är svårt att koncentrera mig på något annat.",
+       "Det jag kan äta är mycket begränsat, och jag undviker många maträtter för att smaken, lukten eller konsistensen känns så obehaglig.",
+       "Sedan jag en gång satte i halsen eller kräktes har jag blivit rädd för att äta.",
+       "På natten äter jag ibland halvsovande, och på morgonen minns jag det inte."
+      ],
+      "asks": [
+       "Det hjälper mig om ingen kommenterar min kropp eller min vikt.",
+       "Det hjälper mig om jag inte tvingas eller skyndas på att äta.",
+       "Det hjälper mig om jag kan välja en annan plats eller tid än fikat och gemensamma luncher på jobbet.",
+       "Jag vill gärna bli tillfrågad i förväg om vad jag kan äta och vilka lukter och konsistenser jag har svårt för.",
+       "Det hjälper mig om det i förväg förklaras hur en undersökning går till.",
+       "Det som är svårt att säga vill jag gärna få skriva på ett papper och lämna över."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypertyreos (för mycket sköldkörtelhormon)",
+        "why": "Sidan tar upp att man kan gå ner i vikt när sköldkörteln tillverkar för mycket hormon. Det är ett exempel på en kroppslig orsak till att vikten förändras.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Ätstörningar",
+        "why": "Namnet är ett samlingsnamn för flera tillstånd som hänger ihop med mat, vikt och hur man ser på sin kropp. Sidan beskriver att tankarna då kretsar mycket kring mat, kropp, vikt och träning.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Ätstörningar",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/atstorningar/",
+         "kind": "fact",
+         "upd": "2025-09-04"
+        }
+       },
+       {
+        "name": "ARFID (undvikande eller restriktiv ätstörning)",
+        "why": "Sidan förklarar att man vid ARFID ofta äter både lite och av få sorters mat, men inte för att man är missnöjd med sin kropp. Det kan till exempel bero på att lusten att äta saknas, att maten känns obehaglig eller att man är rädd att något ska fastna i halsen.",
+        "src": {
+         "org": "Socialstyrelsen",
+         "title": "Rekommendationer om ARFID – undvikande och restriktiv ätstörning",
+         "url": "https://www.socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/nationella-riktlinjer/nationella-riktlinjer-atstorningar/rekommendationer/oversikt-arfid--undvikande-och-restriktiv-atstorning/",
+         "kind": "fact",
+         "upd": "2025-01-30"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Sidan tar upp att aptiten kan minska eller öka vid depression.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "Sidan tar upp att mat och ätande kan vara svårt vid autism, till exempel när en viss konsistens känns obehaglig eller när det är jobbigt att äta tillsammans med andra.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Mat och ätande",
+         "url": "https://www.autismforum.se/stod-och-insatser/fungera-i-vardagen/mat-och-atande/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "seaet",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Svårt att sluta med alkohol, spel om pengar eller datorspel",
+      "lead": "Man vill sluta eller dra ner, men fortsätter ändå.",
+      "scenes": [
+       "Även när jag har bestämt mig för att sluta eller dra ner märker jag att jag håller på igen.",
+       "Jag klarar inte av att hålla mig till den tid, mängd eller summa pengar som jag har bestämt, till exempel ”bara så här mycket i dag”.",
+       "Jag döljer eller slätar över hur mycket jag dricker, spelar om pengar eller spelar datorspel och mobilspel inför människor som står mig nära.",
+       "Jag spelar datorspel och mobilspel långt in på natten, kommer inte upp på morgonen och kommer oftare för sent eller är frånvarande.",
+       "Jag spelar igen för att vinna tillbaka det jag har förlorat.",
+       "Jag vet att kroppen inte mår bra, men jag kan ändå inte dricka mindre."
+      ],
+      "asks": [
+       "Det hjälper mig om jag först blir lyssnad på, utan att bli skuldbelagd eller dömd.",
+       "Jag vill gärna att vi tillsammans går igenom hur det ser ut just nu och vilka svårigheter det ger, steg för steg.",
+       "Det hjälper mig om även sömnen och hur kroppen mår tas med.",
+       "Jag vill gärna få konkreta besked om vart jag kan vända mig och vilka platser jag kan gå till.",
+       "Jag vill gärna veta om mina anhöriga också kan få prata med någon.",
+       "Jag vill gärna att vi först går igenom vem som får veta vad av det jag berättar, och hur mycket."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alkoholberoende",
+        "why": "Sidan tar upp att den som har fått ett beroende av alkohol kan ha svårt att sluta eller minska på drickandet.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Alkoholberoende",
+         "url": "https://www.1177.se/sjukdomar--besvar/beroende-och-skadligt-bruk/alkoholberoende/",
+         "kind": "fact",
+         "upd": "2023-10-05"
+        }
+       },
+       {
+        "name": "Spelproblem (spel om pengar)",
+        "why": "Sidan beskriver att spelproblem kan påverka både relationer, ekonomi och måendet, och att det ofta känns skamfyllt att prata om.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Spel om pengar och kopplingen till psykisk hälsa",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/spel-om-pengar/",
+         "kind": "fact",
+         "upd": "2023-08-28"
+        }
+       },
+       {
+        "name": "Dataspelsberoende",
+        "why": "Sidan förklarar att beroende av datorspel och onlinespel räknas som ett eget namn i det internationella systemet för att klassificera sjukdomar. Den tar också upp att mycket datorspelande kan påverka sömnen och relationer till andra.",
+        "src": {
+         "org": "Folkhälsomyndigheten",
+         "title": "Samband mellan dataspel och spel om pengar",
+         "url": "https://www.folkhalsomyndigheten.se/spelprevention/om-spelproblem/samband-mellan-dataspel-och-spel-om-pengar/",
+         "kind": "fact",
+         "upd": "8 oktober 2026"
+        }
+       },
+       {
+        "name": "Depression och ångest",
+        "why": "Sidan nämner depression och ångest som exempel på psykisk ohälsa som har ett samband med datorspelande.",
+        "src": {
+         "org": "Folkhälsomyndigheten",
+         "title": "Samband mellan dataspel och spel om pengar",
+         "url": "https://www.folkhalsomyndigheten.se/spelprevention/om-spelproblem/samband-mellan-dataspel-och-spel-om-pengar/",
+         "kind": "fact",
+         "upd": "8 oktober 2026"
+        }
+       },
+       {
+        "name": "Adhd",
+        "why": "Sidan tar upp att personer med adhd ofta lägger mycket tid på datorspel.",
+        "src": {
+         "org": "Folkhälsomyndigheten",
+         "title": "Samband mellan dataspel och spel om pengar",
+         "url": "https://www.folkhalsomyndigheten.se/spelprevention/om-spelproblem/samband-mellan-dataspel-och-spel-om-pengar/",
+         "kind": "fact",
+         "upd": "8 oktober 2026"
+        }
+       }
+      ],
+      "windows": [
+       "sebero",
+       "sespel",
+       "sealko",
+       "sevc",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Svårigheter med uppmärksamhet eller att organisera",
+      "lead": "Det är svårt att koncentrera sig, göra saker i rätt ordning eller komma ihåg dem.",
+      "scenes": [
+       "Även när någon pratar med mig tänker jag plötsligt på något annat.",
+       "Jag har svårt att göra jobbet eller hushållsarbetet i rätt ordning, och jag missar tidsgränser.",
+       "Jag kommer ofta inte ihåg vad jag har blivit ombedd att göra eller vad jag har lovat, eller så tappar jag bort saker.",
+       "Om jag håller på med samma uppgift länge blir det fler slarvfel.",
+       "När jag måste sitta still en stund blir jag rastlös och har svårt att vara lugn.",
+       "Människor i min omgivning säger att jag ofta glömmer saker eller kommer för sent."
+      ],
+      "asks": [
+       "Det hjälper mig om jag får en instruktion i taget.",
+       "Det hjälper mig om viktiga saker skrivs ner och ges till mig.",
+       "Det hjälper mig om jag får veta tidsgränser och överenskommelser i god tid.",
+       "Det hjälper mig om jag inte får många uppgifter på en gång utan i små delar.",
+       "Jag vill gärna prata på en lugn plats där jag blir mindre störd.",
+       "Det hjälper mig om det jag har klarat uppmärksammas och jag slipper klander för det jag inte klarade."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sömnbrist",
+        "why": "Att sova dåligt under en längre tid kan göra det svårare att koncentrera sig och ge mindre ork.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Obstruktiv sömnapné",
+        "why": "Sidan beskriver att korta pauser i andningen under sömnen gör att man sover sämre. Det kan göra en trött på dagen och ibland ge sämre koncentration.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Obstruktiv sömnapné",
+         "url": "https://www.1177.se/sjukdomar--besvar/lungor-och-luftvagar/andningssvarigheter-och-andningsuppehall/obstruktiv-somnapne/",
+         "kind": "fact",
+         "upd": "2026-10-07"
+        }
+       },
+       {
+        "name": "Hypertyreos (för mycket sköldkörtelhormon)",
+        "why": "Sidan beskriver att för mycket sköldkörtelhormon hos en del kan göra att tankearbete tröttar ut fortare och att det blir svårare att fokusera.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Järnbrist",
+        "why": "Sidan beskriver att för lite järn i kroppen kan ge trötthet och sämre koncentration, även när blodvärdet inte är lågt.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Brist på järn",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarta-och-blodkarl/blodsjukdomar/blodbrist-pa-grund-av-for-lite-jarn/",
+         "kind": "fact",
+         "upd": "2022-04-21"
+        }
+       },
+       {
+        "name": "Utmattningssyndrom och stress",
+        "why": "Sidan beskriver att stress utan paus kan göra det svårt att koncentrera sig, och att långvarig stress kan leda till utmattningssyndrom.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Stress",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/stress/",
+         "kind": "fact",
+         "upd": "2023-02-28"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Sidan beskriver depression som att man länge är nedstämd och inte har lust till sådant man annars tycker om. Den nämner också att det kan bli svårare att koncentrera sig.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Generaliserat ångestsyndrom (GAD)",
+        "why": "Sidan beskriver att oro som håller i sig hela tiden kan försämra koncentrationen.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Generaliserat ångestsyndrom – GAD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/generaliserat-angestsyndrom---gad/",
+         "kind": "fact",
+         "upd": "2022-07-15"
+        }
+       },
+       {
+        "name": "Adhd",
+        "why": "Sidan beskriver adhd som en funktionsnedsättning som gör det svårt att hålla koncentrationen, och ibland också att vara stilla eller styra sina impulser.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Adhd",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/neuropsykiatriska-funktionsnedsattningar/adhd/",
+         "kind": "fact",
+         "upd": "2022-05-23"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Svårigheter med relationer, vanor eller sinnesintryck",
+      "lead": "Det är svårt att prata eller vara med andra, det finns ett starkt behov av att göra saker på samma sätt, eller ljud, ljus och lukter är svåra att stå ut med.",
+      "scenes": [
+       "I samtal har jag svårt att uppfatta vad den andra personen känner eller hur stämningen är, och vi pratar förbi varandra.",
+       "När jag ska prata inför andra eller alla tittar på mig blir jag väldigt spänd och försöker undvika situationen.",
+       "Med människor jag känner väl kan jag prata, men inför andra får jag inte fram ett ord.",
+       "Om mitt vanliga sätt att göra saker, ordningen på det jag gör eller var saker står ändras, blir jag mycket orolig.",
+       "Ljud, ljus och lukter känns för starka, och platser med mycket folk är jobbiga för mig.",
+       "Jag hör dåligt vad andra säger, eller så är humöret nere, och det har blivit tungt att träffa och prata med människor."
+      ],
+      "asks": [
+       "Det hjälper mig om man pratar långsamt och tydligt.",
+       "Det hjälper mig om viktiga saker skrivs ner åt mig.",
+       "Jag vill gärna prata på en lugn plats.",
+       "Det hjälper mig om jag får veta i förväg när planer eller sätt att göra saker ändras.",
+       "Det hjälper mig om jag inte pressas att svara fort utan får tid att svara.",
+       "Jag vill gärna kunna svara skriftligt eller med en kort lapp i stället för att prata."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Nedsatt hörsel",
+        "why": "Sidan beskriver att det kan vara påfrestande att höra dåligt, och att man kan uppleva att andra inte begriper hur svårt det är.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Nedsatt hörsel",
+         "url": "https://www.1177.se/sjukdomar--besvar/oron-nasa-och-hals/horsel/nedsatt-horsel/",
+         "kind": "fact",
+         "upd": "2024-05-28"
+        }
+       },
+       {
+        "name": "Social ångest",
+        "why": "Sidan beskriver att vissa situationer med andra människor kan kännas mycket obehagliga, till exempel att tala inför en grupp eller att småprata.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Social ångest",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/social-angest/",
+         "kind": "fact",
+         "upd": "2022-07-14"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "Med autism kan samspel med andra vara svårt.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Samspel och sociala färdigheter",
+         "url": "https://www.autismforum.se/stod-och-insatser/samspel-sociala-fardigheter/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Svårigheter att läsa, skriva eller räkna",
+      "lead": "Även med mycket ansträngning är det fortfarande mycket svårt att läsa, skriva eller räkna.",
+      "scenes": [
+       "Det tar mig längre tid än andra att läsa en text, och jag läser om den många gånger.",
+       "Även efter att jag har läst går innehållet inte in, och jag har svårt att förstå vad brev och blanketter från myndigheter betyder.",
+       "Jag stavar fel, blandar ihop bokstäver och hoppar ofta över ord när jag skriver.",
+       "Min handstil blir ojämn, och det tar mycket tid och kraft att skriva för hand.",
+       "Jag kör fast på enkla beräkningar och på räkneuppgifter som är skrivna med ord.",
+       "Jag kan prata och lyssna utan problem, men när det gäller att läsa, skriva eller räkna går det inte som jag vill, även om jag tar god tid på mig."
+      ],
+      "asks": [
+       "Det hjälper mig om jag får se texter med större bokstäver och mer radavstånd, skrivna på lättläst svenska.",
+       "Det hjälper mig om viktig information läses upp eller sägs muntligt.",
+       "Jag vill gärna kunna skriva på dator eller mobil, ta bilder eller spela in ljud i stället för att skriva för hand.",
+       "Det hjälper mig om jag får använda miniräknare när jag räknar.",
+       "Det hjälper mig om jag får extra tid för att läsa, skriva och räkna.",
+       "Det hjälper mig om jag får mindre åt gången, en sak i taget."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Synnedsättning (nedsatt syn)",
+        "why": "Sidan beskriver att den som ser dåligt kan få problem i vardagen, till exempel med att läsa.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Synnedsättning",
+         "url": "https://www.1177.se/sjukdomar--besvar/ogon/synnedsattning/",
+         "kind": "fact",
+         "upd": "2022-12-16"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Sidan beskriver koncentrationssvårigheter vid depression, till exempel att det kan vara svårt att ta sig igenom en bok.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Depression",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/",
+         "kind": "fact",
+         "upd": "2025-01-15"
+        }
+       },
+       {
+        "name": "Dyslexi",
+        "why": "Sidan beskriver dyslexi som en funktionsnedsättning som gör det svårt att läsa av ord och att stava rätt.",
+        "src": {
+         "org": "Specialpedagogiska skolmyndigheten (SPSM)",
+         "title": "Läs- och skrivsvårigheter",
+         "url": "https://www.spsm.se/funktionsnedsattningar/las--och-skrivsvarigheterdyslexi/",
+         "kind": "fact",
+         "upd": "2026-08-17"
+        }
+       },
+       {
+        "name": "Dyskalkyli",
+        "why": "Sidan beskriver dyskalkyli som svårigheter med grundläggande räkning och med att förstå tal och antal.",
+        "src": {
+         "org": "Specialpedagogiska skolmyndigheten (SPSM)",
+         "title": "Specifika räknesvårigheter",
+         "url": "https://www.spsm.se/stodmaterial-matematiksvarigheter/upptacka-behov-av-stod-i-matematik/specifika-raknesvarigheter/",
+         "kind": "fact",
+         "upd": "17 februari 2026"
+        }
+       },
+       {
+        "name": "Adhd",
+        "why": "Sidan beskriver att adhd kan påverka förmågan att hålla koncentrationen och att styra impulser.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Adhd",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/neuropsykiatriska-funktionsnedsattningar/adhd/",
+         "kind": "fact",
+         "upd": "2022-05-23"
+        }
+       },
+       {
+        "name": "Intellektuell funktionsnedsättning",
+        "why": "Sidan beskriver att det kan vara svårt att begripa och lära in vissa saker, bland annat läsning, skrivning och räkning.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Intellektuell funktionsnedsättning",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/larande-forstaelse-och-minne/intellektuell-funktionsnedsattning---utvecklingsstorning/",
+         "kind": "fact",
+         "upd": "2023-08-25"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Stora svängningar i humöret",
+      "lead": "Humöret går upp och ner mycket, och det är svårt att hänga med.",
+      "scenes": [
+       "Det växlar mellan perioder då jag har alldeles för mycket energi och perioder då jag är så nere att jag inte kommer igång.",
+       "Ibland sover jag knappt alls men känner mig full av energi och är ständigt i rörelse.",
+       "Idéerna kommer den ena efter den andra, och allt blir liggande halvfärdigt.",
+       "Jag har känt mig så självsäker att jag har gjort av med mer pengar än jag egentligen hade råd med.",
+       "Små saker gör mig irriterad, och det är svårt att hålla tillbaka känslorna.",
+       "Det jag gjorde när humöret var på topp har påverkat mina relationer eller mitt jobb."
+      ],
+      "asks": [
+       "Det hjälper mig om man också frågar om perioder då jag mådde ovanligt bra eller hade mycket energi.",
+       "Det hjälper mig om vi i lugn och ro går igenom mina upp- och nedgångar tillsammans.",
+       "Det hjälper mig om någon får mig att stanna upp och tänka efter innan stora beslut om pengar eller jobb.",
+       "Det hjälper mig om man också kollar kroppsliga orsaker, till exempel sömn, läkemedel och alkohol.",
+       "Det hjälper mig om någon säger till, utan klander, när jag verkar annorlunda än vanligt.",
+       "Det hjälper mig om någon lyssnar på mig hela vägen, både när jag är uppåt och när jag är nere."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypertyreos (för mycket sköldkörtelhormon)",
+        "why": "Sidan beskriver att för mycket sköldkörtelhormon också påverkar hjärnan och måendet, till exempel med ångest och att man blir arg lättare.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Sömnbrist",
+        "why": "Att sova dåligt under en längre tid kan ge sämre humör.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Alkohol och droger",
+        "why": "Alkohol och droger kan kännas bättre för stunden men brukar göra känslorna tyngre på sikt.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Nedstämdhet",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2023-10-20"
+        }
+       },
+       {
+        "name": "PMS och PMDS",
+        "why": "Sidan beskriver att humöret kan bli sämre under tiden innan mensen kommer.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "PMS och PMDS",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/pms-och-pmds/",
+         "kind": "fact",
+         "upd": "2023-10-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Sidan beskriver depression som att man länge är nedstämd och inte har lust till sådant man annars tycker om.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Bipolär sjukdom",
+        "why": "Sidan beskriver att humöret kan gå mycket upp och mycket ner i olika perioder.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Bipolär sjukdom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/bipolar-sjukdom/",
+         "kind": "fact",
+         "upd": "2024-03-15"
+        }
+       },
+       {
+        "name": "Adhd",
+        "why": "Sidan beskriver att en del med adhd kan ha svårt att styra sina känslor, både de jobbiga och de glada.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Adhd",
+         "url": "https://www.habilitering.se/kunskap-och-stod/kort-om-funktionsnedsattningar/adhd",
+         "kind": "fact",
+         "upd": "2020-08-19"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Att känna till ett namn kan få vardagens upp- och nedgångar att verka betyda något mer",
+       "body": "När du får veta namnet på en sjukdom eller på ett neuropsykiatriskt tillstånd kan lite trötthet eller att du ibland är disträ börja kännas som om det betydde något mer.\n\nKänslor kan påverka hur kroppen och humöret känns. Det är ingen inbillning, det händer på riktigt. Men för lite sömn, stress, mobilen och sådant som händer runt omkring dig kan också ge något liknande.\n\nOm du läser ett namn och tänker ”kanske är det här jag”, stanna inte vid den tanken. Fundera också på andra orsaker. Och om det som är svårt fortsätter kan du prata om det precis som det är, även om du inte har något namn på det.",
+       "srcs": []
+      },
+      {
+       "h": "Upp- och nedgångar i humöret händer alla.",
+       "body": "Folkhälsomyndigheten skriver på dinpsykiskahälsa.se: ”De flesta av oss har perioder i livet när vi känner oss nedstämda, oroliga, ilskna eller stressade.” Myndigheten skriver också: ”Psykiska besvär är vanligt, och alla kan under perioder vara stressade eller oroliga, känna ångest eller ha svårt att sova eller koncentrera sig.”\n\nEtt namn (en diagnos) sätts inom vården, och då vägs flera saker samman. Folkhälsomyndigheten skriver att flera kriterier måste vara uppfyllda innan ett namn kan sättas.\n\nPå 1177 står det om depression: ”Eftersom vissa kroppsliga sjukdomar kan ge besvär som liknar depression gör läkaren ofta en kroppsundersökning.”\n\nOm det som är svårt fortsätter kan du prata om det precis som det är, vad det än kallas.",
+       "srcs": [
+        {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Försök att acceptera att livet går upp och ner",
+         "url": "https://dinpsykiskahalsa.se/artiklar/tips-for-att-ma-battre/forsok-att-acceptera-att-livet-gar-upp-och-ned/",
+         "kind": "quote",
+         "upd": "2026-01-22"
+        },
+        {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Vad är psykisk ohälsa?",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-ar-psykisk-halsa/vad-ar-psykisk-ohalsa/",
+         "kind": "quote",
+         "upd": "2026-02-19"
+        },
+        {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Depression",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/",
+         "kind": "quote",
+         "upd": "2025-01-15"
+        }
+       ]
+      },
+      {
+       "h": "Du kan prata om det som är svårt även utan diagnos",
+       "body": "Du kan prata om det som är svårt även utan diagnos. Du kan kontakta en vårdcentral; du behöver ingen remiss. Folkhälsomyndigheten skriver att du kan kontakta en vårdcentral om du mår mycket dåligt, och att det gäller även om du har ångest eller har känt dig nedstämd under en längre tid.\n\nKommunens socialtjänst kan ge stöd om du inte själv kan tillgodose dina personliga behov och inte heller kan få dem tillgodosedda på annat sätt.\n\nOm du är sjukskriven behöver läkarintyget som du lämnar till arbetsgivaren inte innehålla närmare uppgift om vilken sjukdom du har.\n\nNär det gäller arbete skriver Arbetsförmedlingen att du kan få stöd även om dina svårigheter saknas i deras lista.",
+       "srcs": [
+        {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Om du mår dåligt",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        },
+        {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Remiss och egen vårdbegäran",
+         "url": "https://www.1177.se/sa-fungerar-varden/att-valja-vardmottagning/remiss/",
+         "kind": "fact",
+         "upd": "2024-02-16"
+        },
+        {
+         "org": "Sveriges riksdag",
+         "title": "Socialtjänstlag (2025:400), 11 kap. 1 § (lydelse t.o.m. SFS 2026:1652)",
+         "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/socialtjanstlag-2025400_sfs-2025-400/",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Sveriges riksdag",
+         "title": "Lag (1991:1047) om sjuklön, 8 § andra stycket (lydelse t.o.m. SFS 2025:938)",
+         "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19911047-om-sjuklon_sfs-1991-1047/",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Arbetsförmedlingen",
+         "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+         "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Men för vissa stöd och ersättningar kan det behövas ett intyg",
+       "body": "Men vissa stöd och ersättningar kräver ett intyg eller ett underlag.\n\nTill exempel behöver Försäkringskassan ett läkarintyg med uppgifter om din sjukdom eller skada för sjukpenning från en viss sjukdag. För aktivitetsersättning behövs ett läkarutlåtande om din sjukdom, skada eller funktionsnedsättning, och för merkostnadsersättning ett läkarutlåtande som beskriver din funktionsnedsättning. Ett exempel från högskolan: på Karolinska Institutet behöver du bifoga ett underlag som visar att du har en varaktig funktionsnedsättning när du söker stöd i studierna. Enligt Malmö stad kan socialsekreteraren behöva intyg, till exempel från en läkare, när du ansöker om insatser enligt LSS eller socialtjänstlagen.\n\nVad som behövs beror på vilket stöd det gäller; fråga den som ansvarar för stödet.",
+       "srcs": [
+        {
+         "org": "Försäkringskassan",
+         "title": "Sjukskriven när du är anställd utan sjuklön",
+         "url": "https://www.forsakringskassan.se/privatperson/sjuk-eller-skadad/ersattning-nar-du-ar-sjuk-eller-skadad-sjukpenning/sjukskriven-nar-du-ar-anstalld-utan-sjuklon",
+         "kind": "fact",
+         "upd": "9 juni 2026"
+        },
+        {
+         "org": "Försäkringskassan",
+         "title": "Aktivitetsersättning för unga vuxna",
+         "url": "https://www.forsakringskassan.se/privatperson/vuxen-med-funktionsnedsattning/aktivitetsersattning-for-unga-vuxna",
+         "kind": "fact",
+         "upd": "15 april 2026"
+        },
+        {
+         "org": "Försäkringskassan",
+         "title": "Merkostnadsersättning för vuxna",
+         "url": "https://www.forsakringskassan.se/privatperson/vuxen-med-funktionsnedsattning/merkostnadsersattning-for-vuxna",
+         "kind": "fact",
+         "upd": "20 juli 2026"
+        },
+        {
+         "org": "Karolinska Institutet",
+         "title": "Ansök om stöd när du studerar med funktionsnedsättning",
+         "url": "https://utbildning.ki.se/ansok-om-stod-nar-du-studerar-med-funktionsvariation",
+         "kind": "fact",
+         "upd": "2026-09-07"
+        },
+        {
+         "org": "Malmö stad",
+         "title": "Så ansöker du om insatser inom LSS eller SoL",
+         "url": "https://malmo.se/Bo-och-leva/Stod-och-omsorg/Funktionsnedsattning/Stod-och-insatser-for-personer-med-funktionsnedsattning/Sa-ansoker-du-om-insatser-inom-LSS-eller-SoL.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Ett namn på en sjukdom är inget verktyg för att ställa sig över någon",
+       "body": "Ett namn på en sjukdom är inget verktyg för att ställa sig över någon eller se ned på andra.\nFör en del är det en lättnad att få ett namn på det de går igenom. Det är viktigt.\nDet är också naturligt att vilja bli förstådd och bemött med vänlighet av människorna omkring en.\n\nNär du vill att människorna omkring dig ska vara vänliga mot dig kan du be om det direkt, utan att behöva säga namnet på en sjukdom.\nDet blir lättare att förstå om du säger två saker tillsammans: vad du har svårt med och vad du önskar att den andra gör.\n\nHär är några exempel:\n”Jag har lite ork i dag. Det hjälper mig om någon pratar långsamt med mig.”\n”Jag blir förvirrad när någon säger många saker på en gång. Det hjälper mig om någon säger en sak i taget.”\n”Det är svårt för mig att komma ihåg sådant som bara sägs muntligt. Jag vill gärna få viktiga saker skriftligt, på papper eller i ett mejl.”\n”Platser med mycket folk tar mycket kraft från mig. Det är lättare för mig om vi kan prata på ett lugnt ställe.”\n”Jag behöver lite tid för att svara. Det hjälper mig om någon väntar en stund.”\n”Just nu har jag många känslor på en gång. Det hjälper mig om någon först lyssnar. Råd kan vänta till senare.”\n”Jag mår inte bra i dag. Det hjälper mig om jag får vila en stund.”\n”Plötsliga ändringar av planerna gör mig osäker. Det hjälper mig om jag får veta i god tid.”\n”När någon pratar högt blir jag rädd. Det hjälper mig om någon pratar lugnt.”\n\nOm det är svårt att säga det bra kan du skriva det på ett papper och lämna över det. Du kan också visa sidan ”Det som är svårt för mig” med knappen ”Visa stort”. Den visas i den här appen när du väljer något som är svårt och svarar på frågorna.\nOm du vill berätta vilket namn du redan har fått går det också bra. Även då hjälper det den andra personen att veta vad du har svårt med och vad du önskar att den andra personen gör.\nIbland kan den andra personen inte göra det du ber om, på grund av sin situation. Då kan ni tillsammans söka en annan väg.\n\nPå jobbet kan du be om hjälp med samma ord: ”Det är svårt för mig att följa flera instruktioner samtidigt. Det är lättare för mig om jag får dem skriftligt.” Behöver anpassningen göras formell kan ett skriftligt underlag behövas.\n\nAnvänd inte appens lista med namn för att tvivla på människorna omkring dig.",
+       "srcs": []
+      },
+      {
+       "h": "Om den här appen",
+       "body": "Det här är ingen diagnos. Om ett namn står i listan betyder det inte att en läkare har pekat ut det för dig.\n\nDen här appen är inte en medicinteknisk produkt och den diagnostiserar, behandlar, botar eller motverkar inga medicinska tillstånd.\n\nSOYOGI är en ideell grupp i Japan utan juridisk person. SOYOGI har ingen koppling till Sveriges regering, Folkhälsomyndigheten, Socialstyrelsen, 1177, regionerna, kommunerna eller någon vårdgivare, och ingen av dem rekommenderar eller står bakom appen. Namnen på myndigheter och andra organisationer visar bara var informationen kommer ifrån. De ursprungliga texterna kan du läsa kostnadsfritt på varje organisations webbplats.\n\nInnehållet har SOYOGI skrivit med egna ord utifrån svenska offentliga sidor; de få meningar som är tagna ordagrant står inom citationstecken ”så här”. Källorna visas på varje skärm, med sidans datum när sidan visar ett. Hämtad 1 november 2026. Telefonnummer och öppettider kan ändras.\n\nOm du ska söka hjälp bestämmer du, inte appen.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "“Om du har svårt att hantera känslorna, om de varar länge och påverkar dig så att du inte kan göra sådant som du vill eller brukar göra, kan du behöva söka stöd och hjälp.”",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Försök att acceptera att livet går upp och ner",
+       "url": "https://dinpsykiskahalsa.se/artiklar/tips-for-att-ma-battre/forsok-att-acceptera-att-livet-gar-upp-och-ned/",
+       "kind": "quote",
+       "upd": "2026-01-22"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Om att få hjälp utan att ha fått ett namn skriver 1177 på sidan om adhd:“Du behöver inte ha fått diagnosen adhd för att få hjälp.”",
+       "src": {
+        "org": "1177 (ett samarbete mellan Sveriges regioner)",
+        "title": "Adhd",
+        "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/neuropsykiatriska-funktionsnedsattningar/adhd/",
+        "kind": "quote",
+        "upd": "2022-05-23"
+       }
+      },
+      {
+       "text": "När det gäller arbete kan du ha rätt till stöd från Arbetsförmedlingen när du söker jobb, förbereder dig för arbetslivet och är på jobbet, om du har en funktionsnedsättning, en sjukdom eller någon annan svårighet.",
+       "src": {
+        "org": "Arbetsförmedlingen",
+        "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+        "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+        "kind": "summary",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Om hur ett namn (en diagnos) bestäms skriver Folkhälsomyndigheten:",
+      "text": "“Flera kriterier måste vara uppfyllda för att en psykiatrisk diagnos ska kunna ställas, t.ex. att personen haft ett visst antal symtom under en viss tidsperiod eller att det orsakar ett visst lidande.”",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Vad är psykisk ohälsa?",
+       "url": "https://dinpsykiskahalsa.se/artiklar/vad-ar-psykisk-halsa/vad-ar-psykisk-ohalsa/",
+       "kind": "quote",
+       "upd": "2026-02-19"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low for a long time and there is no energy left for anything.",
+      "scenes": [
+       "I feel down from morning to night.",
+       "Things I used to enjoy doing no longer give me any joy.",
+       "I have no energy and cannot concentrate, so work and chores at home are left undone.",
+       "I blame myself and see most things in a dark light.",
+       "At night I cannot sleep, or I sleep too much. My appetite is poor and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when I am told what to do, one thing at a time.",
+       "I need time to think. It helps me when there is no hurry to answer or decide.",
+       "It helps me to get important things written down on paper.",
+       "Before anyone tells me “Pull yourself together!”, it helps me when someone listens to me first.",
+       "I do not want it to be seen as laziness when I rest.",
+       "It helps me when we check together whether a physical illness, or a medicine I take, can have something to do with this."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses that can cause complaints similar to depression",
+        "why": "This page explains that illnesses of the body, for example too much or too little thyroid hormone or anemia, can also cause complaints similar to those in depression. That is why the doctor often examines the body as well.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Depression",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/",
+         "kind": "fact",
+         "upd": "2025-01-15"
+        }
+       },
+       {
+        "name": "Hypothyroidism (too little thyroid hormone)",
+        "why": "This page describes hypothyroidism, when the body gets too little thyroid hormone. A person can then, for example, feel tired, get cold easily and feel down.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypotyreos – brist på sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypotyreos--brist-pa-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Lack of sleep and sleep problems",
+        "why": "This page explains that sleeping poorly over a longer time can lead to a lower mood and less energy.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Alcohol and drugs",
+        "why": "This page explains that alcohol and drugs can make a person feel better for the moment, but that in the long run they usually make the heavy feelings stronger.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Nedstämdhet",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2023-10-20"
+        }
+       },
+       {
+        "name": "Stress",
+        "why": "This page explains that mood can go down for reasons that have to do with the body, for example stress or too little sleep.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Nedstämdhet",
+         "url": "https://www.1177.se/liv--halsa/psykisk-halsa/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Exhaustion disorder (utmattningssyndrom)",
+        "why": "This page describes exhaustion disorder as something that can come after heavy stress when a person has not had enough recovery. Mood can also go down when work, studies or daily life do not go as usual.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Utmattningssyndrom",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/utmattningssyndrom/",
+         "kind": "fact",
+         "upd": "2023-03-31"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes depression as being low in mood for a long time and not even feeling like doing the things one otherwise likes.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page explains that in bipolar disorder, mood can go very far up and very far down in different periods.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Bipolär sjukdom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/bipolar-sjukdom/",
+         "kind": "fact",
+         "upd": "2024-03-15"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worries that will not stop, a pounding heart and trouble keeping still, or trouble being around people or leaving the house.",
+      "scenes": [
+       "When I have to speak in front of others or am the center of attention, I get so anxious that my mind goes completely blank.",
+       "Suddenly my heart starts pounding and I have trouble breathing. I am afraid it will happen again, and it becomes hard to leave the house.",
+       "I worry about one thing after another, even without any clear reason. I am restless and become completely worn out by it.",
+       "Places that are hard to get away from are difficult for me, for example trains and buses, elevators, big stores and places with a lot of people. Going out without company is also hard, so I avoid it.",
+       "Because I avoid what makes me worried, I go to fewer and fewer places and see fewer and fewer people. My world has become smaller.",
+       "The worry does not let go of me, and at night I cannot fall asleep."
+      ],
+      "asks": [
+       "It helps me when I get time to talk, without anyone being in a hurry.",
+       "It helps me to know in advance what the plan is and how the meeting will go.",
+       "I would prefer not to be asked for my opinion in front of others without warning. It helps me to be able to answer in writing as well.",
+       "If I feel unwell, it helps me to be able to step out for a while and rest.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "Before anyone says that I worry too much, it helps me when someone first listens to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (too much thyroid hormone)",
+        "why": "This page describes hyperthyroidism, when the body gets too much thyroid hormone. It can also affect the emotions, so that a person feels worry and anxiety or gets irritated more easily.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Heart palpitations",
+        "why": "This page describes heart palpitations, when the heart gives extra beats or beats fast for a short while. Fear and stress can also make the heart beat faster.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hjärtklappning",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarta-och-blodkarl/hjartrytm/hjartklappning/",
+         "kind": "fact",
+         "upd": "2022-10-24"
+        }
+       },
+       {
+        "name": "Caffeine and nicotine",
+        "why": "This page explains that caffeine and nicotine can make anxiety stronger and sleep worse.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Ångest",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/angest--starka-kanslor-av-oro/",
+         "kind": "fact",
+         "upd": "2025-12-16"
+        }
+       },
+       {
+        "name": "Alcohol",
+        "why": "This page explains that alcohol can add to worry and anxiety and can make a person sleep worse.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Alkohol är en riskfaktor för psykisk ohälsa",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/alkohol/",
+         "kind": "fact",
+         "upd": "2022-01-09"
+        }
+       },
+       {
+        "name": "Sleep difficulties",
+        "why": "This page explains that worry and anxiety can make it hard to sleep.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This page explains that GAD often brings anxiety, worry and restlessness, and that a person can feel tense or easily irritated.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Generaliserat ångestsyndrom – GAD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/generaliserat-angestsyndrom---gad/",
+         "kind": "fact",
+         "upd": "2022-07-15"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This page describes panic disorder as repeated panic attacks and a fear that a new attack will come. Because of that fear a person can start to keep away from certain places or situations.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Paniksyndrom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/paniksyndrom/",
+         "kind": "fact",
+         "upd": "2022-09-29"
+        }
+       },
+       {
+        "name": "Social anxiety disorder",
+        "why": "This page describes social anxiety as feeling very uncomfortable being with others in certain situations, for example because a person worries about being closely watched or about embarrassing themselves.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Social ångest",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/social-angest/",
+         "kind": "fact",
+         "upd": "2022-07-14"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the front door or the stove several times or wash your hands often, the same things repeat and it is hard to stop, even when you want to.",
+      "scenes": [
+       "When I leave home, I have to check the front door and the stove again and again. Otherwise I cannot leave with a calm mind.",
+       "I wash my hands or take showers more and more often and cannot stop, even when I want to.",
+       "The same worry comes into my head again and again, and I cannot stop thinking about it even though I want to.",
+       "If things are not placed or done in the order I have decided, I become uneasy and put them right or do them again.",
+       "The checking takes so long that I leave home too late or do not make it on time to meetings and work.",
+       "My body moves or sounds come out of me without my wanting it, and it is hard to stop them even when I try."
+      ],
+      "asks": [
+       "Before anyone says that I worry too much, it helps me when someone listens first.",
+       "It takes time for me to check things, so it helps me to have a little extra time.",
+       "I would like to know in advance when plans or routines change.",
+       "I do not want anyone to single me out or laugh at me in front of others when I check something or wash my hands.",
+       "It helps me when explanations and instructions are given one at a time and in writing.",
+       "Before we decide how to go on, I want someone to listen to what I worry about, and I want us to take it calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes obsessive-compulsive disorder, with obsessive thoughts and compulsive actions, for example checking the stove even after having already done it, or washing the hands often and for a long time. Over time it can become hard to stop.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "OCD – Tvångssyndrom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/ocd--tvangssyndrom/",
+         "kind": "fact",
+         "upd": "2025-01-31"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This page explains that the worry in GAD can lead a person to ask and double-check a lot and to prepare more than needed, for example before a trip.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Generaliserat ångestsyndrom – GAD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/generaliserat-angestsyndrom---gad/",
+         "kind": "fact",
+         "upd": "2022-07-15"
+        }
+       },
+       {
+        "name": "Tics",
+        "why": "This page describes tics as sounds or movements that come suddenly and can be hard to stop, and says that a person can have tics as an adult too.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Tics",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/nerver/tics/",
+         "kind": "fact",
+         "upd": "2022-09-08"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that a person with autism can have repeated patterns in what they do and in what they are interested in.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Det här är autism",
+         "url": "https://www.autismforum.se/om-autism/det-har-ar-autism/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still weighing on me",
+      "lead": "After a hard experience, memories often come back, sleep becomes poor, or it is hard to relax.",
+      "scenes": [
+       "A small thing can suddenly bring back the images and feelings from that hard time.",
+       "I often have similar nightmares, and on many nights I do not sleep deeply.",
+       "I am always on edge, and even a small noise or event makes me jump.",
+       "I avoid places, people and topics that remind me of what happened, and my life has become more and more limited.",
+       "It is as if something inside me has switched off. I can no longer feel for my family and friends the way I used to.",
+       "I blame myself more and more, or I find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It helps me if no one asks about every detail of what happened. I want to talk about it at my own pace, and only as much as I can manage.",
+       "Some sounds, places and topics bring everything back. It helps me if it is accepted when I say that I would rather avoid them.",
+       "It helps me if no one speaks to me suddenly from behind, and if loud noises are avoided near me.",
+       "When it is too hard to talk, I would like to be able to hand over something I have written.",
+       "Some nights I do not sleep, and some days the tiredness stays. I do not want that to be taken for laziness.",
+       "It helps me if no one hurries me with “Try to forget it” or “Now you have to move on”, and if there is a place where I can talk in peace and quiet."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Acute stress reaction",
+        "why": "The page, which is written for health care staff, says that many people who have been subjected to sexual violence get an acute stress reaction.",
+        "src": {
+         "org": "Nationellt centrum för kvinnofrid (NCK), Uppsala universitet",
+         "title": "Fysiska och psykiska konsekvenser av sexuellt våld",
+         "url": "https://www.uu.se/centrum/nck/for-yrkesverksamma/webbstodforvarden/omhandertagande-och-sparsakring/fysiska-och-psykiska-konsekvenser-av-sexuellt-vald",
+         "kind": "fact",
+         "upd": "2026-10-15"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The page says that after a frightening or life-threatening event, the difficulties do not fade with time for some people, but keep affecting everyday life.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Posttraumatiskt stressyndrom, PTSD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/posttraumatiskt-stressyndrom-ptsd/",
+         "kind": "fact",
+         "upd": "2022-03-08"
+        }
+       },
+       {
+        "name": "Crisis",
+        "why": "The page describes a crisis as a reaction when something unexpected has happened, for example an accident or a crime.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Att hamna i kris",
+         "url": "https://www.1177.se/liv--halsa/psykisk-halsa/att-hamna-i-kris/",
+         "kind": "fact",
+         "upd": "2026-02-11"
+        }
+       },
+       {
+        "name": "Low mood (after a hard event)",
+        "why": "The page explains that a person can feel low after something serious or hard, for example when a close relative becomes ill or dies.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Nedstämdhet",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2023-10-20"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "I lie in bed but have trouble falling asleep.",
+       "I wake up many times during the night and do not sleep deeply all night.",
+       "I cannot get up when it is time in the morning, and I often arrive late to work or school.",
+       "During the day I get very sleepy and nearly fall asleep in meetings or when I am driving.",
+       "People close to me say that I snore loudly and that it sounds as if I stop breathing while I sleep.",
+       "In the evening and at night I get a tingling, crawling feeling in my legs, so I cannot keep still, and then I cannot sleep."
+      ],
+      "asks": [
+       "It helps me if there is time to ask about how I sleep, for example how I fall asleep, whether I wake up in the night, how hard it is to get up in the morning and how sleepy I am during the day.",
+       "I would like us to go through the medicines I take and my habits with coffee, energy drinks, alcohol, tobacco or snus (Swedish moist snuff), so that we can think about the cause together.",
+       "It helps me if the difficulties are not brushed aside as a matter of attitude, and if both my body and how I am feeling are taken into account.",
+       "I have written down when I go to bed and when I get up. I would like the notes to be taken into account.",
+       "If medicines come up, I would like a clear explanation of how they work and what to keep in mind.",
+       "Mornings are hard for me. It is easier for me if I can have an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia (sleep problems that keep coming back)",
+        "why": "The page says that some people with sleep problems that keep coming back can be given the name insomnia. It can mean trouble falling asleep, waking up often during the night or waking up too early.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "The name is for pauses in breathing during sleep. The page explains that sleep is disturbed, so a person is often tired during the day.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Obstruktiv sömnapné",
+         "url": "https://www.1177.se/sjukdomar--besvar/lungor-och-luftvagar/andningssvarigheter-och-andningsuppehall/obstruktiv-somnapne/",
+         "kind": "fact",
+         "upd": "2026-10-07"
+        }
+       },
+       {
+        "name": "Willis-Ekbom disease (restless legs syndrome)",
+        "why": "The page describes uncomfortable feelings in the legs, such as tingling and crawling, after a person has been still for a long time. It can be noticed at night in bed.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Willis-Ekboms sjukdom - restless legs",
+         "url": "https://www.1177.se/sjukdomar--besvar/skelett-leder-och-muskler/ben-och-fotter/willis-ekboms-sjukdom---restless-legs/",
+         "kind": "fact",
+         "upd": "2023-02-02"
+        }
+       },
+       {
+        "name": "Body clock out of balance (different sleep times)",
+        "why": "The page says that the body clock can be thrown off if a person sleeps at very different times, for example longer on weekends than on weekdays.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Physical illnesses and pain",
+        "why": "The page mentions physical illnesses and difficulties that can disturb sleep, such as aching joints, cramps and pain.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Caffeine, nicotine and alcohol",
+        "why": "The page says that alcohol can make it easier to fall asleep but gives poorer sleep during the night, and that caffeine and nicotine can also affect sleep.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       },
+       {
+        "name": "Menopause (when hormones change)",
+        "why": "During menopause, sweating and hot flashes at night can disturb sleep.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Klimakteriet och psykisk hälsa",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/klimakteriet-och-psykisk-halsa/",
+         "kind": "fact",
+         "upd": "2024-10-18"
+        }
+       },
+       {
+        "name": "Depression and anxiety",
+        "why": "The page says that sleep is often affected when a person is not feeling well mentally, and mentions depression and anxiety among the examples.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Sömnsvårigheter",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+         "kind": "fact",
+         "upd": "2023-06-01"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "se1177",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "Eating has become hard: you eat very little, you cannot stop, or food feels scary.",
+      "scenes": [
+       "I do not feel like eating, and it has been hard to get food down for a long time.",
+       "Once I have started eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I know it I am thinking only about food, and it is hard to concentrate on anything else.",
+       "What I can eat is very limited, and I avoid many dishes because the taste, smell or texture feels so unpleasant.",
+       "Since I once choked on food or vomited, I have become afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "It helps me if no one comments on my body or my weight.",
+       "It helps me if I am not forced or hurried to eat.",
+       "It helps me if I can choose a place or time other than the coffee breaks (fika) and lunches with colleagues at work.",
+       "I would like to be asked in advance what I can eat and which smells and textures are hard for me.",
+       "It helps me if it is explained in advance how an examination is done.",
+       "What is hard to say, I would like to write on a piece of paper and hand over."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (too much thyroid hormone)",
+        "why": "The page says that a person can lose weight when the thyroid gland makes too much hormone. It is one example of a physical reason for a change in weight.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Eating disorders",
+        "why": "The name is an umbrella term for several conditions linked to food, weight and how a person sees their own body. The page explains that thoughts then revolve a lot around food, body, weight and exercise.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Ätstörningar",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/atstorningar/",
+         "kind": "fact",
+         "upd": "2025-09-04"
+        }
+       },
+       {
+        "name": "ARFID (avoidant/restrictive food intake disorder)",
+        "why": "The page explains that with ARFID a person often eats both small amounts and few kinds of food, but not because they are unhappy with their body. This can be, for example, because the person has no desire to eat, the food feels unpleasant, or the person is afraid that something will get stuck in the throat.",
+        "src": {
+         "org": "Socialstyrelsen",
+         "title": "Rekommendationer om ARFID – undvikande och restriktiv ätstörning",
+         "url": "https://www.socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/nationella-riktlinjer/nationella-riktlinjer-atstorningar/rekommendationer/oversikt-arfid--undvikande-och-restriktiv-atstorning/",
+         "kind": "fact",
+         "upd": "2025-01-30"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that appetite can decrease or increase with depression.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Autism (autism spectrum disorder)",
+        "why": "The page says that food and eating can be hard for people with autism, for example when a certain texture feels unpleasant or when it is hard to eat together with others.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Mat och ätande",
+         "url": "https://www.autismforum.se/stod-och-insatser/fungera-i-vardagen/mat-och-atande/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "seaet",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling for money or playing computer games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "Even when I have decided to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or sum of money I have set for myself, for example, “just this much today.”",
+       "From people close to me, I hide or play down how much I drink, gamble for money or play computer and mobile games.",
+       "I play computer and mobile games late into the night, I can't get up in the morning, and I am late or absent more often.",
+       "I gamble again to win back what I have lost.",
+       "I know my body is not doing well, but I still can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming or criticizing me.",
+       "I would like us to go through together, step by step, what things look like right now and what difficulties they cause.",
+       "It helps me when my sleep and how my body is doing are taken into account as well.",
+       "I would like concrete information about where I can turn and which places I can go to.",
+       "I would like to know whether my family members can also talk to someone.",
+       "I would like us to go over first who will get to know what I tell you, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence",
+        "why": "This page explains that a person who has developed a dependence on alcohol can find it hard to stop or cut down on drinking.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Alkoholberoende",
+         "url": "https://www.1177.se/sjukdomar--besvar/beroende-och-skadligt-bruk/alkoholberoende/",
+         "kind": "fact",
+         "upd": "2023-10-05"
+        }
+       },
+       {
+        "name": "Gambling problems (gambling for money)",
+        "why": "This page explains that gambling problems can affect relationships, finances and how a person feels, and that talking about them often feels shameful.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Spel om pengar och kopplingen till psykisk hälsa",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/spel-om-pengar/",
+         "kind": "fact",
+         "upd": "2023-08-28"
+        }
+       },
+       {
+        "name": "Gaming disorder (dependence on computer games)",
+        "why": "This page explains that dependence on computer games and online games is listed under a name of its own in the international system for classifying diseases. It also says that playing computer games a lot can affect sleep and relationships with other people.",
+        "src": {
+         "org": "Folkhälsomyndigheten",
+         "title": "Samband mellan dataspel och spel om pengar",
+         "url": "https://www.folkhalsomyndigheten.se/spelprevention/om-spelproblem/samband-mellan-dataspel-och-spel-om-pengar/",
+         "kind": "fact",
+         "upd": "8 oktober 2026"
+        }
+       },
+       {
+        "name": "Depression and anxiety",
+        "why": "This page mentions depression and anxiety as examples of mental health difficulties that are linked to playing computer games.",
+        "src": {
+         "org": "Folkhälsomyndigheten",
+         "title": "Samband mellan dataspel och spel om pengar",
+         "url": "https://www.folkhalsomyndigheten.se/spelprevention/om-spelproblem/samband-mellan-dataspel-och-spel-om-pengar/",
+         "kind": "fact",
+         "upd": "8 oktober 2026"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page says that people with ADHD often spend a lot of time playing computer games.",
+        "src": {
+         "org": "Folkhälsomyndigheten",
+         "title": "Samband mellan dataspel och spel om pengar",
+         "url": "https://www.folkhalsomyndigheten.se/spelprevention/om-spelproblem/samband-mellan-dataspel-och-spel-om-pengar/",
+         "kind": "fact",
+         "upd": "8 oktober 2026"
+        }
+       }
+      ],
+      "windows": [
+       "sebero",
+       "sespel",
+       "sealko",
+       "sevc",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, doing things in the right order, or remembering them.",
+      "scenes": [
+       "Even when someone is talking to me, I suddenly find myself thinking about something else.",
+       "I find it hard to do my work or the housework in the right order, and I miss deadlines.",
+       "I often don't remember what I have been asked to do or what I have promised, or I lose things.",
+       "If I keep working on the same task for a long time, I make more careless mistakes.",
+       "When I have to sit still for a while, I become restless and find it hard to stay calm.",
+       "People around me say that I often forget things or arrive late."
+      ],
+      "asks": [
+       "It helps me when I get one instruction at a time.",
+       "It helps me when important things are written down and given to me.",
+       "It helps me when I am told about deadlines and agreements well in advance.",
+       "It helps me when I am not given many tasks at once, but get them in small parts.",
+       "I would like to talk in a quiet place where I am less disturbed.",
+       "It helps me when what I have managed to do is noticed, and I am not blamed for what I did not manage."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep deprivation",
+        "why": "Poor sleep over a longer time can make concentrating harder and leave a person with less energy.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea (OSA)",
+        "why": "This page explains that short pauses in breathing during sleep make a person sleep worse. This can leave a person tired during the day and sometimes make it harder to concentrate.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Obstruktiv sömnapné",
+         "url": "https://www.1177.se/sjukdomar--besvar/lungor-och-luftvagar/andningssvarigheter-och-andningsuppehall/obstruktiv-somnapne/",
+         "kind": "fact",
+         "upd": "2026-10-07"
+        }
+       },
+       {
+        "name": "Hyperthyroidism (too much thyroid hormone)",
+        "why": "This page explains that in some people, too much thyroid hormone can make mental work tiring more quickly and make it harder to focus.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Iron deficiency",
+        "why": "This page explains that too little iron in the body can bring tiredness and poorer concentration, even when the blood value (hemoglobin) is not low.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Brist på järn",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarta-och-blodkarl/blodsjukdomar/blodbrist-pa-grund-av-for-lite-jarn/",
+         "kind": "fact",
+         "upd": "2022-04-21"
+        }
+       },
+       {
+        "name": "Exhaustion disorder and stress",
+        "why": "This page explains that stress without a break can make it hard to concentrate, and that stress that goes on for a long time can lead to exhaustion disorder.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Stress",
+         "url": "https://www.1177.se/liv--halsa/stresshantering-och-somn/stress/",
+         "kind": "fact",
+         "upd": "2023-02-28"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes depression as feeling down for a long time and not wanting to do things you otherwise enjoy. It also mentions that it can become harder to concentrate.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This page explains that worry that goes on all the time can make it harder to concentrate.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Generaliserat ångestsyndrom – GAD",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/generaliserat-angestsyndrom---gad/",
+         "kind": "fact",
+         "upd": "2022-07-15"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page describes ADHD as a disability that makes it hard to keep your concentration, and sometimes also to be still or to control impulses.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Adhd",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/neuropsykiatriska-funktionsnedsattningar/adhd/",
+         "kind": "fact",
+         "upd": "2022-05-23"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with relationships, routines or sensory impressions",
+      "lead": "Trouble talking or being with other people, a strong need to do things the same way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up on what the other person is feeling or what the mood is like, and we talk past each other.",
+       "When I have to speak in front of others or everyone is looking at me, I get very tense and try to avoid the situation.",
+       "With people I know well I can talk, but in front of others I can't get a word out.",
+       "If my usual way of doing things, the order of what I do, or where things are placed changes, I become very uneasy.",
+       "Sounds, lights and smells feel too strong, and places with lots of people are hard for me.",
+       "I have trouble hearing what others say, or my mood is low, and it has become hard to meet and talk with people."
+      ],
+      "asks": [
+       "It helps me when people speak slowly and clearly.",
+       "It helps me when important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance when plans or ways of doing things change.",
+       "It helps me when I am not rushed to answer and am given time to answer.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "This page explains that having trouble hearing can be a strain, and that a person can feel that others do not see how hard it is for them.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Nedsatt hörsel",
+         "url": "https://www.1177.se/sjukdomar--besvar/oron-nasa-och-hals/horsel/nedsatt-horsel/",
+         "kind": "fact",
+         "upd": "2024-05-28"
+        }
+       },
+       {
+        "name": "Social anxiety (social anxiety disorder)",
+        "why": "This page explains that certain situations with other people can feel very uncomfortable, for example speaking in front of a group or making small talk.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Social ångest",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/angest/social-angest/",
+         "kind": "fact",
+         "upd": "2022-07-14"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, interaction with other people can be hard when a person has autism.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Samspel och sociala färdigheter",
+         "url": "https://www.autismforum.se/stod-och-insatser/samspel-sociala-fardigheter/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "Even with a lot of effort, reading, writing or calculating is still very hard.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I read it again many times.",
+       "Even after I have read it, the content does not sink in, and I find it hard to understand what letters and forms from government agencies mean.",
+       "I make spelling mistakes, mix up letters and often skip words when I write.",
+       "My handwriting comes out uneven, and writing by hand takes a lot of time and energy.",
+       "I get stuck on simple calculations and on math problems written in words.",
+       "I can talk and listen without difficulty, but when it comes to reading, writing or calculating, things do not go the way I want, even when I take plenty of time."
+      ],
+      "asks": [
+       "It helps me when I get to see texts with larger letters and more space between the lines, written in easy-to-read Swedish (lättläst svenska).",
+       "It helps me when important information is read aloud to me or told to me in spoken words.",
+       "I would like to be able to write on a computer or phone, take pictures or record sound instead of writing by hand.",
+       "It helps me when I can use a calculator for calculations.",
+       "It helps me when I get extra time for reading, writing and calculating.",
+       "It helps me when I get less at a time, one thing at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Vision problems (difficulty seeing)",
+        "why": "This page explains that people who see poorly can have difficulties in everyday life, for example with reading.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Synnedsättning",
+         "url": "https://www.1177.se/sjukdomar--besvar/ogon/synnedsattning/",
+         "kind": "fact",
+         "upd": "2022-12-16"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes difficulty concentrating in depression, for example that it can be hard to get through a book.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Depression",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/",
+         "kind": "fact",
+         "upd": "2025-01-15"
+        }
+       },
+       {
+        "name": "Dyslexia (difficulty reading and spelling)",
+        "why": "This page describes dyslexia as a disability that makes it hard to read words and to spell correctly.",
+        "src": {
+         "org": "Specialpedagogiska skolmyndigheten (SPSM)",
+         "title": "Läs- och skrivsvårigheter",
+         "url": "https://www.spsm.se/funktionsnedsattningar/las--och-skrivsvarigheterdyslexi/",
+         "kind": "fact",
+         "upd": "2026-08-17"
+        }
+       },
+       {
+        "name": "Dyscalculia (difficulty with calculation)",
+        "why": "This page describes dyscalculia as difficulties with basic arithmetic and with understanding numbers and quantity.",
+        "src": {
+         "org": "Specialpedagogiska skolmyndigheten (SPSM)",
+         "title": "Specifika räknesvårigheter",
+         "url": "https://www.spsm.se/stodmaterial-matematiksvarigheter/upptacka-behov-av-stod-i-matematik/specifika-raknesvarigheter/",
+         "kind": "fact",
+         "upd": "17 februari 2026"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "This page explains that ADHD can affect the ability to keep concentrating and to control impulses.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Adhd",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/neuropsykiatriska-funktionsnedsattningar/adhd/",
+         "kind": "fact",
+         "upd": "2022-05-23"
+        }
+       },
+       {
+        "name": "Intellectual disability",
+        "why": "This page explains that it can be hard to understand and learn certain things, including reading, writing and calculating.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Intellektuell funktionsnedsättning",
+         "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/larande-forstaelse-och-minne/intellektuell-funktionsnedsattning---utvecklingsstorning/",
+         "kind": "fact",
+         "upd": "2023-08-25"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "Mood goes up and down a lot, and it is hard to keep up with it.",
+      "scenes": [
+       "I go back and forth between periods when I have far too much energy and periods when I am so low that I cannot get going.",
+       "Sometimes I hardly sleep at all but feel full of energy and am constantly on the move.",
+       "Ideas come one after another, and everything is left half finished.",
+       "I have felt so self-confident that I have spent more money than I could really afford.",
+       "Small things make me irritable, and it is hard to hold back my feelings.",
+       "What I did when my mood was at its peak has affected my relationships or my job."
+      ],
+      "asks": [
+       "It helps me when people also ask about periods when I felt unusually good or had a lot of energy.",
+       "It helps me when we go through my ups and downs together, calmly and without hurry.",
+       "It helps me when someone gets me to stop and think before big decisions about money or work.",
+       "It helps me when people also check physical causes, for example sleep, medicines and alcohol.",
+       "It helps me when someone tells me, without blaming me, when I seem different from usual.",
+       "It helps me when someone hears me out all the way, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (overactive thyroid)",
+        "why": "This page explains that too much thyroid hormone also affects the brain and how you feel, for example with anxiety and getting angry more easily.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Hypertyreos – ökad produktion av sköldkörtelhormon",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/skoldkorteln/hypertyreos--overskott-av-skoldkortelhormon/",
+         "kind": "fact",
+         "upd": "2023-12-18"
+        }
+       },
+       {
+        "name": "Lack of sleep",
+        "why": "Sleeping badly over a longer period can make your mood worse.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Sömn och återhämtning",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-paverkar-var-psykiska-halsa/somn-och-aterhamtning/",
+         "kind": "fact",
+         "upd": "2023-03-15"
+        }
+       },
+       {
+        "name": "Alcohol and drugs",
+        "why": "Alcohol and drugs can feel better for the moment, but over time they tend to make feelings heavier.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Nedstämdhet",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/nedstamdhet/",
+         "kind": "fact",
+         "upd": "2023-10-20"
+        }
+       },
+       {
+        "name": "Premenstrual syndrome (PMS) and premenstrual dysphoric disorder (PMDD)",
+        "why": "This page explains that mood can get worse in the time before your period comes.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "PMS och PMDS",
+         "url": "https://www.1177.se/sjukdomar--besvar/hormoner/pms-och-pmds/",
+         "kind": "fact",
+         "upd": "2023-10-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes depression as being low for a long time and not feeling like doing things you otherwise enjoy.",
+        "src": {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Depression",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/depression/",
+         "kind": "fact",
+         "upd": "2022-03-22"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page explains that mood can go very high and very low in different periods.",
+        "src": {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Bipolär sjukdom",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/bipolar-sjukdom/",
+         "kind": "fact",
+         "upd": "2024-03-15"
+        }
+       },
+       {
+        "name": "Attention-deficit/hyperactivity disorder (ADHD)",
+        "why": "This page explains that some people with ADHD can find it hard to manage their feelings, both the hard ones and the happy ones.",
+        "src": {
+         "org": "Habilitering & Hälsa, Region Stockholm",
+         "title": "Adhd",
+         "url": "https://www.habilitering.se/kunskap-och-stod/kort-om-funktionsnedsattningar/adhd",
+         "kind": "fact",
+         "upd": "2020-08-19"
+        }
+       }
+      ],
+      "windows": [
+       "sevc",
+       "sepsyk",
+       "se1177"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs seem to mean something more",
+       "body": "When you learn the name of an illness or of a neurodevelopmental condition, a little tiredness or being absent-minded now and then can start to feel as if it meant something more.\n\nFeelings can affect how the body and the mood feel. That is not imagination, it really happens. But too little sleep, stress, your phone and what is going on around you can also cause something similar.\n\nIf you read a name and think “maybe this is me,” do not stop at that thought. Think about other reasons too. And if what is hard continues, you can talk about it just as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs in mood happen to everyone.",
+       "body": "On dinpsykiskahälsa.se, Folkhälsomyndigheten explains that feeling low, worried, angry or stressed for a while is something most people go through at some point in life. The agency also explains that mental health difficulties are common: stress, worry, anxiety, and trouble sleeping or concentrating can come to anyone for a time.\n\nA name (a diagnosis) is given within healthcare, where several things are weighed together. Folkhälsomyndigheten explains that several conditions have to be fulfilled before a name can be given.\n\nOn 1177, the page about depression explains that doctors often do a physical examination, because some physical illnesses can bring difficulties that look like depression.\n\nIf what is hard continues, you can talk about it just as it is, whatever it is called.",
+       "srcs": [
+        {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Försök att acceptera att livet går upp och ner",
+         "url": "https://dinpsykiskahalsa.se/artiklar/tips-for-att-ma-battre/forsok-att-acceptera-att-livet-gar-upp-och-ned/",
+         "kind": "fact",
+         "upd": "2026-01-22"
+        },
+        {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Vad är psykisk ohälsa?",
+         "url": "https://dinpsykiskahalsa.se/artiklar/vad-ar-psykisk-halsa/vad-ar-psykisk-ohalsa/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        },
+        {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Depression",
+         "url": "https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/depression/depression/",
+         "kind": "fact",
+         "upd": "2025-01-15"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is hard even without a diagnosis",
+       "body": "You can talk about what is hard even without a diagnosis. You can contact a health center (vårdcentral); you do not need a referral. Folkhälsomyndigheten explains that you can contact a health center if you feel very unwell, and that this also applies if you have anxiety or have felt low for a long time.\n\nThe social services (socialtjänsten) of your municipality can give support if you cannot meet your personal needs yourself and cannot have them met in any other way.\n\nIf you are on sick leave, the doctor's certificate that you give to your employer does not have to state in detail which illness you have.\n\nWhen it comes to work, Arbetsförmedlingen writes that you can get support even if your difficulties are not on their list.",
+       "srcs": [
+        {
+         "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+         "title": "Om du mår dåligt",
+         "url": "https://dinpsykiskahalsa.se/artiklar/nar-livet-kanns-jobbigt/om-du-mar-daligt/",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        },
+        {
+         "org": "1177 (ett samarbete mellan Sveriges regioner)",
+         "title": "Remiss och egen vårdbegäran",
+         "url": "https://www.1177.se/sa-fungerar-varden/att-valja-vardmottagning/remiss/",
+         "kind": "fact",
+         "upd": "2024-02-16"
+        },
+        {
+         "org": "Sveriges riksdag",
+         "title": "Socialtjänstlag (2025:400), 11 kap. 1 § (lydelse t.o.m. SFS 2026:1652)",
+         "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/socialtjanstlag-2025400_sfs-2025-400/",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Sveriges riksdag",
+         "title": "Lag (1991:1047) om sjuklön, 8 § andra stycket (lydelse t.o.m. SFS 2025:938)",
+         "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19911047-om-sjuklon_sfs-1991-1047/",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Arbetsförmedlingen",
+         "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+         "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "But some support and benefits can require a certificate",
+       "body": "But some support and benefits require a certificate or documentation.\n\nFor example, Försäkringskassan needs a doctor's certificate with details about your illness or injury for sickness benefit (sjukpenning) from a certain day of sickness. For activity compensation (aktivitetsersättning), a doctor's statement about your illness, injury or disability is needed, and for additional cost allowance (merkostnadsersättning), a doctor's statement that describes your disability. An example from higher education: at Karolinska Institutet you need to attach documentation that shows you have a lasting disability when you apply for support in your studies. According to Malmö stad, the social worker may need certificates, for example from a doctor, when you apply for support under LSS or the Social Services Act (socialtjänstlagen).\n\nWhat is needed depends on which support it is about; ask whoever is responsible for that support.",
+       "srcs": [
+        {
+         "org": "Försäkringskassan",
+         "title": "Sjukskriven när du är anställd utan sjuklön",
+         "url": "https://www.forsakringskassan.se/privatperson/sjuk-eller-skadad/ersattning-nar-du-ar-sjuk-eller-skadad-sjukpenning/sjukskriven-nar-du-ar-anstalld-utan-sjuklon",
+         "kind": "fact",
+         "upd": "9 juni 2026"
+        },
+        {
+         "org": "Försäkringskassan",
+         "title": "Aktivitetsersättning för unga vuxna",
+         "url": "https://www.forsakringskassan.se/privatperson/vuxen-med-funktionsnedsattning/aktivitetsersattning-for-unga-vuxna",
+         "kind": "fact",
+         "upd": "15 april 2026"
+        },
+        {
+         "org": "Försäkringskassan",
+         "title": "Merkostnadsersättning för vuxna",
+         "url": "https://www.forsakringskassan.se/privatperson/vuxen-med-funktionsnedsattning/merkostnadsersattning-for-vuxna",
+         "kind": "fact",
+         "upd": "20 juli 2026"
+        },
+        {
+         "org": "Karolinska Institutet",
+         "title": "Ansök om stöd när du studerar med funktionsnedsättning",
+         "url": "https://utbildning.ki.se/ansok-om-stod-nar-du-studerar-med-funktionsvariation",
+         "kind": "fact",
+         "upd": "2026-09-07"
+        },
+        {
+         "org": "Malmö stad",
+         "title": "Så ansöker du om insatser inom LSS eller SoL",
+         "url": "https://malmo.se/Bo-och-leva/Stod-och-omsorg/Funktionsnedsattning/Stod-och-insatser-for-personer-med-funktionsnedsattning/Sa-ansoker-du-om-insatser-inom-LSS-eller-SoL.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above someone",
+       "body": "The name of an illness is not a tool for putting yourself above someone or for looking down on other people.\nFor some people it is a relief to get a name for what they are going through. That matters.\nIt is also natural to want to be understood and met with kindness by the people around you.\n\nWhen you want the people around you to be kind to you, you can ask for it directly, without having to say the name of an illness.\nIt is easier to understand if you say two things together: what you find hard and what you would like the other person to do.\n\nHere are some examples:\n“I have little energy today. It helps me when someone speaks slowly to me.”\n“I get confused when someone says many things at once. It helps me when someone says one thing at a time.”\n“It is hard for me to remember things that are only said out loud. I would like to get important things in writing, on paper or by email.”\n“Places with a lot of people take a lot of energy from me. It is easier for me if we can talk in a calm place.”\n“I need a little time to answer. It helps me when someone waits a moment.”\n“Right now I have many feelings at once. It helps me when someone listens first. Advice can wait until later.”\n“I am not feeling well today. It helps me when I can rest for a while.”\n“Sudden changes to the plans make me feel unsure. It helps me when I am told in good time.”\n“When someone speaks loudly I get scared. It helps me when someone speaks calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the page “My worries” with the button “Show it large”. It appears in this app when you choose a worry and answer the questions.\nIf you want to say which name you have already been given, that is fine too. Even then, it helps the other person to know what you find hard and what you would like the other person to do.\nSometimes the other person cannot do what you ask because of their own situation. Then you can look for another way together.\n\nAt work you can ask for help in the same words: “It is hard for me to follow several instructions at the same time. It is easier for me if I get them in writing.” If the adjustment needs to be made formal, written documentation may be needed.\n\nPlease do not use the app's list of names to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. If a name is on the list, it does not mean that a doctor has pointed it out for you.\n\nThis app is not a medical device. It does not make a diagnosis, and it does not provide medical care for, or prevent, any medical condition.\n\nSOYOGI is a non-profit group in Japan without legal personality. SOYOGI has no connection to the Swedish Government, Folkhälsomyndigheten, Socialstyrelsen, 1177, the regions, the municipalities or any healthcare provider, and none of them has recommended or supported this app. The names of agencies and other organizations only show where the information comes from. You can read the original texts free of charge on each organization's website.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Sweden. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page when the page shows one. Retrieved November 1, 2026. Phone numbers and opening hours can change.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "This page explains that support and help can be needed when feelings are hard to handle, last a long time, and keep you from doing what you want to do or usually do.",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Försök att acceptera att livet går upp och ner",
+       "url": "https://dinpsykiskahalsa.se/artiklar/tips-for-att-ma-battre/forsok-att-acceptera-att-livet-gar-upp-och-ned/",
+       "kind": "fact",
+       "upd": "2026-01-22"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "About getting help without having been given a name, the 1177 page about ADHD explains:Help is available even without a diagnosis of ADHD.",
+       "src": {
+        "org": "1177 (ett samarbete mellan Sveriges regioner)",
+        "title": "Adhd",
+        "url": "https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/neuropsykiatriska-funktionsnedsattningar/adhd/",
+        "kind": "fact",
+        "upd": "2022-05-23"
+       }
+      },
+      {
+       "text": "When it comes to work, you can be entitled to support from Arbetsförmedlingen when you look for a job, prepare for working life and are at work, if you have a disability, an illness or some other difficulty.",
+       "src": {
+        "org": "Arbetsförmedlingen",
+        "title": "Hjälp för arbetssökande med funktionsnedsättning eller ohälsa",
+        "url": "https://arbetsformedlingen.se/for-arbetssokande/extra-stod/funktionsnedsattning",
+        "kind": "summary",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is decided, Folkhälsomyndigheten explains:",
+      "text": "A psychiatric diagnosis is given only when several conditions are met together. These can concern, for example, how many difficulties a person has had and for how long, or how much distress they cause.",
+      "src": {
+       "org": "Folkhälsomyndigheten (dinpsykiskahälsa.se)",
+       "title": "Vad är psykisk ohälsa?",
+       "url": "https://dinpsykiskahalsa.se/artiklar/vad-ar-psykisk-halsa/vad-ar-psykisk-ohalsa/",
+       "kind": "fact",
+       "upd": "2026-02-19"
       }
      }
     }
