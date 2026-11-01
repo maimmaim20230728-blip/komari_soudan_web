@@ -34,7 +34,8 @@ window.KOMARI_DATA = {
   "ko",
   "tw",
   "it",
-  "se"
+  "se",
+  "br"
  ],
  "c": {
   "jp": {
@@ -49,7 +50,8 @@ window.KOMARI_DATA = {
     "ko": "일본",
     "zh": "日本",
     "it": "Giappone",
-    "sv": "Japan"
+    "sv": "Japan",
+    "pt": "Japão"
    },
    "langs": [
     "ja",
@@ -3166,7 +3168,8 @@ window.KOMARI_DATA = {
     "ko": "미국",
     "zh": "美國",
     "it": "Stati Uniti",
-    "sv": "USA"
+    "sv": "USA",
+    "pt": "Estados Unidos"
    },
    "langs": [
     "en"
@@ -4886,7 +4889,8 @@ window.KOMARI_DATA = {
     "ko": "프랑스",
     "zh": "法國",
     "it": "Francia",
-    "sv": "Frankrike"
+    "sv": "Frankrike",
+    "pt": "França"
    },
    "langs": [
     "fr",
@@ -8272,7 +8276,8 @@ window.KOMARI_DATA = {
     "ko": "독일",
     "zh": "德國",
     "it": "Germania",
-    "sv": "Tyskland"
+    "sv": "Tyskland",
+    "pt": "Alemanha"
    },
    "langs": [
     "de",
@@ -11696,7 +11701,8 @@ window.KOMARI_DATA = {
     "ko": "스페인",
     "zh": "西班牙",
     "it": "Spagna",
-    "sv": "Spanien"
+    "sv": "Spanien",
+    "pt": "Espanha"
    },
    "langs": [
     "es",
@@ -14681,7 +14687,8 @@ window.KOMARI_DATA = {
     "ko": "네덜란드",
     "zh": "荷蘭",
     "it": "Paesi Bassi",
-    "sv": "Nederländerna"
+    "sv": "Nederländerna",
+    "pt": "Países Baixos"
    },
    "langs": [
     "nl",
@@ -17669,7 +17676,8 @@ window.KOMARI_DATA = {
     "ko": "한국",
     "zh": "韓國",
     "it": "Corea del Sud",
-    "sv": "Sydkorea"
+    "sv": "Sydkorea",
+    "pt": "Coreia do Sul"
    },
    "langs": [
     "ko",
@@ -20831,7 +20839,8 @@ window.KOMARI_DATA = {
     "ko": "대만",
     "zh": "臺灣",
     "it": "Taiwan",
-    "sv": "Taiwan"
+    "sv": "Taiwan",
+    "pt": "Taiwan"
    },
    "langs": [
     "zh",
@@ -23793,7 +23802,8 @@ window.KOMARI_DATA = {
     "ko": "이탈리아",
     "zh": "義大利",
     "it": "Italia",
-    "sv": "Italien"
+    "sv": "Italien",
+    "pt": "Itália"
    },
    "langs": [
     "it",
@@ -26810,7 +26820,8 @@ window.KOMARI_DATA = {
     "ko": "스웨덴",
     "zh": "瑞典",
     "it": "Svezia",
-    "sv": "Sverige"
+    "sv": "Sverige",
+    "pt": "Suécia"
    },
    "langs": [
     "sv",
@@ -30242,6 +30253,2734 @@ window.KOMARI_DATA = {
        "url": "https://dinpsykiskahalsa.se/artiklar/vad-ar-psykisk-halsa/vad-ar-psykisk-ohalsa/",
        "kind": "fact",
        "upd": "2026-02-19"
+      }
+     }
+    }
+   }
+  },
+  "br": {
+   "id": "br",
+   "name": {
+    "ja": "ブラジル",
+    "en": "Brazil",
+    "fr": "Brésil",
+    "de": "Brasilien",
+    "es": "Brasil",
+    "nl": "Brazilië",
+    "ko": "브라질",
+    "zh": "巴西",
+    "it": "Brasile",
+    "sv": "Brasilien",
+    "pt": "Brasil"
+   },
+   "langs": [
+    "pt",
+    "en"
+   ],
+   "main": "pt",
+   "fallback": "pt",
+   "srcLang": "pt",
+   "freeHosts": [],
+   "adaptHosts": [
+    "legis.senado.leg.br",
+    "www2.camara.leg.br"
+   ],
+   "srcNote": {
+    "gov.br": "CC BY-ND 3.0: https://creativecommons.org/licenses/by-nd/3.0/"
+   },
+   "factRef": true,
+   "ver": "2026-11-01",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "br192",
+     "band": "now",
+     "tel": "192",
+     "tel2": "190",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "SAMU 192, urgência e emergência",
+      "desc": "Se a situação é de urgência ou emergência, com risco de morte ou sofrimento intenso, você pode ligar para o SAMU 192. A ligação é gratuita e o serviço funciona 24 horas por dia, todos os dias. O Ministério da Saúde lista as tentativas de suicídio entre os casos em que se deve chamar o SAMU. Se o perigo é imediato e há violência acontecendo agora, ligue para a Polícia Militar: 190. Para incêndio, acidente com vítimas ou resgate, ligue para os Bombeiros: 193.",
+      "hours": "24 horas por dia, todos os dias.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Serviço de Atendimento Móvel de Urgência",
+       "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "SAMU 192 (urgent and emergency care)",
+      "desc": "If the situation is urgent or an emergency, with life in danger or intense distress, you can call SAMU 192. The call is free and the service runs 24 hours a day, every day. The Ministério da Saúde lists suicide attempts among the cases in which SAMU should be called. If the danger is immediate and violence is happening right now, call the Polícia Militar (military police): 190. For a fire, an accident with victims or a rescue, call the Bombeiros (fire department): 193.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Serviço de Atendimento Móvel de Urgência",
+       "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Serviço de Atendimento Móvel de Urgência",
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "br188",
+     "band": "now",
+     "tel": "188",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "CVV: 188, apoio emocional por voluntários",
+      "desc": "O CVV (Centro de Valorização da Vida, telefone 188) oferece apoio emocional feito por voluntários. A ligação é gratuita e o telefone funciona 24 horas por dia, todos os dias. Há também chat e e-mail, em cvv.org.br; o chat tem horários marcados e o e-mail não é respondido na hora. O CVV informa que o atendimento é sigiloso e anônimo. O Ministério da Saúde indica o CVV entre os lugares para buscar ajuda.",
+      "hours": "Telefone: 24 horas por dia, todos os dias. O chat tem horários marcados.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Suicídio (Prevenção)",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CVV: 188 (emotional support from volunteers)",
+      "desc": "The CVV (Centro de Valorização da Vida, phone 188) offers emotional support given by volunteers. The call is free and the phone line runs 24 hours a day, every day. There is also chat and email, at cvv.org.br; the chat has set hours and the email is not answered right away. The CVV says the service is confidential and anonymous. The Ministério da Saúde lists the CVV among the places to look for help.",
+      "hours": "Phone: 24 hours a day, every day. The chat has set hours.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Suicídio (Prevenção)",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Suicídio (Prevenção)",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/suicidio-prevencao",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "br180",
+     "band": "now",
+     "tel": "180",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Ligue 180: Central de Atendimento à Mulher",
+      "desc": "O Ligue 180 é a central do Ministério das Mulheres para quem vive violência contra a mulher ou quer denunciar. A ligação é gratuita e o serviço funciona 24 horas por dia, todos os dias. A denúncia pode ser feita de forma anônima. O atendimento também pode ser em inglês ou espanhol. Se o perigo é imediato, ligue 190.",
+      "hours": "24 horas por dia, todos os dias.",
+      "src": {
+       "org": "Ministério das Mulheres",
+       "title": "Ligue 180 - Central de Atendimento à Mulher",
+       "url": "https://www.gov.br/mulheres/pt-br/ligue180",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Ligue 180: Central de Atendimento à Mulher (support line for women)",
+      "desc": "Ligue 180 is the line of the Ministério das Mulheres for people who are experiencing violence against women or who want to report it. The call is free and the service runs 24 hours a day, every day. A report can be made anonymously. The service can also be given in English or Spanish. If the danger is immediate, call 190.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Ministério das Mulheres",
+       "title": "Ligue 180 - Central de Atendimento à Mulher",
+       "url": "https://www.gov.br/mulheres/pt-br/ligue180",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério das Mulheres",
+      "title": "Ligue 180 - Central de Atendimento à Mulher",
+      "url": "https://www.gov.br/mulheres/pt-br/ligue180",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "br100",
+     "band": "now",
+     "tel": "100",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Disque 100: Disque Direitos Humanos",
+      "desc": "O Disque 100 (Disque Direitos Humanos) recebe denúncias de violações de direitos humanos. A ligação é gratuita e o serviço funciona 24 horas por dia, todos os dias. A denúncia pode ser feita pela própria pessoa ou por quem conhece a situação, sem informar o nome, e também pelo WhatsApp. Em emergência, com risco imediato à vida ou crime acontecendo naquele momento, o Ministério orienta ligar direto para a Polícia Militar, 190.",
+      "hours": "24 horas por dia, todos os dias.",
+      "src": {
+       "org": "Ministério dos Direitos Humanos e da Cidadania",
+       "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+       "kind": "fact",
+       "upd": "26/08/2026"
+      }
+     },
+     "en": {
+      "name": "Disque 100: Disque Direitos Humanos (human rights line)",
+      "desc": "Disque 100 (Disque Direitos Humanos) receives reports of human rights violations. The call is free and the service runs 24 hours a day, every day. A report can be made by the person themselves or by someone who knows about the situation, without giving a name, and also by WhatsApp. In an emergency, with immediate danger to life or a crime happening at that moment, the Ministério advises calling the Polícia Militar directly, 190.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Ministério dos Direitos Humanos e da Cidadania",
+       "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+       "kind": "fact",
+       "upd": "26/08/2026"
+      }
+     },
+     "src": {
+      "org": "Ministério dos Direitos Humanos e da Cidadania",
+      "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+      "kind": "fact",
+      "upd": "26/08/2026"
+     }
+    },
+    {
+     "id": "brupa",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "UPA 24h ou pronto-socorro",
+      "desc": "Em uma crise, você também pode ir a uma UPA 24h (Unidade de Pronto Atendimento) ou a um pronto-socorro. A UPA funciona 24 horas por dia e atende casos de urgência clínica, traumática ou psiquiátrica.",
+      "hours": "UPA 24h: 24 horas por dia.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "UBS ou UPA: saiba quando procurar a unidade mais próxima de você",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2025/outubro/ubs-ou-upa-saiba-quando-procurar-a-unidade-mais-proxima-de-voce",
+       "kind": "fact",
+       "upd": "28/10/2025"
+      }
+     },
+     "en": {
+      "name": "UPA 24h or pronto-socorro (emergency care unit or emergency room)",
+      "desc": "In a crisis, you can also go to a UPA 24h (Unidade de Pronto Atendimento, an emergency care unit) or to a pronto-socorro (emergency room). The UPA runs 24 hours a day and sees urgent medical, trauma or psychiatric cases.",
+      "hours": "UPA 24h: 24 hours a day.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "UBS ou UPA: saiba quando procurar a unidade mais próxima de você",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2025/outubro/ubs-ou-upa-saiba-quando-procurar-a-unidade-mais-proxima-de-voce",
+       "kind": "fact",
+       "upd": "28/10/2025"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "UBS ou UPA: saiba quando procurar a unidade mais próxima de você",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2025/outubro/ubs-ou-upa-saiba-quando-procurar-a-unidade-mais-proxima-de-voce",
+      "kind": "fact",
+      "upd": "28/10/2025"
+     }
+    },
+    {
+     "id": "brvoice",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Sem usar a voz: chat, e-mail, WhatsApp e Libras",
+      "desc": "Sem usar a voz: o CVV atende por chat e e-mail (cvv.org.br; o chat tem horários marcados). O Disque 100 recebe denúncias por WhatsApp e Telegram. O Ligue 180, para mulheres em situação de violência, e o Disque 100 têm atendimento por videochamada em Libras para pessoas surdas ou com deficiência auditiva que usam Libras. Nas páginas do governo federal consultadas, não aparece uma forma nacional de falar com o 192 ou o 190 sem usar a voz; pergunte antes, na Secretaria de Saúde ou na polícia do seu estado, como funciona onde você mora.",
+      "hours": "",
+      "src": {
+       "org": "Ministério dos Direitos Humanos e da Cidadania",
+       "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+       "kind": "fact",
+       "upd": "26/08/2026"
+      }
+     },
+     "en": {
+      "name": "Without using your voice: chat, email, WhatsApp and Libras",
+      "desc": "Without using your voice: the CVV answers by chat and email (cvv.org.br; the chat has set hours). Disque 100 receives reports by WhatsApp and Telegram. Ligue 180, for women in situations of violence, and Disque 100 offer video-call service in Libras for deaf or hard-of-hearing people who use Libras. The federal government pages that were checked do not show a national way to reach 192 or 190 without using your voice; ask first, at the Secretaria de Saúde (health department) or the police of your state, how it works where you live.",
+      "hours": "",
+      "src": {
+       "org": "Ministério dos Direitos Humanos e da Cidadania",
+       "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+       "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+       "kind": "fact",
+       "upd": "26/08/2026"
+      }
+     },
+     "src": {
+      "org": "Ministério dos Direitos Humanos e da Cidadania",
+      "title": "Disque 100: A denúncia pode ser anônima? Tire suas principais dúvidas",
+      "url": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+      "kind": "fact",
+      "upd": "26/08/2026"
+     }
+    },
+    {
+     "id": "brubs",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "UBS (Unidade Básica de Saúde)",
+      "desc": "A UBS (Unidade Básica de Saúde) é a porta de entrada do SUS. Se você não sabe por onde começar, pode procurar direto a UBS mais perto de casa para falar do que está difícil; lá a equipe faz o acolhimento. Você pode mostrar a página “O que está difícil para mim”.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+       "kind": "fact",
+       "upd": "10/09/2021"
+      }
+     },
+     "en": {
+      "name": "UBS (Unidade Básica de Saúde, a health center)",
+      "desc": "The UBS (Unidade Básica de Saúde) is the front door to the SUS. If you do not know where to start, you can go straight to the UBS nearest your home to talk about what is hard; the team there welcomes you. You can show the page “My worries”.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+       "kind": "fact",
+       "upd": "10/09/2021"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+      "kind": "fact",
+      "upd": "10/09/2021"
+     }
+    },
+    {
+     "id": "brcaps",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "CAPS (Centro de Atenção Psicossocial)",
+      "desc": "Os CAPS (Centros de Atenção Psicossocial) acolhem pessoas em intenso sofrimento psíquico. Você pode ir direto ao CAPS da sua região, sem marcar consulta para o primeiro acolhimento. Todos os caminhos até um CAPS são gratuitos pelo SUS. Os CAPS existem conforme o tamanho do município, então nem toda cidade tem um. Para saber onde fica o mais próximo, procure a Secretaria de Saúde do seu município ou a UBS. Você pode mostrar a página “O que está difícil para mim”.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Centros de Atenção Psicossocial",
+       "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CAPS (Centro de Atenção Psicossocial, psychosocial care center)",
+      "desc": "The CAPS (Centros de Atenção Psicossocial) welcome people in intense psychological distress. You can go straight to the CAPS in your area, without booking an appointment for the first welcome visit. All the ways to reach a CAPS are free through the SUS. Whether there is a CAPS depends on the size of the municipality, so not every town has one. To find out where the nearest one is, ask the Secretaria de Saúde (health department) of your municipality or the UBS. You can show the page “My worries”.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Centros de Atenção Psicossocial",
+       "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Centros de Atenção Psicossocial",
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "brcapsad",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "CAPS AD (álcool e outras drogas)",
+      "desc": "O CAPS AD (álcool e outras drogas) acolhe pessoas em situações relacionadas ao uso prejudicial de álcool e outras drogas. Você pode ir direto, sem marcar consulta para o primeiro acolhimento. O CAPS AD existe conforme o tamanho do município, então nem toda cidade tem um. Para localizar o mais próximo, procure a Secretaria de Saúde do seu município ou a UBS.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Centros de Atenção Psicossocial",
+       "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CAPS AD (alcohol and other drugs)",
+      "desc": "The CAPS AD (alcohol and other drugs) welcomes people in situations related to harmful use of alcohol and other drugs. You can go there directly, without booking an appointment for the first welcome visit. Whether there is a CAPS AD depends on the size of the municipality, so not every town has one. To find the nearest one, ask the Secretaria de Saúde (health department) of your municipality or the UBS.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Centros de Atenção Psicossocial",
+       "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Centros de Atenção Psicossocial",
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "br136",
+     "band": "day",
+     "tel": "136",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "OuvSUS 136: Ouvidoria-Geral do SUS",
+      "desc": "O OuvSUS 136 é a Ouvidoria-Geral do SUS, do Ministério da Saúde. Recebe solicitações, reclamações, denúncias e sugestões sobre os serviços do SUS e também dá informações sobre saúde. A ligação é gratuita. Atendimento por telefone: de segunda a sexta, das 8h às 20h, e aos sábados, das 8h às 18h.",
+      "hours": "Telefone: de segunda a sexta, das 8h às 20h; aos sábados, das 8h às 18h.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Ouvidoria-Geral do SUS",
+       "url": "https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "OuvSUS 136: Ouvidoria-Geral do SUS (the SUS ombudsman office)",
+      "desc": "OuvSUS 136 is the Ouvidoria-Geral do SUS (the SUS ombudsman office), part of the Ministério da Saúde. It receives requests, complaints, reports and suggestions about SUS services and also gives information about health. The call is free. Phone service: Monday to Friday, 8 a.m. to 8 p.m., and Saturdays, 8 a.m. to 6 p.m.",
+      "hours": "Phone: Monday to Friday, 8 a.m. to 8 p.m.; Saturdays, 8 a.m. to 6 p.m.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Ouvidoria-Geral do SUS",
+       "url": "https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Ouvidoria-Geral do SUS",
+      "url": "https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "brtab",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Parar de fumar",
+      "desc": "Para parar de fumar, você pode procurar a UBS mais perto de casa. Segundo o Ministério da Saúde, o SUS oferece esse apoio gratuitamente.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Mais de 2,5 milhões de brasileiros buscaram tratamento para parar de fumar no SUS em 2025",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/maio/mais-de-2-5-milhoes-de-brasileiros-buscaram-tratamento-para-parar-de-fumar-no-sus-em-2025",
+       "kind": "fact",
+       "upd": "30/05/2026"
+      }
+     },
+     "en": {
+      "name": "Quitting smoking",
+      "desc": "To quit smoking, you can go to the UBS nearest your home. According to the Ministério da Saúde, the SUS offers this support free of charge.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Mais de 2,5 milhões de brasileiros buscaram tratamento para parar de fumar no SUS em 2025",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/maio/mais-de-2-5-milhoes-de-brasileiros-buscaram-tratamento-para-parar-de-fumar-no-sus-em-2025",
+       "kind": "fact",
+       "upd": "30/05/2026"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Mais de 2,5 milhões de brasileiros buscaram tratamento para parar de fumar no SUS em 2025",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/maio/mais-de-2-5-milhoes-de-brasileiros-buscaram-tratamento-para-parar-de-fumar-no-sus-em-2025",
+      "kind": "fact",
+      "upd": "30/05/2026"
+     }
+    },
+    {
+     "id": "brapos",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Apostas: atendimento no SUS",
+      "desc": "Pessoas com problemas ligados a apostas podem buscar atendimento no SUS, nas UBS e nos CAPS.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Não Aposte Sua Saúde: Um Alerta para o Cuidado",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Betting: care in the SUS",
+      "desc": "People with problems linked to betting can seek care in the SUS, at the UBS and at the CAPS.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Não Aposte Sua Saúde: Um Alerta para o Cuidado",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Não Aposte Sua Saúde: Um Alerta para o Cuidado",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "brcer",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "CER (Centro Especializado em Reabilitação)",
+      "desc": "Os CER (Centros Especializados em Reabilitação) são serviços de reabilitação do SUS para pessoas com deficiência auditiva, física, intelectual ou visual, com estomia ou com múltiplas deficiências. O acesso é organizado pelo município; para saber como chegar a um CER, pergunte na UBS ou na Secretaria de Saúde.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde (Portaria de Consolidação nº 3/2017)",
+       "title": "Portaria de ConsolidaÇÃo nº 3, de 28 de Setembro de 2017 (Anexo VI, art. 10-A, I, c; art. 14, II; art. 15, I)",
+       "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0003_03_10_2017.html",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CER (Centro Especializado em Reabilitação, rehabilitation center)",
+      "desc": "The CER (Centros Especializados em Reabilitação) are SUS rehabilitation services for people with hearing, physical, intellectual or visual disabilities, with an ostomy or with multiple disabilities. Access is organized by the municipality; to find out how to reach a CER, ask at the UBS or the Secretaria de Saúde (health department).",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde (Portaria de Consolidação nº 3/2017)",
+       "title": "Portaria de ConsolidaÇÃo nº 3, de 28 de Setembro de 2017 (Anexo VI, art. 10-A, I, c; art. 14, II; art. 15, I)",
+       "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0003_03_10_2017.html",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde (Portaria de Consolidação nº 3/2017)",
+      "title": "Portaria de ConsolidaÇÃo nº 3, de 28 de Setembro de 2017 (Anexo VI, art. 10-A, I, c; art. 14, II; art. 15, I)",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0003_03_10_2017.html",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "brcras",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "CRAS e CREAS (assistência social)",
+      "desc": "O CRAS (Centro de Referência de Assistência Social) é o primeiro contato com a assistência social, mantido pela prefeitura e pelo governo federal. Atende famílias e pessoas com dificuldades do dia a dia, como falta de renda ou dificuldade de acesso a serviços públicos. Não é um serviço de saúde. Você não precisa levar documentos; se tiver, leve o CPF ou um documento de identidade. O CREAS atende pessoas que vivem situações de violência ou de violação de direitos. O atendimento é gratuito.",
+      "hours": "",
+      "src": {
+       "org": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS)",
+       "title": "Acessar o Centro de Referência da Assistência Social (CRAS)",
+       "url": "https://www.gov.br/pt-br/servicos/acessar-o-cras-centro-de-referencia-da-assistencia-social",
+       "kind": "fact",
+       "upd": "14/07/2026"
+      }
+     },
+     "en": {
+      "name": "CRAS and CREAS (social assistance)",
+      "desc": "The CRAS (Centro de Referência de Assistência Social) is the first contact with social assistance, run by the city government and the federal government. It serves families and people with everyday difficulties, such as lack of income or trouble reaching public services. It is not a health service. You do not need to bring documents; if you have them, bring your CPF or an identity document. The CREAS serves people who live in situations of violence or violation of rights. The service is free.",
+      "hours": "",
+      "src": {
+       "org": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS)",
+       "title": "Acessar o Centro de Referência da Assistência Social (CRAS)",
+       "url": "https://www.gov.br/pt-br/servicos/acessar-o-cras-centro-de-referencia-da-assistencia-social",
+       "kind": "fact",
+       "upd": "14/07/2026"
+      }
+     },
+     "src": {
+      "org": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS)",
+      "title": "Acessar o Centro de Referência da Assistência Social (CRAS)",
+      "url": "https://www.gov.br/pt-br/servicos/acessar-o-cras-centro-de-referencia-da-assistencia-social",
+      "kind": "fact",
+      "upd": "14/07/2026"
+     }
+    },
+    {
+     "id": "brinss",
+     "band": "day",
+     "tel": "135",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "INSS: atendimento em Libras e Central 135",
+      "desc": "Pessoas surdas ou com deficiência auditiva podem agendar atendimento virtual em Libras pelo site ou aplicativo Meu INSS (com conta gov.br) ou pela Central 135, com o apoio de uma pessoa de confiança. O atendimento em Libras é exclusivo para pessoas surdas ou com deficiência auditiva e pede documento com foto. A Central de Atendimento do INSS, telefone 135, atende de segunda a sábado, das 7h às 22h (horário de Brasília).",
+      "hours": "Central 135: de segunda a sábado, das 7h às 22h (horário de Brasília).",
+      "src": {
+       "org": "Instituto Nacional do Seguro Social (INSS)",
+       "title": "Agora pessoas surdas podem agendar atendimento em Libras pelo Meu INSS",
+       "url": "https://www.gov.br/inss/pt-br/agora-pessoas-surdas-podem-agendar-atendimento-em-libras-pelo-meu-inss",
+       "kind": "fact",
+       "upd": "08/09/2025"
+      }
+     },
+     "en": {
+      "name": "INSS: service in Libras and Central 135",
+      "desc": "Deaf or hard-of-hearing people can book a virtual appointment in Libras through the Meu INSS website or app (with a gov.br account) or through Central 135, with the support of a person they trust. The service in Libras is only for deaf or hard-of-hearing people and asks for an ID with a photo. The INSS service center, phone 135, is open Monday to Saturday, 7 a.m. to 10 p.m. (Brasília time).",
+      "hours": "Central 135: Monday to Saturday, 7 a.m. to 10 p.m. (Brasília time).",
+      "src": {
+       "org": "Instituto Nacional do Seguro Social (INSS)",
+       "title": "Agora pessoas surdas podem agendar atendimento em Libras pelo Meu INSS",
+       "url": "https://www.gov.br/inss/pt-br/agora-pessoas-surdas-podem-agendar-atendimento-em-libras-pelo-meu-inss",
+       "kind": "fact",
+       "upd": "08/09/2025"
+      }
+     },
+     "src": {
+      "org": "Instituto Nacional do Seguro Social (INSS)",
+      "title": "Agora pessoas surdas podem agendar atendimento em Libras pelo Meu INSS",
+      "url": "https://www.gov.br/inss/pt-br/agora-pessoas-surdas-podem-agendar-atendimento-em-libras-pelo-meu-inss",
+      "kind": "fact",
+      "upd": "08/09/2025"
+     }
+    },
+    {
+     "id": "brdef",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Defensoria Pública",
+      "desc": "Segundo a Constituição, a Defensoria Pública oferece orientação jurídica gratuita aos necessitados, e o Estado presta assistência jurídica gratuita a quem comprova que não tem recursos. Há a Defensoria Pública da União e as Defensorias dos estados.",
+      "hours": "",
+      "src": {
+       "org": "Câmara dos Deputados (texto atualizado da legislação)",
+       "title": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (art. 134; art. 5º, LXXIV)",
+       "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Defensoria Pública (public legal defender)",
+      "desc": "According to the Constitution, the Defensoria Pública offers free legal guidance to people in need, and the State provides free legal assistance to anyone who shows they have no resources. There are the Defensoria Pública da União and the Defensorias of the states.",
+      "hours": "",
+      "src": {
+       "org": "Câmara dos Deputados (texto atualizado da legislação)",
+       "title": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (art. 134; art. 5º, LXXIV)",
+       "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Câmara dos Deputados (texto atualizado da legislação)",
+      "title": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (art. 134; art. 5º, LXXIV)",
+      "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "brsine",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Sine (Sistema Nacional de Emprego)",
+      "desc": "O Sine ajuda quem procura emprego: você pode se cadastrar e buscar vagas em uma agência do Sine ou pelo Portal Emprega Brasil.",
+      "hours": "",
+      "src": {
+       "org": "Ministério do Trabalho e Emprego",
+       "title": "Buscar Emprego no Sistema Nacional de Emprego (Sine)",
+       "url": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+       "kind": "fact",
+       "upd": "15/12/2025"
+      }
+     },
+     "en": {
+      "name": "Sine (Sistema Nacional de Emprego, national employment system)",
+      "desc": "Sine helps people who are looking for a job: you can sign up and look for openings at a Sine office or through the Portal Emprega Brasil.",
+      "hours": "",
+      "src": {
+       "org": "Ministério do Trabalho e Emprego",
+       "title": "Buscar Emprego no Sistema Nacional de Emprego (Sine)",
+       "url": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+       "kind": "fact",
+       "upd": "15/12/2025"
+      }
+     },
+     "src": {
+      "org": "Ministério do Trabalho e Emprego",
+      "title": "Buscar Emprego no Sistema Nacional de Emprego (Sine)",
+      "url": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+      "kind": "fact",
+      "upd": "15/12/2025"
+     }
+    },
+    {
+     "id": "branpd",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "ANPD (Agência Nacional de Proteção de Dados)",
+      "desc": "A Agência Nacional de Proteção de Dados (ANPD) recebe denúncias e petições de titulares sobre o tratamento de dados pessoais, conforme a LGPD. O envio é feito pelo Sistema de Requerimentos, com o login gov.br.",
+      "hours": "",
+      "src": {
+       "org": "Agência Nacional de Proteção de Dados (ANPD)",
+       "title": "Denúncia / Petição de Titular referente à LGPD",
+       "url": "https://www.gov.br/anpd/pt-br/canais_atendimento/cidadao-titular-de-dados/denuncia-peticao-de-titular-referente-lgpd",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "ANPD (Agência Nacional de Proteção de Dados, national data protection agency)",
+      "desc": "The Agência Nacional de Proteção de Dados (ANPD) receives complaints and petitions from data subjects about the handling of personal data, under the LGPD. They are sent through the Sistema de Requerimentos, with a gov.br login.",
+      "hours": "",
+      "src": {
+       "org": "Agência Nacional de Proteção de Dados (ANPD)",
+       "title": "Denúncia / Petição de Titular referente à LGPD",
+       "url": "https://www.gov.br/anpd/pt-br/canais_atendimento/cidadao-titular-de-dados/denuncia-peticao-de-titular-referente-lgpd",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Agência Nacional de Proteção de Dados (ANPD)",
+      "title": "Denúncia / Petição de Titular referente à LGPD",
+      "url": "https://www.gov.br/anpd/pt-br/canais_atendimento/cidadao-titular-de-dados/denuncia-peticao-de-titular-referente-lgpd",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "breat",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "pt": {
+      "name": "Dificuldades com a alimentação: UBS e CAPS",
+      "desc": "Dificuldades com a alimentação podem ser levadas à UBS, que é a porta de entrada para o cuidado no SUS. A UBS e os CAPS fazem parte da Rede de Atenção Psicossocial (Raps), que atende pessoas em sofrimento psíquico.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+       "kind": "fact",
+       "upd": "19/09/2022"
+      }
+     },
+     "en": {
+      "name": "Difficulties with eating: UBS and CAPS",
+      "desc": "Difficulties with eating can be brought to the UBS, which is the front door to care in the SUS. The UBS and the CAPS are part of the Rede de Atenção Psicossocial (Raps), which serves people in psychological distress.",
+      "hours": "",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+       "kind": "fact",
+       "upd": "19/09/2022"
+      }
+     },
+     "src": {
+      "org": "Ministério da Saúde",
+      "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+      "kind": "fact",
+      "upd": "19/09/2022"
+     }
+    }
+   ],
+   "pt": {
+    "groups": {
+     "mood": {
+      "label": "Desânimo, sem energia",
+      "lead": "O humor fica para baixo por muito tempo e falta energia para qualquer coisa.",
+      "scenes": [
+       "Meu humor fica para baixo da manhã até a noite.",
+       "Coisas de que eu gostava já não me dão prazer.",
+       "Falta energia e não consigo me concentrar, então o trabalho e as tarefas de casa ficam atrasados.",
+       "Eu me culpo e vejo quase tudo pelo lado mais escuro.",
+       "À noite não consigo dormir, ou então durmo demais. Perco o apetite e o corpo fica pesado.",
+       "Às vezes tenho vontade de sumir, ou de não existir mais."
+      ],
+      "asks": [
+       "Me ajuda quando me dizem o que fazer, uma coisa de cada vez.",
+       "Preciso de tempo para pensar. Me ajuda quando não há pressa para responder ou decidir.",
+       "Me ajuda receber por escrito as coisas importantes.",
+       "Me ajuda quando a pessoa me escuta antes de dizer “Força!”.",
+       "Não quero que achem que descansar é preguiça.",
+       "Me ajuda quando verificamos em conjunto se uma doença do corpo ou um remédio que tomo tem a ver com isso."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depressão secundária (doenças do corpo ou remédios)",
+        "why": "A página descreve a depressão secundária, um quadro depressivo ligado a doenças do corpo ou ao uso de remédios.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Depressão",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hipotireoidismo",
+        "why": "A página conta que, quando a tireoide produz menos hormônios, podem aparecer esquecimento, muito cansaço e depressão.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Hipotireoidismo",
+         "url": "https://bvsms.saude.gov.br/hipotireoidismo-2/",
+         "kind": "fact",
+         "upd": "janeiro de 2.016"
+        }
+       },
+       {
+        "name": "Menopausa e climatério",
+        "why": "A página cita ondas de calor e mudanças no sono e no humor na menopausa e no climatério.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Menopausa e climatério",
+         "url": "https://bvsms.saude.gov.br/menopausa-e-climaterio/",
+         "kind": "fact",
+         "upd": "setembro de 2020"
+        }
+       },
+       {
+        "name": "Distúrbios do sono",
+        "why": "A página relaciona os distúrbios do sono, como a insônia, com mudanças na memória, na capacidade de pensar e no humor.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Síndrome de Burnout (esgotamento profissional)",
+        "why": "A página liga o esgotamento profissional a situações de trabalho muito desgastantes, com exaustão intensa e estresse.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Síndrome de Burnout",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sindrome-de-burnout",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depressão",
+        "why": "A página descreve a depressão como doença mental e cita substâncias do cérebro que atuam no humor, no sono e no apetite.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Depressão",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Transtorno bipolar",
+        "why": "A página descreve mudanças de humor em que fases de depressão se alternam com fases de euforia ou com sentimentos mistos.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtorno bipolar afeta cerca de 140 milhões de pessoas no mundo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtorno-bipolar-afeta-cerca-de-140-milhoes-de-pessoas-no-mundo",
+         "kind": "fact",
+         "upd": "27/09/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Muita preocupação ou tensão",
+      "lead": "A preocupação não para, o coração dispara e é difícil se acalmar, ou é difícil estar perto de outras pessoas ou sair de casa.",
+      "scenes": [
+       "Quando preciso falar diante de outras pessoas, ou quando sou o centro das atenções, sinto tanta ansiedade que me dá um branco.",
+       "De repente o coração dispara e fico sem ar. Tenho medo de que aconteça de novo, e isso dificulta sair de casa.",
+       "Me preocupo com uma coisa atrás da outra, mesmo sem um motivo claro. Sinto inquietação, e isso me esgota.",
+       "Tenho dificuldade com lugares de onde é complicado sair, como ônibus, metrô ou trem, ou lugares cheios como o shopping, e também com sair de casa sem companhia. Por isso, evito essas situações.",
+       "Como evito o que me causa ansiedade, frequento cada vez menos lugares e vejo cada vez menos gente. Meu mundo ficou menor.",
+       "A preocupação não sai da minha cabeça, e à noite não consigo pegar no sono."
+      ],
+      "asks": [
+       "Me ajuda quando esperam com calma até eu falar.",
+       "Me ajuda saber com antecedência como vai ser a conversa e o que está previsto.",
+       "Prefiro que não me peçam a opinião diante de outras pessoas sem aviso. Me ajuda poder responder também por escrito.",
+       "Se eu me sentir mal, me ajuda poder sair por um momento e descansar.",
+       "Prefiro conversar em um lugar tranquilo, com poucas pessoas.",
+       "Não quero ouvir logo que me preocupo demais. Me ajuda quando primeiro escutam o que está difícil para mim."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ansiedade ligada a substâncias, à abstinência ou a doenças clínicas",
+        "why": "A página explica que a ansiedade pode surgir ligada ao uso de drogas, à abstinência ou a doenças do corpo.",
+        "src": {
+         "org": "Ministério da Saúde, Secretaria de Atenção Primária à Saúde (Linhas de Cuidado)",
+         "title": "Definição - Transtornos de Ansiedade no adulto",
+         "url": "https://linhasdecuidado.saude.gov.br/portal/ansiedade/definicao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Transtorno de pânico",
+        "why": "A página descreve o ataque de pânico como uma crise que começa de repente, com sensações como falta de ar e coração acelerado.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Transtorno de ansiedade generalizada (TAG)",
+        "why": "A página fala de uma preocupação exagerada que não está ligada a uma situação específica.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Transtorno de ansiedade social (fobia social)",
+        "why": "A página descreve a ansiedade que surge quando a pessoa se sente observada, por exemplo ao comer, ao assinar um documento ou ao se apresentar diante de outras pessoas.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Agorafobia",
+        "why": "A página descreve a agorafobia como um medo ligado a transporte público, multidões e outros lugares de onde pode parecer difícil escapar ou conseguir ajuda.",
+        "src": {
+         "org": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+         "title": "Ansiedade",
+         "url": "https://www.ufrgs.br/saudemental/?page_id=317",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Fobia específica",
+        "why": "A página descreve a fobia específica como um medo muito forte de objetos ou situações determinadas, como animais, voar de avião ou ver sangue.",
+        "src": {
+         "org": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+         "title": "Ansiedade",
+         "url": "https://www.ufrgs.br/saudemental/?page_id=317",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Difícil parar de conferir ou repetir coisas",
+      "lead": "Conferir várias vezes a porta ou o gás, ou lavar as mãos com frequência: as mesmas coisas se repetem e é difícil parar, mesmo querendo.",
+      "scenes": [
+       "Ao sair de casa, preciso conferir várias vezes se a porta está trancada e se o gás está fechado (o registro do botijão ou o fogão). Sem isso, não consigo sair com tranquilidade.",
+       "Lavo as mãos ou o corpo cada vez mais, e não consigo parar, mesmo querendo.",
+       "A mesma preocupação volta à minha cabeça o tempo todo, e não consigo parar de pensar nela, mesmo querendo.",
+       "Se as coisas não estão na ordem que defini, ou não são feitas nessa ordem, fico sem sossego e acabo arrumando ou refazendo tudo.",
+       "Conferir leva tanto tempo que a saída atrasa e chego depois da hora em compromissos e no trabalho.",
+       "O corpo se mexe ou saem sons de mim sem que eu queira, e é difícil segurar, mesmo tentando."
+      ],
+      "asks": [
+       "Não quero ouvir logo que me preocupo demais. Me ajuda quando primeiro me escutam.",
+       "Conferir as coisas leva tempo para mim. Me ajuda ter um pouco de tempo extra.",
+       "Me ajuda saber com antecedência quando planos ou rotinas mudam.",
+       "Não quero que comentem ou riam de mim na frente de outras pessoas quando estou conferindo algo ou lavando as mãos.",
+       "Me ajuda quando explicações e instruções vêm uma de cada vez e por escrito.",
+       "Eu gostaria que, antes de decidirmos como vamos seguir daqui para frente, alguém escutasse o que me preocupa, e que tudo fosse decidido com calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Transtorno obsessivo-compulsivo (TOC)",
+        "why": "A página descreve o TOC com ideias e imagens que voltam sem parar e com a sensação de ter que repetir certos atos por causa delas.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Tricotilomania",
+        "why": "A página descreve a tricotilomania como uma vontade difícil de controlar, que volta com frequência, de puxar e arrancar fios de cabelo ou pelos.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Mania de arrancar cabelos (Tricotilomania)",
+         "url": "https://bvsms.saude.gov.br/mania-de-arrancar-cabelos-tricotilomania/",
+         "kind": "fact",
+         "upd": "outubro de 2026"
+        }
+       },
+       {
+        "name": "Autismo (transtorno do espectro autista, na vida adulta)",
+        "why": "A página conta que, na vida adulta, pessoas com TEA podem ter dificuldade quando a rotina muda e com barulhos ou toques.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Autismo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/autismo",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Uma experiência difícil continua pesando",
+      "lead": "Depois de uma experiência difícil, a lembrança volta muitas vezes, o sono piora ou é difícil relaxar.",
+      "scenes": [
+       "De repente, algo pequeno traz de volta a cena e os sentimentos daquele momento difícil.",
+       "Tenho pesadelos parecidos com frequência e, em muitas noites, não consigo dormir fundo.",
+       "Estou sempre em alerta e me assusto com qualquer barulho ou acontecimento pequeno.",
+       "Evito ao máximo lugares, pessoas e assuntos que lembram aquele momento, e o que consigo fazer no dia a dia foi diminuindo.",
+       "Sinto como se meus sentimentos tivessem se apagado e não consigo dar à minha família e aos meus amigos o carinho de antes.",
+       "Me culpo cada vez mais e tenho mais dificuldade de confiar nas pessoas ao meu redor."
+      ],
+      "asks": [
+       "Eu gostaria que não me pressionassem a contar os detalhes do que aconteceu. Prefiro falar só o que consigo, no meu ritmo.",
+       "Alguns sons, lugares e assuntos fazem a lembrança voltar. Me ajuda quando aceitam que eu prefira evitá-los.",
+       "Fica mais fácil para mim se ninguém me chamar de repente por trás nem fizer barulhos altos perto de mim.",
+       "Quando falar é difícil, eu gostaria de poder entregar algo que escrevi.",
+       "Me ajuda quando as noites sem dormir e os dias de cansaço não são vistos como preguiça.",
+       "Eu gostaria de ter um lugar seguro para falar, sem que me apressem com frases como “Esquece isso” ou “Já passou”."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Reação aguda ao estresse",
+        "why": "A página descreve como, depois de um acontecimento estressante ou de uma grande mudança na vida, a pessoa pode ter dificuldade de se adaptar, e o dia a dia e a convivência com os outros podem ficar difíceis.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Saúde Mental (Cadernos de Atenção Básica, nº 34)",
+         "url": "https://bvsms.saude.gov.br/bvs/publicacoes/cadernos_atencao_basica_34_saude_mental.pdf",
+         "kind": "fact",
+         "upd": "1ª edição, 2013"
+        }
+       },
+       {
+        "name": "TEPT (transtorno de estresse pós-traumático)",
+        "why": "A página descreve a situação em que, depois de um acontecimento muito difícil, a pessoa pode reviver o que aconteceu, ter pesadelos e se sentir sem emoção.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Saúde Mental (Cadernos de Atenção Básica, nº 34)",
+         "url": "https://bvsms.saude.gov.br/bvs/publicacoes/cadernos_atencao_basica_34_saude_mental.pdf",
+         "kind": "fact",
+         "upd": "1ª edição, 2013"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificuldades com o sono",
+      "lead": "É difícil pegar no sono, a pessoa acorda durante a noite, é difícil levantar de manhã ou há muito sono durante o dia.",
+      "scenes": [
+       "Mesmo depois de ir para a cama, demoro muito para pegar no sono.",
+       "Acordo várias vezes durante a noite e não consigo dormir profundamente até de manhã.",
+       "Na hora de levantar de manhã não consigo sair da cama, e continuo me atrasando para o trabalho ou para os estudos.",
+       "Durante o dia sinto muito sono e quase pego no sono em reuniões ou ao volante.",
+       "Pessoas da minha família dizem que ronco alto e que parece que a minha respiração para enquanto durmo.",
+       "No fim da tarde e à noite sinto um incômodo e uma agitação nas pernas, e não consigo dormir."
+      ],
+      "asks": [
+       "Eu gostaria que ouvissem com calma como está o meu sono: a hora de pegar no sono, os despertares durante a noite, a dificuldade de levantar de manhã e a sonolência durante o dia.",
+       "Eu gostaria que pensássemos em conjunto nas possíveis causas, incluindo os remédios que tomo e meus hábitos com café, energético, refrigerante, álcool ou cigarro.",
+       "Me ajuda quando não decidem de antemão que é só falta de força de vontade, e quando verificam também a saúde do corpo e como me sinto emocionalmente.",
+       "Fica mais fácil para mim mostrar, em uma anotação escrita, os horários em que vou dormir e acordo. Eu gostaria que olhassem.",
+       "Se for preciso usar algum remédio, eu gostaria que explicassem em palavras simples como ele age e o que devo observar.",
+       "Como as manhãs são difíceis para mim, prefiro consultas à tarde ou no fim do dia."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insônia",
+        "why": "A página fala da insônia como a sensação de dormir pouco ou mal, seja pela dificuldade de pegar no sono ou de continuar dormindo, seja por acordar cedo demais de manhã.",
+        "src": {
+         "org": "Secretaria Municipal da Saúde de Curitiba",
+         "title": "Linha Guia da Saúde Mental",
+         "url": "https://saude.curitiba.pr.gov.br/images/Linha%20Guia%20Saude%20Mental%20SMS%20Curitiba.PR.pdf",
+         "kind": "fact",
+         "upd": "1ª Edição, 2018"
+        }
+       },
+       {
+        "name": "Apneia obstrutiva do sono",
+        "why": "A página explica que, na apneia obstrutiva do sono, a respiração para por instantes durante a noite, a pessoa acorda muitas vezes e fica cansada durante o dia.",
+        "src": {
+         "org": "Secretaria de Estado da Saúde do Espírito Santo",
+         "title": "Sesa oferece tratamento para os casos graves de apneia obstrutiva do sono",
+         "url": "https://saude.es.gov.br/sesa-oferece-tratamento-para-os-casos-graves",
+         "kind": "fact",
+         "upd": "05/07/2010"
+        }
+       },
+       {
+        "name": "Síndrome das pernas inquietas",
+        "why": "A página descreve uma inquietação nas pernas que não depende da vontade, costuma piorar à noite e atrapalha o sono.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Narcolepsia",
+        "why": "A página descreve a narcolepsia como uma condição do sistema nervoso em que a pessoa acaba dormindo em diferentes horas do dia, ainda que tenha descansado bem à noite.",
+        "src": {
+         "org": "Secretaria de Estado de Saúde do Rio de Janeiro",
+         "title": "Serviço da rede estadual de saúde devolve qualidade de vida a quem sofre de transtornos do sono",
+         "url": "https://www.saude.rj.gov.br/noticias/2022/03/servico-da-rede-estadual-de-saude-devolve-qualidade-de-vida-a-quem-sofre-de-transtornos-do-sono",
+         "kind": "fact",
+         "upd": "18/03/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "br136"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificuldades com a alimentação",
+      "lead": "Comer ficou difícil: come-se muito pouco, não se consegue parar, ou a comida dá medo.",
+      "scenes": [
+       "Não tenho vontade de comer, e já faz dias que a comida custa a descer.",
+       "Quando começo a comer não consigo parar, e às vezes como tanto que passo mal.",
+       "Sem perceber, só penso em comida e tenho dificuldade de me concentrar em outras coisas.",
+       "Só consigo comer poucos alimentos e evito muitos outros porque o gosto, o cheiro ou a textura me incomodam muito.",
+       "Depois de me engasgar com comida ou de vomitar, passei a ter medo de comer.",
+       "À noite, às vezes como meio dormindo e, de manhã, não me lembro de ter comido."
+      ],
+      "asks": [
+       "Eu gostaria que não fizessem comentários sobre meu corpo, meu peso ou minha aparência.",
+       "Fica mais fácil para mim se ninguém me obrigar a comer nem me apressar para comer.",
+       "Em almoços em grupo no trabalho, festas e churrascos de família, eu gostaria de poder escolher outro lugar ou outro horário para comer.",
+       "Me ajuda quando perguntam antes o que consigo comer e quais cheiros e texturas são difíceis para mim.",
+       "Eu gostaria que explicassem antes como vão ser os exames e a consulta.",
+       "Me ajuda quando posso entregar por escrito aquilo que é difícil de dizer em voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipotireoidismo",
+        "why": "A página descreve o hipotireoidismo, em que a tireoide produz menos hormônios, e cita o ganho de peso entre as mudanças que ele traz.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Hipotireoidismo",
+         "url": "https://bvsms.saude.gov.br/hipotireoidismo-2/",
+         "kind": "fact",
+         "upd": "janeiro de 2.016"
+        }
+       },
+       {
+        "name": "Anorexia nervosa",
+        "why": "A página descreve a anorexia nervosa como um quadro em que a pessoa passa a comer cada vez menos.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+         "kind": "fact",
+         "upd": "19/09/2022"
+        }
+       },
+       {
+        "name": "Bulimia",
+        "why": "A página descreve a bulimia como um quadro em que a pessoa come muito em pouco tempo e depois tenta compensar.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+         "kind": "fact",
+         "upd": "19/09/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Álcool, apostas ou jogos eletrônicos: difícil parar",
+      "lead": "Há vontade de parar ou diminuir, mas a pessoa continua.",
+      "scenes": [
+       "Mesmo quando decido parar ou diminuir, percebo que voltei a fazer a mesma coisa.",
+       "Não consigo respeitar o tempo, a quantidade ou o dinheiro que defini, como “hoje só até aqui”.",
+       "Escondo ou disfarço, de pessoas próximas, o quanto bebo, o quanto aposto ou o tempo que passo em jogos eletrônicos.",
+       "Passo noites em jogos eletrônicos, não consigo levantar de manhã e me atraso ou falto cada vez mais.",
+       "Volto a apostar para recuperar o que perdi.",
+       "Sei que meu corpo não está bem, mas não consigo beber menos."
+      ],
+      "asks": [
+       "Me ajuda quando primeiro me escutam, sem me culpar nem tirar conclusões precipitadas.",
+       "Eu gostaria que organizássemos em conjunto, passo a passo, como está o meu uso hoje e quais problemas isso traz.",
+       "Fica mais fácil para mim se também verificarem meu sono e como está meu corpo.",
+       "Eu gostaria de saber, de forma concreta, onde posso buscar apoio e que lugares posso frequentar.",
+       "Eu gostaria de saber se minha família ou pessoas próximas podem buscar apoio junto comigo.",
+       "Eu gostaria que combinássemos antes com quem o que eu contar vai ser compartilhado, e até que ponto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcoolismo (dependência do álcool)",
+        "why": "A página descreve o alcoolismo como dependência do álcool e explica que beber com frequência, sem conseguir controlar, pode fazer muito mal ao corpo.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Alcoolismo",
+         "url": "https://bvsms.saude.gov.br/alcoolismo/",
+         "kind": "fact",
+         "upd": "julho de 2.004"
+        }
+       },
+       {
+        "name": "Transtorno do jogo (apostas)",
+        "why": "A página explica que, no transtorno do jogo, a vontade de apostar fica difícil de segurar, mesmo quando já traz perdas e problemas em várias áreas da vida.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Não Aposte Sua Saúde: Um Alerta para o Cuidado",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Distúrbio de games",
+        "why": "A página descreve um quadro em que os jogos eletrônicos ganham cada vez mais importância e ficam acima de outros interesses, da vida pessoal e do convívio com outras pessoas.",
+        "src": {
+         "org": "Faculdade de Medicina da Universidade Federal de Minas Gerais (UFMG)",
+         "title": "Vício em games será considerado transtorno de saúde mental",
+         "url": "https://www.medicina.ufmg.br/vicio-em-games-sera-considerado-transtorno-de-saude-mental/",
+         "kind": "fact",
+         "upd": "02 de janeiro de 2020"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcapsad",
+       "brapos",
+       "brtab",
+       "br136"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificuldades de atenção ou de organização",
+      "lead": "É difícil se concentrar, fazer as coisas na ordem certa ou lembrar delas.",
+      "scenes": [
+       "Mesmo quando alguém está falando comigo, minha cabeça vai para outro assunto sem eu perceber.",
+       "Tenho dificuldade de fazer o trabalho ou as tarefas de casa na ordem certa e perco prazos.",
+       "Muitas vezes não me lembro do que me pediram ou do que combinei, ou perco coisas.",
+       "Quando fico muito tempo na mesma tarefa, aumentam os erros por descuido.",
+       "Quando preciso passar um tempo sem me mexer, sinto inquietação e tenho dificuldade de me acalmar.",
+       "As pessoas ao meu redor dizem que eu esqueço coisas e me atraso com frequência."
+      ],
+      "asks": [
+       "Me ajuda quando recebo uma instrução de cada vez.",
+       "Me ajuda quando o que é importante vem por escrito.",
+       "Me ajuda saber os prazos e os compromissos com antecedência.",
+       "Fica mais fácil para mim se as tarefas vêm em partes pequenas, e não todas de uma vez.",
+       "Eu gostaria de conversar em um lugar tranquilo, onde eu me distraia menos.",
+       "Me ajuda quando reconhecem o que consegui fazer, sem me criticar pelo que não consegui."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Distúrbios do sono",
+        "why": "A página descreve que, quando o sono vai mal, o humor, a memória e a capacidade de pensar e aprender podem mudar.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Apneia obstrutiva do sono",
+        "why": "A página liga o ronco à apneia obstrutiva do sono e descreve que o ronco pode baixar a concentração.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Ronco",
+         "url": "https://bvsms.saude.gov.br/ronco/",
+         "kind": "fact",
+         "upd": "julho de 2.017"
+        }
+       },
+       {
+        "name": "Hipotireoidismo",
+        "why": "A página descreve que, quando a tireoide produz menos hormônios, podem aparecer falhas de memória e muito cansaço.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Hipotireoidismo",
+         "url": "https://bvsms.saude.gov.br/hipotireoidismo-2/",
+         "kind": "fact",
+         "upd": "janeiro de 2.016"
+        }
+       },
+       {
+        "name": "Anemia por falta de ferro",
+        "why": "A página descreve que a falta de ferro no sangue pode diminuir o rendimento no trabalho e a capacidade de aprender.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Anemia",
+         "url": "https://bvsms.saude.gov.br/anemia/",
+         "kind": "fact",
+         "upd": "setembro de 2.016"
+        }
+       },
+       {
+        "name": "Transtorno do déficit de atenção com hiperatividade (TDAH)",
+        "why": "A página descreve dificuldades de planejamento, de atenção prolongada e de memória de trabalho no TDAH.",
+        "src": {
+         "org": "Ministério da Saúde (Portaria Conjunta SAES/SCTIE nº 14/2022)",
+         "title": "Protocolo Clínico e Diretrizes Terapêuticas - Transtorno do Déficit de Atenção com Hiperatividade (TDAH)",
+         "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portariaconjuntan14pcdttranstornododeficitdeatencaocomhiperatividadetdah.pdf/@@download/file",
+         "kind": "summary",
+         "upd": "29 de JULHO de 2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificuldades com relações, rotinas ou estímulos dos sentidos",
+      "lead": "É difícil conversar ou conviver com outras pessoas, há uma necessidade forte de fazer as coisas sempre do mesmo jeito, ou sons, luzes e cheiros são difíceis de suportar.",
+      "scenes": [
+       "Numa conversa, tenho dificuldade de perceber o que a outra pessoa sente ou como está o clima, e a conversa parece não se encaixar.",
+       "Quando preciso falar diante de outras pessoas ou quando todos olham para mim, sinto uma tensão muito forte e acabo evitando a situação.",
+       "Com pessoas que conheço bem eu consigo falar, mas diante de outras minha voz não sai.",
+       "Quando muda meu jeito de fazer as coisas, a ordem do que faço ou o lugar onde as coisas ficam, sinto muita ansiedade.",
+       "Sons, luzes e cheiros parecem fortes demais, e lugares com muita gente são difíceis para mim.",
+       "Tenho dificuldade de ouvir o que as pessoas dizem, ou meu humor está para baixo, e ficou pesado encontrar e conversar com outras pessoas."
+      ],
+      "asks": [
+       "Me ajuda quando falam devagar e com clareza.",
+       "Me ajuda quando o que é importante é escrito para mim.",
+       "Eu gostaria de conversar em um lugar tranquilo.",
+       "Me ajuda saber com antecedência quando os planos ou o jeito de fazer algo vão mudar.",
+       "Fica mais fácil para mim se não me apressam e me dão tempo para responder.",
+       "Eu gostaria de poder responder por escrito ou com um bilhete, em vez de falar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Transtorno de ansiedade social (fobia social)",
+        "why": "A página descreve a ansiedade em momentos em que a pessoa está sob o olhar de outras pessoas, como ao comer ou ao fazer uma apresentação.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Autismo (transtorno do espectro autista, na vida adulta)",
+        "why": "A página descreve que, na vida adulta, mudanças na rotina, barulhos e toques podem pesar, e que pode ser difícil dar conta das emoções no trabalho e nas relações.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Autismo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/autismo",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps",
+       "brcer"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Dificuldades para ler, escrever ou fazer contas",
+      "lead": "Mesmo com muito esforço, continua muito difícil ler, escrever ou fazer contas.",
+      "scenes": [
+       "Levo mais tempo do que os outros para ler um texto e releio várias vezes.",
+       "Mesmo lendo, o conteúdo não entra na minha cabeça, e é difícil entender cartas e formulários de órgãos públicos, do banco ou do INSS.",
+       "Erro muito a ortografia e a acentuação, e troco ou esqueço letras.",
+       "Minha letra sai irregular, e escrever toma muito tempo e esforço.",
+       "Tropeço em contas simples ou em problemas de matemática escritos em texto.",
+       "Consigo conversar e ouvir sem problema, mas, com leitura, escrita ou contas, não avanço como gostaria, mesmo dedicando tempo."
+      ],
+      "asks": [
+       "Me ajuda quando o texto vem em letra maior, com mais espaço entre as linhas e em linguagem simples.",
+       "Me ajuda quando o que é importante é lido em voz alta ou dito para mim.",
+       "Eu gostaria de poder digitar no computador ou no celular, ou registrar com foto ou gravação, em vez de escrever à mão.",
+       "Eu gostaria de poder usar uma calculadora (do celular) nas contas.",
+       "Me ajuda quando tenho mais tempo para ler, escrever e fazer contas.",
+       "Fica mais fácil para mim se recebo uma parte de cada vez, em pequena quantidade."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dislexia",
+        "why": "A página descreve que a dislexia traz dificuldade para ler e escrever, e que ler pode levar mais tempo e pedir muito esforço.",
+        "src": {
+         "org": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+         "title": "A Redação do Enem 2026: Cartilha do(a) Participante com Dislexia",
+         "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026_dislexia.pdf",
+         "kind": "fact",
+         "upd": "setembro de 2026"
+        }
+       },
+       {
+        "name": "Transtorno do déficit de atenção com hiperatividade (TDAH)",
+        "why": "A página descreve que, junto com a dislexia, algumas pessoas também têm TDAH.",
+        "src": {
+         "org": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+         "title": "A Redação do Enem 2026: Cartilha do(a) Participante com Dislexia",
+         "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026_dislexia.pdf",
+         "kind": "fact",
+         "upd": "setembro de 2026"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcer"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes oscilações de humor",
+      "lead": "O humor sobe e desce muito, e é difícil acompanhar.",
+      "scenes": [
+       "Fases de energia demais se alternam com fases em que o desânimo é tão grande que não consigo me mexer.",
+       "Tenho fases em que quase não durmo e, mesmo assim, tenho energia para ficar em movimento o tempo todo.",
+       "Surgem muitas ideias do que quero fazer, uma atrás da outra, e todas ficam pela metade.",
+       "Gastei muito dinheiro e depois me arrependi (no cartão, em parcelas).",
+       "Me irrito com coisas pequenas e tenho dificuldade de controlar o que sinto.",
+       "Quando meu humor estava muito acelerado, agi de um jeito que acabou pesando nas minhas relações ou no trabalho."
+      ],
+      "asks": [
+       "Eu gostaria que também ouvissem sobre as fases em que tive energia demais.",
+       "Eu gostaria de olhar com calma, junto com quem me ouve, como meu humor sobe e desce ao longo do tempo.",
+       "Me ajuda quando alguém me lembra de parar e pensar antes de grandes decisões sobre dinheiro ou trabalho.",
+       "Eu gostaria que também verificassem o lado do corpo, incluindo sono, remédios e bebida alcoólica.",
+       "Me ajuda quando alguém me conta, sem me criticar, que notou algo diferente em mim.",
+       "Me ajuda quando me escutam até o fim, tanto nas fases de muita energia quanto nas de desânimo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Distúrbios do sono",
+        "why": "A página descreve que o sono ruim pode mexer com o humor.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Menopausa e climatério",
+        "why": "A página descreve que, na menopausa e no climatério, o humor pode mudar junto com o sono e com outras mudanças do corpo.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Menopausa e climatério",
+         "url": "https://bvsms.saude.gov.br/menopausa-e-climaterio/",
+         "kind": "fact",
+         "upd": "setembro de 2020"
+        }
+       },
+       {
+        "name": "TPM e TDPM (tensão pré-menstrual e transtorno disfórico pré-menstrual)",
+        "why": "A página descreve o TDPM como um quadro mais intenso que a tensão pré-menstrual, em que o humor oscila nos dias que antecedem a menstruação.",
+        "src": {
+         "org": "Jornal da USP (Universidade de São Paulo), por Letícia Naome",
+         "title": "Transtorno Disfórico Pré-Menstrual pode ser confundido com ansiedade ou depressão",
+         "url": "https://jornal.usp.br/atualidades/transtorno-disforico-pre-menstrual-pode-ser-confundido-com-ansiedade-ou-depressao/",
+         "kind": "fact",
+         "upd": "25/04/2022"
+        }
+       },
+       {
+        "name": "Transtorno bipolar",
+        "why": "A página descreve mudanças de humor em fases que se alternam, ora de euforia, ora de depressão.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtorno bipolar afeta cerca de 140 milhões de pessoas no mundo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtorno-bipolar-afeta-cerca-de-140-milhoes-de-pessoas-no-mundo",
+         "kind": "fact",
+         "upd": "27/09/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conhecer um nome pode fazer os altos e baixos do dia a dia parecerem algo mais",
+       "body": "Quando você fica sabendo o nome de uma doença ou de uma condição do desenvolvimento, um pouco de cansaço ou os momentos em que sua cabeça está longe podem começar a parecer algo mais do que são.\n\nAs emoções podem mexer com o corpo e com o humor. Isso não é imaginação; acontece de verdade. Mas pouco sono, estresse, o celular e o que acontece à sua volta também podem causar algo parecido.\n\nSe você lê um nome e pensa “talvez seja isso que eu tenho”, não conclua só por isso. Pense também em outras causas. E se o que está difícil continuar, você pode falar disso do jeito que é, mesmo sem ter um nome para isso.",
+       "srcs": []
+      },
+      {
+       "h": "Altos e baixos no humor acontecem com todo mundo.",
+       "body": "O Ministério da Saúde escreve: “A ansiedade é uma reação emocional que pode estar presente em qualquer momento da vida e ser causada por diferentes situações.”\n\nUm nome (um diagnóstico) é dado por um médico. Como isso acontece, o Ministério da Saúde explica no texto que aparece no fim da lista de nomes deste app.\n\nSe o que está difícil continuar, você pode falar disso do jeito que é, seja qual for o nome.",
+       "srcs": [
+        {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "quote",
+         "upd": "21/09/2022"
+        }
+       ]
+      },
+      {
+       "h": "Você pode falar do que está difícil mesmo sem um nome",
+       "body": "Você pode falar do que está difícil mesmo sem saber o nome.\n\nA UBS (Unidade Básica de Saúde) é a porta de entrada do SUS. Se você não sabe por onde começar, pode procurar direto a UBS mais perto de casa.\n\nQuando o sofrimento psíquico é muito intenso, existem também os CAPS (Centros de Atenção Psicossocial). O Ministério da Saúde escreve: “Procura direta - Você pode ir até o CAPS da sua região e solicitar atendimento. Os CAPS funcionam em regime de porta aberta, ou seja, não é preciso marcar consulta para o primeiro acolhimento.” Segundo o Ministério, todos os caminhos até um CAPS são gratuitos pelo SUS. Nem toda cidade tem CAPS.\n\nPara dificuldades do dia a dia e de renda existe também o CRAS, da assistência social (não é um serviço de saúde). Segundo o governo, não é preciso levar documentos para o atendimento; se tiver, você pode levar um documento de identidade.\n\nRecusar adaptações razoáveis a uma pessoa com deficiência é considerado discriminação pela Lei nº 13.146/2015 (art. 4º, § 1º).",
+       "srcs": [
+        {
+         "org": "Ministério da Saúde",
+         "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+         "kind": "fact",
+         "upd": "10/09/2021"
+        },
+        {
+         "org": "Ministério da Saúde",
+         "title": "Centros de Atenção Psicossocial",
+         "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+         "kind": "quote",
+         "upd": "none"
+        },
+        {
+         "org": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS)",
+         "title": "Acessar o Centro de Referência da Assistência Social (CRAS)",
+         "url": "https://www.gov.br/pt-br/servicos/acessar-o-cras-centro-de-referencia-da-assistencia-social",
+         "kind": "fact",
+         "upd": "14/07/2026"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 4º, § 1º)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Mas, para alguns direitos e benefícios, pode ser preciso apresentar documentos de um médico",
+       "body": "Sobre o benefício por incapacidade temporária, o INSS escreve: “Vale destacar que é necessário comprovar a incapacidade para o trabalho por meio da apresentação de atestado médico e documentos complementares.”\n\nA lei prevê o auxílio por incapacidade temporária para o segurado do INSS que fica incapaz de exercer o seu trabalho ou a sua atividade habitual, nas condições que a lei define. Para esse auxílio do INSS, o atestado médico deve trazer o CID ou a descrição da doença. Para o BPC (benefício assistencial), a deficiência é avaliada pelo serviço social e pela perícia médica do INSS. Para a Ciptea (Carteira de Identificação da Pessoa com Transtorno do Espectro Autista), o pedido é feito com um relatório médico. Na faculdade e em provas, o pedido de adaptação, como mais tempo, também pode exigir que você comprove a necessidade.\n\nO que é preciso varia de um benefício para outro; pergunte antes ao órgão responsável.",
+       "srcs": [
+        {
+         "org": "Instituto Nacional do Seguro Social (INSS)",
+         "title": "Você sabia que depressão e outros transtornos mentais podem dar direito ao benefício por incapacidade temporária?",
+         "url": "https://www.gov.br/inss/pt-br/noticias/noticias/voce-sabia-que-depressao-e-outros-transtornos-mentais-podem-dar-direito-ao-beneficio-por-incapacidade-temporaria",
+         "kind": "quote",
+         "upd": "11/03/2025"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 8.213, DE 24 DE JULHO DE 1991 (art. 59)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Instituto Nacional do Seguro Social (INSS)",
+         "title": "Auxílio por incapacidade temporária",
+         "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria",
+         "kind": "fact",
+         "upd": "04/10/2023"
+        },
+        {
+         "org": "Instituto Nacional do Seguro Social (INSS)",
+         "title": "Benefício assistencial à pessoa com deficiência (BPC-Loas)",
+         "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-assistenciais/beneficio-assistencial-a-pessoa-com-deficiencia-bpc-loas",
+         "kind": "fact",
+         "upd": "23/06/2023"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 8.742, DE 7 DE DEZEMBRO DE 1993 (art. 20, § 6º)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/1993/lei-8742-7-dezembro-1993-363163-normaatualizada-pl.html",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 12.764, DE 27 DE DEZEMBRO DE 2012 (art. 3º-A, § 1º)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.html",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 30, V)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Um nome de doença não é uma ferramenta para se colocar acima de ninguém",
+       "body": "Um nome de doença não é uma ferramenta para se colocar acima de alguém nem para olhar os outros de cima.\nPara algumas pessoas, saber o nome do que estão vivendo ajuda a se sentirem mais leves. Isso é importante.\nQuerer compreensão e gentileza das pessoas ao redor também faz sentido.\n\nQuando você quer que as pessoas ao redor sejam gentis com você, pode pedir isso diretamente, sem precisar dizer o nome de uma doença.\nFica mais fácil de entender quando você diz duas coisas juntas: o que está difícil para você e o que você gostaria que a outra pessoa fizesse.\n\nAqui estão alguns exemplos:\n“Hoje estou com pouca energia. Me ajuda quando falam mais devagar comigo.”\n“Me confundo quando falam muitas coisas de uma vez. Me ajuda quando falam uma coisa de cada vez.”\n“Tenho dificuldade de lembrar o que só é dito de boca. Eu gostaria de receber as coisas importantes por escrito, no papel ou por e-mail.”\n“Lugares com muita gente me tomam muita energia. Fica mais fácil para mim se conversarmos em um lugar tranquilo.”\n“Preciso de um pouco de tempo para responder. Me ajuda quando esperam um instante.”\n“Agora estou com muitos sentimentos ao mesmo tempo. Me ajuda quando primeiro me escutam. Conselhos podem esperar para depois.”\n“Hoje não estou bem. Me ajuda poder descansar um pouco.”\n“Mudanças repentinas nos planos me desorientam. Me ajuda saber com antecedência.”\n“Quando falam alto comigo, sinto medo. Me ajuda quando falam com calma.”\n\nSe for difícil dizer isso bem, você pode escrever em um papel e entregar. Você também pode mostrar a página “O que está difícil para mim” com o botão “Mostrar grande”. Ela aparece neste app quando você escolhe algo que está difícil e responde às perguntas.\nSe quiser contar o nome que você já recebeu, também pode. Mesmo assim, ajuda a outra pessoa saber o que está difícil para você e o que você gostaria que ela fizesse.\nÀs vezes a outra pessoa não consegue fazer o que você pede, por causa da situação dela. Nesse caso, vocês podem procurar juntos outro caminho.\n\nNo trabalho, você pode pedir ajuda com as mesmas palavras: “Tenho dificuldade de seguir várias instruções ao mesmo tempo. Fica mais fácil para mim se eu receber as instruções por escrito.” Se o ajuste precisar ser formal, um documento por escrito pode ser necessário.\n\nNão use a lista de nomes deste app para duvidar das pessoas ao seu redor.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre este app",
+       "body": "Isto não é um diagnóstico. Se um nome aparece na lista, isso não significa que um médico apontou esse nome para você.\n\nEste app não é um dispositivo médico e não faz diagnósticos, tratamentos, não cura e não previne nenhuma condição médica.\n\nA SOYOGI é um grupo sem fins lucrativos, sem personalidade jurídica, com sede no Japão. A SOYOGI não tem relação com o governo do Brasil, o Ministério da Saúde, o SUS, os estados, os municípios nem com qualquer serviço de saúde, e nenhum deles recomenda ou apoia este app. Os nomes de órgãos e de outras instituições mostram apenas de onde a informação vem. Os textos originais podem ser lidos gratuitamente no site de cada instituição.\n\nO conteúdo foi escrito pela SOYOGI com palavras próprias, a partir de páginas públicas do Brasil; as poucas frases tiradas palavra por palavra aparecem entre aspas “assim”. As fontes aparecem em cada tela, com a data da página quando ela mostra uma. Acesso em 1º de novembro de 2026. Telefones, números e horários podem mudar.\n\nQuem decide se vai buscar ajuda é você, não o app. Este app é destinado a pessoas a partir de 13 anos.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "“Quem precisa de ajuda e não sabe por onde começar pode ir direto até uma Unidade Básica de Saúde (UBS), onde será realizado o acolhimento e uma avaliação inicial, para direcionar o tratamento e, dependendo das necessidades de atendimento, encaminhamento para os demais pontos de atenção da Rede de Atenção Psicossocial (Raps).”",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+       "kind": "quote",
+       "upd": "10/09/2021"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Para dificuldades de atenção, de leitura e escrita ou de convivência, você pode começar pela UBS mais perto de casa, mesmo sem saber o nome do que está acontecendo. A equipe da UBS pode orientar os próximos passos na rede do SUS.",
+       "src": {
+        "org": "Ministério da Saúde",
+        "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+        "kind": "fact",
+        "upd": "10/09/2021"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre como se chega a um nome (um diagnóstico), o Ministério da Saúde escreve, no caso da depressão:",
+      "text": "“O diagnóstico da depressão é clínico, feito pelo médico após coleta completa da história do paciente e realização de um exame do estado mental.”",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Depressão",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao",
+       "kind": "quote",
+       "upd": "none"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low for a long time and you lack the energy for anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home fall behind.",
+       "I blame myself and see almost everything in the darkest light.",
+       "At night I cannot sleep, or else I sleep too much. I lose my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when people tell me what to do, one thing at a time.",
+       "I need time to think. It helps me when there is no rush to answer or decide.",
+       "It helps me to get the important things in writing.",
+       "It helps me when the person listens to me first, before saying “Stay strong!”",
+       "I do not want people to think that resting is laziness.",
+       "It helps me when we check together whether a physical illness or a medicine I take has something to do with this."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Secondary depression (physical illness or medicines)",
+        "why": "The page describes secondary depression, a depressed state linked to physical illnesses or to taking medicines.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Depressão",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "The page says that when the thyroid makes fewer hormones, forgetfulness, a lot of tiredness and depression can appear.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Hipotireoidismo",
+         "url": "https://bvsms.saude.gov.br/hipotireoidismo-2/",
+         "kind": "fact",
+         "upd": "janeiro de 2.016"
+        }
+       },
+       {
+        "name": "Menopause and the climacteric",
+        "why": "The page mentions hot flashes and changes in sleep and mood during menopause and the climacteric.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Menopausa e climatério",
+         "url": "https://bvsms.saude.gov.br/menopausa-e-climaterio/",
+         "kind": "fact",
+         "upd": "setembro de 2020"
+        }
+       },
+       {
+        "name": "Sleep disorders",
+        "why": "The page links sleep disorders, such as insomnia, with changes in memory, in the ability to think and in mood.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Burnout syndrome (work-related exhaustion)",
+        "why": "The page links work-related exhaustion to very draining work situations, with intense exhaustion and stress.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Síndrome de Burnout",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sindrome-de-burnout",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page describes depression as a mental illness and mentions substances in the brain that act on mood, sleep and appetite.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Depressão",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "The page describes mood changes in which phases of depression alternate with phases of euphoria or with mixed feelings.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtorno bipolar afeta cerca de 140 milhões de pessoas no mundo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtorno-bipolar-afeta-cerca-de-140-milhoes-de-pessoas-no-mundo",
+         "kind": "fact",
+         "upd": "27/09/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worry that will not stop, a racing heart and trouble calming down, or trouble being around other people or leaving home.",
+      "scenes": [
+       "When I have to speak in front of other people, or when I am the center of attention, I feel so anxious that my mind goes blank.",
+       "Suddenly my heart starts racing and I feel short of breath. I am afraid it will happen again, and that makes it hard to leave home.",
+       "I worry about one thing after another, even without a clear reason. I feel restless, and it wears me out.",
+       "I have trouble with places that are hard to get out of, such as a bus, subway or train, and with crowded places like the mall, and also with leaving home without anyone with me. So I avoid these situations.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My world has become smaller.",
+       "The worry will not leave my head, and at night I cannot fall asleep."
+      ],
+      "asks": [
+       "It helps me when people wait calmly until I speak.",
+       "It helps me to know in advance how the conversation will go and what is planned.",
+       "I would prefer not to be asked for my opinion in front of other people without warning. It helps me to be able to answer in writing too.",
+       "If I start to feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with few people.",
+       "I do not want to be told right away that I worry too much. It helps me when people first listen to what is difficult for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety linked to substances, withdrawal or medical conditions",
+        "why": "The page explains that anxiety can appear linked to the use of drugs, to withdrawal, or to physical illnesses.",
+        "src": {
+         "org": "Ministério da Saúde, Secretaria de Atenção Primária à Saúde (Linhas de Cuidado)",
+         "title": "Definição - Transtornos de Ansiedade no adulto",
+         "url": "https://linhasdecuidado.saude.gov.br/portal/ansiedade/definicao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "The page describes a panic attack as a crisis that starts suddenly, with sensations such as shortness of breath and a racing heart.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "The page talks about excessive worry that is not tied to any specific situation.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Social anxiety disorder (social phobia)",
+        "why": "The page describes the anxiety that appears when a person feels watched, for example while eating, signing a document or presenting in front of other people.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Agoraphobia",
+        "why": "The page describes agoraphobia as a fear linked to public transport, crowds and other places where it can seem hard to get away or to get help.",
+        "src": {
+         "org": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+         "title": "Ansiedade",
+         "url": "https://www.ufrgs.br/saudemental/?page_id=317",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Specific phobia",
+        "why": "The page describes specific phobia as a very strong fear of particular objects or situations, such as animals, flying in a plane or seeing blood.",
+        "src": {
+         "org": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+         "title": "Ansiedade",
+         "url": "https://www.ufrgs.br/saudemental/?page_id=317",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "Checking the door or the gas several times, or washing your hands often: the same things repeat and it is hard to stop, even when you want to.",
+      "scenes": [
+       "When I leave home, I have to check several times whether the door is locked and the gas is turned off (the gas cylinder valve or the stove). Without that, I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more, and I cannot stop, even though I want to.",
+       "The same worry comes back into my head all the time, and I cannot stop thinking about it, even though I want to.",
+       "If things are not in the order I set, or are not done in that order, I feel uneasy and end up tidying or redoing everything.",
+       "Checking takes so long that I leave late and arrive after the agreed time for appointments and for work.",
+       "My body moves or sounds come out of me without my wanting them to, and it is hard to hold back, even when I try."
+      ],
+      "asks": [
+       "I do not want to be told right away that I worry too much. It helps me when people listen to me first.",
+       "Checking things takes me time. It helps me to have a little extra time.",
+       "It helps me to know in advance when plans or routines change.",
+       "I do not want people to make comments or laugh at me in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions come one at a time and in writing.",
+       "Before we decide how we will go on from here, I would like someone to listen to what worries me, and for everything to be decided calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "The page describes OCD with ideas and images that keep coming back and with the feeling of having to repeat certain acts because of them.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Trichotillomania",
+        "why": "The page describes trichotillomania as an urge, hard to control and coming back often, to pull at and pull out strands of hair or body hair.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Mania de arrancar cabelos (Tricotilomania)",
+         "url": "https://bvsms.saude.gov.br/mania-de-arrancar-cabelos-tricotilomania/",
+         "kind": "fact",
+         "upd": "outubro de 2026"
+        }
+       },
+       {
+        "name": "Autism (autism spectrum disorder, in adulthood)",
+        "why": "The page says that in adult life, people with autism spectrum disorder can have difficulty when the routine changes and with noises or touch.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Autismo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/autismo",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still weighing on me",
+      "lead": "After a hard experience, the memory often comes back, sleep gets worse, or it is hard to relax.",
+      "scenes": [
+       "Suddenly something small brings back the scene and the feelings of that hard moment.",
+       "I often have similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always on alert, and any noise or small event makes me jump.",
+       "I avoid places, people and topics that remind me of that moment as much as I can, and what I manage to do in daily life has been shrinking.",
+       "I feel as if my feelings had switched off, and I cannot give my family and friends the affection I used to.",
+       "I blame myself more and more, and I find it harder to trust the people around me."
+      ],
+      "asks": [
+       "Please do not press me to tell the details of what happened. I prefer to say only what I can, at my own pace.",
+       "Some sounds, places and topics bring the memory back. It helps me when people accept that I prefer to avoid them.",
+       "It is easier for me if nobody calls me suddenly from behind or makes loud noises near me.",
+       "When talking is hard, I would like to be able to hand over something I wrote.",
+       "It helps me when nights without sleep and days of tiredness are not seen as laziness.",
+       "I would like to have a safe place to talk, without being rushed with phrases like “Forget it” or “That's over now”."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Acute stress reaction",
+        "why": "This page describes how, after a stressful event or a big change in life, a person can find it hard to adapt, and daily life and getting along with other people can become difficult.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Saúde Mental (Cadernos de Atenção Básica, nº 34)",
+         "url": "https://bvsms.saude.gov.br/bvs/publicacoes/cadernos_atencao_basica_34_saude_mental.pdf",
+         "kind": "fact",
+         "upd": "1ª edição, 2013"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page describes how, after a very hard event, a person can relive what happened, have nightmares and feel emotionally flat.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Saúde Mental (Cadernos de Atenção Básica, nº 34)",
+         "url": "https://bvsms.saude.gov.br/bvs/publicacoes/cadernos_atencao_basica_34_saude_mental.pdf",
+         "kind": "fact",
+         "upd": "1ª edição, 2013"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up during the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even after I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times during the night and cannot sleep deeply until morning.",
+       "When it is time to get up in the morning I cannot get out of bed, and I keep being late for work or for my studies.",
+       "During the day I feel very sleepy, and I almost fall asleep in meetings or at the wheel.",
+       "People in my family say that I snore loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and in the evening I feel discomfort and restlessness in my legs, and I cannot sleep."
+      ],
+      "asks": [
+       "I would like people to take the time to listen to how my sleep is going: what time I fall asleep, waking up during the night, how hard it is to get up in the morning and the sleepiness during the day.",
+       "I would like us to think together about what may be playing a part, including the medicines I take and my habits with coffee, energy drinks, soda, alcohol or cigarettes.",
+       "It helps me when people do not decide beforehand that it is just a lack of willpower, and when they also look at my physical health and how I feel emotionally.",
+       "It is easier for me to show, in a written note, the times when I go to sleep and wake up. I would like you to look at it.",
+       "If a medicine is needed, I would like someone to explain in simple words how it works and what I should watch for.",
+       "Since mornings are hard for me, I prefer appointments in the afternoon or late in the day."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "This page talks about insomnia as the feeling of sleeping too little or badly, either from trouble falling asleep or staying asleep, or from waking up too early in the morning.",
+        "src": {
+         "org": "Secretaria Municipal da Saúde de Curitiba",
+         "title": "Linha Guia da Saúde Mental",
+         "url": "https://saude.curitiba.pr.gov.br/images/Linha%20Guia%20Saude%20Mental%20SMS%20Curitiba.PR.pdf",
+         "kind": "fact",
+         "upd": "1ª Edição, 2018"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "This page explains that, in obstructive sleep apnea, breathing stops for brief moments during the night, the person wakes up many times and feels tired during the day.",
+        "src": {
+         "org": "Secretaria de Estado da Saúde do Espírito Santo",
+         "title": "Sesa oferece tratamento para os casos graves de apneia obstrutiva do sono",
+         "url": "https://saude.es.gov.br/sesa-oferece-tratamento-para-os-casos-graves",
+         "kind": "fact",
+         "upd": "05/07/2010"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page describes a restlessness in the legs that is not under the person's control, usually gets worse at night and gets in the way of sleep.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "This page describes narcolepsy as a condition of the nervous system in which the person ends up falling asleep at different times of the day, even after resting well at night.",
+        "src": {
+         "org": "Secretaria de Estado de Saúde do Rio de Janeiro",
+         "title": "Serviço da rede estadual de saúde devolve qualidade de vida a quem sofre de transtornos do sono",
+         "url": "https://www.saude.rj.gov.br/noticias/2022/03/servico-da-rede-estadual-de-saude-devolve-qualidade-de-vida-a-quem-sofre-de-transtornos-do-sono",
+         "kind": "fact",
+         "upd": "18/03/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "br136"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating has become hard: you eat very little, you cannot stop, or food feels scary.",
+      "scenes": [
+       "I do not feel like eating, and for days now food has been hard to get down.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel sick.",
+       "Without noticing, I think only about food, and I find it hard to concentrate on other things.",
+       "I can only eat a few foods and I avoid many others because the taste, smell or texture bothers me a lot.",
+       "After choking on food or vomiting, I became afraid of eating.",
+       "At night I sometimes eat half asleep and, in the morning, I do not remember having eaten."
+      ],
+      "asks": [
+       "Please do not comment on my body, my weight or my appearance.",
+       "It is easier for me if nobody forces me to eat or rushes me to eat.",
+       "At group lunches at work, parties and family barbecues, I would like to be able to choose another place or another time to eat.",
+       "It helps me when people ask beforehand what I can eat and which smells and textures are hard for me.",
+       "I would like someone to explain beforehand how the tests and the appointment will go.",
+       "It helps me when I can hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypothyroidism",
+        "why": "This page describes hypothyroidism, in which the thyroid produces fewer hormones, and mentions weight gain among the changes it brings.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Hipotireoidismo",
+         "url": "https://bvsms.saude.gov.br/hipotireoidismo-2/",
+         "kind": "fact",
+         "upd": "janeiro de 2.016"
+        }
+       },
+       {
+        "name": "Anorexia nervosa",
+        "why": "This page describes anorexia nervosa as a condition in which the person eats less and less.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+         "kind": "fact",
+         "upd": "19/09/2022"
+        }
+       },
+       {
+        "name": "Bulimia",
+        "why": "This page describes bulimia as a condition in which the person eats a lot in a short time and then tries to make up for it.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Mais de 70 milhões de pessoas no mundo possuem algum distúrbio alimentar",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/mais-de-70-milhoes-de-pessoas-no-mundo-possuem-algum-disturbio-alimentar",
+         "kind": "fact",
+         "upd": "19/09/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, betting or playing video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I notice that I have gone back to doing the same thing.",
+       "I can't keep to the time, the amount or the money I set for myself, like “just this much today.”",
+       "From people close to me, I hide or play down how much I drink, how much I bet or how much time I spend on video games.",
+       "I spend nights playing video games, I can't get up in the morning, and I am late or absent more and more often.",
+       "I bet again to win back what I lost.",
+       "I know my body is not doing well, but I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "I would like us to sort out together, step by step, what my use looks like today and what problems it brings.",
+       "It is easier for me if people also check my sleep and how my body is doing.",
+       "I would like to know, in concrete terms, where I can look for support and which places I can go to.",
+       "I would like to know whether my family or people close to me can look for support together with me.",
+       "I would like us to agree beforehand on who will hear what I share, and how far it will go."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence (alcoholism)",
+        "why": "This page describes alcoholism as dependence on alcohol and explains that drinking often, without being able to control it, can do a lot of harm to the body.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Alcoolismo",
+         "url": "https://bvsms.saude.gov.br/alcoolismo/",
+         "kind": "fact",
+         "upd": "julho de 2.004"
+        }
+       },
+       {
+        "name": "Gambling disorder (betting)",
+        "why": "The page explains that, in gambling disorder, the urge to bet becomes hard to hold back, even when it already brings losses and problems in many areas of life.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Não Aposte Sua Saúde: Um Alerta para o Cuidado",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gaming disorder",
+        "why": "The page describes a condition in which video games gain more and more importance and come before other interests, before personal life and before time with other people.",
+        "src": {
+         "org": "Faculdade de Medicina da Universidade Federal de Minas Gerais (UFMG)",
+         "title": "Vício em games será considerado transtorno de saúde mental",
+         "url": "https://www.medicina.ufmg.br/vicio-em-games-sera-considerado-transtorno-de-saude-mental/",
+         "kind": "fact",
+         "upd": "02 de janeiro de 2020"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcapsad",
+       "brapos",
+       "brtab",
+       "br136"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, doing things in the right order, or remembering them.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to another subject without my noticing.",
+       "I have trouble doing my work or housework in the right order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I agreed to, or I lose things.",
+       "When I stay on the same task for a long time, careless mistakes increase.",
+       "When I have to stay still for a while, I feel restless and find it hard to calm down.",
+       "People around me say that I forget things and am often late."
+      ],
+      "asks": [
+       "It helps me when I am given one instruction at a time.",
+       "It helps me when important things are put in writing.",
+       "It helps me to know deadlines and appointments in advance.",
+       "It is easier for me if tasks come in small parts, and not all at once.",
+       "I would like to talk in a quiet place, where I get less distracted.",
+       "It helps me when people recognize what I have managed to do, without criticizing me for what I have not."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep disorders",
+        "why": "This page explains that when sleep is not going well, mood, memory and the ability to think and learn can change.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "This page links snoring to obstructive sleep apnea and explains that snoring can lower concentration.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Ronco",
+         "url": "https://bvsms.saude.gov.br/ronco/",
+         "kind": "fact",
+         "upd": "julho de 2.017"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "This page explains that when the thyroid makes fewer hormones, memory lapses and a lot of tiredness can appear.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Hipotireoidismo",
+         "url": "https://bvsms.saude.gov.br/hipotireoidismo-2/",
+         "kind": "fact",
+         "upd": "janeiro de 2.016"
+        }
+       },
+       {
+        "name": "Iron-deficiency anemia",
+        "why": "This page explains that a lack of iron in the blood can lower performance at work and the ability to learn.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Anemia",
+         "url": "https://bvsms.saude.gov.br/anemia/",
+         "kind": "fact",
+         "upd": "setembro de 2.016"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "The page describes difficulties with planning, sustained attention and working memory in ADHD.",
+        "src": {
+         "org": "Ministério da Saúde (Portaria Conjunta SAES/SCTIE nº 14/2022)",
+         "title": "Protocolo Clínico e Diretrizes Terapêuticas - Transtorno do Déficit de Atenção com Hiperatividade (TDAH)",
+         "url": "https://www.gov.br/conitec/pt-br/midias/protocolos/portariaconjuntan14pcdttranstornododeficitdeatencaocomhiperatividadetdah.pdf/@@download/file",
+         "kind": "summary",
+         "upd": "29 de JULHO de 2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or being with other people, a strong need to always do things the same way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation, I find it hard to pick up on what the other person feels or what the mood is, and the conversation doesn't seem to come together.",
+       "When I have to speak in front of other people or when everyone is looking at me, I feel very tense and end up avoiding the situation.",
+       "I can talk with people I know well, but in front of others my voice won't come out.",
+       "When my way of doing things, the order of what I do or the place where things are kept changes, I feel a lot of anxiety.",
+       "Sounds, lights and smells seem too strong, and places with a lot of people are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with other people has come to weigh on me."
+      ],
+      "asks": [
+       "It helps me when people speak slowly and clearly.",
+       "It helps me when what is important is written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me to know in advance when plans or ways of doing something are going to change.",
+       "It is easier for me if people don't rush me and give me time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety disorder (social phobia)",
+        "why": "This page describes anxiety at moments when other people's eyes are on someone, for example while eating or giving a presentation.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       },
+       {
+        "name": "Autism (autism spectrum disorder, in adulthood)",
+        "why": "This page explains that in adult life, changes in routine, noises and being touched can weigh on a person, and that work and relationships can bring feelings that are hard to cope with.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Autismo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/autismo",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps",
+       "brcer"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "Even with a lot of effort, reading, writing or calculating is still very hard.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I read it again several times.",
+       "Even when I read, the content does not sink in, and I find it hard to understand letters and forms from government offices, the bank or the INSS.",
+       "I make many mistakes with spelling and accent marks, and I mix up or leave out letters.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple calculations or on math problems written out in words.",
+       "I can talk and listen without difficulty, but with reading, writing or calculating I do not get as far as I would like, even when I put time into it."
+      ],
+      "asks": [
+       "Please give me text in larger print, with more space between the lines and in simple language.",
+       "Please read the important things aloud to me or tell them to me.",
+       "I would like to be able to enter text on a computer or phone, or keep a record with a photo or a recording, instead of writing by hand.",
+       "I would like to be able to use a calculator (on my phone) for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "It is easier for me if I get one part at a time, in small amounts."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia",
+        "why": "This page explains that dyslexia makes reading and writing difficult, and that reading can take more time and a lot of effort.",
+        "src": {
+         "org": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+         "title": "A Redação do Enem 2026: Cartilha do(a) Participante com Dislexia",
+         "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026_dislexia.pdf",
+         "kind": "fact",
+         "upd": "setembro de 2026"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page explains that, together with dyslexia, some people also have ADHD.",
+        "src": {
+         "org": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)",
+         "title": "A Redação do Enem 2026: Cartilha do(a) Participante com Dislexia",
+         "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026_dislexia.pdf",
+         "kind": "fact",
+         "upd": "setembro de 2026"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcer"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "Mood goes up and down a lot, and it is hard to keep up with it.",
+      "scenes": [
+       "Phases of too much energy alternate with phases when I feel so down that I cannot move.",
+       "There are phases when I hardly sleep, and even so I have the energy to keep moving all the time.",
+       "Many ideas about what I want to do come to me, one after another, and all of them end up half done.",
+       "I spent a lot of money and then regretted it (on my card, in installments).",
+       "Small things irritate me, and I find it hard to control what I feel.",
+       "When my mood was racing, I acted in ways that ended up weighing on my relationships or my work."
+      ],
+      "asks": [
+       "I would like people to also hear about the phases when I had too much energy.",
+       "I would like to look calmly, together with the person who is listening to me, at how my mood goes up and down over time.",
+       "It helps me when someone reminds me to stop and think before big decisions about money or work.",
+       "I would like people to also check the physical side, including sleep, medicines and alcohol.",
+       "It helps me when someone tells me, without criticizing me, that they noticed something different about me.",
+       "It helps me when people listen to me all the way through, both in the phases of a lot of energy and in the low ones."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep disorders",
+        "why": "This page explains that poor sleep can affect mood.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Distúrbios do sono",
+         "url": "https://bvsms.saude.gov.br/disturbios-do-sono/",
+         "kind": "fact",
+         "upd": "novembro de 2.012"
+        }
+       },
+       {
+        "name": "Menopause and the climacteric",
+        "why": "This page explains that, in menopause and the climacteric, mood can change along with sleep and other changes in the body.",
+        "src": {
+         "org": "Biblioteca Virtual em Saúde do Ministério da Saúde (BVS MS)",
+         "title": "Menopausa e climatério",
+         "url": "https://bvsms.saude.gov.br/menopausa-e-climaterio/",
+         "kind": "fact",
+         "upd": "setembro de 2020"
+        }
+       },
+       {
+        "name": "Premenstrual syndrome (PMS) and premenstrual dysphoric disorder (PMDD)",
+        "why": "This page describes PMDD as a more intense condition than premenstrual tension, in which mood goes up and down in the days before menstruation.",
+        "src": {
+         "org": "Jornal da USP (Universidade de São Paulo), por Letícia Naome",
+         "title": "Transtorno Disfórico Pré-Menstrual pode ser confundido com ansiedade ou depressão",
+         "url": "https://jornal.usp.br/atualidades/transtorno-disforico-pre-menstrual-pode-ser-confundido-com-ansiedade-ou-depressao/",
+         "kind": "fact",
+         "upd": "25/04/2022"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes changes in mood that come in alternating phases, sometimes of euphoria and sometimes of depression.",
+        "src": {
+         "org": "Ministério da Saúde",
+         "title": "Transtorno bipolar afeta cerca de 140 milhões de pessoas no mundo",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtorno-bipolar-afeta-cerca-de-140-milhoes-de-pessoas-no-mundo",
+         "kind": "fact",
+         "upd": "27/09/2022"
+        }
+       }
+      ],
+      "windows": [
+       "brubs",
+       "brcaps"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs seem like something more",
+       "body": "When you learn the name of an illness or of a developmental condition, a little tiredness or the moments when your mind drifts off can start to seem like something more than they are.\n\nEmotions can affect your body and your mood. That is not imagination; it really happens. But too little sleep, stress, your phone and what is going on around you can also cause something similar.\n\nIf you read a name and think “maybe this is what I have,” do not decide on that alone. Think about other causes too. And if what is hard continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs in mood happen to everyone.",
+       "body": "A page of the Ministério da Saúde explains that anxiety is an emotional reaction. It says that many kinds of situations can bring it on, and that it can appear at any point in life.\n\nA name (a diagnosis) is given by a doctor. How this happens is explained by the Ministério da Saúde in the text shown at the end of the list of names in this app.\n\nIf what is hard continues, you can talk about it as it is, whatever it is called.",
+       "srcs": [
+        {
+         "org": "Ministério da Saúde",
+         "title": "Transtornos de ansiedade podem estar relacionados a fatores genéticos",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtornos-de-ansiedade-podem-estar-relacionados-a-fatores-geneticos",
+         "kind": "fact",
+         "upd": "21/09/2022"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is hard even without a name",
+       "body": "You can talk about what is hard even without knowing the name.\n\nThe UBS (Unidade Básica de Saúde, a health center) is the front door to the SUS. If you do not know where to start, you can go straight to the UBS nearest your home.\n\nWhen psychological distress is very intense, there are also the CAPS (Centros de Atenção Psicossocial). The Ministério da Saúde page on the CAPS explains that they keep an open door: no appointment is needed for the first welcome visit, and you can simply go to the CAPS in your area and ask to be seen. According to the Ministry, all the ways to reach a CAPS are free through the SUS. Not every town has a CAPS.\n\nFor everyday difficulties and difficulties with income, there is also the CRAS, a social assistance service (it is not a health service). According to the government, you do not need to bring documents for the service; if you have one, you can bring an identity document.\n\nRefusing reasonable accommodations to a person with a disability is considered discrimination under Lei nº 13.146/2015 (art. 4, § 1).",
+       "srcs": [
+        {
+         "org": "Ministério da Saúde",
+         "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+         "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+         "kind": "fact",
+         "upd": "10/09/2021"
+        },
+        {
+         "org": "Ministério da Saúde",
+         "title": "Centros de Atenção Psicossocial",
+         "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS)",
+         "title": "Acessar o Centro de Referência da Assistência Social (CRAS)",
+         "url": "https://www.gov.br/pt-br/servicos/acessar-o-cras-centro-de-referencia-da-assistencia-social",
+         "kind": "fact",
+         "upd": "14/07/2026"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 4º, § 1º)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "But for some rights and benefits, documents from a doctor may be needed",
+       "body": "About the temporary incapacity benefit, the INSS page explains that a person shows they cannot work by presenting a medical certificate (atestado médico) together with other supporting documents.\n\nThe law provides for the temporary incapacity benefit (auxílio por incapacidade temporária) for a person insured by the INSS who becomes unable to do their work or usual activity, under the conditions the law sets. For this INSS benefit, the medical certificate must include the CID (the International Classification of Diseases code) or a description of the illness. For the BPC (an assistance benefit), the disability is evaluated by the INSS social service and the INSS medical examination (perícia médica). For the Ciptea (Carteira de Identificação da Pessoa com Transtorno do Espectro Autista, an identification card for people with autism spectrum disorder), the request is made with a medical report. At university and in exams, a request for an adaptation, such as more time, may also require you to show that it is needed.\n\nWhat is needed varies from one benefit to another; ask the agency in charge first.",
+       "srcs": [
+        {
+         "org": "Instituto Nacional do Seguro Social (INSS)",
+         "title": "Você sabia que depressão e outros transtornos mentais podem dar direito ao benefício por incapacidade temporária?",
+         "url": "https://www.gov.br/inss/pt-br/noticias/noticias/voce-sabia-que-depressao-e-outros-transtornos-mentais-podem-dar-direito-ao-beneficio-por-incapacidade-temporaria",
+         "kind": "fact",
+         "upd": "11/03/2025"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 8.213, DE 24 DE JULHO DE 1991 (art. 59)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Instituto Nacional do Seguro Social (INSS)",
+         "title": "Auxílio por incapacidade temporária",
+         "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria",
+         "kind": "fact",
+         "upd": "04/10/2023"
+        },
+        {
+         "org": "Instituto Nacional do Seguro Social (INSS)",
+         "title": "Benefício assistencial à pessoa com deficiência (BPC-Loas)",
+         "url": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-assistenciais/beneficio-assistencial-a-pessoa-com-deficiencia-bpc-loas",
+         "kind": "fact",
+         "upd": "23/06/2023"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 8.742, DE 7 DE DEZEMBRO DE 1993 (art. 20, § 6º)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/1993/lei-8742-7-dezembro-1993-363163-normaatualizada-pl.html",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 12.764, DE 27 DE DEZEMBRO DE 2012 (art. 3º-A, § 1º)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.html",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 30, V)",
+         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above someone or for looking down on other people.\nFor some people, knowing the name of what they are going through helps them feel lighter. That matters.\nWanting understanding and kindness from the people around you also makes sense.\n\nWhen you want the people around you to be kind to you, you can ask for it directly, without needing to say the name of an illness.\nIt is easier to understand when you say two things together: what is hard for you and what you would like the other person to do.\n\nHere are some examples:\n“I have little energy today. It helps me when people speak more slowly to me.”\n“I get confused when many things are said at once. It helps me when people say one thing at a time.”\n“It is hard for me to remember what is only said out loud. I would like to receive the important things in writing, on paper or by email.”\n“Places with a lot of people take a lot of energy from me. It is easier for me if we talk in a quiet place.”\n“I need a little time to answer. It helps me when people wait a moment.”\n“Right now I have many feelings at once. It helps me when people listen to me first. Advice can wait until later.”\n“I am not feeling well today. It helps me to be able to rest a little.”\n“Sudden changes of plans throw me off. It helps me to know in advance.”\n“When people speak loudly to me, I feel afraid. It helps me when they speak calmly.”\n\nIf it is hard to say this well, you can write it on a piece of paper and hand it over. You can also show the page “My worries” with the button “Show it large”. It appears in this app when you choose something that is hard and answer the questions.\nIf you want to share the name you have already been given, you can do that too. Even so, it helps the other person to know what is hard for you and what you would like them to do.\nSometimes the other person cannot do what you ask, because of their own situation. In that case, you can look for another way together.\n\nAt work, you can ask for help in the same words: “It is hard for me to follow several instructions at the same time. It is easier for me if I receive the instructions in writing.” If the adjustment needs to be formal, a written document may be needed.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. If a name appears in the list, it does not mean that a doctor has pointed to that name for you.\n\nThis app is not a medical device. It does not make a diagnosis, and it does not provide medical care for, or prevent, any medical condition.\n\nSOYOGI is a non-profit group based in Japan without legal personality. SOYOGI has no connection with the Government of Brazil, the Ministério da Saúde, the SUS, the states, the municipalities or any healthcare service, and none of them has recommended or supported this app. The names of agencies and other institutions only show where the information comes from. The original texts can be read free of charge on the website of each institution.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Brazil. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page when the page shows one. Accessed on November 1, 2026. Phone numbers, other numbers and hours can change.\n\nIt is you, not the app, who decides whether to seek help. This app is meant for people aged 13 and over.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "This page explains that a health center (UBS) is a place you can go to directly when you need help and are not sure where to start. At the UBS, the team welcomes you and does a first evaluation, which helps plan the care that comes next. If other kinds of care are needed, the UBS can refer you to other services in the Rede de Atenção Psicossocial (Raps).",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+       "kind": "fact",
+       "upd": "10/09/2021"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "For difficulties with attention, with reading and writing, or with getting along with others, you can start at the UBS nearest your home, even without knowing the name of what is happening. The UBS team can guide you on the next steps in the SUS network.",
+       "src": {
+        "org": "Ministério da Saúde",
+        "title": "Setembro amarelo: conheça os serviços oferecidos pelo SUS para saúde mental",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/setembro/setembro-amarelo-conheca-os-servicos-oferecidos-pelo-sus-para-saude-mental",
+        "kind": "fact",
+        "upd": "10/09/2021"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is reached, the Ministério da Saúde explains, using depression as an example:",
+      "text": "A doctor reaches a diagnosis of depression clinically, after learning the person's full history and doing an examination of their mental state.",
+      "src": {
+       "org": "Ministério da Saúde",
+       "title": "Depressão",
+       "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/depressao",
+       "kind": "fact",
+       "upd": "none"
       }
      }
     }
