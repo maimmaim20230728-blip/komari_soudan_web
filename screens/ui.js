@@ -200,6 +200,12 @@
     var g = group(api, gid), com = L(api).common || {};
     var box = api.el('div', 'names');
     box.setAttribute('data-group', gid);
+    /* 名前の一覧を出さないまとまり(サウジの social=政府の頁で確かめられた名前が無い・SPEC 20-5b)は、一覧の代わりに国の一文だけ */
+    if(g && g.names && !g.names.length && com.noNames){
+      box.appendChild(api.el('p', 'names-none', com.noNames));
+      box.appendChild(api.el('p', 'note names-no-doubt', api.T('screen.names.noDoubt')));
+      return box;
+    }
     box.appendChild(api.el('p', 'note names-pre', api.T('screen.names.pre')));
     var ul = api.el('ul', 'list names-list');
     ((g && g.names) || []).forEach(function(n){
@@ -212,6 +218,7 @@
       ul.appendChild(li);
     });
     box.appendChild(ul);
+    if(g && g.fewNote && com.fewNote) box.appendChild(api.el('p', 'note names-few', com.fewNote));
     if(com.namesHow){
       /* 前置きの機関名は国で違う(日本=NCNP)。data の namesHow.lead があればそれ、無ければ i18n(日本の文) */
       box.appendChild(api.el('p', 'names-how-lead', com.namesHow.lead || api.T('screen.names.howLead')));

@@ -35,7 +35,8 @@ window.KOMARI_DATA = {
   "tw",
   "it",
   "se",
-  "br"
+  "br",
+  "sa"
  ],
  "c": {
   "jp": {
@@ -51,7 +52,8 @@ window.KOMARI_DATA = {
     "zh": "日本",
     "it": "Giappone",
     "sv": "Japan",
-    "pt": "Japão"
+    "pt": "Japão",
+    "ar": "اليابان"
    },
    "langs": [
     "ja",
@@ -3169,7 +3171,8 @@ window.KOMARI_DATA = {
     "zh": "美國",
     "it": "Stati Uniti",
     "sv": "USA",
-    "pt": "Estados Unidos"
+    "pt": "Estados Unidos",
+    "ar": "الولايات المتحدة"
    },
    "langs": [
     "en"
@@ -4890,7 +4893,8 @@ window.KOMARI_DATA = {
     "zh": "法國",
     "it": "Francia",
     "sv": "Frankrike",
-    "pt": "França"
+    "pt": "França",
+    "ar": "فرنسا"
    },
    "langs": [
     "fr",
@@ -8277,7 +8281,8 @@ window.KOMARI_DATA = {
     "zh": "德國",
     "it": "Germania",
     "sv": "Tyskland",
-    "pt": "Alemanha"
+    "pt": "Alemanha",
+    "ar": "ألمانيا"
    },
    "langs": [
     "de",
@@ -11702,7 +11707,8 @@ window.KOMARI_DATA = {
     "zh": "西班牙",
     "it": "Spagna",
     "sv": "Spanien",
-    "pt": "Espanha"
+    "pt": "Espanha",
+    "ar": "إسبانيا"
    },
    "langs": [
     "es",
@@ -14688,7 +14694,8 @@ window.KOMARI_DATA = {
     "zh": "荷蘭",
     "it": "Paesi Bassi",
     "sv": "Nederländerna",
-    "pt": "Países Baixos"
+    "pt": "Países Baixos",
+    "ar": "هولندا"
    },
    "langs": [
     "nl",
@@ -17677,7 +17684,8 @@ window.KOMARI_DATA = {
     "zh": "韓國",
     "it": "Corea del Sud",
     "sv": "Sydkorea",
-    "pt": "Coreia do Sul"
+    "pt": "Coreia do Sul",
+    "ar": "كوريا الجنوبية"
    },
    "langs": [
     "ko",
@@ -20840,7 +20848,8 @@ window.KOMARI_DATA = {
     "zh": "臺灣",
     "it": "Taiwan",
     "sv": "Taiwan",
-    "pt": "Taiwan"
+    "pt": "Taiwan",
+    "ar": "تايوان"
    },
    "langs": [
     "zh",
@@ -23803,7 +23812,8 @@ window.KOMARI_DATA = {
     "zh": "義大利",
     "it": "Italia",
     "sv": "Italien",
-    "pt": "Itália"
+    "pt": "Itália",
+    "ar": "إيطاليا"
    },
    "langs": [
     "it",
@@ -26821,7 +26831,8 @@ window.KOMARI_DATA = {
     "zh": "瑞典",
     "it": "Svezia",
     "sv": "Sverige",
-    "pt": "Suécia"
+    "pt": "Suécia",
+    "ar": "السويد"
    },
    "langs": [
     "sv",
@@ -30271,7 +30282,8 @@ window.KOMARI_DATA = {
     "zh": "巴西",
     "it": "Brasile",
     "sv": "Brasilien",
-    "pt": "Brasil"
+    "pt": "Brasil",
+    "ar": "البرازيل"
    },
    "langs": [
     "pt",
@@ -32983,6 +32995,1974 @@ window.KOMARI_DATA = {
        "upd": "none"
       }
      }
+    }
+   }
+  },
+  "sa": {
+   "id": "sa",
+   "name": {
+    "ja": "サウジアラビア",
+    "en": "Saudi Arabia",
+    "fr": "Arabie saoudite",
+    "de": "Saudi-Arabien",
+    "es": "Arabia Saudí",
+    "nl": "Saoedi-Arabië",
+    "ko": "사우디아라비아",
+    "zh": "沙烏地阿拉伯",
+    "it": "Arabia Saudita",
+    "sv": "Saudiarabien",
+    "pt": "Arábia Saudita",
+    "ar": "المملكة العربية السعودية"
+   },
+   "langs": [
+    "ar",
+    "en"
+   ],
+   "main": "ar",
+   "fallback": "ar",
+   "srcLang": "ar",
+   "freeHosts": [
+    "moh.gov.sa",
+    "hrsd.gov.sa"
+   ],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-04",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "sa997",
+     "band": "now",
+     "tel": "997",
+     "tel2": "999",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "الإسعاف: 997",
+      "desc": "للبلاغات الإسعافية: 997. وللدفاع المدني: 998. وللدوريات الأمنية: 999.",
+      "hours": "",
+      "src": {
+       "org": "هيئة الهلال الأحمر السعودي",
+       "title": "اتصل بنا",
+       "url": "https://www.srca.gov.sa/contact-us/",
+       "kind": "fact",
+       "upd": "2026-09-16"
+      }
+     },
+     "en": {
+      "name": "Ambulance: 997",
+      "desc": "For ambulance calls: 997. For Civil Defense: 998. For security patrols: 999.",
+      "hours": "",
+      "src": {
+       "org": "هيئة الهلال الأحمر السعودي",
+       "title": "اتصل بنا",
+       "url": "https://www.srca.gov.sa/contact-us/",
+       "kind": "fact",
+       "upd": "2026-09-16"
+      }
+     },
+     "src": {
+      "org": "هيئة الهلال الأحمر السعودي",
+      "title": "اتصل بنا",
+      "url": "https://www.srca.gov.sa/contact-us/",
+      "kind": "fact",
+      "upd": "2026-09-16"
+     }
+    },
+    {
+     "id": "sa937",
+     "band": "now",
+     "tel": "937",
+     "tel2": "",
+     "url": "https://www.moh.gov.sa/937/pages/default.aspx",
+     "linkOk": true,
+     "ar": {
+      "name": "وزارة الصحة 937: استشارات طبية",
+      "desc": "وزارة الصحة: 937، رقم للاستشارات الطبية. تذكر الوزارة أن الخدمة متاحة على مدار الساعة.",
+      "hours": "على مدار الساعة",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "خدمات 937",
+       "url": "https://www.moh.gov.sa/937/pages/default.aspx",
+       "kind": "fact",
+       "upd": "2026-07-09"
+      }
+     },
+     "en": {
+      "name": "وزارة الصحة 937 (Ministry of Health 937: medical consultation)",
+      "desc": "Ministry of Health (MOH): 937, a number for medical consultation. The Ministry says the service is available 24 hours a day.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "خدمات 937",
+       "url": "https://www.moh.gov.sa/937/pages/default.aspx",
+       "kind": "fact",
+       "upd": "2026-07-09"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "خدمات 937",
+      "url": "https://www.moh.gov.sa/937/pages/default.aspx",
+      "kind": "fact",
+      "upd": "2026-07-09"
+     }
+    },
+    {
+     "id": "sancmh",
+     "band": "now",
+     "tel": "920033360",
+     "tel2": "",
+     "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+     "linkOk": true,
+     "ar": {
+      "name": "المركز الوطني لتعزيز الصحة النفسية: 920033360",
+      "desc": "الاستشارات النفسية الهاتفية: 920033360. تذكر وزارة الصحة أن هذه الاستشارات تُطلب عبر هذا الرقم من جميع مناطق المملكة ولجميع فئات المجتمع، وأن مركز الاستشارات النفسية التابع للجنة الوطنية لتعزيز الصحة النفسية يعمل من الساعة 8 صباحًا حتى 8 مساءً، ويوم السبت من الساعة 1 مساءً حتى 8 مساءً. قد تتغير الأوقات.",
+      "hours": "من الساعة 8 صباحًا حتى 8 مساءً، ويوم السبت من الساعة 1 مساءً حتى 8 مساءً (بتوقيت السعودية).",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "المركز الوطني لتعزيز الصحة النفسية: 920033360 (National Center for Mental Health Promotion, NCMH)",
+      "desc": "Psychological consultations by phone: 920033360. The Ministry of Health (MOH) says these consultations can be requested through this number from all regions of the Kingdom and for all groups of society, and that the psychological consultation center of the National Committee for Mental Health Promotion works from 8 a.m. to 8 p.m., and on Saturdays from 1 p.m. to 8 p.m. Hours may change.",
+      "hours": "From 8 a.m. to 8 p.m., and on Saturdays from 1 p.m. to 8 p.m. (Saudi time).",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "(الصحة) والمريض النفسي",
+      "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "sa1919",
+     "band": "now",
+     "tel": "1919",
+     "tel2": "",
+     "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+     "linkOk": true,
+     "ar": {
+      "name": "مركز بلاغات العنف الأسري: 1919",
+      "desc": "مركز بلاغات العنف الأسري: 1919، رقم مجاني على مدار 24 ساعة طوال أيام الأسبوع. وتذكر الوزارة أن البلاغات تُستقبل بسرية، وأن البلاغات الخطرة يُنسَّق فيها فورًا مع الجهات الأمنية.",
+      "hours": "24 ساعة طوال أيام الأسبوع",
+      "src": {
+       "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+       "title": "الإدارة العامة للحماية من العنف الأسري وحماية الطفل",
+       "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "مركز بلاغات العنف الأسري: 1919 (Domestic Violence Reporting Center: 1919)",
+      "desc": "Domestic Violence Reporting Center: 1919, a free number available 24 hours a day, every day of the week. The Ministry of Human Resources and Social Development (HRSD) says that reports are received confidentially, and that dangerous reports are coordinated immediately with the security authorities.",
+      "hours": "24 hours a day, every day of the week",
+      "src": {
+       "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+       "title": "الإدارة العامة للحماية من العنف الأسري وحماية الطفل",
+       "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+      "title": "الإدارة العامة للحماية من العنف الأسري وحماية الطفل",
+      "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "saer",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+     "linkOk": true,
+     "ar": {
+      "name": "أقسام الطوارئ والمراكز الصحية المناوبة",
+      "desc": "تذكر وزارة الصحة أقسام الطوارئ بالمستشفيات (24 ساعة)، ويمكن معرفة أقربها عبر الخريطة التفاعلية في موقع الوزارة. وتذكر أيضًا مراكز الرعاية الصحية العاجلة في المراكز الصحية المناوبة (24 ساعة).",
+      "hours": "24 ساعة",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "Emergency departments and on-duty health centers",
+      "desc": "The Ministry of Health (MOH) lists the emergency departments in hospitals (24 hours), and the nearest one can be found on the interactive map on the Ministry's website. It also lists urgent care centers within the on-duty health centers (24 hours).",
+      "hours": "24 hours",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "(الصحة) والمريض النفسي",
+      "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "sasilent",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+     "linkOk": true,
+     "ar": {
+      "name": "دون استخدام الصوت",
+      "desc": "دون استخدام الصوت: يمكن إرسال بلاغ العنف الأسري إلى البريد 1919@hrsd.gov.sa أو عبر تطبيق وزارة الموارد البشرية والتنمية الاجتماعية. ولم تظهر في الصفحات الحكومية التي رُوجعت طريقة وطنية للتواصل مع الإسعاف أو الشرطة بالرسائل النصية أو بلغة الإشارة.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+       "title": "الإدارة العامة للحماية من العنف الأسري وحماية الطفل",
+       "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "Without using your voice",
+      "desc": "Without using your voice: a report of domestic violence can be sent by email to 1919@hrsd.gov.sa or through the app of the Ministry of Human Resources and Social Development (HRSD). A national way to contact the ambulance or the police by text message or in sign language did not appear in the government pages that were reviewed.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+       "title": "الإدارة العامة للحماية من العنف الأسري وحماية الطفل",
+       "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+      "title": "الإدارة العامة للحماية من العنف الأسري وحماية الطفل",
+      "url": "https://www.hrsd.gov.sa/ministry/about-ministry/about-us/ministry-sectors/767581",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "saphc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+     "linkOk": true,
+     "ar": {
+      "name": "مراكز الرعاية الصحية الأولية",
+      "desc": "مراكز الرعاية الصحية الأولية: من الساعة 8:00 صباحًا حتى 4:00 مساءً، ويمكن معرفة أقربها عبر الخريطة التفاعلية في موقع وزارة الصحة. وتذكر الوزارة أنها غيّرت اسم العيادة النفسية الأولية في مراكز الرعاية الأولية إلى «العيادة الإرشادية الشاملة».",
+      "hours": "من الساعة 8:00 صباحًا حتى 4:00 مساءً",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "Primary health care centers",
+      "desc": "Primary health care centers: from 8:00 a.m. to 4:00 p.m., and the nearest one can be found on the interactive map on the Ministry of Health (MOH) website. The Ministry says it changed the name of the primary mental health clinic in the primary care centers to the “Comprehensive Guidance Clinic” (العيادة الإرشادية الشاملة).",
+      "hours": "From 8:00 a.m. to 4:00 p.m.",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "(الصحة) والمريض النفسي",
+      "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "saqareeb",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "تطبيق «قريبون»",
+      "desc": "تطبيق «قريبون» للصحة النفسية: تذكر وزارة الصحة أنه يضم خدمة استشارات نصية نفسية يشرف عليها كادر متخصص.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "«قريبون» app (Qareeboon)",
+      "desc": "The “Qareeboon” (قريبون) mental health app: the Ministry of Health (MOH) says it includes a text-based psychological consultation service supervised by specialized staff.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "(الصحة) والمريض النفسي",
+       "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "(الصحة) والمريض النفسي",
+      "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "saeradah",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مجمعات ومستشفيات «إرادة والصحة النفسية»",
+      "desc": "مجمعات ومستشفيات «إرادة والصحة النفسية»: تذكر وزارة الصحة في دليلها قائمة بمواقعها في مناطق مختلفة من المملكة.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "دليل خدمات علاج وتأهيل مرضى الإدمان",
+       "url": "https://www.moh.gov.sa/HealthAwareness/EducationalContent/AddictionandDrugs/Documents/Guide-Addicition-Treatment-Rehabilitation-Services.pdf",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "مجمعات ومستشفيات «إرادة والصحة النفسية» (Eradah and Mental Health complexes and hospitals)",
+      "desc": "“Eradah and Mental Health” complexes and hospitals: the Ministry of Health (MOH) lists, in its guide, their locations in different regions of the Kingdom.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "دليل خدمات علاج وتأهيل مرضى الإدمان",
+       "url": "https://www.moh.gov.sa/HealthAwareness/EducationalContent/AddictionandDrugs/Documents/Guide-Addicition-Treatment-Rehabilitation-Services.pdf",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "دليل خدمات علاج وتأهيل مرضى الإدمان",
+      "url": "https://www.moh.gov.sa/HealthAwareness/EducationalContent/AddictionandDrugs/Documents/Guide-Addicition-Treatment-Rehabilitation-Services.pdf",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sasehhaty",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.moh.gov.sa/eservices/sehhaty/pages/default.aspx",
+     "linkOk": true,
+     "ar": {
+      "name": "منصة «صحتي»",
+      "desc": "منصة «صحتي» من وزارة الصحة: تذكر الوزارة أنها تخدم المواطنين والمقيمين في المملكة، ومن خدماتها حجز المواعيد الصحية والمواعيد عن بُعد.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "منصة (صحتي)",
+       "url": "https://www.moh.gov.sa/eservices/sehhaty/pages/default.aspx",
+       "kind": "fact",
+       "upd": "2026-08-30"
+      }
+     },
+     "en": {
+      "name": "منصة «صحتي» (Sehhaty platform)",
+      "desc": "The “Sehhaty” (صحتي) platform of the Ministry of Health (MOH): the Ministry says it serves citizens and residents of the Kingdom, and among its services are booking health appointments and remote appointments.",
+      "hours": "",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "منصة (صحتي)",
+       "url": "https://www.moh.gov.sa/eservices/sehhaty/pages/default.aspx",
+       "kind": "fact",
+       "upd": "2026-08-30"
+      }
+     },
+     "src": {
+      "org": "وزارة الصحة",
+      "title": "منصة (صحتي)",
+      "url": "https://www.moh.gov.sa/eservices/sehhaty/pages/default.aspx",
+      "kind": "fact",
+      "upd": "2026-08-30"
+     }
+    },
+    {
+     "id": "sa19911",
+     "band": "day",
+     "tel": "19911",
+     "tel2": "",
+     "url": "https://www.hrsd.gov.sa/contact-us",
+     "linkOk": true,
+     "ar": {
+      "name": "مركز اتصال وزارة الموارد البشرية والتنمية الاجتماعية: 19911",
+      "desc": "وزارة الموارد البشرية والتنمية الاجتماعية: 19911، مركز اتصال للرد على استفسارات المستفيدين ورفع بلاغاتهم، من الأحد إلى الخميس، من 8 صباحًا حتى 5 مساءً.",
+      "hours": "من الأحد إلى الخميس، من 8 صباحًا حتى 5 مساءً",
+      "src": {
+       "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+       "title": "تواصل معنا",
+       "url": "https://www.hrsd.gov.sa/contact-us",
+       "kind": "fact",
+       "upd": "2026-08-11"
+      }
+     },
+     "en": {
+      "name": "مركز اتصال وزارة الموارد البشرية والتنمية الاجتماعية: 19911 (HRSD call center: 19911)",
+      "desc": "Ministry of Human Resources and Social Development (HRSD): 19911, a call center that answers the questions of beneficiaries and takes their reports, Sunday to Thursday, 8 a.m. to 5 p.m.",
+      "hours": "Sunday to Thursday, 8 a.m. to 5 p.m.",
+      "src": {
+       "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+       "title": "تواصل معنا",
+       "url": "https://www.hrsd.gov.sa/contact-us",
+       "kind": "fact",
+       "upd": "2026-08-11"
+      }
+     },
+     "src": {
+      "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+      "title": "تواصل معنا",
+      "url": "https://www.hrsd.gov.sa/contact-us",
+      "kind": "fact",
+      "upd": "2026-08-11"
+     }
+    },
+    {
+     "id": "saapd",
+     "band": "day",
+     "tel": "0115089600",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "هيئة رعاية الأشخاص ذوي الإعاقة",
+      "desc": "هيئة رعاية الأشخاص ذوي الإعاقة: جهة حكومية معنية بالأشخاص ذوي الإعاقة. الهاتف: +966 11 508 9600، من الأحد إلى الخميس، من 8:00 حتى 16:00.",
+      "hours": "من الأحد إلى الخميس، من 8:00 حتى 16:00",
+      "src": {
+       "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+       "title": "تواصل معنا",
+       "url": "https://www.apd.gov.sa/contact-us",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "هيئة رعاية الأشخاص ذوي الإعاقة (Authority for the Care of Persons with Disabilities, APD)",
+      "desc": "Authority for the Care of Persons with Disabilities (APD): a government body concerned with persons with disabilities. Phone: +966 11 508 9600, Sunday to Thursday, 8:00 a.m. to 4:00 p.m.",
+      "hours": "Sunday to Thursday, 8:00 a.m. to 4:00 p.m.",
+      "src": {
+       "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+       "title": "تواصل معنا",
+       "url": "https://www.apd.gov.sa/contact-us",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+      "title": "تواصل معنا",
+      "url": "https://www.apd.gov.sa/contact-us",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "ar": {
+    "groups": {
+     "mood": {
+      "label": "انخفاض المزاج وفقدان الحافز",
+      "lead": "حين يبقى المزاج منخفضًا مدة طويلة ويغيب الحافز لفعل أي شيء.",
+      "scenes": [
+       "يبقى مزاجي منخفضًا من الصباح حتى المساء.",
+       "لا أشعر بالمتعة فيما كان يسعدني من قبل.",
+       "لا أجد طاقة ولا أستطيع التركيز، فيتأخر عملي وتتأخر أعمال البيت.",
+       "ألوم نفسي كثيرًا، وأرى الأمور في الغالب من جانبها المظلم.",
+       "لا أستطيع النوم ليلًا، أو أنام أكثر من اللازم. تقل شهيتي ويثقل جسدي.",
+       "أحيانًا أتمنى أن أختفي، أو ألّا أبقى هنا بعد الآن."
+      ],
+      "asks": [
+       "يساعدني أن يُذكر لي ما يجب فعله شيئًا واحدًا في كل مرة.",
+       "أحتاج إلى وقت للتفكير، ويساعدني ألّا أُستعجل في الرد أو في اتخاذ القرار.",
+       "يساعدني أن تُعطى لي الأمور المهمة مكتوبة.",
+       "قبل كلمات التشجيع والدعوة إلى الصبر، يساعدني أن يُسمع كلامي أولًا.",
+       "أرجو ألّا يُعدّ أخذي للراحة كسلًا.",
+       "يساعدني أن يُتحقق معي مما إذا كان لحالة جسدية أو لدواء أتناوله علاقة بذلك."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "حالات جسدية تشبه الاكتئاب (مثل مشاكل الغدة الدرقية أو نقص فيتامين د)",
+        "why": "تذكر وزارة الصحة أن بعض الحالات الجسدية، مثل مشاكل الغدة الدرقية أو نقص بعض الفيتامينات، قد تشبه الاكتئاب، ولذلك يُتحقَّق من الصحة الجسدية أولًا.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "تصف وزارة الصحة الاكتئاب بأنه اضطراب في المزاج، فيه حزن يستمر وفقدان للمتعة والاهتمام بما كان معتادًا.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "الاكتئاب الموسمي (اكتئاب الشتاء)",
+        "why": "تذكر وزارة الصحة نوعًا من الاكتئاب يرتبط بتغيّر الفصول، يشعر فيه بعض الناس بالحزن حين يقصر النهار، ثم يتحسن المزاج مع طول النهار.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب الموسمي (اكتئاب الشتاء)",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/publichealth/pages/seasonal-depression-winter-depression.aspx",
+         "kind": "fact",
+         "upd": "2023-12-05"
+        }
+       },
+       {
+        "name": "اضطراب ثنائي القطب",
+        "why": "تصف وزارة الصحة اضطراب ثنائي القطب بأنه تغيّر في المزاج والطاقة والقدرة على العمل، يتأرجح فيه المزاج بين ارتفاع شديد وانخفاض شديد.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب ثنائي القطب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/007.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb",
+       "saeradah"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "القلق والتوتر الشديد",
+      "lead": "حين تستمر الهموم ويصعب الهدوء، أو يصعب الحديث أمام الناس والخروج من البيت.",
+      "scenes": [
+       "عندما أتحدث أمام الآخرين أو تتجه إليّ الأنظار، أشعر بقلق شديد ويخلو ذهني تمامًا.",
+       "يخفق قلبي بسرعة فجأة ويضيق نفَسي، وأقلق من أن يتكرر ذلك، فأجد صعوبة في الخروج.",
+       "أقلق بشأن أمور كثيرة دون سبب واضح، وأشعر بالتوتر وبالتعب.",
+       "أتجنب الأماكن التي يصعب مغادرتها، مثل الأماكن المزدحمة كالأسواق والمولات، أو المواصلات، أو الطوابير الطويلة، وأتجنب الخروج من البيت بمفردي.",
+       "بسبب تجنبي لما يقلقني، قلّت الأماكن التي أذهب إليها والأشخاص الذين ألتقيهم، وضاقت حياتي.",
+       "تبقى الهموم في رأسي فيصعب عليّ النوم ليلًا."
+      ],
+      "asks": [
+       "يساعدني ألّا أُستعجَل حين أتكلم.",
+       "يساعدني أن أعرف الخطة وسير الأمور مسبقًا.",
+       "أفضّل ألّا أُسأل عن رأيي أمام الآخرين فجأة، وأن تتاح لي الإجابة كتابةً.",
+       "إذا شعرت بتوعّك، أرجو أن يُسمح لي بالخروج قليلًا للراحة.",
+       "أفضّل أن يكون الحديث في مكان هادئ ومع عدد قليل من الأشخاص.",
+       "أرجو ألّا يُقال لي إنني أبالغ في القلق قبل أن يُسمع كلامي."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "اضطراب القلق العام",
+        "why": "تصف وزارة الصحة اضطراب القلق العام بأنه قلق يستمر طويلًا حول أمور ومواقف كثيرة، لا حول حدث واحد.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب القلق العام",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/anxietydisorder.aspx",
+         "kind": "fact",
+         "upd": "2024-07-09"
+        }
+       },
+       {
+        "name": "نوبات الهلع (اضطراب الهلع)",
+        "why": "تصف وزارة الصحة نوبات الهلع بأنها نوبات مفاجئة من الذعر أو الخوف تتكرر، ويُجرى فحص جسدي للتأكد من عدم وجود سبب آخر.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "نوبات الهلع",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/panicattack.aspx",
+         "kind": "fact",
+         "upd": "2024-07-09"
+        }
+       },
+       {
+        "name": "اضطراب ما بعد الصدمة",
+        "why": "يذكر المركز الوطني لتعزيز الصحة النفسية أن هذه الحالة قد تظهر بعد تجربة مؤلمة أو مهددة للحياة، وأنها قد تتداخل مع القلق أو الاكتئاب.",
+        "src": {
+         "org": "المركز الوطني لتعزيز الصحة النفسية",
+         "title": "اليوم العالمي لاضطراب ما بعد الصدمة: بين الذاكرة والألم والتعافي",
+         "url": "https://ncmh.org.sa/articles/119",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb",
+       "saeradah"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "التأكد والتكرار الذي يصعب إيقافه",
+      "lead": "حين يتكرر التأكد من الباب والغاز أو الغسل مرارًا، ويصعب التوقف رغم الرغبة في ذلك.",
+      "scenes": [
+       "عند الخروج من البيت لا أرتاح حتى أتأكد من قفل الباب ومن الغاز (أسطوانة الغاز أو الموقد) مرارًا.",
+       "أغسل يديّ أو جسمي أكثر فأكثر، ولا أستطيع التوقف رغم رغبتي في ذلك.",
+       "تعود إلى ذهني الفكرة المقلقة نفسها مرارًا، ولا أستطيع التوقف عن التفكير فيها رغم رغبتي في ذلك.",
+       "لا أرتاح إن لم توضع الأشياء أو تُنجز الأمور بالترتيب الذي حددته، فأعيد ترتيبها أو أكرر ما فعلته.",
+       "يمضي الوقت وأنا أتأكد، فأتأخر في الخروج، أو لا أصل إلى مواعيدي أو عملي في الوقت المحدد.",
+       "يتحرك جسدي أو يخرج مني صوت دون قصد، ويصعب عليّ إيقاف ذلك حتى حين أحاول."
+      ],
+      "asks": [
+       "يساعدني أن يُسمع كلامي أولًا قبل أن يُقال لي إنني أبالغ.",
+       "يأخذ مني التأكد وقتًا، فيساعدني أن يُترك لي وقت إضافي.",
+       "يساعدني أن أُبلَّغ مسبقًا عند تغيير المواعيد أو الخطوات.",
+       "أرجو ألّا يُلفَت الانتباه إلى تأكدي أو غسلي أمام الآخرين، وألّا يُسخر منه.",
+       "يساعدني أن تُعطى لي الشروح والتعليمات شيئًا فشيئًا ومكتوبة.",
+       "عند تحديد كيف نمضي بعد ذلك، يساعدني أن تُسمع مخاوفي أولًا وأن يكون القرار بهدوء."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الوسواس القهري",
+        "why": "تصف وزارة الصحة الوسواس القهري بأنه أفكار ومخاوف غير منطقية تدفع إلى تكرار بعض التصرفات، وأن ذلك قد يعوق الحياة اليومية.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الوسواس القهري",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/obsessivecompulsivedisorder.aspx",
+         "kind": "fact",
+         "upd": "2026-09-13"
+        }
+       },
+       {
+        "name": "اضطراب القلق العام",
+        "why": "تذكر صفحة الوسواس القهري أن له صلة بالقلق، وتصف صفحة اضطراب القلق العام قلقًا يستمر طويلًا حول مواقف وأمور كثيرة.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب القلق العام",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/anxietydisorder.aspx",
+         "kind": "fact",
+         "upd": "2024-07-09"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saeradah"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "أثر تجربة مؤلمة يستمر",
+      "lead": "بعد تجربة مؤلمة: عودة الذكريات، وصعوبة النوم، واستمرار التأهب.",
+      "scenes": [
+       "يعيد إليّ شيء بسيط، فجأة، مشهد ذلك الوقت الصعب ومشاعره.",
+       "تتكرر عليّ كوابيس مخيفة متشابهة، ولا أنام نومًا عميقًا في كثير من الليالي.",
+       "أبقى دائمًا في حالة تأهب، وأنتفض لأي صوت أو حدث بسيط.",
+       "أتجنب قدر الإمكان الأماكن والأشخاص والأحاديث التي تذكّرني بذلك الوقت، وقد ضاق نطاق ما أفعله في حياتي اليومية.",
+       "أشعر كأن مشاعري توقفت، فلا أستطيع أن أمنح أسرتي وأصدقائي ما كنت أمنحهم من مشاعر من قبل.",
+       "يزداد لومي لنفسي، ويصعب عليّ أن أثق بمن حولي."
+      ],
+      "asks": [
+       "أرجو ألّا يُطلب مني سرد تفاصيل ما حدث. أفضّل أن أتحدث بالقدر الذي أستطيعه، وبالوتيرة التي تناسبني.",
+       "هناك أصوات وأماكن وموضوعات تعيد إليّ ما حدث، ويساعدني أن يُقبل طلبي حين أقول إنني أريد تجنبها.",
+       "يساعدني ألّا يُنادى عليّ فجأة من الخلف، وألّا تصدر أصوات عالية بالقرب مني.",
+       "حين يصعب عليّ الكلام، أرجو أن يُقبل مني تسليم ورقة كتبتها.",
+       "أرجو ألّا تُعدّ الليالي التي لا أنام فيها، والأيام التي يبقى فيها التعب، كسلًا.",
+       "أرجو ألّا أُستعجَل في النسيان أو في العودة كما كنت، وأن يتوفر لي مكان أشعر فيه بالأمان عند الحديث."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "اضطراب ما بعد الصدمة",
+        "why": "يذكر المركز الوطني لتعزيز الصحة النفسية أن هذه الحالة قد تظهر بعد تجربة مؤلمة أو مهددة للحياة، وأن الذكريات المؤلمة قد تعود فيها في كوابيس أو في مشاهد مفاجئة.",
+        "src": {
+         "org": "المركز الوطني لتعزيز الصحة النفسية",
+         "title": "اليوم العالمي لاضطراب ما بعد الصدمة: بين الذاكرة والألم والتعافي",
+         "url": "https://ncmh.org.sa/articles/119",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "تذكر وزارة الصحة أن الأحداث المحزنة وصعوبات الحياة المستمرة، مثل التعرض للعنف، قد تكون من أسباب الاكتئاب.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "مشكلات النوم",
+      "lead": "صعوبة بدء النوم، أو الاستيقاظ في الليل، أو صعوبة النهوض في الصباح، أو النعاس الشديد في النهار.",
+      "scenes": [
+       "لا أستطيع أن أنام بسهولة حتى بعد أن أستلقي في فراشي.",
+       "أستيقظ في الليل كثيرًا، فلا أنام نومًا عميقًا حتى الصباح.",
+       "لا أستطيع النهوض حين يحين وقت الاستيقاظ، ويتكرر تأخري عن العمل أو الدراسة.",
+       "يغلبني النعاس الشديد في النهار، وأكاد أغفو أثناء الاجتماعات أو القيادة.",
+       "أخبرني أهلي أنني أشخر بصوت عالٍ، وأن تنفسي يبدو كأنه يتوقف أثناء النوم.",
+       "من المساء إلى الليل أشعر بانزعاج وتململ في ساقيّ، فلا أستطيع النوم."
+      ],
+      "asks": [
+       "أرجو أن يُتاح لي وقت كافٍ لأصف حال نومي: صعوبة بدء النوم، والاستيقاظ أثناء الليل، وصعوبة النهوض صباحًا، والنعاس في النهار.",
+       "يساعدني أن نبحث معًا عن السبب، ويشمل ذلك الأدوية التي أتناولها، وعاداتي في تناول المنبهات مثل القهوة والشاي ومشروبات الطاقة، وفي التدخين.",
+       "أرجو ألّا يُعدّ الأمر مجرد مسألة تفكير أو إرادة، وأن تُفحص صحتي الجسدية ومزاجي معًا.",
+       "أرغب في أن أعرض ورقة دوّنت فيها مواعيد نومي واستيقاظي، وأرجو الاطلاع عليها.",
+       "إن وُصف لي دواء، فأرجو أن يُشرح لي بوضوح كيف يعمل وما الذي يجب الانتباه إليه.",
+       "الصباح صعب عليّ، فأفضّل أن يكون الموعد بعد الظهر أو في المساء."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "توقف التنفس أثناء النوم",
+        "why": "تتحدث الصفحة عن حالة يتوقف فيها التنفس أثناء النوم ثم يعود، فيتقطع النوم ويزداد النعاس في النهار.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "توقف التنفس أثناء النوم",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/sleep-apnea.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "النوم القهري",
+        "why": "تتحدث الصفحة عن حالة دماغية مزمنة تُعدّ نادرة، يأتي فيها النوم فجأة في أوقات لا يناسب فيها النوم.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "النوم القهري",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/narcolepsy.aspx",
+         "kind": "fact",
+         "upd": "2026-07-26"
+        }
+       },
+       {
+        "name": "الساعة البيولوجية واضطرابات النوم",
+        "why": "تشرح الصفحة أن الساعة البيولوجية تنظّم النعاس والنشاط خلال اليوم، وأن توقيت النعاس يختلف من شخص لآخر.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "التوعية بالنوم",
+         "url": "https://www.moh.gov.sa/awarenessplateform/healthylifestyle/pages/sleeping.aspx",
+         "kind": "fact",
+         "upd": "2026-09-13"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "تذكر وزارة الصحة أن الاكتئاب قد يصاحبه اضطراب في النوم، سواء بصعوبة النوم في الليل أو بكثرته.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sa937",
+       "sasehhaty"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "مشكلات الأكل",
+      "lead": "عدم القدرة على الأكل، أو الإفراط فيه، أو الخوف منه.",
+      "scenes": [
+       "لا أشعر بالرغبة في الأكل، ويصعب عليّ ابتلاع الطعام منذ فترة.",
+       "حين أبدأ في الأكل لا أستطيع أن أوقف نفسي، وأحيانًا آكل حتى أشعر بالألم.",
+       "أجد نفسي أفكر في الطعام وحده، ويصعب عليّ التركيز في أي شيء آخر.",
+       "الأطعمة التي أستطيع تناولها محدودة جدًا، وأتجنب كثيرًا من الأطعمة بسبب طعمها أو رائحتها أو ملمسها.",
+       "بعد أن اختنقت بالطعام أو تقيأت، صار الأكل يخيفني.",
+       "أحيانًا آكل في الليل وأنا بين النوم واليقظة، وفي الصباح لا أتذكر ذلك."
+      ],
+      "asks": [
+       "أرجو ألّا يُعلَّق على وزني أو شكلي.",
+       "أرجو ألّا أُجبَر على الأكل، وألّا أُستعجَل فيه.",
+       "أرجو أن يُتاح لي اختيار مكان أو وقت آخر حين يأكل الناس معًا، كالولائم والعزائم واجتماعات العائلة على الطعام.",
+       "أرجو أن يكون السؤال أولًا عمّا أستطيع أكله، وعمّا يصعب عليّ تحمّله من الروائح والملمس.",
+       "أرجو أن تُشرح لي خطوات الفحص الجسدي والتحاليل قبل إجرائها.",
+       "أرجو أن يُسمح لي بأن أكتب ما يصعب عليّ قوله وأسلّمه."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "فقدان الشهية العصبي",
+        "why": "تتحدث الصفحة عن فقدان الشهية العصبي بوصفه تجنبًا للطعام، أو الاقتصار على القليل منه، بدافع خوف شديد من زيادة الوزن.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطرابات الأكل",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/eating-disorders.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "الشره المرضي العصبي",
+        "why": "تتحدث الصفحة عن الشره المرضي العصبي بوصفه نوبات يؤكل فيها كثير من الطعام مع فقدان السيطرة، ويتبعها سلوك لتعويض ما أُكل.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطرابات الأكل",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/eating-disorders.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "اضطراب الشراهة عند تناول الطعام",
+        "why": "تتحدث الصفحة عن اضطراب الشراهة عند تناول الطعام بوصفه نوبات يؤكل فيها كثير من الطعام مع فقدان السيطرة، دون سلوك لتعويضه.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطرابات الأكل",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/eating-disorders.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "الكحول أو القمار أو الألعاب الإلكترونية: صعوبة التوقف",
+      "lead": "رغبة في التوقف أو التقليل، مع استمرار العودة إلى الأمر.",
+      "scenes": [
+       "حتى حين أقرر التوقف أو التقليل، أجد نفسي أعود إلى الأمر من جديد.",
+       "لا أستطيع أن ألتزم بالوقت أو الكمية أو المبلغ الذي حددته لنفسي، مثل «هذا يكفي لليوم».",
+       "أُخفي أمر الكحول أو القمار أو الألعاب عن أسرتي أو المقربين مني، أو أتحايل في الحديث عنه.",
+       "أسهر على الألعاب الإلكترونية حتى وقت متأخر، فلا أستطيع الاستيقاظ في الصباح، ويزداد تأخري وغيابي.",
+       "أعود إلى القمار لأستعيد ما خسرته.",
+       "أعرف أن حالتي الجسدية ليست جيدة، ومع ذلك لا أستطيع التقليل من الكحول."
+      ],
+      "asks": [
+       "أرجو أن يُستمع إلى كلامي أولًا دون لوم أو أحكام مسبقة.",
+       "يساعدني أن نرتب معًا، خطوة بخطوة، كيف أتعامل مع الأمر الآن وما الصعوبات التي يسببها لي.",
+       "أرجو أن يُنظر أيضًا في نومي وحالتي الجسدية.",
+       "أرجو أن يُوضَّح لي تحديدًا أين يمكن طلب الدعم، وإلى أي أماكن يمكنني الذهاب.",
+       "أرجو أن أعرف إن كان بإمكان أسرتي أو أحد المقربين مني المشاركة معي في الحديث.",
+       "أرجو أن أعرف مسبقًا مَن سيطّلع على ما أقوله، وإلى أي حد."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "إدمان الكحول",
+        "why": "يصف المركز الوطني لتعزيز الصحة النفسية إدمان الكحول بأنه حالة طويلة الأمد، يستمر فيها الشرب رغم ما يترتب عليه من أضرار.",
+        "src": {
+         "org": "المركز الوطني لتعزيز الصحة النفسية",
+         "title": "الآثار النفسية لإدمان الكحول – مراجعة علمية ودعوة للتوعية",
+         "url": "https://ncmh.org.sa/articles/2746",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "saeradah",
+       "sa937"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "attention": {
+      "label": "صعوبات الانتباه أو التنظيم",
+      "lead": "صعوبة التركيز، أو القيام بالأمور بالترتيب، أو تذكّرها.",
+      "scenes": [
+       "حتى حين يتحدث إليّ أحد، أجد أن ذهني قد انصرف إلى شيء آخر دون أن أنتبه.",
+       "لا أستطيع إنجاز العمل أو أعمال البيت بالترتيب، فتفوتني المواعيد النهائية.",
+       "كثيرًا ما لا أتذكر لاحقًا ما طُلب مني أو ما وعدت به، أو أضيّع أغراضي.",
+       "حين أواصل المهمة نفسها وقتًا طويلًا، تكثر أخطائي من غير قصد.",
+       "عندما أجلس دون حركة لا أستطيع الاستقرار، وأظل أتحرك في مكاني.",
+       "يقول لي من حولي إنني كثيرًا ما أنسى أغراضي أو أتأخر عن المواعيد."
+      ],
+      "asks": [
+       "يساعدني أن تُعطى لي التعليمات واحدةً واحدة.",
+       "يساعدني أن يُكتب لي الأمر المهم وأن يُسلَّم إليّ مكتوبًا.",
+       "أرجو أن أُبلَّغ بالمواعيد والمواعيد النهائية مبكرًا.",
+       "يساعدني ألّا أُكلَّف بأمور كثيرة دفعة واحدة، وأن تُقسَّم المهام إلى أجزاء صغيرة.",
+       "أفضّل أن يكون الحديث في مكان هادئ لا يشتت انتباهي.",
+       "أرجو ألّا أُلام على ما لم أستطع إنجازه، وأن يُعترف بما أنجزته."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الاكتئاب",
+        "why": "تصف وزارة الصحة الاكتئاب بأنه اضطراب في المزاج، وتذكر أنه قد يصاحبه نقص في التركيز.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "اضطراب فرط الحركة ونقص الانتباه (ADHD)",
+        "why": "تتحدث الصفحة عن حالة تتصل بنمو الدماغ، تظهر فيها صعوبة في التركيز أو في ضبط الاندفاع، أو نشاط زائد.",
+        "src": {
+         "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+         "title": "اضطراب فرط الحركة ونقص الانتباه",
+         "url": "https://www.apd.gov.sa/blog/ltw-y-wltthqyf-12/dtrb-frt-lhrk-wnqs-lntbh-182",
+         "kind": "fact",
+         "upd": "2025-02-26"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saeradah"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "صعوبات في العلاقات أو العادات اليومية أو المؤثرات الحسية",
+      "lead": "صعوبة الحديث مع الآخرين أو التعامل معهم، أو حاجة قوية إلى فعل الأشياء بالطريقة نفسها دائمًا، أو صعوبة تحمّل الأصوات والأضواء والروائح.",
+      "scenes": [
+       "يصعب عليّ فهم مشاعر مَن أتحدث معه أو أجواء المكان، فأشعر بأن كلًّا منا يتحدث في اتجاه مختلف.",
+       "عندما أتحدث أمام الناس أو تتجه إليّ الأنظار، أشعر بتوتر شديد وأتجنب هذه المواقف.",
+       "أتحدث مع المقربين مني بسهولة، لكني لا أستطيع الكلام أمام غيرهم.",
+       "حين يتغير ما اعتدت عليه من ترتيب أو أسلوب أو مكان للأشياء، أشعر بقلق شديد.",
+       "تبدو لي الأصوات والأضواء والروائح قوية جدًّا، فتصعب عليّ الأماكن المزدحمة.",
+       "يصعب عليّ سماع كلام الناس أو يغلبني الحزن، حتى صار لقاء الناس والحديث معهم ثقيلًا عليّ."
+      ],
+      "asks": [
+       "يساعدني أن يُتحدث معي ببطء ووضوح.",
+       "يساعدني أن يُكتب لي الأمر المهم.",
+       "أفضّل أن يكون الحديث في مكان هادئ.",
+       "أرجو أن أُبلَّغ مسبقًا عند تغيير الموعد أو طريقة العمل.",
+       "أرجو ألّا أُستعجَل في الإجابة، وأن يُنتظر جوابي.",
+       "يساعدني أن أُجيب كتابةً أو بملاحظة قصيرة بدل الكلام."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "صعوبات القراءة أو الكتابة أو الحساب",
+      "lead": "تبقى القراءة أو الكتابة أو الحساب صعبة جدًا، حتى مع بذل جهد كبير.",
+      "scenes": [
+       "أحتاج إلى وقت أطول من غيري لقراءة النص، وأعيد قراءته مرات كثيرة.",
+       "حتى بعد القراءة لا يستقر المعنى في ذهني، ويصعب عليّ فهم الخطابات والنماذج من الجهات الحكومية أو البنك.",
+       "أخطئ كثيرًا في الإملاء، مثل الهمزات والتاء المربوطة والمفتوحة، وأنسى أحيانًا بعض الحروف.",
+       "يأتي خطّي غير منتظم، والكتابة تستغرق مني وقتًا وجهدًا كبيرين.",
+       "أتعثر في العمليات الحسابية البسيطة وفي المسائل الحسابية المكتوبة في نص.",
+       "أستطيع الحديث والاستماع دون صعوبة، لكن في القراءة والكتابة والحساب لا أتقدم كما أريد حتى مع بذل الوقت."
+      ],
+      "asks": [
+       "يساعدني أن يُعرض النص بخط كبير ومسافات واسعة بين الأسطر، وبالتشكيل عند الحاجة.",
+       "يساعدني أن يُقرأ لي الأمر المهم بصوت مسموع أو يُقال لي شفهيًا.",
+       "أفضّل أن أكتب على الحاسب أو الجوال، أو أسجّل بالصور أو بالتسجيل الصوتي، بدل الكتابة بخط اليد.",
+       "أرجو أن يُسمح لي باستخدام الآلة الحاسبة (في الجوال) في الحسابات.",
+       "يساعدني أن يكون لديّ وقت أطول للقراءة والكتابة والحساب.",
+       "يساعدني أن يقلّ ما يُعطى لي في المرة الواحدة، وأن يُسلَّم إليّ كل أمر على حدة."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "عسر القراءة (الديسلكسيا)",
+        "why": "تتحدث الصفحة عن عسر القراءة بوصفه نوعًا من صعوبات التعلم، يظهر في صعوبة القراءة والكتابة والتهجئة، وتذكر أنه لا يرجع إلى ضعف في الذكاء أو في الحواس.",
+        "src": {
+         "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+         "title": "اضطراب عسر القراءة",
+         "url": "https://www.apd.gov.sa/blog/ltw-y-wltthqyf-12/dtrb-sr-lqr-180",
+         "kind": "fact",
+         "upd": "2025-03-20"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "saapd"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "تقلّبات كبيرة في المزاج",
+      "lead": "يرتفع المزاج وينخفض كثيرًا، ويصعب مجاراة ذلك.",
+      "scenes": [
+       "تتعاقب عليّ فترات يشتد فيها نشاطي وفترات ينخفض فيها مزاجي حتى لا أستطيع الحركة.",
+       "تمر بي فترات أكاد لا أنام فيها، ومع ذلك يكون نشاطي كبيرًا وأظل أتحرك.",
+       "تتوالى الأفكار والخطط في ذهني، فيبقى كل منها دون إكمال.",
+       "حين ارتفع مزاجي اشتريت أشياء كثيرة، بالبطاقة أو بالتقسيط، ثم ندمت.",
+       "ينفد صبري بسرعة لأمور صغيرة، ويصعب عليّ ضبط مشاعري.",
+       "تصرفت في أوقات ارتفاع مزاجي بطرق أثّرت لاحقًا في علاقاتي أو في عملي."
+      ],
+      "asks": [
+       "يساعدني أن تشمل الأسئلة أيضًا الفترات التي كان فيها مزاجي مرتفعًا أكثر من المعتاد.",
+       "أفضّل أن نراجع معًا، على مهل، ارتفاع مزاجي وانخفاضه.",
+       "يساعدني أن أُذكَّر بالتوقف والتفكير قبل القرارات الكبيرة في المال أو العمل.",
+       "أرجو أن يُنظر أيضًا في الجوانب الجسدية، ومنها النوم والأدوية والمنبّهات.",
+       "أرجو أن أُخبَر دون لوم إذا بدت حالتي مختلفة عن المعتاد.",
+       "أرجو أن يُستمع إلى كلامي حتى آخره، في أوقات النشاط وفي أوقات الانخفاض."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "اضطراب ثنائي القطب",
+        "why": "تصف وزارة الصحة اضطراب ثنائي القطب بأنه اضطراب يُحدث تغيّرات في المزاج والطاقة والقدرة على العمل، وينتقل فيه المزاج بين ارتفاع شديد وانخفاض شديد.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب ثنائي القطب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/007.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "معرفة اسم مرض أو حالة نمائية قد تجعل التقلّبات اليومية تبدو أكبر مما هي عليه",
+       "body": "عند معرفة اسم مرض أو حالة نمائية، قد يبدو التعب البسيط أو شرود الذهن أحيانًا أمرًا أكبر مما هو عليه.\n\nللمشاعر تأثير في الجسد والمزاج، وهذا ليس من الخيال بل يحدث فعلًا. لكن قلة النوم والضغوط والجوال وما يجري في المحيط قد تسبب أمورًا مشابهة أيضًا.\n\nوعند قراءة اسم والتفكير «ربما هذا ما عندي»، لا يُحسم الأمر بذلك وحده، بل يُنظر في أسباب أخرى أيضًا. وإذا استمر ما يصعب، يمكن الحديث عنه كما هو، حتى دون اسم له.",
+       "srcs": []
+      },
+      {
+       "h": "يمرّ معظم الناس بالتوتر والضغط عند مواجهة صعوبات الحياة.",
+       "body": "فقدُ شخص قريب، أو تغيّر العمل، أو الضائقة المادية: مع مثل هذه الصعوبات يمر معظم الناس بالتوتر والضغط، كما تذكر وزارة الصحة.\n\nوالاسم (التشخيص) يضعه الطبيب. وما تذكره وزارة الصحة عن كيفية ذلك يرد في آخر قائمة الأسماء في هذا التطبيق.\n\nوإذا استمر ما يصعب، يمكن الحديث عنه كما هو، أيًّا كان الاسم.",
+       "srcs": [
+        {
+         "org": "وزارة الصحة",
+         "title": "التوتر (الضغط النفسي)",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/stress.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       ]
+      },
+      {
+       "h": "يمكن الحديث عمّا يصعب حتى دون معرفة اسمه.",
+       "body": "يمكن الحديث عمّا يصعب حتى دون معرفة اسمه.\n\nتقول وزارة الصحة إنها غيّرت اسم العيادة النفسية في مراكز الرعاية الأولية إلى «العيادة الإرشادية الشاملة» لمنع الحرج عن مراجعيها، وإن الاستشارات النفسية الهاتفية تُطلب من جميع مناطق المملكة ولجميع فئات المجتمع عبر الرقم 920033360. وساعات عمل هذا الرقم مذكورة في قائمة الجهات التي يمكن التواصل معها.\n\nويكفل نظام حقوق الأشخاص ذوي الإعاقة حقهم في التعليم والعمل دون تمييز.",
+       "srcs": [
+        {
+         "org": "وزارة الصحة",
+         "title": "(الصحة) والمريض النفسي",
+         "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+         "kind": "fact",
+         "upd": "2026-09-28"
+        },
+        {
+         "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+         "title": "نظام حقوق الأشخاص ذوي الإعاقة",
+         "url": "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/%D9%86%D8%B8%D8%A7%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+         "kind": "fact",
+         "upd": "2026-09-03"
+        }
+       ]
+      },
+      {
+       "h": "لكن بعض الحقوق والخدمات قد تتطلب أوراقًا أو تقييمًا رسميًا",
+       "body": "لبعض الحقوق والخدمات قد تُطلب أوراق أو تقييم رسمي. فبعض خدمات الأشخاص ذوي الإعاقة تُقدَّم عند وجود «تقييم إعاقة» مسجّل.\n\nوما يُطلب يختلف من خدمة إلى أخرى، لذا يفيد السؤال مسبقًا لدى الجهة المعنية.",
+       "srcs": [
+        {
+         "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+         "title": "الخدمات الإلكترونية",
+         "url": "https://www.apd.gov.sa/services",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "اسم المرض ليس أداة للتعالي على أحد",
+       "body": "اسم المرض ليس أداة للشعور بالتفوّق على أحد، ولا للنظر إلى الآخرين من علٍ.\nمعرفة اسم ما يمرّ به الشخص تريح بعض الناس، وهذا أمر مهم.\nوالرغبة في أن يفهمنا من حولنا وأن يلطفوا بنا رغبة مفهومة أيضًا.\n\nوعند الرغبة في أن يكون من حولنا ألطف، يمكن طلب ذلك مباشرة، دون الحاجة إلى ذكر اسم مرض.\nويسهل الفهم عندما يُقال أمران معًا: ما الذي يصعب عليّ، وما الذي يساعدني.\n\nمن أمثلة ذلك:\n«طاقتي اليوم قليلة. يساعدني أن يتحدث معي الآخرون ببطء.»\n«أرتبك عندما تُقال لي أمور كثيرة دفعة واحدة. يساعدني أن يُقال لي أمر واحد في كل مرة.»\n«يصعب عليّ تذكّر ما يُقال شفهيًا فقط. أفضّل أن تصلني الأمور المهمة مكتوبة، على ورقة أو بالبريد الإلكتروني.»\n«الأماكن المزدحمة تستنزف طاقتي. يسهل عليّ الأمر إن تحدثنا في مكان هادئ.»\n«أحتاج إلى وقت قصير قبل أن أرد. يساعدني أن يُنتظر قليلًا.»\n«عندي الآن مشاعر كثيرة في وقت واحد. يساعدني أن يُصغى إليّ أولًا، وأن تُؤجَّل النصيحة إلى وقت لاحق.»\n«اليوم لست على ما يرام. يساعدني أن أستريح قليلًا.»\n«التغييرات المفاجئة في الخطط تربكني. يساعدني أن أعرف مسبقًا.»\n«أشعر بالخوف عندما يُرفع الصوت عليّ. يساعدني أن يُتحدَّث معي بهدوء.»\n\nوإن كان التعبير بالكلام صعبًا، يمكن كتابة ذلك على ورقة وتسليمها. ويمكن أيضًا عرض صفحة «ما الذي يصعب عليّ» بزر «عرض بخط كبير». تظهر هذه الصفحة في هذا التطبيق بعد اختيار ما يصعب والإجابة عن الأسئلة.\nويمكن أيضًا ذكر الاسم الذي سبق أن أُعطي. ومع ذلك يفيد الطرف الآخر أن يعرف ما الذي يصعب وما المساعدة المطلوبة.\nوقد لا يستطيع الطرف الآخر تلبية الطلب بسبب ظروفه. عندئذ يمكن البحث معًا عن طريق آخر.\n\nوفي العمل يمكن طلب العون بالكلمات نفسها: «يصعب عليّ اتباع عدة تعليمات في وقت واحد. يسهل عليّ الأمر إن وصلتني التعليمات مكتوبة.» وإن احتاج التعديل إلى صفة رسمية، فقد تلزم وثيقة مكتوبة.\n\nلا تُستخدم قائمة الأسماء في هذا التطبيق للتشكيك في من حولنا.",
+       "srcs": []
+      },
+      {
+       "h": "عن هذا التطبيق",
+       "body": "هذا ليس تشخيصًا. وظهور اسم في القائمة لا يعني أن طبيبًا ذكر هذا الاسم.\n\nهذا التطبيق ليس جهازًا طبيًا ولا يقدّم تشخيصًا ولا علاجًا ولا يشفي ولا يقي من أي حالة طبية.\n\nSOYOGI مجموعة طوعية غير ربحية مقرّها اليابان، ولا شخصية اعتبارية لها. ولا علاقة لها بحكومة المملكة العربية السعودية، ولا بوزارة الصحة، ولا بوزارة الموارد البشرية والتنمية الاجتماعية، ولا بالمركز الوطني لتعزيز الصحة النفسية، ولا بأي منشأة صحية. ولا تزكّي أي جهة من هذه الجهات التطبيق ولا تدعمه.\n\nأسماء الجهات تدل على مصدر المعلومات فقط، ويمكن قراءة النصوص الأصلية مجانًا في موقع كل جهة.\n\nكُتب المحتوى بكلمات SOYOGI اعتمادًا على صفحات منشورة في المملكة العربية السعودية. وإذا نُقلت جملة حرفيًا ظهرت بين علامتي اقتباس. المصادر مذكورة في كل شاشة، مع تاريخ الصفحة حين تُظهره. تاريخ الاطلاع: 4 نوفمبر 2026. وقد تتغير الأرقام والأوقات.\n\nقرار طلب المساعدة يعود إلى الشخص نفسه لا إلى التطبيق. والتطبيق موجّه لمن يبلغ 13 عامًا فأكثر.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "من طرق التعامل مع التوتر في صفحة وزارة الصحة: طلب مساعدة طبيب نفسي عندما يؤثر الإرهاق في الحياة اليومية.",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "التوتر (الضغط النفسي)",
+       "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/stress.aspx",
+       "kind": "fact",
+       "upd": "2025-07-10"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "لصعوبات الانتباه أو القراءة والكتابة أو التواصل مع الناس، يمكن البدء بأقرب مركز رعاية صحية أولية، حتى دون معرفة اسم لما يحدث. ويمكن أيضًا الاتصال بالرقم 920033360 للاستشارات النفسية الهاتفية في أوقات عمله.",
+       "src": {
+        "org": "وزارة الصحة",
+        "title": "(الصحة) والمريض النفسي",
+        "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+        "kind": "fact",
+        "upd": "2026-09-28"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "كيف يُعطى الاسم (التشخيص)؟",
+      "text": "تذكر وزارة الصحة، في صفحة اضطراب ثنائي القطب، أن الاسم (التشخيص) يُبنى على ما يمر به الشخص وعلى تاريخه الصحي وتاريخ أسرته، وأن بعض الفحوصات قد تلزم، مثل التحقق من الغدة الدرقية.",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "اضطراب ثنائي القطب",
+       "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/007.aspx",
+       "kind": "fact",
+       "upd": "2025-07-10"
+      }
+     },
+     "fewNote": "الأسماء التي أمكن التحقق منها في الصفحات الحكومية قليلة.",
+     "noNames": "لم نتمكن من التحقق من أسماء لهذه المجموعة في الصفحات الحكومية، لذلك لا نعرض قائمة بالأسماء هنا. ويمكن الاطلاع على جهات الدعم في هذا التطبيق."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Low mood and loss of motivation",
+      "lead": "For when your mood stays low for a long time and the motivation to do anything is gone.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "I no longer enjoy things that used to make me happy.",
+       "I have no energy and cannot concentrate, so my work and the housework fall behind.",
+       "I blame myself a lot, and I mostly see the dark side of things.",
+       "I cannot sleep at night, or I sleep too much. My appetite is low and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what needs to be done, one thing at a time.",
+       "I need time to think; please do not rush me to answer or to decide.",
+       "Please give me the important things in writing.",
+       "Before words of encouragement or being told to hang in there, it helps me to be heard first.",
+       "Please do not see my resting as laziness.",
+       "It helps me when we check together whether a physical condition or a medicine I take might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical conditions that resemble depression (such as thyroid problems or low vitamin D)",
+        "why": "The Ministry of Health (MOH) notes that some physical conditions, such as thyroid problems or low levels of some vitamins, can resemble depression, which is why physical health is checked first.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The Ministry of Health (MOH) describes depression as a mood disorder with lasting sadness and a loss of enjoyment and interest in the usual things.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "Seasonal depression (winter depression)",
+        "why": "The Ministry of Health (MOH) describes a kind of depression that follows the seasons: some people feel sad when the days get shorter, and then their mood improves as the days get longer.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب الموسمي (اكتئاب الشتاء)",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/publichealth/pages/seasonal-depression-winter-depression.aspx",
+         "kind": "fact",
+         "upd": "2023-12-05"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "The Ministry of Health (MOH) describes bipolar disorder as a change in mood, energy and ability to function, in which mood swings between a very high state and a very low state.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب ثنائي القطب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/007.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb",
+       "saeradah"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "When worries keep going and it is hard to calm down, or it is hard to speak in front of people and to leave the house.",
+      "scenes": [
+       "When I speak in front of others or all eyes are on me, I feel intense anxiety and my mind goes completely blank.",
+       "My heart suddenly pounds and my breathing gets tight, and I worry it will happen again, so going out feels hard.",
+       "I worry about many things for no clear reason, and I feel tense and tired.",
+       "I avoid places that are hard to leave, such as crowded places like markets and malls, public transportation, or long lines, and I avoid leaving the house without anyone with me.",
+       "Because I avoid what makes me anxious, I go to fewer places and meet fewer people, and my life has become narrower.",
+       "The worries stay in my head, so it is hard for me to sleep at night."
+      ],
+      "asks": [
+       "It helps me not to be rushed when I am speaking.",
+       "It helps me to know the plan and how things will go ahead of time.",
+       "I would rather not be asked for my opinion suddenly in front of others, and I would like to be able to answer in writing.",
+       "If I start to feel unwell, please let me step out for a moment to rest.",
+       "I would rather talk in a quiet place with only a few people.",
+       "Please do not tell me that I worry too much before listening to what I have to say."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "The Ministry of Health (MOH) describes generalized anxiety disorder as worry that lasts a long time about many matters and situations, not about one single event.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب القلق العام",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/anxietydisorder.aspx",
+         "kind": "fact",
+         "upd": "2024-07-09"
+        }
+       },
+       {
+        "name": "Panic attacks (panic disorder)",
+        "why": "The Ministry of Health (MOH) describes panic attacks as sudden attacks of panic or fear that keep coming back, and says a physical examination is done to make sure there is no other cause.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "نوبات الهلع",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/panicattack.aspx",
+         "kind": "fact",
+         "upd": "2024-07-09"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The National Center for Mental Health Promotion (NCMH) notes that this condition can appear after a painful or life-threatening experience, and that it can overlap with anxiety or depression.",
+        "src": {
+         "org": "المركز الوطني لتعزيز الصحة النفسية",
+         "title": "اليوم العالمي لاضطراب ما بعد الصدمة: بين الذاكرة والألم والتعافي",
+         "url": "https://ncmh.org.sa/articles/119",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb",
+       "saeradah"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Checking and repeating that is hard to stop",
+      "lead": "For when you check the door and the gas or wash again and again, and find it hard to stop even though you want to.",
+      "scenes": [
+       "When I leave the house, I cannot relax until I have checked the door lock and the gas (the gas cylinder or the stove) again and again.",
+       "I wash my hands or my body more and more, and I cannot stop even though I want to.",
+       "The same worrying thought comes back to my mind again and again, and I cannot stop thinking about it even though I want to.",
+       "I cannot relax if things are not placed or done in the order I have set, so I rearrange them or repeat what I did.",
+       "Time passes while I am checking, so I leave late, or I do not get to my appointments or to work on time.",
+       "My body moves or a sound comes out of me without my meaning to, and it is hard for me to stop it even when I try."
+      ],
+      "asks": [
+       "It helps me to be heard first, before being told that I am overdoing it.",
+       "Checking takes me time, so it helps me to be given extra time.",
+       "It helps me to be told in advance when appointments or steps change.",
+       "Please do not point out my checking or washing in front of others, and please do not make fun of it.",
+       "It helps me to be given explanations and instructions a little at a time and in writing.",
+       "When we decide how to go on from here, it helps me to have my worries heard first and the decision made calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "The Ministry of Health (MOH) describes obsessive-compulsive disorder as thoughts and fears that do not make sense and push a person to repeat certain actions, and says this can get in the way of daily life.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الوسواس القهري",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/obsessivecompulsivedisorder.aspx",
+         "kind": "fact",
+         "upd": "2026-09-13"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "The Ministry of Health (MOH) page on obsessive-compulsive disorder says that it is linked to anxiety, and the MOH page on generalized anxiety disorder describes worry that lasts a long time about many situations and matters.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب القلق العام",
+         "url": "https://www.moh.gov.sa/awarenessplateform/varioustopics/pages/anxietydisorder.aspx",
+         "kind": "fact",
+         "upd": "2024-07-09"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saeradah"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "After a hard experience: memories that come back, trouble sleeping, and staying on alert.",
+      "scenes": [
+       "Suddenly, something small brings back the scene and the feelings of that hard time.",
+       "I keep having similar frightening nightmares, and on many nights I do not sleep deeply.",
+       "I am always on alert, and I jump at any small sound or event.",
+       "I avoid, as much as I can, the places, people and conversations that remind me of that time, and the range of what I do in my daily life has narrowed.",
+       "It feels as if my emotions have stopped, so I cannot give my family and friends the feelings I used to give them.",
+       "I blame myself more and more, and it is hard for me to trust the people around me."
+      ],
+      "asks": [
+       "Please do not ask me to describe the details of what happened. I would rather speak as much as I can, at a pace that suits me.",
+       "Some sounds, places and topics bring back what happened. It helps me when my request to avoid them is accepted.",
+       "It helps me when people do not call out to me suddenly from behind or make loud noises near me.",
+       "When it is hard for me to speak, please accept a note that I have written.",
+       "Please do not take the nights when I do not sleep, and the days when the tiredness stays, for laziness.",
+       "Please do not rush me to forget or to go back to how I was, and I hope to have a place where I feel safe when I talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The National Center for Mental Health Promotion (NCMH) says this condition can appear after a painful or life-threatening experience, and that with it, painful memories can come back in nightmares or in sudden flashbacks.",
+        "src": {
+         "org": "المركز الوطني لتعزيز الصحة النفسية",
+         "title": "اليوم العالمي لاضطراب ما بعد الصدمة: بين الذاكرة والألم والتعافي",
+         "url": "https://ncmh.org.sa/articles/119",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The Ministry of Health (MOH) says that sad events and ongoing difficulties in life, such as being exposed to violence, can be among the causes of depression.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "I cannot fall asleep easily even after I lie down in bed.",
+       "I wake up often in the night, so I do not sleep deeply until morning.",
+       "I cannot get up when it is time to wake up, and I am often late for work or study.",
+       "Very strong sleepiness comes over me during the day, and I nearly doze off in meetings or while driving.",
+       "My family told me that I snore loudly and that my breathing seems to stop while I sleep.",
+       "From evening into the night I feel discomfort and restlessness in my legs, so I cannot sleep."
+      ],
+      "asks": [
+       "Please give me enough time to describe how I sleep: trouble falling asleep, waking up during the night, trouble getting up in the morning, and sleepiness in the day.",
+       "It helps me when we look for the cause together, including the medicines I take and my habits with stimulants such as coffee, tea and energy drinks, and with smoking.",
+       "Please do not see it as only a matter of thinking or willpower, and please check my physical health and my mood together.",
+       "I would like to show a sheet where I wrote down my sleep and wake-up times. Please take a look at it.",
+       "If a medicine is prescribed for me, please explain clearly how it works and what I should watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep apnea",
+        "why": "The page describes a condition in which breathing stops during sleep and then starts again, so sleep is broken up and sleepiness grows during the day.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "توقف التنفس أثناء النوم",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/sleep-apnea.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "The page describes a long-lasting brain condition that is considered rare, in which sleep comes suddenly at times that are not suitable for sleep.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "النوم القهري",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/narcolepsy.aspx",
+         "kind": "fact",
+         "upd": "2026-07-26"
+        }
+       },
+       {
+        "name": "The body clock and sleep disorders",
+        "why": "The page explains that the body clock regulates sleepiness and activity through the day, and that the timing of sleepiness differs from one person to another.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "التوعية بالنوم",
+         "url": "https://www.moh.gov.sa/awarenessplateform/healthylifestyle/pages/sleeping.aspx",
+         "kind": "fact",
+         "upd": "2026-09-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The Ministry of Health (MOH) says that depression can come with disturbed sleep, either trouble sleeping at night or sleeping too much.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sa937",
+       "sasehhaty"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "Being unable to eat, eating too much, or being afraid of eating.",
+      "scenes": [
+       "I do not feel like eating, and for some time it has been hard for me to swallow food.",
+       "Once I start eating I cannot stop myself, and sometimes I eat until it hurts.",
+       "I find myself thinking only about food, and it is hard for me to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After I choked on food or vomited, eating became frightening to me.",
+       "Sometimes I eat at night while I am half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "Please do not comment on my weight or my appearance.",
+       "Please do not force me to eat or rush me while I eat.",
+       "When people eat together, such as at banquets, dinner invitations and family meals, please let me choose another place or time.",
+       "Please ask first what I can eat, and which smells and textures are hard for me to bear.",
+       "Please explain the steps of the physical examination and the tests before they are done.",
+       "Please allow me to write down what is hard for me to say and hand it over."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anorexia nervosa",
+        "why": "The page describes anorexia nervosa as avoiding food, or eating only a small amount of it, driven by a strong fear of gaining weight.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطرابات الأكل",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/eating-disorders.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "Bulimia nervosa",
+        "why": "The page describes bulimia nervosa as episodes of eating a lot of food with a loss of control, followed by behavior to make up for what was eaten.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطرابات الأكل",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/eating-disorders.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "Binge-eating disorder",
+        "why": "The page describes binge-eating disorder as episodes of eating a lot of food with a loss of control, without behavior to make up for it.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطرابات الأكل",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/eating-disorders.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Alcohol, gambling or video games: hard to stop",
+      "lead": "Wanting to stop or cut down, but still going back to it.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself going back to it again.",
+       "I can't keep to the time, the amount or the money I set for myself, such as “That's enough for today.”",
+       "I hide my drinking, gambling or video gaming from my family or people close to me, or I am evasive when I talk about it.",
+       "I stay up late playing video games, so I can't wake up in the morning, and I am late or absent more and more often.",
+       "I go back to gambling to win back what I lost.",
+       "I know my body is not in good shape, but I still can't cut down on alcohol."
+      ],
+      "asks": [
+       "Please listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when we go through, step by step, how I deal with this now and what difficulties it causes me.",
+       "Please look at my sleep and my physical health as well.",
+       "Please tell me specifically where I can ask for support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can join the conversation.",
+       "I would like to know beforehand who will be able to see what I say, and to what extent."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol addiction",
+        "why": "The National Center for Mental Health Promotion (NCMH) describes alcohol addiction as a long-lasting condition in which drinking goes on despite the harm it causes.",
+        "src": {
+         "org": "المركز الوطني لتعزيز الصحة النفسية",
+         "title": "الآثار النفسية لإدمان الكحول – مراجعة علمية ودعوة للتوعية",
+         "url": "https://ncmh.org.sa/articles/2746",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "saeradah",
+       "sa937"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, doing things in order, or remembering them.",
+      "scenes": [
+       "Even when someone is talking to me, I find that my mind has drifted to something else without my noticing.",
+       "I can't get my work or my housework done in order, so I miss deadlines.",
+       "I often can't remember later what I was asked to do or what I promised, or I lose my things.",
+       "When I keep at the same task for a long time, I make more and more mistakes without meaning to.",
+       "When I have to sit still, I can't settle down, and I keep moving around in my seat.",
+       "People around me tell me that I often forget my things or am late for appointments."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "It helps me when important things are written down and handed to me.",
+       "I would like to be told about appointments and deadlines early.",
+       "It helps me when I am not given many things at once, and when tasks are split into small parts.",
+       "I would rather talk in a quiet place where nothing distracts me.",
+       "Please don't blame me for what I couldn't get done, and please recognize what I did get done."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "The Ministry of Health (MOH) describes depression as a mood disorder, and says that it can come with reduced concentration.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "الاكتئاب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/depression.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page talks about a condition linked to how the brain develops, in which there is difficulty concentrating or controlling impulses, or excess activity.",
+        "src": {
+         "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+         "title": "اضطراب فرط الحركة ونقص الانتباه",
+         "url": "https://www.apd.gov.sa/blog/ltw-y-wltthqyf-12/dtrb-frt-lhrk-wnqs-lntbh-182",
+         "kind": "fact",
+         "upd": "2025-02-26"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saeradah"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with relationships, daily routines or sensory input",
+      "lead": "Trouble talking or dealing with others, a strong need to always do things the same way, or finding sounds, lights and smells hard to bear.",
+      "scenes": [
+       "It is hard for me to understand how the person I am talking with feels, or the mood of the place, so it feels as if we are talking past each other.",
+       "When I speak in front of people or all eyes turn to me, I feel very tense and I avoid those situations.",
+       "I talk easily with people close to me, but I can't speak in front of others.",
+       "When the order of things, the way of doing them or the place where they are kept changes from what I am used to, I feel very anxious.",
+       "Sounds, lights and smells feel too strong to me, so crowded places are hard for me.",
+       "It is hard for me to hear what people say, or sadness overwhelms me, so that meeting people and talking with them has come to weigh on me."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would rather talk in a quiet place.",
+       "I would like to be told beforehand when an appointment or the way of working changes.",
+       "Please don't rush me to answer, and please wait for my answer.",
+       "It helps me when I can answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "Even with a lot of effort, reading, writing or calculating is still very hard.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I read it again many times.",
+       "Even after reading, the meaning does not settle in my mind, and I find it hard to understand letters and forms from government offices or the bank.",
+       "I make many spelling mistakes, for example with the hamza and with the two forms of the letter taa (ة and ت), and sometimes I leave out some letters.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and effort.",
+       "I stumble over simple calculations and over math problems written out in words.",
+       "I can talk and listen without difficulty, but with reading, writing and calculating I do not make the progress I would like, even when I put time into it."
+      ],
+      "asks": [
+       "It helps me when text is shown in large print with wide spacing between the lines, and with vowel marks (tashkeel) when needed.",
+       "It helps me when important things are read aloud to me or told to me.",
+       "I prefer to enter text on a computer or phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "Please let me use a calculator (on my phone) for calculations.",
+       "It helps me to have more time for reading, writing and calculating.",
+       "It helps me when I am given less at a time, and when each thing is handed to me separately."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia (difficulty with reading)",
+        "why": "This page describes dyslexia as one kind of learning difficulty that shows up as trouble with reading, writing and spelling, and says that it does not come from a weakness in intelligence or in the senses.",
+        "src": {
+         "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+         "title": "اضطراب عسر القراءة",
+         "url": "https://www.apd.gov.sa/blog/ltw-y-wltthqyf-12/dtrb-sr-lqr-180",
+         "kind": "fact",
+         "upd": "2025-03-20"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "saapd"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "Mood goes up and down a lot, and it is hard to keep up with it.",
+      "scenes": [
+       "Periods when my energy runs very high alternate with periods when my mood is so low that I cannot move.",
+       "There are periods when I hardly sleep, and yet my energy is high and I keep moving.",
+       "Ideas and plans come one after another in my mind, and each of them is left unfinished.",
+       "When my mood was high, I bought many things, by card or in installments, and then I regretted it.",
+       "I lose patience quickly over small things, and it is hard for me to keep my feelings in check.",
+       "When my mood was high, I acted in ways that later affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when the questions also cover the times when my mood was higher than usual.",
+       "I prefer that we go over the highs and lows of my mood together, without hurrying.",
+       "It helps me to be reminded to stop and think before big decisions about money or work.",
+       "Please also look at physical factors, including sleep, medicines and stimulants.",
+       "Please tell me, without blaming me, if I seem different from usual.",
+       "Please hear me out to the end, both in my high times and in my low times."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Bipolar disorder",
+        "why": "The Ministry of Health (MOH) describes bipolar disorder as a disorder that brings changes in mood, energy and the ability to work, in which mood moves between a very high state and a very low state.",
+        "src": {
+         "org": "وزارة الصحة",
+         "title": "اضطراب ثنائي القطب",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/007.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       }
+      ],
+      "windows": [
+       "saphc",
+       "sancmh",
+       "saqareeb"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing the name of an illness or a developmental condition can make everyday ups and downs seem like more than they are",
+       "body": "When you learn the name of an illness or of a developmental condition, a little tiredness or a mind that drifts at times can seem like more than it is.\n\nEmotions have an effect on the body and the mood, and this is not imagination; it really happens. But too little sleep, stress, the phone and what is going on around you can also cause similar things.\n\nWhen you read a name and think “maybe this is what I have,” that by itself does not settle it; other causes are looked at too. And if what is hard continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Most people go through tension and stress when facing the difficulties of life.",
+       "body": "Losing someone close, changing jobs, or financial hardship: with difficulties like these, most people go through tension and stress, as the Ministry of Health (MOH) says.\n\nA name (a diagnosis) is given by a doctor. What the Ministry of Health says about how this happens appears at the end of the list of names in this app.\n\nIf what is hard continues, you can talk about it as it is, whatever the name.",
+       "srcs": [
+        {
+         "org": "وزارة الصحة",
+         "title": "التوتر (الضغط النفسي)",
+         "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/stress.aspx",
+         "kind": "fact",
+         "upd": "2025-07-10"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is hard even without knowing its name.",
+       "body": "You can talk about what is hard even without knowing its name.\n\nThe Ministry of Health (MOH) says it changed the name of the mental health clinic in the primary care centers to the “Comprehensive Guidance Clinic” (العيادة الإرشادية الشاملة) to spare the people who visit it any embarrassment, and that psychological consultations by phone can be requested from all regions of the Kingdom and for all groups of society through the number 920033360. The hours of this number are given in the list of places that can be contacted.\n\nThe Law on the Rights of Persons with Disabilities guarantees their right to education and work without discrimination.",
+       "srcs": [
+        {
+         "org": "وزارة الصحة",
+         "title": "(الصحة) والمريض النفسي",
+         "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+         "kind": "fact",
+         "upd": "2026-09-28"
+        },
+        {
+         "org": "وزارة الموارد البشرية والتنمية الاجتماعية",
+         "title": "نظام حقوق الأشخاص ذوي الإعاقة",
+         "url": "https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/%D9%86%D8%B8%D8%A7%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D8%A5%D8%B9%D8%A7%D9%82%D8%A9",
+         "kind": "fact",
+         "upd": "2026-09-03"
+        }
+       ]
+      },
+      {
+       "h": "But some rights and services may require documents or a formal evaluation",
+       "body": "For some rights and services, documents or a formal evaluation may be requested. Some services for persons with disabilities are provided when a registered “disability evaluation” exists.\n\nWhat is requested differs from one service to another, so it helps to ask the relevant body beforehand.",
+       "srcs": [
+        {
+         "org": "هيئة رعاية الأشخاص ذوي الإعاقة",
+         "title": "الخدمات الإلكترونية",
+         "url": "https://www.apd.gov.sa/services",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for feeling superior to someone, or for looking down on other people.\nFor some people, knowing the name of what they are going through brings relief. That matters.\nWanting the people around us to understand us and to be gentle with us also makes sense.\n\nWhen you want the people around you to be gentler, you can ask for that directly, without needing to say the name of an illness.\nIt is easier to understand when you say two things together: what is hard for you and what helps you.\n\nHere are some examples:\n“I have little energy today. It helps me when people speak to me slowly.”\n“I get confused when many things are said at once. It helps me when I am told one thing at a time.”\n“It is hard for me to remember what is only said out loud. I prefer to receive the important things in writing, on paper or by email.”\n“Crowded places drain my energy. It is easier for me if we talk in a quiet place.”\n“I need a little time before I answer. It helps me when people wait a moment.”\n“Right now I have many feelings at once. It helps me when I am listened to first, and when advice is put off until later.”\n“I am not feeling well today. It helps me to rest a little.”\n“Sudden changes of plans throw me off. It helps me to know in advance.”\n“When a voice is raised at me, I feel afraid. It helps me when people speak to me calmly.”\n\nIf it is hard to say this out loud, you can write it on a piece of paper and hand it over. You can also show the page “My worries” with the button “Show it large”. It appears in this app after you choose what is hard and answer the questions.\nYou can also mention the name you were already given. Even so, it helps the other person to know what is hard and what help is needed.\nSometimes the other person cannot meet the request because of their own circumstances. In that case, you can look for another way together.\n\nAt work, you can ask for help in the same words: “It is hard for me to follow several instructions at the same time. It is easier for me if the instructions reach me in writing.” If the adjustment needs to be formal, a written document may be needed.\n\nThe list of names in this app is not meant to be used to doubt the people around us.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. If a name appears in the list, it does not mean that a doctor has mentioned that name.\n\nThis app is not a medical device. It does not make a diagnosis, and it does not provide medical care for, heal, or prevent any medical condition.\n\nSOYOGI is a non-profit group based in Japan without legal personality. It has no connection with the Government of the Kingdom of Saudi Arabia, the Ministry of Health (MOH), the Ministry of Human Resources and Social Development (HRSD), the National Center for Mental Health Promotion (NCMH) or any healthcare facility. None of them has recommended or supported this app.\n\nThe names of the bodies only show where the information comes from, and the original texts can be read free of charge on each body's website.\n\nSOYOGI wrote this content in its own words, drawing on pages published in Saudi Arabia. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page when it shows one. Accessed on November 4, 2026. Numbers and hours may change.\n\nThe decision to ask for help belongs to the person, not to the app. This app is meant for people aged 13 and over.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Among the ways of dealing with stress listed on the Ministry of Health (MOH) page: getting help from a psychiatrist when exhaustion affects daily life.",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "التوتر (الضغط النفسي)",
+       "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/stress.aspx",
+       "kind": "fact",
+       "upd": "2025-07-10"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "For difficulties with attention, with reading and writing, or with communicating with people, you can start at the nearest primary health care center, even without knowing a name for what is happening. You can also call 920033360 for psychological consultations by phone during its working hours.",
+       "src": {
+        "org": "وزارة الصحة",
+        "title": "(الصحة) والمريض النفسي",
+        "url": "https://www.moh.gov.sa/ministry/information-and-services/pages/psychiatry.aspx",
+        "kind": "fact",
+        "upd": "2026-09-28"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "How is a name (a diagnosis) given?",
+      "text": "On its page about bipolar disorder, the Ministry of Health (MOH) says that a name (a diagnosis) is based on what the person is going through, on their health history and on their family history, and that some tests may be needed, such as checking the thyroid gland.",
+      "src": {
+       "org": "وزارة الصحة",
+       "title": "اضطراب ثنائي القطب",
+       "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/diseases/mental/pages/007.aspx",
+       "kind": "fact",
+       "upd": "2025-07-10"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on government pages.",
+     "noNames": "We could not confirm names for this group on government pages, so no list of names is shown here. You can still find places to get help in this app."
     }
    }
   }
