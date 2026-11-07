@@ -36,7 +36,10 @@ window.KOMARI_DATA = {
   "it",
   "se",
   "br",
-  "sa"
+  "sa",
+  "gb",
+  "au",
+  "nz"
  ],
  "c": {
   "jp": {
@@ -34963,6 +34966,4717 @@ window.KOMARI_DATA = {
      },
      "fewNote": "Only a few names could be confirmed on government pages.",
      "noNames": "We could not confirm names for this group on government pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "gb": {
+   "id": "gb",
+   "name": {
+    "ja": "イギリス",
+    "en": "United Kingdom",
+    "fr": "Royaume-Uni",
+    "de": "Vereinigtes Königreich",
+    "es": "Reino Unido",
+    "nl": "Verenigd Koninkrijk",
+    "ko": "영국",
+    "zh": "英國",
+    "it": "Regno Unito",
+    "sv": "Förenade kungariket",
+    "pt": "Reino Unido",
+    "ar": "المملكة المتحدة"
+   },
+   "langs": [
+    "en"
+   ],
+   "main": "en",
+   "fallback": "en",
+   "srcLang": "en",
+   "freeHosts": [
+    "gov.uk",
+    "nidirect.gov.uk",
+    "gov.wales",
+    "nhsinform.scot",
+    "nhs.uk"
+   ],
+   "adaptHosts": [
+    "gov.uk",
+    "nidirect.gov.uk",
+    "mygov.scot",
+    "gov.wales"
+   ],
+   "srcNote": {
+    "nhs.uk": {
+     "quote": "Information from the NHS website, as at 071126"
+    }
+   },
+   "factRef": true,
+   "ver": "2026-11-07",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "gb999",
+     "band": "now",
+     "tel": "999",
+     "tel2": "",
+     "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+     "linkOk": true,
+     "en": {
+      "name": "999 (emergency)",
+      "desc": "If a life is in danger, call 999. Calls to 999 are free. If you cannot speak, stay on the line and, if you can, answer by coughing or tapping the handset. On a mobile, if asked, press 55 to be put through to the police; this does not tell them where you are. If you are deaf or cannot use a phone, you can register with emergencySMS before you need it: when it is safe, text REGISTER to 999.",
+      "hours": "For emergencies, at any time.",
+      "src": {
+       "org": "Home Office (GOV.UK)",
+       "title": "Domestic abuse: how to get help",
+       "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+       "kind": "fact",
+       "upd": "2025-04-29"
+      }
+     },
+     "src": {
+      "org": "Home Office (GOV.UK)",
+      "title": "Domestic abuse: how to get help",
+      "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+      "kind": "fact",
+      "upd": "2025-04-29"
+     }
+    },
+    {
+     "id": "gb111eng",
+     "band": "now",
+     "tel": "111",
+     "tel2": "",
+     "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+     "linkOk": true,
+     "en": {
+      "name": "England: NHS 111",
+      "desc": "Call 111 and choose the mental health option. They can tell you where to get the right help, and you may be able to talk to a trained mental health professional on the phone. If you are deaf, you can call 18001 111 using the Relay UK app or a textphone.",
+      "hours": "24 hours every day. Calls to 111 are free.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Where to get urgent help for mental health",
+       "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+       "kind": "fact",
+       "upd": "2026-10-23"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Where to get urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+      "kind": "fact",
+      "upd": "2026-10-23"
+     }
+    },
+    {
+     "id": "gblifeline",
+     "band": "now",
+     "tel": "0808 808 8000",
+     "tel2": "",
+     "url": "https://www.nidirect.gov.uk/articles/mental-health-emergency-if-youre-crisis-or-despair",
+     "linkOk": true,
+     "en": {
+      "name": "Northern Ireland: Lifeline",
+      "desc": "A crisis response helpline for everyone in Northern Ireland. It is confidential, free and open 24 hours every day. You can also call for advice if you are worried about a friend or family member. Calls are answered by trained counsellors. In exceptional circumstances, Lifeline may share a caller's details with the emergency services if someone's safety is in danger. Textphone: 18001 0808 808 8000.",
+      "hours": "24 hours every day.",
+      "src": {
+       "org": "nidirect (Northern Ireland Government)",
+       "title": "Mental health emergency - if you're in crisis or despair",
+       "url": "https://www.nidirect.gov.uk/articles/mental-health-emergency-if-youre-crisis-or-despair",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "nidirect (Northern Ireland Government)",
+      "title": "Mental health emergency - if you're in crisis or despair",
+      "url": "https://www.nidirect.gov.uk/articles/mental-health-emergency-if-youre-crisis-or-despair",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbnhs24",
+     "band": "now",
+     "tel": "111",
+     "tel2": "",
+     "url": "https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-support/get-urgent-mental-health-help/",
+     "linkOk": true,
+     "en": {
+      "name": "Scotland: NHS 24 (111)",
+      "desc": "Phone 111 and choose the mental health option to reach the NHS 24 Mental Health Hub. It is open to all ages. Calls to 111 are free and do not appear on your bill. Textphone: 18001 111, or use the Relay UK app.",
+      "hours": "Always available.",
+      "src": {
+       "org": "NHS inform (NHS 24)",
+       "title": "Get urgent mental health help",
+       "url": "https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-support/get-urgent-mental-health-help/",
+       "kind": "fact",
+       "upd": "2026-08-04"
+      }
+     },
+     "src": {
+      "org": "NHS inform (NHS 24)",
+      "title": "Get urgent mental health help",
+      "url": "https://www.nhsinform.scot/illnesses-and-conditions/mental-health/mental-health-support/get-urgent-mental-health-help/",
+      "kind": "fact",
+      "upd": "2026-08-04"
+     }
+    },
+    {
+     "id": "gb111wal",
+     "band": "now",
+     "tel": "111",
+     "tel2": "",
+     "url": "https://www.gov.wales/nhs-111-press-2",
+     "linkOk": true,
+     "en": {
+      "name": "Wales: NHS 111 Wales (press 2)",
+      "desc": "For urgent mental health support, call 111 and press 2. It is for people of all ages, open 24 hours a day, 7 days a week across Wales, and free from a landline or mobile, even with no credit left. You will be put in touch with a mental health professional in your area. Calls in Welsh are welcome.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Welsh Government (gov.wales)",
+       "title": "NHS 111 Press 2",
+       "url": "https://www.gov.wales/nhs-111-press-2",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Welsh Government (gov.wales)",
+      "title": "NHS 111 Press 2",
+      "url": "https://www.gov.wales/nhs-111-press-2",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbsamar",
+     "band": "now",
+     "tel": "116 123",
+     "tel2": "",
+     "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+     "linkOk": true,
+     "en": {
+      "name": "Samaritans",
+      "desc": "Call 116 123 to talk to Samaritans. It is a free listening service with trained volunteers, open 24 hours a day, every day, and you can talk about anything that is troubling you. What you say stays confidential unless they are very worried about you or think you are in immediate danger.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Where to get urgent help for mental health",
+       "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+       "kind": "fact",
+       "upd": "2026-10-23"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Where to get urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+      "kind": "fact",
+      "upd": "2026-10-23"
+     }
+    },
+    {
+     "id": "gbshout",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+     "linkOk": true,
+     "sms": "85258",
+     "en": {
+      "name": "Shout (text)",
+      "desc": "If you would rather not talk on the phone, you can text SHOUT to 85258. The text line is open 24 hours a day, every day.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Help for suicidal thoughts",
+       "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+       "kind": "fact",
+       "upd": "2024-04-26"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Help for suicidal thoughts",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+      "kind": "fact",
+      "upd": "2024-04-26"
+     }
+    },
+    {
+     "id": "gbdaeng",
+     "band": "now",
+     "tel": "0808 2000 247",
+     "tel2": "",
+     "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+     "linkOk": true,
+     "en": {
+      "name": "England: National Domestic Abuse Helpline",
+      "desc": "Refuge's National Domestic Abuse Helpline for England. Free, confidential advice and support, 24 hours a day.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Home Office (GOV.UK)",
+       "title": "Domestic abuse: how to get help",
+       "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+       "kind": "fact",
+       "upd": "2025-04-29"
+      }
+     },
+     "src": {
+      "org": "Home Office (GOV.UK)",
+      "title": "Domestic abuse: how to get help",
+      "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+      "kind": "fact",
+      "upd": "2025-04-29"
+     }
+    },
+    {
+     "id": "gbdani",
+     "band": "now",
+     "tel": "0808 802 1414",
+     "tel2": "",
+     "url": "https://www.nidirect.gov.uk/articles/domestic-and-sexual-abuse-helpline",
+     "linkOk": true,
+     "en": {
+      "name": "Northern Ireland: Domestic and Sexual Abuse Helpline",
+      "desc": "For men and women affected by domestic or sexual violence in Northern Ireland. Open 24 hours a day, every day of the year, and free from a landline or mobile. The helpline is confidential, with a few exceptions explained on the nidirect page. You can ask for an interpreter.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "nidirect (Northern Ireland Government)",
+       "title": "Domestic and sexual abuse helpline",
+       "url": "https://www.nidirect.gov.uk/articles/domestic-and-sexual-abuse-helpline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "nidirect (Northern Ireland Government)",
+      "title": "Domestic and sexual abuse helpline",
+      "url": "https://www.nidirect.gov.uk/articles/domestic-and-sexual-abuse-helpline",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbdasco",
+     "band": "now",
+     "tel": "0800 027 1234",
+     "tel2": "",
+     "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+     "linkOk": true,
+     "en": {
+      "name": "Scotland: Domestic Abuse and Forced Marriage Helpline",
+      "desc": "Free, confidential support and advice in Scotland about domestic abuse and forced marriage, for people affected and for worried family or friends. 24 hours a day.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Home Office (GOV.UK)",
+       "title": "Domestic abuse: how to get help",
+       "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+       "kind": "fact",
+       "upd": "2025-04-29"
+      }
+     },
+     "src": {
+      "org": "Home Office (GOV.UK)",
+      "title": "Domestic abuse: how to get help",
+      "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+      "kind": "fact",
+      "upd": "2025-04-29"
+     }
+    },
+    {
+     "id": "gbdawal",
+     "band": "now",
+     "tel": "0808 80 10 100",
+     "tel2": "",
+     "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+     "linkOk": true,
+     "en": {
+      "name": "Wales: Live Fear Free Helpline",
+      "desc": "For anyone in Wales affected by domestic abuse, or worried about someone. A service funded by the Welsh Government, with online live chat, text and email as well as the phone line. Free, confidential support and advice, 24 hours a day, 365 days a year.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Home Office (GOV.UK)",
+       "title": "Domestic abuse: how to get help",
+       "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+       "kind": "fact",
+       "upd": "2025-04-29"
+      }
+     },
+     "src": {
+      "org": "Home Office (GOV.UK)",
+      "title": "Domestic abuse: how to get help",
+      "url": "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+      "kind": "fact",
+      "upd": "2025-04-29"
+     }
+    },
+    {
+     "id": "gbgp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/",
+     "linkOk": true,
+     "en": {
+      "name": "GP (local doctor)",
+      "desc": "A GP (local doctor) is a good place to start talking about your mental health. In England, anyone can register with a GP surgery for free; you do not need ID, proof of address or proof of immigration status.",
+      "hours": "Opening hours depend on the surgery.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Register with a GP surgery",
+       "url": "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/",
+       "kind": "fact",
+       "upd": "2025-07-28"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Register with a GP surgery",
+      "url": "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/",
+      "kind": "fact",
+      "upd": "2025-07-28"
+     }
+    },
+    {
+     "id": "gbtalk",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/",
+     "linkOk": true,
+     "en": {
+      "name": "England: NHS talking therapies for anxiety and depression",
+      "desc": "If you live in England and are aged 18 or over (16 or 17 in some areas), you can refer yourself or ask a GP to refer you. You do not need a diagnosis.",
+      "hours": "Opening times depend on the service.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Find NHS talking therapies for anxiety and depression",
+       "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/",
+       "kind": "fact",
+       "upd": "2025-02-14"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Find NHS talking therapies for anxiety and depression",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/",
+      "kind": "fact",
+      "upd": "2025-02-14"
+     }
+    },
+    {
+     "id": "gbdrinkeng",
+     "band": "day",
+     "tel": "0300 123 1110",
+     "tel2": "",
+     "url": "https://www.nhs.uk/live-well/alcohol-advice/alcohol-support/",
+     "linkOk": true,
+     "en": {
+      "name": "England: Drinkline",
+      "desc": "The national alcohol helpline, for anyone worried about their own or someone else's drinking. If you are physically dependent on alcohol, stopping suddenly can be harmful, so get advice about this first, for example from a GP.",
+      "hours": "Weekdays 9am to 8pm, weekends 11am to 4pm.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Alcohol support",
+       "url": "https://www.nhs.uk/live-well/alcohol-advice/alcohol-support/",
+       "kind": "fact",
+       "upd": "2026-08-17"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Alcohol support",
+      "url": "https://www.nhs.uk/live-well/alcohol-advice/alcohol-support/",
+      "kind": "fact",
+      "upd": "2026-08-17"
+     }
+    },
+    {
+     "id": "gbatw",
+     "band": "day",
+     "tel": "0800 121 7479",
+     "tel2": "",
+     "url": "https://www.gov.uk/access-to-work/eligibility",
+     "linkOk": true,
+     "en": {
+      "name": "England, Scotland and Wales: Access to Work",
+      "desc": "Access to Work can pay for practical support at work if you have a disability, illness or health condition that means you need support to do your job. You do not need a diagnosis to apply. You need to be 16 or over and in paid work, or about to start or return to it. Relay UK, if you cannot hear or speak on the phone: 18001 then 0800 121 7479.",
+      "hours": "Monday to Friday, 9am to 5pm.",
+      "src": {
+       "org": "GOV.UK",
+       "title": "Access to Work: get support if you have a disability or health condition",
+       "url": "https://www.gov.uk/access-to-work/eligibility",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "GOV.UK",
+      "title": "Access to Work: get support if you have a disability or health condition",
+      "url": "https://www.gov.uk/access-to-work/eligibility",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbatwni",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.nidirect.gov.uk/articles/access-work-ni-practical-help-work",
+     "linkOk": true,
+     "en": {
+      "name": "Northern Ireland: Access to Work (NI)",
+      "desc": "Practical help at work for disabled people in Northern Ireland. You apply yourself, by contacting the Department for Communities or through your local Jobs and Benefits office.",
+      "hours": "Contact details are on the nidirect page.",
+      "src": {
+       "org": "nidirect (Northern Ireland Government)",
+       "title": "Access to Work (NI) - practical help at work",
+       "url": "https://www.nidirect.gov.uk/articles/access-work-ni-practical-help-work",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "nidirect (Northern Ireland Government)",
+      "title": "Access to Work (NI) - practical help at work",
+      "url": "https://www.nidirect.gov.uk/articles/access-work-ni-practical-help-work",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbbreath",
+     "band": "day",
+     "tel": "0800 83 85 87",
+     "tel2": "",
+     "url": "https://www.nhsinform.scot/care-support-and-rights/nhs-services/helplines/breathing-space-helpline/",
+     "linkOk": true,
+     "en": {
+      "name": "Scotland: Breathing Space",
+      "desc": "For people in Scotland over 16 who are feeling low, depressed or anxious. Calls are free and confidential.",
+      "hours": "Weekdays 6pm to 2am, 24 hours at the weekend.",
+      "src": {
+       "org": "NHS inform (NHS 24)",
+       "title": "Breathing Space helpline",
+       "url": "https://www.nhsinform.scot/care-support-and-rights/nhs-services/helplines/breathing-space-helpline/",
+       "kind": "fact",
+       "upd": "2026-08-20"
+      }
+     },
+     "src": {
+      "org": "NHS inform (NHS 24)",
+      "title": "Breathing Space helpline",
+      "url": "https://www.nhsinform.scot/care-support-and-rights/nhs-services/helplines/breathing-space-helpline/",
+      "kind": "fact",
+      "upd": "2026-08-20"
+     }
+    },
+    {
+     "id": "gbdrinksco",
+     "band": "day",
+     "tel": "0800 7314 314",
+     "tel2": "",
+     "url": "https://www.nhsinform.scot/healthy-living/alcohol/alcohol-support/",
+     "linkOk": true,
+     "en": {
+      "name": "Scotland: Drinkline Scotland",
+      "desc": "A free, confidential helpline for anyone worried about their own or someone else's drinking.",
+      "hours": "Monday to Friday 9am to 8pm, Saturday and Sunday 11am to 4pm.",
+      "src": {
+       "org": "NHS inform (NHS 24)",
+       "title": "Alcohol support",
+       "url": "https://www.nhsinform.scot/healthy-living/alcohol/alcohol-support/",
+       "kind": "fact",
+       "upd": "2026-10-07"
+      }
+     },
+     "src": {
+      "org": "NHS inform (NHS 24)",
+      "title": "Alcohol support",
+      "url": "https://www.nhsinform.scot/healthy-living/alcohol/alcohol-support/",
+      "kind": "fact",
+      "upd": "2026-10-07"
+     }
+    },
+    {
+     "id": "gbsilver",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://111.wales.nhs.uk/encyclopaedia/m/article/mentalhealthandwellbeing",
+     "linkOk": false,
+     "en": {
+      "name": "Wales: SilverCloud (online course)",
+      "desc": "An online course with support for anxiety, depression and more. Anyone aged 16 or over can sign up, and you do not need a referral.",
+      "hours": "An online course.",
+      "src": {
+       "org": "NHS 111 Wales",
+       "title": "Mental Health and Wellbeing",
+       "url": "https://111.wales.nhs.uk/encyclopaedia/m/article/mentalhealthandwellbeing",
+       "kind": "fact",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "NHS 111 Wales",
+      "title": "Mental Health and Wellbeing",
+      "url": "https://111.wales.nhs.uk/encyclopaedia/m/article/mentalhealthandwellbeing",
+      "kind": "fact",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "gbcall",
+     "band": "day",
+     "tel": "0800 132 737",
+     "tel2": "",
+     "url": "https://111.wales.nhs.uk/encyclopaedia/m/article/mentalhealthandwellbeing",
+     "linkOk": false,
+     "en": {
+      "name": "Wales: CALL Mental Health Listening Line",
+      "desc": "A confidential line about mental health, where someone will listen and give emotional support.",
+      "hours": "24/7.",
+      "src": {
+       "org": "NHS 111 Wales",
+       "title": "Mental Health and Wellbeing",
+       "url": "https://111.wales.nhs.uk/encyclopaedia/m/article/mentalhealthandwellbeing",
+       "kind": "fact",
+       "upd": "2026-08-25"
+      }
+     },
+     "src": {
+      "org": "NHS 111 Wales",
+      "title": "Mental Health and Wellbeing",
+      "url": "https://111.wales.nhs.uk/encyclopaedia/m/article/mentalhealthandwellbeing",
+      "kind": "fact",
+      "upd": "2026-08-25"
+     }
+    },
+    {
+     "id": "gbdan",
+     "band": "day",
+     "tel": "08088 082 234",
+     "tel2": "",
+     "url": "https://www.gov.wales/drug-and-alcohol-helpline",
+     "linkOk": true,
+     "en": {
+      "name": "Wales: DAN 24/7 (drugs and alcohol)",
+      "desc": "A drug and alcohol helpline for Wales, open 24 hours a day, 7 days a week. Calls from UK landlines are free; some mobile networks may charge.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Welsh Government (gov.wales)",
+       "title": "Drug and alcohol helpline",
+       "url": "https://www.gov.wales/drug-and-alcohol-helpline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Welsh Government (gov.wales)",
+      "title": "Drug and alcohol helpline",
+      "url": "https://www.gov.wales/drug-and-alcohol-helpline",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbfrank",
+     "band": "day",
+     "tel": "0300 123 6600",
+     "tel2": "",
+     "url": "https://www.talktofrank.com/contact-frank",
+     "linkOk": false,
+     "sms": "82111",
+     "en": {
+      "name": "FRANK (drugs)",
+      "desc": "Confidential advice about drugs. Phone 0300 123 6600, 24 hours a day, 7 days a week, or text 82111.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "FRANK (Department of Health and Social Care)",
+       "title": "Need some friendly, confidential advice?",
+       "url": "https://www.talktofrank.com/contact-frank",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "FRANK (Department of Health and Social Care)",
+      "title": "Need some friendly, confidential advice?",
+      "url": "https://www.talktofrank.com/contact-frank",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbgamble",
+     "band": "day",
+     "tel": "0808 8020 133",
+     "tel2": "",
+     "url": "https://www.nhs.uk/live-well/addiction-support/gambling-addiction/",
+     "linkOk": true,
+     "en": {
+      "name": "National Gambling Helpline",
+      "desc": "Run by GamCare. Free information and support, 24 hours a day, 7 days a week. In England, you can also refer yourself to an NHS gambling clinic.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Help for problems with gambling",
+       "url": "https://www.nhs.uk/live-well/addiction-support/gambling-addiction/",
+       "kind": "fact",
+       "upd": "2023-12-08"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Help for problems with gambling",
+      "url": "https://www.nhs.uk/live-well/addiction-support/gambling-addiction/",
+      "kind": "fact",
+      "upd": "2023-12-08"
+     }
+    },
+    {
+     "id": "gbbeat",
+     "band": "day",
+     "tel": "0808 801 0677",
+     "tel2": "",
+     "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+     "linkOk": true,
+     "en": {
+      "name": "Beat (eating disorders helpline)",
+      "desc": "You can call the Beat helpline and talk to an adviser about eating disorders in confidence.",
+      "hours": "Check opening hours with the service.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Overview – Eating disorders",
+       "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+       "kind": "fact",
+       "upd": "2024-01-23"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Overview – Eating disorders",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+      "kind": "fact",
+      "upd": "2024-01-23"
+     }
+    },
+    {
+     "id": "gbacas",
+     "band": "day",
+     "tel": "0300 123 1100",
+     "tel2": "",
+     "url": "https://www.gov.uk/pay-and-work-rights",
+     "linkOk": true,
+     "en": {
+      "name": "Acas helpline (rights at work)",
+      "desc": "Confidential advice about rights at work and problems at work. Monday to Friday, 8am to 6pm. The helpline can arrange translation into over 100 languages.",
+      "hours": "Monday to Friday, 8am to 6pm.",
+      "src": {
+       "org": "GOV.UK",
+       "title": "Pay and work rights helpline and complaints",
+       "url": "https://www.gov.uk/pay-and-work-rights",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "GOV.UK",
+      "title": "Pay and work rights helpline and complaints",
+      "url": "https://www.gov.uk/pay-and-work-rights",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbeass",
+     "band": "day",
+     "tel": "0808 800 0082",
+     "tel2": "",
+     "url": "https://www.gov.uk/equality-advisory-support-service",
+     "linkOk": true,
+     "en": {
+      "name": "Equality Advisory Support Service (EASS)",
+      "desc": "Information and advice about discrimination and human rights. Monday to Friday 9am to 7pm, Saturday 10am to 2pm. Textphone: 0808 800 0084.",
+      "hours": "Monday to Friday 9am to 7pm, Saturday 10am to 2pm.",
+      "src": {
+       "org": "GOV.UK",
+       "title": "Equality Advisory Support Service (EASS)",
+       "url": "https://www.gov.uk/equality-advisory-support-service",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "GOV.UK",
+      "title": "Equality Advisory Support Service (EASS)",
+      "url": "https://www.gov.uk/equality-advisory-support-service",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "gbmensline",
+     "band": "day",
+     "tel": "0808 801 0327",
+     "tel2": "",
+     "url": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/",
+     "linkOk": true,
+     "en": {
+      "name": "Men's Advice Line",
+      "desc": "A helpline for men experiencing domestic abuse, run by Respect. Monday to Friday, 10am to 8pm.",
+      "hours": "Monday to Friday, 10am to 8pm.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "Domestic violence and abuse",
+       "url": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/",
+       "kind": "fact",
+       "upd": "2026-06-23"
+      }
+     },
+     "src": {
+      "org": "NHS website (nhs.uk)",
+      "title": "Domestic violence and abuse",
+      "url": "https://www.nhs.uk/live-well/getting-help-for-domestic-violence/",
+      "kind": "fact",
+      "upd": "2026-06-23"
+     }
+    }
+   ],
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Low mood linked to a long-term physical illness",
+        "why": "Living with a long-lasting or serious physical illness, such as heart disease or long-term pain, can be linked to low mood and depression.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Causes - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/causes/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       },
+       {
+        "name": "Alcohol-related problems",
+        "why": "Drinking alcohol can change the chemical balance in the brain, and this can be linked to depression.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Causes - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/causes/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can bring lasting sadness and a loss of interest in things that used to be enjoyable, and it can affect sleep, appetite and energy.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Bipolar disorder is a mental health condition with very large changes in mood, including periods of low mood.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Bipolar disorder",
+         "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2024-10-28"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbtalk",
+       "gbbreath",
+       "gbsilver",
+       "gbcall"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like trains, buses, crowded buildings, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Overactive thyroid (hyperthyroidism)",
+        "why": "An overactive thyroid is a physical condition that can make the heartbeat feel more noticeable.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Heart palpitations",
+         "url": "https://www.nhs.uk/symptoms/heart-palpitations/",
+         "kind": "fact",
+         "upd": "2026-03-17"
+        }
+       },
+       {
+        "name": "Heart rhythm problem (arrhythmia)",
+        "why": "A more noticeable heartbeat can also come from a heart rhythm problem.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Heart palpitations",
+         "url": "https://www.nhs.uk/symptoms/heart-palpitations/",
+         "kind": "fact",
+         "upd": "2026-03-17"
+        }
+       },
+       {
+        "name": "Iron deficiency anaemia",
+        "why": "Iron deficiency anaemia is another physical condition that can lead to a more noticeable heartbeat.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Heart palpitations",
+         "url": "https://www.nhs.uk/symptoms/heart-palpitations/",
+         "kind": "fact",
+         "upd": "2026-03-17"
+        }
+       },
+       {
+        "name": "Anxiety disorders (such as generalised anxiety disorder, panic disorder and phobias)",
+        "why": "In generalised anxiety disorder, strong worry about many different things comes often and is hard to control. Panic disorder and phobias are other anxiety disorders.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Generalised anxiety disorder (GAD)",
+         "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+         "kind": "fact",
+         "upd": "2024-10-22"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Anxious feelings often come together with depression.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbtalk",
+       "gbbreath",
+       "gbsilver",
+       "gbcall"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the gas, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the cooker again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I don't make it to appointments or work on time.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive compulsive disorder (OCD)",
+        "why": "In OCD, troubling thoughts come again and again, and a person may feel they need to repeat actions, such as checking that doors are locked.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview - Obsessive compulsive disorder (OCD)",
+         "url": "https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/",
+         "kind": "fact",
+         "upd": "2023-04-04"
+        }
+       },
+       {
+        "name": "Tics and Tourette syndrome",
+        "why": "Tics are sudden sounds or movements that keep happening without a person choosing them. Tourette syndrome is one condition that causes tics.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Tourette syndrome",
+         "url": "https://www.nhs.uk/conditions/tourette-syndrome/",
+         "kind": "fact",
+         "upd": "2025-05-20"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbtalk"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel towards my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep problems, including nightmares",
+        "why": "After a very stressful or frightening event, upsetting memories of it can keep returning, including in bad dreams or nightmares that happen again and again.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "PTSD (post-traumatic stress disorder)",
+         "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+         "kind": "fact",
+         "upd": "2026-04-08"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "PTSD can follow very stressful, frightening or upsetting events, and can bring back memories as flashbacks or bad dreams.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "PTSD (post-traumatic stress disorder)",
+         "url": "https://www.nhs.uk/mental-health/conditions/ptsd-post-traumatic-stress-disorder/",
+         "kind": "fact",
+         "upd": "2026-04-08"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Big life events, such as bereavement or losing a job, can sometimes bring on depression.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbtalk",
+       "gbcall"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep being late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "I would like some time to explain how my sleep is going (falling asleep, waking in the night, trouble getting up in the morning, sleepiness during the day).",
+       "I would like to think through the cause together, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "I would prefer it not to be put down to my mindset, and I would like my physical health and my mood to be checked together.",
+       "I would like to show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If I am offered medicine, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "Insomnia means having problems sleeping on a regular basis.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Insomnia",
+         "url": "https://www.nhs.uk/conditions/insomnia/",
+         "kind": "fact",
+         "upd": "2024-03-19"
+        }
+       },
+       {
+        "name": "Not getting enough sleep",
+        "why": "Feeling tired all through the day can come from not getting enough sleep.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Insomnia",
+         "url": "https://www.nhs.uk/conditions/insomnia/",
+         "kind": "fact",
+         "upd": "2024-03-19"
+        }
+       },
+       {
+        "name": "Sleep apnoea",
+        "why": "In sleep apnoea, breathing stops and starts during sleep, which can leave a person very tired during the day.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Sleep apnoea",
+         "url": "https://www.nhs.uk/conditions/sleep-apnoea/",
+         "kind": "fact",
+         "upd": "2026-05-11"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "Restless legs syndrome causes a strong urge to move the legs, often when resting at night, and can disturb sleep.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Restless legs syndrome",
+         "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/",
+         "kind": "fact",
+         "upd": "2025-09-22"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "Narcolepsy brings sleepiness during the day and sudden muscle weakness that are beyond a person's control.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Narcolepsy",
+         "url": "https://www.nhs.uk/conditions/narcolepsy/",
+         "kind": "fact",
+         "upd": "2026-09-09"
+        }
+       },
+       {
+        "name": "Sleep problems linked to medicines, alcohol or drugs",
+        "why": "Some medicines, heavy drinking and drug use can cause strong sleepiness during the day.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Excessive daytime sleepiness (hypersomnia)",
+         "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+         "kind": "fact",
+         "upd": "2023-06-23"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can come with physical changes too, such as sleeping badly or feeling tired all the time.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for days.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or being sick once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would prefer it if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When others eat together, I would like to be able to choose a different place or time to eat.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or blood tests explained beforehand.",
+       "I would like to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Other physical health conditions that can cause weight loss",
+        "why": "Losing weight without trying can be caused by a stressful event or by a health condition.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Unintentional weight loss",
+         "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/",
+         "kind": "fact",
+         "upd": "2025-07-28"
+        }
+       },
+       {
+        "name": "Eating disorders",
+        "why": "In an eating disorder, a person tries to cope with feelings or difficult situations through control over food, which can mean eating too much or too little.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview – Eating disorders",
+         "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+         "kind": "fact",
+         "upd": "2024-01-23"
+        }
+       },
+       {
+        "name": "Avoidant restrictive food intake disorder (ARFID)",
+        "why": "In ARFID, a person avoids some foods, eats less, or both, and this does not come from beliefs about weight or body shape.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview – Eating disorders",
+         "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/",
+         "kind": "fact",
+         "upd": "2024-01-23"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can come with physical changes, such as having no appetite.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Overview - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbbeat"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "I would like to work out, step by step, how I use these and what problems they cause.",
+       "I would like my sleep and physical health to be checked as well.",
+       "I would like to be told specifically where I can get support and where I can go.",
+       "I would like to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol-use disorder",
+        "why": "Alcohol-use disorder means drinking in a way that causes harm, and stopping or cutting down can be difficult, even when a person wants to.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Alcohol-use disorder",
+         "url": "https://www.nhs.uk/conditions/alcohol-use-disorder/",
+         "kind": "fact",
+         "upd": "2026-04-24"
+        }
+       },
+       {
+        "name": "Problems with gambling",
+        "why": "Gambling can lead to problems in many areas of life, such as relationships, health and money.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Help for problems with gambling",
+         "url": "https://www.nhs.uk/live-well/addiction-support/gambling-addiction/",
+         "kind": "fact",
+         "upd": "2023-12-08"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Drinking heavily or taking drugs to cope with hard times can lead into a spiral of depression.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Causes - Depression in adults",
+         "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/causes/",
+         "kind": "fact",
+         "upd": "2023-07-05"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbdrinkeng",
+       "gbdrinksco",
+       "gbdan",
+       "gbfrank",
+       "gbgamble"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I can't get through work or housework in order, and I miss deadlines.",
+       "I often can't recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "I would prefer not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "I would like to talk in a quiet place where I am less distracted.",
+       "I would appreciate it if you recognised what I managed to do, instead of blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hormonal changes around the menopause",
+        "why": "Around the menopause and the time before it (perimenopause), some people notice problems with memory or concentration.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Symptoms of menopause and perimenopause",
+         "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+         "kind": "fact",
+         "upd": "2026-05-19"
+        }
+       },
+       {
+        "name": "Anxiety disorders (such as generalised anxiety disorder, panic disorder, phobias and social anxiety)",
+        "why": "A doctor looking into difficulties with focus may also think about anxiety, to help you get the right care.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "ADHD in adults",
+         "url": "https://www.nhs.uk/conditions/adhd-adults/",
+         "kind": "fact",
+         "upd": "2025-03-19"
+        }
+       },
+       {
+        "name": "Attention deficit hyperactivity disorder (ADHD)",
+        "why": "ADHD can affect how you focus, for example making it hard to concentrate or sit still.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "ADHD in adults",
+         "url": "https://www.nhs.uk/conditions/adhd-adults/",
+         "kind": "fact",
+         "upd": "2025-03-19"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "A doctor looking into difficulties with focus may also think about autism, to help you get the right care.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "ADHD in adults",
+         "url": "https://www.nhs.uk/conditions/adhd-adults/",
+         "kind": "fact",
+         "upd": "2025-03-19"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbatw",
+       "gbatwni",
+       "gbacas",
+       "gbeass"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety (social phobia)",
+        "why": "Social anxiety is a strong fear of social situations that does not go away, and it is more than shyness.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Social anxiety (social phobia)",
+         "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/",
+         "kind": "fact",
+         "upd": "2023-05-17"
+        }
+       },
+       {
+        "name": "Selective mutism",
+        "why": "In selective mutism, anxiety leaves a person unable to get words out in some social situations.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Selective mutism",
+         "url": "https://www.nhs.uk/mental-health/conditions/selective-mutism/",
+         "kind": "fact",
+         "upd": "2023-02-17"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "Some adults learn to hide the ways autism affects them, which is called masking, and this can make everyday activities and social situations feel exhausting.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Signs of autism in adults",
+         "url": "https://www.nhs.uk/conditions/autism/signs-in-adults/",
+         "kind": "fact",
+         "upd": "2026-05-06"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbtalk",
+       "gbatw",
+       "gbatwni",
+       "gbeass"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "I would like text in large print with wide line spacing, in a font that is easy to read.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia (a specific learning difficulty)",
+        "why": "Dyslexia is a learning difficulty that mostly affects reading and writing, and it can also make working with numbers or planning harder.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Dyslexia in adults",
+         "url": "https://www.nhs.uk/conditions/dyslexia-in-adults/",
+         "kind": "fact",
+         "upd": "2026-03-26"
+        }
+       },
+       {
+        "name": "Dyspraxia (developmental co-ordination disorder)",
+        "why": "Dyspraxia mainly affects movement and can make everyday activities such as writing harder.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Dyspraxia in adults",
+         "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/",
+         "kind": "fact",
+         "upd": "2026-03-30"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp",
+       "gbatw",
+       "gbatwni",
+       "gbacas",
+       "gbeass"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings can't keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I can't move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "PMDD causes strong emotional and physical changes before a period, which can make work and relationships hard.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "PMDD (premenstrual dysphoric disorder)",
+         "url": "https://www.nhs.uk/conditions/pmdd-premenstrual-dysphoric-disorder/",
+         "kind": "fact",
+         "upd": "2026-08-20"
+        }
+       },
+       {
+        "name": "Hormonal changes around the menopause",
+        "why": "Around the menopause and the time before it (perimenopause), some people have mood swings or low mood.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Symptoms of menopause and perimenopause",
+         "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/symptoms/",
+         "kind": "fact",
+         "upd": "2026-05-19"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Bipolar disorder means very large changes in mood, from very low to very high.",
+        "src": {
+         "org": "NHS website (nhs.uk)",
+         "title": "Bipolar disorder",
+         "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2024-10-28"
+        }
+       }
+      ],
+      "windows": [
+       "gbgp"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to look like a symptom. Feelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use, and what is going on around you can cause similar things too. Even if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Worry and low moods happen to most people at times",
+       "body": "From the NHS website for England: “Most people feel low sometimes, but if it's affecting your life, there are things you can try that may help.”\n\nFrom the NHS website for England: “Most people feel anxious sometimes.”\n\nNames are given by doctors and other professionals, who look at how strong the difficulties are, how long they have lasted and how much they affect daily life, all together.\n\nIf the difficulties continue, you are welcome to ask for help as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "NHS website (nhs.uk)",
+         "title": "Low mood, sadness and depression",
+         "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/",
+         "kind": "quote",
+         "upd": "2026-07-29"
+        },
+        {
+         "org": "NHS website (nhs.uk)",
+         "title": "Generalised anxiety disorder (GAD)",
+         "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+         "kind": "quote",
+         "upd": "2024-10-22"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "In England, you do not need a diagnosis to use NHS talking therapies for anxiety and depression.\n\nAccess to Work (England, Scotland and Wales) does not ask for a diagnosis, but you do need a health condition or disability that means you need support at work.\n\nAt school, college, university or work, you can say what is hard for you and what would help. Changes made to help with this are called reasonable adjustments.",
+       "srcs": [
+        {
+         "org": "NHS website (nhs.uk)",
+         "title": "Find NHS talking therapies for anxiety and depression",
+         "url": "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/",
+         "kind": "fact",
+         "upd": "2025-02-14"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Access to Work: get support if you have a disability or health condition",
+         "url": "https://www.gov.uk/access-to-work/eligibility",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Access to Work: get support if you have a disability or health condition",
+         "url": "https://www.gov.uk/access-to-work",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Disability rights",
+         "url": "https://www.gov.uk/rights-disabled-person/education-rights",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "However, some systems may ask for papers from a health professional",
+       "body": "Some kinds of support ask for papers. A fit note for work can come from a doctor or from certain other health professionals, such as a nurse, pharmacist or physiotherapist, and it describes how your health affects what you can do at work.\n\nDisability payments such as PIP in England and Wales, and Adult Disability Payment in Scotland, look at how your health affects everyday activities.\n\nDisabled Students' Allowance in England asks for proof, and the kind of proof depends on the difficulty.\n\nWhat you need is different for each kind of support, so it helps to ask the organisation first.",
+       "srcs": [
+        {
+         "org": "GOV.UK",
+         "title": "The fit note: guidance for patients and employees",
+         "url": "https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees/the-fit-note-guidance-for-patients-and-employees",
+         "kind": "fact",
+         "upd": "2023-10-06"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Personal Independence Payment (PIP)",
+         "url": "https://www.gov.uk/pip/eligibility",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "mygov.scot (Scottish Government)",
+         "title": "What Adult Disability Payment is",
+         "url": "https://www.mygov.scot/adult-disability-payment",
+         "kind": "fact",
+         "upd": "2025-03-24"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Help if you're a student with a learning difficulty, health problem or disability",
+         "url": "https://www.gov.uk/disabled-students-allowance-dsa/eligibility",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.\n\nAt work, or at school, college or university, if you want this handled as a reasonable adjustment under the law, say that it is because of a health condition or disability. You may be asked for papers.",
+       "srcs": [
+        {
+         "org": "GOV.UK",
+         "title": "Reasonable adjustments for workers with disabilities or health conditions",
+         "url": "https://www.gov.uk/reasonable-adjustments-for-disabled-workers",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Disability rights",
+         "url": "https://www.gov.uk/rights-disabled-person/education-rights",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "GOV.UK",
+         "title": "Help if you're a student with a learning difficulty, health problem or disability",
+         "url": "https://www.gov.uk/disabled-students-allowance-dsa/eligibility",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It is not a company. It has no link with the NHS or the UK Government. It also has no link with the Scottish Government, the Welsh Government or the Northern Ireland Executive. None of them recommends or supports this app. The names of these organisations only show where information came from.\n\nSOYOGI wrote this content in its own words, based on pages from the NHS website for England and from UK government websites, with some short quotations. The original wording can be read on each organisation's website, and sources are shown with each item.\n\nInformation from the NHS website is licensed under the Open Government Licence v3.0.\nContains public sector information licensed under the Open Government Licence v3.0.\n\nThe check date is 2026-11-07, and numbers and times may change. Times shown are UK times. Whether to reach out is decided by you, not by the app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "lead": "From the NHS website for England:",
+      "text": "“Mental health services are free on the NHS. Your mental health is important and you should get help if you need it.”",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "How you can access NHS mental health services",
+       "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/how-to-access-mental-health-services/",
+       "kind": "quote",
+       "upd": "2026-05-05"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "A GP is a good place to start. They can talk through what is going on and help you find a service that fits.",
+       "src": {
+        "org": "NHS website (nhs.uk)",
+        "title": "How you can access NHS mental health services",
+        "url": "https://www.nhs.uk/mental-health/social-care-and-your-rights/how-to-access-mental-health-services/",
+        "kind": "fact",
+        "upd": "2026-05-05"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how names are given:",
+      "text": "A GP will usually ask what you find hard and what difference it makes to your life. They may also consider whether another condition could explain it.",
+      "src": {
+       "org": "NHS website (nhs.uk)",
+       "title": "ADHD in adults",
+       "url": "https://www.nhs.uk/conditions/adhd-adults/",
+       "kind": "fact",
+       "upd": "2025-03-19"
+      }
+     }
+    }
+   }
+  },
+  "au": {
+   "id": "au",
+   "name": {
+    "ja": "オーストラリア",
+    "en": "Australia",
+    "fr": "Australie",
+    "de": "Australien",
+    "es": "Australia",
+    "nl": "Australië",
+    "ko": "오스트레일리아",
+    "zh": "澳洲",
+    "it": "Australia",
+    "sv": "Australien",
+    "pt": "Austrália",
+    "ar": "أستراليا"
+   },
+   "langs": [
+    "en"
+   ],
+   "main": "en",
+   "fallback": "en",
+   "srcLang": "en",
+   "freeHosts": [
+    "healthdirect.gov.au",
+    "legislation.gov.au",
+    "emhs.health.wa.gov.au"
+   ],
+   "adaptHosts": [
+    "legislation.gov.au",
+    "qld.gov.au",
+    "health.nsw.gov.au",
+    "canberrahealthservices.act.gov.au",
+    "act.gov.au",
+    "sahealth.sa.gov.au",
+    "humanrights.gov.au"
+   ],
+   "srcNote": {
+    "legislation.gov.au": {
+     "summary": "Based on content from the Federal Register of Legislation at 7 November 2026. For the latest information on Australian Government legislation please go to https://www.legislation.gov.au. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+     "quote": "Sourced from the Federal Register of Legislation at 7 November 2026. For the latest information on Australian Government law please go to https://www.legislation.gov.au. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
+    },
+    "qld.gov.au": "© The State of Queensland 1995-2026. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "health.nsw.gov.au": "© State of New South Wales NSW Ministry of Health. For current information go to www.health.nsw.gov.au. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "canberrahealthservices.act.gov.au": "© Australian Capital Territory. Author: Australian Capital Territory Government. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "act.gov.au": "© Australian Capital Territory. Author: Australian Capital Territory Government. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "sahealth.sa.gov.au": "© 2026 SA Health. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "humanrights.gov.au": "© Australian Human Rights Commission 2026. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
+   },
+   "factRef": true,
+   "ver": "2026-11-07",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "au000",
+     "band": "now",
+     "tel": "000",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/emergency-and-urgent-care/calling-triple-zero",
+     "linkOk": true,
+     "en": {
+      "name": "Triple zero (000)",
+      "desc": "Call triple zero (000) if your life is in danger, or if someone is seriously injured or needs urgent medical help. Calls to 000 are free from any fixed or mobile phone in Australia. If you have a speech or hearing impairment and use a TTY or another device for Deaf or hard of hearing people, you can call 106. Sending a text message will not reach emergency services.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Calling triple zero (000)",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/emergency-and-urgent-care/calling-triple-zero",
+       "kind": "fact",
+       "upd": "2025-08"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Calling triple zero (000)",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/emergency-and-urgent-care/calling-triple-zero",
+      "kind": "fact",
+      "upd": "2025-08"
+     }
+    },
+    {
+     "id": "auact",
+     "band": "now",
+     "tel": "1800 629 354",
+     "tel2": "",
+     "url": "https://www.canberrahealthservices.act.gov.au/services-and-clinics/services/access-mental-health",
+     "linkOk": false,
+     "en": {
+      "name": "Australian Capital Territory: Access Mental Health",
+      "desc": "A free call, 24 hours a day, 7 days a week, for people of any age who are worried about their own or someone else's mental health. If staff are worried about your immediate safety, they will contact police or ambulance.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Canberra Health Services (ACT Government)",
+       "title": "Access Mental Health: 1800 629 354",
+       "url": "https://www.canberrahealthservices.act.gov.au/services-and-clinics/services/access-mental-health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Canberra Health Services (ACT Government)",
+      "title": "Access Mental Health: 1800 629 354",
+      "url": "https://www.canberrahealthservices.act.gov.au/services-and-clinics/services/access-mental-health",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aunsw",
+     "band": "now",
+     "tel": "1800 011 511",
+     "tel2": "",
+     "url": "https://www.health.nsw.gov.au/mentalhealth/Pages/mental-health-line.aspx",
+     "linkOk": false,
+     "en": {
+      "name": "New South Wales: Mental Health Line",
+      "desc": "A free NSW Health phone line, open 24 hours a day, 7 days a week, that links people with NSW Health mental health services. NSW Health tries to keep what you say confidential, but may need to share it in some situations. It links you with services rather than offering one-off crisis support. You will be asked for your name, contact details, address and date of birth.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "NSW Health",
+       "title": "Mental Health Line",
+       "url": "https://www.health.nsw.gov.au/mentalhealth/Pages/mental-health-line.aspx",
+       "kind": "fact",
+       "upd": "2025-05-05"
+      }
+     },
+     "src": {
+      "org": "NSW Health",
+      "title": "Mental Health Line",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/Pages/mental-health-line.aspx",
+      "kind": "fact",
+      "upd": "2025-05-05"
+     }
+    },
+    {
+     "id": "auqld",
+     "band": "now",
+     "tel": "1300 642 255",
+     "tel2": "",
+     "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help/1300-mh-call",
+     "linkOk": false,
+     "en": {
+      "name": "Queensland: 1300 MH CALL",
+      "desc": "A confidential mental health phone line, open 24 hours a day, 7 days a week, that links you to the nearest Queensland public mental health service. Calls are kept as confidential Queensland Health medical records. Only available in Queensland.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Queensland Government",
+       "title": "1300 MH CALL: Mental health access line",
+       "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help/1300-mh-call",
+       "kind": "fact",
+       "upd": "2025-07-22"
+      }
+     },
+     "src": {
+      "org": "Queensland Government",
+      "title": "1300 MH CALL: Mental health access line",
+      "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help/1300-mh-call",
+      "kind": "fact",
+      "upd": "2025-07-22"
+     }
+    },
+    {
+     "id": "ausa",
+     "band": "now",
+     "tel": "13 14 65",
+     "tel2": "",
+     "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/mental+health+and+drug+and+alcohol+services/mental+health+services/find+mental+health+help+now",
+     "linkOk": false,
+     "en": {
+      "name": "South Australia: Mental Health Triage Service",
+      "desc": "Open 24 hours a day, 7 days a week, for help in a mental health emergency. The service is staffed by trained mental health professionals who can help connect you to the support you need. If your life is in danger, call 000.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "SA Health (Government of South Australia)",
+       "title": "Find mental health help now",
+       "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/mental+health+and+drug+and+alcohol+services/mental+health+services/find+mental+health+help+now",
+       "kind": "fact",
+       "upd": "2026-10-06"
+      }
+     },
+     "src": {
+      "org": "SA Health (Government of South Australia)",
+      "title": "Find mental health help now",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/services/mental+health+and+drug+and+alcohol+services/mental+health+services/find+mental+health+help+now",
+      "kind": "fact",
+      "upd": "2026-10-06"
+     }
+    },
+    {
+     "id": "autas",
+     "band": "now",
+     "tel": "1800 332 388",
+     "tel2": "",
+     "url": "https://www.health.tas.gov.au/health-topics/mental-health/mental-health-get-help-now",
+     "linkOk": false,
+     "en": {
+      "name": "Tasmania: Access Mental Health",
+      "desc": "A phone line where Tasmanian public mental health services can give you advice, referrals or support. Calls are free and confidential, and the line is open 24 hours a day, 7 days a week. This line is not a crisis service; in an emergency, call triple zero (000).",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Department of Health, Tasmania",
+       "title": "Mental Health - Get help now",
+       "url": "https://www.health.tas.gov.au/health-topics/mental-health/mental-health-get-help-now",
+       "kind": "fact",
+       "upd": "2026-09-07"
+      }
+     },
+     "src": {
+      "org": "Department of Health, Tasmania",
+      "title": "Mental Health - Get help now",
+      "url": "https://www.health.tas.gov.au/health-topics/mental-health/mental-health-get-help-now",
+      "kind": "fact",
+      "upd": "2026-09-07"
+     }
+    },
+    {
+     "id": "auwa",
+     "band": "now",
+     "tel": "1300 555 788",
+     "tel2": "1800 676 822",
+     "url": "https://emhs.health.wa.gov.au/Hospitals-and-Services/Mental-Health-Alcohol-and-Other-Drugs/Inpatient-and-Other-Services/MHERL",
+     "linkOk": true,
+     "en": {
+      "name": "Western Australia (Perth and Peel): Mental Health Emergency Response Line",
+      "desc": "A phone line, open 24 hours a day, 7 days a week, for people in the Perth metropolitan area and the Peel region who are going through a mental health crisis. This line is not an emergency service; if there is an emergency, call triple zero (000). 1300 555 788 (Perth) is a local call. 1800 676 822 (Peel) is a free call.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "East Metropolitan Health Service (WA Department of Health)",
+       "title": "Mental Health Emergency Response Line (MHERL)",
+       "url": "https://emhs.health.wa.gov.au/Hospitals-and-Services/Mental-Health-Alcohol-and-Other-Drugs/Inpatient-and-Other-Services/MHERL",
+       "kind": "fact",
+       "upd": "2026-08-18"
+      }
+     },
+     "src": {
+      "org": "East Metropolitan Health Service (WA Department of Health)",
+      "title": "Mental Health Emergency Response Line (MHERL)",
+      "url": "https://emhs.health.wa.gov.au/Hospitals-and-Services/Mental-Health-Alcohol-and-Other-Drugs/Inpatient-and-Other-Services/MHERL",
+      "kind": "fact",
+      "upd": "2026-08-18"
+     }
+    },
+    {
+     "id": "aulifeline",
+     "band": "now",
+     "tel": "13 11 14",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "sms": "0477 13 11 14",
+     "en": {
+      "name": "Lifeline",
+      "desc": "Crisis support by phone, 24 hours a day, 7 days a week. You can also send a text or chat online.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "au13yarn",
+     "band": "now",
+     "tel": "13 92 76",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "13YARN",
+      "desc": "For Aboriginal and Torres Strait Islander people. Free and confidential crisis support, 24 hours a day, 7 days a week.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "auscbs",
+     "band": "now",
+     "tel": "1300 659 467",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "Suicide Call Back Service",
+      "desc": "Support 24 hours a day, 7 days a week, if you are having thoughts of ending your life, or if someone you know is.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "au1800respect",
+     "band": "now",
+     "tel": "1800 737 732",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "1800RESPECT",
+      "desc": "For people affected by domestic or family violence. Support 24 hours a day, 7 days a week. In a crisis where you need help right away, call triple zero (000).",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "aunrs",
+     "band": "now",
+     "tel": "0423 677 767",
+     "tel2": "131 450",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "National Relay Service and Translating and Interpreting Service",
+      "desc": "If you are deaf or have a hearing impairment, the National Relay Service can help you call a mental health helpline (0423 677 767), 24 hours a day, 7 days a week. This help is free and confidential. For help in your language when calling a mental health helpline, call the Translating and Interpreting Service (131 450), 24 hours a day, 7 days a week.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "auhealthdirect",
+     "band": "now",
+     "tel": "1800 022 222",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you",
+     "linkOk": true,
+     "en": {
+      "name": "healthdirect helpline",
+      "desc": "Registered nurses give advice, 24 hours a day, 7 days a week, if you are unsure what to do. Free to call, but call charges may apply from mobiles. If you have a hearing or speech impairment, you can call the National Relay Service on 1800 555 677 and ask them to put you through to healthdirect.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "How healthdirect can help you",
+       "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "How healthdirect can help you",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aubeyondblue",
+     "band": "now",
+     "tel": "1300 22 4636",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "Beyond Blue",
+      "desc": "Support with depression and anxiety, for you or someone close to you. You can call 24 hours a day, 7 days a week, or chat online.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "augp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help",
+     "linkOk": false,
+     "en": {
+      "name": "GP (general practitioner)",
+      "desc": "A GP is a good place to start talking about your mental health. A GP can also help you find further mental health support.",
+      "hours": "Opening hours depend on the clinic.",
+      "src": {
+       "org": "Queensland Government",
+       "title": "How to get help",
+       "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Queensland Government",
+      "title": "How to get help",
+      "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aunt",
+     "band": "day",
+     "tel": "1800 682 288",
+     "tel2": "",
+     "url": "https://nt.gov.au/wellbeing/mental-health/24-hour-mental-health-hotlines",
+     "linkOk": false,
+     "en": {
+      "name": "Northern Territory: NT mental health line",
+      "desc": "A mental health phone line for the Northern Territory. If someone's life or safety is in danger, call triple zero (000).",
+      "hours": "Check opening hours with the service.",
+      "src": {
+       "org": "Northern Territory Government",
+       "title": "24 hour mental health hotlines",
+       "url": "https://nt.gov.au/wellbeing/mental-health/24-hour-mental-health-hotlines",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Northern Territory Government",
+      "title": "24 hour mental health hotlines",
+      "url": "https://nt.gov.au/wellbeing/mental-health/24-hour-mental-health-hotlines",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aummh",
+     "band": "day",
+     "tel": "1800 595 212",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+     "linkOk": true,
+     "en": {
+      "name": "Medicare Mental Health (phone)",
+      "desc": "Free mental health support and help to find local services, for anyone in Australia, between 8:30am and 5pm on weekdays, except public holidays. No appointment or referral is needed.",
+      "hours": "Weekdays, 8:30am to 5pm, except public holidays.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Medicare Mental Health",
+       "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Medicare Mental Health",
+      "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aummhc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+     "linkOk": true,
+     "en": {
+      "name": "Medicare Mental Health Centres",
+      "desc": "Welcoming places where anyone can get free and confidential information and support about mental health. No appointment or referral is needed.",
+      "hours": "Opening hours depend on the centre.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Medicare Mental Health",
+       "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Medicare Mental Health",
+      "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aunaod",
+     "band": "day",
+     "tel": "1800 250 015",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "National Alcohol and Other Drug Hotline",
+      "desc": "It puts you through to your local alcohol and drug information service for free and confidential advice, 24 hours a day, 7 days a week.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "augho",
+     "band": "day",
+     "tel": "1800 858 858",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthy-living/addiction/gambling-addiction",
+     "linkOk": true,
+     "en": {
+      "name": "Gambling Help Online",
+      "desc": "Free and confidential support with gambling, by phone or online chat, also in community languages.",
+      "hours": "Check opening hours with the service.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Gambling addiction",
+       "url": "https://www.healthdirect.gov.au/healthy-living/addiction/gambling-addiction",
+       "kind": "fact",
+       "upd": "2024-10"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Gambling addiction",
+      "url": "https://www.healthdirect.gov.au/healthy-living/addiction/gambling-addiction",
+      "kind": "fact",
+      "upd": "2024-10"
+     }
+    },
+    {
+     "id": "aubutterfly",
+     "band": "day",
+     "tel": "1800 33 4673",
+     "tel2": "",
+     "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+     "linkOk": true,
+     "en": {
+      "name": "Butterfly National Helpline",
+      "desc": "For anyone in Australia worried about eating disorders or body image. Support by phone on weekdays, 8am to midnight.",
+      "hours": "Weekdays, 8am to midnight.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Mental health helplines",
+       "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+       "kind": "fact",
+       "upd": "2025-11"
+      }
+     },
+     "src": {
+      "org": "healthdirect (Healthdirect Australia)",
+      "title": "Mental health helplines",
+      "url": "https://www.healthdirect.gov.au/healthcare-and-services/mental-health/mental-health-helplines",
+      "kind": "fact",
+      "upd": "2025-11"
+     }
+    },
+    {
+     "id": "aujobaccess",
+     "band": "day",
+     "tel": "1800 464 800",
+     "tel2": "",
+     "url": "https://www.jobaccess.gov.au/",
+     "linkOk": false,
+     "en": {
+      "name": "JobAccess",
+      "desc": "A phone line for questions about the employment of people with disability. Calls are free and confidential.",
+      "hours": "Monday to Friday, 9am to 7pm AEDT / AET.",
+      "src": {
+       "org": "JobAccess (Department of Social Services)",
+       "title": "Welcome to JobAccess - your guide to disability employment",
+       "url": "https://www.jobaccess.gov.au/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "JobAccess (Department of Social Services)",
+      "title": "Welcome to JobAccess - your guide to disability employment",
+      "url": "https://www.jobaccess.gov.au/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "auahrc",
+     "band": "day",
+     "tel": "1300 656 419",
+     "tel2": "",
+     "url": "https://humanrights.gov.au/about-us/contact",
+     "linkOk": false,
+     "en": {
+      "name": "Australian Human Rights Commission (National Information Service)",
+      "desc": "If you are thinking about making a complaint to the Australian Human Rights Commission, for example about discrimination, you can contact its National Information Service by phone or in writing.",
+      "hours": "Phone line: Monday to Friday, 10:00 AM to 4:00 PM AEST.",
+      "src": {
+       "org": "Australian Human Rights Commission",
+       "title": "Contact us",
+       "url": "https://humanrights.gov.au/about-us/contact",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Australian Human Rights Commission",
+      "title": "Contact us",
+      "url": "https://humanrights.gov.au/about-us/contact",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol or drug use",
+        "why": "Using alcohol or other drugs can lead to depression, and depression can also lead to more drinking or drug use.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Depression",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/depression",
+         "kind": "fact",
+         "upd": "2025-11"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "In depression, feelings of sadness, low mood or low energy are stronger and last longer.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Depression",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/depression",
+         "kind": "fact",
+         "upd": "2025-11"
+        }
+       },
+       {
+        "name": "Dysthymia (dysthymic disorder)",
+        "why": "Dysthymia is a form of low mood that is similar to depression.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Depression",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/depression",
+         "kind": "fact",
+         "upd": "2025-11"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "In bipolar disorder, moods can change in ways that do not fit with what is going on in a person's life.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Bipolar disorder",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/bipolar-disorder",
+         "kind": "fact",
+         "upd": "2024-11"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aunt",
+       "aummh",
+       "aummhc"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like trains, buses, crowded buildings, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Heart rhythm problems (heart arrhythmias)",
+        "why": "A heart rhythm problem can cause palpitations, and some people also feel anxious because of it.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Heart arrhythmias",
+         "url": "https://www.healthdirect.gov.au/conditions/heart-diseases/heart-arrhythmias",
+         "kind": "fact",
+         "upd": "2026-05"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "With an anxiety disorder, fear and worry can be hard to keep under control, and anxious thinking can become too much to cope with.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Anxiety",
+         "url": "https://www.healthdirect.gov.au/symptoms/anxiety",
+         "kind": "fact",
+         "upd": "2024-09"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "Fear and anxiety are common after a traumatic event, and post-traumatic stress disorder (PTSD) can develop after one.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Post-traumatic stress disorder (PTSD)",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/post-traumatic-stress-disorder-ptsd",
+         "kind": "fact",
+         "upd": "2024-02"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aunt",
+       "aummh",
+       "aummhc"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the gas, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the stove again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I don't make it to appointments or work on time.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "In OCD, unwanted thoughts or urges can lead a person to do the same things again and again, as a way to cope with anxiety.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Anxiety",
+         "url": "https://www.healthdirect.gov.au/symptoms/anxiety",
+         "kind": "fact",
+         "upd": "2024-09"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "With an anxiety disorder, a person can worry too much about the past, present or future, and find it hard to turn their thoughts to other things.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Anxiety",
+         "url": "https://www.healthdirect.gov.au/symptoms/anxiety",
+         "kind": "fact",
+         "upd": "2024-09"
+        }
+       },
+       {
+        "name": "Tics and Tourette syndrome",
+        "why": "Tics are sudden body movements or sounds that are outside a person's control, and they are the main feature of Tourette syndrome.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Tourette syndrome",
+         "url": "https://www.healthdirect.gov.au/conditions/brain-diseases/tourette-syndrome",
+         "kind": "fact",
+         "upd": "2024-12"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aunt",
+       "aummh",
+       "aummhc"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel towards my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "PTSD is a mental health condition that can develop after going through a traumatic event.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Post-traumatic stress disorder (PTSD)",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/post-traumatic-stress-disorder-ptsd",
+         "kind": "fact",
+         "upd": "2024-02"
+        }
+       },
+       {
+        "name": "Psychological trauma (the effects of a traumatic event)",
+        "why": "Going through a traumatic event can leave psychological trauma behind.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Psychological trauma",
+         "url": "https://www.healthdirect.gov.au/healthy-living/emotional-wellbeing/psychological-trauma",
+         "kind": "fact",
+         "upd": "2025-05"
+        }
+       },
+       {
+        "name": "Specific phobias",
+        "why": "A phobia is a very strong fear of a particular thing or situation, and it can start after a bad experience.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Phobias - an overview",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/phobias-overview",
+         "kind": "fact",
+         "upd": "2025-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can also follow a traumatic event.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Post-traumatic stress disorder (PTSD)",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/post-traumatic-stress-disorder-ptsd",
+         "kind": "fact",
+         "upd": "2024-02"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aunt",
+       "aummh",
+       "aummhc"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep running late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "I would like some time to explain how my sleep is going (falling asleep, waking in the night, trouble getting up in the morning, sleepiness during the day).",
+       "I would like to think through the cause together, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "I would prefer it not to be put down to my mindset, and I would like my physical health and my mood to be checked together.",
+       "I would like to show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If I am offered medicine, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "Insomnia means it is hard to get to sleep or to stay asleep.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Insomnia",
+         "url": "https://www.healthdirect.gov.au/conditions/sleep-disorders/insomnia",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Obstructive sleep apnoea",
+        "why": "Obstructive sleep apnoea is a long-term breathing problem in which the airway gets blocked during sleep.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Obstructive sleep apnoea (OSA)",
+         "url": "https://www.healthdirect.gov.au/conditions/sleep-disorders/obstructive-sleep-apnoea",
+         "kind": "fact",
+         "upd": "2026-04"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "Restless legs syndrome can get in the way of falling asleep, and it can also cause waking during the night.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Restless legs syndrome (RLS)",
+         "url": "https://www.healthdirect.gov.au/conditions/sleep-disorders/restless-legs-syndrome",
+         "kind": "fact",
+         "upd": "2026-04"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "Narcolepsy causes very strong tiredness and sleepiness during the day.",
+        "src": {
+         "org": "Queensland Government",
+         "title": "Narcolepsy",
+         "url": "https://www.qld.gov.au/health/condition/brain-spinal-cord-and-nerve-health/sleep-problems/narcolepsy",
+         "kind": "fact",
+         "upd": "2017-09-12"
+        }
+       },
+       {
+        "name": "Not getting enough sleep",
+        "why": "Not getting enough sleep can affect how a person copes with each day, and their health over time.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Sleep",
+         "url": "https://www.healthdirect.gov.au/healthy-living/physical-wellbeing/sleep",
+         "kind": "fact",
+         "upd": "2023-11"
+        }
+       },
+       {
+        "name": "Sleep problems linked to medicines",
+        "why": "A medicine can sometimes be the cause of insomnia, and a doctor may be able to suggest a different medicine or a lower dose.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Insomnia",
+         "url": "https://www.healthdirect.gov.au/conditions/sleep-disorders/insomnia",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aummh"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for days.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would prefer it if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When others eat together, I would like to be able to choose a different place or time to eat.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or blood tests explained beforehand.",
+       "I would like to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Overactive thyroid (hyperthyroidism)",
+        "why": "An overactive thyroid speeds up the body's metabolism, and weight can drop even when a person eats the same amount, or appetite can grow.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Hyperthyroidism",
+         "url": "https://www.healthdirect.gov.au/conditions/hormonal-diseases/hyperthyroidism",
+         "kind": "fact",
+         "upd": "2024-10"
+        }
+       },
+       {
+        "name": "Eating disorders (such as anorexia nervosa and bulimia nervosa)",
+        "why": "An eating disorder is a serious mental health condition that affects eating patterns and how a person relates to food.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Eating disorders - an overview",
+         "url": "https://www.healthdirect.gov.au/conditions/eating-disorders/eating-disorders",
+         "kind": "fact",
+         "upd": "2025-08"
+        }
+       },
+       {
+        "name": "Binge eating disorder",
+        "why": "In binge eating disorder, a person eats a large amount of food within a short time.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Binge eating disorder (BED)",
+         "url": "https://www.healthdirect.gov.au/conditions/eating-disorders/binge-eating-disorder-bed",
+         "kind": "fact",
+         "upd": "2025-08"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aubutterfly",
+       "aummh"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "I would like to work out, step by step, how I use these and what problems they cause.",
+       "I would like my sleep and physical health to be checked as well.",
+       "I would like to be told specifically where I can get support and where I can go.",
+       "I would like to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence",
+        "why": "In alcohol dependence, a person drinks on a regular basis and has trouble keeping their drinking under control.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Alcohol dependence (alcoholism)",
+         "url": "https://www.healthdirect.gov.au/healthy-living/alcohol-and-drugs/alcoholism",
+         "kind": "fact",
+         "upd": "2026-04"
+        }
+       },
+       {
+        "name": "Gambling problems",
+        "why": "Gambling becomes a problem when it is hard to stop, even when it is causing harm.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Gambling addiction",
+         "url": "https://www.healthdirect.gov.au/healthy-living/addiction/gambling-addiction",
+         "kind": "fact",
+         "upd": "2024-10"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression and the use of alcohol or other drugs can each lead to the other.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Depression",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/depression",
+         "kind": "fact",
+         "upd": "2025-11"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aunaod",
+       "augho",
+       "aummh"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I can't get through work or housework in order, and I miss deadlines.",
+       "I often can't recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "I would prefer not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "I would like to talk in a quiet place where I am less distracted.",
+       "I would appreciate it if you recognised what I managed to do, instead of blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Poor sleep (for example, obstructive sleep apnoea)",
+        "why": "Sleeping badly, for example because of obstructive sleep apnoea, can make it harder to focus the next day.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Attention deficit hyperactivity disorder (ADHD)",
+         "url": "https://www.healthdirect.gov.au/conditions/disability-and-developmental-disorders/attention-deficit-disorder-add-or-adhd",
+         "kind": "fact",
+         "upd": "2025-12"
+        }
+       },
+       {
+        "name": "Effects of medicines (such as sleeping pills)",
+        "why": "Some medicines, such as sleeping pills, can affect memory and make it hard to keep your mind on things.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Safe use of sleeping pills",
+         "url": "https://www.healthdirect.gov.au/medicines/safe-use-of-sleeping-pills",
+         "kind": "fact",
+         "upd": "2026-02"
+        }
+       },
+       {
+        "name": "Alcohol use",
+        "why": "Drinking alcohol can affect how well you concentrate and how fast you react, even when you feel all right afterwards.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "How alcohol affects your health",
+         "url": "https://www.healthdirect.gov.au/healthy-living/alcohol-and-drugs/how-alcohol-affects-your-health",
+         "kind": "fact",
+         "upd": "2026-04"
+        }
+       },
+       {
+        "name": "Attention deficit hyperactivity disorder (ADHD)",
+        "why": "In adults, ADHD can show up as trouble with managing time and staying organised.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Attention deficit hyperactivity disorder (ADHD)",
+         "url": "https://www.healthdirect.gov.au/conditions/disability-and-developmental-disorders/attention-deficit-disorder-add-or-adhd",
+         "kind": "fact",
+         "upd": "2025-12"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aummh",
+       "aujobaccess",
+       "auahrc"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss",
+        "why": "Hearing loss, even a mild one, can make it harder to follow what people say, particularly somewhere noisy or when people talk quickly.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Hearing loss",
+         "url": "https://www.healthdirect.gov.au/conditions/ear-diseases/hearing-loss",
+         "kind": "fact",
+         "upd": "2025-04"
+        }
+       },
+       {
+        "name": "Social anxiety disorder (social phobia)",
+        "why": "With social anxiety disorder, social situations bring an intense fear, and a person may keep away from them.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Social anxiety disorder",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/social-anxiety-disorder",
+         "kind": "fact",
+         "upd": "2025-12"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aummh",
+       "aujobaccess",
+       "auahrc"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "I would like text in large print with wide line spacing, in a font that is easy to read.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia (a learning disability)",
+        "why": "With dyslexia, reading is hard work, and spelling, writing and making sense of what has been read can also be difficult.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Dyslexia",
+         "url": "https://www.healthdirect.gov.au/conditions/disability-and-developmental-disorders/dyslexia",
+         "kind": "fact",
+         "upd": "2024-12"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aujobaccess",
+       "auahrc"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings can't keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I can't move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "PMDD is a severe form of premenstrual syndrome (PMS), and the changes in mood are stronger.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Premenstrual syndrome (PMS)",
+         "url": "https://www.healthdirect.gov.au/conditions/female-health/premenstrual-syndrome-pms",
+         "kind": "fact",
+         "upd": "2025-06"
+        }
+       },
+       {
+        "name": "Not getting enough sleep",
+        "why": "Not getting enough sleep can bring on mood swings.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Managing mood swings",
+         "url": "https://www.healthdirect.gov.au/treatments-and-self-care/managing-mood-swings",
+         "kind": "fact",
+         "upd": "2024-11"
+        }
+       },
+       {
+        "name": "Effects of medicines or alcohol and other drugs",
+        "why": "Prescribed medicines, alcohol or other drugs can affect mood, and a doctor or pharmacist can talk this through with you.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Managing mood swings",
+         "url": "https://www.healthdirect.gov.au/treatments-and-self-care/managing-mood-swings",
+         "kind": "fact",
+         "upd": "2024-11"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Mood swings that go on for a long time can come with depression.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Managing mood swings",
+         "url": "https://www.healthdirect.gov.au/treatments-and-self-care/managing-mood-swings",
+         "kind": "fact",
+         "upd": "2024-11"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Mood swings that go on for a long time can be part of bipolar disorder.",
+        "src": {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Managing mood swings",
+         "url": "https://www.healthdirect.gov.au/treatments-and-self-care/managing-mood-swings",
+         "kind": "fact",
+         "upd": "2024-11"
+        }
+       }
+      ],
+      "windows": [
+       "augp",
+       "aunt",
+       "aummh",
+       "aummhc"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to look like a symptom. Feelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use, and what is going on around you can cause similar things too. Even if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Low moods and worry happen to everyone at times",
+       "body": "Feeling down, flat or worn out, and feeling worried, are things everyone goes through now and then.\n\nNames are given by doctors and other professionals, who look at how strong the difficulties are, how long they have lasted and how much they affect daily life, all together.\n\nIf the difficulties continue, you are welcome to ask for help as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Depression",
+         "url": "https://www.healthdirect.gov.au/conditions/mental-health-conditions/depression",
+         "kind": "fact",
+         "upd": "2025-11"
+        },
+        {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Anxiety",
+         "url": "https://www.healthdirect.gov.au/symptoms/anxiety",
+         "kind": "fact",
+         "upd": "2024-09"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "Medicare Mental Health offers free mental health support to anyone in Australia, by phone or at its centres. No appointment or referral is needed.\n\nUnder Australian law, the meaning of disability includes conditions that affect how a person thinks, feels, learns or behaves. The definition describes kinds of conditions and how they affect a person; it does not list the names of particular conditions.\n\nAt school, TAFE, university or work, you can say what is hard for you and what would help. Changes made to help with this are called adjustments, and the law speaks of reasonable adjustments.",
+       "srcs": [
+        {
+         "org": "healthdirect (Healthdirect Australia)",
+         "title": "Medicare Mental Health",
+         "url": "https://www.healthdirect.gov.au/partners/medicare-mental-health",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Disability Discrimination Act 1992",
+         "url": "https://www.legislation.gov.au/C2004A04426/2026-10-08/2026-10-08/text/original/pdf",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Disability Standards for Education 2005",
+         "url": "https://www.legislation.gov.au/F2005L00767/2026-08-01/2026-08-01/text/original/pdf",
+         "kind": "summary",
+         "upd": "2026-08-01"
+        }
+       ]
+      },
+      {
+       "h": "However, some kinds of support may ask for papers from a health professional",
+       "body": "Some kinds of support ask for papers.\n\nIf you are an employee taking paid sick or carer's leave, your employer can ask for evidence that would satisfy a reasonable person. Some awards or enterprise agreements may say what kind of evidence is needed.\n\nWhen you apply to the National Disability Insurance Scheme (NDIS), you may be asked for more information, including reports from health professionals.\n\nSchools, TAFEs and universities may ask for information from a professional to work out which changes would help.\n\nWhat you need is different for each kind of support, so it helps to ask the organisation first.",
+       "srcs": [
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Fair Work Act 2009",
+         "url": "https://www.legislation.gov.au/C2009A00028/2026-07-07/2026-07-07/text/original/pdf/1",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        },
+        {
+         "org": "Federal Register of Legislation",
+         "title": "National Disability Insurance Scheme Act 2013",
+         "url": "https://www.legislation.gov.au/C2013A00020/2026-10-01/2026-10-01/text/original/pdf",
+         "kind": "summary",
+         "upd": "2026-10-01"
+        },
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Disability Standards for Education 2005",
+         "url": "https://www.legislation.gov.au/F2005L00767/2026-08-01/2026-08-01/text/original/pdf",
+         "kind": "summary",
+         "upd": "2026-08-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.\n\nAt work, or at school, TAFE or university, if you want this handled as a reasonable adjustment under Australian law, it helps to say that it is because of a disability. You may be asked for papers.",
+       "srcs": [
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Disability Discrimination Act 1992",
+         "url": "https://www.legislation.gov.au/C2004A04426/2026-10-08/2026-10-08/text/original/pdf",
+         "kind": "summary",
+         "upd": "2026-10-08"
+        },
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Disability Standards for Education 2005",
+         "url": "https://www.legislation.gov.au/F2005L00767/2026-08-01/2026-08-01/text/original/pdf",
+         "kind": "summary",
+         "upd": "2026-08-01"
+        },
+        {
+         "org": "Federal Register of Legislation",
+         "title": "Fair Work Act 2009",
+         "url": "https://www.legislation.gov.au/C2009A00028/2026-07-07/2026-07-07/text/original/pdf/1",
+         "kind": "summary",
+         "upd": "2026-07-07"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It is not a company. It has no link with healthdirect, the Australian Government or any state or territory government. None of them recommends or supports this app. The names of these organisations only show where information came from.\n\nSOYOGI wrote this content in its own words, based on pages from healthdirect and from Australian government websites, with some short quotations. The original wording can be read on each organisation's website, and sources are shown with each item.\n\nSome content is based on material licensed under CC BY 4.0 by the State of Queensland, the State of New South Wales (NSW Ministry of Health), the Australian Capital Territory, SA Health, the Australian Human Rights Commission and the Federal Register of Legislation. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nThe check date is 2026-11-07, and numbers and times may change. Times are shown as each organisation writes them (for example AEST). Whether to reach out is decided by you, not by the app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "lead": "From the Queensland Government:",
+      "text": "“If you're in distress, concerned about your mental health, or want to talk to someone, help is available.”",
+      "src": {
+       "org": "Queensland Government",
+       "title": "Understanding mental health",
+       "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help/understanding-mental-health",
+       "kind": "quote",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "lead": "From the Queensland Government:",
+       "text": "“Your GP is a good place to start a conversation about your mental health.”",
+       "src": {
+        "org": "Queensland Government",
+        "title": "How to get help",
+        "url": "https://www.qld.gov.au/health/mental-health-and-wellbeing/how-to-get-help",
+        "kind": "quote",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Differences in attention, learning or getting along with others can continue into adult life. Talking with a health professional can help you make sense of what you need and find out what support there is.",
+       "src": {
+        "org": "healthdirect (Healthdirect Australia)",
+        "title": "Autism spectrum disorder (ASD)",
+        "url": "https://www.healthdirect.gov.au/conditions/disability-and-developmental-disorders/autism",
+        "kind": "fact",
+        "upd": "2025-06"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how names are given:",
+      "text": "A doctor asks about what you are going through and what difference it makes to your daily life. They may also do tests to check whether another health condition could explain it.",
+      "src": {
+       "org": "healthdirect (Healthdirect Australia)",
+       "title": "Anxiety",
+       "url": "https://www.healthdirect.gov.au/symptoms/anxiety",
+       "kind": "fact",
+       "upd": "2024-09"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages."
+    }
+   }
+  },
+  "nz": {
+   "id": "nz",
+   "name": {
+    "ja": "ニュージーランド",
+    "en": "New Zealand",
+    "fr": "Nouvelle-Zélande",
+    "de": "Neuseeland",
+    "es": "Nueva Zelanda",
+    "nl": "Nieuw-Zeeland",
+    "ko": "뉴질랜드",
+    "zh": "紐西蘭",
+    "it": "Nuova Zelanda",
+    "sv": "Nya Zeeland",
+    "pt": "Nova Zelândia",
+    "ar": "نيوزيلندا"
+   },
+   "langs": [
+    "en"
+   ],
+   "main": "en",
+   "fallback": "en",
+   "srcLang": "en",
+   "freeHosts": [
+    "dia.govt.nz"
+   ],
+   "adaptHosts": [
+    "healthnz.govt.nz",
+    "justice.govt.nz",
+    "dia.govt.nz",
+    "workandincome.govt.nz",
+    "msd.govt.nz",
+    "privacy.org.nz"
+   ],
+   "srcNote": {
+    "healthnz.govt.nz": "© Health New Zealand | Te Whatu Ora. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "justice.govt.nz": "Published by the Ministry of Justice. © Crown Copyright. Licensed for use under the creative commons attribution licence (BY) 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "dia.govt.nz": "Source: Department of Internal Affairs. © Crown copyright. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "workandincome.govt.nz": "© Crown copyright, Ministry of Social Development. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "msd.govt.nz": "© Crown copyright, Ministry of Social Development. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
+   },
+   "factRef": true,
+   "ver": "2026-11-07",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "nz111",
+     "band": "now",
+     "tel": "111",
+     "tel2": "",
+     "url": "https://www.police.govt.nz/call-111",
+     "linkOk": false,
+     "en": {
+      "name": "111 (emergency)",
+      "desc": "For an emergency where you need Police, Fire or Ambulance, call 111. Calls to 111 are free, even from a mobile phone with no credit. If you need Police but it is not safe for you to speak, you will be asked to press keys instead. If hearing or talking on the phone is hard for you, you can register for the 111 TXT service.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "New Zealand Police",
+       "title": "111 Emergency Services",
+       "url": "https://www.police.govt.nz/call-111",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "New Zealand Police",
+      "title": "111 Emergency Services",
+      "url": "https://www.police.govt.nz/call-111",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nzed",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments",
+     "linkOk": false,
+     "en": {
+      "name": "Emergency department",
+      "desc": "For a serious illness or injury that needs urgent care, you can go to the emergency department of a hospital. This can include a mental health emergency. If it is life-threatening, call 111 for an ambulance. Major emergency departments are open 24 hours a day, every day of the year.",
+      "hours": "Major emergency departments: 24 hours a day, every day of the year.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Emergency departments (ED)",
+       "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments",
+       "kind": "fact",
+       "upd": "2026-08-05"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Emergency departments (ED)",
+      "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/emergency-departments",
+      "kind": "fact",
+      "upd": "2026-08-05"
+     }
+    },
+    {
+     "id": "nz1737",
+     "band": "now",
+     "tel": "1737",
+     "tel2": "",
+     "url": "https://www.police.govt.nz/advice-services/advice-victims/support-victims",
+     "linkOk": false,
+     "en": {
+      "name": "1737, Need to talk?",
+      "desc": "You can call or text 1737 at any time, day or night, to talk with a trained counsellor or a peer support worker. It is free and confidential. If a life is in danger, call 111.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "New Zealand Police",
+       "title": "Support for victims",
+       "url": "https://www.police.govt.nz/advice-services/advice-victims/support-victims",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "New Zealand Police",
+      "title": "Support for victims",
+      "url": "https://www.police.govt.nz/advice-services/advice-victims/support-victims",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nzdepress",
+     "band": "now",
+     "tel": "0800 111 757",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+     "linkOk": false,
+     "en": {
+      "name": "Depression Helpline",
+      "desc": "A free service that is open 24 hours a day, 7 days a week. Trained counsellors can talk with you about what you are going through and suggest where to find help near you. Call 0800 111 757 or text 4202.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Where to get help for mental health",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Where to get help for mental health",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzrefuge",
+     "band": "now",
+     "tel": "0800 733 843",
+     "tel2": "",
+     "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+     "linkOk": false,
+     "en": {
+      "name": "Women's Refuge (0800 REFUGE)",
+      "desc": "Support for women experiencing family violence, available 24 hours a day, 7 days a week. Freephone 0800 733 843.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Ministry of Justice",
+       "title": "Family violence specialist services",
+       "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Justice",
+      "title": "Family violence specialist services",
+      "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nzshine",
+     "band": "now",
+     "tel": "0508 744 633",
+     "tel2": "",
+     "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+     "linkOk": false,
+     "en": {
+      "name": "Shine",
+      "desc": "Support for anyone experiencing family violence, for anyone worried about their own harmful behaviour, and for anyone worried about someone else. It is available 24 hours a day, 7 days a week, and the website has an online chat. Freephone 0508 744 633.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Ministry of Justice",
+       "title": "Family violence specialist services",
+       "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Justice",
+      "title": "Family violence specialist services",
+      "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nzsafetotalk",
+     "band": "now",
+     "tel": "0800 044 334",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/assault-and-abuse/sexual-harm",
+     "linkOk": false,
+     "en": {
+      "name": "Safe to talk (sexual harm)",
+      "desc": "A free and confidential service, available 24 hours a day, 7 days a week, for anyone looking for help with sexual harm. Call 0800 044 334 or text 4334.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Sexual harm",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/assault-and-abuse/sexual-harm",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Sexual harm",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/assault-and-abuse/sexual-harm",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzvictim",
+     "band": "now",
+     "tel": "0800 842 846",
+     "tel2": "",
+     "url": "https://www.police.govt.nz/advice-services/advice-victims/support-victims",
+     "linkOk": false,
+     "en": {
+      "name": "Victim Support",
+      "desc": "Free support at any time, day or night, after a crime or a traumatic event. Family members and people who saw what happened can get support too. Call 0800 842 846.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "New Zealand Police",
+       "title": "Support for victims",
+       "url": "https://www.police.govt.nz/advice-services/advice-victims/support-victims",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "New Zealand Police",
+      "title": "Support for victims",
+      "url": "https://www.police.govt.nz/advice-services/advice-victims/support-victims",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nzhealthline",
+     "band": "now",
+     "tel": "0800 611 116",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/online-phone-healthcare/healthline",
+     "linkOk": false,
+     "en": {
+      "name": "Healthline",
+      "desc": "A free phone service, open 24 hours a day, 7 days a week. You can talk with experienced nurses and paramedics about a health concern and what to do next. Interpreters are available.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Healthline",
+       "url": "https://www.healthnz.govt.nz/online-phone-healthcare/healthline",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Healthline",
+      "url": "https://www.healthnz.govt.nz/online-phone-healthcare/healthline",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzgp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+     "linkOk": false,
+     "en": {
+      "name": "Your general practice (GP)",
+      "desc": "For health advice and care that is not an emergency, a general practice is a good place to start. It is free to enrol with a general practice, but each practice sets its own fees for visits.",
+      "hours": "Opening hours depend on the practice.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "General practices",
+       "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "General practices",
+      "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzsuicide",
+     "band": "day",
+     "tel": "0508 828 865",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+     "linkOk": false,
+     "en": {
+      "name": "Suicide Crisis Helpline (0508 TAUTOKO)",
+      "desc": "A free service, open 7 days a week. It is run by trained social service practitioners who have had suicide prevention training.",
+      "hours": "7 days a week. Check opening hours with the service.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Where to get help for mental health",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Where to get help for mental health",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzcrisis",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/crisis-assessment-teams",
+     "linkOk": false,
+     "en": {
+      "name": "Mental health crisis assessment team (your region)",
+      "desc": "For mental health emergencies. Each region has its own team and phone numbers. Find the numbers for your region on the Health New Zealand page.",
+      "hours": "Times differ by region.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Mental health crisis assessment teams",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/crisis-assessment-teams",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Mental health crisis assessment teams",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/crisis-assessment-teams",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzaccess",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support",
+     "linkOk": false,
+     "en": {
+      "name": "Wellbeing support (Access and Choice)",
+      "desc": "Free mental wellbeing support. You do not need a referral. Many general practices have support people for this, and you need to be enrolled at that practice. Services may have different names depending on where you are.",
+      "hours": "Opening hours depend on the service.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Wellbeing support",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support",
+       "kind": "fact",
+       "upd": "2026-06"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Wellbeing support",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support",
+      "kind": "fact",
+      "upd": "2026-06"
+     }
+    },
+    {
+     "id": "nzcafe",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/crisis-recovery-cafes",
+     "linkOk": false,
+     "en": {
+      "name": "Crisis recovery cafés",
+      "desc": "Free, calm and welcoming places where peer workers with lived experience can listen and support you. They are for people in mental health or addiction distress who do not need urgent medical care. You do not need a referral.",
+      "hours": "Opening hours depend on the café.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Crisis recovery cafés",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/crisis-recovery-cafes",
+       "kind": "fact",
+       "upd": "2026-10"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Crisis recovery cafés",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/crisis-recovery-cafes",
+      "kind": "fact",
+      "upd": "2026-10"
+     }
+    },
+    {
+     "id": "nzayo",
+     "band": "day",
+     "tel": "0800 456 450",
+     "tel2": "",
+     "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+     "linkOk": false,
+     "en": {
+      "name": "Are You OK (family violence)",
+      "desc": "A family violence information line, better known as Are you OK. Its website lists family violence services and how to contact them. Freephone 0800 456 450.",
+      "hours": "Check opening hours with the service.",
+      "src": {
+       "org": "Ministry of Justice",
+       "title": "Family violence specialist services",
+       "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Justice",
+      "title": "Family violence specialist services",
+      "url": "https://www.justice.govt.nz/family/family-violence/services-for-family-violence/family-violence-specialist-services/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "nzadh",
+     "band": "day",
+     "tel": "0800 787 797",
+     "tel2": "",
+     "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/online-resources",
+     "linkOk": false,
+     "en": {
+      "name": "Alcohol Drug Helpline",
+      "desc": "Confidential advice and support about drinking or other drug use, for yourself or for someone you know. There is a free phone line, a text service and online chat.",
+      "hours": "Check opening hours with the service.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Online resources",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/online-resources",
+       "kind": "fact",
+       "upd": "2026-07-22"
+      }
+     },
+     "src": {
+      "org": "Health New Zealand | Te Whatu Ora",
+      "title": "Online resources",
+      "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-and-drug-services/online-resources",
+      "kind": "fact",
+      "upd": "2026-07-22"
+     }
+    },
+    {
+     "id": "nzgamb",
+     "band": "day",
+     "tel": "0800 654 655",
+     "tel2": "",
+     "url": "https://www.dia.govt.nz/Minimising-Gambling-Harm",
+     "linkOk": true,
+     "en": {
+      "name": "Gambling Helpline",
+      "desc": "A helpline you can call for free, day or night, from anywhere in New Zealand. Call 0800 654 655 or text 8006.",
+      "hours": "Day or night.",
+      "src": {
+       "org": "Department of Internal Affairs",
+       "title": "Minimising gambling harm",
+       "url": "https://www.dia.govt.nz/Minimising-Gambling-Harm",
+       "kind": "fact",
+       "upd": "2026-04"
+      }
+     },
+     "src": {
+      "org": "Department of Internal Affairs",
+      "title": "Minimising gambling harm",
+      "url": "https://www.dia.govt.nz/Minimising-Gambling-Harm",
+      "kind": "fact",
+      "upd": "2026-04"
+     }
+    },
+    {
+     "id": "nzenz",
+     "band": "day",
+     "tel": "0800 20 90 20",
+     "tel2": "",
+     "url": "https://www.employment.govt.nz/employment-new-zealand/contact-us",
+     "linkOk": false,
+     "en": {
+      "name": "Employment New Zealand",
+      "desc": "You can contact Employment New Zealand with a general question about work or for help with a problem at work. Its Early Resolution service is free and works by phone, to help sort out a problem at work at an early stage, without formal steps. It cannot give legal advice.",
+      "hours": "Monday to Friday, 8.00am to 5.30pm, except public holidays and between Christmas and New Year.",
+      "src": {
+       "org": "Employment New Zealand",
+       "title": "Contact us",
+       "url": "https://www.employment.govt.nz/employment-new-zealand/contact-us",
+       "kind": "fact",
+       "upd": "2026-10-30"
+      }
+     },
+     "src": {
+      "org": "Employment New Zealand",
+      "title": "Contact us",
+      "url": "https://www.employment.govt.nz/employment-new-zealand/contact-us",
+      "kind": "fact",
+      "upd": "2026-10-30"
+     }
+    },
+    {
+     "id": "nzwi",
+     "band": "day",
+     "tel": "0800 559 009",
+     "tel2": "",
+     "url": "https://www.workandincome.govt.nz/about-work-and-income/contact-us/phone-numbers.html",
+     "linkOk": false,
+     "en": {
+      "name": "Work and Income",
+      "desc": "The general enquiries line for people under 65. You can ask for an interpreter.",
+      "hours": "Monday to Friday, 7am to 6pm. Saturday, 8am to 1pm.",
+      "src": {
+       "org": "Work and Income (Ministry of Social Development)",
+       "title": "Phone us",
+       "url": "https://www.workandincome.govt.nz/about-work-and-income/contact-us/phone-numbers.html",
+       "kind": "fact",
+       "upd": "2026-07-24"
+      }
+     },
+     "src": {
+      "org": "Work and Income (Ministry of Social Development)",
+      "title": "Phone us",
+      "url": "https://www.workandincome.govt.nz/about-work-and-income/contact-us/phone-numbers.html",
+      "kind": "fact",
+      "upd": "2026-07-24"
+     }
+    }
+   ],
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Depression is different from everyday sadness. It takes hold and needs help to lift. A long-term physical illness can also play a part.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Depression Pāpōuri",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/understanding-depression",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "In bipolar disorder, a person's mood swings between very low and very high.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Bipolar disorder Matenga hinengaro-rua",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/bipolar-disorder",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzsuicide",
+       "nzcrisis",
+       "nzaccess",
+       "nzcafe"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like buses, trains, crowded shops, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety disorder",
+        "why": "With an anxiety disorder, feeling anxious or worried happens so often that it gets in the way of daily life. Anxiety can also come up when facing a new situation or a stressful event, or when something is going wrong in life.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Anxiety Hopohopo",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/anxiety",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "Post-traumatic stress disorder (PTSD) is distress after a traumatic event, lived through or seen, that carries on and affects daily life.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Post-traumatic stress disorder",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/post-traumatic-stress-disorder",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzsuicide",
+       "nzcrisis",
+       "nzaccess",
+       "nzcafe"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the stove, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the stove again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I am late for appointments or work.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "nzgp",
+       "nzaccess"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel close to my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "PTSD is the name for distress after a traumatic event, lived through or seen, that carries on for a longer time and affects daily life.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Post-traumatic stress disorder",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/post-traumatic-stress-disorder",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzsuicide",
+       "nzcrisis",
+       "nzaccess",
+       "nzcafe",
+       "nzayo"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep running late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "I would like some time to explain how my sleep is going (falling asleep, waking in the night, trouble getting up in the morning, sleepiness during the day).",
+       "I would like to think through the cause together, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "I would prefer it not to be put down to my mindset, and I would like my physical health and my mood to be checked together.",
+       "I would like to show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If I am offered medicine, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnoea",
+        "why": "In obstructive sleep apnoea, the throat muscles relax too much during sleep, so breathing pauses. This disturbs sleep and can leave a person sleepy during the day.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Obstructive sleep apnoea",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/ear-nose-throat/obstructive-sleep-apnoea",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "With restless legs syndrome, uncomfortable feelings in the legs bring a strong need to move them. This tends to be worse in the evening and at night, and it can get in the way of falling asleep and staying asleep.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Restless legs syndrome",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/brain-and-nerves/restless-legs-syndrome",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Not getting enough sleep",
+        "why": "Not getting enough sleep can affect thinking, behaviour and getting on with other people.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Sleep",
+         "url": "https://www.healthnz.govt.nz/health-topics/keeping-healthy/sleep",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzaccess"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for days.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would prefer it if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When others eat together, I would like to be able to choose a different place or time to eat.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or blood tests explained beforehand.",
+       "I would like to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Swallowing difficulties (dysphagia)",
+        "why": "Swallowing difficulties can make eating and drinking hard, and over time they can lead to weight loss. They are usually caused by another health condition.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Swallowing difficulties (dysphagia)",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/ear-nose-throat/swallowing-difficulties-dysphagia",
+         "kind": "fact",
+         "upd": "2025-09"
+        }
+       },
+       {
+        "name": "Eating disorders",
+        "why": "Eating disorders are serious mental health conditions in which eating becomes unhealthy and can sometimes be dangerous.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Eating disorders",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/eating-disorders",
+         "kind": "fact",
+         "upd": "2025-10-15"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzaccess"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "I would like to work out, step by step, how I use these and what problems they cause.",
+       "I would like my sleep and physical health to be checked as well.",
+       "I would like to be told specifically where I can get support and where I can go.",
+       "I would like to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol addiction",
+        "why": "Alcohol addiction is a medical condition in which alcohol has a big effect on life and a person has become dependent on it. The urge to drink can feel out of control and start to take over life.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Alcohol addiction",
+         "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/alcohol-addiction",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Substance use, dependence and addiction",
+        "why": "Substance use, dependence and addiction can happen with any substance that changes how the mind works, whether it is illegal, legal or prescribed. It can affect life in the short and long term.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Substance use, dependence and addiction",
+         "url": "https://www.healthnz.govt.nz/health-topics/mental-health/alcohol-and-drug-addiction/drug-addiction-and-abuse",
+         "kind": "fact",
+         "upd": "2026-11"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzadh",
+       "nzgamb",
+       "nzaccess"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I can't get through work or housework in order, and I miss deadlines.",
+       "I often can't recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "I would prefer not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "I would like to talk in a quiet place where I am less distracted.",
+       "I would appreciate it if you recognised what I managed to do, instead of blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Attention deficit hyperactivity disorder (ADHD)",
+        "why": "ADHD causes difficulties with concentration, memory and acting on impulse, and for some people these continue into adult life.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "ADHD in adults",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/neurodevelopmental-conditions/adhd-in-adults",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzaccess",
+       "nzenz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Depression can make everyday things, like going to work or seeing friends, feel hard.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Depression",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/understanding-depression",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "Autism is lifelong, and it brings differences in communication, social skills and behaviour.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Autism in adults",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/neurodevelopmental-conditions/autism-in-adults",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzaccess",
+       "nzcafe",
+       "nzenz"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "I would like text in large print with wide line spacing, in a font that is easy to read.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "nzgp",
+       "nzaccess",
+       "nzenz"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings can't keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I can't move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Premenstrual syndrome (PMS)",
+        "why": "Premenstrual syndrome (PMS) is the name for physical and emotional changes in the time leading up to a period.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Premenstrual syndrome (PMS)",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/womens-health/growing-well/periods/premenstrual-syndrome-pms",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Hormonal changes around the menopause",
+        "why": "Around the menopause, falling estrogen levels can bring physical and emotional changes.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Menopause",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/womens-health/living-well/menopause",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "In bipolar disorder, mood is sometimes very low and sometimes very high, and these feelings are stronger and last longer than everyday ups and downs.",
+        "src": {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Bipolar disorder",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/bipolar-disorder",
+         "kind": "fact",
+         "upd": "2026-07-22"
+        }
+       }
+      ],
+      "windows": [
+       "nzgp",
+       "nzsuicide",
+       "nzcrisis",
+       "nzaccess",
+       "nzcafe"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to look like a symptom. Feelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use, and what is going on around you can cause similar things too. Even if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs and worries come with life",
+       "body": "Many people have ups and downs, or times when they feel knocked off balance.\n\nFrom Health New Zealand | Te Whatu Ora: “Anxiety can happen when you face a new situation, stressful event, or if something is going wrong in your life.”\n\nNames are given by health professionals, who look at how strong the difficulties are, how long they have lasted and how much they affect daily life, all together.\n\nIf the difficulties continue, you are welcome to ask for help as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Wellbeing support",
+         "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support",
+         "kind": "summary",
+         "upd": "2026-06"
+        },
+        {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Anxiety",
+         "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/mental-health-conditions/anxiety",
+         "kind": "quote",
+         "upd": "2026-07-22"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "Access and Choice is a programme of free wellbeing support. From Health New Zealand | Te Whatu Ora: “You do not need a referral to use these free services. Anyone can contact the services directly and get support.”\n\nIf you are enrolled at a general practice that is part of Access and Choice, there are no referral criteria, and you can get help with any issue that is affecting your health and wellbeing. Not every practice has these services.\n\nAt work, you do not have to tell your employer if you have a health condition or disability, but it can matter if it affects your work or safety. You can ask for reasonable accommodations.",
+       "srcs": [
+        {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Wellbeing support",
+         "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support",
+         "kind": "quote",
+         "upd": "2026-06"
+        },
+        {
+         "org": "Health New Zealand | Te Whatu Ora",
+         "title": "Wellbeing support in general practice (GP)",
+         "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help/wellbeing-support/wellbeing-support-in-general-practice-gp",
+         "kind": "summary",
+         "upd": "2026-06"
+        },
+        {
+         "org": "Employment New Zealand",
+         "title": "Good faith",
+         "url": "https://www.employment.govt.nz/starting-employment/rights-and-responsibilities/good-faith",
+         "kind": "fact",
+         "upd": "2026-09-25"
+        }
+       ]
+      },
+      {
+       "h": "However, some kinds of support may ask for papers from a health professional",
+       "body": "Some kinds of support ask for papers from a health practitioner. For example, Work and Income asks for a Disability Certificate, completed by a health practitioner, for Disability Allowance.\n\nWhen you are off sick, your employer may ask you to show that you were sick or injured. A medical certificate from a doctor is the usual way to do this.\n\nWhat you need is different for each kind of support, so it helps to ask the organisation first.",
+       "srcs": [
+        {
+         "org": "Work and Income (Ministry of Social Development)",
+         "title": "Disability Allowance",
+         "url": "https://www.workandincome.govt.nz/products/a-z-benefits/disability-allowance.html",
+         "kind": "fact",
+         "upd": "2026-07-29"
+        },
+        {
+         "org": "Employment New Zealand",
+         "title": "Taking sick leave",
+         "url": "https://www.employment.govt.nz/leave-and-holidays/sick-leave/taking-sick-leave",
+         "kind": "fact",
+         "upd": "2026-09-07"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.\n\nAt work, you can also ask for reasonable accommodations.",
+       "srcs": [
+        {
+         "org": "Employment New Zealand",
+         "title": "Good faith",
+         "url": "https://www.employment.govt.nz/starting-employment/rights-and-responsibilities/good-faith",
+         "kind": "fact",
+         "upd": "2026-09-25"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It is not a company. It has no link with Health New Zealand | Te Whatu Ora or the New Zealand Government. None of them recommends or supports this app. The names of these organisations only show where information came from.\n\nSome text is adapted from material by Health New Zealand | Te Whatu Ora, the Ministry of Justice, the Department of Internal Affairs and the Ministry of Social Development, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes were made by SOYOGI.\n\nOther text was written by SOYOGI in its own words, based on pages from New Zealand Police and Employment New Zealand.\n\nThe check date is 2026-11-07, and numbers and times may change. Times are shown as each organisation writes them. Whether to reach out is decided by you, not by the app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "lead": "From Health New Zealand | Te Whatu Ora:",
+      "text": "“Your mental health matters. There are a range of resources and services available to help.”",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "Where to get help for mental health",
+       "url": "https://www.healthnz.govt.nz/health-topics/mental-health/where-to-get-help",
+       "kind": "quote",
+       "upd": "2026-07-22"
+      }
+     },
+     "devGeneral": [
+      {
+       "lead": "From Health New Zealand | Te Whatu Ora:",
+       "text": "“Unless it is an emergency, your general practice should be your first point of contact for health advice and care.”",
+       "src": {
+        "org": "Health New Zealand | Te Whatu Ora",
+        "title": "General practices",
+        "url": "https://www.healthnz.govt.nz/hospitals-services/services-support/general-practices",
+        "kind": "quote",
+        "upd": "2026-07-22"
+       }
+      },
+      {
+       "text": "Differences in attention, learning, movement or getting along with others can last throughout life. You can talk to your healthcare provider, for example your GP, about what would help.",
+       "src": {
+        "org": "Health New Zealand | Te Whatu Ora",
+        "title": "Neurodevelopmental conditions",
+        "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/neurodevelopmental-conditions",
+        "kind": "summary",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how names are given:",
+      "text": "A health professional gives a name (a diagnosis) after looking closely at what you are going through, how long it has gone on and how much it affects your daily life. They may also check for other health conditions that could explain it.",
+      "src": {
+       "org": "Health New Zealand | Te Whatu Ora",
+       "title": "ADHD in adults",
+       "url": "https://www.healthnz.govt.nz/health-topics/conditions-treatments/neurodevelopmental-conditions/adhd-in-adults",
+       "kind": "summary",
+       "upd": "2026-07-22"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
     }
    }
   }

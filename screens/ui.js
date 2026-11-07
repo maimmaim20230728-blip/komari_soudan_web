@@ -110,6 +110,8 @@
     else if(src.kind === 'fact' && data().factRef) p.appendChild(api.el('span', null, api.T('screen.ui.ref')));
     /* 出典の書き方を利用条件で決めているサイトの決まった文(スペインの BOE・Imserso・SPEC_V1 13-2)。国の箱の srcNote にホストごとに置く */
     var note = (data().srcNote || {})[host(src.url)];
+    /* 種類ごとに分ける形 { quote: '...' }(イギリスの nhs.uk は変えずに引いた行(B)にだけ帰属の文を付ける=利用規約 3.6・SPEC_V1 21-5) */
+    if(note && typeof note === 'object') note = note[src.kind] || '';
     if(note) p.appendChild(api.el('span', 'src-note', ' ' + note));
     return p;
   }

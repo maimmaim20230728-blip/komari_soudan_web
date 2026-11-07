@@ -181,7 +181,7 @@ var ja = {
 
 /* ============ en ============ */
 var en = {
-  app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Put your worries into words, and take a step toward help.' },
+  app: { name:'From Worries to Help - SOYOGI', short:'From Worries to Help', tagline:'Put your worries into words, and take a step closer to help.' },
   nav: { home:'Choose', names:'Names guide', madoguchi:'Where to ask', learn:'Good to know', set:'Settings' },
   langName: { ja:'Japanese', en:'English', fr:'French', de:'German', es:'Spanish', nl:'Dutch', ko:'Korean', zh:'Chinese', it:'Italian', sv:'Swedish', pt:'Portuguese', ar:'Arabic' },   // language names for "Show in ..."
   common: {
@@ -202,7 +202,7 @@ var en = {
     hBackup:'Changing phones (backup)',
     fs:'Text size', fsSizes:['Normal','Large','Very large'],
     lang:'ことば / Language',
-    theme:'Color', themes:['Green','Light blue','White','Black'],
+    theme:'Theme', themes:['Green','Light blue','White','Black'],
     bgm:'Music', bgms:['None','Green tone','Blue tone'],
     sound:'Tap sound', on:'ON', off:'OFF',
     country:'Country', countryPick:'Please choose',
@@ -264,7 +264,7 @@ var en = {
         habit:'Hard to stop drinking, gambling or gaming',
         attention:'Trouble with attention or planning',
         social:'Trouble with social life, routines or senses',
-        reading:'Trouble with reading, writing or math',
+        reading:'Trouble with reading, writing or numbers',
         wave:'Big ups and downs in mood'
       }
     },
