@@ -224,6 +224,7 @@
             var say = api.el('button', 'btn say-read', T('screen.result.read'));
             say.type = 'button';
             say.id = 'flow-say-read';
+            if(CL) say.setAttribute('lang', document.documentElement.lang || api.lang);   // ボタンの文字は画面のことば(カードのことばの box の中でも、画面のことばとして読まれるように)
             var reading = false;
             function stopRead(){ reading = false; say.textContent = T('screen.result.read'); try{ api.stopSpeak(); }catch(_){} }
             api.Tap.bind(say, function(){
@@ -304,7 +305,7 @@
       wl.id = 'flow-windows';
       ids.forEach(function(id){ var w = U.win(id); if(w) wl.appendChild(U.windowCard(api, w)); });
       c.appendChild(wl);
-      c.appendChild(api.el('p', 'hint', U.fmt(T('screen.ui.checked'), { date: D.ver || '' })));
+      c.appendChild(U.checkedLine(api, 'flow-checked'));   // 確認日が3か月を過ぎたら強調(0.9.12・相談先の画面と同じ)
       row = api.el('div', 'btn-row');
       var pv = U.btn(api, '', T('screen.result.prev'), function(){ go(0); });
       pv.id = 'flow-r-prev';
