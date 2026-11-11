@@ -9,7 +9,7 @@
      変えたら README の「シェルの変更点」に書く */
 (function(){
 
-var VER = '0.9.11';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
+var VER = '0.9.12';               // 🔴 更新のたびに上げる(build.gradle の versionName / sw.js の CACHE と一緒に)
 var APP_KEY = 'komari_soudan';        // バックアップの識別(別アプリのファイルを読まない)
 var LS = 'komari.';
 var LS_PREF = LS + 'pref.v1';
@@ -548,12 +548,16 @@ function openGuide(first){
   var p = el('p', 'guide-p');
   var dots = el('div', 'guide-dots');
   dots.setAttribute('aria-hidden', 'true');
+  /* いま つらいとき(1ページ目だけ・0.9.12): 案内を読み切る前でも窓口に着けるように。閉じ方(最後の「はじめる」だけ)は変えず、窓口の全画面を案内の上に重ねて出すだけ。
+     国が未選択のときは、ほかの国の番号を出さないために、国の選択を先に促す */
+  var urgB = el('button', 'btn guide-urgent');
+  urgB.type = 'button';
   var row = el('div', 'guide-row');
   var prevB = el('button', 'btn guide-prev');
   var nextB = el('button', 'btn primary guide-next');
   prevB.type = 'button'; nextB.type = 'button';
   row.appendChild(prevB); row.appendChild(nextB);
-  box.appendChild(top); if(langRow) box.appendChild(langRow); if(cRow){ box.appendChild(cRow); box.appendChild(cNote); } box.appendChild(h); box.appendChild(p); box.appendChild(dots);
+  box.appendChild(top); if(langRow) box.appendChild(langRow); if(cRow){ box.appendChild(cRow); box.appendChild(cNote); } box.appendChild(h); box.appendChild(p); box.appendChild(dots); box.appendChild(urgB);
   ov.appendChild(box); ov.appendChild(row);
   function draw(){
     var heads = T('guide.heads');
@@ -577,6 +581,8 @@ function openGuide(first){
       cNote.textContent = T('guide.countryNote');
     }
     nextB.disabled = needCountry();
+    urgB.textContent = T('guide.urgent');
+    urgB.style.display = (i === 0) ? '' : 'none';
     h.textContent = (Array.isArray(heads) && heads[i]) ? heads[i] : '';
     p.textContent = bodies[i];
     dots.textContent = '';
@@ -598,6 +604,11 @@ function openGuide(first){
   };
   Tap.bind(prevB, function(){ if(i > 0){ i--; draw(); } });
   function needCountry(){ return !!(cRow && i === 0 && !pref.country); }
+  Tap.bind(urgB, function(){
+    if(needCountry()){ toast(T('guide.countryNeed')); try{ cSel.focus(); }catch(_){} return; }
+    var U = window.KOMARI_UI;
+    if(U && U.openCrisis) U.openCrisis(screenApi(), 'over-guide');
+  });
   Tap.bind(nextB, function(){
     if(needCountry()){ toast(T('guide.countryNeed')); try{ cSel.focus(); }catch(_){} return; }
     if(i < bodies.length - 1){ i++; draw(); } else close();

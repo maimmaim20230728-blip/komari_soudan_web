@@ -210,7 +210,7 @@
       var cp = U.btn(api, '', T('screen.result.copy'), function(){ U.copy(api, cardText(api, rows, CL), T('screen.result.copied')); });
       cp.id = 'flow-copy';
       var sh = U.btn(api, '', T('screen.result.show'), function(){
-        U.openOv(api, 'show-white say-ov', function(box){
+        U.openOv(api, 'show-white say-ov', function(box, ov){
           if(CL) box.setAttribute('lang', CL);
           box.appendChild(api.el('div', 'show-head', CL ? api.TL(CL, 'screen.result.r1Head') : T('screen.result.r1Head')));
           rows.forEach(function(r){
@@ -219,6 +219,24 @@
             b.appendChild(api.el('div', 'show-value', r.value));
             box.appendChild(b);
           });
+          /* 読み上げ(0.9.12): 見せる画面のままの大きい文字で、カードのことばで読む。端末が読み上げに対応しているときだけ。答えは保存しない */
+          if(api.canSpeak && api.canSpeak()){
+            var say = api.el('button', 'btn say-read', T('screen.result.read'));
+            say.type = 'button';
+            say.id = 'flow-say-read';
+            var reading = false;
+            function stopRead(){ reading = false; say.textContent = T('screen.result.read'); try{ api.stopSpeak(); }catch(_){} }
+            api.Tap.bind(say, function(){
+              if(reading){ stopRead(); return; }
+              var parts = [CL ? api.TL(CL, 'screen.result.r1Head') : T('screen.result.r1Head')];
+              rows.forEach(function(r){ parts.push(r.label + '\n' + r.value); });
+              reading = true; say.textContent = T('screen.result.readStop');
+              var ok = api.speak(parts.join('\n\n'), { lang: CL || api.lang, onend: function(){ reading = false; say.textContent = T('screen.result.read'); }, onerror: function(){ reading = false; say.textContent = T('screen.result.read'); } });
+              if(!ok){ reading = false; say.textContent = T('screen.result.read'); }
+            });
+            box.appendChild(say);
+            ov._onClose = function(){ try{ api.stopSpeak(); }catch(_){} };
+          }
         });
       });
       sh.id = 'flow-show';

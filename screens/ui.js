@@ -151,22 +151,40 @@
     ov.appendChild(box);
     var cb = api.el('button', 'ov-close', api.T('screen.ui.close'));
     cb.type = 'button';
-    function close(){ if(ov.parentNode) ov.parentNode.removeChild(ov); }
+    function close(){ if(ov.parentNode) ov.parentNode.removeChild(ov); if(typeof ov._onClose === 'function'){ try{ ov._onClose(); }catch(_){} } }
     api.Tap.bind(cb, close);
-    build(box);
+    build(box, ov);
     ov.appendChild(cb);
     document.body.appendChild(ov);
     try{ cb.focus(); }catch(_){}
     return close;
   }
   /* いま つらいとき(SPEC_V1 4-7): 「いま つらいとき」の窓口だけを大きく。問いや名前は出さない。とじる=もとの画面へ */
-  function openCrisis(api){
-    return openOv(api, 'crisis-ov', function(box){
+  function openCrisis(api, extraCls){
+    return openOv(api, 'crisis-ov' + (extraCls ? ' ' + extraCls : ''), function(box){
       box.appendChild(api.el('h2', 'crisis-h', api.T('screen.ui.crisisHead')));
       var cl = countryLine(api, 'crisis-country'); if(cl) box.appendChild(cl);
       (data().windows || []).forEach(function(w){ if(w.band === 'now') box.appendChild(windowCard(api, w)); });
-      box.appendChild(api.el('p', 'hint', fmt(api.T('screen.ui.checked'), { date: data().ver || '' })));
+      box.appendChild(checkedLine(api));
     });
+  }
+  /* 確認日の古さ(0.9.12): 確認日から3か月を過ぎたら、同じ行に「番号は 公式ページで 確かめてください」を強調して足す(今の注意書きの文は共通のまま) */
+  function isStale(ver, now){
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(ver || ''));
+    if(!m) return false;
+    var lim = new Date(+m[1], +m[2] - 1 + 3, +m[3]);
+    return (now || new Date()).getTime() > lim.getTime();
+  }
+  function checkedLine(api, id){
+    var D = data();
+    var p = api.el('p', 'hint', fmt(api.T('screen.ui.checked'), { date: D.ver || '' }));
+    if(id) p.id = id;
+    if(isStale(D.ver)){
+      p.classList.add('stale');
+      p.appendChild(document.createTextNode(' '));
+      p.appendChild(api.el('strong', 'stale-note', api.T('screen.ui.checkedOld')));
+    }
+    return p;
   }
   function crisisBtn(api){
     var b = api.el('button', 'big-btn alert crisis-btn');
@@ -279,5 +297,5 @@
 
   window.KOMARI_UI = { DEV: DEV, OTHERS: OTHERS, fmt: fmt, data: data, country: country, countryLine: countryLine, lang: lang, L: L, group: group, label: label, win: win, winText: winText,
     isFree: isFree, btn: btn, copy: copy, urlBox: urlBox, srcLine: srcLine, windowCard: windowCard, openOv: openOv, openCrisis: openCrisis,
-    crisisBtn: crisisBtn, groupBtn: groupBtn, namesBlock: namesBlock, learnLink: learnLink, allSources: allSources };
+    crisisBtn: crisisBtn, groupBtn: groupBtn, namesBlock: namesBlock, learnLink: learnLink, allSources: allSources, isStale: isStale, checkedLine: checkedLine };
 })();

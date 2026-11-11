@@ -325,3 +325,10 @@ html[lang="de"] body{ -webkit-hyphens:auto; hyphens:auto; }
 /* 中国語(繁體)は語の間に空白が無いので、keep-all のままだと句読点の間が切れない一かたまりになる。ふつうの折り方に戻す(app.js が <html lang> を zh-Hant-TW にする) */
 html[lang^="zh"] .nav-btn, html[lang^="zh"] .ask-msg, html[lang^="zh"] .group-btn .lbl, html[lang^="zh"] .other-btn .lbl, html[lang^="zh"] .q-h,
 html[lang^="zh"] .learn-h, html[lang^="zh"] .learn-body, html[lang^="zh"] .btn.learn-link, html[lang^="zh"] .learn-lead, html[lang^="zh"] .guide-h, html[lang^="zh"] .guide-p{ word-break:normal; }
+/* 案内の1ページ目の「いま つらいとき」(0.9.12): 案内の上に窓口の全画面を重ねる(案内 350・確かめの窓 360 の間) */
+.guide-urgent{ display:block; width:100%; margin:20px 0 0; min-height:56px; border:2px solid var(--alert); background:var(--card); color:var(--ink); font-weight:700; }
+.ov.crisis-ov.over-guide{ z-index:355; }
+/* 窓口の確認日が3か月を過ぎたときの強調(0.9.12) */
+.hint.stale .stale-note{ display:block; margin-top:4px; color:var(--ink); font-weight:800; }
+/* 見せる画面の よみあげるボタン(0.9.12・大きい文字のまま) */
+.say-ov .say-read{ display:block; width:100%; margin:18px 0 0; min-height:64px; font-size:1.2em; }

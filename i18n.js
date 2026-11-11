@@ -36,7 +36,7 @@ var ja = {
     bgm:'BGM', bgms:['なし','みどりの音','あおの音'],
     sound:'タップ音', on:'ON', off:'OFF',
     country:'国', countryPick:'えらんで ください',
-    bkHint:'あたらしい スマホに うつるときは、「かきだす」で ファイルを ほぞんして、あたらしい スマホで「よみこむ」を おしてください。',
+    bkHint:'あたらしい スマホに うつるときは、「かきだす」で ファイルを ほぞんして、あたらしい スマホで「よみこむ」を おしてください。ファイルに 入るのは、国・ことば・文字の 大きさなどの せっていだけです。こたえや 書いた ことは 入りません。',
     bkExport:'かきだす', bkImport:'よみこむ',
     exported:'かきだしました ✓', imported:'よみこみました ✓', importFail:'よみこめませんでした',
     note:'こたえや 書いた ことは ほぞん しません(アプリを 閉じるか、ホームに もどると 消えます)。ほぞん するのは せってい だけです。どこにも 送りません。',
@@ -49,6 +49,7 @@ var ja = {
     /* 国(1ページ目・国が2つ以上のときだけ・SPEC_V1 第9節) */
     countryNote:'えらんだ 国の 相談先と、その 国の 公的な ページの 情報を 出します。あとから せっていで かえられます。',
     countryNeed:'さきに 国を えらんで ください',
+    urgent:'いま つらいとき',
     heads:[
       'この アプリで できること',
       'これは 診断では ありません',
@@ -78,6 +79,7 @@ var ja = {
       call:'電話を かける {tel}',
       text:'テキストを おくる {tel}',
       checked:'確認日 {date}。番号や時間は変わることがあります。',
+      checkedOld:'確認日から 3か月 以上 たって います。番号は 公式ページで 確かめてください。',
       soon:'じゅんびちゅう',
       crisisBtn:'つらくて 消えたい 気持ちが ある',
       crisisHead:'いま つらいときは',
@@ -140,6 +142,7 @@ var ja = {
       cardOthers:{ yes:'いつもと違う・困っていると言われたことがある', no:'言われたことはない', unknown:'わからない' },
       empty:'まだ なにも えらんで いません。',
       copy:'コピー', show:'大きく 見せる',
+      read:'よみあげる', readStop:'とめる',
       copied:'コピーしました。ほかの アプリに はりつけた あとは けして かまいません',
       noName:'病名が なくても、困りごとは このまま 伝えられます。',
       mainLang:'{lang}で 見せる',             // 国の 主な ことばの カード(自分で 書いた 文は そのまま)
@@ -169,6 +172,7 @@ var ja = {
     madoguchi: {
       title:'相談先',
       nowHead:'いま つらいとき(24時間)',
+      textHead:'電話が 難しい 人は 文字で',
       dayHead:'昼間に 相談する'
     },
     learn: {
@@ -206,7 +210,7 @@ var en = {
     bgm:'Music', bgms:['None','Green tone','Blue tone'],
     sound:'Tap sound', on:'ON', off:'OFF',
     country:'Country', countryPick:'Please choose',
-    bkHint:'When you move to a new phone, tap "Export" to save a file, then tap "Import" on the new phone.',
+    bkHint:'When you move to a new phone, tap "Export" to save a file, then tap "Import" on the new phone. The file only holds your settings, such as country, language and text size. Your answers and anything you wrote are not in it.',
     bkExport:'Export', bkImport:'Import',
     exported:'Exported ✓', imported:'Imported ✓', importFail:'Could not import',
     note:'Your answers and what you write are not saved (they disappear when you close the app or go back to Home). Only the settings are saved. Nothing is sent anywhere.',
@@ -217,6 +221,7 @@ var en = {
     title:'How to use', step:'{n} / {m}', start:'Got it', again:'Show again',
     countryNote:'The app shows help lines, and information from public pages, for the country you choose. You can change it later in Settings.',
     countryNeed:'Please choose a country first',
+    urgent:'I am struggling right now',
     heads:[
       'What this app does',
       'This is not a diagnosis',
@@ -245,6 +250,7 @@ var en = {
       call:'Call {tel}',
       text:'Text {tel}',
       checked:'Checked on {date}. Numbers and hours may change.',
+      checkedOld:'It has been over 3 months since this was checked. Please check the number on the official page.',
       soon:'Coming soon',
       crisisBtn:'I feel so bad I want to disappear',
       crisisHead:'If you are struggling right now',
@@ -306,6 +312,7 @@ var en = {
       cardOthers:{ yes:'People have said I seem different from usual or seem to be struggling', no:'No one has said so', unknown:'Not sure' },
       empty:'Nothing chosen yet.',
       copy:'Copy', show:'Show it large',
+      read:'Read aloud', readStop:'Stop',
       copied:'Copied. After you paste it into another app, you can delete it.',
       noName:'Even without the name of an illness, you can share your worries just like this.',
       mainLang:'Show in {lang}',               // the card in the country's main language (what you typed stays as is)
@@ -335,6 +342,7 @@ var en = {
     madoguchi: {
       title:'Where to ask',
       nowHead:'When you are struggling right now (24 hours)',
+      textHead:'If calling is hard, use text',
       dayHead:'Ask during the day'
     },
     learn: {
@@ -372,7 +380,7 @@ var fr = {
     bgm:'Musique', bgms:['Aucune','Ton vert','Ton bleu'],
     sound:'Son au toucher', on:'Activé', off:'Désactivé',
     country:'Pays', countryPick:'Choisissez',
-    bkHint:'Quand vous changez de téléphone, touchez « Exporter » pour enregistrer un fichier, puis « Importer » sur le nouveau téléphone.',
+    bkHint:'Quand vous changez de téléphone, touchez « Exporter » pour enregistrer un fichier, puis « Importer » sur le nouveau téléphone. Le fichier ne contient que vos réglages, comme le pays, la langue et la taille du texte. Vos réponses et ce que vous avez écrit n’y sont pas.',
     bkExport:'Exporter', bkImport:'Importer',
     exported:'Exporté ✓', imported:'Importé ✓', importFail:'Impossible d’importer',
     note:'Vos réponses et ce que vous écrivez ne sont pas enregistrés (ils disparaissent quand vous fermez l’appli ou revenez à l’accueil). Seuls les réglages sont enregistrés. Rien n’est envoyé.',
@@ -383,6 +391,7 @@ var fr = {
     title:'Mode d’emploi', step:'{n} / {m}', start:'J’ai compris', again:'Revoir',
     countryNote:'L’appli affiche les lignes d’aide et des informations issues de pages publiques du pays choisi. Vous pourrez le changer plus tard dans les réglages.',
     countryNeed:'Choisissez d’abord un pays',
+    urgent:'Je vais mal en ce moment',
     heads:[
       'Ce que fait cette appli',
       'Ce n’est pas un diagnostic',
@@ -411,6 +420,7 @@ var fr = {
       call:'Appeler le {tel}',
       text:'Envoyer un SMS au {tel}',
       checked:'Vérifié le {date}. Les numéros et les horaires peuvent changer.',
+      checkedOld:'Cela fait plus de 3 mois depuis cette date. Vérifiez le numéro sur la page officielle.',
       soon:'Bientôt',
       crisisBtn:'Je vais si mal que je veux disparaître',
       crisisHead:'Si vous allez mal en ce moment',
@@ -472,6 +482,7 @@ var fr = {
       cardOthers:{ yes:'Des proches m’ont dit que je ne semblais pas comme d’habitude ou que j’étais en difficulté', no:'Personne ne me l’a dit', unknown:'Je ne sais pas' },
       empty:'Rien de choisi pour l’instant.',
       copy:'Copier', show:'Afficher en grand',
+      read:'Lire à voix haute', readStop:'Arrêter',
       copied:'Copié. Après l’avoir collé dans une autre appli, vous pouvez l’effacer.',
       noName:'Même sans nom de maladie, vous pouvez partager vos soucis tels quels.',
       mainLang:'Afficher en {lang}',
@@ -501,6 +512,7 @@ var fr = {
     madoguchi: {
       title:'Où demander',
       nowHead:'Si vous allez mal en ce moment (24 h/24)',
+      textHead:'Si téléphoner est difficile : par message',
       dayHead:'Demander en journée'
     },
     learn: {
@@ -540,7 +552,7 @@ var de = {
     bgm:'Musik', bgms:['Keine','Grüner Klang','Blauer Klang'],
     sound:'Tippton', on:'AN', off:'AUS',
     country:'Land', countryPick:'Bitte auswählen',
-    bkHint:'Wenn Sie ein neues Smartphone nutzen, tippen Sie auf „Exportieren“, um eine Datei zu speichern, und dann auf dem neuen Smartphone auf „Importieren“.',
+    bkHint:'Wenn Sie ein neues Smartphone nutzen, tippen Sie auf „Exportieren“, um eine Datei zu speichern, und dann auf dem neuen Smartphone auf „Importieren“. Die Datei enthält nur Ihre Einstellungen, zum Beispiel Land, Sprache und Schriftgröße. Ihre Antworten und Texte sind nicht darin.',
     bkExport:'Exportieren', bkImport:'Importieren',
     exported:'Exportiert ✓', imported:'Importiert ✓', importFail:'Importieren nicht möglich',
     note:'Ihre Antworten und das, was Sie schreiben, werden nicht gespeichert (sie verschwinden, wenn Sie die App schließen oder zur Startseite zurückgehen). Gespeichert werden nur die Einstellungen. Es wird nichts verschickt.',
@@ -551,6 +563,7 @@ var de = {
     title:'Anleitung', step:'{n} / {m}', start:'Verstanden', again:'Noch einmal ansehen',
     countryNote:'Die App zeigt Anlaufstellen und Informationen von öffentlichen Seiten des gewählten Landes. Sie können das Land später in den Einstellungen ändern.',
     countryNeed:'Bitte wählen Sie zuerst ein Land',
+    urgent:'Mir geht es gerade schlecht',
     heads:[
       'Was diese App kann',
       'Das ist keine Diagnose',
@@ -579,6 +592,7 @@ var de = {
       call:'{tel} anrufen',
       text:'SMS an {tel} senden',
       checked:'Stand: {date}. Nummern und Zeiten können sich ändern.',
+      checkedOld:'Dieser Stand ist älter als 3 Monate. Bitte prüfen Sie die Nummer auf der offiziellen Seite.',
       soon:'In Vorbereitung',
       crisisBtn:'Es geht mir so schlecht, dass ich verschwinden möchte',
       crisisHead:'Wenn es Ihnen gerade schlecht geht',
@@ -640,6 +654,7 @@ var de = {
       cardOthers:{ yes:'Mir wurde gesagt, dass ich anders als sonst wirke oder es mir schwerzufallen scheint', no:'Das hat mir niemand gesagt', unknown:'Weiß ich nicht' },
       empty:'Noch nichts ausgewählt.',
       copy:'Kopieren', show:'Groß anzeigen',
+      read:'Vorlesen', readStop:'Stopp',
       copied:'Kopiert. Nachdem Sie es in eine andere App eingefügt haben, können Sie es löschen.',
       noName:'Auch ohne den Namen einer Krankheit können Sie Ihre Sorgen genau so mitteilen.',
       mainLang:'Auf {lang} anzeigen',
@@ -669,6 +684,7 @@ var de = {
     madoguchi: {
       title:'Anlaufstellen',
       nowHead:'Wenn es Ihnen gerade schlecht geht (rund um die Uhr)',
+      textHead:'Wenn Telefonieren schwerfällt: per Text',
       dayHead:'Tagsüber um Rat fragen'
     },
     learn: {
@@ -706,7 +722,7 @@ var es = {
     bgm:'Música', bgms:['Ninguna','Sonido verde','Sonido azul'],
     sound:'Sonido al tocar', on:'Activado', off:'Desactivado',
     country:'País', countryPick:'Elige uno',
-    bkHint:'Si cambias de móvil, toca «Exportar» para guardar un archivo y, en el móvil nuevo, toca «Importar».',
+    bkHint:'Si cambias de móvil, toca «Exportar» para guardar un archivo y, en el móvil nuevo, toca «Importar». El archivo solo guarda tus ajustes, como el país, el idioma y el tamaño del texto. Tus respuestas y lo que escribiste no están en él.',
     bkExport:'Exportar', bkImport:'Importar',
     exported:'Exportado ✓', imported:'Importado ✓', importFail:'No se ha podido importar',
     note:'Tus respuestas y lo que escribas no se guardan (desaparecen al cerrar la app o al volver al inicio). Solo se guardan los ajustes. No se envía nada a ningún sitio.',
@@ -717,6 +733,7 @@ var es = {
     title:'Cómo se usa', step:'{n} / {m}', start:'Entendido', again:'Ver otra vez',
     countryNote:'La app muestra lugares de ayuda e información de páginas públicas del país que elijas. Puedes cambiarlo después en Ajustes.',
     countryNeed:'Primero elige un país',
+    urgent:'Lo estoy pasando mal ahora',
     heads:[
       'Qué puedes hacer con esta app',
       'Esto no es un diagnóstico',
@@ -745,6 +762,7 @@ var es = {
       call:'Llamar al {tel}',
       text:'Enviar un SMS al {tel}',
       checked:'Consultado el {date}. Los números y los horarios pueden cambiar.',
+      checkedOld:'Han pasado más de 3 meses desde esa fecha. Comprueba el número en la página oficial.',
       soon:'En preparación',
       crisisBtn:'Me siento tan mal que quiero desaparecer',
       crisisHead:'Si ahora lo estás pasando mal',
@@ -806,6 +824,7 @@ var es = {
       cardOthers:{ yes:'Me han dicho que me notan diferente o que parece que lo estoy pasando mal', no:'Nadie me lo ha dicho', unknown:'No lo sé' },
       empty:'Todavía no has elegido nada.',
       copy:'Copiar', show:'Mostrar en grande',
+      read:'Leer en voz alta', readStop:'Parar',
       copied:'Copiado. Cuando lo hayas pegado en otra app, puedes borrarlo.',
       noName:'Aunque no tengas el nombre de una enfermedad, puedes contar lo que te pasa tal como está aquí.',
       mainLang:'Mostrar en {lang}',
@@ -835,6 +854,7 @@ var es = {
     madoguchi: {
       title:'Dónde consultar',
       nowHead:'Si ahora lo estás pasando mal (24 horas)',
+      textHead:'Si llamar te cuesta: por mensaje de texto',
       dayHead:'Consultar durante el día'
     },
     learn: {
@@ -873,7 +893,7 @@ var nl = {
     bgm:'Muziek', bgms:['Geen','Groen geluid','Blauw geluid'],
     sound:'Geluid bij aanraken', on:'Aan', off:'Uit',
     country:'Land', countryPick:'Kies een land',
-    bkHint:'Ga je naar een andere telefoon? Tik op ‘Exporteren’ om een bestand te bewaren, en tik op de nieuwe telefoon op ‘Importeren’.',
+    bkHint:'Ga je naar een andere telefoon? Tik op ‘Exporteren’ om een bestand te bewaren, en tik op de nieuwe telefoon op ‘Importeren’. Het bestand bevat alleen je instellingen, zoals land, taal en tekstgrootte. Je antwoorden en wat je hebt geschreven zitten er niet in.',
     bkExport:'Exporteren', bkImport:'Importeren',
     exported:'Geëxporteerd ✓', imported:'Geïmporteerd ✓', importFail:'Importeren is niet gelukt',
     note:'Je antwoorden en wat je schrijft worden niet bewaard (ze verdwijnen als je de app sluit of teruggaat naar het begin). Alleen de instellingen worden bewaard. Er wordt niets verstuurd.',
@@ -884,6 +904,7 @@ var nl = {
     title:'Zo werkt het', step:'{n} / {m}', start:'Begrepen', again:'Nog een keer bekijken',
     countryNote:'De app laat hulp en informatie zien van pagina’s van overheidsinstanties uit het land dat je kiest. De taal en het land die je kiest, worden alleen op dit apparaat bewaard. Je kunt ze later veranderen bij Instellingen.',
     countryNeed:'Kies eerst een land',
+    urgent:'Het is nu heel zwaar',
     heads:[
       'Wat je met deze app kunt doen',
       'Dit is geen diagnose',
@@ -912,6 +933,7 @@ var nl = {
       call:'Bel {tel}',
       text:'Stuur een sms naar {tel}',
       checked:'Geraadpleegd op {date}. Nummers en tijden kunnen veranderen.',
+      checkedOld:'Deze datum is meer dan 3 maanden geleden. Controleer het nummer op de officiële pagina.',
       soon:'In voorbereiding',
       crisisBtn:'Ik voel me zo slecht dat ik er niet meer wil zijn',
       crisisHead:'Als het nu heel zwaar is',
@@ -973,6 +995,7 @@ var nl = {
       cardOthers:{ yes:'Mensen om me heen hebben gezegd dat ik anders lijk, of dat het me zwaar lijkt te vallen', no:'Niemand heeft dat gezegd', unknown:'Weet ik niet' },
       empty:'Je hebt nog niets gekozen.',
       copy:'Kopiëren', show:'Groot laten zien',
+      read:'Voorlezen', readStop:'Stop',
       copied:'Gekopieerd. Als je het in een andere app hebt geplakt, kun je het hier wissen.',
       noName:'Ook zonder de naam van een ziekte kun je vertellen wat er met je gebeurt, zoals het hier staat.',
       mainLang:'Tonen in het {lang}',
@@ -1002,6 +1025,7 @@ var nl = {
     madoguchi: {
       title:'Hulp vinden',
       nowHead:'Als het nu heel zwaar is (dag en nacht)',
+      textHead:'Bellen is moeilijk? Kies tekst',
       dayHead:'Overdag hulp vragen'
     },
     learn: {
@@ -1040,7 +1064,7 @@ var ko = {
     bgm:'음악', bgms:['없음','초록 소리','파란 소리'],
     sound:'누를 때 소리', on:'켜기', off:'끄기',
     country:'나라', countryPick:'나라를 골라 주세요',
-    bkHint:'다른 휴대폰으로 옮길 때는 ‘내보내기’를 눌러 파일을 저장하고, 새 휴대폰에서 ‘가져오기’를 눌러 주세요.',
+    bkHint:'다른 휴대폰으로 옮길 때는 ‘내보내기’를 눌러 파일을 저장하고, 새 휴대폰에서 ‘가져오기’를 눌러 주세요. 파일에는 나라, 언어, 글자 크기 같은 설정만 들어 있어요. 고른 답이나 쓴 내용은 들어 있지 않아요.',
     bkExport:'내보내기', bkImport:'가져오기',
     exported:'내보냈어요 ✓', imported:'가져왔어요 ✓', importFail:'가져오지 못했어요',
     note:'답한 내용과 쓴 글은 저장하지 않아요(앱을 닫거나 처음 화면으로 돌아가면 사라져요). 저장하는 것은 설정뿐이에요. 어디에도 보내지 않아요.',
@@ -1051,6 +1075,7 @@ var ko = {
     title:'사용 방법', step:'{n} / {m}', start:'알겠어요', again:'다시 보기',
     countryNote:'이 앱은 고른 나라의 정부와 공공기관 페이지에 있는 상담 창구와 정보를 보여 줘요. 고른 언어와 나라는 이 기기에만 남아요. 나중에 ‘설정’에서 바꿀 수 있어요.',
     countryNeed:'먼저 나라를 골라 주세요',
+    urgent:'지금 너무 힘들어요',
     heads:[
       '이 앱으로 할 수 있는 것',
       '이것은 진단이 아니에요',
@@ -1079,6 +1104,7 @@ var ko = {
       call:'{tel}에 전화하기',
       text:'{tel}에 문자 보내기',
       checked:'{date}에 확인했어요. 번호나 시간은 바뀔 수 있어요.',
+      checkedOld:'확인한 지 3개월이 넘었어요. 번호는 각 기관의 페이지에서 꼭 확인해 주세요.',
       soon:'준비 중',
       crisisBtn:'사라지고 싶을 만큼 힘들어요',
       crisisHead:'지금 너무 힘들 때',
@@ -1140,6 +1166,7 @@ var ko = {
       cardOthers:{ yes:'주변 사람에게서 평소와 다르다거나 힘들어 보인다는 말을 들었어요', no:'그런 말을 들은 적은 없어요', unknown:'모르겠어요' },
       empty:'아직 아무것도 고르지 않았어요.',
       copy:'복사', show:'크게 보기',
+      read:'소리 내어 읽기', readStop:'멈추기',
       copied:'복사했어요. 다른 앱에 붙여 넣었다면 여기서는 지워도 돼요.',
       noName:'병명이 없어도, 여기에 적힌 그대로 지금 겪는 일을 이야기할 수 있어요.',
       mainLang:'{lang}로 보기',
@@ -1169,6 +1196,7 @@ var ko = {
     madoguchi: {
       title:'상담 창구',
       nowHead:'지금 너무 힘들 때(밤낮없이)',
+      textHead:'전화가 어려우면 문자로',
       dayHead:'낮에 상담하기'
     },
     learn: {
@@ -1208,7 +1236,7 @@ var zh = {
     bgm:'音樂', bgms:['無','綠色的聲音','藍色的聲音'],
     sound:'按鍵音', on:'開', off:'關',
     country:'國家或地區', countryPick:'請選擇國家或地區',
-    bkHint:'換到新手機時，請按「匯出」儲存檔案，再到新手機上按「匯入」。',
+    bkHint:'換到新手機時，請按「匯出」儲存檔案，再到新手機上按「匯入」。檔案裡只有國家、語言、字體大小等設定，不會有回答，也不會有寫下的內容。',
     bkExport:'匯出', bkImport:'匯入',
     exported:'已匯出 ✓', imported:'已匯入 ✓', importFail:'無法匯入',
     note:'回答的內容和寫下的文字都不會儲存（關閉 App 或回到首頁就會消失）。只會儲存設定，也不會傳送到任何地方。',
@@ -1219,6 +1247,7 @@ var zh = {
     title:'使用方式', step:'{n} / {m}', start:'我知道了', again:'再看一次',
     countryNote:'這個 App 會顯示所選國家或地區的政府與公部門網頁上的諮詢窗口和資訊。選擇的語言和國家或地區只會留在這台裝置上，之後可以在「設定」更改。',
     countryNeed:'請先選擇國家或地區',
+    urgent:'現在非常難受',
     heads:[
       '這個 App 能做什麼',
       '這不是診斷',
@@ -1247,6 +1276,7 @@ var zh = {
       call:'撥打 {tel}',
       text:'傳簡訊到 {tel}',
       checked:'{date} 確認。號碼和時間可能會變更。',
+      checkedOld:'距離確認日已超過 3 個月。請到各機構的網頁確認號碼。',
       soon:'準備中',
       crisisBtn:'難過到想消失',
       crisisHead:'現在非常難受的時候',
@@ -1308,6 +1338,7 @@ var zh = {
       cardOthers:{ yes:'身邊的人說過我跟平常不一樣，或看起來很辛苦', no:'沒有人這樣說過', unknown:'不知道' },
       empty:'還沒有選任何項目。',
       copy:'複製', show:'放大顯示',
+      read:'朗讀', readStop:'停止',
       copied:'已複製。如果已經貼到其他 App，這裡的內容可以刪掉。',
       noName:'就算沒有病名，也可以照這裡寫的，說出現在遇到的事。',
       mainLang:'以{lang}顯示',
@@ -1337,6 +1368,7 @@ var zh = {
     madoguchi: {
       title:'諮詢窗口',
       nowHead:'現在非常難受的時候（不分日夜）',
+      textHead:'打電話有困難的話，可以用文字',
       dayHead:'白天諮詢'
     },
     learn: {
@@ -1385,7 +1417,7 @@ var it = {
     bgm:'Musica', bgms:['Nessuna','Suono verde','Suono azzurro'],
     sound:'Suono al tocco', on:'Attivo', off:'Disattivo',
     country:'Paese', countryPick:'Scegline uno',
-    bkHint:'Se cambi telefono, tocca «Esporta» per salvare un file e, sul telefono nuovo, tocca «Importa».',
+    bkHint:'Se cambi telefono, tocca «Esporta» per salvare un file e, sul telefono nuovo, tocca «Importa». Il file contiene solo le impostazioni, come paese, lingua e dimensione del testo. Le tue risposte e ciò che hai scritto non ci sono.',
     bkExport:'Esporta', bkImport:'Importa',
     exported:'Esportato ✓', imported:'Importato ✓', importFail:'Non è stato possibile importare',
     note:'Le tue risposte e quello che scrivi non vengono salvati (si cancellano quando chiudi l\'app o torni all\'inizio). Su questo dispositivo restano solo le impostazioni. Non viene inviato nulla da nessuna parte.',
@@ -1396,6 +1428,7 @@ var it = {
     title:'Come si usa', step:'{n} / {m}', start:'Ho capito', again:'Rivedi',
     countryNote:'L\'app mostra dove chiedere aiuto e informazioni di pagine pubbliche del paese che scegli. La scelta resta solo su questo dispositivo e puoi cambiarla dopo nelle Impostazioni.',
     countryNeed:'Prima scegli un paese',
+    urgent:'Adesso sto molto male',
     heads:[
       'Che cosa puoi fare con questa app',
       'Questa non è una diagnosi',
@@ -1424,6 +1457,7 @@ var it = {
       call:'Chiama il {tel}',
       text:'Invia un SMS al {tel}',
       checked:'Verificato il {date}. Numeri e orari possono cambiare.',
+      checkedOld:'Sono passati più di 3 mesi da questa data. Controlla il numero sulla pagina dell’ente.',
       soon:'In preparazione',
       crisisBtn:'Sto così male che vorrei sparire',
       crisisHead:'Se adesso stai molto male',
@@ -1485,6 +1519,7 @@ var it = {
       cardOthers:{ yes:'Qualcuno mi ha detto di notare un cambiamento in me o che sembro in difficoltà', no:'Nessuno me l\'ha detto', unknown:'Non lo so' },
       empty:'Non hai ancora scelto niente.',
       copy:'Copia', show:'Mostra in grande',
+      read:'Leggi ad alta voce', readStop:'Ferma',
       copied:'Copiato. Dopo averlo incollato in un\'altra app, puoi cancellarlo.',
       noName:'Anche senza una diagnosi puoi raccontare quello che ti succede così come è scritto qui.',
       mainLang:'Mostra in {lang}',
@@ -1514,6 +1549,7 @@ var it = {
     madoguchi: {
       title:'Dove chiedere aiuto',
       nowHead:'Se adesso stai molto male',
+      textHead:'Se telefonare è difficile: per messaggio',
       dayHead:'Chiedere aiuto di giorno'
     },
     learn: {
@@ -1552,7 +1588,7 @@ var sv = {
     bgm:'Musik', bgms:['Ingen','Grönt ljud','Ljusblått ljud'],
     sound:'Ljud vid tryck', on:'På', off:'Av',
     country:'Land', countryPick:'Välj ett',
-    bkHint:'Om du byter telefon trycker du på ”Exportera” för att spara en fil och sedan på ”Importera” i den nya telefonen.',
+    bkHint:'Om du byter telefon trycker du på ”Exportera” för att spara en fil och sedan på ”Importera” i den nya telefonen. Filen innehåller bara dina inställningar, som land, språk och textstorlek. Dina svar och det du skrivit finns inte med.',
     bkExport:'Exportera', bkImport:'Importera',
     exported:'Exporterat ✓', imported:'Importerat ✓', importFail:'Det gick inte att importera',
     note:'Dina svar och det du skriver sparas inte (de raderas när du stänger appen eller går tillbaka till början). På den här enheten sparas bara inställningarna. Ingenting skickas någonstans.',
@@ -1563,6 +1599,7 @@ var sv = {
     title:'Så använder du appen', step:'{n} / {m}', start:'Jag förstår', again:'Visa igen',
     countryNote:'Appen visar var du kan få hjälp och information från offentliga sidor i det land du väljer. Valet sparas bara på den här enheten och du kan ändra det senare under Inställningar.',
     countryNeed:'Välj ett land först',
+    urgent:'Jag mår mycket dåligt just nu',
     heads:[
       'Det här kan du göra med appen',
       'Det här är ingen diagnos',
@@ -1591,6 +1628,7 @@ var sv = {
       call:'Ring {tel}',
       text:'Skicka sms till {tel}',
       checked:'Hämtad {date}. Nummer och tider kan ändras.',   // «kontrollerad»・«verifierad» は認証と読めるので使わない(SPEC 18-1)
+      checkedOld:'Det har gått mer än 3 månader sedan det datumet. Se efter numret på den officiella sidan.',
       soon:'Kommer snart',
       crisisBtn:'Jag mår så dåligt att jag vill försvinna',
       crisisHead:'Om du mår mycket dåligt just nu',
@@ -1652,6 +1690,7 @@ var sv = {
       cardOthers:{ yes:'Någon har sagt att de märker en förändring hos mig eller att jag verkar ha det svårt', no:'Ingen har sagt det', unknown:'Vet inte' },
       empty:'Du har inte valt något ännu.',
       copy:'Kopiera', show:'Visa stort',
+      read:'Läs upp', readStop:'Stoppa',
       copied:'Kopierat. När du har klistrat in det i en annan app kan du radera det.',
       noName:'Även utan en diagnos kan du berätta om det du är med om så som det står här.',
       mainLang:'Visa på {lang}',
@@ -1681,6 +1720,7 @@ var sv = {
     madoguchi: {
       title:'Var du kan få hjälp',
       nowHead:'Om du mår mycket dåligt just nu',
+      textHead:'Om det är svårt att ringa: skriv',
       dayHead:'Söka hjälp dagtid'
     },
     learn: {
@@ -1719,7 +1759,7 @@ var pt = {
     bgm:'Música', bgms:['Nenhuma','Som verde','Som azul-claro'],
     sound:'Som ao tocar', on:'Ligado', off:'Desligado',
     country:'País', countryPick:'Escolha um',
-    bkHint:'Se você trocar de celular, toque em “Exportar” para salvar um arquivo e depois em “Importar” no celular novo.',
+    bkHint:'Se você trocar de celular, toque em “Exportar” para salvar um arquivo e depois em “Importar” no celular novo. O arquivo guarda só as suas configurações, como país, idioma e tamanho do texto. Suas respostas e o que você escreveu não ficam nele.',
     bkExport:'Exportar', bkImport:'Importar',
     exported:'Exportado ✓', imported:'Importado ✓', importFail:'Não foi possível importar',
     note:'Suas respostas e o que você escreve não são guardados (são apagados quando você fecha o app ou volta ao início). Neste aparelho ficam guardadas só as configurações. Nada é enviado para lugar nenhum.',
@@ -1730,6 +1770,7 @@ var pt = {
     title:'Como usar o app', step:'{n} / {m}', start:'Entendi', again:'Ver de novo',
     countryNote:'O app mostra onde buscar ajuda e informações de páginas públicas do país que você escolher. A escolha fica guardada só neste aparelho, e você pode mudá-la depois em Configurações.',
     countryNeed:'Escolha um país primeiro',
+    urgent:'Estou muito mal agora',
     heads:[
       'O que você pode fazer com o app',
       'Isto não é um diagnóstico',
@@ -1758,6 +1799,7 @@ var pt = {
       call:'Ligar para {tel}',
       text:'Enviar SMS para {tel}',
       checked:'Acesso em {date}. Números e horários podem mudar.',   // «verificado»・«certificado» は認証と読めるので使わない(SPEC 19-5)
+      checkedOld:'Faz mais de 3 meses desde essa data. Confira o número na página oficial.',
       soon:'Em breve',
       crisisBtn:'Estou tão mal que tenho vontade de sumir',
       crisisHead:'Se você está muito mal agora',
@@ -1819,6 +1861,7 @@ var pt = {
       cardOthers:{ yes:'Alguém disse que percebe uma mudança em mim ou que pareço estar passando por dificuldades', no:'Ninguém disse isso', unknown:'Não sei' },
       empty:'Você ainda não escolheu nada.',
       copy:'Copiar', show:'Mostrar grande',
+      read:'Ler em voz alta', readStop:'Parar',
       copied:'Copiado. Depois de colar em outro app, você pode apagar.',
       noName:'Mesmo sem um diagnóstico, você pode contar o que está vivendo do jeito que está escrito aqui.',
       mainLang:'Mostrar em {lang}',
@@ -1848,6 +1891,7 @@ var pt = {
     madoguchi: {
       title:'Onde buscar ajuda',
       nowHead:'Se você está muito mal agora',
+      textHead:'Se ligar é difícil: por mensagem de texto',
       dayHead:'Buscar ajuda durante o dia'
     },
     learn: {
@@ -1886,7 +1930,7 @@ var ar = {
     bgm:'الموسيقى', bgms:['بدون','نغمة خضراء','نغمة زرقاء فاتحة'],
     sound:'صوت اللمس', on:'تشغيل', off:'إيقاف',
     country:'الدولة', countryPick:'يُرجى الاختيار',
-    bkHint:'عند الانتقال إلى هاتف جديد، يُضغط على «تصدير» لحفظ ملف، ثم على «استيراد» في الهاتف الجديد.',
+    bkHint:'عند الانتقال إلى هاتف جديد، يُضغط على «تصدير» لحفظ ملف، ثم على «استيراد» في الهاتف الجديد. يحتوي الملف على الإعدادات فقط، مثل الدولة واللغة وحجم الخط. لا تُحفظ فيه إجاباتك ولا ما كتبته.',
     bkExport:'تصدير', bkImport:'استيراد',
     exported:'تم التصدير ✓', imported:'تم الاستيراد ✓', importFail:'تعذّر الاستيراد',
     note:'لا تُحفظ الإجابات ولا ما يُكتب (يُمسح عند إغلاق التطبيق أو العودة إلى الشاشة الرئيسية). تُحفظ الإعدادات فقط على هذا الجهاز. ولا يُرسل أي شيء إلى أي مكان.',
@@ -1897,6 +1941,7 @@ var ar = {
     title:'طريقة الاستخدام', step:'{n} / {m}', start:'فهمت', again:'عرض مرة أخرى',
     countryNote:'يعرض التطبيق جهات طلب المساعدة ومعلومات من صفحات عامة للدولة المختارة. يُحفظ الاختيار على هذا الجهاز فقط، ويمكن تغييره لاحقًا من الإعدادات.',
     countryNeed:'يُرجى اختيار الدولة أولًا',
+    urgent:'أشعر بسوء شديد الآن',
     heads:[
       'ما الذي يمكن فعله بالتطبيق',
       'هذا ليس تشخيصًا',
@@ -1925,6 +1970,7 @@ var ar = {
       call:'الاتصال بالرقم {tel}',
       text:'إرسال رسالة نصية إلى {tel}',
       checked:'تاريخ الاطلاع {date}. قد تتغير الأرقام والمواعيد.',
+      checkedOld:'مرّ أكثر من 3 أشهر على هذا التاريخ. يُرجى التأكد من الرقم في الصفحة الرسمية.',
       soon:'قريبًا',
       crisisBtn:'أشعر بسوء شديد وأريد أن أختفي',
       crisisHead:'عند الشعور بسوء شديد الآن',
@@ -1986,6 +2032,7 @@ var ar = {
       cardOthers:{ yes:'قال أحدهم إنه يلاحظ تغيرًا فيّ، أو إن الأمر يبدو صعبًا عليّ', no:'لم يقل أحد ذلك', unknown:'لا أعرف' },
       empty:'لم يُختر شيء بعد.',
       copy:'نسخ', show:'عرض بحجم كبير',
+      read:'قراءة بصوت عالٍ', readStop:'إيقاف',
       copied:'تم النسخ. بعد اللصق في تطبيق آخر يمكن حذفه.',
       noName:'وحتى من دون اسم لحالة، يمكن عرض ما يصعب هكذا كما هو.',
       mainLang:'عرض باللغة {lang}',
@@ -2015,6 +2062,7 @@ var ar = {
     madoguchi: {
       title:'أين يُطلب العون',
       nowHead:'عند الشعور بسوء شديد الآن',
+      textHead:'إذا كان الاتصال صعبًا: عبر الرسائل النصية',
       dayHead:'طلب العون خلال النهار'
     },
     learn: {
