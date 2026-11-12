@@ -39,7 +39,12 @@ window.KOMARI_DATA = {
   "sa",
   "gb",
   "au",
-  "nz"
+  "nz",
+  "ie",
+  "at",
+  "ca",
+  "pt",
+  "mx"
  ],
  "c": {
   "jp": {
@@ -50,12 +55,14 @@ window.KOMARI_DATA = {
     "fr": "Japon",
     "de": "Japan",
     "es": "Japón",
+    "esmx": "Japón",
     "nl": "Japan",
     "ko": "일본",
     "zh": "日本",
     "it": "Giappone",
     "sv": "Japan",
     "pt": "Japão",
+    "ptpt": "Japão",
     "ar": "اليابان"
    },
    "langs": [
@@ -3169,12 +3176,14 @@ window.KOMARI_DATA = {
     "fr": "États-Unis",
     "de": "Vereinigte Staaten",
     "es": "Estados Unidos",
+    "esmx": "Estados Unidos",
     "nl": "Verenigde Staten",
     "ko": "미국",
     "zh": "美國",
     "it": "Stati Uniti",
     "sv": "USA",
     "pt": "Estados Unidos",
+    "ptpt": "Estados Unidos",
     "ar": "الولايات المتحدة"
    },
    "langs": [
@@ -4891,12 +4900,14 @@ window.KOMARI_DATA = {
     "fr": "France",
     "de": "Frankreich",
     "es": "Francia",
+    "esmx": "Francia",
     "nl": "Frankrijk",
     "ko": "프랑스",
     "zh": "法國",
     "it": "Francia",
     "sv": "Frankrike",
     "pt": "França",
+    "ptpt": "França",
     "ar": "فرنسا"
    },
    "langs": [
@@ -8279,12 +8290,14 @@ window.KOMARI_DATA = {
     "fr": "Allemagne",
     "de": "Deutschland",
     "es": "Alemania",
+    "esmx": "Alemania",
     "nl": "Duitsland",
     "ko": "독일",
     "zh": "德國",
     "it": "Germania",
     "sv": "Tyskland",
     "pt": "Alemanha",
+    "ptpt": "Alemanha",
     "ar": "ألمانيا"
    },
    "langs": [
@@ -11705,12 +11718,14 @@ window.KOMARI_DATA = {
     "fr": "Espagne",
     "de": "Spanien",
     "es": "España",
+    "esmx": "España",
     "nl": "Spanje",
     "ko": "스페인",
     "zh": "西班牙",
     "it": "Spagna",
     "sv": "Spanien",
     "pt": "Espanha",
+    "ptpt": "Espanha",
     "ar": "إسبانيا"
    },
    "langs": [
@@ -14692,12 +14707,14 @@ window.KOMARI_DATA = {
     "fr": "Pays-Bas",
     "de": "Niederlande",
     "es": "Países Bajos",
+    "esmx": "Países Bajos",
     "nl": "Nederland",
     "ko": "네덜란드",
     "zh": "荷蘭",
     "it": "Paesi Bassi",
     "sv": "Nederländerna",
     "pt": "Países Baixos",
+    "ptpt": "Países Baixos",
     "ar": "هولندا"
    },
    "langs": [
@@ -17682,12 +17699,14 @@ window.KOMARI_DATA = {
     "fr": "Corée du Sud",
     "de": "Südkorea",
     "es": "Corea del Sur",
+    "esmx": "Corea del Sur",
     "nl": "Zuid-Korea",
     "ko": "한국",
     "zh": "韓國",
     "it": "Corea del Sud",
     "sv": "Sydkorea",
     "pt": "Coreia do Sul",
+    "ptpt": "Coreia do Sul",
     "ar": "كوريا الجنوبية"
    },
    "langs": [
@@ -20846,12 +20865,14 @@ window.KOMARI_DATA = {
     "fr": "Taïwan",
     "de": "Taiwan",
     "es": "Taiwán",
+    "esmx": "Taiwán",
     "nl": "Taiwan",
     "ko": "대만",
     "zh": "臺灣",
     "it": "Taiwan",
     "sv": "Taiwan",
     "pt": "Taiwan",
+    "ptpt": "Taiwan",
     "ar": "تايوان"
    },
    "langs": [
@@ -23810,12 +23831,14 @@ window.KOMARI_DATA = {
     "fr": "Italie",
     "de": "Italien",
     "es": "Italia",
+    "esmx": "Italia",
     "nl": "Italië",
     "ko": "이탈리아",
     "zh": "義大利",
     "it": "Italia",
     "sv": "Italien",
     "pt": "Itália",
+    "ptpt": "Itália",
     "ar": "إيطاليا"
    },
    "langs": [
@@ -26829,12 +26852,14 @@ window.KOMARI_DATA = {
     "fr": "Suède",
     "de": "Schweden",
     "es": "Suecia",
+    "esmx": "Suecia",
     "nl": "Zweden",
     "ko": "스웨덴",
     "zh": "瑞典",
     "it": "Svezia",
     "sv": "Sverige",
     "pt": "Suécia",
+    "ptpt": "Suécia",
     "ar": "السويد"
    },
    "langs": [
@@ -30280,12 +30305,14 @@ window.KOMARI_DATA = {
     "fr": "Brésil",
     "de": "Brasilien",
     "es": "Brasil",
+    "esmx": "Brasil",
     "nl": "Brazilië",
     "ko": "브라질",
     "zh": "巴西",
     "it": "Brasile",
     "sv": "Brasilien",
     "pt": "Brasil",
+    "ptpt": "Brasil",
     "ar": "البرازيل"
    },
    "langs": [
@@ -33009,12 +33036,14 @@ window.KOMARI_DATA = {
     "fr": "Arabie saoudite",
     "de": "Saudi-Arabien",
     "es": "Arabia Saudí",
+    "esmx": "Arabia Saudí",
     "nl": "Saoedi-Arabië",
     "ko": "사우디아라비아",
     "zh": "沙烏地阿拉伯",
     "it": "Arabia Saudita",
     "sv": "Saudiarabien",
     "pt": "Arábia Saudita",
+    "ptpt": "Arábia Saudita",
     "ar": "المملكة العربية السعودية"
    },
    "langs": [
@@ -34977,12 +35006,14 @@ window.KOMARI_DATA = {
     "fr": "Royaume-Uni",
     "de": "Vereinigtes Königreich",
     "es": "Reino Unido",
+    "esmx": "Reino Unido",
     "nl": "Verenigd Koninkrijk",
     "ko": "영국",
     "zh": "英國",
     "it": "Regno Unito",
     "sv": "Förenade kungariket",
     "pt": "Reino Unido",
+    "ptpt": "Reino Unido",
     "ar": "المملكة المتحدة"
    },
    "langs": [
@@ -36749,12 +36780,14 @@ window.KOMARI_DATA = {
     "fr": "Australie",
     "de": "Australien",
     "es": "Australia",
+    "esmx": "Australia",
     "nl": "Australië",
     "ko": "오스트레일리아",
     "zh": "澳洲",
     "it": "Australia",
     "sv": "Australien",
     "pt": "Austrália",
+    "ptpt": "Austrália",
     "ar": "أستراليا"
    },
    "langs": [
@@ -38397,12 +38430,14 @@ window.KOMARI_DATA = {
     "fr": "Nouvelle-Zélande",
     "de": "Neuseeland",
     "es": "Nueva Zelanda",
+    "esmx": "Nueva Zelanda",
     "nl": "Nieuw-Zeeland",
     "ko": "뉴질랜드",
     "zh": "紐西蘭",
     "it": "Nuova Zelanda",
     "sv": "Nya Zeeland",
     "pt": "Nova Zelândia",
+    "ptpt": "Nova Zelândia",
     "ar": "نيوزيلندا"
    },
    "langs": [
@@ -39677,6 +39712,12545 @@ window.KOMARI_DATA = {
      },
      "fewNote": "Only a few names could be confirmed on public health pages.",
      "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "ie": {
+   "id": "ie",
+   "name": {
+    "ja": "アイルランド",
+    "en": "Ireland",
+    "fr": "Irlande",
+    "de": "Irland",
+    "es": "Irlanda",
+    "esmx": "Irlanda",
+    "nl": "Ierland",
+    "ko": "아일랜드",
+    "zh": "愛爾蘭",
+    "it": "Irlanda",
+    "sv": "Irland",
+    "pt": "Irlanda",
+    "ptpt": "Irlanda",
+    "ar": "أيرلندا"
+   },
+   "langs": [
+    "en"
+   ],
+   "main": "en",
+   "fallback": "en",
+   "srcLang": "en",
+   "freeHosts": [],
+   "adaptHosts": [
+    "citizensinformation.ie"
+   ],
+   "srcNote": {
+    "citizensinformation.ie": "Contains Irish Public Sector Data licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence: https://creativecommons.org/licenses/by/4.0/"
+   },
+   "factRef": true,
+   "ver": "2026-11-12",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "ie112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "999",
+     "url": "https://www.gov.ie/en/department-of-the-taoiseach/services/how-to-contact-emergency-services-in-ireland/",
+     "linkOk": false,
+     "en": {
+      "name": "112 or 999 (emergency)",
+      "desc": "If someone is seriously ill or injured, or a life is in danger, call 112 or 999, or go to your nearest emergency department (ED). Calling 112 or 999 is free of charge. If you cannot make a voice call, you can send a text to 112 from an Irish mobile phone. A voice call is better if you can make one, because a text takes longer.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "gov.ie (Government of Ireland)",
+       "title": "How to contact emergency services in Ireland",
+       "url": "https://www.gov.ie/en/department-of-the-taoiseach/services/how-to-contact-emergency-services-in-ireland/",
+       "kind": "fact",
+       "upd": "2025-04-11"
+      }
+     },
+     "src": {
+      "org": "gov.ie (Government of Ireland)",
+      "title": "How to contact emergency services in Ireland",
+      "url": "https://www.gov.ie/en/department-of-the-taoiseach/services/how-to-contact-emergency-services-in-ireland/",
+      "kind": "fact",
+      "upd": "2025-04-11"
+     }
+    },
+    {
+     "id": "iesam",
+     "band": "now",
+     "tel": "116 123",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/get-urgent-help/",
+     "linkOk": false,
+     "en": {
+      "name": "Samaritans",
+      "desc": "Freephone 116 123. Samaritans is open 24 hours a day, every day, for confidential support. You can also email jo@samaritans.ie.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Get urgent help for a mental health crisis",
+       "url": "https://www2.hse.ie/mental-health/services-support/get-urgent-help/",
+       "kind": "fact",
+       "upd": "2025-05-28"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Get urgent help for a mental health crisis",
+      "url": "https://www2.hse.ie/mental-health/services-support/get-urgent-help/",
+      "kind": "fact",
+      "upd": "2025-05-28"
+     }
+    },
+    {
+     "id": "iepieta",
+     "band": "now",
+     "tel": "1800 247 247",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/suicide/",
+     "linkOk": false,
+     "en": {
+      "name": "Pieta",
+      "desc": "Freephone 1800 247 247, any time, 24 hours a day. A helpline for when you are feeling low or thinking about suicide. You can also text HELP to 51444 (standard message rates apply).",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Help for thoughts about suicide",
+       "url": "https://www2.hse.ie/mental-health/services-support/suicide/",
+       "kind": "fact",
+       "upd": "2025-09-22"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Help for thoughts about suicide",
+      "url": "https://www2.hse.ie/mental-health/services-support/suicide/",
+      "kind": "fact",
+      "upd": "2025-09-22"
+     }
+    },
+    {
+     "id": "iet",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/get-urgent-help/",
+     "linkOk": false,
+     "sms": "50808",
+     "en": {
+      "name": "Text About It",
+      "desc": "Free text HELLO to 50808, any time, 24 hours a day, to chat by text with a trained volunteer.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Get urgent help for a mental health crisis",
+       "url": "https://www2.hse.ie/mental-health/services-support/get-urgent-help/",
+       "kind": "fact",
+       "upd": "2025-05-28"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Get urgent help for a mental health crisis",
+      "url": "https://www2.hse.ie/mental-health/services-support/get-urgent-help/",
+      "kind": "fact",
+      "upd": "2025-05-28"
+     }
+    },
+    {
+     "id": "iewa",
+     "band": "now",
+     "tel": "1800 341 900",
+     "tel2": "",
+     "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/information-for-survivors-of-domestic-violence/",
+     "linkOk": false,
+     "en": {
+      "name": "Women's Aid",
+      "desc": "Freephone 1800 341 900. A 24-hour national helpline for women subjected to domestic violence.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "gov.ie (Government of Ireland)",
+       "title": "Information for Survivors of Domestic Violence",
+       "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/information-for-survivors-of-domestic-violence/",
+       "kind": "fact",
+       "upd": "2025-02-26"
+      }
+     },
+     "src": {
+      "org": "gov.ie (Government of Ireland)",
+      "title": "Information for Survivors of Domestic Violence",
+      "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/information-for-survivors-of-domestic-violence/",
+      "kind": "fact",
+      "upd": "2025-02-26"
+     }
+    },
+    {
+     "id": "ierape",
+     "band": "now",
+     "tel": "1800 778 888",
+     "tel2": "",
+     "url": "https://www.citizensinformation.ie/en/justice/victims-of-crime/support-services-for-victims-of-crime/",
+     "linkOk": false,
+     "en": {
+      "name": "National Rape Crisis Helpline (National Sexual Violence Helpline)",
+      "desc": "Phone 1800 778 888, available 24 hours a day, 7 days a week. A free, confidential listening and support service for people who have been raped, sexually assaulted, sexually harassed or sexually abused at any time in their lives.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Citizens Information (Citizens Information Board)",
+       "title": "Support services for victims of crime",
+       "url": "https://www.citizensinformation.ie/en/justice/victims-of-crime/support-services-for-victims-of-crime/",
+       "kind": "summary",
+       "upd": "2025-09-01"
+      }
+     },
+     "src": {
+      "org": "Citizens Information (Citizens Information Board)",
+      "title": "Support services for victims of crime",
+      "url": "https://www.citizensinformation.ie/en/justice/victims-of-crime/support-services-for-victims-of-crime/",
+      "kind": "summary",
+      "upd": "2025-09-01"
+     }
+    },
+    {
+     "id": "iegp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.citizensinformation.ie/en/health/health-services/gp-and-hospital-services/gps-and-private-patients/",
+     "linkOk": false,
+     "en": {
+      "name": "Your GP (family doctor)",
+      "desc": "A GP is usually the first doctor you will see about non-emergency illnesses and health issues. You usually have to pay to see a GP, and fees can vary. You can see a GP free of charge if you have a medical card or a GP visit card. If you need a GP in the evening or at the weekend, you can contact your local GP out-of-hours service.",
+      "hours": "Check opening hours with your GP practice.",
+      "src": {
+       "org": "Citizens Information (Citizens Information Board)",
+       "title": "GPs and private patients",
+       "url": "https://www.citizensinformation.ie/en/health/health-services/gp-and-hospital-services/gps-and-private-patients/",
+       "kind": "summary",
+       "upd": "2024-06-19"
+      }
+     },
+     "src": {
+      "org": "Citizens Information (Citizens Information Board)",
+      "title": "GPs and private patients",
+      "url": "https://www.citizensinformation.ie/en/health/health-services/gp-and-hospital-services/gps-and-private-patients/",
+      "kind": "summary",
+      "upd": "2024-06-19"
+     }
+    },
+    {
+     "id": "ieymh",
+     "band": "day",
+     "tel": "1800 111 888",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/about/",
+     "linkOk": false,
+     "en": {
+      "name": "HSE Your Mental Health information line",
+      "desc": "Freephone 1800 111 888, any time. Find out about the supports and services available to you and how to get them. It is an information line, so if a life is in danger, call 112 or 999.",
+      "hours": "Any time.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "About mental health supports and services",
+       "url": "https://www2.hse.ie/mental-health/services-support/about/",
+       "kind": "fact",
+       "upd": "2026-09-09"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "About mental health supports and services",
+      "url": "https://www2.hse.ie/mental-health/services-support/about/",
+      "kind": "fact",
+      "upd": "2026-09-09"
+     }
+    },
+    {
+     "id": "iecipc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/ncs/cipc/",
+     "linkOk": false,
+     "en": {
+      "name": "Counselling in Primary Care (HSE)",
+      "desc": "Counselling in Primary Care is part of the National Counselling Service. It is free for people aged 18 or older who have a medical card. You need a referral from a GP or another health professional. After your GP makes a referral, you must phone your local office within 2 weeks to confirm that you want to use the service. Offices are open 9am to 5pm, Monday to Friday.",
+      "hours": "Offices: Monday to Friday, 9am to 5pm.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Accessing counselling if you have a medical card",
+       "url": "https://www2.hse.ie/mental-health/services-support/ncs/cipc/",
+       "kind": "fact",
+       "upd": "2026-08-14"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Accessing counselling if you have a medical card",
+      "url": "https://www2.hse.ie/mental-health/services-support/ncs/cipc/",
+      "kind": "fact",
+      "upd": "2026-08-14"
+     }
+    },
+    {
+     "id": "iedrug",
+     "band": "day",
+     "tel": "1800 459 459",
+     "tel2": "",
+     "url": "https://www2.hse.ie/services/habit-addiction/drugs-and-alcohol-helpline/",
+     "linkOk": false,
+     "en": {
+      "name": "HSE Drugs and Alcohol Helpline",
+      "desc": "Freephone 1800 459 459, Monday to Friday, 9.30am to 5.30pm. A free, confidential service for anyone with concerns about drugs or alcohol. You do not have to give your name.",
+      "hours": "Monday to Friday, 9.30am to 5.30pm.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Drugs and Alcohol Helpline",
+       "url": "https://www2.hse.ie/services/habit-addiction/drugs-and-alcohol-helpline/",
+       "kind": "fact",
+       "upd": "2026-01-30"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Drugs and Alcohol Helpline",
+      "url": "https://www2.hse.ie/services/habit-addiction/drugs-and-alcohol-helpline/",
+      "kind": "fact",
+      "upd": "2026-01-30"
+     }
+    },
+    {
+     "id": "iegamb",
+     "band": "day",
+     "tel": "1800 936 725",
+     "tel2": "",
+     "url": "https://www.citizensinformation.ie/en/health/health-services/addiction-treatment-services/help-for-gambling-addiction/",
+     "linkOk": false,
+     "en": {
+      "name": "National problem gambling helpline",
+      "desc": "Call 1800 936 725, 24 hours a day. The national helpline for problem gambling.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Citizens Information (Citizens Information Board)",
+       "title": "Help for gambling addiction",
+       "url": "https://www.citizensinformation.ie/en/health/health-services/addiction-treatment-services/help-for-gambling-addiction/",
+       "kind": "summary",
+       "upd": "2026-02-12"
+      }
+     },
+     "src": {
+      "org": "Citizens Information (Citizens Information Board)",
+      "title": "Help for gambling addiction",
+      "url": "https://www.citizensinformation.ie/en/health/health-services/addiction-treatment-services/help-for-gambling-addiction/",
+      "kind": "summary",
+      "upd": "2026-02-12"
+     }
+    },
+    {
+     "id": "iemabs",
+     "band": "day",
+     "tel": "0818 07 2000",
+     "tel2": "",
+     "url": "https://www.citizensinformation.ie/en/money-and-tax/personal-finance/debt/mabs-service/",
+     "linkOk": false,
+     "en": {
+      "name": "Money Advice and Budgeting Service (MABS)",
+      "desc": "Phone 0818 07 2000, Monday to Friday, 9am to 8pm. A free, confidential service that offers advice and support for managing your money and overcoming problem debt.",
+      "hours": "Monday to Friday, 9am to 8pm.",
+      "src": {
+       "org": "Citizens Information (Citizens Information Board)",
+       "title": "Money Advice and Budgeting Service",
+       "url": "https://www.citizensinformation.ie/en/money-and-tax/personal-finance/debt/mabs-service/",
+       "kind": "summary",
+       "upd": "2026-02-25"
+      }
+     },
+     "src": {
+      "org": "Citizens Information (Citizens Information Board)",
+      "title": "Money Advice and Budgeting Service",
+      "url": "https://www.citizensinformation.ie/en/money-and-tax/personal-finance/debt/mabs-service/",
+      "kind": "summary",
+      "upd": "2026-02-25"
+     }
+    },
+    {
+     "id": "iebw",
+     "band": "day",
+     "tel": "01 210 7906",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/supports-services/",
+     "linkOk": false,
+     "en": {
+      "name": "Bodywhys (eating disorders)",
+      "desc": "Phone 01 210 7906. The times are different on different days, so check them on the HSE page before you call. Services for adults and young people with eating disorders, and their families.",
+      "hours": "Times differ by day. Check the HSE page.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Organisations that provide mental health supports and services",
+       "url": "https://www2.hse.ie/mental-health/services-support/supports-services/",
+       "kind": "fact",
+       "upd": "2025-08-28"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Organisations that provide mental health supports and services",
+      "url": "https://www2.hse.ie/mental-health/services-support/supports-services/",
+      "kind": "fact",
+      "upd": "2025-08-28"
+     }
+    },
+    {
+     "id": "ieadhd",
+     "band": "day",
+     "tel": "01 874 8349",
+     "tel2": "",
+     "url": "https://www2.hse.ie/mental-health/services-support/supports-services/",
+     "linkOk": false,
+     "en": {
+      "name": "ADHD Ireland",
+      "desc": "Phone 01 874 8349, Monday to Friday, 10am to 1pm. Support and information for young people and adults with ADHD, their carers and their families.",
+      "hours": "Monday to Friday, 10am to 1pm.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Organisations that provide mental health supports and services",
+       "url": "https://www2.hse.ie/mental-health/services-support/supports-services/",
+       "kind": "fact",
+       "upd": "2025-08-28"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Organisations that provide mental health supports and services",
+      "url": "https://www2.hse.ie/mental-health/services-support/supports-services/",
+      "kind": "fact",
+      "upd": "2025-08-28"
+     }
+    },
+    {
+     "id": "iecvh",
+     "band": "day",
+     "tel": "116 006",
+     "tel2": "",
+     "url": "https://www.citizensinformation.ie/en/justice/victims-of-crime/support-services-for-victims-of-crime/",
+     "linkOk": false,
+     "en": {
+      "name": "Crime Victims Helpline",
+      "desc": "Freephone 116 006. A confidential listening and support service for victims of crime, no matter when the crime happened.",
+      "hours": "Check opening times with the service.",
+      "src": {
+       "org": "Citizens Information (Citizens Information Board)",
+       "title": "Support services for victims of crime",
+       "url": "https://www.citizensinformation.ie/en/justice/victims-of-crime/support-services-for-victims-of-crime/",
+       "kind": "summary",
+       "upd": "2025-09-01"
+      }
+     },
+     "src": {
+      "org": "Citizens Information (Citizens Information Board)",
+      "title": "Support services for victims of crime",
+      "url": "https://www.citizensinformation.ie/en/justice/victims-of-crime/support-services-for-victims-of-crime/",
+      "kind": "summary",
+      "upd": "2025-09-01"
+     }
+    },
+    {
+     "id": "iemal",
+     "band": "day",
+     "tel": "1800 816 588",
+     "tel2": "",
+     "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/information-for-survivors-of-domestic-violence/",
+     "linkOk": false,
+     "en": {
+      "name": "Male Advice Line",
+      "desc": "Call 1800 816 588. Confidential advice and support over the phone for men affected by domestic violence. Check the opening times before you call.",
+      "hours": "Check opening times with the service.",
+      "src": {
+       "org": "gov.ie (Government of Ireland)",
+       "title": "Information for Survivors of Domestic Violence",
+       "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/information-for-survivors-of-domestic-violence/",
+       "kind": "fact",
+       "upd": "2025-02-26"
+      }
+     },
+     "src": {
+      "org": "gov.ie (Government of Ireland)",
+      "title": "Information for Survivors of Domestic Violence",
+      "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/publications/information-for-survivors-of-domestic-violence/",
+      "kind": "fact",
+      "upd": "2025-02-26"
+     }
+    },
+    {
+     "id": "iemena",
+     "band": "day",
+     "tel": "01 554 3811",
+     "tel2": "",
+     "url": "https://www2.hse.ie/services/domestic-sexual-gender-based-violence/",
+     "linkOk": false,
+     "en": {
+      "name": "Men's Aid",
+      "desc": "Phone 01 554 3811, Monday to Friday, 9am to 5pm. A confidential helpline and support for men affected by domestic violence.",
+      "hours": "Monday to Friday, 9am to 5pm.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Domestic, sexual and gender-based violence services",
+       "url": "https://www2.hse.ie/services/domestic-sexual-gender-based-violence/",
+       "kind": "fact",
+       "upd": "2025-05-27"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Domestic, sexual and gender-based violence services",
+      "url": "https://www2.hse.ie/services/domestic-sexual-gender-based-violence/",
+      "kind": "fact",
+      "upd": "2025-05-27"
+     }
+    },
+    {
+     "id": "iehselive",
+     "band": "day",
+     "tel": "1800 700 700",
+     "tel2": "",
+     "url": "https://www2.hse.ie/contact/",
+     "linkOk": false,
+     "en": {
+      "name": "HSE Live",
+      "desc": "Freephone 1800 700 700. Monday to Friday, 8am to 8pm. Saturday, 9am to 5pm. Closed on Sundays and bank holidays. For a general question, or if you do not know who to contact in the HSE.",
+      "hours": "Monday to Friday, 8am to 8pm. Saturday, 9am to 5pm.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Contact the HSE",
+       "url": "https://www2.hse.ie/contact/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Health Service Executive (HSE)",
+      "title": "Contact the HSE",
+      "url": "https://www2.hse.ie/contact/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "iecips",
+     "band": "day",
+     "tel": "0818 07 4000",
+     "tel2": "",
+     "url": "https://www.citizensinformation.ie/en/about/contact-us/",
+     "linkOk": false,
+     "en": {
+      "name": "Citizens Information Phone Service",
+      "desc": "Phone 0818 07 4000, Monday to Friday, 9am to 8pm. You can call if you have a question that is not answered on the Citizens Information website. Calls cost no more than a call to a landline.",
+      "hours": "Monday to Friday, 9am to 8pm.",
+      "src": {
+       "org": "Citizens Information (Citizens Information Board)",
+       "title": "Contact us",
+       "url": "https://www.citizensinformation.ie/en/about/contact-us/",
+       "kind": "summary",
+       "upd": "2025-03-06"
+      }
+     },
+     "src": {
+      "org": "Citizens Information (Citizens Information Board)",
+      "title": "Contact us",
+      "url": "https://www.citizensinformation.ie/en/about/contact-us/",
+      "kind": "summary",
+      "upd": "2025-03-06"
+     }
+    },
+    {
+     "id": "iewrc",
+     "band": "day",
+     "tel": "059 917 8990",
+     "tel2": "",
+     "url": "https://www.workplacerelations.ie/en/news-media/workplace_relations_notices/wrc-infoline-opening-hours/",
+     "linkOk": false,
+     "en": {
+      "name": "Workplace Relations Commission (WRC)",
+      "desc": "Phone 059 917 8990, Monday to Friday, 9.30am to 4pm. This is the Workplace Relations Commission Information and Inspection Infoline.",
+      "hours": "Monday to Friday, 9.30am to 4pm.",
+      "src": {
+       "org": "Workplace Relations Commission",
+       "title": "WRC-Infoline-Opening-Hours",
+       "url": "https://www.workplacerelations.ie/en/news-media/workplace_relations_notices/wrc-infoline-opening-hours/",
+       "kind": "fact",
+       "upd": "2026-09-22"
+      }
+     },
+     "src": {
+      "org": "Workplace Relations Commission",
+      "title": "WRC-Infoline-Opening-Hours",
+      "url": "https://www.workplacerelations.ie/en/news-media/workplace_relations_notices/wrc-infoline-opening-hours/",
+      "kind": "fact",
+      "upd": "2026-09-22"
+     }
+    },
+    {
+     "id": "ieintreo",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gov.ie/en/department-of-social-protection/campaigns/intreo-the-irish-public-employment-service/",
+     "linkOk": false,
+     "en": {
+      "name": "Intreo",
+      "desc": "Intreo is the Irish public employment service. It is one place to go for both employment supports and income supports. You can find your local Intreo Centre on the gov.ie page.",
+      "hours": "Check with your local Intreo Centre.",
+      "src": {
+       "org": "gov.ie (Government of Ireland)",
+       "title": "Intreo - the Irish public employment service",
+       "url": "https://www.gov.ie/en/department-of-social-protection/campaigns/intreo-the-irish-public-employment-service/",
+       "kind": "fact",
+       "upd": "2025-04-12"
+      }
+     },
+     "src": {
+      "org": "gov.ie (Government of Ireland)",
+      "title": "Intreo - the Irish public employment service",
+      "url": "https://www.gov.ie/en/department-of-social-protection/campaigns/intreo-the-irish-public-employment-service/",
+      "kind": "fact",
+      "upd": "2025-04-12"
+     }
+    }
+   ],
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Depression is more than a passing spell of feeling sad or low. It can show up in different ways for different people.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Clinical depression",
+         "url": "https://www2.hse.ie/conditions/clinical-depression/",
+         "kind": "fact",
+         "upd": "2022-09-01"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Bipolar disorder is a mood disorder. Mood can go to extremes, with highs as well as lows.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Bipolar disorder",
+         "url": "https://www2.hse.ie/conditions/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2025-08-08"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iecipc",
+       "iehselive"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like trains, buses, crowded buildings, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Atrial fibrillation (a heart rhythm problem)",
+        "why": "Atrial fibrillation is a heart condition in which the heart keeps an uneven rhythm. It can be felt as palpitations, when the heartbeat seems to thump, flutter or lose its rhythm.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Overview - Atrial fibrillation",
+         "url": "https://www2.hse.ie/conditions/atrial-fibrillation/",
+         "kind": "fact",
+         "upd": "2026-07-09"
+        }
+       },
+       {
+        "name": "Generalised anxiety disorder",
+        "why": "In generalised anxiety disorder, anxiety reaches into many parts of everyday life instead of being tied to one event. It can affect both physical and mental health.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Generalised anxiety disorder",
+         "url": "https://www2.hse.ie/conditions/generalised-anxiety-disorder/",
+         "kind": "fact",
+         "upd": "2025-08-01"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression and anxiety can happen together.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Clinical depression",
+         "url": "https://www2.hse.ie/conditions/clinical-depression/",
+         "kind": "fact",
+         "upd": "2022-09-01"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iecipc",
+       "iehselive"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the cooker, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the cooker again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I don't make it to appointments or work on time.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive compulsive disorder (OCD)",
+        "why": "In OCD, an unwelcome thought keeps hold of the mind, and certain actions, such as repeated hand washing, are done to ease the distress it brings. The relief tends to be brief.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Obsessive compulsive disorder (OCD)",
+         "url": "https://www2.hse.ie/conditions/obsessive-compulsive-disorder/",
+         "kind": "fact",
+         "upd": "2025-05-12"
+        }
+       },
+       {
+        "name": "Health anxiety (hypochondria)",
+        "why": "Health anxiety is when worry about being ill, or about becoming ill, takes up so much time that it starts to run daily life. An urge to check the body can be part of it.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Hypochondria - health anxiety",
+         "url": "https://www2.hse.ie/conditions/hypochondria/",
+         "kind": "fact",
+         "upd": "2025-07-15"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iecipc",
+       "iehselive"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel close to my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "PTSD can develop after going through something deeply distressing or frightening. The event can come back through nightmares and flashbacks, and sleep can be disturbed.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Post-traumatic stress disorder (PTSD)",
+         "url": "https://www2.hse.ie/conditions/ptsd/",
+         "kind": "fact",
+         "upd": "2025-04-15"
+        }
+       },
+       {
+        "name": "Nightmares and night terrors",
+        "why": "Nightmares can be upsetting and can keep you from sleeping well. In adults, night terrors often go along with stress or trauma, and nightmares can also be connected with trauma.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Nightmares and night terrors in adults",
+         "url": "https://www2.hse.ie/conditions/nightmares-and-night-terrors-in-adults/",
+         "kind": "fact",
+         "upd": "2024-09-03"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Feeling grief after a loss is natural, but depression is an illness. The two can look alike, so it can be hard to tell them apart.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Clinical depression",
+         "url": "https://www2.hse.ie/conditions/clinical-depression/",
+         "kind": "fact",
+         "upd": "2022-09-01"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iecipc",
+       "iecvh",
+       "iemal",
+       "iemena",
+       "iehselive"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep being late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "I would like some time to explain how my sleep is going (falling asleep, waking in the night, trouble getting up in the morning, sleepiness during the day).",
+       "I would like to think through the cause together, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "I would prefer it not to be put down to my mindset, and I would like my physical health and my mood to be checked together.",
+       "I would like to show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If I am offered medicine, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnoea",
+        "why": "In obstructive sleep apnoea, the throat narrows during sleep, so breathing keeps pausing and then starting again. This can break up sleep again and again and make daily life much harder.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms and diagnosis - Obstructive sleep apnoea",
+         "url": "https://www2.hse.ie/conditions/obstructive-sleep-apnoea/",
+         "kind": "fact",
+         "upd": "2023-09-13"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "With insomnia, it is often hard to fall asleep or to stay asleep long enough to wake up rested, and this goes on over a long time.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Insomnia",
+         "url": "https://www2.hse.ie/conditions/insomnia/",
+         "kind": "fact",
+         "upd": "2025-06-18"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iehselive"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for days.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would prefer it if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When others eat together, I would like to be able to choose a different place or time to eat.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or blood tests explained beforehand.",
+       "I would like to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Unintentional weight loss",
+        "why": "Weight loss you did not plan can come on suddenly after a stressful event, and it can also be linked to an illness.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Unintentional weight loss",
+         "url": "https://www2.hse.ie/conditions/unintentional-weight-loss/",
+         "kind": "fact",
+         "upd": "2021-03-25"
+        }
+       },
+       {
+        "name": "Eating disorders (such as anorexia, bulimia and binge eating disorder)",
+        "why": "An eating disorder is a mental health condition in which the relationship with food becomes unhealthy and starts to affect eating habits.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Eating disorders",
+         "url": "https://www2.hse.ie/conditions/eating-disorders/",
+         "kind": "fact",
+         "upd": "2025-08-01"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iebw",
+       "iehselive"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "I would like to work out, step by step, how I use these and what problems they cause.",
+       "I would like my sleep and physical health to be checked as well.",
+       "I would like to be told specifically where I can get support and where I can go.",
+       "I would like to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence",
+        "why": "Alcohol dependence is a serious kind of drinking problem. It can be very hard to stop or cut down, even when drinking puts health, safety or family life in danger.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Alcohol dependence overview and risk factors",
+         "url": "https://www2.hse.ie/living-well/alcohol/dependence/becoming-dependent/",
+         "kind": "fact",
+         "upd": "2025-07-17"
+        }
+       },
+       {
+        "name": "Gambling harm",
+        "why": "Gambling can affect work, family and relationships, and support for people affected by it is available across Ireland.",
+        "src": {
+         "org": "Gambling Regulatory Authority of Ireland",
+         "title": "Get Help",
+         "url": "https://www.grai.ie/gambling-safety/get-support/get-help",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "iedrug",
+       "iegamb",
+       "iemabs",
+       "ieymh",
+       "iehselive"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I can't get through work or housework in order, and I miss deadlines.",
+       "I often can't recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "I would prefer not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "I would like to talk in a quiet place where I am less distracted.",
+       "I would appreciate it if you recognised what I managed to do, instead of blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Attention deficit hyperactivity disorder (ADHD)",
+        "why": "ADHD can bring forgetfulness, trouble keeping everyday tasks in order, and getting pulled away easily by passing thoughts or by what is going on nearby. It can carry on into adult life.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "ADHD in Adults National Clinical Programme: Model of Care for Ireland",
+         "url": "https://about.hse.ie/api/v2/download-file/healthcare_professional_publications/ADHD_in_Adults_Model_of_Care.pdf/",
+         "kind": "fact",
+         "upd": "2021-01"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieadhd",
+       "ieymh",
+       "iehselive",
+       "iecips"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety (social phobia)",
+        "why": "Social anxiety means feeling intensely afraid in social situations, well beyond being shy. It can make everyday life, relationships and work harder.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Social anxiety (social phobia)",
+         "url": "https://www2.hse.ie/conditions/social-anxiety/",
+         "kind": "fact",
+         "upd": "2025-09-01"
+        }
+       },
+       {
+        "name": "Autism",
+        "why": "Autism is a different way of being, not an illness. Some people with autism need more help with friendships or relationships, and some have sensory issues.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "What autism is",
+         "url": "https://www2.hse.ie/conditions/autism/about-autism/autism/",
+         "kind": "fact",
+         "upd": "2024-10-30"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iecipc",
+       "iehselive",
+       "iecips"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "I would like text in large print with wide line spacing, in a font that is easy to read.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iehselive",
+       "iecips"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings can't keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I can't move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Premenstrual dysphoric disorder (PMDD)",
+        "why": "Premenstrual dysphoric disorder (PMDD) brings strong changes in mood and in the body before a period starts. These can make it hard to work, see people and keep relationships going.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "PMDD (premenstrual dysphoric disorder)",
+         "url": "https://www2.hse.ie/conditions/pmdd-premenstrual-dysphoric-disorder/",
+         "kind": "fact",
+         "upd": "2026-09-14"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Bipolar disorder is a mood disorder. Mood can go to extremes, with highs as well as lows.",
+        "src": {
+         "org": "Health Service Executive (HSE)",
+         "title": "Symptoms - Bipolar disorder",
+         "url": "https://www2.hse.ie/conditions/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2025-08-08"
+        }
+       }
+      ],
+      "windows": [
+       "iegp",
+       "ieymh",
+       "iecipc",
+       "iehselive"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to look like a symptom. Feelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use, and what is going on around you can cause similar things too. Even if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs and worries come with life",
+       "body": "Feeling sad or low at some point is something everyone goes through. Upsetting events or big changes in life can bring your mood down, and sometimes a low mood comes without any clear reason. Ups and downs and worries are part of life.\n\nNames are given by health professionals, who look at how strong the difficulties are, how long they have lasted and how much they affect daily life, all together.\n\nIf the difficulties continue, you are welcome to ask for help as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Health Service Executive (HSE)",
+         "title": "Low mood - tips and self-help",
+         "url": "https://www2.hse.ie/mental-health/issues/low-mood/",
+         "kind": "fact",
+         "upd": "2025-08-25"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "You do not need a diagnosis to get some kinds of support for your mental health. For most of the mental health organisations that are funded by the HSE, you do not need a referral from a GP either.\n\nFrom Citizens Information: “It is your choice to disclose your disability to potential employers, especially if it's not visible, like a long-term illness or a mental health issue. However, employers cannot accommodate your needs if they are unaware of them.”\n\nYou can ask your employer for reasonable accommodation, for example flexible working arrangements or a change in some of your tasks.",
+       "srcs": [
+        {
+         "org": "Health Service Executive (HSE)",
+         "title": "About mental health supports and services",
+         "url": "https://www2.hse.ie/mental-health/services-support/about/",
+         "kind": "fact",
+         "upd": "2026-09-09"
+        },
+        {
+         "org": "Health Service Executive (HSE)",
+         "title": "Getting free and low cost talk therapy",
+         "url": "https://www2.hse.ie/mental-health/services-support/talk-therapy/get/",
+         "kind": "fact",
+         "upd": "2025-08-28"
+        },
+        {
+         "org": "Citizens Information (Citizens Information Board)",
+         "title": "Working with a disability",
+         "url": "https://www.citizensinformation.ie/en/employment/employment-and-disability/working-with-a-disability/",
+         "kind": "quote",
+         "upd": "2024-08-15"
+        },
+        {
+         "org": "Citizens Information (Citizens Information Board)",
+         "title": "Working with a disability",
+         "url": "https://www.citizensinformation.ie/en/employment/employment-and-disability/working-with-a-disability/",
+         "kind": "summary",
+         "upd": "2024-08-15"
+        }
+       ]
+      },
+      {
+       "h": "However, some kinds of support may ask for papers from a doctor",
+       "body": "Some kinds of support ask for papers from a doctor. For example, Illness Benefit needs a certificate from your GP, and for Disability Allowance your doctor fills in a report on your health. To get Statutory Sick Pay, a doctor must certify that you cannot work.\n\nWhat you need is different for each kind of support, so it helps to ask the organisation first.",
+       "srcs": [
+        {
+         "org": "Citizens Information (Citizens Information Board)",
+         "title": "Illness Benefit",
+         "url": "https://www.citizensinformation.ie/en/social-welfare/disability-and-illness/illness-benefit/",
+         "kind": "summary",
+         "upd": "2026-10-07"
+        },
+        {
+         "org": "Citizens Information (Citizens Information Board)",
+         "title": "Disability Allowance",
+         "url": "https://www.citizensinformation.ie/en/social-welfare/disability-and-illness/disability-allowance/",
+         "kind": "summary",
+         "upd": "2026-11-11"
+        },
+        {
+         "org": "Citizens Information (Citizens Information Board)",
+         "title": "Sick leave and sick pay",
+         "url": "https://www.citizensinformation.ie/en/employment/employment-rights-and-conditions/leave-and-holidays/sick-leave-and-sick-pay/",
+         "kind": "summary",
+         "upd": "2025-02-14"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.\n\nAt work, you can also ask for reasonable accommodation.",
+       "srcs": [
+        {
+         "org": "Citizens Information (Citizens Information Board)",
+         "title": "Working with a disability",
+         "url": "https://www.citizensinformation.ie/en/employment/employment-and-disability/working-with-a-disability/",
+         "kind": "summary",
+         "upd": "2024-08-15"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It is not a company. It has no link with the HSE, Citizens Information or the Government of Ireland. None of them recommends or supports this app. The names of these organisations only show where information came from.\n\nContains Irish Public Sector Data licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence (https://creativecommons.org/licenses/by/4.0/). Source: Citizens Information Board, citizensinformation.ie. Changes were made by SOYOGI.\n\nOther text was written by SOYOGI in its own words, based on pages from the Health Service Executive (HSE), the Gambling Regulatory Authority of Ireland, the Workplace Relations Commission and gov.ie.\n\nThe check date is 2026-11-12, and numbers and times may change. Times are shown as each organisation writes them. Whether to reach out is decided by you, not by the app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "If your mental health is worrying you, there is support you can get. The kind of support that fits depends on how it affects your everyday life, how long it has gone on and whether you find it hard to cope.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "About mental health supports and services",
+       "url": "https://www2.hse.ie/mental-health/services-support/about/",
+       "kind": "fact",
+       "upd": "2026-09-09"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Even without a diagnosis of autism, you can still use HSE services. A health professional, for example your GP, can tell you which service fits you best.",
+       "src": {
+        "org": "Health Service Executive (HSE)",
+        "title": "How to get assessed for autism",
+        "url": "https://www2.hse.ie/conditions/autism/assessment-and-support/assessment-autism/",
+        "kind": "fact",
+        "upd": "2024-10-30"
+       }
+      },
+      {
+       "text": "For adults, a referral about attention difficulties to the local adult mental health service usually comes from a GP.",
+       "src": {
+        "org": "Health Service Executive (HSE)",
+        "title": "ADHD in Adults National Clinical Programme: Model of Care for Ireland",
+        "url": "https://about.hse.ie/api/v2/download-file/healthcare_professional_publications/ADHD_in_Adults_Model_of_Care.pdf/",
+        "kind": "fact",
+        "upd": "2021-01"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A health professional gives a name (a diagnosis) after looking at what you are going through, how long it has gone on and how much it affects your everyday life. They may also look into whether something else could be causing it.",
+      "src": {
+       "org": "Health Service Executive (HSE)",
+       "title": "Memory loss (amnesia)",
+       "url": "https://www2.hse.ie/conditions/memory-loss-amnesia/",
+       "kind": "fact",
+       "upd": "2024-09-02"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "at": {
+   "id": "at",
+   "name": {
+    "ja": "オーストリア",
+    "en": "Austria",
+    "fr": "Autriche",
+    "de": "Österreich",
+    "es": "Austria",
+    "esmx": "Austria",
+    "nl": "Oostenrijk",
+    "ko": "오스트리아",
+    "zh": "奧地利",
+    "it": "Austria",
+    "sv": "Österrike",
+    "pt": "Áustria",
+    "ptpt": "Áustria",
+    "ar": "النمسا"
+   },
+   "langs": [
+    "de",
+    "en"
+   ],
+   "main": "de",
+   "fallback": "de",
+   "srcLang": "de",
+   "freeHosts": [
+    "oesterreich.gv.at"
+   ],
+   "adaptHosts": [
+    "oesterreich.gv.at",
+    "ris.bka.gv.at",
+    "ogd.ris.bka.gv.at"
+   ],
+   "srcNote": {
+    "oesterreich.gv.at": "CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode.de"
+   },
+   "factRef": true,
+   "ver": "2026-11-12",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "at144",
+     "band": "now",
+     "tel": "144",
+     "tel2": "133",
+     "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+     "linkOk": true,
+     "de": {
+      "name": "144 (Rettung) · 133 (Polizei)",
+      "desc": "Die Rettung erreichen Sie unter 144, die Polizei unter 133. Notrufnummern können von jedem Telefon aus österreichweit kostenlos angerufen werden.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Notrufnummern",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+       "kind": "summary",
+       "upd": "2026-08-18"
+      }
+     },
+     "en": {
+      "name": "144 (ambulance) · 133 (police)",
+      "desc": "You can reach the ambulance service on 144 and the police on 133. Emergency numbers can be called free of charge from any phone anywhere in Austria.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Notrufnummern",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+       "kind": "summary",
+       "upd": "2026-08-18"
+      }
+     },
+     "src": {
+      "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+      "title": "Notrufnummern",
+      "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+      "kind": "summary",
+      "upd": "2026-08-18"
+     }
+    },
+    {
+     "id": "at112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+     "linkOk": true,
+     "de": {
+      "name": "112 (Euro-Notruf)",
+      "desc": "Die einheitliche europäische Notrufnummer. Sie kann auch bei gesperrten Mobiltelefonen (ohne PIN-Code) verwendet werden. Der Anruf ist kostenlos.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Notrufnummern",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+       "kind": "summary",
+       "upd": "2026-08-18"
+      }
+     },
+     "en": {
+      "name": "112 (European emergency number)",
+      "desc": "The single European emergency number. It can also be used from locked mobile phones (without a PIN code). The call is free of charge.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Notrufnummern",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+       "kind": "summary",
+       "upd": "2026-08-18"
+      }
+     },
+     "src": {
+      "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+      "title": "Notrufnummern",
+      "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+      "kind": "summary",
+      "upd": "2026-08-18"
+     }
+    },
+    {
+     "id": "atdec112",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+     "linkOk": true,
+     "sms": "0800 133 133",
+     "de": {
+      "name": "Notruf ohne Sprechen (DEC112, SMS)",
+      "desc": "Gehörlose und hörbeeinträchtigte Menschen können mit der App DEC112 mit einer Notrufzentrale chatten oder der Polizei unter 0800 133 133 eine SMS oder ein Fax schicken. Ist bei akuter Gefahr (Gewalt in der Privatsphäre) weder Sprechen noch Schreiben möglich, kann über die App ein „Stiller Notruf“ an die Polizei gesendet werden. Dafür muss die genaue Adresse in der App hinterlegt oder in den Chat eingegeben werden.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Notrufnummern",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+       "kind": "summary",
+       "upd": "2026-08-18"
+      }
+     },
+     "en": {
+      "name": "Emergency call without speaking (DEC112, SMS)",
+      "desc": "Deaf and hard-of-hearing people can chat with an emergency call center using the DEC112 app, or send the police a text message or a fax at 0800 133 133. If, in acute danger (violence in the private sphere), neither speaking nor writing is feasible, the app can send a \"silent emergency call\" to the police. For this, the exact address has to be saved in the app or typed into the chat.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Notrufnummern",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+       "kind": "summary",
+       "upd": "2026-08-18"
+      }
+     },
+     "src": {
+      "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+      "title": "Notrufnummern",
+      "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/notrufnummern",
+      "kind": "summary",
+      "upd": "2026-08-18"
+     }
+    },
+    {
+     "id": "at142",
+     "band": "now",
+     "tel": "142",
+     "tel2": "",
+     "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+     "linkOk": false,
+     "de": {
+      "name": "Telefonseelsorge 142",
+      "desc": "Menschen in einer schwierigen Lebenssituation oder in einer Krise können hier vertraulich sprechen. Die Beratung kostet nichts; es fallen höchstens die üblichen Telefonkosten an.",
+      "hours": "Rund um die Uhr, auch an Feiertagen.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+       "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+       "kind": "fact",
+       "upd": "2024-10-16"
+      }
+     },
+     "en": {
+      "name": "Telefonseelsorge 142 (listening line)",
+      "desc": "People in a difficult life situation or in a crisis can talk here in confidence. The advice costs nothing; at most the usual phone charges apply.",
+      "hours": "Around the clock, including public holidays.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+       "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+       "kind": "fact",
+       "upd": "2024-10-16"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+      "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+      "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+      "kind": "fact",
+      "upd": "2024-10-16"
+     }
+    },
+    {
+     "id": "at1450",
+     "band": "now",
+     "tel": "1450",
+     "tel2": "",
+     "url": "https://1450.at/",
+     "linkOk": false,
+     "de": {
+      "name": "1450 (Gesundheitsberatung)",
+      "desc": "Telefonische Beratung bei gesundheitlichen Problemen. Sie erfahren, wo Sie passende Hilfe bekommen oder ob Sie sich selbst helfen können. Bei Lebensgefahr wählen Sie den Notruf 144.",
+      "hours": "Rund um die Uhr. Die Beratung ist kostenlos, es fallen nur die Gesprächskosten Ihres Telefontarifs an.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (1450.at)",
+       "title": "Wenn's weh tut zuerst: 1450 Die Rund-um-die-Uhr-Gesundheitsberatung",
+       "url": "https://1450.at/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "1450 (health advice line)",
+      "desc": "Advice by phone on health problems. You find out where to get suitable help or whether you can help yourself. If life is in danger, call the emergency number 144.",
+      "hours": "Around the clock. The advice is free of charge; only the call charges of your phone plan apply.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (1450.at)",
+       "title": "Wenn's weh tut zuerst: 1450 Die Rund-um-die-Uhr-Gesundheitsberatung",
+       "url": "https://1450.at/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (1450.at)",
+      "title": "Wenn's weh tut zuerst: 1450 Die Rund-um-die-Uhr-Gesundheitsberatung",
+      "url": "https://1450.at/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "atfrauen",
+     "band": "now",
+     "tel": "0800 222 555",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/frauenhelpline",
+     "linkOk": true,
+     "de": {
+      "name": "Frauenhelpline gegen Gewalt",
+      "desc": "Für alle Frauen, die Gewalt erleben oder erlebt haben, und für Menschen aus ihrem Umfeld, die sich Sorgen machen oder Fragen haben. Der Anruf ist kostenlos. Die Beratung ist vertraulich und in verschiedenen Sprachen möglich.",
+      "hours": "Rund um die Uhr (24/7).",
+      "src": {
+       "org": "Bundesministerium für Frauen, Wissenschaft und Forschung (oesterreich.gv.at)",
+       "title": "Frauenhelpline",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/frauenhelpline",
+       "kind": "summary",
+       "upd": "2026-05-13"
+      }
+     },
+     "en": {
+      "name": "Frauenhelpline gegen Gewalt (women's helpline against violence)",
+      "desc": "For all women who experience or have experienced violence, and for people around them who are worried or have questions. The call is free of charge. The advice is confidential and available in several languages.",
+      "hours": "Around the clock (24/7).",
+      "src": {
+       "org": "Bundesministerium für Frauen, Wissenschaft und Forschung (oesterreich.gv.at)",
+       "title": "Frauenhelpline",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/frauenhelpline",
+       "kind": "summary",
+       "upd": "2026-05-13"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Frauen, Wissenschaft und Forschung (oesterreich.gv.at)",
+      "title": "Frauenhelpline",
+      "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/frauenhelpline",
+      "kind": "summary",
+      "upd": "2026-05-13"
+     }
+    },
+    {
+     "id": "atmaenner",
+     "band": "now",
+     "tel": "0800 400 777",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/4/Seite.290800",
+     "linkOk": true,
+     "de": {
+      "name": "Telefonberatung für Männer in Krisen",
+      "desc": "Männer in Krisen bekommen hier kostenlose telefonische Beratung und Unterstützung, auch wenn sie Probleme mit Gewalt haben.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (oesterreich.gv.at)",
+       "title": "Allgemeine Hinweise zur Gewalt an Männern und Handlungsmöglichkeiten für Männer",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/4/Seite.290800",
+       "kind": "summary",
+       "upd": "2026-04-13"
+      }
+     },
+     "en": {
+      "name": "Telefonberatung für Männer in Krisen (phone advice for men in crisis)",
+      "desc": "Men in crisis get free phone advice and support here, including when they have problems with violence.",
+      "hours": "Around the clock.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (oesterreich.gv.at)",
+       "title": "Allgemeine Hinweise zur Gewalt an Männern und Handlungsmöglichkeiten für Männer",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/4/Seite.290800",
+       "kind": "summary",
+       "upd": "2026-04-13"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (oesterreich.gv.at)",
+      "title": "Allgemeine Hinweise zur Gewalt an Männern und Handlungsmöglichkeiten für Männer",
+      "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/4/Seite.290800",
+      "kind": "summary",
+      "upd": "2026-04-13"
+     }
+    },
+    {
+     "id": "athausarzt",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gesundheit.gv.at/gesundheitsleistungen/berufe/gesundheitsberufe-a-z/aerztliche-berufe/allgemeinmediziner.html",
+     "linkOk": false,
+     "de": {
+      "name": "Hausärztin oder Hausarzt (Allgemeinmedizin)",
+      "desc": "Ärztinnen und Ärzte für Allgemeinmedizin sind meist die erste Stelle im Gesundheitssystem, an die man sich wendet, auch bei psychischen Belastungen. Sie können ohne Überweisung direkt dorthin gehen. Kassenärztinnen und Kassenärzte rechnen ihre Leistungen mit der Sozialversicherung ab; je nach Leistung können Selbstbehalte oder weitere Kosten dazukommen. Bei Wahlärztinnen und Wahlärzten zahlen Sie zuerst selbst; für Leistungen der gesetzlichen Krankenversicherung können Sie eine teilweise Rückerstattung beantragen. Sie können dort „Meine Schwierigkeiten“ zeigen.",
+      "hours": "Je nach Ordination.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Ärztin / Arzt für Allgemeinmedizin",
+       "url": "https://www.gesundheit.gv.at/gesundheitsleistungen/berufe/gesundheitsberufe-a-z/aerztliche-berufe/allgemeinmediziner.html",
+       "kind": "fact",
+       "upd": "2026-03-03"
+      }
+     },
+     "en": {
+      "name": "Hausärztin oder Hausarzt (family doctor, GP)",
+      "desc": "Doctors of general medicine are usually the first place people turn to in the health system, including for mental strain. You can go there directly without a referral. Doctors with a contract with the social insurance (Kassenärztinnen und Kassenärzte) bill their services to the social insurance; depending on the service, co-payments or further costs can apply. With private doctors (Wahlärztinnen und Wahlärzte) you first pay yourself; for services covered by statutory health insurance you can apply for a partial refund. There you can show \"My worries\".",
+      "hours": "Depends on the practice.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Ärztin / Arzt für Allgemeinmedizin",
+       "url": "https://www.gesundheit.gv.at/gesundheitsleistungen/berufe/gesundheitsberufe-a-z/aerztliche-berufe/allgemeinmediziner.html",
+       "kind": "fact",
+       "upd": "2026-03-03"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+      "title": "Ärztin / Arzt für Allgemeinmedizin",
+      "url": "https://www.gesundheit.gv.at/gesundheitsleistungen/berufe/gesundheitsberufe-a-z/aerztliche-berufe/allgemeinmediziner.html",
+      "kind": "fact",
+      "upd": "2026-03-03"
+     }
+    },
+    {
+     "id": "atpsyhelp",
+     "band": "day",
+     "tel": "0800 10 02 03",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+     "linkOk": true,
+     "de": {
+      "name": "psyhelp (bundesweite Servicestelle)",
+      "desc": "Seit 2026 gibt es bei der ÖGK klinisch-psychologische Leistungen auf Kassenkosten. Organisiert wird das über die bundesweit einheitliche Servicestelle psyhelp.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Psychosoziale Gesundheit",
+       "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+       "kind": "summary",
+       "upd": "2026-04-08"
+      }
+     },
+     "en": {
+      "name": "psyhelp (nationwide service point)",
+      "desc": "Since 2026, the ÖGK has covered clinical psychology services at the insurance's expense. This is organized through the nationwide, uniform service point psyhelp.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Psychosoziale Gesundheit",
+       "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+       "kind": "summary",
+       "upd": "2026-04-08"
+      }
+     },
+     "src": {
+      "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+      "title": "Psychosoziale Gesundheit",
+      "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+      "kind": "summary",
+      "upd": "2026-04-08"
+     }
+    },
+    {
+     "id": "atpsychother",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.oegk.at/cdscontent/?contentid=10007.870222&portal=oegkportal",
+     "linkOk": false,
+     "de": {
+      "name": "Psychotherapie über die ÖGK",
+      "desc": "Für Versicherte der ÖGK: Bei Vertragspartnerinnen und Vertragspartnern der ÖGK trägt die ÖGK die Kosten, wenn alle Voraussetzungen erfüllt sind. Bei freiberuflich tätigen Psychotherapeutinnen und Psychotherapeuten aus der Liste des Ministeriums zahlen Sie die Rechnung zuerst selbst; sind alle Voraussetzungen erfüllt, gibt es einen Kostenzuschuss. Vor der zweiten Sitzung braucht es eine ärztliche Untersuchung. Für Beratungen bei Problemen in Schule, Familie oder Beruf zahlt die ÖGK nicht.",
+      "hours": "",
+      "src": {
+       "org": "Österreichische Gesundheitskasse (ÖGK)",
+       "title": "Psychotherapie",
+       "url": "https://www.oegk.at/cdscontent/?contentid=10007.870222&portal=oegkportal",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Psychotherapie über die ÖGK (psychotherapy through the ÖGK)",
+      "desc": "For people insured with the ÖGK: with contract partners of the ÖGK, the ÖGK pays the costs if all conditions are met. With self-employed psychotherapists on the ministry's list, you pay the bill first; if all conditions are met, there is a cost subsidy. A medical examination is needed before the second session. The ÖGK does not pay for advice on problems at school, in the family or at work.",
+      "hours": "",
+      "src": {
+       "org": "Österreichische Gesundheitskasse (ÖGK)",
+       "title": "Psychotherapie",
+       "url": "https://www.oegk.at/cdscontent/?contentid=10007.870222&portal=oegkportal",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Österreichische Gesundheitskasse (ÖGK)",
+      "title": "Psychotherapie",
+      "url": "https://www.oegk.at/cdscontent/?contentid=10007.870222&portal=oegkportal",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "atfit2work",
+     "band": "day",
+     "tel": "0800 500 118",
+     "tel2": "",
+     "url": "https://www.sozialministerium.gv.at/Services/Aktuelles/archiv-2026/fit2work.html",
+     "linkOk": false,
+     "de": {
+      "name": "fit2work",
+      "desc": "Beratung für erwerbstätige Menschen mit gesundheitlichen Problemen bei der Arbeit und für Menschen, die nach einem längeren Krankenstand wieder in den Beruf einsteigen. Die Beratung von fit2work ist freiwillig, vertraulich und kostenlos.",
+      "hours": "Montag bis Donnerstag von 8 bis 18 Uhr, Freitag von 8 bis 16 Uhr.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz",
+       "title": "\"Red's dir nicht schön. Red mit uns.\" Neue fit2work-Kampagne setzt auf frühzeitige Unterstützung",
+       "url": "https://www.sozialministerium.gv.at/Services/Aktuelles/archiv-2026/fit2work.html",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "en": {
+      "name": "fit2work",
+      "desc": "Advice for people in work who have health problems at the job, and for people returning to work after a longer period of sick leave. The advice from fit2work is voluntary, confidential and free of charge.",
+      "hours": "Monday to Thursday from 8 am to 6 pm, Friday from 8 am to 4 pm, Austrian time.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz",
+       "title": "\"Red's dir nicht schön. Red mit uns.\" Neue fit2work-Kampagne setzt auf frühzeitige Unterstützung",
+       "url": "https://www.sozialministerium.gv.at/Services/Aktuelles/archiv-2026/fit2work.html",
+       "kind": "fact",
+       "upd": "2026-09-28"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz",
+      "title": "\"Red's dir nicht schön. Red mit uns.\" Neue fit2work-Kampagne setzt auf frühzeitige Unterstützung",
+      "url": "https://www.sozialministerium.gv.at/Services/Aktuelles/archiv-2026/fit2work.html",
+      "kind": "fact",
+      "upd": "2026-09-28"
+     }
+    },
+    {
+     "id": "atlaender",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+     "linkOk": true,
+     "de": {
+      "name": "Krisentelefone in den Bundesländern",
+      "desc": "Auf oesterreich.gv.at finden Sie einen Link zu Krisentelefonnummern, österreichweit und nach Bundesländern gelistet.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Psychosoziale Gesundheit",
+       "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+       "kind": "summary",
+       "upd": "2026-04-08"
+      }
+     },
+     "en": {
+      "name": "Krisentelefone in den Bundesländern (crisis phone lines in the federal states)",
+      "desc": "On oesterreich.gv.at you find a link to crisis phone numbers, listed for all of Austria and by federal state.",
+      "hours": "",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Psychosoziale Gesundheit",
+       "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+       "kind": "summary",
+       "upd": "2026-04-08"
+      }
+     },
+     "src": {
+      "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+      "title": "Psychosoziale Gesundheit",
+      "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+      "kind": "summary",
+      "upd": "2026-04-08"
+     }
+    },
+    {
+     "id": "atgsz",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/Seite.290502",
+     "linkOk": true,
+     "de": {
+      "name": "Gewaltschutzzentren",
+      "desc": "Gewaltschutzzentren unterstützen Menschen, die von häuslicher Gewalt, Gewalt im privaten Umfeld oder Stalking betroffen sind. In jedem Bundesland gibt es ein Gewaltschutzzentrum. Das Angebot ist kostenlos und vertraulich und steht allen Menschen offen, unabhängig von Alter, Geschlecht oder Aufenthaltsstatus.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Frauen, Wissenschaft und Forschung (oesterreich.gv.at)",
+       "title": "Gewaltschutzzentren",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/Seite.290502",
+       "kind": "summary",
+       "upd": "2026-05-13"
+      }
+     },
+     "en": {
+      "name": "Gewaltschutzzentren (violence protection centers)",
+      "desc": "Violence protection centers support people affected by domestic violence, violence in their private surroundings or stalking. There is a violence protection center in every federal state. The service is free of charge and confidential and is open to everyone, regardless of age, gender or residence status.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Frauen, Wissenschaft und Forschung (oesterreich.gv.at)",
+       "title": "Gewaltschutzzentren",
+       "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/Seite.290502",
+       "kind": "summary",
+       "upd": "2026-05-13"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Frauen, Wissenschaft und Forschung (oesterreich.gv.at)",
+      "title": "Gewaltschutzzentren",
+      "url": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/hilfe-bei-gewalt/2/Seite.290501/Seite.290502",
+      "kind": "summary",
+      "upd": "2026-05-13"
+     }
+    },
+    {
+     "id": "atsucht",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gesundheit.gv.at/service/beratungsstellen/krankheiten/abhaengigkeit-sucht/sucht-beratung.html",
+     "linkOk": false,
+     "de": {
+      "name": "Beratungsstellen in den Bundesländern (Suchtfragen, Glücksspiel)",
+      "desc": "Auf dieser Seite finden Sie Links zu Fachstellen für Suchtprävention und Suchtkoordination in den Bundesländern und zu Anlaufstellen bei Glücksspiel.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Abhängigkeit / Sucht: Beratung & Hilfe",
+       "url": "https://www.gesundheit.gv.at/service/beratungsstellen/krankheiten/abhaengigkeit-sucht/sucht-beratung.html",
+       "kind": "fact",
+       "upd": "2026-10-21"
+      }
+     },
+     "en": {
+      "name": "Beratungsstellen in den Bundesländern (questions about addiction, gambling)",
+      "desc": "On this page you find links to specialist offices for addiction prevention and addiction coordination in the federal states, and to contact points for gambling.",
+      "hours": "",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Abhängigkeit / Sucht: Beratung & Hilfe",
+       "url": "https://www.gesundheit.gv.at/service/beratungsstellen/krankheiten/abhaengigkeit-sucht/sucht-beratung.html",
+       "kind": "fact",
+       "upd": "2026-10-21"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+      "title": "Abhängigkeit / Sucht: Beratung & Hilfe",
+      "url": "https://www.gesundheit.gv.at/service/beratungsstellen/krankheiten/abhaengigkeit-sucht/sucht-beratung.html",
+      "kind": "fact",
+      "upd": "2026-10-21"
+     }
+    },
+    {
+     "id": "atess",
+     "band": "day",
+     "tel": "0800 20 11 20",
+     "tel2": "",
+     "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+     "linkOk": false,
+     "de": {
+      "name": "Essstörungs-Hotline",
+      "desc": "Hier bekommen Menschen mit Essstörungen und ihre Angehörigen Beratung und Unterstützung. Die Beratung kostet nichts; es fallen höchstens die üblichen Telefonkosten an.",
+      "hours": "An Werktagen von Montag bis Donnerstag, 12 bis 17 Uhr.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+       "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+       "kind": "fact",
+       "upd": "2024-10-16"
+      }
+     },
+     "en": {
+      "name": "Essstörungs-Hotline (eating disorder hotline)",
+      "desc": "People with eating disorders and their relatives get advice and support here. The advice costs nothing; at most the usual phone charges apply.",
+      "hours": "On working days, Monday to Thursday, 12 noon to 5 pm, Austrian time.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+       "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+       "kind": "fact",
+       "upd": "2024-10-16"
+      }
+     },
+     "src": {
+      "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+      "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+      "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+      "kind": "fact",
+      "upd": "2024-10-16"
+     }
+    },
+    {
+     "id": "atsms",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Gleichstellung/Schlichtung/Schlichtung.de.html",
+     "linkOk": false,
+     "de": {
+      "name": "Sozialministeriumservice: Schlichtung",
+      "desc": "Wenn Sie wegen einer Behinderung benachteiligt werden, können Sie beim Sozialministeriumservice eine Schlichtung beantragen. Die Behinderung müssen Sie dabei glaubhaft machen; einen Behindertenpass brauchen Sie dafür nicht. Das Verfahren ist kostenfrei.",
+      "hours": "",
+      "src": {
+       "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+       "title": "Schlichtung",
+       "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Gleichstellung/Schlichtung/Schlichtung.de.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Sozialministeriumservice: Schlichtung (conciliation procedure)",
+      "desc": "If you are put at a disadvantage because of a disability, you can apply for a conciliation procedure at the Sozialministeriumservice. You have to make it credible that you have a disability; you do not need a disability pass (Behindertenpass) for this. The procedure is free of charge.",
+      "hours": "",
+      "src": {
+       "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+       "title": "Schlichtung",
+       "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Gleichstellung/Schlichtung/Schlichtung.de.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+      "title": "Schlichtung",
+      "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Gleichstellung/Schlichtung/Schlichtung.de.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "atva",
+     "band": "day",
+     "tel": "0800 223 223",
+     "tel2": "",
+     "url": "https://volksanwaltschaft.gv.at/fuer-probleme-mit-behoerden/",
+     "linkOk": false,
+     "de": {
+      "name": "Volksanwaltschaft",
+      "desc": "Wenn Sie meinen, dass eine österreichische Behörde ungerecht vorgegangen ist, können Sie sich an die Volksanwaltschaft wenden, unabhängig von Alter, Nationalität oder Wohnsitz. Die Servicenummer ist kostenlos.",
+      "hours": "Montag bis Freitag, 8 bis 16 Uhr.",
+      "src": {
+       "org": "Volksanwaltschaft",
+       "title": "Hilfestellung bei Problemen mit Behörden",
+       "url": "https://volksanwaltschaft.gv.at/fuer-probleme-mit-behoerden/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Volksanwaltschaft (Austrian Ombudsman Board)",
+      "desc": "If you think that an Austrian authority has acted unfairly, you can turn to the Volksanwaltschaft, regardless of age, nationality or place of residence. The service number is free of charge.",
+      "hours": "Monday to Friday, 8 am to 4 pm, Austrian time.",
+      "src": {
+       "org": "Volksanwaltschaft",
+       "title": "Hilfestellung bei Problemen mit Behörden",
+       "url": "https://volksanwaltschaft.gv.at/fuer-probleme-mit-behoerden/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Volksanwaltschaft",
+      "title": "Hilfestellung bei Problemen mit Behörden",
+      "url": "https://volksanwaltschaft.gv.at/fuer-probleme-mit-behoerden/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "de": {
+    "groups": {
+     "mood": {
+      "label": "Gedrückte Stimmung, keine Kraft",
+      "lead": "Wenn die Stimmung gedrückt bleibt und es schwerfällt, die Kraft für irgendetwas aufzubringen.",
+      "scenes": [
+       "Meine Stimmung bleibt von morgens bis abends gedrückt.",
+       "Was mir früher Freude gemacht hat, macht mir keine Freude mehr.",
+       "Ich habe keine Kraft und kann mich nicht konzentrieren, deshalb bleiben Arbeit und Haushalt liegen.",
+       "Ich mache mir Vorwürfe und sehe alles nur noch schwarz.",
+       "Nachts kann ich nicht schlafen, oder ich schlafe viel zu viel. Mein Appetit hat nachgelassen und mein Körper fühlt sich schwer an.",
+       "Manchmal möchte ich verschwinden oder nicht mehr da sein."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn ich erfahre, was zu tun ist, und zwar immer nur eins nach dem anderen.",
+       "Ich brauche Zeit zum Nachdenken. Es würde mir helfen, wenn ich bei Antworten und Entscheidungen nicht gedrängt werde.",
+       "Es würde mir helfen, wenn ich wichtige Dinge auch schriftlich bekomme.",
+       "Es würde mir helfen, wenn mir zuerst zugehört wird, statt dass ich „Reiß dich zusammen“ oder „Kopf hoch“ höre.",
+       "Es würde mir helfen, wenn Ruhepausen bei mir nicht als Faulheit gesehen werden.",
+       "Ich möchte gemeinsam klären, ob eine körperliche Erkrankung oder ein Medikament, das ich gerade nehme, eine Rolle spielen könnte."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Körperliche Erkrankungen (zum Beispiel nach einem Schlaganfall, Herzinfarkt oder einer Krebserkrankung)",
+        "why": "Auf dieser Seite steht, dass es auch nach einer schweren körperlichen Erkrankung zu einer Depression kommen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Depression: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/depression-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Schilddrüsenunterfunktion",
+        "why": "Auf dieser Seite steht, dass eine Unterfunktion der Schilddrüse Beschwerden machen kann, die einer Depression ähneln.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Depression: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/depression-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Auf dieser Seite steht, dass bei anhaltenden Schlafstörungen neben Müdigkeit am Tag auch Stimmungsschwankungen auftreten können.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Insomnie",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/insomnie.html",
+         "kind": "fact",
+         "upd": "2026-10-23"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Diese Seite beschreibt eine deutlich gedrückte Stimmung, dazu wenig Interesse an Dingen und wenig Kraft für den Alltag.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Depression: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/depression-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Bipolare Störung",
+        "why": "Diese Seite beschreibt Zeiten mit sehr gehobener und Zeiten mit sehr gedrückter Stimmung, die sich abwechseln.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Bipolare Störung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/bipolare-stoerung-symptome.html",
+         "kind": "fact",
+         "upd": "2021-06-11"
+        }
+       },
+       {
+        "name": "Alkoholabhängigkeit",
+        "why": "Auf dieser Seite steht, dass der Zusammenhang in beide Richtungen gehen kann: Alkohol kann die Psyche krank machen, und eine schon bestehende psychische Erkrankung kann zu starkem Trinken beitragen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Alkoholabhängigkeit: Symptome und Ursachen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/alkoholismus/folgen.html",
+         "kind": "fact",
+         "upd": "2022-06-23"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atlaender"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Starke Sorgen oder Anspannung",
+      "lead": "Sorgen, die nicht aufhören, Herzklopfen und Unruhe, Schwierigkeiten vor anderen Menschen oder beim Hinausgehen und Ähnliches.",
+      "scenes": [
+       "Wenn ich vor anderen sprechen muss oder alle auf mich schauen, habe ich so große Angst, dass mein Kopf wie leergefegt ist.",
+       "Mein Herz fängt plötzlich an zu rasen und ich bekomme schlecht Luft. Ich habe Sorge, dass es wieder passiert, und deshalb fällt es mir schwer, das Haus zu verlassen.",
+       "Auch ohne klaren Grund mache ich mir über eine Sache nach der anderen Sorgen, bin unruhig und erschöpft.",
+       "Orte, von denen ich nur schwer wegkomme, halte ich kaum aus, zum Beispiel U-Bahn, Straßenbahn oder Bus, aber auch volle Räume. Ohne Begleitung aus dem Haus zu gehen fällt mir ebenfalls schwer. Deshalb meide ich das.",
+       "Weil ich vermeide, was mir Angst macht, gehe ich an immer weniger Orte und treffe immer weniger Menschen. Mein Leben ist enger geworden.",
+       "Die Sorgen gehen mir nicht aus dem Kopf, und abends kann ich schlecht einschlafen."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn gewartet wird, bis ich spreche, und ich nicht gedrängt werde.",
+       "Es würde mir helfen, wenn ich vorher weiß, wie der Plan und der Ablauf aussehen.",
+       "Es würde mir helfen, wenn ich nicht plötzlich vor anderen nach meiner Meinung gefragt werde und auch schriftlich antworten kann.",
+       "Wenn es mir schlecht geht, würde es mir helfen, kurz hinauszugehen und mich auszuruhen.",
+       "Ich würde lieber an einem ruhigen Ort mit wenigen Menschen sprechen.",
+       "Es würde mir helfen, wenn zuerst angehört wird, was mir schwerfällt, statt dass ich nur höre, dass ich mir zu viele Gedanken mache."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schilddrüsenüberfunktion",
+        "why": "Auf dieser Seite steht, dass bei einer Überfunktion der Schilddrüse unter anderem Nervosität und ein rascher Herzschlag auftreten können.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Hyperthyreose",
+         "url": "https://www.gesundheit.gv.at/lexikon/H/lexikon-hyperthyreose.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Medikamente, Alkohol oder Drogen",
+        "why": "Auf dieser Seite steht, dass bei Ängsten auch darauf geachtet wird, ob Medikamente oder Substanzen wie Alkohol oder Drogen dahinterstecken.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Diese Seite beschreibt Angst und Sorgen, die lange bleiben und sich auf den Alltag und die Zukunft richten. Dazu können innere Anspannung, Schwierigkeiten mit der Konzentration und Schlafprobleme kommen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Panikstörung",
+        "why": "Diese Seite beschreibt plötzlich auftretende, sehr große Angst, eine sogenannte Panikattacke.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Spezifische Phobie",
+        "why": "Auf dieser Seite steht, dass sich bei einer Phobie eine belastende Angst auf etwas Bestimmtes richtet, etwa auf Spinnen oder auf Höhe, auch wenn im Moment keine Gefahr droht.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Phobie",
+         "url": "https://www.gesundheit.gv.at/lexikon/P/lexikon-phobie.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Posttraumatische Belastungsstörung",
+        "why": "Diese Seite beschreibt, dass sich nach einem sehr belastenden oder bedrohlichen Erlebnis eine Reaktion zeigen kann, die erst später einsetzt oder lange andauert.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Posttraumatische Belastungsstörung: Diagnose",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/posttraumatische-belastungsstoerung.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass bei Angststörungen auch eine Depression hinzukommen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atlaender"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Schwer, mit Kontrollieren oder Wiederholen aufzuhören",
+      "lead": "Wenn Sie das Türschloss oder den Herd kontrollieren, sich die Hände waschen oder andere Handlungen immer wieder wiederholen und es schwer ist aufzuhören, obwohl Sie es möchten.",
+      "scenes": [
+       "Wenn ich das Haus verlasse, muss ich das Türschloss oder den Herd immer wieder kontrollieren, sonst kann ich nicht beruhigt gehen.",
+       "Ich wasche mir die Hände oder den Körper immer öfter und kann nicht aufhören, auch wenn ich es möchte.",
+       "Derselbe Sorgengedanke kommt immer wieder, und ich kann nicht aufhören, daran zu denken, obwohl ich es möchte.",
+       "Wenn Dinge nicht so liegen oder in der Reihenfolge ablaufen, wie ich es festgelegt habe, werde ich unruhig und räume um oder fange von vorn an.",
+       "Das Kontrollieren dauert so lange, dass ich zu spät losgehe oder zu spät zu Terminen oder zur Arbeit komme.",
+       "Mein Körper bewegt sich oder ich gebe Laute von mir, ohne es zu wollen, und es fällt mir schwer, das zu stoppen, auch wenn ich es versuche."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn mir zuerst zugehört wird, statt dass ich nur höre, dass ich mir zu viele Gedanken mache.",
+       "Das Kontrollieren kostet mich Zeit. Es würde mir helfen, wenn etwas mehr Zeit eingeplant wird.",
+       "Es würde mir helfen, wenn ich vorher Bescheid bekomme, falls sich Pläne oder Abläufe ändern.",
+       "Wenn ich etwas kontrolliere oder mir die Hände wasche, würde es mir helfen, nicht vor anderen darauf angesprochen zu werden. Ich möchte nicht, dass sich jemand darüber lustig macht.",
+       "Es würde mir helfen, wenn mir Dinge und Anweisungen eins nach dem anderen und auch schriftlich erklärt werden.",
+       "Ich möchte zuerst meine Sorgen erzählen können, bevor wir in Ruhe gemeinsam entscheiden, wie es weitergeht."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Zwangsstörung",
+        "why": "Diese Seite beschreibt einen sehr starken inneren Druck, bestimmte Handlungen oder Gedanken immer wieder zu wiederholen, der sich kaum steuern lässt.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Auf dieser Seite wird die generalisierte Angststörung, bei der sich große Sorgen um viele Dinge drehen, als Beispiel für eine Erkrankung genannt, die einer Zwangsstörung stark ähneln kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass eine Zwangsstörung zusammen mit einer Depression auftreten kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        }
+       },
+       {
+        "name": "Ticstörung, Tourette-Syndrom",
+        "why": "Diese Seite beschreibt Tics als ungewöhnliche Bewegungen oder Laute, die mehr sind als eine bloße Angewohnheit. Beim Tourette-Syndrom kommen Tics als Bewegungen und als Laute zusammen vor.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Ticstörungen & Tourette-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/tics-tourette-Syndrom.html",
+         "kind": "fact",
+         "upd": "2022-10-27"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Auf dieser Seite steht, dass bei Autismus Verhaltensweisen oder Bewegungen immer wieder gleich ablaufen können und dass sich die Interessen auf wenige Themen beschränken können.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Autismus und Asperger-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/autismus-asperger.html",
+         "kind": "fact",
+         "upd": "2022-05-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Schwierigkeiten, die nach einem belastenden Erlebnis anhalten",
+      "lead": "Erinnerungen, die immer wiederkommen, schlechter Schlaf oder eine Anspannung, die nach einem belastenden Erlebnis nicht nachlässt.",
+      "scenes": [
+       "Ein kleiner Anlass genügt, und die schlimme Szene und meine Gefühle von damals sind plötzlich wieder da.",
+       "Ich habe immer wieder ähnliche Albträume und schlafe in vielen Nächten nicht tief.",
+       "Ich stehe ständig unter Strom, und schon ein kleines Geräusch lässt mich zusammenzucken.",
+       "Ich meide nach Möglichkeit Orte, Menschen und Themen, die mich an damals erinnern, zum Beispiel bestimmte Straßen oder den Bus, und mein Alltag ist dadurch enger geworden.",
+       "Ich fühle mich innerlich wie taub und kann meiner Familie und meinem Freundeskreis nicht mehr so zugewandt sein wie früher.",
+       "Ich gebe mir immer häufiger die Schuld, oder es fällt mir schwerer, den Menschen um mich herum zu vertrauen."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn Sie nicht nach jedem Detail dessen fragen, was geschehen ist. Ich möchte in meinem eigenen Tempo erzählen, nur so viel, wie ich kann.",
+       "Bestimmte Geräusche, Orte und Themen bringen alles wieder hoch. Wenn ich sage, dass ich sie lieber meiden möchte, würde es mir helfen, wenn Sie das annehmen.",
+       "Es würde mir helfen, wenn Sie mich nicht plötzlich von hinten ansprechen und in meiner Nähe keine lauten Geräusche machen.",
+       "Wenn mir das Sprechen zu schwerfällt, würde es mir helfen, Ihnen etwas Geschriebenes geben zu dürfen.",
+       "Es würde mir helfen, wenn Sie Tage, an denen ich nicht schlafen kann oder die Erschöpfung bleibt, nicht für Faulheit halten.",
+       "Ich wünsche mir einen Ort, an dem ich mich sicher fühle und in Ruhe sprechen kann, und keine Sätze wie „Denk einfach nicht mehr daran“ oder „Das ist doch schon lang her“."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schlafstörungen, Albträume",
+        "why": "Auf dieser Seite steht, dass nach außergewöhnlichen Belastungen Schlafstörungen und Albträume auftreten können.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Posttraumatische Belastungsstörung",
+        "why": "Auf dieser Seite steht, dass eine schwere Belastung oder Bedrohung auch verzögert oder über längere Zeit nachwirken kann. Dabei kann sich das Erlebte immer wieder aufdrängen, und manche Situationen werden gemieden.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Posttraumatische Belastungsstörung: Diagnose",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/posttraumatische-belastungsstoerung.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Akute Belastungsreaktion",
+        "why": "Auf dieser Seite steht, dass es nach einem außergewöhnlich belastenden Ereignis zu einer Reaktion kommen kann, die meist sehr bald danach beginnt und nicht lange anhält.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Anpassungsstörung",
+        "why": "Auf dieser Seite steht, dass man eine vorübergehende Reaktion, etwa mit gedrückter Stimmung oder Angst, nach einem belastenden, aber nicht traumatischen Ereignis Anpassungsstörung nennt.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Depression, Angststörungen",
+        "why": "Auf dieser Seite steht, dass sich nach einem seelischen Trauma auch eine Depression oder eine Angststörung entwickeln kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atlaender",
+       "atgsz"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Schwierigkeiten mit dem Schlaf",
+      "lead": "Schwer einschlafen, nachts aufwachen, morgens schwer aufstehen oder tagsüber stark schläfrig sein.",
+      "scenes": [
+       "Auch wenn ich schon im Bett liege, schlafe ich nur schwer ein.",
+       "Ich wache nachts mehrmals auf und schlafe bis zum Morgen nie richtig durch.",
+       "Zur gewohnten Zeit komme ich morgens nicht aus dem Bett und schaffe es immer wieder nicht rechtzeitig in die Arbeit, in die Schule oder in den Lehrbetrieb.",
+       "Tagsüber überfällt mich starke Schläfrigkeit, und bei Besprechungen oder am Steuer döse ich beinahe ein.",
+       "Meine Familie sagt mir, dass ich laut schnarche und dass meine Atmung im Schlaf manchmal auszusetzen scheint.",
+       "Am Abend und in der Nacht fühlen sich meine Beine unangenehm an, ich komme nicht zur Ruhe und kann nicht schlafen."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn Sie sich in Ruhe anhören, wie es mit meinem Schlaf steht: Einschlafen, Aufwachen in der Nacht, Schwierigkeiten beim Aufstehen am Morgen und Schläfrigkeit am Tag.",
+       "Es würde mir helfen, wenn wir gemeinsam überlegen, was eine Rolle spielen kann, auch die Medikamente, die ich nehme, und meine Gewohnheiten mit Kaffee, Alkohol und Zigaretten.",
+       "Ich möchte nicht, dass mein Schlaf als „reine Kopfsache“ abgetan wird. Es würde mir helfen, wenn Sie auch auf meine körperliche Gesundheit und meine Stimmung schauen.",
+       "Ich möchte Ihnen meine Schlafzeiten mit einer Aufzeichnung zeigen, in der steht, wann ich ins Bett gegangen und wann ich aufgestanden bin. Es würde mir helfen, wenn Sie sich diese ansehen.",
+       "Falls mir ein Medikament angeboten wird, würde es mir helfen, wenn Sie mir in einfachen Worten erklären, wie es wirkt und worauf ich achten muss.",
+       "Morgens fällt mir vieles schwer. Wenn möglich, würde es mir helfen, einen Termin am Nachmittag oder am frühen Abend zu bekommen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstruktive Schlafapnoe",
+        "why": "Diese Seite beschreibt flache Atmung und Atemaussetzer im Schlaf, nach denen der Schlaf deutlich weniger erholsam ist.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Obstruktive Schlafapnoe",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/obstruktive-schlafapnoe.html",
+         "kind": "fact",
+         "upd": "2026-09-22"
+        }
+       },
+       {
+        "name": "Restless-Legs-Syndrom",
+        "why": "Diese Seite beschreibt einen Drang, die Beine zu bewegen, vor allem abends, nachts oder in Ruhe, der das Einschlafen stark stören kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Restless-Legs-Syndrom (RLS)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/restless-legs-syndrom.html",
+         "kind": "fact",
+         "upd": "2026-09-22"
+        }
+       },
+       {
+        "name": "Schicht- und Nachtarbeit (Schlaf-Wach-Rhythmus)",
+        "why": "Auf dieser Seite steht, dass sich der Schlaf-Wach-Rhythmus bei Wechsel- oder Nachtschichten nur teilweise anpasst und dass das den Körper belastet.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Belastende Schicht- und Nachtarbeit",
+         "url": "https://www.gesundheit.gv.at/leben/lebenswelt/beruf/arbeitsplatz/schichtachtarbeit.html",
+         "kind": "fact",
+         "upd": "2021-05-11"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Diese Seite beschreibt Probleme beim Einschlafen oder Durchschlafen oder frühes Erwachen, nach denen der Schlaf nicht erholsam ist.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Insomnie",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/insomnie.html",
+         "kind": "fact",
+         "upd": "2026-10-23"
+        }
+       },
+       {
+        "name": "Albträume",
+        "why": "Auf dieser Seite steht, dass sich häufige Albträume auf das Befinden und auf den Schlaf auswirken können.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Albträume",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/albtraeume.html",
+         "kind": "fact",
+         "upd": "2021-11-04"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Schwierigkeiten mit dem Essen",
+      "lead": "Wenn Essen schwerfällt: wenig essen können, nicht mehr aufhören können oder Angst vor dem Essen haben.",
+      "scenes": [
+       "Ich habe keine Lust zu essen, und seit einigen Tagen bekomme ich kaum etwas hinunter.",
+       "Wenn ich einmal angefangen habe zu essen, kann ich nicht mehr aufhören, und manchmal esse ich so viel, dass es wehtut.",
+       "Ohne es zu wollen, denke ich nur noch ans Essen, und es fällt mir schwer, mich auf etwas anderes zu konzentrieren.",
+       "Ich kann nur sehr wenige Lebensmittel essen und meide viele wegen ihres Geschmacks, ihres Geruchs oder ihrer Konsistenz.",
+       "Nachdem ich mich an einem Bissen verschluckt habe oder erbrechen musste, habe ich Angst vor dem Essen bekommen.",
+       "Nachts esse ich manchmal halb im Schlaf, und am Morgen weiß ich nichts mehr davon."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn Sie keine Bemerkungen zu meinem Körper oder meinem Aussehen machen.",
+       "Es würde mir helfen, wenn Sie mich nicht zum Essen drängen und mich beim Essen nicht unter Druck setzen.",
+       "Wenn alle gemeinsam essen, würde es mir helfen, einen anderen Ort oder eine andere Zeit wählen zu dürfen.",
+       "Es würde mir helfen, wenn Sie mich zuerst fragen, was ich essen kann und welche Gerüche oder Konsistenzen mir schwerfallen.",
+       "Es würde mir helfen, wenn Sie mir vorher erklären, wie die körperliche Untersuchung und die weiteren Untersuchungen ablaufen.",
+       "Ich möchte Ihnen aufschreiben dürfen, was ich nur schwer laut sagen kann."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Funktionelle Dyspepsie (Reizmagen)",
+        "why": "Diese Seite beschreibt wiederkehrende Beschwerden und Schmerzen im Oberbauch, für die keine eindeutige organische Ursache gefunden wird.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Funktionelle Dyspepsie (Reizmagen)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/verdauung/dyspepsie.html",
+         "kind": "fact",
+         "upd": "2025-11-03"
+        }
+       },
+       {
+        "name": "Körperliche Erkrankungen",
+        "why": "Auf dieser Seite steht, dass Ärztinnen und Ärzte bei Gewichtsverlust auch körperlich untersuchen und andere Erkrankungen als Ursache ausschließen, bevor von Magersucht gesprochen wird.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Anorexie (Magersucht)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/magersucht-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2022-04-13"
+        }
+       },
+       {
+        "name": "Essstörungen (Magersucht, Bulimie, Binge-Eating-Störung)",
+        "why": "Diese Seite beschreibt, dass bei einer Essstörung Essen und Gewicht zum Mittelpunkt des Denkens und Handelns werden können, etwa mit starkem Einschränken des Essens oder mit Essanfällen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Essstörung: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/was-ist-das.html",
+         "kind": "fact",
+         "upd": "2022-04-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass bei Menschen mit einer Essstörung öfter auch eine Depression dazukommt, ebenso Angst- oder Zwangserkrankungen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Essstörung: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/was-ist-das.html",
+         "kind": "fact",
+         "upd": "2022-04-13"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atess",
+       "atpsyhelp"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Schwer, mit Alkohol, Glücksspiel oder Videospielen aufzuhören",
+      "lead": "Wenn Sie aufhören oder weniger machen möchten, aber trotzdem weitermachen.",
+      "scenes": [
+       "Ich nehme mir vor, aufzuhören oder weniger zu machen, merke dann aber, dass ich trotzdem weitermache.",
+       "Ich schaffe es nicht, mich an die Zeit, die Menge oder das Geld zu halten, die ich mir für den Tag vorgenommen habe.",
+       "Ich verberge das Trinken, die Videospiele oder das Glücksspiel vor Menschen, die mir nahestehen, oder ich rede es schön.",
+       "Ich spiele oft bis tief in die Nacht Videospiele, komme morgens nicht aus dem Bett, und es kommt immer öfter vor, dass ich zu spät komme oder in der Arbeit oder in der Schule fehle.",
+       "Wenn ich verliere, will ich das Geld unbedingt zurückgewinnen und setze deshalb noch einmal, zum Beispiel an Spielautomaten oder bei Sportwetten.",
+       "Obwohl ich weiß, dass es meinem Körper nicht guttut, schaffe ich es nicht, weniger zu trinken."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn Sie mir zuerst zuhören, ohne mir Vorwürfe zu machen oder über mich zu urteilen.",
+       "Es würde mir helfen, wenn wir gemeinsam Schritt für Schritt durchgehen, wie meine Gewohnheiten aussehen und welche Schwierigkeiten sie mir machen.",
+       "Es würde mir helfen, wenn Sie sich auch meinen Schlaf und meine körperliche Gesundheit ansehen.",
+       "Ich möchte konkret erfahren, wo ich Hilfe bekommen kann und wohin ich gehen kann.",
+       "Es würde mir helfen, zu wissen, ob meine Familie oder eine mir nahestehende Person zum Gespräch mitkommen kann.",
+       "Es würde mir helfen, vorab zu erfahren, wem Sie weitergeben, was ich Ihnen erzähle, und wie viel davon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alkoholische Fettleber",
+        "why": "Auf dieser Seite wird eine Form der Fettleber beschrieben, die mit Alkohol zusammenhängt.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Fettleber",
+         "url": "https://www.gesundheit.gv.at/lexikon/F/lexikon-fettleber.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alkoholabhängigkeit",
+        "why": "Auf dieser Seite steht, dass psychische Erkrankungen und viel Alkohol häufig zusammen vorkommen und dass das eine zum anderen führen kann, in beide Richtungen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Alkoholabhängigkeit: Symptome und Ursachen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/alkoholismus/folgen.html",
+         "kind": "fact",
+         "upd": "2022-06-23"
+        }
+       },
+       {
+        "name": "Medikamentenabhängigkeit",
+        "why": "Auf dieser Seite steht, dass Medikamente bei einem Missbrauch meist genommen werden, um sich anders zu fühlen, etwa weniger ängstlich oder angespannt, und dass das zu einer Abhängigkeit führen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Von Medikamenten abhängig",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/medikamentensucht/von-medikamenten-abhaengig.html",
+         "kind": "fact",
+         "upd": "2020-12-21"
+        }
+       },
+       {
+        "name": "Glücksspielsucht",
+        "why": "Diese Seite beschreibt, dass es schwerfallen kann, dem Glücksspiel zu widerstehen, zum Beispiel an Automaten, im Casino oder online.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Glücksspielsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/gluecksspielsucht.html",
+         "kind": "fact",
+         "upd": "2022-10-06"
+        }
+       },
+       {
+        "name": "Internetnutzungsstörung",
+        "why": "Auf dieser Seite steht, dass Fachleute ein Verhalten im Internet, das sich nicht mehr steuern lässt, etwa beim Online-Spielen, beim Online-Shoppen oder in sozialen Netzwerken, Internetnutzungsstörung nennen. Im Alltag ist oft von „Internetsucht“ die Rede.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Internetsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/internetsucht.html",
+         "kind": "fact",
+         "upd": "2026-10-21"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass Depressionen nach Annahme der Forschung zu den Einflüssen gehören können, aus denen eine Internetnutzungsstörung entsteht. Oft kommen beide auch zusammen vor.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Internetsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/internetsucht.html",
+         "kind": "fact",
+         "upd": "2026-10-21"
+        }
+       },
+       {
+        "name": "ADHS",
+        "why": "Auf dieser Seite steht, dass nach Annahme der Forschung auch ADHS dazu beitragen kann, dass sich eine Internetnutzungsstörung entwickelt.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Internetsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/internetsucht.html",
+         "kind": "fact",
+         "upd": "2026-10-21"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atsucht",
+       "atpsyhelp"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Schwierigkeiten mit Aufmerksamkeit und Planung",
+      "lead": "Schwierigkeiten, sich zu konzentrieren, Schritt für Schritt voranzukommen oder sich Dinge zu merken.",
+      "scenes": [
+       "Selbst wenn mir jemand etwas erzählt, sind meine Gedanken plötzlich woanders, ohne dass ich es merke.",
+       "Ich schaffe es nicht, die Arbeit, die Lehre oder den Haushalt der Reihe nach zu erledigen, und versäume Fristen.",
+       "Ich vergesse häufig, worum man mich gebeten hat oder was ich versprochen habe, oder ich verlege Dinge.",
+       "Wenn ich lange dieselbe Aufgabe mache, passieren mir immer mehr Flüchtigkeitsfehler.",
+       "Wenn ich lange still sitzen muss, zum Beispiel in einer Besprechung oder in der U-Bahn, werde ich unruhig und zappelig.",
+       "Menschen in meinem Umfeld sagen mir, dass ich oft etwas vergesse oder zu spät komme."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn mir Anweisungen einzeln, eine nach der anderen, gegeben werden.",
+       "Es würde mir helfen, wenn wichtige Informationen aufgeschrieben und mir schriftlich mitgegeben werden.",
+       "Es würde mir helfen, wenn ich Fristen und Termine möglichst früh erfahre.",
+       "Es würde mir helfen, wenn ich nicht zu viele Aufgaben auf einmal bekomme, sondern sie in kleine Schritte aufgeteilt werden.",
+       "Ich würde gern an einem ruhigen Ort sprechen, an dem ich wenig abgelenkt werde.",
+       "Es würde mir helfen, wenn mir nicht vorgeworfen wird, was nicht geklappt hat, sondern wenn auch gesehen wird, was ich geschafft habe."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstruktive Schlafapnoe",
+        "why": "Auf dieser Seite steht, dass neben Atemaussetzern im Schlaf auch die Konzentration nachlassen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Obstruktive Schlafapnoe",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/obstruktive-schlafapnoe.html",
+         "kind": "fact",
+         "upd": "2026-09-22"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Auf dieser Seite steht, dass schlechter, nicht erholsamer Schlaf auch die Konzentration am Tag beeinträchtigen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Insomnie",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/insomnie.html",
+         "kind": "fact",
+         "upd": "2026-10-23"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Auf dieser Seite steht, dass bei dieser Angststörung neben anhaltenden Sorgen auch Probleme mit der Konzentration auftreten können.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "ADHS bei Erwachsenen",
+        "why": "Auf dieser Seite steht, dass Erwachsene mit ADHS vor allem im Alltag Schwierigkeiten haben, etwa beim Organisieren der Arbeit, bei der Zeiteinteilung und bei der Konzentration, und dass Vergesslichkeit dazukommen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "ADHS bei Erwachsenen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/adhs-erwachsene.html",
+         "kind": "fact",
+         "upd": "2025-12-17"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Auf dieser Seite steht, dass Erwachsene mit Asperger-Syndrom im Alltag Mühe haben können, Wichtiges und weniger Wichtiges auseinanderzuhalten.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Autismus und Asperger-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/autismus-asperger.html",
+         "kind": "fact",
+         "upd": "2022-05-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atfit2work",
+       "atsms"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Schwierigkeiten mit anderen Menschen, festen Gewohnheiten und Sinneseindrücken",
+      "lead": "Schwierigkeiten, mit anderen zu sprechen oder zusammen zu sein, ein starkes Bedürfnis, Dinge auf eine bestimmte Art zu tun, oder Geräusche, Licht und Gerüche, die schwer auszuhalten sind.",
+      "scenes": [
+       "In einem Gespräch fällt es mir schwer, zu erfassen, was mein Gegenüber fühlt oder wie die Stimmung im Raum ist, und ich habe oft den Eindruck, dass wir aneinander vorbeireden.",
+       "Wenn ich vor anderen sprechen muss oder alle Blicke auf mich gerichtet sind, werde ich sehr angespannt und gehe solchen Situationen aus dem Weg.",
+       "Mit Menschen, die mir nahestehen, kann ich sprechen, aber vor anderen bringe ich keinen Ton heraus.",
+       "Wenn sich mein gewohntes Vorgehen, die Reihenfolge der Schritte oder der Platz meiner Sachen ändert, löst das bei mir starke Unruhe aus.",
+       "Geräusche, Licht und Gerüche nehme ich sehr stark wahr, und Orte mit vielen Menschen, etwa die U-Bahn oder ein Lokal, sind für mich schwer auszuhalten.",
+       "Ich kann schlecht hören, was andere sagen, oder meine Stimmung ist gedrückt, und es fällt mir inzwischen schwer, Menschen zu treffen oder mit ihnen zu sprechen."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn langsam und deutlich mit mir gesprochen wird.",
+       "Es würde mir helfen, wenn wichtige Dinge für mich aufgeschrieben werden.",
+       "Ich würde gern an einem ruhigen Ort sprechen.",
+       "Es würde mir helfen, wenn mir vorher Bescheid gesagt wird, sobald sich Pläne oder Abläufe ändern.",
+       "Es würde mir helfen, wenn ich nicht gedrängt werde und Zeit zum Antworten bekomme.",
+       "Ich würde gern schriftlich oder mit einer kurzen Notiz antworten, statt zu sprechen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schwerhörigkeit",
+        "why": "Auf dieser Seite steht, dass eine dauerhafte Schwerhörigkeit große Folgen für das seelische Befinden und das Zusammensein mit anderen haben kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Schwerhörigkeit: Formen & Symptome",
+         "url": "https://www.gesundheit.gv.at/krankheiten/hno/ohrenerkrankungen/formen-symptome.html",
+         "kind": "fact",
+         "upd": "2019-09-24"
+        }
+       },
+       {
+        "name": "Tinnitus",
+        "why": "Auf dieser Seite steht, dass Ohrgeräusche manche Menschen sehr stark belasten und in schweren Fällen dazu führen können, dass sie immer mehr vereinsamen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Tinnitus: Ursachen & Symptome",
+         "url": "https://www.gesundheit.gv.at/krankheiten/hno/ohrenerkrankungen/ursachen-symptome.html",
+         "kind": "fact",
+         "upd": "2019-12-11"
+        }
+       },
+       {
+        "name": "Soziale Phobie (Sozialphobie)",
+        "why": "Diese Seite beschreibt große Angst vor Begegnungen mit anderen Menschen, die dazu führen kann, dass man solchen Situationen auszuweichen versucht.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Mutismus",
+        "why": "Auf dieser Seite steht, dass bei Mutismus die Fähigkeit zu sprechen vorhanden ist und trotzdem überhaupt nicht oder nur in manchen Situationen gesprochen wird.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Mutismus",
+         "url": "https://www.gesundheit.gv.at/lexikon/M/lexikon-mutismus.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Diese Seite beschreibt vor allem Schwierigkeiten bei der Verständigung und im Umgang mit anderen Menschen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Autismus und Asperger-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/autismus-asperger.html",
+         "kind": "fact",
+         "upd": "2022-05-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atsms"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Schwierigkeiten mit Lesen, Schreiben oder Rechnen",
+      "lead": "Wenn Lesen, Schreiben oder der Umgang mit Zahlen trotz Mühe schwer bleibt.",
+      "scenes": [
+       "Ich brauche länger als andere, um einen Text zu lesen, und muss ihn oft mehrmals lesen.",
+       "Auch nach dem Lesen kommt der Inhalt bei mir nicht an, und es fällt mir schwer zu verstehen, was in Unterlagen, Formularen oder Briefen vom Amt steht.",
+       "Mit der Rechtschreibung habe ich Mühe: Ich mache viele Fehler oder vergesse beim Schreiben Buchstaben oder Wörter.",
+       "Meine Handschrift ist unregelmäßig, und Schreiben kostet mich viel Zeit und Kraft.",
+       "Bei einfachen Rechnungen und bei Textaufgaben komme ich nicht weiter.",
+       "Ich kann ohne Schwierigkeiten sprechen und zuhören, aber beim Lesen, Schreiben oder Rechnen komme ich nicht so voran, wie ich möchte, auch wenn ich mir viel Zeit nehme."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn mir Texte in großer Schrift und mit weitem Zeilenabstand gezeigt und wichtige Dinge in einfachen Worten oder in Leichter Sprache erklärt werden.",
+       "Es würde mir helfen, wenn wichtige Inhalte laut vorgelesen oder mündlich gesagt werden.",
+       "Es würde mir helfen, wenn ich, statt mit der Hand zu schreiben, am Computer oder Handy tippen oder etwas mit Fotos oder Sprachaufnahmen festhalten darf.",
+       "Es würde mir helfen, wenn ich beim Rechnen einen Taschenrechner verwenden darf.",
+       "Es würde mir helfen, wenn ich mehr Zeit zum Lesen, Schreiben und Rechnen bekomme.",
+       "Es würde mir helfen, wenn ich nicht alles auf einmal bekomme, sondern eins nach dem anderen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alterssichtigkeit (Presbyopie)",
+        "why": "Auf dieser Seite steht, dass eine Alterssichtigkeit meist beim Lesen bemerkt wird, wenn man einen Text weiter von sich weghalten muss, damit die Schrift deutlich wird.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Alterssichtigkeit",
+         "url": "https://www.gesundheit.gv.at/krankheiten/augen/fehlsichtigkeit/alterssichtigkeit-presbyopie.html",
+         "kind": "fact",
+         "upd": "2022-10-10"
+        }
+       },
+       {
+        "name": "Astigmatismus (Hornhautverkrümmung)",
+        "why": "Auf dieser Seite steht, dass eine Hornhautverkrümmung das scharfe Sehen in der Ferne und in der Nähe, zum Beispiel beim Lesen, erschweren kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Astigmatismus",
+         "url": "https://www.gesundheit.gv.at/krankheiten/augen/fehlsichtigkeit/astigmatismus-hornhautverkruemmung.html",
+         "kind": "fact",
+         "upd": "2022-10-10"
+        }
+       },
+       {
+        "name": "Lernschwäche (Lese-Rechtschreib-Schwäche, Rechenschwäche)",
+        "why": "Auf dieser Seite steht, dass eine Lernschwäche dahinterstecken kann, wenn das Lernen von Lesen, Schreiben oder Rechnen schwerfällt, und dass sie auch die spätere berufliche Entwicklung beeinflussen kann.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Lernen & Lernschwäche",
+         "url": "https://www.gesundheit.gv.at/leben/lebenswelt/schule/lernen.html",
+         "kind": "fact",
+         "upd": "2025-10-23"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atsms"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Starke Stimmungsschwankungen",
+      "lead": "Wenn die Stimmung stark auf und ab geht und es schwer ist, mit den eigenen Gefühlen Schritt zu halten.",
+      "scenes": [
+       "Zeiten, in denen ich viel zu viel Energie habe, wechseln sich mit Zeiten ab, in denen ich so niedergedrückt bin, dass ich mich kaum bewegen kann.",
+       "Es gibt Zeiten, in denen ich kaum schlafe und trotzdem voller Energie und ständig in Bewegung bin.",
+       "Mir fällt eine Idee nach der anderen ein, und alles bleibt halb fertig.",
+       "In einer übermütigen Stimmung habe ich schon einmal so viel Geld ausgegeben, dass ich später deswegen in Schwierigkeiten geraten bin.",
+       "Schon bei Kleinigkeiten werde ich gereizt, und es fällt mir schwer, meine Gefühle im Griff zu behalten.",
+       "Was ich getan habe, als meine Stimmung sehr hoch war, hat sich auf meine Beziehungen oder meine Arbeit ausgewirkt."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn auch nach den Zeiten gefragt wird, in denen es mir ungewöhnlich gut ging und ich ungewöhnlich viel Energie hatte.",
+       "Es würde mir helfen, wenn man sich Zeit nimmt, mein Auf und Ab gemeinsam mit mir durchzugehen.",
+       "Es würde mir helfen, wenn ich vor großen Entscheidungen über Geld oder Arbeit Unterstützung beim Innehalten und Nachdenken bekomme.",
+       "Es würde mir helfen, wenn auch nach körperlichen Ursachen geschaut wird, Schlaf, Medikamente und Alkohol eingeschlossen.",
+       "Es würde mir helfen, wenn mir gesagt wird, dass ich anders wirke als sonst, ohne dass mir Vorwürfe gemacht werden.",
+       "Es würde mir helfen, wenn mir bis zum Ende zugehört wird, sowohl wenn es mir gut geht als auch wenn ich niedergedrückt bin."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Prämenstruelles Syndrom (PMS), prämenstruelle dysphorische Störung (PMSD)",
+        "why": "Diese Seite beschreibt Beschwerden in den Tagen vor der Regelblutung, darunter Traurigkeit und eine schwankende Stimmung, und nennt die prämenstruelle dysphorische Störung als sehr ausgeprägte Form davon.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sexualorgane/weibliche-hormone-zyklus/pms.html",
+         "kind": "fact",
+         "upd": "2021-10-07"
+        }
+       },
+       {
+        "name": "Wechseljahre",
+        "why": "Auf dieser Seite steht, dass in den Wechseljahren eine schwankende Stimmung, Hitzewallungen oder schlechter Schlaf vorkommen können und dass solche Beschwerden nicht immer von den Wechseljahren kommen.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Wechseljahre",
+         "url": "https://www.gesundheit.gv.at/leben/frauengesundheit/wechseljahre.html",
+         "kind": "fact",
+         "upd": "2026-11-09"
+        }
+       },
+       {
+        "name": "Bipolare Störung",
+        "why": "Diese Seite beschreibt eine Stimmung, die zwischen sehr gehobenen und sehr gedrückten Phasen hin und her geht.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Bipolare Störung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/bipolare-stoerung-symptome.html",
+         "kind": "fact",
+         "upd": "2021-06-11"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass eine bipolare Störung von einer Depression, die für sich allein auftritt, unterschieden wird.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Bipolare Störung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/bipolare-stoerung-symptome.html",
+         "kind": "fact",
+         "upd": "2021-06-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atlaender"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Wer einen Namen kennt, sieht in alltäglichen Schwankungen leichter ein Symptom",
+       "body": "Wer den Namen einer Erkrankung oder einer Entwicklungsstörung kennt, bei dem kann eine kleine Müdigkeit oder ein Moment der Unaufmerksamkeit leichter wie ein Symptom aussehen.\n\nGefühle können tatsächlich verändern, wie sich Körper und Stimmung anfühlen. Das ist keine Einbildung, das geschieht wirklich. Auch Schlafmangel, Stress, die Handynutzung oder das, was um einen herum geschieht, können Ähnliches bewirken.\n\nWenn Sie beim Lesen eines Namens denken: „Das könnte es sein“, bleiben Sie nicht gleich dabei stehen, sondern denken Sie auch an andere Gründe. Wenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, auch ohne einen Namen.",
+       "srcs": []
+      },
+      {
+       "h": "Sorgen, Schwankungen und der Wunsch, noch einmal nachzusehen: Einen Namen zu vergeben, ist Sache von Fachleuten",
+       "body": "Vielleicht kennen Sie das: Sie sehen noch einmal nach, ob die Kaffeemaschine wirklich ausgeschaltet ist, bevor Sie das Haus verlassen.\n\nAuf oesterreich.gv.at heißt es: „Krisen sind keine Krankheit. Wenn ein Mensch in einer Krise steckt, haben sich Belastungen zugespitzt, die er allein zunächst nicht mehr meistern kann.“\n\nEinen Namen für Beschwerden zu vergeben, ist Sache von Fachleuten, etwa von Ärztinnen und Ärzten. Sie achten dabei auch darauf, ob eine körperliche Erkrankung hinter ähnlichen Beschwerden stecken kann.\n\nWenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, welcher Name es auch sein mag.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        },
+        {
+         "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+         "title": "Psychosoziale Gesundheit",
+         "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+         "kind": "quote",
+         "upd": "2026-04-08"
+        },
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       ]
+      },
+      {
+       "h": "Auch ohne den Namen einer Krankheit können Sie über Ihre Schwierigkeiten sprechen",
+       "body": "Die Telefonseelsorge 142 ist rund um die Uhr erreichbar. Wer in einer schwierigen Lebenslage oder in einer Krise ist, kann dort vertraulich sprechen. Die Gesundheitsberatung 1450 ist ebenfalls rund um die Uhr erreichbar; sie berät bei gesundheitlichen Problemen und nennt Stellen, an die man sich wenden kann.\n\nEine Psychotherapie können Sie grundsätzlich ohne ärztliche Überweisung direkt beginnen. Damit die Sozialversicherung die Kosten übernimmt oder einen Zuschuss zahlt, braucht es in der Regel eine psychische Störung mit Krankheitswert und eine ärztliche Bestätigung. Für reine Beratung übernimmt sie keine Kosten.\n\nIm Arbeitsleben verbietet das Behinderteneinstellungsgesetz, Menschen wegen einer Behinderung zu diskriminieren. Ein festgestellter Grad der Behinderung ist dafür nicht nötig (§ 7b Abs. 4 BEinstG).\n\nFür eine Schlichtung beim Sozialministeriumservice muss eine Behinderung glaubhaft gemacht werden; ein Behindertenpass ist dafür nicht nötig. Das Verfahren ist kostenfrei.\n\nWas Sie sich wünschen und was möglich ist, hängt von der Situation und von der anderen Seite ab. Das wird im Gespräch geklärt.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+         "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+         "kind": "fact",
+         "upd": "2024-10-16"
+        },
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Psychotherapie",
+         "url": "https://www.gesundheit.gv.at/gesundheitsleistungen/berufe/gesundheitsberufe-a-z/psychotherapie/psychotherapeut.html",
+         "kind": "fact",
+         "upd": "2026-03-03"
+        },
+        {
+         "org": "Bundeskanzleramt (Rechtsinformationssystem des Bundes, RIS)",
+         "title": "Behinderteneinstellungsgesetz (BEinstG) § 7b",
+         "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40151328/NOR40151328.html",
+         "kind": "summary",
+         "upd": "2023-10-09"
+        },
+        {
+         "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+         "title": "Schlichtung",
+         "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Gleichstellung/Schlichtung/Schlichtung.de.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Für manche Leistungen werden aber ärztliche Unterlagen verlangt",
+       "body": "Für manche Leistungen sind ärztliche Unterlagen nötig. Was genau verlangt wird, hängt von der Leistung ab.\n\nWer krank ist und nicht arbeiten kann, muss die Arbeitgeberin oder den Arbeitgeber sofort über die Arbeitsunfähigkeit informieren. Als Beginn gilt in der Regel der Tag, den die Ärztin oder der Arzt festgestellt hat.\n\nMit der Ursache der Arbeitsunfähigkeit, die in der Krankenstandsbestätigung stehen muss, ist nicht die Diagnose gemeint.\n\nFür einen Behindertenpass stellen Sie einen Antrag beim Sozialministeriumservice und legen aktuelle medizinische Unterlagen bei, zum Beispiel Befunde in Kopie. Eine Bestätigung, die nur eine Diagnose nennt, hilft dabei wenig. Ob ein Behindertenpass ausgestellt wird, hängt unter anderem vom Grad der Behinderung ab. Antrag und Ausstellung sind kostenlos.\n\nBeim Pflegegeld besucht eine Ärztin, ein Arzt oder eine diplomierte Gesundheits- und Krankenpflegeperson die Betroffenen zu Hause oder im Pflegeheim. Über die Pflegestufe entscheidet der Sozialversicherungsträger oder das Gericht.\n\nDamit die Sozialversicherung eine Psychotherapie bezahlt, muss spätestens vor der zweiten Sitzung eine ärztliche Untersuchung stattgefunden haben (§ 135 ASVG).\n\nAn Universitäten haben Studierende Anspruch auf eine abweichende Prüfungsmethode, wenn sie eine Behinderung nachweisen, die ihnen die vorgeschriebene Prüfungsmethode unmöglich macht, und Inhalt und Anforderungen der Prüfung dadurch nicht beeinträchtigt werden (§ 59 Universitätsgesetz 2002).\n\nFragen Sie am besten vor dem Antrag bei der zuständigen Stelle nach, was Sie brauchen.",
+       "srcs": [
+        {
+         "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+         "title": "Begriffe mit K",
+         "url": "https://www.oesterreich.gv.at/de/lexicon/K/Seite.991445",
+         "kind": "summary",
+         "upd": "2026-01-22"
+        },
+        {
+         "org": "Arbeiterkammer (AK)",
+         "title": "Krankenstand",
+         "url": "https://www.arbeiterkammer.at/krankenstand",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+         "title": "Behindertenpass",
+         "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Behindertenpass_und_Parkausweis/Behindertenpass/Behindertenpass.de.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (oesterreich.gv.at)",
+         "title": "Begutachtung durch Arzt oder Pflegefachkraft - Pflegegeld",
+         "url": "https://www.oesterreich.gv.at/de/themen/pflege/4/1/Seite.360518",
+         "kind": "summary",
+         "upd": "2026-02-19"
+        },
+        {
+         "org": "Bundeskanzleramt (Rechtsinformationssystem des Bundes, RIS)",
+         "title": "Allgemeines Sozialversicherungsgesetz (ASVG) § 135",
+         "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40265288/NOR40265288.html",
+         "kind": "summary",
+         "upd": "2024-10-10"
+        },
+        {
+         "org": "Bundeskanzleramt (Rechtsinformationssystem des Bundes, RIS)",
+         "title": "Universitätsgesetz 2002 (UG) § 59",
+         "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269697/NOR40269697.html",
+         "kind": "summary",
+         "upd": "2025-07-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Der Name einer Erkrankung ist kein Werkzeug, um sich über andere zu stellen",
+       "body": "Der Name einer Erkrankung ist kein Werkzeug, um sich über jemanden zu stellen oder auf andere herabzusehen.\nManche Menschen fühlen sich erleichtert, wenn sie einen Namen für das finden, was sie erleben. Das ist wichtig.\nAuch der Wunsch, dass die Menschen um einen herum einen verstehen oder freundlich zu einem sind, ist natürlich.\n\nWenn Sie sich wünschen, dass jemand freundlich mit Ihnen umgeht, können Sie das direkt sagen, ohne den Namen einer Erkrankung zu nennen.\nEs kommt leichter an, wenn Sie zwei Dinge zusammen sagen: womit Sie Schwierigkeiten haben und was Sie sich von der anderen Person wünschen.\n\nZum Beispiel können Sie sagen:\n„Ich bin heute müde, bitte sprechen Sie langsam mit mir.“\n„Wenn mir viel auf einmal gesagt wird, verliere ich den Faden. Bitte sagen Sie mir eins nach dem anderen.“\n„Was ich nur höre, kann ich mir schlecht merken. Bitte schreiben Sie Wichtiges auf, auf Papier oder per E-Mail.“\n„Orte mit vielen Menschen fallen mir schwer. Ich würde gern an einem ruhigen Ort sprechen.“\n„Ich brauche etwas Zeit zum Antworten. Bitte warten Sie einen Moment.“\n„Im Moment bin ich sehr aufgewühlt. Bitte hören Sie mir zuerst einfach zu. Ratschläge können später kommen.“\n„Mir geht es heute nicht gut. Bitte lassen Sie mich ein wenig ausruhen.“\n„Plötzliche Planänderungen bringen mich durcheinander. Bitte sagen Sie mir so früh wie möglich Bescheid.“\n„Wenn jemand laut mit mir spricht, bekomme ich Angst. Bitte sprechen Sie ruhig mit mir.“\n\nWenn es schwerfällt, es gut zu sagen, können Sie es auch auf Papier schreiben und übergeben. Sie können auch den Bildschirm „Meine Schwierigkeiten“ mit dem Knopf „Groß anzeigen“ zeigen; er erscheint in dieser App, wenn Sie eine Schwierigkeit wählen und die Fragen beantworten.\nWenn Sie den Namen einer Erkrankung nennen möchten, dürfen Sie das. Auch dann hilft es der anderen Person zu handeln, wenn Sie zugleich sagen, womit Sie Schwierigkeiten haben und was Sie sich wünschen.\nManchmal kann die andere Person nicht tun, worum Sie bitten, wegen ihrer eigenen Lage. Dann können Sie gemeinsam überlegen, ob es einen anderen Weg gibt.\n\nWenn Sie bei der Arbeit oder im Studium eine verbindliche Anpassung wünschen, fragen Sie bei der zuständigen Stelle nach, was Sie dafür brauchen. Dafür können ärztliche Unterlagen nötig sein.\n\nBitte nutzen Sie die Liste der Namen in dieser App nicht, um an den Menschen um Sie herum zu zweifeln.",
+       "srcs": []
+      },
+      {
+       "h": "Über diese App",
+       "body": "Das ist keine Diagnose. Diese Liste sagt nicht, ob Sie eine Erkrankung haben. Diese App ist kein Medizinprodukt und ersetzt kein Gespräch mit einer Ärztin, einem Arzt oder einer anderen Fachperson.\n\nIhre Antworten werden nirgendwohin gesendet und nicht auf diesem Gerät gespeichert. Sie verschwinden, wenn Sie die App schließen.\n\nUnabhängige App. SOYOGI ist eine nicht gewinnorientierte Gruppe aus Japan. SOYOGI steht in keiner Verbindung zur österreichischen Bundesregierung, zum Bundeskanzleramt und zu oesterreich.gv.at, zu Bundesministerien wie dem Sozialministerium, zum BASG, zur Gesundheit Österreich GmbH, zu den Ländern, zur Österreichischen Gesundheitskasse (ÖGK) und zur übrigen Sozialversicherung, zum Sozialministeriumservice, zur Volksanwaltschaft, zur Arbeiterkammer oder zu Einrichtungen des Gesundheitswesens und wird von keiner dieser Stellen empfohlen oder unterstützt. Die Namen der Stellen zeigen nur, woher die Angaben stammen. Die Originaltexte können auf den Seiten der jeweiligen Stellen kostenlos gelesen werden.\n\nEinige Texte stammen von oesterreich.gv.at und stehen unter der Lizenz CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.de); SOYOGI hat sie gekürzt oder mit eigenen Worten wiedergegeben. Impressum und Haftungsausschluss von oesterreich.gv.at: https://www.oesterreich.gv.at/de/ueber-oesterreichgvat/impressum. Gesetzestexte stammen aus dem Rechtsinformationssystem des Bundes (RIS). Die übrigen Texte hat SOYOGI mit eigenen Worten nach öffentlichen Seiten in Österreich geschrieben; wörtlich übernommene Stellen stehen in Anführungszeichen. Die Quellen stehen auf jedem Bildschirm mit dem Datum der jeweiligen Seite. Stand: 13. November 2026. Nummern und Zeiten können sich ändern, die Zeiten sind in österreichischer Zeit angegeben.\n\nOb Sie sich Hilfe holen, entscheiden Sie, nicht die App.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "„Bei unmittelbarer Verzweiflung ist fachkundige Hilfe genauso wichtig wie bei länger andauerndem Leidensdruck.“",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Psychosoziale Gesundheit",
+       "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+       "kind": "quote",
+       "upd": "2026-04-08"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Hausärztin oder Hausarzt: Mit psychischen Beschwerden können Sie sich zuerst an Ihre Hausärztin oder Ihren Hausarzt wenden. Wenn nötig, wird von dort an andere Stellen weiterverwiesen.",
+       "src": {
+        "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+        "title": "Hilfsmöglichkeiten für die Psyche: Überblick",
+        "url": "https://www.gesundheit.gv.at/service/beratungsstellen/gesund-leben/psyche-seele/hilfe-psyche.html",
+        "kind": "fact",
+        "upd": "2024-12-12"
+       }
+      },
+      {
+       "text": "Bei der Arbeit: fit2work berät erwerbstätige Menschen mit gesundheitlichen Problemen, unabhängig davon, ob ein Behinderungsstatus besteht. Das Angebot ist kostenfrei.",
+       "src": {
+        "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+        "title": "fit2work Personenberatung",
+        "url": "https://www.sozialministeriumservice.gv.at/Unternehmen/Arbeitsmarktprojekte/fit2work/fit2work/fit2work-Personenberatung.de.html",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Dazu, wie Namen (Diagnosen) vergeben werden, steht auf einer öffentlichen Seite in Österreich:",
+      "text": "Am Beispiel der Angststörungen: Im Gespräch fragen Ärztinnen und Ärzte zuerst nach der Vorgeschichte, zum Beispiel danach, seit wann die Beschwerden bestehen, wie sie sich zeigen und wie stark sie sind. Bevor ein solcher Name vergeben wird, prüfen sie, ob eine körperliche Erkrankung dahinterstecken kann und ob noch eine andere psychische Erkrankung dazukommt, und untersuchen dafür auch den Körper.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Angststörung",
+       "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+       "kind": "fact",
+       "upd": "2021-12-06"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things that used to bring me joy no longer do.",
+       "I have no energy and cannot concentrate, so work and housework are left undone.",
+       "I blame myself and see everything in a dark light.",
+       "At night I cannot sleep, or I sleep far too much. My appetite has dropped and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me to hear what needs to be done, one thing at a time.",
+       "I need time to think. It would help me not to be rushed for answers or decisions.",
+       "It would help me to get important things in writing.",
+       "It would help me to be listened to first, instead of hearing “Pull yourself together” or “Chin up.”",
+       "It would help me if my rest breaks were not seen as laziness.",
+       "I would like us to look together at whether a physical illness or a medicine I am taking at the moment could play a role."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses (for example after a stroke, heart attack or cancer)",
+        "why": "This page says that depression can also develop after a serious physical illness.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Depression: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/depression-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Hypothyroidism",
+        "why": "This page says that an underactive thyroid can cause complaints that resemble depression.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Depression: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/depression-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that when sleep problems last, mood swings can appear in addition to tiredness during the day.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Insomnie",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/insomnie.html",
+         "kind": "fact",
+         "upd": "2026-10-23"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes a clearly low mood, together with little interest in things and little energy for everyday life.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Depression: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/depression-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes times of very high mood and times of very low mood that alternate.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Bipolare Störung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/bipolare-stoerung-symptome.html",
+         "kind": "fact",
+         "upd": "2021-06-11"
+        }
+       },
+       {
+        "name": "Alcohol dependence",
+        "why": "This page says that the link can run both ways: alcohol can lead to mental health conditions, and a mental health condition that someone already has can contribute to heavy drinking.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Alkoholabhängigkeit: Symptome und Ursachen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/alkoholismus/folgen.html",
+         "kind": "fact",
+         "upd": "2022-06-23"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atlaender"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worries or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or everyone is looking at me, I get so anxious that my mind goes completely blank.",
+       "My heart suddenly starts racing and I have trouble breathing. I worry that it will happen again, so it is hard for me to leave the house.",
+       "Even without a clear reason, I worry about one thing after another, and I feel restless and worn out.",
+       "I can hardly stand places that are hard to get away from, for example the U-Bahn (subway), the tram or the bus, and also crowded rooms. Going out of the house without company is hard for me too. So I avoid these things.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My life has become narrower.",
+       "The worries will not leave my head, and in the evening it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "It would help me if people waited until I speak and did not rush me.",
+       "It would help me to know beforehand what the plan is and how things will go.",
+       "It would help me not to be suddenly asked for my opinion in front of other people, and to be able to answer in writing too.",
+       "If I feel unwell, it would help me to step out for a moment and rest.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "It would help me to be heard first about what is hard for me, instead of only being told that I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism",
+        "why": "This page says that an overactive thyroid can cause, among other things, nervousness and a fast heartbeat.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Hyperthyreose",
+         "url": "https://www.gesundheit.gv.at/lexikon/H/lexikon-hyperthyreose.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Medicines, alcohol or drugs",
+        "why": "This page says that when anxiety is looked into, attention is also paid to whether medicines or substances such as alcohol or drugs are behind it.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This page describes fear and worries that last a long time and are about everyday life and the future. Inner tension, trouble concentrating and sleep problems can come with it.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This page describes a sudden, very strong fear, known as a panic attack.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Specific phobia",
+        "why": "This page says that in a phobia, a distressing fear is directed at something specific, such as spiders or heights, even when there is no danger at that moment.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Phobie",
+         "url": "https://www.gesundheit.gv.at/lexikon/P/lexikon-phobie.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page describes how, after a very stressful or threatening experience, a reaction can show up that starts later or lasts a long time.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Posttraumatische Belastungsstörung: Diagnose",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/posttraumatische-belastungsstoerung.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that depression can also come on top of an anxiety disorder.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atlaender"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the stove, wash your hands, or repeat other things again and again, and find it hard to stop even though you want to.",
+      "scenes": [
+       "When I leave the house, I have to check the door lock or the stove again and again; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and cannot stop, even when I want to.",
+       "The same worrying thought keeps coming back, and I cannot stop thinking about it even though I want to.",
+       "When things are not placed the way I have set them, or do not happen in the order I have set, I become uneasy and rearrange things or start again from the beginning.",
+       "Checking takes so long that I leave late or arrive late for appointments or work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop, even when I try."
+      ],
+      "asks": [
+       "It would help me to be listened to first, instead of only hearing that I am overthinking it.",
+       "Checking takes me time. It would help me if a little extra time were built into the plan.",
+       "It would help me to be told beforehand if plans or routines change.",
+       "When I check something or wash my hands, it would help me not to be spoken to about it in front of others. I do not want anyone to make fun of me.",
+       "It would help me if things and instructions were explained to me one at a time, and in writing as well.",
+       "I would like to be able to talk about my worries first, before we take our time and decide together how to go on."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes a very strong inner pressure to repeat certain actions or thoughts over and over, which can hardly be controlled.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This page names generalized anxiety disorder, in which strong worries revolve around many things, as an example of a condition that can be very similar to obsessive-compulsive disorder.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that obsessive-compulsive disorder can occur together with depression.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        }
+       },
+       {
+        "name": "Tic disorder, Tourette syndrome",
+        "why": "This page describes tics as unusual movements or sounds that are more than a mere habit. In Tourette syndrome, tics occur both as movements and as sounds.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Ticstörungen & Tourette-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/tics-tourette-Syndrom.html",
+         "kind": "fact",
+         "upd": "2022-10-27"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page says that with autism, behaviors or movements can repeat in the same way, and that interests can be limited to a few subjects.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Autismus und Asperger-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/autismus-asperger.html",
+         "kind": "fact",
+         "upd": "2022-05-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Memories that keep coming back, poor sleep, or tension that does not ease after a painful event.",
+      "scenes": [
+       "A small thing is enough, and the terrible scene and my feelings from back then are suddenly there again.",
+       "I keep having similar nightmares, and on many nights I do not sleep deeply.",
+       "I am constantly on edge, and even a small noise makes me flinch.",
+       "I avoid places, people and topics that remind me of that time whenever I can, for example certain streets or the bus, and my daily life has become narrower because of it.",
+       "I feel numb inside, and I can no longer be as close to my family and my friends as I used to be.",
+       "I blame myself more and more often, or it is getting harder for me to trust the people around me."
+      ],
+      "asks": [
+       "Please do not ask about every detail of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Certain sounds, places and topics bring everything back up. When I say that I would rather avoid them, please accept that.",
+       "Please do not speak to me suddenly from behind, and please do not make loud noises near me.",
+       "If talking is too hard, please let me hand you something I have written.",
+       "Please do not take days when I cannot sleep, or when the exhaustion stays, for laziness.",
+       "I would like a place where I feel safe and can talk in peace, and not phrases like “Just stop thinking about it” or “But that was so long ago.”"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep disorders, nightmares",
+        "why": "This page says that sleep disorders and nightmares can occur after unusually heavy stress.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page says that a heavy burden or threat can also have an effect that shows up later or lasts for a longer time. What happened can keep pushing its way back into the mind, and some situations are avoided.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Posttraumatische Belastungsstörung: Diagnose",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/posttraumatische-belastungsstoerung.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Acute stress reaction",
+        "why": "This page says that after an unusually stressful event, a reaction can occur that usually begins very soon afterward and does not last long.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Adjustment disorder",
+        "why": "This page says that a temporary reaction, for example with low mood or anxiety, after a stressful but not traumatic event is called an adjustment disorder.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       },
+       {
+        "name": "Depression, anxiety disorders",
+        "why": "This page says that after an emotional trauma, depression or an anxiety disorder can also develop.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Seelisches Trauma: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/trauma/symptome.html",
+         "kind": "fact",
+         "upd": "2020-07-02"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atlaender",
+       "atgsz"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I am already in bed, I find it hard to fall asleep.",
+       "I wake up several times in the night and never really sleep through until morning.",
+       "In the morning I cannot get out of bed at my usual time, and again and again I do not get to work, school or my apprenticeship on time.",
+       "During the day I am overcome by strong sleepiness, and in meetings or at the wheel I almost doze off.",
+       "My family tells me that I snore loudly and that my breathing sometimes seems to stop while I sleep.",
+       "In the evening and at night my legs feel uncomfortable, I cannot settle, and I cannot sleep."
+      ],
+      "asks": [
+       "Please take the time to listen to how things are with my sleep: falling asleep, waking in the night, trouble getting up in the morning, and sleepiness during the day.",
+       "Please think with me about what can play a part, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "I do not want my sleep to be brushed aside as “all in my head.” Please also look at my physical health and my mood.",
+       "I would like to show you my sleep times in a record of when I went to bed and when I got up. Please take a look at it.",
+       "If I am offered a medicine, please explain to me in simple words how it works and what I need to watch out for.",
+       "A lot is hard for me in the morning. If it can be done, please give me an appointment in the afternoon or early evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "This page describes shallow breathing and pauses in breathing during sleep, which leave sleep clearly less restful.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Obstruktive Schlafapnoe",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/obstruktive-schlafapnoe.html",
+         "kind": "fact",
+         "upd": "2026-09-22"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page describes an urge to move the legs, especially in the evening, at night or when resting, which can make falling asleep very hard.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Restless-Legs-Syndrom (RLS)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/restless-legs-syndrom.html",
+         "kind": "fact",
+         "upd": "2026-09-22"
+        }
+       },
+       {
+        "name": "Shift work and night work (sleep-wake rhythm)",
+        "why": "This page says that the sleep-wake rhythm adjusts only in part to rotating or night shifts, and that this puts a strain on the body.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Belastende Schicht- und Nachtarbeit",
+         "url": "https://www.gesundheit.gv.at/leben/lebenswelt/beruf/arbeitsplatz/schichtachtarbeit.html",
+         "kind": "fact",
+         "upd": "2021-05-11"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page describes trouble falling asleep or staying asleep, or waking early in the morning, so that sleep is not restful.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Insomnie",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/insomnie.html",
+         "kind": "fact",
+         "upd": "2026-10-23"
+        }
+       },
+       {
+        "name": "Nightmares",
+        "why": "This page says that frequent nightmares can affect how a person feels and how they sleep.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Albträume",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/albtraeume.html",
+         "kind": "fact",
+         "upd": "2021-11-04"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating is hard: being able to eat only a little, not being able to stop, or being afraid of eating.",
+      "scenes": [
+       "I do not feel like eating, and for a few days now I have barely been able to get anything down.",
+       "Once I have started eating, I cannot stop, and sometimes I eat so much that it hurts.",
+       "Without wanting to, I think only about food, and it is hard for me to concentrate on anything else.",
+       "I can eat only very few foods, and I avoid many because of their taste, smell or texture.",
+       "After a bite went down the wrong way, or after I had to vomit, I became afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I remember nothing about it."
+      ],
+      "asks": [
+       "Please do not make comments about my body or my appearance.",
+       "Please do not push me to eat, and please do not put me under pressure while I eat.",
+       "When everyone eats together, please let me choose another place or another time.",
+       "Please ask me first what I can eat and which smells or textures are hard for me.",
+       "Please explain to me beforehand how the physical examination and any further examinations will go.",
+       "Please let me write down for you what I find hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Functional dyspepsia (irritable stomach)",
+        "why": "This page describes recurring discomfort and pain in the upper abdomen for which no clear physical cause is found.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Funktionelle Dyspepsie (Reizmagen)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/verdauung/dyspepsie.html",
+         "kind": "fact",
+         "upd": "2025-11-03"
+        }
+       },
+       {
+        "name": "Physical illnesses",
+        "why": "This page says that when someone has lost weight, doctors also carry out a physical examination and rule out other illnesses as the cause before they speak of anorexia.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Anorexie (Magersucht)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/magersucht-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2022-04-13"
+        }
+       },
+       {
+        "name": "Eating disorders (anorexia, bulimia, binge-eating disorder)",
+        "why": "This page explains that with an eating disorder, food and weight can become the center of a person's thoughts and actions, for example by strongly restricting food or through eating binges.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Essstörung: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/was-ist-das.html",
+         "kind": "fact",
+         "upd": "2022-04-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that depression comes along more often in people with an eating disorder, and so do anxiety disorders or obsessive-compulsive disorders.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Essstörung: Was ist das?",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/was-ist-das.html",
+         "kind": "fact",
+         "upd": "2022-04-13"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atess",
+       "atpsyhelp"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going anyway.",
+       "I can't stick to the time, the amount or the money I set for myself for the day.",
+       "I hide my drinking, my video games or my gambling from people close to me, or I make it sound better than it is.",
+       "I often play video games late into the night, I can't get out of bed in the morning, and more and more often I am late or miss work or school.",
+       "When I lose, I badly want to win the money back, so I bet again, for example at slot machines or on sports bets.",
+       "Even though I know it is not good for my body, I can't drink less."
+      ],
+      "asks": [
+       "It would help me if you listened to me first, without blaming me or thinking badly of me.",
+       "It would help me if we went through together, step by step, what my habits look like and what difficulties they cause me.",
+       "It would help me if you also looked at my sleep and my physical health.",
+       "I would like to find out specifically where I can get help and where I can go.",
+       "It would help me to know whether my family or someone close to me can come with me to the conversation.",
+       "It would help me to know beforehand who you will pass on what I tell you to, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol-related fatty liver disease",
+        "why": "This page describes a form of fatty liver disease that is linked to alcohol.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Fettleber",
+         "url": "https://www.gesundheit.gv.at/lexikon/F/lexikon-fettleber.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alcohol dependence",
+        "why": "This page says that mental health conditions and drinking a lot of alcohol often occur together, and that one can lead to the other, in both directions.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Alkoholabhängigkeit: Symptome und Ursachen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/alkoholismus/folgen.html",
+         "kind": "fact",
+         "upd": "2022-06-23"
+        }
+       },
+       {
+        "name": "Medication dependence",
+        "why": "This page says that when medicines are misused, they are mostly taken to feel different, for example less anxious or tense, and that this can lead to dependence.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Von Medikamenten abhängig",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/medikamentensucht/von-medikamenten-abhaengig.html",
+         "kind": "fact",
+         "upd": "2020-12-21"
+        }
+       },
+       {
+        "name": "Gambling disorder (gambling addiction)",
+        "why": "This page describes how it can be hard to resist gambling, for example at slot machines, in a casino or online.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Glücksspielsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/gluecksspielsucht.html",
+         "kind": "fact",
+         "upd": "2022-10-06"
+        }
+       },
+       {
+        "name": "Internet use disorder",
+        "why": "This page says that experts use the name internet use disorder for behavior on the internet that can no longer be controlled, for example when playing online games, shopping online or using social networks. In everyday speech, people often talk about “internet addiction.”",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Internetsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/internetsucht.html",
+         "kind": "fact",
+         "upd": "2026-10-21"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that researchers assume depression can be one of the influences from which an internet use disorder develops. The two also often occur together.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Internetsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/internetsucht.html",
+         "kind": "fact",
+         "upd": "2026-10-21"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page says that researchers assume ADHD can also contribute to an internet use disorder developing.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Internetsucht",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sucht/internetsucht.html",
+         "kind": "fact",
+         "upd": "2026-10-21"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atsucht",
+       "atpsyhelp"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and planning",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is telling me something, my thoughts are suddenly somewhere else without my noticing.",
+       "I can't get my work, my apprenticeship or the housework done in order, and I miss deadlines.",
+       "I often forget what I was asked to do or what I promised, or I misplace things.",
+       "When I do the same task for a long time, I make more and more careless mistakes.",
+       "When I have to sit still for a long time, for example in a meeting or on the subway, I get restless and fidgety.",
+       "People around me tell me that I often forget things or turn up late."
+      ],
+      "asks": [
+       "It would help me if I were given instructions one at a time, one after the other.",
+       "It would help me if important information were written down and given to me to take with me.",
+       "It would help me to hear about deadlines and appointments as early as you can.",
+       "It would help me not to get too many tasks at once, and to have them broken down into small steps instead.",
+       "I would like to talk in a quiet place where there is little to distract me.",
+       "It would help me if people did not blame me for what did not work out, and also saw what I did manage."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "This page says that, along with pauses in breathing during sleep, concentration can also get worse.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Obstruktive Schlafapnoe",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/obstruktive-schlafapnoe.html",
+         "kind": "fact",
+         "upd": "2026-09-22"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that poor, unrefreshing sleep can also affect concentration during the day.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Insomnie",
+         "url": "https://www.gesundheit.gv.at/krankheiten/gehirn-nerven/schlafstoerungen/insomnie.html",
+         "kind": "fact",
+         "upd": "2026-10-23"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This page says that with this anxiety disorder, problems with concentration can occur along with ongoing worries.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder) in adults",
+        "why": "This page says that adults with ADHD have difficulties above all in everyday life, such as organizing their work, managing their time and concentrating, and that forgetfulness can also be part of it.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "ADHS bei Erwachsenen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/adhs-erwachsene.html",
+         "kind": "fact",
+         "upd": "2025-12-17"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page says that adults with Asperger syndrome can find it hard in everyday life to tell what is important from what is less important.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Autismus und Asperger-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/autismus-asperger.html",
+         "kind": "fact",
+         "upd": "2022-05-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atfit2work",
+       "atsms"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with other people, fixed routines and sensory impressions",
+      "lead": "Trouble talking or being with other people, a strong need to do things a certain way, or sounds, light and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation, I find it hard to grasp what the other person feels or what the mood in the room is, and I often have the impression that we are talking past each other.",
+       "When I have to speak in front of people or all eyes are on me, I get very tense and I avoid such situations.",
+       "I can talk with people close to me, but in front of others I can't get a sound out.",
+       "When my usual way of doing things, the order of the steps or the place where my things are kept changes, it makes me very uneasy.",
+       "I notice sounds, light and smells very strongly, and places with many people, such as the subway or a restaurant, are hard for me to bear.",
+       "I have trouble hearing what others say, or my mood is low, and by now it has become hard for me to meet people or talk to them."
+      ],
+      "asks": [
+       "It would help me if people spoke to me slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told beforehand as soon as plans or routines change.",
+       "It would help me not to be rushed and to be given time to answer.",
+       "I would like to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "This page says that permanent hearing loss can have major effects on emotional well-being and on being with other people.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Schwerhörigkeit: Formen & Symptome",
+         "url": "https://www.gesundheit.gv.at/krankheiten/hno/ohrenerkrankungen/formen-symptome.html",
+         "kind": "fact",
+         "upd": "2019-09-24"
+        }
+       },
+       {
+        "name": "Tinnitus (noises in the ears)",
+        "why": "This page says that noises in the ears weigh very heavily on some people and that, in serious cases, they can become more and more isolated.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Tinnitus: Ursachen & Symptome",
+         "url": "https://www.gesundheit.gv.at/krankheiten/hno/ohrenerkrankungen/ursachen-symptome.html",
+         "kind": "fact",
+         "upd": "2019-12-11"
+        }
+       },
+       {
+        "name": "Social anxiety disorder (social phobia)",
+        "why": "This page describes strong fear of meeting other people, which can lead a person to try to avoid such situations.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       },
+       {
+        "name": "Mutism",
+        "why": "This page says that with mutism the ability to speak is there, and yet a person does not speak at all or speaks only in some situations.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Mutismus",
+         "url": "https://www.gesundheit.gv.at/lexikon/M/lexikon-mutismus.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page mainly describes difficulties with communication and with dealing with other people.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Autismus und Asperger-Syndrom",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/autismus-asperger.html",
+         "kind": "fact",
+         "upd": "2022-05-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atsms"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it several times.",
+       "Even after reading, the content does not sink in, and I find it hard to understand what is written in documents, forms or letters from the authorities.",
+       "I have trouble with spelling: I make many mistakes, or I forget letters or words when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on word problems.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not get on as well as I would like, even when I take plenty of time."
+      ],
+      "asks": [
+       "Please show me texts in large print with wide line spacing, and explain important things to me in simple words or in Easy Language (Leichte Sprache).",
+       "Please read important content aloud to me or tell it to me out loud.",
+       "Please let me use the keyboard of a computer or phone, or keep a record with photos or voice recordings, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please do not give me everything at once, but one thing at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Presbyopia (age-related difficulty seeing up close)",
+        "why": "This page says that age-related difficulty seeing up close is usually noticed when reading, when you have to hold a text farther away so that the letters become clear.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Alterssichtigkeit",
+         "url": "https://www.gesundheit.gv.at/krankheiten/augen/fehlsichtigkeit/alterssichtigkeit-presbyopie.html",
+         "kind": "fact",
+         "upd": "2022-10-10"
+        }
+       },
+       {
+        "name": "Astigmatism (curvature of the cornea)",
+        "why": "This page says that a curved cornea can make it harder to see sharply, both far away and up close, for example when reading.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Astigmatismus",
+         "url": "https://www.gesundheit.gv.at/krankheiten/augen/fehlsichtigkeit/astigmatismus-hornhautverkruemmung.html",
+         "kind": "fact",
+         "upd": "2022-10-10"
+        }
+       },
+       {
+        "name": "Learning difficulty (difficulty with reading and spelling, difficulty with calculating)",
+        "why": "This page says that a learning difficulty can be behind it when learning to read, write or calculate is hard, and that it can also affect later development at work.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Lernen & Lernschwäche",
+         "url": "https://www.gesundheit.gv.at/leben/lebenswelt/schule/lernen.html",
+         "kind": "fact",
+         "upd": "2025-10-23"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atsms"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own feelings.",
+      "scenes": [
+       "Periods when I have far too much energy alternate with periods when I am so low that I can hardly move.",
+       "There are periods when I hardly sleep and yet I am full of energy and constantly on the move.",
+       "One idea after another comes to me, and everything stays half done.",
+       "When I was in a high-spirited mood, I once spent so much money that I got into difficulties because of it later.",
+       "Even small things make me irritable, and I find it hard to keep my feelings in check.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the times when I felt unusually good and had unusually high energy.",
+       "Please take the time to go through my ups and downs with me.",
+       "Before big decisions about money or work, please help me pause and think first.",
+       "Please also check for physical causes, including sleep, medicines and alcohol.",
+       "If I seem different from usual, please tell me, without blaming me.",
+       "Please hear me out to the end, both when I am doing well and when I am low."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Premenstrual syndrome (PMS), premenstrual dysphoric disorder (PMDD)",
+        "why": "This page describes difficulties in the days before the period, including sadness and a changeable mood, and names premenstrual dysphoric disorder as a very marked form of them.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://www.gesundheit.gv.at/krankheiten/sexualorgane/weibliche-hormone-zyklus/pms.html",
+         "kind": "fact",
+         "upd": "2021-10-07"
+        }
+       },
+       {
+        "name": "Menopause (the years of change)",
+        "why": "This page says that during the menopause years a changeable mood, hot flashes or poor sleep can occur, and that such difficulties do not always come from the menopause.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Wechseljahre",
+         "url": "https://www.gesundheit.gv.at/leben/frauengesundheit/wechseljahre.html",
+         "kind": "fact",
+         "upd": "2026-11-09"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes a mood that swings back and forth between very high and very low phases.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Bipolare Störung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/bipolare-stoerung-symptome.html",
+         "kind": "fact",
+         "upd": "2021-06-11"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that bipolar disorder is told apart from a depression that occurs on its own.",
+        "src": {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Bipolare Störung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/depression/bipolare-stoerung-symptome.html",
+         "kind": "fact",
+         "upd": "2021-06-11"
+        }
+       }
+      ],
+      "windows": [
+       "athausarzt",
+       "atpsyhelp",
+       "atpsychother",
+       "atfit2work",
+       "atlaender"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "If you know a name, it is easier to see a symptom in everyday ups and downs",
+       "body": "If you know the name of an illness or of a developmental disorder, a little tiredness or a moment of inattention can more easily look like a symptom.\n\nFeelings can really change how your body and your mood feel. This is not imagination, it really happens. Lack of sleep, stress, phone use or what is going on around you can also have similar effects.\n\nIf, when you read a name, you think \"that could be it,\" do not stop there right away, but think of other reasons too. If the difficulties continue, you can talk about them as they are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Worries, ups and downs, and the wish to check once more: giving a name is a matter for professionals",
+       "body": "Perhaps you know this: before you leave the house, you check once more whether the coffee machine is really switched off.\n\nOn oesterreich.gv.at it says: “Crises are not an illness. When a person is in a crisis, strains have come to a head that, for the time being, they can no longer cope with alone.”\n\nGiving a name to difficulties is a matter for professionals, such as doctors. They also look at whether a physical illness could be behind similar difficulties.\n\nIf the difficulties continue, you can talk about them as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Zwangsstörungen",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das.html",
+         "kind": "fact",
+         "upd": "2021-12-17"
+        },
+        {
+         "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+         "title": "Psychosoziale Gesundheit",
+         "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+         "kind": "quote",
+         "upd": "2026-04-08"
+        },
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Angststörung",
+         "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+         "kind": "fact",
+         "upd": "2021-12-06"
+        }
+       ]
+      },
+      {
+       "h": "Even without the name of an illness, you can talk about your difficulties",
+       "body": "Telefonseelsorge 142 can be reached around the clock. People in a difficult life situation or in a crisis can talk there in confidence. The health advice line 1450 can also be reached around the clock; it gives advice on health problems and names places you can turn to.\n\nYou can in general start psychotherapy directly, without a referral from a doctor. For the social insurance to cover the costs or pay a subsidy, a mental disorder that counts as an illness and a medical confirmation are usually needed. The social insurance does not cover the costs of advice alone.\n\nAt work, the Disabled Persons Employment Act (Behinderteneinstellungsgesetz) forbids discrimination against people because of a disability. A formally determined degree of disability is not needed for this (§ 7b paragraph 4 BEinstG).\n\nFor a conciliation procedure at the Sozialministeriumservice, a disability has to be made credible; a disability pass is not needed for it. The procedure is free of charge.\n\nWhat you wish for and what can be done depend on the situation and on the other side. This is worked out in conversation.",
+       "srcs": [
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Hotlines: Gesundheitliche Probleme & Krisen",
+         "url": "https://www.gesundheit.gv.at/service/notruf/hotline.html",
+         "kind": "fact",
+         "upd": "2024-10-16"
+        },
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+         "title": "Psychotherapie",
+         "url": "https://www.gesundheit.gv.at/gesundheitsleistungen/berufe/gesundheitsberufe-a-z/psychotherapie/psychotherapeut.html",
+         "kind": "fact",
+         "upd": "2026-03-03"
+        },
+        {
+         "org": "Bundeskanzleramt (Rechtsinformationssystem des Bundes, RIS)",
+         "title": "Behinderteneinstellungsgesetz (BEinstG) § 7b",
+         "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40151328/NOR40151328.html",
+         "kind": "summary",
+         "upd": "2023-10-09"
+        },
+        {
+         "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+         "title": "Schlichtung",
+         "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Gleichstellung/Schlichtung/Schlichtung.de.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "However, some benefits require medical documents",
+       "body": "For some benefits, medical documents are needed. What exactly is asked for depends on the benefit.\n\nIf you are ill and cannot work, you have to tell your employer about the incapacity to work immediately. As a rule, the start counts from the day the doctor has determined.\n\nThe cause of the incapacity to work that has to be stated on the sick leave certificate does not mean the diagnosis.\n\nFor a disability pass (Behindertenpass), you submit an application to the Sozialministeriumservice and attach current medical documents, for example copies of medical findings. A confirmation that only names a diagnosis helps little here. Whether a disability pass is issued depends, among other things, on the degree of disability. The application and the issue are free of charge.\n\nFor long-term care allowance (Pflegegeld), a doctor or a registered nurse (diplomierte Gesundheits- und Krankenpflegeperson) visits the person concerned at home or in a care home. The social insurance body or the court decides on the care level.\n\nFor the social insurance to pay for psychotherapy, a medical examination must have taken place at the latest before the second session (§ 135 ASVG).\n\nAt universities, students have the right to a different examination method if they prove a disability that makes the prescribed examination method impossible for them, and the content and requirements of the exam are not affected as a result (§ 59 Universities Act 2002).\n\nBefore you apply, it is best to ask the responsible office what you will need.",
+       "srcs": [
+        {
+         "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+         "title": "Begriffe mit K",
+         "url": "https://www.oesterreich.gv.at/de/lexicon/K/Seite.991445",
+         "kind": "summary",
+         "upd": "2026-01-22"
+        },
+        {
+         "org": "Bundesarbeitskammer (arbeiterkammer.at)",
+         "title": "Krankenstand",
+         "url": "https://www.arbeiterkammer.at/krankenstand",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+         "title": "Behindertenpass",
+         "url": "https://www.sozialministeriumservice.gv.at/Menschen_mit_Behinderung/Behindertenpass_und_Parkausweis/Behindertenpass/Behindertenpass.de.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (oesterreich.gv.at)",
+         "title": "Begutachtung durch Arzt oder Pflegefachkraft - Pflegegeld",
+         "url": "https://www.oesterreich.gv.at/de/themen/pflege/4/1/Seite.360518",
+         "kind": "summary",
+         "upd": "2026-02-19"
+        },
+        {
+         "org": "Bundeskanzleramt (Rechtsinformationssystem des Bundes, RIS)",
+         "title": "Allgemeines Sozialversicherungsgesetz (ASVG) § 135",
+         "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40265288/NOR40265288.html",
+         "kind": "summary",
+         "upd": "2024-10-10"
+        },
+        {
+         "org": "Bundeskanzleramt (Rechtsinformationssystem des Bundes, RIS)",
+         "title": "Universitätsgesetz 2002 (UG) § 59",
+         "url": "https://ogd.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40269697/NOR40269697.html",
+         "kind": "summary",
+         "upd": "2025-07-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for an illness is not a tool for placing yourself above others",
+       "body": "A name for an illness is not a tool for placing yourself above someone or for looking down on others.\nSome people feel relieved when they find a name for what they are going through. That matters.\nThe wish that the people around you understand you, or are kind to you, is natural too.\n\nIf you wish for someone to be kind to you, you can say so directly, without naming an illness.\nIt comes across more easily if you say two things together: what you have difficulty with and what you wish from the other person.\n\nFor example, you can say:\n\"I am tired today, please speak to me slowly.\"\n\"When I am told a lot at once, I lose the thread. Please tell me one thing at a time.\"\n\"I find it hard to remember what I only hear. Please write down important things, on paper or by e-mail.\"\n\"Places with many people are hard for me. I would like to talk in a quiet place.\"\n\"I need a little time to answer. Please wait a moment.\"\n\"Right now I am very shaken up. Please just listen to me first. Advice can come later.\"\n\"I am not feeling well today. Please let me rest a little.\"\n\"Sudden changes of plan throw me off. Please let me know as early as you can.\"\n\"When someone speaks loudly to me, I get scared. Please speak calmly to me.\"\n\nIf it is hard to say it well, you can also write it on paper and hand it over. You can also show the \"My worries\" screen with the \"Show it large\" button; it appears in this app when you choose a worry and answer the questions.\nIf you want to name an illness, you can. Even then, it helps the other person to act if you also say what you have difficulty with and what you wish.\nSometimes the other person cannot do what you ask because of their own situation. Then you can think together about whether there is another way.\n\nIf you wish for a binding adjustment at work or in your studies, ask the responsible office what you need for it. Medical documents may be needed for this.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness. This app is not a medical device and does not replace a conversation with a doctor or another professional.\n\nYour answers are not sent anywhere and are not saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit group in Japan. SOYOGI is not connected to the Austrian federal government, the Federal Chancellery or oesterreich.gv.at, federal ministries such as the Ministry of Social Affairs, the BASG, Gesundheit Österreich GmbH, the federal states, the Austrian Health Insurance Fund (ÖGK) and the rest of the social insurance, the Sozialministeriumservice, the Volksanwaltschaft, the Chamber of Labour (Arbeiterkammer) or health care institutions, and none of these bodies has recommended or supported this app. The names of the bodies only show where the information comes from. The original texts can be read free of charge on the websites of the bodies concerned.\n\nSome texts come from oesterreich.gv.at and are under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/legalcode.de); SOYOGI has shortened them or restated them in its own words, and translated them into English. Imprint and disclaimer of oesterreich.gv.at: https://www.oesterreich.gv.at/de/ueber-oesterreichgvat/impressum. Legal texts come from the Legal Information System of the Federation (RIS). SOYOGI wrote the other texts in its own words, drawing on public pages in Austria; the passages quoted from oesterreich.gv.at are translated and placed in quotation marks. Sources are shown on every screen, with the date of each page. As of: 13 November 2026. Numbers and hours may change; the hours are given in Austrian time.\n\nIt is you, not the app, who decides whether to get help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "“When despair is immediate, expert help is just as important as when distress has lasted a long time.”",
+      "src": {
+       "org": "oesterreich.gv.at-Redaktion (Bundeskanzleramt)",
+       "title": "Psychosoziale Gesundheit",
+       "url": "https://www.oesterreich.gv.at/de/themen/hilfe_und_finanzielle_unterstuetzung_erhalten/2/psychosoziale-gesundheit",
+       "kind": "quote",
+       "upd": "2026-04-08"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Family doctor (Hausärztin oder Hausarzt): If you have mental health complaints, you can turn first to your family doctor. If needed, you are referred from there to other places.",
+       "src": {
+        "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+        "title": "Hilfsmöglichkeiten für die Psyche: Überblick",
+        "url": "https://www.gesundheit.gv.at/service/beratungsstellen/gesund-leben/psyche-seele/hilfe-psyche.html",
+        "kind": "fact",
+        "upd": "2024-12-12"
+       }
+      },
+      {
+       "text": "At work: fit2work advises people in work who have health problems, regardless of whether they have a disability status. The service is free of charge.",
+       "src": {
+        "org": "Sozialministeriumservice (Bundesamt für Soziales und Behindertenwesen)",
+        "title": "fit2work Personenberatung",
+        "url": "https://www.sozialministeriumservice.gv.at/Unternehmen/Arbeitsmarktprojekte/fit2work/fit2work/fit2work-Personenberatung.de.html",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is given, a public page in Austria says:",
+      "text": "Taking anxiety disorders as an example: in the conversation, doctors first ask about the history, for example how long the difficulties have been there, how they show themselves and how strong they are. Before such a name is given, they check whether a physical illness could be behind it and whether another mental illness is also present, and for this they also examine the body.",
+      "src": {
+       "org": "Bundesministerium für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz (gesundheit.gv.at)",
+       "title": "Angststörung",
+       "url": "https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose.html",
+       "kind": "fact",
+       "upd": "2021-12-06"
+      }
+     }
+    }
+   }
+  },
+  "ca": {
+   "id": "ca",
+   "name": {
+    "ja": "カナダ",
+    "en": "Canada",
+    "fr": "Canada",
+    "de": "Kanada",
+    "es": "Canadá",
+    "esmx": "Canadá",
+    "nl": "Canada",
+    "ko": "캐나다",
+    "zh": "加拿大",
+    "it": "Canada",
+    "sv": "Kanada",
+    "pt": "Canadá",
+    "ptpt": "Canadá",
+    "ar": "كندا"
+   },
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "main": "fr",
+   "fallback": "fr",
+   "srcLang": "fr",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "srcNote": {
+    "ontario.ca": {
+     "quote": "© Imprimeur du Roi pour l’Ontario"
+    }
+   },
+   "factRef": true,
+   "ver": "2026-11-13",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "ca911",
+     "band": "now",
+     "tel": "911",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "911 (urgences)",
+      "desc": "En cas d’urgence, appelez le 911. Si vous pensez au suicide, ou si une personne proche y pense, vous pouvez appeler le 911 ou aller à l’hôpital le plus proche.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+       "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+       "kind": "fact",
+       "upd": "2026-06-22"
+      }
+     },
+     "en": {
+      "name": "911 (emergency)",
+      "desc": "In an emergency, call 911. If you are thinking about suicide, or someone close to you is, you can call 911 or go to the nearest hospital.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+       "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+       "kind": "fact",
+       "upd": "2026-06-22"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de l’Ontario (ontario.ca)",
+      "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+      "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+      "kind": "fact",
+      "upd": "2026-06-22"
+     }
+    },
+    {
+     "id": "ca988",
+     "band": "now",
+     "tel": "988",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "988",
+     "fr": {
+      "name": "9-8-8 (appel ou texto)",
+      "desc": "Si vous pensez au suicide ou si vous vous inquiétez pour un proche, appelez ou textez le 9-8-8. Le service est offert dans toutes les provinces et tous les territoires, en français et en anglais. Des lignes des provinces et des territoires sont plus bas dans la liste ; si la vôtre n’y est pas, le 9-8-8 répond aussi.",
+      "hours": "24 heures sur 24, tous les jours de l’année.",
+      "src": {
+       "org": "Gouvernement de la Nouvelle-Écosse",
+       "title": "Suicide Crisis Helpline 9-8-8 Launches",
+       "url": "https://news.novascotia.ca/en/2023/11/30/suicide-crisis-helpline-9-8-8-launches",
+       "kind": "fact",
+       "upd": "2023-11-30"
+      }
+     },
+     "en": {
+      "name": "9-8-8 Suicide Crisis Helpline (call or text)",
+      "desc": "If you are thinking about suicide or you are worried about someone close to you, call or text 9-8-8. The service is offered in all provinces and territories, in French and in English. Lines from the provinces and territories are further down the list; if yours is not there, 9-8-8 answers too.",
+      "hours": "24 hours a day, every day of the year.",
+      "src": {
+       "org": "Gouvernement de la Nouvelle-Écosse",
+       "title": "Suicide Crisis Helpline 9-8-8 Launches",
+       "url": "https://news.novascotia.ca/en/2023/11/30/suicide-crisis-helpline-9-8-8-launches",
+       "kind": "fact",
+       "upd": "2023-11-30"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de la Nouvelle-Écosse",
+      "title": "Suicide Crisis Helpline 9-8-8 Launches",
+      "url": "https://news.novascotia.ca/en/2023/11/30/suicide-crisis-helpline-9-8-8-launches",
+      "kind": "fact",
+      "upd": "2023-11-30"
+     }
+    },
+    {
+     "id": "cahope",
+     "band": "now",
+     "tel": "1-855-242-3310",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Ligne d’écoute d’espoir pour le mieux-être (personnes autochtones)",
+      "desc": "Pour toutes les personnes autochtones au Canada : soutien immédiat et intervention en cas de crise, par téléphone, sans frais. Le service est offert en français et en anglais.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Services aux Autochtones Canada",
+       "title": "Ligne d'écoute d'espoir pour le mieux-être",
+       "url": "https://www.sac-isc.gc.ca/fra/1576089519527/1576089566478",
+       "kind": "fact",
+       "upd": "2025-08-05"
+      }
+     },
+     "en": {
+      "name": "Ligne d’écoute d’espoir pour le mieux-être (help line for Indigenous people)",
+      "desc": "For all Indigenous people in Canada: immediate support and crisis intervention, by phone, toll-free. The service is offered in French and in English.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Services aux Autochtones Canada",
+       "title": "Ligne d'écoute d'espoir pour le mieux-être",
+       "url": "https://www.sac-isc.gc.ca/fra/1576089519527/1576089566478",
+       "kind": "fact",
+       "upd": "2025-08-05"
+      }
+     },
+     "src": {
+      "org": "Services aux Autochtones Canada",
+      "title": "Ligne d'écoute d'espoir pour le mieux-être",
+      "url": "https://www.sac-isc.gc.ca/fra/1576089519527/1576089566478",
+      "kind": "fact",
+      "upd": "2025-08-05"
+     }
+    },
+    {
+     "id": "cabc",
+     "band": "now",
+     "tel": "310-6789",
+     "tel2": "1-800-784-2433",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Colombie-Britannique : 310-Mental Health et 1-800-SUICIDE",
+      "desc": "310-6789 (sans indicatif régional) : soutien émotionnel et information sur les ressources en santé mentale. En cas de crise : 1-800-784-2433 (1-800-SUICIDE), ligne de crise confidentielle et sans frais, 24 heures sur 24.",
+      "hours": "À toute heure du jour ou de la nuit.",
+      "src": {
+       "org": "Gouvernement de la Colombie-Britannique (HelpStartsHere)",
+       "title": "Suicide",
+       "url": "https://helpstartshere.gov.bc.ca/mental-health/suicide",
+       "kind": "fact",
+       "upd": "2026-06-10"
+      }
+     },
+     "en": {
+      "name": "British Columbia: 310-Mental Health and 1-800-SUICIDE",
+      "desc": "310-6789 (no area code): emotional support and information on mental health resources. In a crisis: 1-800-784-2433 (1-800-SUICIDE), a confidential, toll-free crisis line, 24 hours a day.",
+      "hours": "At any hour of the day or night.",
+      "src": {
+       "org": "Gouvernement de la Colombie-Britannique (HelpStartsHere)",
+       "title": "Suicide",
+       "url": "https://helpstartshere.gov.bc.ca/mental-health/suicide",
+       "kind": "fact",
+       "upd": "2026-06-10"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de la Colombie-Britannique (HelpStartsHere)",
+      "title": "Suicide",
+      "url": "https://helpstartshere.gov.bc.ca/mental-health/suicide",
+      "kind": "fact",
+      "upd": "2026-06-10"
+     }
+    },
+    {
+     "id": "caab",
+     "band": "now",
+     "tel": "211",
+     "tel2": "1-877-303-2642",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Alberta : lignes d’aide en santé mentale et en dépendances",
+      "desc": "Au 211 : soutien, information et orientation, de façon confidentielle, pour les personnes de l’Alberta qui vivent des difficultés de santé mentale ou de dépendance, y compris le jeu. Le 1-877-303-2642 figure aussi sur la page d’Alberta Health Services comme ligne d’aide en santé mentale.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Recovery Alberta",
+       "title": "Mental health & addiction helplines",
+       "url": "https://www.recoveryalberta.ca/page14060.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Alberta: mental health and addiction help lines",
+      "desc": "211: support, information and referral, in confidence, for people in Alberta who are going through mental health or addiction difficulties, including gambling. 1-877-303-2642 is also listed on the Alberta Health Services page as a mental health help line.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Recovery Alberta",
+       "title": "Mental health & addiction helplines",
+       "url": "https://www.recoveryalberta.ca/page14060.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Recovery Alberta",
+      "title": "Mental health & addiction helplines",
+      "url": "https://www.recoveryalberta.ca/page14060.aspx",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cask",
+     "band": "now",
+     "tel": "811",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Saskatchewan : HealthLine 811",
+      "desc": "Ligne gratuite et confidentielle de conseils en santé, en santé mentale et en dépendances. Des infirmières et infirmiers psychiatriques autorisés et des travailleuses et travailleurs sociaux autorisés peuvent offrir du soutien en cas de crise. Réponse en anglais, avec un service d’interprétation offert dans plus de 100 langues.",
+      "hours": "24 heures sur 24.",
+      "src": {
+       "org": "Gouvernement de la Saskatchewan",
+       "title": "HealthLine 811",
+       "url": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Saskatchewan: HealthLine 811",
+      "desc": "A free, confidential line for advice on health, mental health and addictions. Registered psychiatric nurses and registered social workers can offer support in a crisis. Answers in English, with interpretation available in more than 100 languages.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Gouvernement de la Saskatchewan",
+       "title": "HealthLine 811",
+       "url": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de la Saskatchewan",
+      "title": "HealthLine 811",
+      "url": "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/healthline",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "camb",
+     "band": "now",
+     "tel": "1-877-435-7170",
+     "tel2": "1-888-322-3019",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Manitoba : lignes de crise",
+      "desc": "Manitoba Suicide Prevention & Support Line : 1 877 435-7170, sans frais. Klinic Crisis Line : 1 888 322-3019, sans frais, ou 204 786-8686 à Winnipeg.",
+      "hours": "24 h sur 24.",
+      "src": {
+       "org": "Gouvernement du Manitoba",
+       "title": "Vous n’êtes pas seul",
+       "url": "https://www.gov.mb.ca/youarenotalone/findinghelp.fr.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Manitoba: crisis lines",
+      "desc": "Manitoba Suicide Prevention & Support Line: 1 877 435-7170, toll-free. Klinic Crisis Line: 1 888 322-3019, toll-free, or 204 786-8686 in Winnipeg.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Gouvernement du Manitoba",
+       "title": "Vous n’êtes pas seul",
+       "url": "https://www.gov.mb.ca/youarenotalone/findinghelp.fr.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Manitoba",
+      "title": "Vous n’êtes pas seul",
+      "url": "https://www.gov.mb.ca/youarenotalone/findinghelp.fr.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "caon",
+     "band": "now",
+     "tel": "811",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Ontario : Santé811",
+      "desc": "Appel sans frais au 811 pour joindre une infirmière ou un infirmier autorisé, qui peut répondre à des questions de santé, notamment sur la dépression, l’anxiété, d’autres troubles de santé mentale ou les dépendances. Gratuit et confidentiel.",
+      "hours": "24 heures sur 24, sept jours sur sept.",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+       "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+       "kind": "fact",
+       "upd": "2026-06-22"
+      }
+     },
+     "en": {
+      "name": "Ontario: Health811",
+      "desc": "Call 811 toll-free to reach a registered nurse, who can answer health questions, including questions about depression, anxiety, other mental health conditions or addictions. Free and confidential.",
+      "hours": "24 hours a day, seven days a week.",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+       "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+       "kind": "fact",
+       "upd": "2026-06-22"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de l’Ontario (ontario.ca)",
+      "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+      "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+      "kind": "fact",
+      "upd": "2026-06-22"
+     }
+    },
+    {
+     "id": "caqc",
+     "band": "now",
+     "tel": "811",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : Info-Social 811",
+      "desc": "Ligne téléphonique de consultation, gratuite et confidentielle, pour les personnes qui vivent au Québec, que l’appel concerne soi-même ou un proche. Ce service n’est pas offert dans les Terres-Cries-de-la-Baie-James ni au Nunavik.",
+      "hours": "24 heures par jour, 365 jours par année.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Info-Social 811",
+       "url": "https://www.quebec.ca/sante/trouver-une-ressource/info-social-811",
+       "kind": "fact",
+       "upd": "2020-01-09"
+      }
+     },
+     "en": {
+      "name": "Québec: Info-Social 811",
+      "desc": "A free, confidential phone consultation line for people who live in Québec, whether the call is about yourself or someone close to you. This service is not offered in the Terres-Cries-de-la-Baie-James (Cree territory of James Bay) or in Nunavik.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Info-Social 811",
+       "url": "https://www.quebec.ca/sante/trouver-une-ressource/info-social-811",
+       "kind": "fact",
+       "upd": "2020-01-09"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Info-Social 811",
+      "url": "https://www.quebec.ca/sante/trouver-une-ressource/info-social-811",
+      "kind": "fact",
+      "upd": "2020-01-09"
+     }
+    },
+    {
+     "id": "caqcsui",
+     "band": "now",
+     "tel": "1-866-277-3553",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "535353",
+     "fr": {
+      "name": "Québec : ligne d’aide et de prévention du suicide",
+      "desc": "Si vous pensez au suicide ou si vous vous inquiétez pour un proche : 1 866 APPELLE (1 866 277-3553), ou texto au 535353. Gratuit et confidentiel.",
+      "hours": "24 heures par jour, 365 jours par année.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Reconnaître les signes de détresse et prévenir le suicide",
+       "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/reconnaitre-signes-detresse-et-prevenir-suicide",
+       "kind": "fact",
+       "upd": "2025-10-23"
+      }
+     },
+     "en": {
+      "name": "Québec: suicide prevention and support line",
+      "desc": "If you are thinking about suicide or you are worried about someone close to you: 1 866 APPELLE (1 866 277-3553), or text 535353. Free and confidential.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Reconnaître les signes de détresse et prévenir le suicide",
+       "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/reconnaitre-signes-detresse-et-prevenir-suicide",
+       "kind": "fact",
+       "upd": "2025-10-23"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Reconnaître les signes de détresse et prévenir le suicide",
+      "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/reconnaitre-signes-detresse-et-prevenir-suicide",
+      "kind": "fact",
+      "upd": "2025-10-23"
+     }
+    },
+    {
+     "id": "cans",
+     "band": "now",
+     "tel": "1-888-429-8167",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Nouvelle-Écosse : ligne provinciale de crise en santé mentale et en dépendances",
+      "desc": "1-888-429-8167, sans frais. C’est la personne qui appelle qui dit si elle est en crise.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Santé Nouvelle-Écosse (Nova Scotia Health)",
+       "title": "Provincial Mental Health and Addictions Crisis Line",
+       "url": "https://mha.nshealth.ca/en/provincialmhacrisisline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Nova Scotia: Provincial Mental Health and Addictions Crisis Line",
+      "desc": "1-888-429-8167, toll-free. It is the caller who says whether they are in crisis.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Santé Nouvelle-Écosse (Nova Scotia Health)",
+       "title": "Provincial Mental Health and Addictions Crisis Line",
+       "url": "https://mha.nshealth.ca/en/provincialmhacrisisline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Santé Nouvelle-Écosse (Nova Scotia Health)",
+      "title": "Provincial Mental Health and Addictions Crisis Line",
+      "url": "https://mha.nshealth.ca/en/provincialmhacrisisline",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "canl",
+     "band": "now",
+     "tel": "811",
+     "tel2": "1-888-709-2929",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Terre-Neuve-et-Labrador : 811 HealthLine",
+      "desc": "Ligne tenue par des infirmières et infirmiers, qui peuvent vous écouter, vous soutenir et vous diriger vers les services de santé de votre région, notamment en cas de crise liée à la santé mentale ou aux dépendances. Autre numéro : 1-888-709-2929.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Gouvernement de Terre-Neuve-et-Labrador",
+       "title": "Help Lines",
+       "url": "https://www.gov.nl.ca/hcs/findhealthservices/helplines/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Newfoundland and Labrador: 811 HealthLine",
+      "desc": "A line staffed by nurses, who can listen to you, support you and direct you to health services in your region, including in a crisis related to mental health or addictions. Other number: 1-888-709-2929.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement de Terre-Neuve-et-Labrador",
+       "title": "Help Lines",
+       "url": "https://www.gov.nl.ca/hcs/findhealthservices/helplines/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de Terre-Neuve-et-Labrador",
+      "title": "Help Lines",
+      "url": "https://www.gov.nl.ca/hcs/findhealthservices/helplines/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "canwt",
+     "band": "now",
+     "tel": "811",
+     "tel2": "1-844-259-1793",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Territoires du Nord-Ouest : 811",
+      "desc": "Pour parler à une infirmière ou un infirmier autorisé en cas de difficultés de santé mentale ou de dépendance : 811 ou 1-844-259-1793. Service gratuit et confidentiel, en français, en anglais et dans d’autres langues des Territoires du Nord-Ouest.",
+      "hours": "En tout temps.",
+      "src": {
+       "org": "Gouvernement des Territoires du Nord-Ouest (Santé et Services sociaux)",
+       "title": "Help Lines",
+       "url": "https://www.hss.gov.nt.ca/en/services/mental-wellness-and-addictions-recovery/help-lines",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Northwest Territories: 811",
+      "desc": "To speak with a registered nurse about mental health or addiction difficulties: 811 or 1-844-259-1793. Free and confidential service, in French, in English and in other languages of the Northwest Territories.",
+      "hours": "At all times.",
+      "src": {
+       "org": "Gouvernement des Territoires du Nord-Ouest (Santé et Services sociaux)",
+       "title": "Help Lines",
+       "url": "https://www.hss.gov.nt.ca/en/services/mental-wellness-and-addictions-recovery/help-lines",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement des Territoires du Nord-Ouest (Santé et Services sociaux)",
+      "title": "Help Lines",
+      "url": "https://www.hss.gov.nt.ca/en/services/mental-wellness-and-addictions-recovery/help-lines",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "canu",
+     "band": "now",
+     "tel": "1-800-265-3333",
+     "tel2": "867-979-3333",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Nunavut : Kamatsiaqtut Help Line",
+      "desc": "1-800-265-3333 (sans frais) ou 867-979-3333.",
+      "hours": "24 heures sur 24.",
+      "src": {
+       "org": "Gouvernement du Nunavut",
+       "title": "Help and Support",
+       "url": "https://livehealthy.gov.nu.ca/en/mental-wellness/help-and-support",
+       "kind": "fact",
+       "upd": "2019-03-01"
+      }
+     },
+     "en": {
+      "name": "Nunavut: Kamatsiaqtut Help Line",
+      "desc": "1-800-265-3333 (toll-free) or 867-979-3333.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Gouvernement du Nunavut",
+       "title": "Help and Support",
+       "url": "https://livehealthy.gov.nu.ca/en/mental-wellness/help-and-support",
+       "kind": "fact",
+       "upd": "2019-03-01"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Nunavut",
+      "title": "Help and Support",
+      "url": "https://livehealthy.gov.nu.ca/en/mental-wellness/help-and-support",
+      "kind": "fact",
+      "upd": "2019-03-01"
+     }
+    },
+    {
+     "id": "cadvbc",
+     "band": "now",
+     "tel": "1-800-563-0808",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "1-800-563-0808",
+     "fr": {
+      "name": "Colombie-Britannique et Yukon : VictimLinkBC",
+      "desc": "Pour toute personne victime d’un acte criminel : information et orientation. En cas de violence familiale ou sexuelle : soutien immédiat en situation de crise. Appel ou texto au 1-800-563-0808, sans frais et confidentiel, en plusieurs langues.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Gouvernement de la Colombie-Britannique",
+       "title": "VictimLinkBC",
+       "url": "https://www2.gov.bc.ca/gov/content/justice/criminal-justice/victims-of-crime/victimlinkbc",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "en": {
+      "name": "British Columbia and Yukon: VictimLinkBC",
+      "desc": "For anyone who is a victim of a crime: information and referral. In cases of family or sexual violence: immediate crisis support. Call or text 1-800-563-0808, toll-free and confidential, in several languages.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement de la Colombie-Britannique",
+       "title": "VictimLinkBC",
+       "url": "https://www2.gov.bc.ca/gov/content/justice/criminal-justice/victims-of-crime/victimlinkbc",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de la Colombie-Britannique",
+      "title": "VictimLinkBC",
+      "url": "https://www2.gov.bc.ca/gov/content/justice/criminal-justice/victims-of-crime/victimlinkbc",
+      "kind": "fact",
+      "upd": "2026-02-05"
+     }
+    },
+    {
+     "id": "cadvab",
+     "band": "now",
+     "tel": "211",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "211",
+     "fr": {
+      "name": "Alberta : Family Violence Info Line",
+      "desc": "Au 211, par appel ou texto, sans frais. L’aide est confidentielle. Des frais de messagerie texte peuvent s’appliquer.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Gouvernement de l’Alberta",
+       "title": "Family violence – Find supports",
+       "url": "https://www.alberta.ca/family-violence-find-supports",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Alberta: Family Violence Info Line",
+      "desc": "Call or text 211, toll-free. The help is confidential. Text messaging fees may apply.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement de l’Alberta",
+       "title": "Family violence – Find supports",
+       "url": "https://www.alberta.ca/family-violence-find-supports",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de l’Alberta",
+      "title": "Family violence – Find supports",
+      "url": "https://www.alberta.ca/family-violence-find-supports",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cadvmb",
+     "band": "now",
+     "tel": "1-877-977-0007",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Manitoba : violence familiale, ligne de détresse",
+      "desc": "1 877 977-0007, sans frais.",
+      "hours": "24 h sur 24.",
+      "src": {
+       "org": "Gouvernement du Manitoba",
+       "title": "Vous n’êtes pas seul",
+       "url": "https://www.gov.mb.ca/youarenotalone/findinghelp.fr.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Manitoba: family violence distress line",
+      "desc": "1 877 977-0007, toll-free.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Gouvernement du Manitoba",
+       "title": "Vous n’êtes pas seul",
+       "url": "https://www.gov.mb.ca/youarenotalone/findinghelp.fr.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Manitoba",
+      "title": "Vous n’êtes pas seul",
+      "url": "https://www.gov.mb.ca/youarenotalone/findinghelp.fr.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cadvon",
+     "band": "now",
+     "tel": "1-877-336-2433",
+     "tel2": "1-866-863-0511",
+     "url": "",
+     "linkOk": false,
+     "sms": "1 877 336-2433",
+     "fr": {
+      "name": "Ontario : Fem’aide et Assaulted Women’s Helpline",
+      "desc": "Fem’aide, pour les femmes francophones et celles qui parlent français : appel ou texto au 1 877 336-2433. Assaulted Women’s Helpline, pour les femmes et leurs personnes à charge : 1 866 863-0511. Ces lignes d’aide sont gratuites et confidentielles. Pour toute victime d’actes criminels : Ligne d’aide aux victimes, 1 888 579-2888.",
+      "hours": "24 heures sur 24.",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouver de l’aide pour les survivant(e)s de violence",
+       "url": "https://www.ontario.ca/fr/page/trouver-de-laide-pour-les-survivantes-de-violence",
+       "kind": "fact",
+       "upd": "2026-02-12"
+      }
+     },
+     "en": {
+      "name": "Ontario: Fem’aide and Assaulted Women’s Helpline",
+      "desc": "Fem’aide, for Francophone women and women who speak French: call or text 1 877 336-2433. Assaulted Women’s Helpline, for women and their dependants: 1 866 863-0511. These help lines are free and confidential. For any victim of crime: Victim Support Line (Ligne d’aide aux victimes), 1 888 579-2888.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouver de l’aide pour les survivant(e)s de violence",
+       "url": "https://www.ontario.ca/fr/page/trouver-de-laide-pour-les-survivantes-de-violence",
+       "kind": "fact",
+       "upd": "2026-02-12"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de l’Ontario (ontario.ca)",
+      "title": "Trouver de l’aide pour les survivant(e)s de violence",
+      "url": "https://www.ontario.ca/fr/page/trouver-de-laide-pour-les-survivantes-de-violence",
+      "kind": "fact",
+      "upd": "2026-02-12"
+     }
+    },
+    {
+     "id": "casos",
+     "band": "now",
+     "tel": "1-800-363-9010",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : SOS violence conjugale",
+      "desc": "Ligne sans frais. Si vous êtes en danger immédiat, composez le 911.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Demander une ordonnance de protection en matière civile",
+       "url": "https://www.quebec.ca/justice-et-etat-civil/accompagnement-victimes-crime/mesures-protection-securite/demander-ordonnance-protection-civile",
+       "kind": "fact",
+       "upd": "2026-06-25"
+      }
+     },
+     "en": {
+      "name": "Québec: SOS violence conjugale",
+      "desc": "Toll-free line. If you are in immediate danger, call 911.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Demander une ordonnance de protection en matière civile",
+       "url": "https://www.quebec.ca/justice-et-etat-civil/accompagnement-victimes-crime/mesures-protection-securite/demander-ordonnance-protection-civile",
+       "kind": "fact",
+       "upd": "2026-06-25"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Demander une ordonnance de protection en matière civile",
+      "url": "https://www.quebec.ca/justice-et-etat-civil/accompagnement-victimes-crime/mesures-protection-securite/demander-ordonnance-protection-civile",
+      "kind": "fact",
+      "upd": "2026-06-25"
+     }
+    },
+    {
+     "id": "cadvns",
+     "band": "now",
+     "tel": "1-855-225-0220",
+     "tel2": "211",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Nouvelle-Écosse : Transition House Association of Nova Scotia",
+      "desc": "Ligne sans frais 1-855-225-0220, pour obtenir de l’aide ou de l’information sur la violence. Le 211 met aussi en lien avec des lignes d’aide pour les hommes, pour les femmes ou pour toutes les personnes : gratuites, confidentielles, 24 heures sur 24, 7 jours sur 7.",
+      "hours": "24 heures sur 24.",
+      "src": {
+       "org": "Gouvernement de la Nouvelle-Écosse",
+       "title": "Standing Together to Prevent Domestic Violence",
+       "url": "https://novascotia.ca/standingtogether/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Nova Scotia: Transition House Association of Nova Scotia",
+      "desc": "Toll-free line 1-855-225-0220, for help or information about violence. 211 also connects you to help lines for men, for women or for everyone: free, confidential, 24 hours a day, 7 days a week.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Gouvernement de la Nouvelle-Écosse",
+       "title": "Standing Together to Prevent Domestic Violence",
+       "url": "https://novascotia.ca/standingtogether/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de la Nouvelle-Écosse",
+      "title": "Standing Together to Prevent Domestic Violence",
+      "url": "https://novascotia.ca/standingtogether/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cadvnl",
+     "band": "now",
+     "tel": "1-888-709-7090",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "1-888-709-7090",
+     "fr": {
+      "name": "Terre-Neuve-et-Labrador : ligne d’aide en cas de violence familiale",
+      "desc": "1-888-709-7090, sans frais, par appel ou texto, partout dans la province. L’appel est dirigé vers une maison d’hébergement de transition de votre région.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Gouvernement de Terre-Neuve-et-Labrador",
+       "title": "Domestic Violence Help Line 1-888-709-7090",
+       "url": "https://www.gov.nl.ca/vpi/domestic-violence-help-line/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Newfoundland and Labrador: family violence help line",
+      "desc": "1-888-709-7090, toll-free, by call or text, throughout the province. The call is routed to a transition house in your region.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement de Terre-Neuve-et-Labrador",
+       "title": "Domestic Violence Help Line 1-888-709-7090",
+       "url": "https://www.gov.nl.ca/vpi/domestic-violence-help-line/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de Terre-Neuve-et-Labrador",
+      "title": "Domestic Violence Help Line 1-888-709-7090",
+      "url": "https://www.gov.nl.ca/vpi/domestic-violence-help-line/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cadvnt",
+     "band": "now",
+     "tel": "1-866-223-7775",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Territoires du Nord-Ouest : ligne de crise de la maison Alison McAteer",
+      "desc": "1-866-223-7775, pour toute personne qui vit aux Territoires du Nord-Ouest et qui subit de la violence à la maison.",
+      "hours": "24 heures sur 24, 7 jours sur 7.",
+      "src": {
+       "org": "Gouvernement des Territoires du Nord-Ouest (Santé et Services sociaux)",
+       "title": "Getting Help with Family Violence",
+       "url": "https://www.hss.gov.nt.ca/en/services/family-violence/getting-help-family-violence",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Northwest Territories: Alison McAteer House crisis line",
+      "desc": "1-866-223-7775, for anyone who lives in the Northwest Territories and is experiencing violence at home.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement des Territoires du Nord-Ouest (Santé et Services sociaux)",
+       "title": "Getting Help with Family Violence",
+       "url": "https://www.hss.gov.nt.ca/en/services/family-violence/getting-help-family-violence",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Gouvernement des Territoires du Nord-Ouest (Santé et Services sociaux)",
+      "title": "Getting Help with Family Violence",
+      "url": "https://www.hss.gov.nt.ca/en/services/family-violence/getting-help-family-violence",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cagp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Médecin ou groupe de médecine de famille (GMF)",
+      "desc": "Consulter son médecin peut être un premier contact, aussi pour la santé mentale. Au Québec, on peut aussi se présenter à son groupe de médecine de famille (GMF) ou à un CLSC. Vous pouvez y montrer « Mes difficultés ».",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Soins et services en santé mentale : une offre diversifiée pour tous les besoins",
+       "url": "https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/etapes-pour-obtenir-soins-et-services-en-sante-mentale",
+       "kind": "fact",
+       "upd": "2024-03-01"
+      }
+     },
+     "en": {
+      "name": "Family doctor or family medicine group (GMF)",
+      "desc": "Seeing your doctor can be a first contact, including for mental health. In Québec, you can also go to your family medicine group (groupe de médecine de famille, GMF) or to a CLSC (local community service centre). You can show them “My worries” there.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Soins et services en santé mentale : une offre diversifiée pour tous les besoins",
+       "url": "https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/etapes-pour-obtenir-soins-et-services-en-sante-mentale",
+       "kind": "fact",
+       "upd": "2024-03-01"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Soins et services en santé mentale : une offre diversifiée pour tous les besoins",
+      "url": "https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/etapes-pour-obtenir-soins-et-services-en-sante-mentale",
+      "kind": "fact",
+      "upd": "2024-03-01"
+     }
+    },
+    {
+     "id": "caqcgap",
+     "band": "day",
+     "tel": "811",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : Guichet d’accès à la première ligne (811, option 3)",
+      "desc": "Ligne réservée aux personnes qui n’ont pas de médecin de famille : au 811, option 3. Au téléphone, une infirmière ou un infirmier peut donner des conseils et, si c’est utile, diriger vers la ou le professionnel de la santé qui convient.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Info-Santé 811",
+       "url": "https://www.quebec.ca/sante/trouver-une-ressource/info-sante-811",
+       "kind": "fact",
+       "upd": "2022-12-07"
+      }
+     },
+     "en": {
+      "name": "Québec: Guichet d’accès à la première ligne (primary care access point; 811, option 3)",
+      "desc": "A line reserved for people who do not have a family doctor: 811, option 3. By phone, a nurse can give advice and, if it is useful, direct you to the right health professional.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Info-Santé 811",
+       "url": "https://www.quebec.ca/sante/trouver-une-ressource/info-sante-811",
+       "kind": "fact",
+       "upd": "2022-12-07"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Info-Santé 811",
+      "url": "https://www.quebec.ca/sante/trouver-une-ressource/info-sante-811",
+      "kind": "fact",
+      "upd": "2022-12-07"
+     }
+    },
+    {
+     "id": "caclsc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : CLSC (centre local de services communautaires)",
+      "desc": "Tous les CLSC du Québec offrent des services en santé mentale, sans qu’une référence d’un médecin ou un diagnostic soit exigé. On peut aller sans rendez-vous à l’accueil psychosocial de son CLSC, ou appeler Info-Social au 811, option 2.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Centre local de services communautaires (CLSC)",
+       "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/clsc",
+       "kind": "fact",
+       "upd": "2023-09-23"
+      }
+     },
+     "en": {
+      "name": "Québec: CLSC (local community service centre)",
+      "desc": "All CLSCs in Québec offer mental health services, without requiring a referral from a doctor or a diagnosis. You can go without an appointment to the psychosocial reception service of your CLSC, or call Info-Social at 811, option 2.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Centre local de services communautaires (CLSC)",
+       "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/clsc",
+       "kind": "fact",
+       "upd": "2023-09-23"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Centre local de services communautaires (CLSC)",
+      "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/clsc",
+      "kind": "fact",
+      "upd": "2023-09-23"
+     }
+    },
+    {
+     "id": "caabaccess",
+     "band": "day",
+     "tel": "1-888-594-0211",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Alberta : Access Addiction & Mental Health (Recovery Alberta)",
+      "desc": "Conseils, information et rendez-vous sans urgence en santé mentale et en dépendances : 1-888-594-0211 (nord, centre et sud de l’Alberta). Région de Calgary : 403-943-1500. Région d’Edmonton (adultes) : 780-424-2424.",
+      "hours": "",
+      "src": {
+       "org": "Recovery Alberta",
+       "title": "Mental health & addiction helplines",
+       "url": "https://www.recoveryalberta.ca/page14060.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Alberta: Access Addiction & Mental Health (Recovery Alberta)",
+      "desc": "Advice, information and non-urgent appointments for mental health and addictions: 1-888-594-0211 (northern, central and southern Alberta). Calgary area: 403-943-1500. Edmonton area (adults): 780-424-2424.",
+      "hours": "",
+      "src": {
+       "org": "Recovery Alberta",
+       "title": "Mental health & addiction helplines",
+       "url": "https://www.recoveryalberta.ca/page14060.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Recovery Alberta",
+      "title": "Mental health & addiction helplines",
+      "url": "https://www.recoveryalberta.ca/page14060.aspx",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "caconnex",
+     "band": "day",
+     "tel": "1-866-531-2600",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Ontario : ConnexOntario",
+      "desc": "Information et orientation vers des services de santé mentale et de dépendances en Ontario, par téléphone sans frais, par clavardage ou par courriel. Gratuit et confidentiel. Ce n’est pas une ligne de crise : en cas d’urgence, composez le 911.",
+      "hours": "24 heures sur 24, sept jours sur sept.",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+       "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+       "kind": "fact",
+       "upd": "2026-06-22"
+      }
+     },
+     "en": {
+      "name": "Ontario: ConnexOntario",
+      "desc": "Information and referral to mental health and addiction services in Ontario, by toll-free phone, chat or email. Free and confidential. This is not a crisis line: in an emergency, call 911.",
+      "hours": "24 hours a day, seven days a week.",
+      "src": {
+       "org": "Gouvernement de l’Ontario (ontario.ca)",
+       "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+       "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+       "kind": "fact",
+       "upd": "2026-06-22"
+      }
+     },
+     "src": {
+      "org": "Gouvernement de l’Ontario (ontario.ca)",
+      "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+      "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+      "kind": "fact",
+      "upd": "2026-06-22"
+     }
+    },
+    {
+     "id": "caqcdrogue",
+     "band": "day",
+     "tel": "1-800-265-2626",
+     "tel2": "514-527-2626",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : Drogue : aide et référence",
+      "desc": "Ligne téléphonique d’information, d’écoute et d’orientation pour toute personne inquiète de sa consommation, et pour ses proches. Gratuit et confidentiel, en français et en anglais. Ailleurs au Québec : 1 800 265-2626. Région de Montréal : 514 527-2626.",
+      "hours": "24 heures par jour, 7 jours par semaine.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Consommation d'alcool et d'autres drogues et pratique des jeux de hasard et d'argent",
+       "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu",
+       "kind": "fact",
+       "upd": "2020-12-04"
+      }
+     },
+     "en": {
+      "name": "Québec: Drogue : aide et référence (drugs: help and referral)",
+      "desc": "A phone line for information, listening and referral, for anyone worried about their substance use, and for their loved ones. Free and confidential, in French and in English. Elsewhere in Québec: 1 800 265-2626. Montréal area: 514 527-2626.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Consommation d'alcool et d'autres drogues et pratique des jeux de hasard et d'argent",
+       "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu",
+       "kind": "fact",
+       "upd": "2020-12-04"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Consommation d'alcool et d'autres drogues et pratique des jeux de hasard et d'argent",
+      "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu",
+      "kind": "fact",
+      "upd": "2020-12-04"
+     }
+    },
+    {
+     "id": "caqcjeu",
+     "band": "day",
+     "tel": "1-800-461-0140",
+     "tel2": "514-527-0140",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : Jeu : aide et référence",
+      "desc": "Ligne téléphonique d’information, d’écoute et d’orientation pour toute personne inquiète de sa pratique des jeux de hasard et d’argent, et pour ses proches. Gratuit et confidentiel, en français et en anglais. Ailleurs au Québec : 1 800 461-0140. Région de Montréal : 514 527-0140.",
+      "hours": "24 heures par jour, 7 jours par semaine.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Consommation d'alcool et d'autres drogues et pratique des jeux de hasard et d'argent",
+       "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu",
+       "kind": "fact",
+       "upd": "2020-12-04"
+      }
+     },
+     "en": {
+      "name": "Québec: Jeu : aide et référence (gambling: help and referral)",
+      "desc": "A phone line for information, listening and referral, for anyone worried about their gambling, and for their loved ones. Free and confidential, in French and in English. Elsewhere in Québec: 1 800 461-0140. Montréal area: 514 527-0140.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Consommation d'alcool et d'autres drogues et pratique des jeux de hasard et d'argent",
+       "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu",
+       "kind": "fact",
+       "upd": "2020-12-04"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Consommation d'alcool et d'autres drogues et pratique des jeux de hasard et d'argent",
+      "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu",
+      "kind": "fact",
+      "upd": "2020-12-04"
+     }
+    },
+    {
+     "id": "caaneb",
+     "band": "day",
+     "tel": "1-800-630-0907",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : Anorexie et boulimie Québec (ANEB)",
+      "desc": "Ligne d’écoute et de référence sur les troubles des conduites alimentaires, pour les personnes concernées et leurs proches.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Ressources d’aide et de soutien en santé mentale",
+       "url": "https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin",
+       "kind": "fact",
+       "upd": "2026-10-28"
+      }
+     },
+     "en": {
+      "name": "Québec: Anorexie et boulimie Québec (ANEB) (eating disorders help line)",
+      "desc": "A listening and referral line about eating disorders, for the people affected and their loved ones.",
+      "hours": "",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Ressources d’aide et de soutien en santé mentale",
+       "url": "https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin",
+       "kind": "fact",
+       "upd": "2026-10-28"
+      }
+     },
+     "src": {
+      "org": "Gouvernement du Québec (Québec.ca)",
+      "title": "Ressources d’aide et de soutien en santé mentale",
+      "url": "https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin",
+      "kind": "fact",
+      "upd": "2026-10-28"
+     }
+    },
+    {
+     "id": "cachrc",
+     "band": "day",
+     "tel": "1-888-214-1090",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Commission canadienne des droits de la personne",
+      "desc": "Pour la discrimination chez les employeurs sous réglementation fédérale, par exemple les banques, les transporteurs aériens et ferroviaires ou les ministères fédéraux. Numéro sans frais pour les renseignements généraux ou pour déposer une plainte pour discrimination.",
+      "hours": "Du lundi au vendredi, de 8 h à 20 h (heure de l’Est).",
+      "src": {
+       "org": "Commission canadienne des droits de la personne (CCDP)",
+       "title": "Contactez la Commission",
+       "url": "https://www.ccdp-chrc.gc.ca/contactez-la-commission",
+       "kind": "fact",
+       "upd": "2026-11-12"
+      }
+     },
+     "en": {
+      "name": "Canadian Human Rights Commission",
+      "desc": "For discrimination by federally regulated employers, such as banks, airlines and railways, or federal departments. A toll-free number for general information or to file a complaint about discrimination.",
+      "hours": "Monday to Friday, 8 a.m. to 8 p.m. (Eastern time).",
+      "src": {
+       "org": "Commission canadienne des droits de la personne (CCDP)",
+       "title": "Contactez la Commission",
+       "url": "https://www.ccdp-chrc.gc.ca/contactez-la-commission",
+       "kind": "fact",
+       "upd": "2026-11-12"
+      }
+     },
+     "src": {
+      "org": "Commission canadienne des droits de la personne (CCDP)",
+      "title": "Contactez la Commission",
+      "url": "https://www.ccdp-chrc.gc.ca/contactez-la-commission",
+      "kind": "fact",
+      "upd": "2026-11-12"
+     }
+    },
+    {
+     "id": "cacdpdj",
+     "band": "day",
+     "tel": "1-800-361-6477",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "fr": {
+      "name": "Québec : Commission des droits de la personne et des droits de la jeunesse",
+      "desc": "Pour les personnes qui pensent avoir subi de la discrimination au Québec. Numéro sans frais. Avant de se présenter à un bureau, il faut téléphoner pour prendre rendez-vous.",
+      "hours": "Du lundi au vendredi, de 8 h 30 à 12 h et de 13 h à 16 h 30.",
+      "src": {
+       "org": "Commission des droits de la personne et des droits de la jeunesse (CDPDJ)",
+       "title": "Nous joindre",
+       "url": "https://www.cdpdj.qc.ca/fr/nous-joindre",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Québec: Commission des droits de la personne et des droits de la jeunesse (human rights and youth rights commission)",
+      "desc": "For people who think they have experienced discrimination in Québec. Toll-free number. Before going to an office, you need to phone to make an appointment.",
+      "hours": "Monday to Friday, 8:30 a.m. to noon and 1 p.m. to 4:30 p.m.",
+      "src": {
+       "org": "Commission des droits de la personne et des droits de la jeunesse (CDPDJ)",
+       "title": "Nous joindre",
+       "url": "https://www.cdpdj.qc.ca/fr/nous-joindre",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Commission des droits de la personne et des droits de la jeunesse (CDPDJ)",
+      "title": "Nous joindre",
+      "url": "https://www.cdpdj.qc.ca/fr/nous-joindre",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "fr": {
+    "groups": {
+     "mood": {
+      "label": "Moral en baisse, manque d’envie",
+      "lead": "Quand le moral reste bas et qu’il est difficile de trouver l’énergie de faire quoi que ce soit.",
+      "scenes": [
+       "Mon moral reste bas du matin au soir.",
+       "Les choses que j’aimais avant ne me font plus plaisir.",
+       "Je n’ai pas d’énergie et j’ai du mal à me concentrer, alors le travail et les tâches de la maison n’avancent pas.",
+       "Je me fais des reproches et je vois tout en noir.",
+       "Je n’arrive pas à dormir la nuit, ou au contraire je dors trop. J’ai perdu l’appétit et j’ai le corps lourd.",
+       "J’ai parfois envie de disparaître ou de ne plus être là."
+      ],
+      "asks": [
+       "Cela m’aiderait si on me disait les choses à faire une à la fois.",
+       "J’ai besoin de temps pour réfléchir. Cela m’aiderait si on ne me pressait pas de répondre ou de décider.",
+       "Cela m’aiderait si on me donnait aussi les choses importantes par écrit.",
+       "Cela m’aiderait si on m’écoutait d’abord, avant de me dire « Courage » ou « Prends sur toi ».",
+       "Cela m’aiderait si mes moments de repos n’étaient pas pris pour de la paresse.",
+       "Je voudrais qu’on vérifie ensemble si une maladie physique ou un médicament que je prends en ce moment joue un rôle."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dépression",
+        "why": "Cette page décrit des émotions pénibles qui pèsent plus lourd et restent plus longtemps que chez la plupart des gens, au point de rendre difficiles le travail, la vie de famille et la vie sociale.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Dépression",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/depression",
+         "kind": "fact",
+         "upd": "2024-07-30"
+        }
+       },
+       {
+        "name": "Trouble bipolaire",
+        "why": "Cette page décrit des périodes où l’humeur change beaucoup : une grande tristesse à certains moments, un bonheur extrême à d’autres.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble bipolaire",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-bipolaire",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Forte anxiété ou tension",
+      "lead": "Des inquiétudes qui ne s’arrêtent pas, le cœur qui bat fort et l’agitation, des difficultés devant les autres ou pour sortir, et d’autres situations semblables.",
+      "scenes": [
+       "Quand je dois parler devant d’autres personnes ou que les regards se tournent vers moi, l’anxiété est si forte que j’ai la tête vide.",
+       "Mon cœur se met soudain à battre très fort et j’ai du mal à respirer. J’ai peur que cela recommence, alors j’ai du mal à sortir.",
+       "Même sans raison claire, je m’inquiète pour une chose, puis pour une autre, je n’arrive pas à rester en place et cela m’épuise.",
+       "J’ai du mal avec les endroits d’où il est difficile de partir, comme le métro, l’autobus ou les édifices pleins de monde, et avec les sorties sans personne pour m’accompagner. Alors je les évite.",
+       "À force d’éviter ce qui m’angoisse, je vais dans moins d’endroits et je vois moins de monde : ma vie s’est rétrécie.",
+       "Mes inquiétudes ne me sortent pas de la tête et j’ai du mal à m’endormir le soir."
+      ],
+      "asks": [
+       "Cela m’aiderait si on m’attendait, sans me presser, quand je parle.",
+       "Cela m’aiderait si on me disait à l’avance le programme et la façon dont les choses vont se passer.",
+       "Cela m’aiderait si on ne me demandait pas mon avis tout à coup devant les autres, et si je pouvais aussi choisir de répondre par écrit.",
+       "Cela m’aiderait si je pouvais m’éloigner un moment pour me reposer quand je me sens mal.",
+       "Je préfère parler dans un endroit calme, avec peu de personnes.",
+       "Cela m’aiderait si on ne se contentait pas de me dire que je m’en fais trop, et si on écoutait d’abord ce qui est difficile pour moi."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Troubles anxieux",
+        "why": "Selon cette page, quand l’anxiété prend trop de place et ne s’en va pas, elle devient une difficulté, et un trouble anxieux peut alors être en cause.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        }
+       },
+       {
+        "name": "État de stress post-traumatique (ESPT)",
+        "why": "Cette page décrit une peur intense qui revient après un événement dangereux, par exemple dans des rêves ou des retours en arrière (flash-back).",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "État de stress post-traumatique (ESPT)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/etat-stress-post-traumatique",
+         "kind": "fact",
+         "upd": "2018-10-30"
+        }
+       },
+       {
+        "name": "Dépression",
+        "why": "Selon cette page, les troubles anxieux et la dépression vont souvent ensemble.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Difficile d’arrêter de vérifier ou de répéter",
+      "lead": "Vérifier la serrure ou la cuisinière, se laver les mains ou répéter d’autres gestes encore et encore, et avoir du mal à s’arrêter même quand on le voudrait.",
+      "scenes": [
+       "Quand je sors de chez moi, je dois vérifier encore et encore la serrure et la cuisinière avant de pouvoir partir l’esprit tranquille.",
+       "Je me lave les mains ou le corps de plus en plus souvent, et je n’arrive pas à arrêter même si je le veux.",
+       "La même inquiétude me revient sans cesse en tête, et je n’arrive pas à arrêter d’y penser alors que je le voudrais.",
+       "Si les objets ne sont pas placés ou si les choses ne sont pas faites dans l’ordre que j’ai décidé, je me sens mal à l’aise et je finis par tout remettre en place ou par tout recommencer.",
+       "Les vérifications me prennent tellement de temps que je pars en retard, ou que j’arrive en retard à mes rendez-vous ou au travail.",
+       "Mon corps bouge ou des sons sortent de ma bouche sans que je le veuille, et c’est difficile à arrêter même quand j’essaie."
+      ],
+      "asks": [
+       "Cela m’aiderait si on m’écoutait d’abord, au lieu de me dire seulement que je m’en fais trop.",
+       "Les vérifications me prennent du temps. Cela m’aiderait si on me laissait un peu de marge.",
+       "Cela m’aiderait si on me prévenait à l’avance quand le programme ou la façon de faire change.",
+       "Cela m’aiderait si on ne me faisait pas de remarques et si personne ne se moquait de moi devant les autres quand je vérifie ou que je me lave.",
+       "Cela m’aiderait si on me donnait les explications et les consignes une à la fois, par écrit.",
+       "Pour décider de la suite (consultations, soins), je voudrais qu’on écoute d’abord mes inquiétudes, et qu’on prenne le temps."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trouble obsessionnel-compulsif (TOC)",
+        "why": "Cette page décrit des pensées qui reviennent sans qu’on le veuille, et le besoin de refaire les mêmes gestes pour s’en libérer ou pour apaiser l’anxiété.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble obsessionnel-compulsif (TOC)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-obsessionnel-compulsif",
+         "kind": "fact",
+         "upd": "2018-10-25"
+        }
+       },
+       {
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Selon cette page, le trouble du spectre de l’autisme peut s’accompagner, dans certains cas, de façons d’agir, d’occupations ou de centres d’intérêt très particuliers ou qui se répètent.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Autoformation Mieux accueillir les personnes handicapées : le trouble du spectre de l’autisme",
+         "url": "https://www.quebec.ca/famille-et-soutien-aux-personnes/participation-sociale-personnes-handicapees/autoformation-mieux-accueillir-personnes-handicapees/trouble-spectre-autisme",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Des difficultés qui durent après un événement pénible",
+      "lead": "Des souvenirs qui reviennent, un sommeil difficile ou une tension qui ne retombe pas après un événement pénible.",
+      "scenes": [
+       "Un petit détail suffit pour que la scène et ce que j’ai ressenti à ce moment-là me reviennent d’un coup.",
+       "Je fais souvent le même genre de cauchemar et, beaucoup de nuits, je n’arrive pas à dormir profondément.",
+       "Je suis tout le temps sur le qui-vive, et le moindre bruit ou imprévu me fait sursauter.",
+       "J’évite autant que je le peux les lieux, les personnes et les sujets qui me rappellent ce moment, et je fais de moins en moins de choses.",
+       "J’ai l’impression que mes émotions se sont éteintes, et je n’arrive plus à ressentir pour ma famille et mes amis ce que je ressentais avant.",
+       "Je me reproche de plus en plus de choses, ou j’ai plus de mal à faire confiance aux personnes autour de moi."
+      ],
+      "asks": [
+       "Cela m’aiderait de ne pas avoir à raconter en détail ce qui s’est passé. J’aimerais en parler à mon rythme, en disant seulement ce que je peux.",
+       "Certains bruits, lieux ou sujets me ramènent à ce moment. Quand je dis que je préfère les éviter, j’apprécierais que cela soit accepté.",
+       "Cela m’aiderait que l’on ne m’interpelle pas brusquement par derrière et que l’on évite les bruits soudains près de moi.",
+       "Quand parler est trop difficile, j’aimerais pouvoir vous remettre quelque chose que j’ai écrit.",
+       "Les jours où je n’ai pas pu dormir, ou quand la fatigue ne passe pas, j’aimerais que cela ne soit pas pris pour de la paresse.",
+       "Les phrases comme « il faut tourner la page » ou « remets-toi vite » me mettent de la pression. J’ai besoin d’un endroit sûr où parler en confiance."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Troubles du sommeil",
+        "why": "Selon cette page, chez les personnes qui vivent un état de stress post-traumatique, ce sont souvent les difficultés de sommeil qui poussent d’abord à consulter.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "État de stress post-traumatique (ESPT)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/etat-stress-post-traumatique",
+         "kind": "fact",
+         "upd": "2018-10-30"
+        }
+       },
+       {
+        "name": "État de stress post-traumatique (ESPT)",
+        "why": "Cette page décrit, après un événement dangereux, des réactions de peur qui ne s’effacent pas tout à fait et reviennent en rêves ou en images, ainsi que l’envie d’éviter ce qui rappelle l’événement.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "État de stress post-traumatique (ESPT)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/etat-stress-post-traumatique",
+         "kind": "fact",
+         "upd": "2018-10-30"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Difficultés de sommeil",
+      "lead": "Du mal à s’endormir, des réveils la nuit, du mal à se lever le matin, ou une forte envie de dormir dans la journée.",
+      "scenes": [
+       "Même une fois au lit, je n’arrive pas à m’endormir.",
+       "Je me réveille plusieurs fois dans la nuit et je ne dors jamais d’une traite jusqu’au matin.",
+       "Le matin, je n’arrive pas à me lever à l’heure, et je suis souvent en retard au travail ou à l’école.",
+       "Dans la journée, j’ai de fortes envies de dormir et je manque de m’endormir en réunion ou au volant.",
+       "Mes proches me disent que je ronfle fort et que ma respiration semble s’arrêter pendant mon sommeil.",
+       "Le soir et la nuit, j’ai des sensations désagréables dans les jambes, je ne tiens pas en place et je n’arrive pas à dormir."
+      ],
+      "asks": [
+       "J’aimerais que l’on prenne le temps de m’écouter parler de mon sommeil : l’endormissement, les réveils dans la nuit, la difficulté à me lever le matin et l’envie de dormir dans la journée.",
+       "J’aimerais que nous cherchions ensemble ce qui peut jouer un rôle, y compris mes médicaments et mes habitudes avec le café, l’alcool et le tabac.",
+       "Cela m’aiderait que mon sommeil ne soit pas réduit à « une question de volonté » : j’aimerais que l’on regarde aussi ma santé physique et mon moral.",
+       "J’ai noté mes heures de coucher et de lever sur une feuille (un journal du sommeil). J’aimerais que vous la regardiez avec moi.",
+       "Si un médicament m’est proposé, j’aimerais qu’on m’explique simplement comment il agit et à quoi je dois faire attention.",
+       "Le matin m’est difficile : si c’est faisable, un rendez-vous en après-midi ou en fin de journée m’aiderait."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Apnée du sommeil",
+        "why": "Cette page décrit des arrêts de la respiration qui reviennent pendant le sommeil.",
+        "src": {
+         "org": "Agence de la santé publique du Canada (canada.ca)",
+         "title": "L'apnée du sommeil",
+         "url": "https://www.canada.ca/fr/sante-publique/services/maladies-chroniques/apnee-sommeil.html",
+         "kind": "fact",
+         "upd": "2017-08-15"
+        }
+       },
+       {
+        "name": "Changements de la périménopause et de la ménopause",
+        "why": "Selon ce guide, à la ménopause, des bouffées de chaleur la nuit (les sueurs nocturnes) peuvent nuire au sommeil.",
+        "src": {
+         "org": "Défense nationale (canada.ca)",
+         "title": "Guide de la ménopause",
+         "url": "https://www.canada.ca/content/dam/dnd-mdn/documents/health/SFD_Guide%20sur_la_m%C3%A9nopause.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       },
+       {
+        "name": "Effets de l’alcool sur le sommeil",
+        "why": "Selon cette page, réduire l’alcool, même d’un seul verre, peut aider dès le court terme, par exemple à mieux dormir.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Limiter les risques de la consommation d'alcool sur la santé et la sécurité",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/limiter-les-risques-de-la-consommation-d-alcool",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Selon cette page, on parle d’insomnie quand il est difficile de trouver le sommeil ou de dormir sans se réveiller, et que le sommeil ne repose plus.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Préoccupations physiques liées au cancer",
+         "url": "https://www.quebec.ca/sante/problemes-de-sante/cancer/mieux-vivre-experience-cancer/preoccupations-cancer/preoccupations-physiques-cancer",
+         "kind": "fact",
+         "upd": "2026-08-11"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Difficultés avec l’alimentation",
+      "lead": "Quand manger est difficile : on ne peut pas manger beaucoup, on ne peut pas s’arrêter, ou manger fait peur.",
+      "scenes": [
+       "Je n’ai pas envie de manger, et depuis un moment la nourriture a du mal à passer.",
+       "Une fois que je commence à manger, je n’arrive plus à m’arrêter, et il m’arrive de manger jusqu’à avoir mal.",
+       "Sans m’en rendre compte, je ne pense plus qu’à la nourriture, et j’ai du mal à me concentrer sur autre chose.",
+       "Je ne peux manger que peu d’aliments, et j’en évite beaucoup à cause de leur goût, de leur odeur ou de leur texture.",
+       "Après avoir failli m’étouffer avec un aliment, ou après avoir vomi, j’ai commencé à avoir peur de manger.",
+       "La nuit, il m’arrive de manger dans un demi-sommeil, et le matin je ne m’en souviens pas."
+      ],
+      "asks": [
+       "J’aimerais que l’on ne fasse aucune remarque sur mon corps ou mon apparence.",
+       "Cela m’aiderait que l’on ne me force pas à manger et que l’on ne me presse pas pour que je mange.",
+       "Quand on mange en groupe, j’aimerais pouvoir choisir un autre endroit ou un autre moment.",
+       "J’aimerais qu’on me demande d’abord ce que je peux manger, et quelles odeurs ou textures me sont difficiles.",
+       "Cela m’aiderait de savoir à l’avance comment se passent l’examen médical et les analyses.",
+       "Ce qui est difficile à dire à voix haute, j’aimerais pouvoir vous le remettre par écrit."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caaneb"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Difficile d’arrêter l’alcool, les jeux d’argent ou les jeux vidéo",
+      "lead": "Quand vous voulez arrêter ou réduire, mais que vous continuez quand même.",
+      "scenes": [
+       "J’ai décidé d’arrêter ou de réduire, mais je me rends compte que je continue quand même.",
+       "Je n’arrive pas à m’en tenir au temps, à la quantité ou à l’argent que je m’étais fixés pour la journée.",
+       "Il m’arrive de cacher à mes proches ce que je bois, mes jeux vidéo ou mes jeux d’argent, ou d’arranger la vérité.",
+       "Je joue tard le soir aux jeux vidéo, j’ai du mal à me lever le matin, et les retards ou les absences se multiplient.",
+       "Quand je perds aux loteries vidéo ou aux paris sportifs, je veux récupérer l’argent perdu, alors je mise de nouveau.",
+       "Même en sachant que ma santé physique n’est pas bonne, je n’arrive pas à boire moins."
+      ],
+      "asks": [
+       "J’aimerais que vous m’écoutiez d’abord, sans me faire de reproches.",
+       "J’aimerais faire le point avec vous, étape par étape, sur mes habitudes et sur les difficultés qu’elles me causent.",
+       "J’aimerais que l’on regarde aussi mon sommeil et ma santé physique.",
+       "J’aimerais que l’on m’indique concrètement où demander de l’aide et où je peux me rendre.",
+       "J’aimerais savoir si un membre de ma famille ou un proche peut venir en parler avec moi.",
+       "Avant de commencer, j’aimerais savoir à qui vous transmettrez ce que je vous confie, et jusqu’où."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Effets de l’alcool sur le sommeil",
+        "why": "Selon cette page, réduire l’alcool, même d’un seul verre, peut aider dès le court terme, par exemple à mieux dormir.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Limiter les risques de la consommation d'alcool sur la santé et la sécurité",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/limiter-les-risques-de-la-consommation-d-alcool",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Trouble lié à la consommation d’alcool ou d’autres drogues",
+        "why": "Selon cette page, un trouble lié à la consommation ou une dépendance peut être en cause quand l’alcool ou d’autres drogues pèsent sur plusieurs sphères de la vie.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Reconnaître un trouble lié à la consommation d'alcool ou d'autres drogues",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/reconnaitre-un-trouble-lie-a-la-consommation",
+         "kind": "fact",
+         "upd": "2017-09-13"
+        }
+       },
+       {
+        "name": "Trouble lié à la pratique du jeu",
+        "why": "Selon cette page, jouer à des jeux de hasard et d’argent peut parfois peser sur plusieurs sphères de la vie, ou encore mener à un trouble lié à la pratique du jeu.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Reconnaître un comportement à risque lié à la pratique des jeux de hasard et d'argent",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/reconnaitre-un-trouble-lie-a-la-pratique-du-jeu",
+         "kind": "fact",
+         "upd": "2023-12-19"
+        }
+       },
+       {
+        "name": "Troubles anxieux",
+        "why": "Selon cette page, des personnes qui ont un trouble anxieux essaient parfois de calmer leur anxiété avec de l’alcool ou des drogues, et un trouble lié à la consommation peut alors apparaître.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        }
+       },
+       {
+        "name": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "why": "Selon cette page, les personnes qui ont un TDAH ont plus souvent des problèmes de dépendance, par exemple à l’alcool, aux drogues, aux jeux de hasard et d’argent ou aux écrans.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+         "url": "https://www.quebec.ca/sante/problemes-de-sante/a-z/trouble-deficit-attention-hyperactivite-tdah",
+         "kind": "fact",
+         "upd": "2024-12-09"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex",
+       "caqcdrogue",
+       "caqcjeu"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Difficultés d’attention et d’organisation",
+      "lead": "Du mal à se concentrer, à avancer étape par étape, ou à se souvenir des choses.",
+      "scenes": [
+       "Même quand quelqu’un me parle, mon esprit part ailleurs sans que je m’en rende compte.",
+       "Je n’arrive pas à mener mon travail ou les tâches ménagères dans l’ordre, et je manque des échéances.",
+       "Il m’arrive souvent d’oublier ce qu’on m’a demandé ou ce que j’ai promis, ou de perdre mes affaires.",
+       "Quand je fais longtemps la même tâche, les erreurs d’inattention se multiplient.",
+       "Rester sur ma chaise sans bouger m’est difficile : je m’agite et je ne tiens pas en place.",
+       "Mon entourage me dit que j’oublie souvent des choses ou que je suis souvent en retard."
+      ],
+      "asks": [
+       "Cela m’aiderait si on me donnait les consignes une par une.",
+       "J’aimerais que les informations importantes me soient écrites et remises.",
+       "J’aimerais connaître les échéances et les rendez-vous assez tôt.",
+       "Cela m’aiderait si on ne me demandait pas trop de choses à la fois et si les tâches étaient découpées en petites étapes.",
+       "J’aimerais parler dans un endroit calme, où il y a peu de distractions.",
+       "Plutôt que de me reprocher ce que je n’ai pas réussi, j’aimerais que l’on reconnaisse ce que j’ai réussi à faire."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Changements de la périménopause et de la ménopause",
+        "why": "Ce guide explique que les sueurs de la nuit, à la ménopause, peuvent gêner le sommeil, ce qui peut laisser de la fatigue et du mal à se concentrer.",
+        "src": {
+         "org": "Défense nationale (canada.ca)",
+         "title": "Guide de la ménopause",
+         "url": "https://www.canada.ca/content/dam/dnd-mdn/documents/health/SFD_Guide%20sur_la_m%C3%A9nopause.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       },
+       {
+        "name": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "why": "Cette page parle d’une attention qui se fixe mal ou qui ne tient pas longtemps, parfois avec de l’impulsivité et de l’agitation, et de difficultés à la maison, à l’école ou au travail.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+         "url": "https://www.quebec.ca/sante/problemes-de-sante/a-z/trouble-deficit-attention-hyperactivite-tdah",
+         "kind": "fact",
+         "upd": "2024-12-09"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "cachrc",
+       "cacdpdj"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Difficultés avec les autres, habitudes fixes et sensations",
+      "lead": "Des difficultés à parler ou à être avec les autres, un fort besoin de faire les choses d’une certaine façon, ou des sons, des lumières et des odeurs difficiles à supporter.",
+      "scenes": [
+       "Dans une conversation, j’ai du mal à saisir ce que ressent l’autre ou l’ambiance du moment, et j’ai l’impression qu’on ne se comprend pas.",
+       "Quand je dois parler devant des gens ou que les regards se tournent vers moi, la tension est très forte et j’évite ces situations.",
+       "J’arrive à parler avec mes proches, mais devant d’autres personnes, ma voix ne sort plus.",
+       "Quand ma façon de faire, l’ordre des étapes ou la place des objets changent, cela m’angoisse beaucoup.",
+       "Les bruits, les lumières ou les odeurs me paraissent très forts, et les endroits où il y a du monde sont pénibles pour moi.",
+       "J’ai du mal à entendre ce que disent les gens, ou j’ai le moral bas, et voir les autres ou leur parler est devenu difficile."
+      ],
+      "asks": [
+       "Cela m’aiderait si on parlait lentement et clairement.",
+       "J’aimerais que les choses importantes me soient écrites.",
+       "J’aimerais parler dans un endroit calme.",
+       "Si le programme ou la façon de faire change, j’aimerais qu’on me le dise à l’avance.",
+       "Cela m’aiderait si on me laissait le temps de répondre, sans me presser.",
+       "J’aimerais pouvoir répondre par écrit ou avec un petit mot, au lieu de parler."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Baisse de l’audition (perte auditive)",
+        "why": "Selon cette page, quand on entend un peu moins bien, des bouts de conversation peuvent échapper, surtout au téléphone. Les relations peuvent en souffrir, avec un cercle social plus petit et un sentiment de solitude.",
+        "src": {
+         "org": "Santé Canada (canada.ca)",
+         "title": "Bruit et son : Perte auditive et l'acouphène",
+         "url": "https://www.canada.ca/fr/sante-canada/services/bruit-votre-sante/perte-auditive-acouphene.html",
+         "kind": "fact",
+         "upd": "2026-08-05"
+        }
+       },
+       {
+        "name": "Anxiété sociale",
+        "why": "Cette page décrit une grande peur dans des situations où d’autres peuvent nous observer, avec la crainte du regard négatif ou du rejet des autres.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Anxiété sociale",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/anxiete-sociale",
+         "kind": "fact",
+         "upd": "2023-12-20"
+        }
+       },
+       {
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Selon cette page, ce qui marque surtout le trouble du spectre de l’autisme, ce sont des difficultés à communiquer et à échanger avec les autres.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Autoformation Mieux accueillir les personnes handicapées : le trouble du spectre de l’autisme",
+         "url": "https://www.quebec.ca/famille-et-soutien-aux-personnes/participation-sociale-personnes-handicapees/autoformation-mieux-accueillir-personnes-handicapees/trouble-spectre-autisme",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "cachrc",
+       "cacdpdj"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Difficultés pour lire, écrire ou calculer",
+      "lead": "Quand lire, écrire ou manier les chiffres reste difficile malgré les efforts.",
+      "scenes": [
+       "Je mets plus de temps que les autres à lire un texte, et je dois souvent le relire plusieurs fois.",
+       "Même après avoir lu, le contenu ne me rentre pas dans la tête, et j’ai du mal à comprendre ce que veulent dire les documents ou les lettres.",
+       "J’ai du mal avec l’orthographe : je fais beaucoup de fautes, ou j’oublie des lettres ou des mots en écrivant.",
+       "Mon écriture est irrégulière, et écrire me demande beaucoup de temps et d’effort.",
+       "Je bloque sur des calculs simples et sur les problèmes de calcul présentés sous forme de phrases.",
+       "Je peux parler et écouter sans difficulté, mais pour lire, écrire ou calculer, je n’avance pas comme je le voudrais, même en prenant beaucoup de temps."
+      ],
+      "asks": [
+       "J’aimerais que les textes me soient présentés en gros caractères, avec des lignes bien espacées.",
+       "J’aimerais que les informations importantes me soient lues à voix haute ou dites à l’oral.",
+       "J’aimerais pouvoir taper sur un ordinateur ou un téléphone, ou garder une trace en photo ou en enregistrement audio, au lieu d’écrire à la main.",
+       "J’aimerais pouvoir utiliser une calculatrice pour les calculs.",
+       "J’aimerais avoir plus de temps pour lire, écrire et calculer.",
+       "J’aimerais recevoir moins de choses à la fois, une par une."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexie",
+        "why": "Selon cette page, la dyslexie est un trouble d’apprentissage : il est difficile de reconnaître les mots avec justesse ou aisance, de les déchiffrer et de les épeler.",
+        "src": {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "Annexes",
+         "url": "https://www.ohrc.on.ca/fr/appendices/annexe-3-glossaire",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Dysgraphie",
+        "why": "Selon cette page, la dysgraphie est un trouble d’apprentissage qui touche l’écriture, par exemple l’orthographe, le tracé des lettres ou la mise en mots de ses idées sur papier.",
+        "src": {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "Annexes",
+         "url": "https://www.ohrc.on.ca/fr/appendices/annexe-3-glossaire",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Dyscalculie",
+        "why": "Selon cette page, la dyscalculie est un trouble d’apprentissage : les mathématiques sont difficiles à apprendre et à comprendre.",
+        "src": {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "Annexes",
+         "url": "https://www.ohrc.on.ca/fr/appendices/annexe-3-glossaire",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "cachrc",
+       "cacdpdj"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes variations d’humeur",
+      "lead": "Quand l’humeur monte et descend beaucoup et que vos sentiments ont du mal à suivre.",
+      "scenes": [
+       "Des périodes où j’ai beaucoup trop d’énergie alternent avec des périodes où mon moral est si bas que je n’arrive plus à bouger.",
+       "Il y a des périodes où je dors à peine, mais où j’ai beaucoup d’énergie et je bouge sans arrêt.",
+       "Les idées me viennent les unes après les autres, et tout reste à moitié fait.",
+       "Il m’est arrivé, en me sentant capable de tout, de dépenser tellement d’argent que j’ai eu des difficultés ensuite.",
+       "Je m’irrite pour un rien, et j’ai du mal à contenir ce que je ressens.",
+       "Des choses que j’ai faites quand mon humeur était très haute ont eu des conséquences sur mes relations ou sur mon travail."
+      ],
+      "asks": [
+       "J’aimerais que l’on me pose aussi des questions sur les périodes où j’allais très bien, avec une énergie inhabituelle.",
+       "J’aimerais prendre le temps de revoir avec vous mes hauts et mes bas.",
+       "Avant une grande décision d’argent ou de travail, j’aimerais qu’on m’aide à m’arrêter et à réfléchir d’abord.",
+       "J’aimerais que l’on vérifie aussi les causes physiques, y compris le sommeil, les médicaments et l’alcool.",
+       "Si je ne suis pas comme d’habitude, j’aimerais qu’on me le dise sans me faire de reproches.",
+       "J’aimerais que l’on m’écoute jusqu’au bout, dans les périodes hautes comme dans les périodes basses."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Changements de la périménopause et de la ménopause",
+        "why": "Ce guide explique que les sueurs de la nuit, à la ménopause, peuvent gêner le sommeil, ce qui peut laisser de l’irritabilité et des sautes d’humeur.",
+        "src": {
+         "org": "Défense nationale (canada.ca)",
+         "title": "Guide de la ménopause",
+         "url": "https://www.canada.ca/content/dam/dnd-mdn/documents/health/SFD_Guide%20sur_la_m%C3%A9nopause.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       },
+       {
+        "name": "Trouble bipolaire",
+        "why": "Selon cette page, l’humeur peut changer fortement pendant certaines périodes, et les émotions peuvent être ressenties avec une force excessive.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble bipolaire",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-bipolaire",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Dépression",
+        "why": "Cette page décrit des émotions pénibles vécues plus fort et plus longtemps que chez la plupart des gens, et plus difficiles à maîtriser.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Dépression",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/depression",
+         "kind": "fact",
+         "upd": "2024-07-30"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Connaître un nom peut faire ressembler les variations ordinaires à des symptômes",
+       "body": "Quand on apprend le nom d’une maladie ou d’un trouble du développement, une petite fatigue ou un moment d’inattention ordinaires peuvent plus facilement ressembler à un symptôme.\n\nLes émotions peuvent vraiment changer ce que l’on ressent dans son corps et dans son humeur : ce n’est pas une idée que l’on se fait, cela arrive réellement. Le manque de sommeil, le stress, le cellulaire ou ce qui se passe autour de soi peuvent aussi produire des effets semblables.\n\nSi, en voyant un nom, vous pensez « c’est peut-être ça », ne vous arrêtez pas tout de suite à cette idée, et pensez aussi à d’autres raisons. Si les difficultés durent, vous pouvez en parler telles qu’elles sont, même sans nom.",
+       "srcs": []
+      },
+      {
+       "h": "Les variations d’humeur et l’envie de vérifier arrivent à tout le monde",
+       "body": "Il arrive à tout le monde de ressentir de l’anxiété, par exemple la veille d’un examen. Il arrive aussi à chacun de retourner vérifier qu’une porte est bien fermée à clé, ou d’avoir une pensée qui reste en tête un moment.\n\nUn nom (un diagnostic) est donné par un professionnel de la santé ou un médecin, qui tient compte de l’ensemble de ce que la personne vit. Mieux vaut ne pas se donner soi-même un nom.\n\nSi les difficultés durent, vous pouvez en parler telles qu’elles sont, quel que soit le nom.",
+       "srcs": [
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        },
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble obsessionnel-compulsif (TOC)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-obsessionnel-compulsif",
+         "kind": "fact",
+         "upd": "2018-10-25"
+        },
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "À propos des troubles mentaux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/a-propos-troubles-mentaux",
+         "kind": "fact",
+         "upd": "2021-12-03"
+        }
+       ]
+      },
+      {
+       "h": "Vous pouvez parler de vos difficultés, même sans diagnostic",
+       "body": "Même sans nom de maladie, vous pouvez parler de vos difficultés telles qu’elles sont. Au Québec, pour obtenir des services en santé mentale dans un CLSC, il n’est pas exigé d’avoir une référence d’un médecin ni un diagnostic.\n\nAu travail, dans un milieu de travail sous réglementation fédérale, une page de la Commission canadienne des droits de la personne explique que, pour demander une mesure d’adaptation, la personne peut se limiter à signaler à son employeur que des obstacles liés à l’emploi pourraient nuire à sa pleine participation et qu’une adaptation serait nécessaire. Selon cette page, l’employeur devrait demander des renseignements à l’appui seulement s’ils sont vraiment indispensables pour mettre la mesure en place.\n\nEn Ontario, une page de la Commission ontarienne des droits de la personne indique que, dans des cas rares où les besoins sont peu clairs ou complexes, la personne qui demande une adaptation peut avoir à donner plus d’information, y compris sur la nature de son diagnostic.\n\nCe qui est faisable dépend de la situation et de l’autre personne : cela se décide en en parlant ensemble.",
+       "srcs": [
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Centre local de services communautaires (CLSC)",
+         "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/clsc",
+         "kind": "fact",
+         "upd": "2023-09-23"
+        },
+        {
+         "org": "Commission canadienne des droits de la personne (CCDP)",
+         "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
+         "url": "https://www.ccdp-chrc.gc.ca/node/771",
+         "kind": "fact",
+         "upd": "2026-11-12"
+        },
+        {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "8. Obligation d’accommodement",
+         "url": "https://www.ohrc.on.ca/fr/policy-ableism-and-discrimination-based-disability/8-obligation-daccommodement",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Cependant, certains programmes demandent un document d’un professionnel de la santé",
+       "body": "Cependant, pour certains programmes, un document d’un professionnel de la santé est nécessaire.\n\nPour les prestations de maladie de l’assurance-emploi (programme fédéral), il faut un certificat médical signé par le professionnel de la santé qui vous suit ; un psychologue fait partie des professionnels qui peuvent le signer.\n\nPour le crédit d’impôt pour personnes handicapées (CIPH, programme fédéral), un professionnel de la santé doit attester la déficience.\n\nLa Prestation canadienne pour les personnes handicapées demande, entre autres, que la demande de CIPH ait été acceptée.\n\nLes programmes des provinces et des territoires sont différents. Ce qui est demandé dépend du programme : renseignez-vous auprès de l’organisme concerné avant de commencer les démarches.",
+       "srcs": [
+        {
+         "org": "Emploi et Développement social Canada (canada.ca)",
+         "title": "Prestations de maladie de l'assurance-emploi : Êtes-vous admissible",
+         "url": "https://www.canada.ca/fr/services/prestations/ae/assurance-emploi-maladie/admissibilite.html",
+         "kind": "fact",
+         "upd": "2026-10-22"
+        },
+        {
+         "org": "Agence du revenu du Canada (canada.ca)",
+         "title": "Qui est admissible",
+         "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/segments/deductions-credits-impot-personnes-handicapees/credit-impot-personnes-handicapees/admissible-ciph.html",
+         "kind": "fact",
+         "upd": "2026-10-22"
+        },
+        {
+         "org": "Emploi et Développement social Canada (canada.ca)",
+         "title": "Prestation canadienne pour les personnes handicapées",
+         "url": "https://www.canada.ca/fr/services/prestations/handicap/prestation-canadienne-personnes-situation-handicap/eligibilite.html",
+         "kind": "fact",
+         "upd": "2026-11-10"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Un nom de maladie n’est pas un outil pour se placer au-dessus des autres",
+       "body": "Un nom de maladie n’est pas un outil pour se placer au-dessus de quelqu’un, ni pour regarder les autres de haut.\nCertaines personnes se sentent plus légères quand elles apprennent un nom pour ce qu’elles vivent. C’est important.\nVouloir que les gens autour de soi comprennent, ou soient plus doux avec soi, c’est naturel aussi.\n\nQuand vous souhaitez que quelqu’un soit plus doux avec vous, vous pouvez le demander directement, sans donner de nom de maladie.\nC’est plus facile à comprendre si vous dites ensemble deux choses : ce qui vous met en difficulté, et ce que vous aimeriez que l’autre fasse.\n\nPar exemple, vous pouvez dire :\n« Aujourd’hui, j’ai peu d’énergie : pouvez-vous me parler lentement ? »\n« Quand on me dit beaucoup de choses à la fois, je m’y perds : pouvez-vous me les dire une par une ? »\n« J’ai du mal à retenir ce que j’entends seulement : pouvez-vous écrire les choses importantes, sur papier ou par courriel ? »\n« Les endroits où il y a beaucoup de monde sont difficiles pour moi : je préfère parler dans un endroit calme. »\n« J’ai besoin d’un peu de temps pour répondre : pouvez-vous attendre un moment ? »\n« En ce moment, mes émotions prennent toute la place : pouvez-vous d’abord m’écouter ? Les conseils peuvent attendre. »\n« Aujourd’hui, je ne me sens pas bien : pouvez-vous me laisser me reposer un peu ? »\n« Les changements de programme soudains me déstabilisent : pouvez-vous me le dire dès que vous le savez ? »\n« Quand on me parle fort, j’ai peur : pouvez-vous me parler calmement ? »\n\nSi c’est difficile à dire, vous pouvez l’écrire sur un papier et le donner. Vous pouvez aussi montrer l’écran « Mes difficultés » avec le bouton « Afficher en grand » : il apparaît dans cette application quand vous choisissez une difficulté et répondez aux questions.\nSi vous souhaitez dire un nom de maladie qui vous concerne, vous pouvez le faire. Dans ce cas aussi, dire en même temps ce qui vous met en difficulté et ce que vous aimeriez que l’autre fasse l’aide à agir.\nParfois, l’autre personne ne peut pas faire ce que vous demandez, à cause de sa propre situation. Dans ce cas, essayez de chercher ensemble s’il existe une autre façon de faire.\n\nAu travail, si vous souhaitez demander une mesure d’adaptation, vous pouvez en parler à votre employeur. Pour un milieu de travail sous réglementation fédérale, une page de la Commission canadienne des droits de la personne indique qu’au début de la discussion, l’employeur devra savoir s’il y a un handicap ou un problème de santé qui rend une adaptation nécessaire, quels obstacles se présentent au travail et quelle adaptation est souhaitée.\n\nN’utilisez pas la liste des noms de cette application pour mettre en doute les personnes autour de vous.",
+       "srcs": [
+        {
+         "org": "Commission canadienne des droits de la personne (CCDP)",
+         "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
+         "url": "https://www.ccdp-chrc.gc.ca/node/771",
+         "kind": "fact",
+         "upd": "2026-11-12"
+        }
+       ]
+      },
+      {
+       "h": "À propos de cette application",
+       "body": "Ceci n’est pas un diagnostic. Cette liste ne permet pas de dire si vous avez une maladie ou un trouble. Cette application n’est pas un instrument médical et ne remplace pas une consultation avec un professionnel de la santé.\n\nVos réponses ne sont envoyées nulle part et ne sont pas enregistrées sur cet appareil. Elles disparaissent quand vous fermez l’application.\n\nApplication indépendante. SOYOGI est un groupe sans but lucratif établi au Japon. SOYOGI n’a aucun lien avec le gouvernement du Canada, les gouvernements des provinces et des territoires, Santé Canada ni aucun établissement de santé, et aucun d’eux ne la recommande. Les noms des organismes indiquent seulement d’où viennent les informations. Les textes d’origine peuvent être lus gratuitement sur le site de chaque organisme.\n\nSOYOGI a rédigé ces contenus avec ses propres mots, à partir de pages publiques du Canada, des provinces et des territoires ; les quelques passages cités tels quels sont placés entre guillemets. Les passages d’ontario.ca sont cités sans modification (© Imprimeur du Roi pour l’Ontario). Les sources sont indiquées sur chaque écran, avec la date de mise à jour de chaque page. Vérification faite le 13 novembre 2026 : les numéros et les horaires peuvent changer. Les heures sont celles indiquées par chaque service ; sauf mention contraire, il s’agit de l’heure de la province ou du territoire concerné.\n\nC’est vous, et non l’application, qui décidez de demander de l’aide ou non.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Inutile d’attendre de ne plus arriver à faire les choses du quotidien pour demander de l’aide ou chercher de l’information : on peut le faire même en se demandant si l’on en a vraiment besoin.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "À propos des troubles mentaux",
+       "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/a-propos-troubles-mentaux",
+       "kind": "fact",
+       "upd": "2021-12-03"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Au Québec : pour le TDAH, il existe des soins et des services auxquels on peut accéder sans avoir reçu de diagnostic. Pour en savoir plus, on peut s’adresser à un CLSC (centre local de services communautaires).",
+       "src": {
+        "org": "Gouvernement du Québec (Québec.ca)",
+        "title": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "url": "https://www.quebec.ca/sante/problemes-de-sante/a-z/trouble-deficit-attention-hyperactivite-tdah",
+        "kind": "fact",
+        "upd": "2024-12-09"
+       }
+      },
+      {
+       "text": "En Ontario : « Prenez rendez-vous avec votre médecin de famille ou votre infirmière praticienne ou infirmier praticien »",
+       "src": {
+        "org": "Gouvernement de l’Ontario (ontario.ca)",
+        "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+        "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+        "kind": "quote",
+        "upd": "2026-06-22"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sur la façon dont les noms (diagnostics) sont donnés, une page publique du Québec indique :",
+      "text": "Par exemple, pour la dépression : un professionnel de la santé peut vérifier si un autre problème de santé donne des difficultés qui se ressemblent. Pour cela, il peut faire un examen de l’état physique ou demander des analyses de laboratoire.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Dépression",
+       "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/depression",
+       "kind": "fact",
+       "upd": "2024-07-30"
+      }
+     },
+     "noNames": "Nous n’avons pas pu confirmer de noms pour ce groupe sur des pages publiques de santé ; aucune liste de noms n’est donc affichée ici. Vous pouvez quand même trouver où demander de l’aide dans cette application."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and find it hard to concentrate, so work and chores at home do not get done.",
+       "I blame myself, and I see everything in a dark light.",
+       "I cannot sleep at night, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "Please tell me what to do one thing at a time.",
+       "Please do not rush me for answers or decisions; I need time to think.",
+       "Please also give me the important things in writing.",
+       "Please listen to me first before telling me to 'Hang in there' or 'Pull yourself together'.",
+       "Please do not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or a medicine I am taking at the moment plays a part."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This page describes painful emotions that weigh more heavily and last longer than for most people, to the point of making work, family life and social life difficult.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Dépression",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/depression",
+         "kind": "fact",
+         "upd": "2024-07-30"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes periods when mood changes a great deal: deep sadness at some times, extreme happiness at others.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble bipolaire",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-bipolaire",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or when all eyes turn to me, I get so anxious that my mind goes blank.",
+       "My heart suddenly starts pounding and I find it hard to breathe. I am afraid it will happen again, so going out feels hard.",
+       "Even without a clear reason, I worry about one thing, then about another. I cannot stay still, and it wears me out.",
+       "Places that are hard to leave, like the subway, the bus or crowded buildings, are difficult for me, and so is going out with no one to go with me. So I avoid them.",
+       "As I keep avoiding what makes me anxious, I go to fewer places and see fewer people: my life has become narrower.",
+       "My worries will not leave my head and I find it hard to fall asleep in the evening."
+      ],
+      "asks": [
+       "When I speak, please wait for me and do not rush me.",
+       "Please tell me the plan and how things will go ahead of time.",
+       "Please do not suddenly ask for my opinion in front of others, and let me choose to answer in writing too.",
+       "If I feel unwell, please let me step away and rest for a moment.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Please listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety disorders",
+        "why": "According to this page, when anxiety takes up too much space and does not go away, it becomes a difficulty, and an anxiety disorder may then be involved.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page describes an intense fear that comes back after a dangerous event, for example in dreams or flashbacks.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "État de stress post-traumatique (ESPT)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/etat-stress-post-traumatique",
+         "kind": "fact",
+         "upd": "2018-10-30"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "According to this page, anxiety disorders and depression often go together.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "Checking the lock or the stove, washing your hands, or repeating other things again and again, and finding it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I have to check the lock and the stove again and again before I can go with peace of mind.",
+       "I wash my hands or my body more and more often, and I cannot stop even when I want to.",
+       "The same worry keeps coming back into my head, and I cannot stop thinking about it even though I want to.",
+       "If things are not placed, or not done, in the order I have decided, I feel uneasy and end up putting everything back in place or starting all over again.",
+       "Checking takes me so much time that I leave late, or arrive late for my appointments or at work.",
+       "My body moves or sounds come out of my mouth without my wanting them to, and it is hard to stop even when I try."
+      ],
+      "asks": [
+       "Please listen to me first, instead of just telling me I am overthinking it.",
+       "Checking takes me time, so please allow a little extra time.",
+       "When the plan or the way of doing things changes, please tell me in advance.",
+       "Please do not make remarks or make fun of me in front of others when I check or wash.",
+       "Please give me explanations and instructions one at a time, in writing.",
+       "To decide what comes next (consultations, care), I would like my worries to be listened to first, and for us to take our time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes thoughts that keep coming back against one's will, and the need to repeat the same actions to get free of them or to ease the anxiety.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble obsessionnel-compulsif (TOC)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-obsessionnel-compulsif",
+         "kind": "fact",
+         "upd": "2018-10-25"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, autism spectrum disorder can, in some cases, come with very particular or repeated ways of acting, activities or interests.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Autoformation Mieux accueillir les personnes handicapées : le trouble du spectre de l’autisme",
+         "url": "https://www.quebec.ca/famille-et-soutien-aux-personnes/participation-sociale-personnes-handicapees/autoformation-mieux-accueillir-personnes-handicapees/trouble-spectre-autisme",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Memories that come back, trouble sleeping, or tension that does not ease after a painful event.",
+      "scenes": [
+       "A small detail is enough to suddenly bring back the scene and what I felt at that moment.",
+       "I often have the same kind of nightmare, and on many nights I can’t sleep deeply.",
+       "I am on edge all the time, and the slightest noise or surprise makes me jump.",
+       "As much as I can, I avoid the places, people and topics that remind me of that moment, and I do fewer and fewer things.",
+       "I feel as if my emotions have switched off, and I can no longer feel for my family and friends what I used to feel.",
+       "I blame myself for more and more things, or I find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It helps me when I don’t have to describe in detail what happened. I would like to talk about it at my own pace, saying only what I can.",
+       "Some sounds, places or topics take me back to that moment. When I say I prefer to avoid them, I would appreciate it if you accepted that.",
+       "It helps me when people don’t call out to me suddenly from behind, and when they avoid sudden noises near me.",
+       "When talking is too hard, please let me hand you something I have written.",
+       "On days when I could not sleep, or when the tiredness does not go away, please don’t take it for laziness.",
+       "Phrases like “you need to move on” or “get over it quickly” put pressure on me. I need a safe place where I can talk and feel at ease."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep problems",
+        "why": "According to this page, for people living with post-traumatic stress disorder, it is often sleep difficulties that first lead them to seek care.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "État de stress post-traumatique (ESPT)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/etat-stress-post-traumatique",
+         "kind": "fact",
+         "upd": "2018-10-30"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page describes fear reactions following a dangerous event that do not quite fade away and that come back in dreams or images, as well as the wish to avoid whatever brings the event to mind.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "État de stress post-traumatique (ESPT)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/etat-stress-post-traumatique",
+         "kind": "fact",
+         "upd": "2018-10-30"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or a strong urge to sleep during the day.",
+      "scenes": [
+       "Even once I am in bed, I can’t fall asleep.",
+       "I wake up several times in the night and never sleep straight through until morning.",
+       "In the morning, I can’t get up on time, and I am often late for work or school.",
+       "During the day, I have strong urges to sleep and nearly fall asleep in meetings or at the wheel.",
+       "People close to me tell me I snore loudly and that my breathing seems to stop while I sleep.",
+       "In the evening and at night, I get unpleasant feelings in my legs, I can’t keep still and I can’t sleep."
+      ],
+      "asks": [
+       "Please take the time to listen to me talk about my sleep: falling asleep, waking in the night, trouble getting up in the morning and the urge to sleep during the day.",
+       "I would like us to look together at what may play a part, including my medicines and my habits with coffee, alcohol and tobacco.",
+       "It helps me when my sleep is not reduced to “a question of willpower”. Please also look at my physical health and my mood.",
+       "I have written down my bedtimes and wake-up times on a sheet (a sleep diary). I would like you to look at it with me.",
+       "If a medicine is suggested to me, please explain simply how it works and what I should watch out for.",
+       "Mornings are hard for me. If it can be done, an appointment in the afternoon or late in the day would help me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep apnea",
+        "why": "This page describes pauses in breathing that keep coming back during sleep.",
+        "src": {
+         "org": "Agence de la santé publique du Canada (canada.ca)",
+         "title": "L'apnée du sommeil",
+         "url": "https://www.canada.ca/fr/sante-publique/services/maladies-chroniques/apnee-sommeil.html",
+         "kind": "fact",
+         "upd": "2017-08-15"
+        }
+       },
+       {
+        "name": "Perimenopause and menopause changes",
+        "why": "According to this guide, at menopause, hot flashes at night (night sweats) can get in the way of sleep.",
+        "src": {
+         "org": "Défense nationale (canada.ca)",
+         "title": "Guide de la ménopause",
+         "url": "https://www.canada.ca/content/dam/dnd-mdn/documents/health/SFD_Guide%20sur_la_m%C3%A9nopause.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       },
+       {
+        "name": "Effects of alcohol on sleep",
+        "why": "According to this page, cutting down on alcohol, even by a single drink, can help even in the short term, for example with better sleep.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Limiter les risques de la consommation d'alcool sur la santé et la sécurité",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/limiter-les-risques-de-la-consommation-d-alcool",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "According to this page, the word insomnia is used when it is hard to fall asleep or to sleep without waking up, and sleep no longer feels restful.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Préoccupations physiques liées au cancer",
+         "url": "https://www.quebec.ca/sante/problemes-de-sante/cancer/mieux-vivre-experience-cancer/preoccupations-cancer/preoccupations-physiques-cancer",
+         "kind": "fact",
+         "upd": "2026-08-11"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I don’t feel like eating, and for a while food has been hard to get down.",
+       "Once I start eating, I can’t stop, and sometimes I eat until it hurts.",
+       "Without realizing it, I think only about food, and I find it hard to focus on anything else.",
+       "I can eat only a few foods, and I avoid many others because of their taste, smell or texture.",
+       "After nearly choking on food, or after vomiting, I became afraid of eating.",
+       "At night, I sometimes eat while half asleep, and in the morning I don’t remember it."
+      ],
+      "asks": [
+       "Please do not make any comments about my body or my appearance.",
+       "It helps me when people do not force me to eat or pressure me to eat.",
+       "When people eat in a group, I would like to be able to choose another place or another time.",
+       "Please ask me first what I can eat, and which smells or textures are hard for me.",
+       "It helps me to know in advance how the medical exam and the tests will go.",
+       "I would like to be able to give you in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caaneb"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decided to stop or cut down, but I find that I keep doing it anyway.",
+       "I can't stick to the time, the amount or the money I had set for myself for the day.",
+       "I sometimes hide my drinking, my gaming or my gambling from people close to me, or bend the truth.",
+       "I play video games late at night, I have trouble getting up in the morning, and I am late or absent more and more often.",
+       "When I lose on video lottery terminals or sports betting, I want to win back the money I lost, so I bet again.",
+       "Even though I know my physical health is not good, I can't drink less."
+      ],
+      "asks": [
+       "Please listen to me first, without blaming me.",
+       "I would like to go over my habits, and the difficulties they cause me, with you step by step.",
+       "Please look at my sleep and my physical health as well.",
+       "Please tell me specifically where I can ask for help and where I can go.",
+       "I would like to know whether a family member or someone close to me can come and talk about this with me.",
+       "Before we start, I would like to know who you will share what I tell you with, and how far."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Effects of alcohol on sleep",
+        "why": "According to this page, cutting down on alcohol, even by a single drink, can help even in the short term, for example with better sleep.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Limiter les risques de la consommation d'alcool sur la santé et la sécurité",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/limiter-les-risques-de-la-consommation-d-alcool",
+         "kind": "fact",
+         "upd": "2026-02-05"
+        }
+       },
+       {
+        "name": "Alcohol or other drug use disorder",
+        "why": "According to this page, a use disorder or a dependence may be involved when alcohol or other drugs weigh on several areas of a person's life.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Reconnaître un trouble lié à la consommation d'alcool ou d'autres drogues",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/reconnaitre-un-trouble-lie-a-la-consommation",
+         "kind": "fact",
+         "upd": "2017-09-13"
+        }
+       },
+       {
+        "name": "Gambling disorder",
+        "why": "According to this page, playing games of chance for money can sometimes weigh on several areas of life, or can also lead to a gambling disorder.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Reconnaître un comportement à risque lié à la pratique des jeux de hasard et d'argent",
+         "url": "https://www.quebec.ca/sante/conseils-et-prevention/alcool-drogues-jeu/reconnaitre-un-trouble-lie-a-la-pratique-du-jeu",
+         "kind": "fact",
+         "upd": "2023-12-19"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "According to this page, people who have an anxiety disorder sometimes try to calm their anxiety with alcohol or drugs, and a substance use disorder can then develop.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "According to this page, people who have ADHD more often have problems with dependence, for example on alcohol, drugs, gambling or screens.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+         "url": "https://www.quebec.ca/sante/problemes-de-sante/a-z/trouble-deficit-attention-hyperactivite-tdah",
+         "kind": "fact",
+         "upd": "2024-12-09"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex",
+       "caqcdrogue",
+       "caqcjeu"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organized",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts elsewhere without my realizing it.",
+       "I can't get through my work or the housework in order, and I miss deadlines.",
+       "I often forget what I was asked to do or what I promised, or I lose my belongings.",
+       "When I do the same task for a long time, careless mistakes pile up.",
+       "Staying in my chair without moving is hard for me: I get restless and can't stay put.",
+       "People around me tell me that I often forget things or that I am often late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would like the important information to be written down and handed to me.",
+       "I would like to know about deadlines and appointments early enough.",
+       "It helps me when I am not asked to do too many things at once and when tasks are broken into small steps.",
+       "I would like to talk in a quiet place with few distractions.",
+       "Instead of blaming me for what I did not manage, I would like you to acknowledge what I did manage to do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Perimenopause and menopause changes",
+        "why": "This guide explains that night sweats at menopause can disturb sleep, which can leave you tired and make it hard to concentrate.",
+        "src": {
+         "org": "Défense nationale (canada.ca)",
+         "title": "Guide de la ménopause",
+         "url": "https://www.canada.ca/content/dam/dnd-mdn/documents/health/SFD_Guide%20sur_la_m%C3%A9nopause.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page talks about attention that does not easily settle on something or does not last long, sometimes with impulsivity and restlessness, and about difficulties at home, at school or at work.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+         "url": "https://www.quebec.ca/sante/problemes-de-sante/a-z/trouble-deficit-attention-hyperactivite-tdah",
+         "kind": "fact",
+         "upd": "2024-12-09"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "cachrc",
+       "cacdpdj"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or being with other people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation, I find it hard to pick up what the other person feels or the mood of the moment, and I feel that we do not understand each other.",
+       "When I have to speak in front of people or when everyone's eyes turn to me, I get very tense and I avoid these situations.",
+       "I can talk with people close to me, but in front of other people my voice won't come out.",
+       "When my way of doing things, the order of steps or where things are placed changes, it makes me very anxious.",
+       "Noises, lights or smells seem very strong to me, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and seeing other people or talking to them has become difficult."
+      ],
+      "asks": [
+       "It helps me when people speak slowly and clearly.",
+       "I would like the important things to be written down for me.",
+       "I would like to talk in a quiet place.",
+       "If the schedule or the way of doing things changes, I would like to be told in advance.",
+       "It helps me when I am given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss (difficulty hearing)",
+        "why": "According to this page, when you hear a little less well, you can miss parts of conversations, especially on the phone. Relationships can suffer, with a smaller social circle and a feeling of loneliness.",
+        "src": {
+         "org": "Santé Canada (canada.ca)",
+         "title": "Bruit et son : Perte auditive et l'acouphène",
+         "url": "https://www.canada.ca/fr/sante-canada/services/bruit-votre-sante/perte-auditive-acouphene.html",
+         "kind": "fact",
+         "upd": "2026-08-05"
+        }
+       },
+       {
+        "name": "Social anxiety disorder",
+        "why": "This page describes a strong fear in situations where other people can watch you, with a fear of being seen in a negative light or rejected by others.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Anxiété sociale",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/anxiete-sociale",
+         "kind": "fact",
+         "upd": "2023-12-20"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "According to this page, autism spectrum disorder is marked mainly by difficulties in communicating and interacting with others.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Autoformation Mieux accueillir les personnes handicapées : le trouble du spectre de l’autisme",
+         "url": "https://www.quebec.ca/famille-et-soutien-aux-personnes/participation-sociale-personnes-handicapees/autoformation-mieux-accueillir-personnes-handicapees/trouble-spectre-autisme",
+         "kind": "fact",
+         "upd": "2024-05-01"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "cachrc",
+       "cacdpdj"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I often have to reread it several times.",
+       "Even after reading, the content does not sink in, and I find it hard to understand what documents or letters mean.",
+       "I have trouble with spelling: I make many mistakes, or I leave out letters or words when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on math problems given in sentences.",
+       "I can talk and listen without difficulty, but with reading, writing or calculating, I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "Please show me text in large print with well-spaced lines.",
+       "Please read important information aloud to me or tell it to me out loud.",
+       "Please let me use the keyboard of a computer or phone, or keep a record with a photo or an audio recording, instead of writing by hand.",
+       "Please let me use a calculator for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "Please give me fewer things at once, one at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia",
+        "why": "According to this page, dyslexia is a learning disorder: it is hard to recognize words accurately or fluently, to decode them and to spell them.",
+        "src": {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "Annexes",
+         "url": "https://www.ohrc.on.ca/fr/appendices/annexe-3-glossaire",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Dysgraphia",
+        "why": "According to this page, dysgraphia is a learning disorder that affects writing, for example spelling, forming letters or putting one's ideas into words on paper.",
+        "src": {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "Annexes",
+         "url": "https://www.ohrc.on.ca/fr/appendices/annexe-3-glossaire",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Dyscalculia",
+        "why": "According to this page, dyscalculia is a learning disorder: mathematics is hard to learn and to understand.",
+        "src": {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "Annexes",
+         "url": "https://www.ohrc.on.ca/fr/appendices/annexe-3-glossaire",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "cachrc",
+       "cacdpdj"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings can't keep up.",
+      "scenes": [
+       "Periods when I have far too much energy alternate with periods when my mood is so low that I cannot move.",
+       "There are periods when I hardly sleep, yet I have a lot of energy and keep on the move.",
+       "Ideas come to me one after another, and everything stays half done.",
+       "There have been times when, feeling capable of anything, I spent so much money that I had difficulties afterwards.",
+       "I get irritated over nothing, and I find it hard to keep my feelings in check.",
+       "Things I did when my mood was very high have had consequences for my relationships or my work."
+      ],
+      "asks": [
+       "Please also ask me about the periods when I was doing very well, with unusual energy.",
+       "Please take the time to go back over my highs and lows with me.",
+       "Before a big decision about money or work, please help me stop and think first.",
+       "Please also check physical causes, including sleep, medicines and alcohol.",
+       "If I am not my usual self, please tell me without blaming me.",
+       "Please hear me out, in my high periods as well as in my low ones."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Perimenopause and menopause changes",
+        "why": "This guide explains that night sweats during menopause can disturb sleep, which can lead to irritability and mood swings.",
+        "src": {
+         "org": "Défense nationale (canada.ca)",
+         "title": "Guide de la ménopause",
+         "url": "https://www.canada.ca/content/dam/dnd-mdn/documents/health/SFD_Guide%20sur_la_m%C3%A9nopause.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "According to this page, mood can change strongly during certain periods, and emotions can be felt with excessive intensity.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble bipolaire",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-bipolaire",
+         "kind": "fact",
+         "upd": "2024-02-02"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes painful emotions that are felt more strongly and for longer than in most people, and that are harder to control.",
+        "src": {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Dépression",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/depression",
+         "kind": "fact",
+         "upd": "2024-07-30"
+        }
+       }
+      ],
+      "windows": [
+       "cagp",
+       "caqcgap",
+       "caclsc",
+       "caabaccess",
+       "caconnex"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "When you learn the name of an illness or of a developmental condition, a little ordinary tiredness or a moment of inattention can more easily start to look like a symptom.\n\nEmotions can really change what you feel in your body and in your mood: this is not something you imagine, it really happens. Lack of sleep, stress, your phone or what is going on around you can also have similar effects.\n\nIf, when you see a name, you think “maybe that is it,” do not stop at that idea right away, and think of other reasons too. If the difficulties continue, you can talk about them as they are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs in mood and the urge to check things happen to everyone",
+       "body": "Everyone feels anxious at times, for example the evening before an exam. Everyone also sometimes goes back to check that a door is locked, or has a thought that stays on their mind for a while.\n\nA name (a diagnosis) is given by a health professional or a doctor, who takes into account everything the person is going through. It is better not to give yourself a name.\n\nIf the difficulties continue, you can talk about them as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Troubles anxieux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2024-07-29"
+        },
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Trouble obsessionnel-compulsif (TOC)",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/trouble-obsessionnel-compulsif",
+         "kind": "fact",
+         "upd": "2018-10-25"
+        },
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "À propos des troubles mentaux",
+         "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/a-propos-troubles-mentaux",
+         "kind": "fact",
+         "upd": "2021-12-03"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about your difficulties, even without a diagnosis",
+       "body": "Even without the name of an illness, you can talk about your difficulties as they are. In Québec, to get mental health services at a CLSC, a referral from a doctor or a diagnosis is not required.\n\nAt work, in a federally regulated workplace, a page of the Canadian Human Rights Commission explains that, to ask for an accommodation, a person can simply tell their employer that barriers related to the job could get in the way of their full participation and that an accommodation would be needed. According to that page, the employer should ask for supporting information only if it is truly essential to put the accommodation in place.\n\nIn Ontario, a page of the Ontario Human Rights Commission says that, in rare cases where the needs are unclear or complex, the person asking for an accommodation may have to give more information, including about the nature of their diagnosis.\n\nWhat is feasible depends on the situation and on the other person: it is decided by talking it over together.",
+       "srcs": [
+        {
+         "org": "Gouvernement du Québec (Québec.ca)",
+         "title": "Centre local de services communautaires (CLSC)",
+         "url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/clsc",
+         "kind": "fact",
+         "upd": "2023-09-23"
+        },
+        {
+         "org": "Commission canadienne des droits de la personne (CCDP)",
+         "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
+         "url": "https://www.ccdp-chrc.gc.ca/node/771",
+         "kind": "fact",
+         "upd": "2026-11-12"
+        },
+        {
+         "org": "Commission ontarienne des droits de la personne (CODP)",
+         "title": "8. Obligation d’accommodement",
+         "url": "https://www.ohrc.on.ca/fr/policy-ableism-and-discrimination-based-disability/8-obligation-daccommodement",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "However, some programs ask for a document from a health professional",
+       "body": "However, for some programs, a document from a health professional is needed.\n\nFor Employment Insurance sickness benefits (a federal program), a medical certificate signed by the health professional who is following your care is needed; a psychologist is one of the professionals who can sign it.\n\nFor the Disability Tax Credit (DTC, a federal program), a health professional must attest to the impairment.\n\nAmong other things, the Canada Disability Benefit asks for the DTC application to have been accepted.\n\nProvincial and territorial programs are different. What is asked depends on the program: check with the organization concerned before you start the process.",
+       "srcs": [
+        {
+         "org": "Emploi et Développement social Canada (canada.ca)",
+         "title": "Prestations de maladie de l'assurance-emploi : Êtes-vous admissible",
+         "url": "https://www.canada.ca/fr/services/prestations/ae/assurance-emploi-maladie/admissibilite.html",
+         "kind": "fact",
+         "upd": "2026-10-22"
+        },
+        {
+         "org": "Agence du revenu du Canada (canada.ca)",
+         "title": "Qui est admissible",
+         "url": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/segments/deductions-credits-impot-personnes-handicapees/credit-impot-personnes-handicapees/admissible-ciph.html",
+         "kind": "fact",
+         "upd": "2026-10-22"
+        },
+        {
+         "org": "Emploi et Développement social Canada (canada.ca)",
+         "title": "Prestation canadienne pour les personnes handicapées",
+         "url": "https://www.canada.ca/fr/services/prestations/handicap/prestation-canadienne-personnes-situation-handicap/eligibilite.html",
+         "kind": "fact",
+         "upd": "2026-11-10"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for an illness is not a tool for placing yourself above others",
+       "body": "A name for an illness is not a tool for placing yourself above someone, or for looking down on others.\nSome people feel lighter when they learn a name for what they are going through. That matters.\nWanting the people around you to understand, or to be gentler with you, is natural too.\n\nWhen you would like someone to be gentler with you, you can ask for it directly, without giving the name of an illness.\nIt is easier to understand if you say two things together: what makes things difficult for you, and what you would like the other person to do.\n\nFor example, you can say:\n“Today I have little energy: could you speak to me slowly?”\n“When I am told many things at once, I get lost: could you tell me one at a time?”\n“I find it hard to remember what I only hear: could you write down the important things, on paper or by email?”\n“Places with a lot of people are hard for me: I would rather talk somewhere quiet.”\n“I need a little time to answer: could you wait a moment?”\n“Right now my emotions are taking up all the space: could you listen to me first? Advice can wait.”\n“Today I am not feeling well: could you let me rest for a while?”\n“Sudden changes of plan throw me off: could you tell me as soon as you know?”\n“When people speak loudly to me, I get scared: could you speak to me calmly?”\n\nIf it is hard to say, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button: it appears in this app when you choose a worry and answer the questions.\nIf you want to tell someone the name of an illness that concerns you, you can. In that case too, saying at the same time what makes things difficult for you and what you would like the other person to do helps them act.\nSometimes the other person cannot do what you ask because of their own situation. In that case, try to look together for another way of doing things.\n\nAt work, if you would like to ask for an accommodation, you can talk to your employer. For a federally regulated workplace, a page of the Canadian Human Rights Commission says that, at the start of the discussion, the employer will need to know whether there is a disability or a health condition that makes an accommodation necessary, what barriers arise at work and what accommodation is wanted.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": [
+        {
+         "org": "Commission canadienne des droits de la personne (CCDP)",
+         "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
+         "url": "https://www.ccdp-chrc.gc.ca/node/771",
+         "kind": "fact",
+         "upd": "2026-11-12"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have an illness or a disorder. This app is not a medical device and does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere and are not saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit group in Japan. SOYOGI has no connection with the Government of Canada, the provincial and territorial governments, Health Canada or any health institution, and none of them has recommended or supported this app. The names of the bodies only show where the information comes from. The original texts can be read free of charge on the website of each body.\n\nSOYOGI wrote this content in its own words, drawing on public pages from Canada, the provinces and the territories. This English version does not quote those pages word for word. Sources are shown on each screen, with the update date of each page. Checked on 13 November 2026: numbers and hours may change. The hours are those given by each service; unless stated otherwise, they are in the local time of the province or territory concerned.\n\nIt is you, not the app, who decides whether or not to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "You do not have to wait until you can no longer manage everyday tasks before asking for help or looking for information: you can do it even while wondering whether you really need it.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "À propos des troubles mentaux",
+       "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/a-propos-troubles-mentaux",
+       "kind": "fact",
+       "upd": "2021-12-03"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "In Québec: for ADHD, some care and services can be accessed without having received a diagnosis. To find out more, you can contact a CLSC (local community service centre).",
+       "src": {
+        "org": "Gouvernement du Québec (Québec.ca)",
+        "title": "Trouble du déficit de l’attention avec ou sans hyperactivité (TDAH)",
+        "url": "https://www.quebec.ca/sante/problemes-de-sante/a-z/trouble-deficit-attention-hyperactivite-tdah",
+        "kind": "fact",
+        "upd": "2024-12-09"
+       }
+      },
+      {
+       "text": "In Ontario: This page lists your family doctor or a nurse practitioner as people you can book an appointment with.",
+       "src": {
+        "org": "Gouvernement de l’Ontario (ontario.ca)",
+        "title": "Trouvez des services de santé mentale et de toxicomanie dans votre collectivité",
+        "url": "https://www.ontario.ca/fr/page/services-de-sante-mentale",
+        "kind": "fact",
+        "upd": "2026-06-22"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is given, a public page from Québec says:",
+      "text": "For example, for depression: a health professional can check whether another health problem is causing similar difficulties. To do this, they can carry out a physical examination or ask for laboratory tests.",
+      "src": {
+       "org": "Gouvernement du Québec (Québec.ca)",
+       "title": "Dépression",
+       "url": "https://www.quebec.ca/sante/sante-mentale/s-informer-sur-sante-mentale-et-troubles-mentaux/mieux-comprendre-troubles-mentaux/depression",
+       "kind": "fact",
+       "upd": "2024-07-30"
+      }
+     },
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "pt": {
+   "id": "pt",
+   "name": {
+    "ja": "ポルトガル",
+    "en": "Portugal",
+    "fr": "Portugal",
+    "de": "Portugal",
+    "es": "Portugal",
+    "esmx": "Portugal",
+    "nl": "Portugal",
+    "ko": "포르투갈",
+    "zh": "葡萄牙",
+    "it": "Portogallo",
+    "sv": "Portugal",
+    "pt": "Portugal",
+    "ptpt": "Portugal",
+    "ar": "البرتغال"
+   },
+   "langs": [
+    "ptpt",
+    "en"
+   ],
+   "main": "ptpt",
+   "fallback": "ptpt",
+   "srcLang": "ptpt",
+   "freeHosts": [
+    "gov.pt"
+   ],
+   "adaptHosts": [
+    "files.diariodarepublica.pt"
+   ],
+   "factRef": true,
+   "ver": "2026-11-13",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "pt112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "https://www.gov.pt/linhas-uteis",
+     "linkOk": true,
+     "ptpt": {
+      "name": "112, emergência médica",
+      "desc": "O 112 é o número europeu de emergência médica: está disponível 24 horas por dia, todos os dias, e as chamadas são gratuitas. Em caso de emergência, ligue 112.",
+      "hours": "24 horas por dia, todos os dias.",
+      "src": {
+       "org": "Secretaria-Geral do Ministério da Administração Interna (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "112 (emergency number for medical emergencies)",
+      "desc": "112 is the European emergency number for medical emergencies. It is available 24 hours a day, every day, and calls are free. In an emergency, call 112.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Secretaria-Geral do Ministério da Administração Interna (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Secretaria-Geral do Ministério da Administração Interna (gov.pt)",
+      "title": "Linhas Úteis",
+      "url": "https://www.gov.pt/linhas-uteis",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "pt1411",
+     "band": "now",
+     "tel": "1411",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ptpt": {
+      "name": "1411, Linha Nacional de Prevenção do Suicídio",
+      "desc": "A Linha Nacional de Prevenção do Suicídio (1411) é gratuita e funciona 24 horas por dia, todos os dias do ano. Atendem profissionais com formação em saúde mental, entre eles psicólogos clínicos e enfermeiros especialistas. O que se diz na chamada fica sob dever de confidencialidade. Quando há risco para a vida, a chamada passa para o INEM.",
+      "hours": "24 horas por dia, todos os dias do ano.",
+      "src": {
+       "org": "SNS 24 (SPMS, E.P.E.)",
+       "title": "Linha nacional de prevenção do suicídio",
+       "url": "https://www.sns24.gov.pt/pt/servico/linha-nacional-de-prevencao-do-suicidio/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "1411, Linha Nacional de Prevenção do Suicídio (national suicide prevention line)",
+      "desc": "The national suicide prevention line (1411) is free and runs 24 hours a day, every day of the year. The people who answer are professionals trained in mental health, including clinical psychologists and specialist nurses. What is said on the call is covered by a duty of confidentiality. When a life is in danger, the call is passed to INEM (the national emergency medical service).",
+      "hours": "24 hours a day, every day of the year.",
+      "src": {
+       "org": "SNS 24 (SPMS, E.P.E.)",
+       "title": "Linha nacional de prevenção do suicídio",
+       "url": "https://www.sns24.gov.pt/pt/servico/linha-nacional-de-prevencao-do-suicidio/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "SNS 24 (SPMS, E.P.E.)",
+      "title": "Linha nacional de prevenção do suicídio",
+      "url": "https://www.sns24.gov.pt/pt/servico/linha-nacional-de-prevencao-do-suicidio/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptsns24",
+     "band": "now",
+     "tel": "808242424",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ptpt": {
+      "name": "Linha SNS 24: opção 4, com psicólogos clínicos",
+      "desc": "Na Linha SNS 24 (808242424), depois de ligar, escolha a opção 4 para o Serviço de Aconselhamento Psicológico, com psicólogos clínicos, 24 horas por dia, 7 dias por semana. É pedida autorização para gravar a chamada; sem essa autorização, a conversa segue sem gravação. O apoio também pode ser em inglês. A Linha SNS 24 não é a linha para situações de perigo de suicídio: nesses casos, encaminha logo a chamada para o INEM. Em caso de risco de vida, ligue 112.",
+      "hours": "24 horas por dia, 7 dias por semana.",
+      "src": {
+       "org": "SNS 24 (SPMS, E.P.E.)",
+       "title": "Aconselhamento psicológico no SNS 24",
+       "url": "https://www.sns24.gov.pt/pt/servico/aconselhamento-psicologico-no-sns-24/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Linha SNS 24 (808 24 24 24): option 4, with clinical psychologists",
+      "desc": "On the Linha SNS 24 (808242424), after you call, choose option 4 for the Serviço de Aconselhamento Psicológico (psychological advice service), with clinical psychologists, 24 hours a day, 7 days a week. You are asked for permission to record the call; without that permission, the conversation goes ahead without a recording. Support can also be in English. The Linha SNS 24 is not the line for situations of danger of suicide: in those cases, it passes the call straight to INEM (the national emergency medical service). If a life is in danger, call 112.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "SNS 24 (SPMS, E.P.E.)",
+       "title": "Aconselhamento psicológico no SNS 24",
+       "url": "https://www.sns24.gov.pt/pt/servico/aconselhamento-psicologico-no-sns-24/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "SNS 24 (SPMS, E.P.E.)",
+      "title": "Aconselhamento psicológico no SNS 24",
+      "url": "https://www.sns24.gov.pt/pt/servico/aconselhamento-psicologico-no-sns-24/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptcig",
+     "band": "now",
+     "tel": "800 202 148",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "3060",
+     "ptpt": {
+      "name": "Violência doméstica: linha 800 202 148 e SMS 3060",
+      "desc": "Para quem vive violência doméstica: a linha 800 202 148 é gratuita, anónima e confidencial e funciona 24 horas por dia, todos os dias do ano. Para quem prefere não telefonar, também é possível escrever por SMS para o 3060, um serviço igualmente gratuito e confidencial.",
+      "hours": "24 horas por dia, todos os dias do ano.",
+      "src": {
+       "org": "Comissão para a Cidadania e a Igualdade de Género (CIG)",
+       "title": "Serviço de Informação às Vítimas de Violência Doméstica",
+       "url": "https://www.cig.gov.pt/area-portal-da-violencia/portal-violencia-domestica/servico-de-informacao-as-vitimas-de-violencia-domestica/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Domestic violence (violência doméstica): line 800 202 148 and SMS 3060",
+      "desc": "For people living with domestic violence: the line 800 202 148 is free and confidential and runs 24 hours a day, every day of the year. For those who prefer not to phone, you can also write by SMS to 3060, a service that is equally free and confidential.",
+      "hours": "24 hours a day, every day of the year.",
+      "src": {
+       "org": "Comissão para a Cidadania e a Igualdade de Género (CIG)",
+       "title": "Serviço de Informação às Vítimas de Violência Doméstica",
+       "url": "https://www.cig.gov.pt/area-portal-da-violencia/portal-violencia-domestica/servico-de-informacao-as-vitimas-de-violencia-domestica/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Comissão para a Cidadania e a Igualdade de Género (CIG)",
+      "title": "Serviço de Informação às Vítimas de Violência Doméstica",
+      "url": "https://www.cig.gov.pt/area-portal-da-violencia/portal-violencia-domestica/servico-de-informacao-as-vitimas-de-violencia-domestica/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "pt144",
+     "band": "now",
+     "tel": "144",
+     "tel2": "",
+     "url": "https://www.gov.pt/linhas-uteis",
+     "linkOk": true,
+     "ptpt": {
+      "name": "144, Linha Nacional de Emergência Social",
+      "desc": "A Linha Nacional de Emergência Social (144) responde a situações urgentes de proteção social e, depois, encaminha e acompanha. Está disponível 24 horas por dia, todos os dias, e as chamadas são gratuitas.",
+      "hours": "24 horas por dia, todos os dias.",
+      "src": {
+       "org": "Instituto da Segurança Social (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "144, Linha Nacional de Emergência Social (national social emergency line)",
+      "desc": "The national social emergency line (144) responds to urgent social protection situations, and then refers people on and follows up. It is available 24 hours a day, every day, and calls are free.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Instituto da Segurança Social (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Instituto da Segurança Social (gov.pt)",
+      "title": "Linhas Úteis",
+      "url": "https://www.gov.pt/linhas-uteis",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptsurdo",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "sms": "961010200",
+     "ptpt": {
+      "name": "Para pessoas surdas: SMS para o 961010200",
+      "desc": "Para pessoas surdas: é possível enviar uma SMS para o 961010200. Os operadores da GNR podem comunicar a mensagem, por voz, à GNR, à PSP ou ao INEM.",
+      "hours": "",
+      "src": {
+       "org": "Secretaria-Geral da Administração Interna (Ministério da Administração Interna)",
+       "title": "Micro-site Violência Doméstica",
+       "url": "https://queixaselectronicas.mai.gov.pt/micrositevd/apoios.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "For deaf people: SMS to 961010200",
+      "desc": "For deaf people: you can send an SMS to 961010200. The GNR operators can pass the message on, by voice, to the GNR, the PSP or INEM (the national emergency medical service).",
+      "hours": "",
+      "src": {
+       "org": "Secretaria-Geral da Administração Interna (Ministério da Administração Interna)",
+       "title": "Micro-site Violência Doméstica",
+       "url": "https://queixaselectronicas.mai.gov.pt/micrositevd/apoios.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Secretaria-Geral da Administração Interna (Ministério da Administração Interna)",
+      "title": "Micro-site Violência Doméstica",
+      "url": "https://queixaselectronicas.mai.gov.pt/micrositevd/apoios.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptcs",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gov.pt/servicos/inscrever-se-no-centro-de-saude",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Centro de saúde da sua área",
+      "desc": "Pode começar pelo centro de saúde da sua área, mesmo sem saber o nome do que está a acontecer. Nos centros de saúde do SNS há consultas, medicina familiar, cuidados de enfermagem e serviços de proximidade, como nutrição, psicologia, saúde oral e apoio social. Para se inscrever, é preciso o número de utente do SNS; quem ainda não o tem pode obtê-lo no momento da inscrição. Pode mostrar a página «O que está difícil para mim».",
+      "hours": "",
+      "src": {
+       "org": "Administração Central do Sistema de Saúde (gov.pt)",
+       "title": "Inscrever-se no centro de saúde",
+       "url": "https://www.gov.pt/servicos/inscrever-se-no-centro-de-saude",
+       "kind": "fact",
+       "upd": "12.05.2026"
+      }
+     },
+     "en": {
+      "name": "Centro de saúde da sua área (your local health center)",
+      "desc": "You can start with the health center in your area, even without knowing the name of what is happening. SNS health centers offer appointments, family medicine, nursing care and local services, such as nutrition, psychology, oral health and social support. To register, you need the SNS user number; anyone who does not have one yet can get it when they register. You can show the page “My worries”.",
+      "hours": "",
+      "src": {
+       "org": "Administração Central do Sistema de Saúde (gov.pt)",
+       "title": "Inscrever-se no centro de saúde",
+       "url": "https://www.gov.pt/servicos/inscrever-se-no-centro-de-saude",
+       "kind": "fact",
+       "upd": "12.05.2026"
+      }
+     },
+     "src": {
+      "org": "Administração Central do Sistema de Saúde (gov.pt)",
+      "title": "Inscrever-se no centro de saúde",
+      "url": "https://www.gov.pt/servicos/inscrever-se-no-centro-de-saude",
+      "kind": "fact",
+      "upd": "12.05.2026"
+     }
+    },
+    {
+     "id": "ptlocal",
+     "band": "day",
+     "tel": "969 320 140",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ptpt": {
+      "name": "Madeira e Açores: serviços de saúde da região",
+      "desc": "Na Madeira, a página da Direção Regional da Saúde indica a Linha de Apoio Psicológico do SESARAM (969 320 140) e a linha 1411; a página não indica horário. Nos Açores, não encontrámos uma página pública atual com uma linha de apoio; pergunte nos serviços de saúde da sua ilha.",
+      "hours": "",
+      "src": {
+       "org": "Governo Regional da Madeira, Direção Regional da Saúde",
+       "title": "Dia Mundial de Prevenção do Suicídio 2025",
+       "url": "https://www.madeira.gov.pt/drs/Estrutura/DRS/ctl/Read/mid/12765/InformacaoId/249313/UnidadeOrganicaId/48",
+       "kind": "fact",
+       "upd": "10-09-2025"
+      }
+     },
+     "en": {
+      "name": "Madeira and the Azores: regional health services",
+      "desc": "In Madeira, the page of the Direção Regional da Saúde (Regional Directorate of Health) lists the Linha de Apoio Psicológico of SESARAM (969 320 140) and the 1411 line; the page does not give opening hours. In the Azores, we did not find a current public page with a support line; ask at the health services on your island.",
+      "hours": "",
+      "src": {
+       "org": "Governo Regional da Madeira, Direção Regional da Saúde",
+       "title": "Dia Mundial de Prevenção do Suicídio 2025",
+       "url": "https://www.madeira.gov.pt/drs/Estrutura/DRS/ctl/Read/mid/12765/InformacaoId/249313/UnidadeOrganicaId/48",
+       "kind": "fact",
+       "upd": "10-09-2025"
+      }
+     },
+     "src": {
+      "org": "Governo Regional da Madeira, Direção Regional da Saúde",
+      "title": "Dia Mundial de Prevenção do Suicídio 2025",
+      "url": "https://www.madeira.gov.pt/drs/Estrutura/DRS/ctl/Read/mid/12765/InformacaoId/249313/UnidadeOrganicaId/48",
+      "kind": "fact",
+      "upd": "10-09-2025"
+     }
+    },
+    {
+     "id": "ptcuida",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-psicologia",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Cheque Cuida-te: consultas gratuitas de psicologia",
+      "desc": "O Cheque Cuida-te - Psicologia, do Programa Cuida-te do Instituto Português do Desporto e Juventude (IPDJ), dá acesso a consultas gratuitas de psicologia com psicólogos que aderiram ao programa. O cheque não toma o lugar de cuidados clínicos especializados. Quem pode pedir está indicado na página do serviço.",
+      "hours": "",
+      "src": {
+       "org": "Instituto Português do Desporto e Juventude (gov.pt)",
+       "title": "Pedir Cheque Cuida-te - Psicologia",
+       "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-psicologia",
+       "kind": "fact",
+       "upd": "30.09.2026"
+      }
+     },
+     "en": {
+      "name": "Cheque Cuida-te (Cuida-te voucher): free psychology appointments",
+      "desc": "The Cheque Cuida-te - Psicologia, of the Cuida-te Program of the Instituto Português do Desporto e Juventude (IPDJ), gives access to free psychology appointments with psychologists who have joined the program. The voucher does not take the place of specialist clinical care. Who can apply is set out on the service page.",
+      "hours": "",
+      "src": {
+       "org": "Instituto Português do Desporto e Juventude (gov.pt)",
+       "title": "Pedir Cheque Cuida-te - Psicologia",
+       "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-psicologia",
+       "kind": "fact",
+       "upd": "30.09.2026"
+      }
+     },
+     "src": {
+      "org": "Instituto Português do Desporto e Juventude (gov.pt)",
+      "title": "Pedir Cheque Cuida-te - Psicologia",
+      "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-psicologia",
+      "kind": "fact",
+      "upd": "30.09.2026"
+     }
+    },
+    {
+     "id": "ptcuidanut",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-nutricao",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Cheque Cuida-te: consultas gratuitas de nutrição",
+      "desc": "O Cheque Cuida-te - Nutrição, do Programa Cuida-te do IPDJ, dá acesso a consultas gratuitas de nutrição. O cheque não toma o lugar de cuidados clínicos especializados. Quem pode pedir está indicado na página do serviço.",
+      "hours": "",
+      "src": {
+       "org": "Instituto Português do Desporto e Juventude (gov.pt)",
+       "title": "Pedir Cheque Cuida-te - Nutrição",
+       "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-nutricao",
+       "kind": "fact",
+       "upd": "01.10.2026"
+      }
+     },
+     "en": {
+      "name": "Cheque Cuida-te (Cuida-te voucher): free nutrition appointments",
+      "desc": "The Cheque Cuida-te - Nutrição, of the Cuida-te Program of the IPDJ, gives access to free nutrition appointments. The voucher does not take the place of specialist clinical care. Who can apply is set out on the service page.",
+      "hours": "",
+      "src": {
+       "org": "Instituto Português do Desporto e Juventude (gov.pt)",
+       "title": "Pedir Cheque Cuida-te - Nutrição",
+       "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-nutricao",
+       "kind": "fact",
+       "upd": "01.10.2026"
+      }
+     },
+     "src": {
+      "org": "Instituto Português do Desporto e Juventude (gov.pt)",
+      "title": "Pedir Cheque Cuida-te - Nutrição",
+      "url": "https://www.gov.pt/servicos/pedir-cheque-cuida-te-nutricao",
+      "kind": "fact",
+      "upd": "01.10.2026"
+     }
+    },
+    {
+     "id": "pticad",
+     "band": "day",
+     "tel": "1414",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ptpt": {
+      "name": "Linha 1414 (ICAD): álcool, drogas, jogo e outras dependências",
+      "desc": "Na Linha 1414, do ICAD, pode tirar dúvidas sobre o uso de substâncias psicoativas e sobre comportamentos aditivos sem substância, como o jogo ou as redes sociais, e receber informação e encaminhamento. O serviço é anónimo, gratuito e confidencial. Funciona nos dias úteis, das 10h00 às 18h00, e também responde por email (1414@icad.min-saude.pt).",
+      "hours": "Dias úteis, das 10h00 às 18h00.",
+      "src": {
+       "org": "Instituto para os Comportamentos Aditivos e as Dependências, I.P. (ICAD)",
+       "title": "Pedir ajuda",
+       "url": "https://www.icad.pt/ImageContent/Index/21?languageId=1",
+       "kind": "fact",
+       "upd": "29/09/2026"
+      }
+     },
+     "en": {
+      "name": "Linha 1414 (ICAD): alcohol, drugs, gambling and other addictions",
+      "desc": "On the 1414 line, run by ICAD, you can ask questions about the use of psychoactive substances and about addictive behaviors without a substance, such as gambling or social media, and receive information and referral. The service is free and confidential. It runs on working days, from 10 a.m. to 6 p.m. (Portugal time), and also answers by email (1414@icad.min-saude.pt).",
+      "hours": "Working days, from 10 a.m. to 6 p.m. (Portugal time).",
+      "src": {
+       "org": "Instituto para os Comportamentos Aditivos e as Dependências, I.P. (ICAD)",
+       "title": "Pedir ajuda",
+       "url": "https://www.icad.pt/ImageContent/Index/21?languageId=1",
+       "kind": "fact",
+       "upd": "29/09/2026"
+      }
+     },
+     "src": {
+      "org": "Instituto para os Comportamentos Aditivos e as Dependências, I.P. (ICAD)",
+      "title": "Pedir ajuda",
+      "url": "https://www.icad.pt/ImageContent/Index/21?languageId=1",
+      "kind": "fact",
+      "upd": "29/09/2026"
+     }
+    },
+    {
+     "id": "ptprov",
+     "band": "day",
+     "tel": "800 208 462",
+     "tel2": "",
+     "url": "https://www.gov.pt/linhas-uteis",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Linha do Cidadão com Deficiência",
+      "desc": "A Linha do Cidadão com Deficiência, da Provedoria de Justiça, dá informação sobre os direitos e apoios das pessoas com deficiência, por exemplo na saúde, na segurança social e na habitação. As chamadas são gratuitas.",
+      "hours": "Dias úteis, das 9h30 às 17h30.",
+      "src": {
+       "org": "Provedoria de Justiça (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Linha do Cidadão com Deficiência (helpline for citizens with disabilities)",
+      "desc": "The Linha do Cidadão com Deficiência, of the Provedoria de Justiça (the Ombudsman), gives information on the rights and support of people with disabilities, for example in health, social security and housing. Calls are free.",
+      "hours": "Working days, from 9:30 a.m. to 5:30 p.m. (Portugal time).",
+      "src": {
+       "org": "Provedoria de Justiça (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Provedoria de Justiça (gov.pt)",
+      "title": "Linhas Úteis",
+      "url": "https://www.gov.pt/linhas-uteis",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptseg",
+     "band": "day",
+     "tel": "210 545 400",
+     "tel2": "300 502 502",
+     "url": "https://www.gov.pt/linhas-uteis",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Linha Segurança Social",
+      "desc": "A Linha Segurança Social dá informações sobre os serviços da Segurança Social, como subsídios, prestações ou pensões. O valor da chamada é o de uma chamada para a rede fixa.",
+      "hours": "Dias úteis, das 9h às 18h.",
+      "src": {
+       "org": "Instituto da Segurança Social (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Linha Segurança Social (social security line)",
+      "desc": "The Linha Segurança Social gives information about the services of Social Security, such as allowances, benefits or pensions. The cost of the call is that of a call to a landline.",
+      "hours": "Working days, from 9 a.m. to 6 p.m. (Portugal time).",
+      "src": {
+       "org": "Instituto da Segurança Social (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Instituto da Segurança Social (gov.pt)",
+      "title": "Linhas Úteis",
+      "url": "https://www.gov.pt/linhas-uteis",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptiefp",
+     "band": "day",
+     "tel": "215 803 555",
+     "tel2": "",
+     "url": "https://www.gov.pt/linhas-uteis",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Centro de Contacto do IEFP",
+      "desc": "O Centro de Contacto do IEFP dá informações sobre questões relacionadas com o emprego. O valor da chamada é o de uma chamada para a rede fixa.",
+      "hours": "Dias úteis, das 9h às 19h.",
+      "src": {
+       "org": "Instituto do Emprego e Formação Profissional (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Centro de Contacto do IEFP (IEFP contact center)",
+      "desc": "The IEFP contact center gives information on matters related to employment. The cost of the call is that of a call to a landline.",
+      "hours": "Working days, from 9 a.m. to 7 p.m. (Portugal time).",
+      "src": {
+       "org": "Instituto do Emprego e Formação Profissional (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Instituto do Emprego e Formação Profissional (gov.pt)",
+      "title": "Linhas Úteis",
+      "url": "https://www.gov.pt/linhas-uteis",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ptact",
+     "band": "day",
+     "tel": "300 069 300",
+     "tel2": "",
+     "url": "https://www.gov.pt/linhas-uteis",
+     "linkOk": true,
+     "ptpt": {
+      "name": "Linha da Autoridade para as Condições do Trabalho",
+      "desc": "A Linha da Autoridade para as Condições do Trabalho dá atendimento informativo por telefone. O valor da chamada é o de uma chamada para a rede fixa.",
+      "hours": "Dias úteis, das 9h30 às 12h e das 14h às 17h.",
+      "src": {
+       "org": "Autoridade para as Condições do Trabalho (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Linha da Autoridade para as Condições do Trabalho (working conditions authority line)",
+      "desc": "The line of the Autoridade para as Condições do Trabalho (the working conditions authority) gives information by telephone. The cost of the call is that of a call to a landline.",
+      "hours": "Working days, from 9:30 a.m. to noon and from 2 p.m. to 5 p.m. (Portugal time).",
+      "src": {
+       "org": "Autoridade para as Condições do Trabalho (gov.pt)",
+       "title": "Linhas Úteis",
+       "url": "https://www.gov.pt/linhas-uteis",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Autoridade para as Condições do Trabalho (gov.pt)",
+      "title": "Linhas Úteis",
+      "url": "https://www.gov.pt/linhas-uteis",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "ptpt": {
+    "groups": {
+     "mood": {
+      "label": "Desânimo, sem energia",
+      "lead": "O humor fica em baixo durante muito tempo e falta energia para tudo.",
+      "scenes": [
+       "O meu humor fica em baixo da manhã à noite.",
+       "Coisas de que eu gostava já não me dão prazer.",
+       "Falta-me energia e não consigo concentrar-me, por isso o trabalho e as tarefas de casa vão ficando para trás.",
+       "Sinto culpa e vejo quase tudo pelo lado mais negro.",
+       "À noite não consigo dormir, ou então durmo demais. Perco o apetite e o corpo fica pesado.",
+       "Às vezes tenho vontade de desaparecer, ou de deixar de existir."
+      ],
+      "asks": [
+       "Ajuda-me quando me dizem o que fazer, uma coisa de cada vez.",
+       "Preciso de tempo para pensar. Ajuda-me quando não há pressa para responder ou decidir.",
+       "Ajuda-me quando as coisas importantes me são dadas por escrito.",
+       "Ajuda-me quando a pessoa me ouve antes de dizer «Força!».",
+       "Não quero que achem que descansar é preguiça.",
+       "Ajuda-me quando vemos em conjunto se uma doença do corpo ou um medicamento que tomo tem a ver com isto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Doenças da tiroide",
+        "why": "A página descreve que, quando a tiroide produz hormonas a mais ou a menos, podem aparecer cansaço, indisposição, stress ou mudanças no peso, e refere o hipotiroidismo e o hipertiroidismo.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Doenças da tiroide, saiba como reconhecer os sintomas",
+         "url": "https://hff.min-saude.pt/doencas-da-tiroide-saiba-como-reconhecer-os-sintomas/",
+         "kind": "fact",
+         "upd": "24 Janeiro, 2018"
+        }
+       },
+       {
+        "name": "Depressão",
+        "why": "A página descreve que a depressão, ao contrário da tristeza ligada a um acontecimento, pode manter-se e pesar nas atividades do dia a dia, no trabalho e na vida familiar.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Depressão",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/depressao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Doença bipolar",
+        "why": "A página descreve alterações de humor, com fases de humor em baixo (depressão) e fases de humor elevado (mania ou hipomania), que voltam a aparecer.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Doença bipolar",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/doenca-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Burnout (esgotamento ligado ao trabalho)",
+        "why": "A página descreve um esgotamento físico, emocional e mental que resulta de stress prolongado no trabalho, e diz que este nome se usa apenas para o contexto profissional.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Burnout",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/burnout/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problemas com o álcool",
+        "why": "A página inclui os problemas trazidos pelo excesso de álcool ou de drogas entre os acontecimentos de vida com muito stress que podem estar ligados à depressão.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Depressão",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/depressao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Muita preocupação ou tensão",
+      "lead": "A preocupação não para, o coração dispara e é difícil acalmar-se, ou custa estar perto de outras pessoas ou sair de casa.",
+      "scenes": [
+       "Quando tenho de falar à frente de outras pessoas, ou quando todos olham para mim, sinto tanta ansiedade que me dá uma branca.",
+       "De repente o coração dispara e fico sem ar. Tenho medo de que volte a acontecer, e isso dificulta sair de casa.",
+       "Preocupo-me com uma coisa atrás da outra, mesmo sem um motivo claro. Sinto inquietação, e isso cansa-me muito.",
+       "Tenho dificuldade com lugares de onde é difícil sair, como o autocarro, o metro ou o comboio, ou lugares cheios, como os centros comerciais, e também com sair de casa sem companhia. Por isso, evito estas situações.",
+       "Como evito o que me causa ansiedade, vou a cada vez menos sítios e vejo cada vez menos gente. O meu mundo ficou mais pequeno.",
+       "A preocupação não me sai da cabeça, e à noite não consigo adormecer."
+      ],
+      "asks": [
+       "Ajuda-me quando esperam com calma até eu falar.",
+       "Ajuda-me quando me dizem com antecedência como vai ser a conversa e o que está previsto.",
+       "Prefiro que não me peçam a opinião à frente de outras pessoas sem aviso. Ajuda-me quando posso responder também por escrito.",
+       "Se me sentir mal, ajuda-me quando posso sair por um momento e descansar.",
+       "Prefiro conversar num sítio tranquilo, com poucas pessoas.",
+       "Não quero ouvir logo que me preocupo demais. Ajuda-me quando primeiro ouvem o que me custa."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Doenças da tiroide",
+        "why": "A página sobre ataques de pânico diz que primeiro se põem de parte doenças que podem dar sinais parecidos, como as do coração ou da tiroide.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Ataque de pânico: saiba como identificar",
+         "url": "https://hff.min-saude.pt/ataque-de-panico-saiba-como-identificar/",
+         "kind": "fact",
+         "upd": "19 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Perturbações de ansiedade",
+        "why": "A página descreve as perturbações de ansiedade como um medo forte e desproporcionado, que se mantém e pesa muito na vida do dia a dia.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Ataques de pânico (pânico patológico)",
+        "why": "A página descreve episódios súbitos de medo intenso, com reações do corpo muito fortes, e diz que, quando os episódios se repetem e fica o receio constante de um novo ataque, se fala de pânico patológico.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Ataque de pânico: saiba como identificar",
+         "url": "https://hff.min-saude.pt/ataque-de-panico-saiba-como-identificar/",
+         "kind": "fact",
+         "upd": "19 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Agorafobia",
+        "why": "A página descreve que o medo de novos ataques de pânico pode levar a evitar certas situações ou até a sair de casa (agorafobia), porque nenhum lugar parece seguro.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Ataque de pânico: saiba como identificar",
+         "url": "https://hff.min-saude.pt/ataque-de-panico-saiba-como-identificar/",
+         "kind": "fact",
+         "upd": "19 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Perturbação de stress pós-traumático (PSPT)",
+        "why": "A página descreve que, depois de um acontecimento traumático, podem surgir pensamentos que se impõem, pesadelos, um estado de alerta constante e crises de medo ou pânico.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Stress pós-traumático: lidar com a perturbação depois do trauma",
+         "url": "https://hff.min-saude.pt/stress-pos-traumatico-lidar-com-a-perturbacao-depois-do-trauma/",
+         "kind": "fact",
+         "upd": "31 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Depressão",
+        "why": "A página diz que, quando a ansiedade se prolonga e pesa na vida da pessoa, se pode juntar uma depressão.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Difícil parar de verificar ou de repetir coisas",
+      "lead": "Verificar várias vezes a porta ou o gás, ou lavar muitas vezes as mãos: as mesmas coisas repetem-se e é difícil parar, mesmo querendo.",
+      "scenes": [
+       "Ao sair de casa, preciso de verificar várias vezes se a porta está trancada e se o gás está fechado (a botija ou o fogão). Sem isso, não consigo sair com tranquilidade.",
+       "Lavo as mãos ou o corpo cada vez mais e não consigo parar, mesmo querendo.",
+       "A mesma preocupação volta à minha cabeça vezes sem conta, e não consigo deixar de pensar nela, mesmo querendo.",
+       "Se as coisas não estão pela ordem que defini, ou não são feitas por essa ordem, fico sem sossego e acabo por arrumar ou refazer tudo.",
+       "Verificar demora tanto tempo que a saída se atrasa e chego depois da hora a compromissos e ao trabalho.",
+       "O corpo mexe-se ou saem-me sons sem que eu queira, e custa-me parar, mesmo quando tento."
+      ],
+      "asks": [
+       "Não quero ouvir logo que me preocupo demais. Ajuda-me quando primeiro me ouvem.",
+       "Verificar as coisas leva-me tempo. Ajuda-me quando há algum tempo de folga.",
+       "Ajuda-me quando me avisam com antecedência de que os planos ou as rotinas vão mudar.",
+       "Não quero que comentem ou se riam de mim à frente de outras pessoas quando estou a verificar algo ou a lavar as mãos.",
+       "Ajuda-me quando as explicações e as instruções chegam uma de cada vez e por escrito.",
+       "Gostaria que, antes de decidirmos como seguir daqui para a frente, alguém ouvisse o que me preocupa, e que tudo fosse decidido com calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Perturbação obsessivo-compulsiva (POC)",
+        "why": "A página descreve a perturbação obsessivo-compulsiva com obsessões e compulsões, e diz que também podem surgir compulsões mentais, como repetir silenciosamente certas frases para reduzir a ansiedade.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Perturbação obsessiva-compulsiva",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/perturbacao-obsessiva-compulsiva/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Perturbação do espetro do autismo (nos adultos)",
+        "why": "Este documento descreve que, nos adultos, se presta atenção a interesses restritos e a comportamentos repetitivos, que até dão conforto à pessoa, e à dificuldade em ler o contexto social.",
+        "src": {
+         "org": "Direção-Geral da Saúde (DGS)",
+         "title": "Norma nº 002/2019 de 23/04/2019: Abordagem Diagnóstica e Intervenção na Perturbação do Espetro do Autismo em Idade Pediátrica e no Adulto",
+         "url": "https://www.dgs.pt/directrizes-da-dgs/normas-e-circulares-normativas/norma-n-0022019-de-23042019-pdf.aspx",
+         "kind": "fact",
+         "upd": "23/04/2019"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Uma experiência difícil continua a pesar",
+      "lead": "Depois de uma experiência difícil, a lembrança volta muitas vezes, o sono piora ou custa a relaxar.",
+      "scenes": [
+       "De repente, uma coisa pequena traz de volta a cena e as emoções daquele momento difícil.",
+       "Tenho muitas vezes pesadelos parecidos e, em muitas noites, não consigo dormir profundamente.",
+       "Estou sempre em alerta, e qualquer barulho ou acontecimento pequeno faz-me sobressaltar.",
+       "Evito ao máximo os lugares, as pessoas e os assuntos que me lembram aquele momento, e o que consigo fazer no dia a dia foi diminuindo.",
+       "É como se as minhas emoções se tivessem apagado, e não consigo dar à minha família e aos meus amigos o carinho de antes.",
+       "A culpa pesa cada vez mais e custa-me mais confiar nas pessoas à minha volta."
+      ],
+      "asks": [
+       "Gostava que não me pressionassem a contar os pormenores do que aconteceu. Prefiro contar só o que consigo, ao meu ritmo.",
+       "Alguns sons, lugares e assuntos fazem a lembrança voltar. Ajuda-me quando aceitam que eu prefira evitá-los.",
+       "Fica mais fácil para mim se ninguém me chamar de repente por trás nem fizer barulhos fortes perto de mim.",
+       "Quando falar custa, gostava de poder entregar algo que escrevi.",
+       "Ajuda-me quando as noites sem dormir e os dias de cansaço não são vistos como preguiça.",
+       "Gostava de ter um lugar seguro para falar, sem que me apressem com frases como «Esquece isso» ou «Já passou»."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insónia",
+        "why": "A página inclui as insónias e os pesadelos na descrição da perturbação de stress pós-traumático, e diz que reviver o que aconteceu pode afetar a concentração e o sono.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Stress pós-traumático: lidar com a perturbação depois do trauma",
+         "url": "https://hff.min-saude.pt/stress-pos-traumatico-lidar-com-a-perturbacao-depois-do-trauma/",
+         "kind": "fact",
+         "upd": "31 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Perturbações de ansiedade",
+        "why": "A página explica que nem sempre se percebe de onde vem a ansiedade e que, muitas vezes, nasce de vários fatores juntos, como a maneira de ser de cada pessoa, acontecimentos marcantes ou mudanças grandes na vida.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Perturbação de stress pós-traumático (PSPT)",
+        "why": "A página descreve que, depois de um acontecimento traumático, podem surgir pensamentos e imagens que se impõem, pesadelos, a vontade de evitar o que faz lembrar o acontecimento e um estado de alerta constante.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Stress pós-traumático: lidar com a perturbação depois do trauma",
+         "url": "https://hff.min-saude.pt/stress-pos-traumatico-lidar-com-a-perturbacao-depois-do-trauma/",
+         "kind": "fact",
+         "upd": "31 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Depressão",
+        "why": "A página refere acontecimentos de vida muito pesados, como a morte de alguém querido, o fim de uma relação ou uma doença grave, entre as situações que podem estar ligadas à depressão.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Depressão",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/depressao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificuldades com o sono",
+      "lead": "Custa a adormecer, a pessoa acorda durante a noite, custa a levantar de manhã ou tem muito sono durante o dia.",
+      "scenes": [
+       "Mesmo depois de me deitar, demoro muito a adormecer.",
+       "Acordo várias vezes durante a noite e não consigo dormir profundamente até de manhã.",
+       "À hora de me levantar, de manhã, não consigo sair da cama, e continuo a chegar tarde ao trabalho ou às aulas.",
+       "Durante o dia tenho muito sono e quase adormeço em reuniões ou ao volante.",
+       "Pessoas da minha família dizem que ronco alto e que parece que deixo de respirar durante o sono.",
+       "No fim da tarde e à noite sinto uma agitação nas pernas que não me deixa adormecer."
+      ],
+      "asks": [
+       "Gostava que ouvissem com calma como está o meu sono: a hora a que adormeço, os despertares durante a noite, a dificuldade em levantar-me de manhã e o sono durante o dia.",
+       "Gostava que pensássemos em conjunto nas causas possíveis, incluindo os medicamentos que tomo e os meus hábitos com café, bebidas energéticas, refrigerantes, álcool ou tabaco.",
+       "Ajuda-me quando não decidem logo que é só falta de força de vontade, e quando verificam também a saúde do corpo e o meu estado emocional.",
+       "Fica mais fácil para mim mostrar, num apontamento escrito, as horas a que me deito e a que acordo. Gostava que o vissem.",
+       "Se for preciso usar algum medicamento, gostava que me explicassem em palavras simples como funciona e o que devo ter em conta.",
+       "Como as manhãs são difíceis para mim, prefiro consultas à tarde ou ao fim do dia."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Síndrome de apneia obstrutiva do sono",
+        "why": "A página descreve pausas na respiração durante o sono, por bloqueio das vias respiratórias, e diz que isso pode trazer muito sono durante o dia.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Síndrome de apneia obstrutiva do sono",
+         "url": "https://www.sns24.gov.pt/pt/tema/doencas/doencas-respiratorias/sindrome-de-apneia-obstrutiva-do-sono/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insónia",
+        "why": "A página fala de dificuldade em adormecer e de insónias, e diz que se pode falar disso com o médico, que encaminha para um especialista quando for preciso.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Distúrbios do sono: o que fazer?",
+         "url": "https://hff.min-saude.pt/disturbios-do-sono-o-que-fazer/",
+         "kind": "fact",
+         "upd": "24 Julho, 2017"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificuldades com a alimentação",
+      "lead": "Comer ficou difícil: come-se muito pouco, não se consegue parar, ou a comida dá medo.",
+      "scenes": [
+       "Não tenho vontade de comer e, há dias, a comida custa a passar.",
+       "Quando começo a comer não consigo parar, e às vezes como tanto que me sinto mal.",
+       "Sem dar por isso, só penso em comida e tenho dificuldade em concentrar-me noutras coisas.",
+       "Só consigo comer poucos alimentos e evito muitos outros porque o sabor, o cheiro ou a textura me incomodam muito.",
+       "Depois de me engasgar com comida ou de vomitar, passei a ter medo de comer.",
+       "À noite, às vezes como meio a dormir e, de manhã, não me lembro de ter comido."
+      ],
+      "asks": [
+       "Gostava que não fizessem comentários sobre o meu corpo, o meu peso ou o meu aspeto.",
+       "Fica mais fácil para mim se ninguém me obrigar a comer nem me apressar para comer.",
+       "Em almoços de grupo no trabalho, festas e jantares de família, gostava de poder escolher outro sítio ou outra hora para comer.",
+       "Ajuda-me quando perguntam primeiro o que consigo comer e quais os cheiros e as texturas que me custam.",
+       "Gostava que me explicassem primeiro como vão ser os exames e a consulta.",
+       "Ajuda-me quando posso entregar por escrito aquilo que é difícil dizer em voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Doenças da tiroide",
+        "why": "A página do hospital diz que o mau funcionamento da tiroide pode dar sinais como cansaço, indisposição, stress ou alterações no peso, e descreve o hipotiroidismo e o hipertiroidismo.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Doenças da tiroide, saiba como reconhecer os sintomas",
+         "url": "https://hff.min-saude.pt/doencas-da-tiroide-saiba-como-reconhecer-os-sintomas/",
+         "kind": "fact",
+         "upd": "24 Janeiro, 2018"
+        }
+       },
+       {
+        "name": "Perturbações do comportamento alimentar",
+        "why": "A página descreve as perturbações do comportamento alimentar como doenças em que mudam a forma de comer, os pensamentos e as emoções, com grande foco na alimentação e no exercício físico.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Perturbações do comportamento alimentar",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/perturbacoes-do-comportamento-alimentar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida",
+       "ptcuidanut"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Álcool, apostas ou jogos eletrónicos: difícil parar",
+      "lead": "Há vontade de parar ou de diminuir, mas a pessoa continua.",
+      "scenes": [
+       "Mesmo quando decido parar ou diminuir, dou por mim a fazer outra vez o mesmo.",
+       "Não consigo respeitar o tempo, a quantidade ou o dinheiro que defini, como «hoje só até aqui».",
+       "Escondo ou disfarço, das pessoas próximas, o quanto bebo, o quanto aposto ou o tempo que passo nos jogos eletrónicos.",
+       "Passo as noites a jogar, não consigo levantar-me de manhã e os atrasos e as faltas aumentam.",
+       "Volto a apostar para recuperar o que perdi.",
+       "Sei que o meu corpo não está bem, mas não consigo beber menos."
+      ],
+      "asks": [
+       "Ajuda-me quando primeiro me ouvem, sem me culpar nem tirar conclusões precipitadas.",
+       "Gostava que organizássemos em conjunto, passo a passo, como está a minha situação hoje e que dificuldades isso traz.",
+       "Fica mais fácil para mim se também verificarem o meu sono e como está o meu corpo.",
+       "Gostava de saber, de forma concreta, onde posso procurar apoio e que sítios posso frequentar.",
+       "Gostava de saber se a minha família ou as pessoas próximas podem procurar apoio comigo.",
+       "Gostava que combinássemos antes com quem vai ser partilhado o que eu contar, e até que ponto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcoolismo (perturbação de uso de álcool)",
+        "why": "A página descreve o alcoolismo, também chamado perturbação de uso de álcool, como uma doença de longa duração para a qual contribuem a quantidade e a frequência do consumo de álcool e vários outros fatores.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Alcoolismo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/alcoolismo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Perturbação de jogo (jogo a dinheiro e apostas)",
+        "why": "A página descreve um padrão de jogo que se repete, em que é difícil parar de jogar mesmo com prejuízos importantes, e em que o jogo pode servir para lidar com emoções difíceis.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Perturbação de jogo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/perturbacao-de-jogo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Perturbação de jogo eletrónico (perturbação de gaming)",
+        "why": "A página descreve que os videojogos e outros jogos eletrónicos sem dinheiro podem tornar-se um problema quando se joga em excesso e sem controlo, e refere o nome perturbação de jogo eletrónico.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Perturbação de jogo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/perturbacao-de-jogo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "pticad"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificuldades de atenção ou de organização",
+      "lead": "É difícil concentrar-se, fazer as coisas pela ordem certa ou lembrar-se delas.",
+      "scenes": [
+       "Mesmo quando alguém está a falar comigo, a minha cabeça vai para outro assunto sem eu dar por isso.",
+       "Tenho dificuldade em fazer o trabalho ou as tarefas de casa pela ordem certa e acabo por falhar prazos.",
+       "Muitas vezes não me lembro do que me pediram ou do que combinei, ou perco coisas.",
+       "Quando estou muito tempo na mesma tarefa, aumentam os erros por descuido.",
+       "Quando tenho de estar muito tempo sem me mexer, sinto inquietação e custa-me acalmar.",
+       "As pessoas à minha volta dizem que me esqueço das coisas e que me atraso com frequência."
+      ],
+      "asks": [
+       "Ajuda-me quando recebo uma instrução de cada vez.",
+       "Ajuda-me quando o que é importante vem por escrito.",
+       "Ajuda-me quando sei os prazos e os compromissos com antecedência.",
+       "Fica mais fácil para mim se as tarefas vierem em partes pequenas, e não todas de uma vez.",
+       "Gostava de conversar num sítio calmo, onde me distraia menos.",
+       "Ajuda-me quando reconhecem o que consegui fazer, sem me criticarem pelo que não consegui."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Síndrome de apneia obstrutiva do sono",
+        "why": "A página diz que este distúrbio respiratório do sono pode trazer muito sono durante o dia, o que pode levar a mais acidentes no trabalho e na estrada.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Síndrome de apneia obstrutiva do sono",
+         "url": "https://www.sns24.gov.pt/pt/tema/doencas/doencas-respiratorias/sindrome-de-apneia-obstrutiva-do-sono/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Perturbação de hiperatividade e défice de atenção (PHDA, nos adultos)",
+        "why": "A página descreve que, num adulto, a perturbação de hiperatividade e défice de atenção pode trazer facilidade em distrair-se e inquietação, e que estas dificuldades podem pesar no trabalho, na aprendizagem e na relação com os outros.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Perturbação de hiperatividade e défice de atenção",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/perturbacao-de-hiperatividade-e-defice-de-atencao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptprov"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificuldades com as relações, as rotinas ou os estímulos dos sentidos",
+      "lead": "É difícil conversar ou conviver com outras pessoas, há uma necessidade forte de fazer as coisas sempre da mesma maneira, ou sons, luzes e cheiros custam a suportar.",
+      "scenes": [
+       "Numa conversa, custa-me perceber o que a outra pessoa sente ou como está o ambiente, e a conversa parece não encaixar.",
+       "Quando tenho de falar à frente de outras pessoas, ou quando todos olham para mim, sinto uma tensão muito forte e acabo por evitar a situação.",
+       "Com pessoas que conheço bem consigo falar, mas diante de outras a voz não sai.",
+       "Quando muda a minha maneira de fazer as coisas, a ordem do que faço ou o sítio onde as coisas ficam, sinto muita ansiedade.",
+       "Sons, luzes e cheiros parecem-me demasiado fortes, e os sítios com muitas pessoas são difíceis para mim.",
+       "Tenho dificuldade em ouvir o que as pessoas dizem, ou estou com o ânimo em baixo, e tornou-se pesado encontrar-me e falar com outras pessoas."
+      ],
+      "asks": [
+       "Ajuda-me quando falam devagar e com clareza.",
+       "Ajuda-me quando o que é importante é escrito para mim.",
+       "Gostava de conversar num sítio calmo.",
+       "Ajuda-me quando me avisam com antecedência de que os planos ou a maneira de fazer algo vão mudar.",
+       "Fica mais fácil para mim se não me apressarem e me derem tempo para responder.",
+       "Gostava de poder responder por escrito ou com um bilhete, em vez de falar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Perturbação do espetro do autismo (nos adultos)",
+        "why": "Este documento descreve que, nos adultos, se presta atenção à dificuldade em ler o contexto social, ao contacto demasiado formal e a interesses restritos e comportamentos repetitivos.",
+        "src": {
+         "org": "Direção-Geral da Saúde (DGS)",
+         "title": "Abordagem Diagnóstica e Intervenção na Perturbação do Espetro do Autismo em Idade Pediátrica e no Adulto",
+         "url": "https://www.dgs.pt/directrizes-da-dgs/normas-e-circulares-normativas/norma-n-0022019-de-23042019-pdf.aspx",
+         "kind": "fact",
+         "upd": "23/04/2019"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida",
+       "ptseg",
+       "ptiefp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Dificuldades em ler, escrever ou fazer contas",
+      "lead": "Mesmo com muito esforço, continua a ser muito difícil ler, escrever ou fazer contas.",
+      "scenes": [
+       "Demoro mais do que os outros a ler um texto e releio várias vezes.",
+       "Mesmo quando leio, o conteúdo não me entra na cabeça, e é difícil perceber cartas e formulários de serviços públicos ou do banco.",
+       "Erro muito a ortografia e a acentuação, e troco ou esqueço letras.",
+       "A minha letra sai irregular, e escrever custa-me muito tempo e esforço.",
+       "Tropeço em contas simples ou em problemas de matemática escritos em texto.",
+       "Consigo conversar e ouvir sem problema, mas, na leitura, na escrita ou nas contas, não avanço como gostaria, mesmo dedicando-lhes tempo."
+      ],
+      "asks": [
+       "Ajuda-me quando o texto vem em letra maior, com mais espaço entre as linhas e em linguagem simples.",
+       "Ajuda-me quando o que é importante é lido em voz alta ou dito para mim.",
+       "Gostava de poder escrever no computador ou no telemóvel, ou registar com uma fotografia ou uma gravação, em vez de escrever à mão.",
+       "Gostava de poder usar uma calculadora (a do telemóvel) nas contas.",
+       "Ajuda-me quando tenho mais tempo para ler, escrever e fazer contas.",
+       "Fica mais fácil para mim se receber uma parte de cada vez, em pequena quantidade."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptprov",
+       "ptiefp"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes oscilações de humor",
+      "lead": "O humor sobe e desce muito, e é difícil acompanhar.",
+      "scenes": [
+       "Fases de energia a mais alternam com fases em que o desânimo é tão grande que não consigo mexer-me.",
+       "Tenho fases em que quase não durmo e, mesmo assim, tenho energia para estar sempre em movimento.",
+       "Surgem muitas ideias do que quero fazer, uma atrás da outra, e todas ficam a meio.",
+       "Gastei muito dinheiro e depois arrependi-me (no cartão, em prestações).",
+       "Irrito-me com coisas pequenas e custa-me controlar o que sinto.",
+       "Quando o meu humor estava muito acelerado, agi de uma maneira que acabou por pesar nas minhas relações ou no trabalho."
+      ],
+      "asks": [
+       "Gostava que me ouvissem também sobre as fases em que tive energia a mais.",
+       "Gostava de ver com calma, junto de quem me ouve, como o meu humor sobe e desce ao longo do tempo.",
+       "Ajuda-me quando alguém me lembra de parar e pensar antes de grandes decisões sobre dinheiro ou trabalho.",
+       "Gostava que verificassem também o lado do corpo, incluindo o sono, os medicamentos e as bebidas alcoólicas.",
+       "Ajuda-me quando alguém me diz, sem me criticar, que reparou em algo diferente em mim.",
+       "Ajuda-me quando me ouvem até ao fim, tanto nas fases de muita energia como nas de desânimo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Efeitos do álcool (intoxicação alcoólica)",
+        "why": "A página descreve que, numa intoxicação por álcool, podem surgir mudanças no comportamento e na forma de pensar, como euforia, emoções que mudam muito depressa, abatimento ou excitação e agressividade.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Alcoolismo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/alcoolismo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Doença bipolar",
+        "why": "A página descreve alterações de humor, com fases de humor muito em baixo e fases de humor muito elevado (mania ou hipomania), que voltam a aparecer.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Doença bipolar",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/doenca-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conhecer um nome pode fazer os altos e baixos do dia a dia parecerem algo mais",
+       "body": "Quando se fica a saber o nome de uma doença ou de uma condição do desenvolvimento, um pouco de cansaço ou os momentos em que a cabeça anda longe podem começar a parecer algo mais do que são.\n\nAs emoções podem mexer com o corpo e com o humor. Isso não é imaginação; acontece de verdade. Mas pouco sono, stress, o telemóvel e o que se passa à volta também podem causar algo parecido.\n\nSe, ao ler um nome, pensar «pode ser isto», não convém concluir só por isso. Vale a pena pensar também noutras causas. E se o que está difícil continuar, pode falar disso tal como é, mesmo sem ter um nome para isso.",
+       "srcs": []
+      },
+      {
+       "h": "Altos e baixos no humor acontecem a toda a gente.",
+       "body": "A página sobre a ansiedade, no SNS 24, descreve-a como uma resposta ao perigo ou ao stress do dia a dia. Segundo a mesma página, muitas pessoas sentem ansiedade antes de um exame, com problemas no trabalho ou diante de uma decisão importante.\n\nUm nome (um diagnóstico) é dado por um médico. Como isso acontece, explica-se no texto que aparece no fim da lista de nomes desta aplicação.\n\nSe o que está difícil continuar, pode falar disso tal como é, seja qual for o nome.",
+       "srcs": [
+        {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Pode falar do que está difícil mesmo sem um nome",
+       "body": "Pode falar do que está difícil mesmo sem saber o nome.\n\nSobre quem não tem médico de família, o portal gov.pt escreve: «Se não tiveres médico de família, continuas a poder usar o SNS. Podes contactar o teu centro de saúde para saber que cuidados estão disponíveis e, quando precisares de atendimento, podes ser acompanhado por outro profissional de saúde.»\n\nSobre os centros de saúde, o portal gov.pt escreve: «Os centros de saúde do SNS asseguram consultas, medicina familiar, cuidados de enfermagem e serviços de proximidade (nutrição, psicologia, saúde oral e apoio social).»\n\nSegundo a página «Marcação de consultas» do SNS 24, as consultas dos cuidados de saúde primários, e os exames pedidos nesse âmbito, não pagam taxas moderadoras.",
+       "srcs": [
+        {
+         "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+         "title": "Vida adulta: a minha saúde",
+         "url": "https://www.gov.pt/guias/a-minha-saude",
+         "kind": "quote",
+         "upd": "21/10/2026"
+        },
+        {
+         "org": "Administração Central do Sistema de Saúde (gov.pt)",
+         "title": "Inscrever-se no centro de saúde",
+         "url": "https://www.gov.pt/servicos/inscrever-se-no-centro-de-saude",
+         "kind": "quote",
+         "upd": "12.05.2026"
+        },
+        {
+         "org": "SNS 24 (SPMS, E.P.E.)",
+         "title": "Marcação de consultas",
+         "url": "https://www.sns24.gov.pt/pt/servico/marcacao-de-consultas/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Mas, para alguns direitos e apoios, podem ser precisos documentos de um médico",
+       "body": "Sobre a baixa médica, o portal gov.pt escreve: «A baixa médica é o documento que confirma que, por motivos de saúde física ou mental, não consegues trabalhar durante um determinado período de tempo. Este documento chama-se Certificado de Incapacidade Temporária (CIT).»\n\nSobre o Atestado Médico de Incapacidade Multiuso (AMIM), o portal gov.pt escreve: «Para pedir o AMIM, deve entregar, no seu centro ou unidade de saúde local, um requerimento dirigido ao presidente da junta médica, acompanhado dos relatórios médicos que fundamentam a incapacidade.»\n\nO que é preciso muda de um apoio para outro; pergunte antes à entidade responsável por esse apoio.",
+       "srcs": [
+        {
+         "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+         "title": "Vida adulta: a minha saúde",
+         "url": "https://www.gov.pt/guias/a-minha-saude",
+         "kind": "quote",
+         "upd": "21/10/2026"
+        },
+        {
+         "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+         "title": "Atestado Médico de Incapacidade Multiuso",
+         "url": "https://www.gov.pt/guias/atestado-medico-de-incapacidade-multiuso",
+         "kind": "quote",
+         "upd": "23/10/2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Um nome de doença não é uma ferramenta para se colocar acima de ninguém",
+       "body": "Um nome de doença não é uma ferramenta para se colocar acima de alguém nem para olhar os outros de cima.\nPara algumas pessoas, saber o nome do que estão a viver ajuda a sentirem-se mais leves. Isso é importante.\nQuerer compreensão e gentileza das pessoas à volta também faz sentido.\n\nQuando se quer que as pessoas à volta sejam gentis, pode pedir-se isso diretamente, sem ser preciso dizer o nome de uma doença.\nFica mais fácil de entender quando se dizem duas coisas juntas: o que está difícil e o que se gostaria que a outra pessoa fizesse.\n\nAqui ficam alguns exemplos:\n«Hoje tenho pouca energia. Ajuda-me quando falam mais devagar comigo.»\n«Baralho-me quando me dizem muitas coisas de uma vez. Ajuda-me quando falam de uma coisa de cada vez.»\n«Tenho dificuldade em lembrar-me do que só me dizem de viva voz. Gostava de receber as coisas importantes por escrito, em papel ou por email.»\n«Os lugares com muitas pessoas gastam-me muita energia. Fica mais fácil para mim se falarmos num sítio sossegado.»\n«Preciso de um pouco de tempo para responder. Ajuda-me quando esperam um instante.»\n«Agora tenho muitos sentimentos ao mesmo tempo. Ajuda-me quando primeiro me ouvem. Os conselhos podem ficar para depois.»\n«Hoje não estou bem. Ajuda-me poder descansar um pouco.»\n«As mudanças repentinas nos planos desorientam-me. Ajuda-me saber com antecedência.»\n«Quando falam alto comigo, fico com medo. Ajuda-me quando falam com calma.»\n\nSe for difícil dizer isto, pode escrevê-lo num papel e entregá-lo. Também pode mostrar a página «O que está difícil para mim» com o botão «Mostrar em grande». Ela aparece nesta aplicação quando se escolhe algo que está difícil e se responde às perguntas.\nSe quiser contar o nome que já recebeu, também pode. Mesmo assim, ajuda a outra pessoa saber o que está difícil e o que se gostaria que ela fizesse.\nPor vezes a outra pessoa não consegue fazer o que se pede, por causa da situação dela. Nesse caso, pode procurar-se em conjunto outro caminho.\n\nNo trabalho, pode pedir-se ajuda com as mesmas palavras: «Tenho dificuldade em seguir várias instruções ao mesmo tempo. Fica mais fácil para mim se as instruções vierem por escrito.» Se o ajuste tiver de ser formal, pode ser preciso um documento escrito.\n\nNão se deve usar a lista de nomes desta aplicação para duvidar das pessoas à volta.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre esta aplicação",
+       "body": "Isto não é um diagnóstico. Se um nome aparece na lista, isso não significa que um médico lhe tenha atribuído esse nome.\n\nEsta aplicação não é um dispositivo médico e não faz diagnósticos, tratamentos, não cura e não previne nenhuma condição médica.\n\nA SOYOGI é um grupo sem fins lucrativos, sem personalidade jurídica, com sede no Japão. A SOYOGI não tem relação com o Governo de Portugal, o Ministério da Saúde, o SNS, o SNS 24, o portal gov.pt, os governos regionais dos Açores e da Madeira, os municípios nem com qualquer serviço de saúde, e nenhum deles recomenda ou apoia esta aplicação. Os nomes de organismos e de outras instituições mostram apenas de onde vem a informação. Os textos originais podem ser lidos gratuitamente no site de cada instituição.\n\nO conteúdo foi escrito pela SOYOGI por palavras próprias, a partir de páginas públicas de Portugal; as poucas frases tiradas palavra por palavra aparecem entre aspas «assim». As fontes aparecem em cada ecrã, com a data da página quando ela a indica. Consultado em 13 de novembro de 2026. Os telefones, os números e os horários podem mudar.\n\nQuem decide se vai procurar ajuda é a própria pessoa, não a aplicação. Esta aplicação destina-se a pessoas a partir dos 13 anos.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "“Quando não te sentes bem ou tens alguma questão sobre a tua saúde, podes procurar ajuda no Serviço Nacional de Saúde (SNS).”",
+      "src": {
+       "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+       "title": "Vida adulta: a minha saúde",
+       "url": "https://www.gov.pt/guias/a-minha-saude",
+       "kind": "quote",
+       "upd": "21/10/2026"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Para dificuldades de atenção, de leitura e escrita ou de convivência, pode começar pelo centro de saúde da sua área, mesmo sem saber o nome do que está a acontecer. O médico de família pode encaminhar para outras especialidades quando for preciso.",
+       "src": {
+        "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+        "title": "Vida adulta: a minha saúde",
+        "url": "https://www.gov.pt/guias/a-minha-saude",
+        "kind": "fact",
+        "upd": "21/10/2026"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre como se chega a um nome (um diagnóstico), a página do SNS 24 sobre a ansiedade explica:",
+      "text": "Quem pode chegar a um nome (um diagnóstico) é o médico de família ou, quando o caso é mais complexo, um médico especialista em psiquiatria. Antes disso, é importante pôr de parte outros problemas de saúde que deem sinais parecidos, e por vezes são precisos exames.",
+      "src": {
+       "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+       "title": "Ansiedade",
+       "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Só foi possível confirmar poucos nomes em páginas públicas de saúde.",
+     "noNames": "Não foi possível confirmar nomes para esta área em páginas públicas de saúde; por isso, aqui não aparece uma lista de nomes. Mesmo assim, pode encontrar nesta aplicação onde procurar ajuda."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "Your mood stays low for a long time and there is no energy for anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home keep falling behind.",
+       "I feel guilty and see almost everything in the darkest light.",
+       "At night I cannot sleep, or else I sleep too much. I lose my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when I am told what to do, one thing at a time.",
+       "I need time to think. It helps me when there is no rush to answer or decide.",
+       "It helps me when important things are given to me in writing.",
+       "Please listen to me first before telling me 'Hang in there'.",
+       "Please do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I take might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Thyroid disorders",
+        "why": "This page explains that when the thyroid makes too much or too little hormone, tiredness, feeling unwell, stress or changes in weight can appear. It mentions hypothyroidism and hyperthyroidism.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Doenças da tiroide, saiba como reconhecer os sintomas",
+         "url": "https://hff.min-saude.pt/doencas-da-tiroide-saiba-como-reconhecer-os-sintomas/",
+         "kind": "fact",
+         "upd": "24 Janeiro, 2018"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that depression, unlike sadness linked to a particular event, can last and weigh on everyday activities, on work and on family life.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Depressão",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/depressao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes changes in mood, with phases of low mood (depression) and phases of high mood (mania or hypomania) that keep coming back.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Doença bipolar",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/doenca-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Burnout (work-related exhaustion)",
+        "why": "This page describes a physical, emotional and mental exhaustion that comes from long-lasting stress at work, and says that this name is used only in the work context.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Burnout",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/burnout/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Alcohol problems",
+        "why": "This page includes problems caused by too much alcohol or drugs among the very stressful life events that can be linked to depression.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Depressão",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/depressao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "A lot of worry or tension",
+      "lead": "The worry does not stop, your heart races and it is hard to calm down, or it is hard to be around other people or to leave the house.",
+      "scenes": [
+       "When I have to speak in front of other people, or when everyone is looking at me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly starts racing and I feel short of breath. I am afraid it will happen again, and that makes it hard to leave the house.",
+       "I worry about one thing after another, even without a clear reason. I feel restless, and it really wears me out.",
+       "I have difficulty with places that are hard to leave, such as the bus, the subway or metro, or the train, and with crowded places such as shopping centers, and also with leaving the house without company. So I avoid these situations.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My world has become smaller.",
+       "The worry will not leave my head, and at night I cannot fall asleep."
+      ],
+      "asks": [
+       "It helps me when people wait calmly until I speak.",
+       "It helps me when I am told ahead of time how the conversation will go and what is planned.",
+       "Please do not ask for my opinion in front of other people without warning. It helps me when I can answer in writing too.",
+       "If I feel unwell, it helps me when I can step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Please do not tell me right away that I worry too much. It helps me when people first listen to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Thyroid disorders",
+        "why": "The page on panic attacks says that illnesses that can give similar signs, such as heart or thyroid illnesses, are ruled out first.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Ataque de pânico: saiba como identificar",
+         "url": "https://hff.min-saude.pt/ataque-de-panico-saiba-como-identificar/",
+         "kind": "fact",
+         "upd": "19 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "This page describes anxiety disorders as a strong fear that is out of proportion, that lasts and that weighs heavily on everyday life.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Panic attacks (pathological panic)",
+        "why": "This page describes sudden episodes of intense fear, with very strong reactions in the body. It says that when the episodes repeat and a constant fear of a new attack remains, people speak of pathological panic.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Ataque de pânico: saiba como identificar",
+         "url": "https://hff.min-saude.pt/ataque-de-panico-saiba-como-identificar/",
+         "kind": "fact",
+         "upd": "19 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Agoraphobia",
+        "why": "This page explains that the fear of new panic attacks can lead a person to avoid certain situations, or even to avoid leaving the house (agoraphobia), because no place feels safe.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Ataque de pânico: saiba como identificar",
+         "url": "https://hff.min-saude.pt/ataque-de-panico-saiba-como-identificar/",
+         "kind": "fact",
+         "upd": "19 Outubro, 2018"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page explains that after a traumatic event, intrusive thoughts, nightmares, a constant state of alert and attacks of fear or panic can appear.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Stress pós-traumático: lidar com a perturbação depois do trauma",
+         "url": "https://hff.min-saude.pt/stress-pos-traumatico-lidar-com-a-perturbacao-depois-do-trauma/",
+         "kind": "fact",
+         "upd": "31 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that when anxiety goes on for a long time and weighs on a person's life, depression can come on top of it.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "Checking the door or the gas several times, or washing your hands many times: the same things keep repeating, and it is hard to stop, even when you want to.",
+      "scenes": [
+       "When I leave the house, I need to check several times that the door is locked and the gas is off (the gas cylinder or the stove). Without that, I cannot leave feeling calm.",
+       "I wash my hands or my body more and more, and I cannot stop, even when I want to.",
+       "The same worry comes back into my head again and again, and I cannot stop thinking about it, even when I want to.",
+       "If things are not in the order I have set, or are not done in that order, I feel uneasy and end up tidying or redoing everything.",
+       "Checking takes so much time that I leave late and arrive late for appointments and for work.",
+       "My body moves or sounds come out of me without my wanting them to, and it is hard to stop, even when I try."
+      ],
+      "asks": [
+       "Please do not tell me right away that I worry too much. It helps me when people listen to me first.",
+       "Checking things takes me time. It helps me when there is some extra time.",
+       "It helps me when I am told ahead of time that plans or routines will change.",
+       "Please do not comment on it or laugh at me in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions come one at a time and in writing.",
+       "Before we decide how to go on from here, I would like someone to listen to what worries me, and I would like everything to be decided calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes obsessive-compulsive disorder, with obsessions and compulsions, and says that mental compulsions can also appear, such as silently repeating certain phrases to reduce anxiety.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Perturbação obsessiva-compulsiva",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/perturbacao-obsessiva-compulsiva/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD) in adults",
+        "why": "This document explains that in adults, attention is given to restricted interests and repetitive behaviors, which even bring the person comfort, and to difficulty reading the social context.",
+        "src": {
+         "org": "Direção-Geral da Saúde (DGS)",
+         "title": "Norma nº 002/2019 de 23/04/2019: Abordagem Diagnóstica e Intervenção na Perturbação do Espetro do Autismo em Idade Pediátrica e no Adulto",
+         "url": "https://www.dgs.pt/directrizes-da-dgs/normas-e-circulares-normativas/norma-n-0022019-de-23042019-pdf.aspx",
+         "kind": "fact",
+         "upd": "23/04/2019"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still weighing on me",
+      "lead": "After a hard experience, the memory often comes back, sleep gets worse, or it is hard to relax.",
+      "scenes": [
+       "A small thing suddenly brings back the scene and the feelings of that hard moment.",
+       "I often have similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always on alert, and any noise or small event makes me jump.",
+       "As much as I can, I avoid the places, people and topics that remind me of that moment, and what I manage to do day to day has been shrinking.",
+       "It is as if my emotions had switched off, and I cannot give my family and friends the affection I used to.",
+       "The guilt weighs on me more and more, and it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "Please do not pressure me to tell the details of what happened. I would rather tell only what I can, at my own pace.",
+       "Some sounds, places and topics bring the memory back. It helps me when people accept that I prefer to avoid them.",
+       "It is easier for me when nobody calls out to me suddenly from behind or makes loud noises near me.",
+       "When talking is hard, I would like to be able to hand over something I have written.",
+       "It helps me when nights without sleep and days of tiredness are not seen as laziness.",
+       "I would like to have a safe place to talk, where nobody rushes me with phrases like “Forget it” or “It is in the past”."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "The page includes insomnia and nightmares in its description of post-traumatic stress disorder, and says that reliving what happened can affect concentration and sleep.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Stress pós-traumático: lidar com a perturbação depois do trauma",
+         "url": "https://hff.min-saude.pt/stress-pos-traumatico-lidar-com-a-perturbacao-depois-do-trauma/",
+         "kind": "fact",
+         "upd": "31 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "The page explains that it is not always clear where anxiety comes from, and that it often grows out of several things together, such as a person's character, important events or big changes in life.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "The page describes how, after a traumatic event, a person can have thoughts and images that force their way in, nightmares, a wish to avoid whatever brings the event back to mind, and a constant state of alert.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Stress pós-traumático: lidar com a perturbação depois do trauma",
+         "url": "https://hff.min-saude.pt/stress-pos-traumatico-lidar-com-a-perturbacao-depois-do-trauma/",
+         "kind": "fact",
+         "upd": "31 Outubro, 2018"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page lists very heavy life events, such as the death of a loved one, the end of a relationship or a serious illness, among the situations that can be linked to depression.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Depressão",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/depressao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even after I lie down, it takes me a long time to fall asleep.",
+       "I wake up several times during the night and cannot sleep deeply until morning.",
+       "When it is time to get up in the morning, I cannot get out of bed, and I keep arriving late to work or class.",
+       "During the day I feel very sleepy, and I almost fall asleep in meetings or at the wheel.",
+       "People in my family say that I snore loudly and that I seem to stop breathing in my sleep.",
+       "In the late afternoon and at night I feel a restlessness in my legs that does not let me fall asleep."
+      ],
+      "asks": [
+       "Please take the time to listen to how my sleep is going: the time I fall asleep, waking up during the night, how hard it is to get up in the morning, and how sleepy I am during the day.",
+       "Please look with me at what may play a part, including the medicines I take and my habits with coffee, energy drinks, soft drinks, alcohol or tobacco.",
+       "It helps me when people do not decide right away that it is only a lack of willpower, and when my physical health and my mood are looked at as well.",
+       "It is easier for me to show my bedtimes and wake-up times in a written note. Please take a look at it.",
+       "If a medicine is needed, please explain to me in simple words how it works and what I should keep in mind.",
+       "Mornings are hard for me, so I would prefer appointments in the afternoon or late in the day."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep apnea (obstructive sleep apnea syndrome)",
+        "why": "The page describes pauses in breathing during sleep, caused by the airways becoming blocked, and says that this can bring a lot of sleepiness during the day.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Síndrome de apneia obstrutiva do sono",
+         "url": "https://www.sns24.gov.pt/pt/tema/doencas/doencas-respiratorias/sindrome-de-apneia-obstrutiva-do-sono/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "The page talks about trouble falling asleep and about insomnia, and says that a person can talk about it with their doctor, who refers them to a specialist when needed.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Distúrbios do sono: o que fazer?",
+         "url": "https://hff.min-saude.pt/disturbios-do-sono-o-que-fazer/",
+         "kind": "fact",
+         "upd": "24 Julho, 2017"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "Eating has become hard: you eat very little, you cannot stop eating, or food feels scary.",
+      "scenes": [
+       "I do not feel like eating, and for days food has been hard to get down.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel unwell.",
+       "Without realizing it, I think only about food, and I find it hard to concentrate on other things.",
+       "I can eat only a few foods, and I avoid many others because the taste, smell or texture bothers me a lot.",
+       "After choking on food or vomiting, I became afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I do not remember having eaten."
+      ],
+      "asks": [
+       "Please do not make comments about my body, my weight or my appearance.",
+       "It is easier for me when nobody forces me to eat or rushes me to eat.",
+       "At group lunches at work, parties and family dinners, I would like to be able to choose another place or another time to eat.",
+       "It helps me when people first ask what I can eat and which smells and textures are hard for me.",
+       "I would like someone to explain to me first how the tests and the appointment will go.",
+       "It helps me when I can hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Thyroid disorders",
+        "why": "The hospital page says that a thyroid that does not work well can bring things like tiredness, feeling unwell, stress or changes in weight, and it describes hypothyroidism and hyperthyroidism.",
+        "src": {
+         "org": "Unidade Local de Saúde de Amadora/Sintra, E.P.E. (Hospital Prof. Doutor Fernando Fonseca)",
+         "title": "Doenças da tiroide, saiba como reconhecer os sintomas",
+         "url": "https://hff.min-saude.pt/doencas-da-tiroide-saiba-como-reconhecer-os-sintomas/",
+         "kind": "fact",
+         "upd": "24 Janeiro, 2018"
+        }
+       },
+       {
+        "name": "Eating disorders",
+        "why": "The page describes eating disorders as conditions in which the way of eating, thoughts and emotions change, with a strong focus on food and physical exercise.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Perturbações do comportamento alimentar",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/perturbacoes-do-comportamento-alimentar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida",
+       "ptcuidanut"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Alcohol, betting or video games: hard to stop",
+      "lead": "There is a wish to stop or cut down, but the person keeps going.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing the same thing again.",
+       "I can't keep to the time, the amount or the money I set for myself, such as “only this much today”.",
+       "From people close to me, I hide or play down how much I drink, how much I bet or how much time I spend on video games.",
+       "I spend my nights gaming, I can't get up in the morning, and I am late or absent more and more often.",
+       "I go back to betting to win back what I lost.",
+       "I know my body is not doing well, but I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "Please go through with me, step by step, how my situation is today and what difficulties it brings.",
+       "It is easier for me if you also look at my sleep and how my body is doing.",
+       "Please tell me specifically where I can look for support and which places I can go to.",
+       "Please tell me whether my family or people close to me can look for support together with me.",
+       "Please agree with me beforehand on who will be told what I share, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcoholism (alcohol use disorder)",
+        "why": "The page describes alcoholism, also called alcohol use disorder, as a long-lasting illness, with the amount and frequency of drinking and several other factors contributing to it.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Alcoolismo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/alcoolismo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gambling disorder (betting and gambling for money)",
+        "why": "The page describes a pattern of gambling that keeps repeating, in which it is hard to stop even when the losses are serious, and in which gambling can be used to cope with difficult feelings.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Perturbação de jogo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/perturbacao-de-jogo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gaming disorder (video gaming)",
+        "why": "The page explains that video games and other electronic games played without money can become a problem when someone plays too much and without control, and it mentions the name gaming disorder.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Perturbação de jogo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/perturbacao-de-jogo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "pticad"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "It is hard to concentrate, to do things in the right order, or to remember them.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else without my noticing.",
+       "I have trouble doing my work or my chores in the right order, and I end up missing deadlines.",
+       "I often don't remember what I was asked to do or what I agreed to, or I lose things.",
+       "When I stay on the same task for a long time, careless mistakes pile up.",
+       "When I have to keep still for a long time, I feel restless and find it hard to calm down.",
+       "People around me say that I forget things and that I am often late."
+      ],
+      "asks": [
+       "It helps me when I am given one instruction at a time.",
+       "It helps me when the important things are given to me in writing.",
+       "It helps me when I know deadlines and appointments in advance.",
+       "It is easier for me if tasks come in small parts, and not all at once.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people recognize what I have managed to do, instead of criticizing me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "The page says that this breathing disorder during sleep can bring a lot of sleepiness during the day, which can lead to more accidents at work and on the road.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Síndrome de apneia obstrutiva do sono",
+         "url": "https://www.sns24.gov.pt/pt/tema/doencas/doencas-respiratorias/sindrome-de-apneia-obstrutiva-do-sono/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder), in adults",
+        "why": "According to this page, ADHD in an adult can mean getting distracted easily and feeling restless, and these difficulties can weigh on work, learning and relationships with other people.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Perturbação de hiperatividade e défice de atenção",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/perturbacao-de-hiperatividade-e-defice-de-atencao/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptprov"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with relationships, routines or sensory input",
+      "lead": "It is hard to talk or spend time with other people, there is a strong need to always do things the same way, or sounds, lights and smells are hard to bear.",
+      "scenes": [
+       "In a conversation, I find it hard to tell what the other person feels or what the mood is like, and the conversation doesn't seem to fit together.",
+       "When I have to speak in front of other people, or when everyone looks at me, I get very tense and end up avoiding the situation.",
+       "With people I know well I can talk, but in front of others my voice won't come out.",
+       "When my way of doing things, the order of what I do or the place where things are kept changes, I feel a lot of anxiety.",
+       "Sounds, lights and smells feel too strong to me, and places with lots of people are hard for me.",
+       "I have trouble hearing what people say, or my mood is low, and meeting and talking with other people has become a burden."
+      ],
+      "asks": [
+       "It helps me when people speak slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance that plans or the way of doing something will change.",
+       "It is easier for me if people don't rush me and give me time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (in adults)",
+        "why": "This document says that, in adults, attention is paid to difficulty reading the social context, to overly formal contact, and to restricted interests and repetitive behaviors.",
+        "src": {
+         "org": "Direção-Geral da Saúde (DGS)",
+         "title": "Abordagem Diagnóstica e Intervenção na Perturbação do Espetro do Autismo em Idade Pediátrica e no Adulto",
+         "url": "https://www.dgs.pt/directrizes-da-dgs/normas-e-circulares-normativas/norma-n-0022019-de-23042019-pdf.aspx",
+         "kind": "fact",
+         "upd": "23/04/2019"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida",
+       "ptseg",
+       "ptiefp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is still very hard, even with a lot of effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I read it again several times.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand letters and forms from public services or from the bank.",
+       "I make many mistakes with spelling and accents, and I mix up or forget letters.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple sums or on math problems written out in words.",
+       "I can talk and listen without difficulty, but with reading, writing or calculating I do not get on as well as I would like, even when I spend time on them."
+      ],
+      "asks": [
+       "Please give me texts in larger print, with more space between the lines and in plain language.",
+       "Please read important things aloud to me or tell them to me out loud.",
+       "Please let me write on a computer or phone, or keep a record with a photo or a recording, instead of writing by hand.",
+       "Please let me use a calculator (the one on my phone) for calculations.",
+       "Please give me more time for reading, writing and calculating.",
+       "It is easier for me if I get one small part at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptprov",
+       "ptiefp"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "My mood goes up and down a lot, and it is hard to keep up with it.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when I feel so low that I cannot move.",
+       "There are periods when I hardly sleep and yet I have the energy to keep moving all the time.",
+       "Many ideas of things I want to do come up, one after another, and all of them end up half done.",
+       "I spent a lot of money and then regretted it (on my card, in installments).",
+       "I get irritated over small things, and I find it hard to keep my feelings in check.",
+       "When my mood was very high, I acted in a way that ended up weighing on my relationships or my work."
+      ],
+      "asks": [
+       "Please also listen to me about the periods when I had too much energy.",
+       "Please take the time to go over, together with me, how my mood goes up and down over time.",
+       "It helps me when someone reminds me to stop and think before big decisions about money or work.",
+       "Please also check the physical side, including sleep, medicines and alcohol.",
+       "It helps me when someone tells me, without criticizing me, that they have noticed something different in me.",
+       "It helps me when people hear me out to the end, in my periods of high energy as well as in my low ones."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Effects of alcohol (alcohol intoxication)",
+        "why": "This page explains that alcohol intoxication can bring changes in behavior and in the way of thinking, such as euphoria, emotions that change very quickly, low mood or excitement, and aggression.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Instituto para os Comportamentos Aditivos e Dependências, I.P. (ICAD, IP)",
+         "title": "Alcoolismo",
+         "url": "https://www.sns24.gov.pt/pt/tema/dependencias/alcoolismo/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "The page describes changes in mood, with periods of very low mood and periods of very high mood (mania or hypomania), that come back again and again.",
+        "src": {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Doença bipolar",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/doenca-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ptcs",
+       "ptlocal",
+       "ptcuida"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs seem like something more",
+       "body": "When you learn the name of an illness or of a developmental condition, a little tiredness or the moments when your mind drifts can start to seem like more than they are.\n\nFeelings can affect the body and the mood. That is not imagination; it really happens. But little sleep, stress, the phone and what is going on around you can also cause something similar.\n\nIf, when you read a name, you think “this could be it,” it is best not to conclude only from that. It is worth thinking about other causes too. And if what is hard continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs in mood happen to everyone",
+       "body": "The SNS 24 page on anxiety describes it as a response to danger or to everyday stress. According to the same page, many people feel anxiety before an exam, with problems at work or when facing an important decision.\n\nA name (a diagnosis) is given by a doctor. How that happens is explained in the text at the end of the list of names in this app.\n\nIf what is hard continues, you can talk about it as it is, whatever the name.",
+       "srcs": [
+        {
+         "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+         "title": "Ansiedade",
+         "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is hard even without a name",
+       "body": "You can talk about what is hard even without knowing the name.\n\nThe gov.pt portal explains that people without a family doctor can still use the SNS: their health center can tell them what care is available, and another health professional can see them when they need care.\n\nAccording to the gov.pt portal, the services at SNS health centers include appointments, family medicine and nursing care, as well as local services such as nutrition, psychology, oral health and social support.\n\nAccording to the SNS 24 page “Marcação de consultas” (booking appointments), appointments in primary health care, and the tests requested within it, do not carry a user fee (taxa moderadora).",
+       "srcs": [
+        {
+         "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+         "title": "Vida adulta: a minha saúde",
+         "url": "https://www.gov.pt/guias/a-minha-saude",
+         "kind": "fact",
+         "upd": "21/10/2026"
+        },
+        {
+         "org": "Administração Central do Sistema de Saúde (gov.pt)",
+         "title": "Inscrever-se no centro de saúde",
+         "url": "https://www.gov.pt/servicos/inscrever-se-no-centro-de-saude",
+         "kind": "fact",
+         "upd": "12.05.2026"
+        },
+        {
+         "org": "SNS 24 (SPMS, E.P.E.)",
+         "title": "Marcação de consultas",
+         "url": "https://www.sns24.gov.pt/pt/servico/marcacao-de-consultas/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "But for some rights and supports, documents from a doctor may be needed",
+       "body": "The gov.pt portal explains sick leave (baixa médica) as a document showing that a person cannot work for a set time because of their physical or mental health. Its name is Certificado de Incapacidade Temporária (CIT).\n\nAccording to the gov.pt portal, to get the Atestado Médico de Incapacidade Multiuso (AMIM, a multipurpose medical certificate of disability), a person hands in a written request to the president of the medical board (junta médica) at their local health center or health unit, along with the medical reports that support the disability.\n\nWhat is needed changes from one support to another; check first with the body responsible for that support.",
+       "srcs": [
+        {
+         "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+         "title": "Vida adulta: a minha saúde",
+         "url": "https://www.gov.pt/guias/a-minha-saude",
+         "kind": "fact",
+         "upd": "21/10/2026"
+        },
+        {
+         "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+         "title": "Atestado Médico de Incapacidade Multiuso",
+         "url": "https://www.gov.pt/guias/atestado-medico-de-incapacidade-multiuso",
+         "kind": "fact",
+         "upd": "23/10/2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above someone or for looking down on other people.\nFor some people, knowing the name of what they are going through helps them feel lighter. That matters.\nWanting understanding and kindness from the people around you also makes sense.\n\nWhen you want the people around you to be kind, you can ask for it directly, without needing to say the name of an illness.\nIt is easier to understand when two things are said together: what is hard and what you would like the other person to do.\n\nHere are some examples:\n“I have little energy today. It helps me when people speak more slowly to me.”\n“I get muddled when I am told many things at once. It helps me when people talk about one thing at a time.”\n“I find it hard to remember what I am only told out loud. I would like to get important things in writing, on paper or by email.”\n“Places with many people use up a lot of my energy. It is easier for me if we talk in a quiet place.”\n“I need a little time to answer. It helps me when people wait a moment.”\n“Right now I have many feelings at once. It helps me when people listen to me first. Advice can wait.”\n“I am not well today. It helps me to be able to rest a little.”\n“Sudden changes in plans throw me off. It helps me to know in advance.”\n“When people speak loudly to me, I get scared. It helps me when people speak calmly.”\n\nIf this is hard to say, you can write it on a piece of paper and hand it over. You can also show the “My worries” page with the “Show it large” button. It appears in this app when you choose something that is hard and answer the questions.\nIf you want to share the name you have already been given, you can. Even so, it helps the other person to know what is hard and what you would like them to do.\nSometimes the other person cannot do what is asked, because of their own situation. In that case, you can look for another way together.\n\nAt work, you can ask for help in the same words: “I find it hard to follow several instructions at the same time. It is easier for me if the instructions come in writing.” If the adjustment has to be formal, a written document may be needed.\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. If a name appears in the list, that does not mean that a doctor has given you that name.\n\nThis app is not a medical device. It does not make a diagnosis, and it does not provide medical care for, or prevent, any medical condition.\n\nSOYOGI is a non-profit group without legal personality, based in Japan. SOYOGI has no connection to the Government of Portugal, the Ministry of Health, the Serviço Nacional de Saúde (SNS), SNS 24, the gov.pt portal, the regional governments of the Azores and Madeira, the municipalities or any health service, and none of these bodies has recommended or supported this app. The names of bodies and other institutions only show where the information comes from. The original texts can be read free of charge on the website of each institution.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Portugal. This English version does not quote those pages word for word. Sources are shown on each screen, with the date of the page when the page shows one. Checked on 13 November 2026. Phone numbers, other numbers and hours may change.\n\nIt is you, not the app, who decides whether to look for help. This app is meant for people aged 13 and over.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "According to this page, people can turn to the National Health Service (Serviço Nacional de Saúde, SNS) when they do not feel well or have a question about their health.",
+      "src": {
+       "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+       "title": "Vida adulta: a minha saúde",
+       "url": "https://www.gov.pt/guias/a-minha-saude",
+       "kind": "fact",
+       "upd": "21/10/2026"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "For difficulties with attention, with reading and writing, or with getting along with others, you can start with the health center in your area, even without knowing the name of what is happening. The family doctor can refer you to other specialties when needed.",
+       "src": {
+        "org": "Agência para a Reforma Tecnológica do Estado, IP (gov.pt)",
+        "title": "Vida adulta: a minha saúde",
+        "url": "https://www.gov.pt/guias/a-minha-saude",
+        "kind": "fact",
+        "upd": "21/10/2026"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is reached, the SNS 24 page on anxiety explains:",
+      "text": "The person who can arrive at a name (a diagnosis) is the family doctor or, when the case is more complex, a doctor who specializes in psychiatry. Before that, it is important to rule out other health problems that give similar signs, and sometimes tests are needed.",
+      "src": {
+       "org": "SNS 24 (SPMS, E.P.E.); fonte indicada na página: Sociedade Portuguesa de Psiquiatria e Saúde Mental (SPPSM)",
+       "title": "Ansiedade",
+       "url": "https://www.sns24.gov.pt/pt/tema/saude-mental/ansiedade/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "mx": {
+   "id": "mx",
+   "name": {
+    "ja": "メキシコ",
+    "en": "Mexico",
+    "fr": "Mexique",
+    "de": "Mexiko",
+    "es": "México",
+    "esmx": "México",
+    "nl": "Mexico",
+    "ko": "멕시코",
+    "zh": "墨西哥",
+    "it": "Messico",
+    "sv": "Mexiko",
+    "pt": "México",
+    "ptpt": "México",
+    "ar": "المكسيك"
+   },
+   "langs": [
+    "esmx",
+    "en"
+   ],
+   "main": "esmx",
+   "fallback": "esmx",
+   "srcLang": "esmx",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "factRef": true,
+   "ver": "2026-11-13",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "mx911",
+     "band": "now",
+     "tel": "911",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "911 (emergencias)",
+      "desc": "Número único de emergencias. La llamada es gratuita, también desde teléfonos sin saldo.",
+      "hours": "Las 24 horas, los 365 días del año.",
+      "src": {
+       "org": "Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (gob.mx)",
+       "title": "Norma Técnica para la Estandarización de los Servicios de Llamadas de Emergencia a través del Número Único Armonizado 9-1-1. Versión 2.0",
+       "url": "https://www.gob.mx/cms/uploads/attachment/file/895276/NT_CALLE_2023_II-2024_final.pdf",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "911 (emergency number)",
+      "desc": "Single emergency number. The call is free, including from phones with no credit left.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (gob.mx)",
+       "title": "Norma Técnica para la Estandarización de los Servicios de Llamadas de Emergencia a través del Número Único Armonizado 9-1-1. Versión 2.0",
+       "url": "https://www.gob.mx/cms/uploads/attachment/file/895276/NT_CALLE_2023_II-2024_final.pdf",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (gob.mx)",
+      "title": "Norma Técnica para la Estandarización de los Servicios de Llamadas de Emergencia a través del Número Único Armonizado 9-1-1. Versión 2.0",
+      "url": "https://www.gob.mx/cms/uploads/attachment/file/895276/NT_CALLE_2023_II-2024_final.pdf",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "mxurg",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Servicio de urgencias más cercano",
+      "desc": "Si hay un peligro inmediato, acude al servicio de urgencias más cercano.",
+      "hours": "",
+      "src": {
+       "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+       "title": "Depresión: entenderla es el primer paso para atenderla",
+       "url": "https://www.gob.mx/lineadelavida/articulos/depresion-entenderla-es-el-primer-paso-para-atenderla",
+       "kind": "fact",
+       "upd": "2026-10-27"
+      }
+     },
+     "en": {
+      "name": "Servicio de urgencias más cercano (nearest emergency room)",
+      "desc": "If there is immediate danger, go to the nearest emergency room.",
+      "hours": "",
+      "src": {
+       "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+       "title": "Depresión: entenderla es el primer paso para atenderla",
+       "url": "https://www.gob.mx/lineadelavida/articulos/depresion-entenderla-es-el-primer-paso-para-atenderla",
+       "kind": "fact",
+       "upd": "2026-10-27"
+      }
+     },
+     "src": {
+      "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+      "title": "Depresión: entenderla es el primer paso para atenderla",
+      "url": "https://www.gob.mx/lineadelavida/articulos/depresion-entenderla-es-el-primer-paso-para-atenderla",
+      "kind": "fact",
+      "upd": "2026-10-27"
+     }
+    },
+    {
+     "id": "mxvida",
+     "band": "now",
+     "tel": "800 911 2000",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Línea de la Vida",
+      "desc": "Orientación por teléfono en salud mental y adicciones, para ti o para alguien cercano. Contesta una persona profesional de la salud mental, que te escucha y te orienta; si hace falta, puede canalizarte a otro servicio de salud mental. Puedes llamar desde celular o teléfono fijo.",
+      "hours": "Las 24 horas, los 365 días del año. Gratuita.",
+      "src": {
+       "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+       "title": "La Línea de la Vida, te escucha",
+       "url": "https://www.gob.mx/conasama/articulos/linea-de-la-vida-800-911-2000",
+       "kind": "fact",
+       "upd": "2025-10-23"
+      }
+     },
+     "en": {
+      "name": "Línea de la Vida (mental health and addictions helpline)",
+      "desc": "Phone guidance on mental health and addictions, for you or for someone close to you. A mental health professional answers, listens to you and guides you; if needed, they can refer you to another mental health service. You can call from a cell phone or a landline.",
+      "hours": "24 hours a day, 365 days a year. Free of charge.",
+      "src": {
+       "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+       "title": "La Línea de la Vida, te escucha",
+       "url": "https://www.gob.mx/conasama/articulos/linea-de-la-vida-800-911-2000",
+       "kind": "fact",
+       "upd": "2025-10-23"
+      }
+     },
+     "src": {
+      "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+      "title": "La Línea de la Vida, te escucha",
+      "url": "https://www.gob.mx/conasama/articulos/linea-de-la-vida-800-911-2000",
+      "kind": "fact",
+      "upd": "2025-10-23"
+     }
+    },
+    {
+     "id": "mx079",
+     "band": "now",
+     "tel": "079",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Línea de las Mujeres 079, opción 1",
+      "desc": "Para mujeres que viven violencia. Marca 079 y elige la opción 1. Ofrece orientación y auxilio de primer contacto y, si hace falta, canaliza a los Centros de Justicia para las Mujeres u otras instancias. Es gratuita y confidencial.",
+      "hours": "Las 24 horas, los 365 días del año.",
+      "src": {
+       "org": "Secretaría de las Mujeres (gob.mx)",
+       "title": "Si vives violencia de género, no estás sola: llama a la Línea de las Mujeres 079, opción 1 y recibe acompañamiento integral",
+       "url": "https://www.gob.mx/mujeres/prensa/si-vives-violencia-de-genero-no-estas-sola-llama-a-la-linea-de-las-mujeres-079-opcion-1-y-recibe-acompanamiento-integral?idiom=es",
+       "kind": "fact",
+       "upd": "2026-07-21"
+      }
+     },
+     "en": {
+      "name": "Línea de las Mujeres 079, opción 1 (women's helpline, option 1)",
+      "desc": "For women experiencing violence. Dial 079 and choose option 1. It offers guidance and first-contact assistance and, if needed, refers them to the Centros de Justicia para las Mujeres (Justice Centers for Women) or other bodies. It is free and confidential.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Secretaría de las Mujeres (gob.mx)",
+       "title": "Si vives violencia de género, no estás sola: llama a la Línea de las Mujeres 079, opción 1 y recibe acompañamiento integral",
+       "url": "https://www.gob.mx/mujeres/prensa/si-vives-violencia-de-genero-no-estas-sola-llama-a-la-linea-de-las-mujeres-079-opcion-1-y-recibe-acompanamiento-integral?idiom=es",
+       "kind": "fact",
+       "upd": "2026-07-21"
+      }
+     },
+     "src": {
+      "org": "Secretaría de las Mujeres (gob.mx)",
+      "title": "Si vives violencia de género, no estás sola: llama a la Línea de las Mujeres 079, opción 1 y recibe acompañamiento integral",
+      "url": "https://www.gob.mx/mujeres/prensa/si-vives-violencia-de-genero-no-estas-sola-llama-a-la-linea-de-las-mujeres-079-opcion-1-y-recibe-acompanamiento-integral?idiom=es",
+      "kind": "fact",
+      "upd": "2026-07-21"
+     }
+    },
+    {
+     "id": "mxprimer",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Tu Unidad de Medicina Familiar (IMSS)",
+      "desc": "Si tienes IMSS, puedes acudir a tu Unidad de Medicina Familiar. La médica o el médico que te atiende decide si hace falta pasarte al servicio de psicología, que puede estar en la misma unidad o en el Hospital General de Zona que te corresponde, si cuenta con ese servicio.",
+      "hours": "Según la unidad.",
+      "src": {
+       "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+       "title": "Para orientación en salud mental IMSS cuenta con especialistas en psicología en los tres niveles de atención y una línea de apoyo telefónico",
+       "url": "https://www.gob.mx/imss/prensa/para-orientacion-en-salud-mental-imss-cuenta-con-especialistas-en-psicologia-en-los-tres-niveles-de-atencion-y-una-linea-de-apoyo-telefonico",
+       "kind": "fact",
+       "upd": "2023-07-15"
+      }
+     },
+     "en": {
+      "name": "Your Family Medicine Unit (IMSS)",
+      "desc": "If you have IMSS, you can go to your Family Medicine Unit. The doctor who sees you decides whether you need to be referred to the psychology service, which can be in the same unit or in the Hospital General de Zona (General Zone Hospital) that serves you, if it has that service.",
+      "hours": "Depends on the unit.",
+      "src": {
+       "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+       "title": "Para orientación en salud mental IMSS cuenta con especialistas en psicología en los tres niveles de atención y una línea de apoyo telefónico",
+       "url": "https://www.gob.mx/imss/prensa/para-orientacion-en-salud-mental-imss-cuenta-con-especialistas-en-psicologia-en-los-tres-niveles-de-atencion-y-una-linea-de-apoyo-telefonico",
+       "kind": "fact",
+       "upd": "2023-07-15"
+      }
+     },
+     "src": {
+      "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+      "title": "Para orientación en salud mental IMSS cuenta con especialistas en psicología en los tres niveles de atención y una línea de apoyo telefónico",
+      "url": "https://www.gob.mx/imss/prensa/para-orientacion-en-salud-mental-imss-cuenta-con-especialistas-en-psicologia-en-los-tres-niveles-de-atencion-y-una-linea-de-apoyo-telefonico",
+      "kind": "fact",
+      "upd": "2023-07-15"
+     }
+    },
+    {
+     "id": "mxcecosama",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Centros Comunitarios de Salud Mental y Adicciones (CECOSAMA)",
+      "desc": "Establecimientos de salud del primer nivel para la salud mental y el consumo de sustancias. Puede acudir cualquier persona con alguna dificultad de salud mental o de consumo de sustancias. Busca el más cercano en el directorio de la CONASAMA y llama o acude para preguntar qué documentos necesitas para la primera cita.",
+      "hours": "Según el centro.",
+      "src": {
+       "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+       "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+       "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+       "kind": "fact",
+       "upd": "2026-01-20"
+      }
+     },
+     "en": {
+      "name": "Centros Comunitarios de Salud Mental y Adicciones (CECOSAMA) (community centers for mental health and addictions)",
+      "desc": "Health facilities at the first level of care, for mental health and substance use. Anyone with a mental health or substance use difficulty can go. Look for the nearest one in the CONASAMA directory, and call or go in person to ask which documents you need for the first appointment.",
+      "hours": "Depends on the center.",
+      "src": {
+       "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+       "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+       "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+       "kind": "fact",
+       "upd": "2026-01-20"
+      }
+     },
+     "src": {
+      "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+      "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+      "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+      "kind": "fact",
+      "upd": "2026-01-20"
+     }
+    },
+    {
+     "id": "mximssb",
+     "band": "day",
+     "tel": "800 298 11 50",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "IMSS-Bienestar (personas sin seguridad social)",
+      "desc": "Servicios de salud para todas las personas que no tienen seguridad social, en los estados adheridos a IMSS-Bienestar. Aunque todavía no tengas registro, puedes acudir a tu unidad; ahí te invitan a registrarte. El número es el del Centro de Atención Telefónica (CAT).",
+      "hours": "De lunes a viernes.",
+      "src": {
+       "org": "Servicios de Salud del IMSS para el Bienestar (IMSS-Bienestar)",
+       "title": "PREGUNTAS FRECUENTES",
+       "url": "https://imssbienestar.gob.mx/03_preguntas_frecuentes.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "IMSS-Bienestar (for people without social security)",
+      "desc": "Health services for everyone who has no social security, in the states that have joined IMSS-Bienestar. Even if you have not registered yet, you can go to your unit; there they invite you to register. The number is that of the Centro de Atención Telefónica (CAT, phone service center).",
+      "hours": "Monday to Friday.",
+      "src": {
+       "org": "Servicios de Salud del IMSS para el Bienestar (IMSS-Bienestar)",
+       "title": "PREGUNTAS FRECUENTES",
+       "url": "https://imssbienestar.gob.mx/03_preguntas_frecuentes.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Servicios de Salud del IMSS para el Bienestar (IMSS-Bienestar)",
+      "title": "PREGUNTAS FRECUENTES",
+      "url": "https://imssbienestar.gob.mx/03_preguntas_frecuentes.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "mxstate",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Centros de Justicia para las Mujeres de tu estado",
+      "desc": "Algunos servicios dependen de tu estado (o de la Ciudad de México). En el directorio nacional de los Centros de Justicia para las Mujeres puedes buscar el de tu entidad.",
+      "hours": "",
+      "src": {
+       "org": "Secretaría de las Mujeres (gob.mx)",
+       "title": "DIRECTORIO NACIONAL DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES",
+       "url": "https://www.gob.mx/mujeres/documentos/directorio-nacional-de-los-centros-de-justicia-para-las-mujeres-407944",
+       "kind": "fact",
+       "upd": "2025-09-10"
+      }
+     },
+     "en": {
+      "name": "Centros de Justicia para las Mujeres de tu estado (Justice Centers for Women in your state)",
+      "desc": "Some services depend on your state (or on Mexico City). In the national directory of the Centros de Justicia para las Mujeres you can look for the one for your state.",
+      "hours": "",
+      "src": {
+       "org": "Secretaría de las Mujeres (gob.mx)",
+       "title": "DIRECTORIO NACIONAL DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES",
+       "url": "https://www.gob.mx/mujeres/documentos/directorio-nacional-de-los-centros-de-justicia-para-las-mujeres-407944",
+       "kind": "fact",
+       "upd": "2025-09-10"
+      }
+     },
+     "src": {
+      "org": "Secretaría de las Mujeres (gob.mx)",
+      "title": "DIRECTORIO NACIONAL DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES",
+      "url": "https://www.gob.mx/mujeres/documentos/directorio-nacional-de-los-centros-de-justicia-para-las-mujeres-407944",
+      "kind": "fact",
+      "upd": "2025-09-10"
+     }
+    },
+    {
+     "id": "mxconadis",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "Instituciones de atención a personas con discapacidad en cada entidad",
+      "desc": "Lista de instituciones de cada entidad que dan atención y orientación a personas con discapacidad (lista de 2023).",
+      "hours": "",
+      "src": {
+       "org": "Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad (CONADIS) (gob.mx)",
+       "title": "Listado de Instituciones de Atención a Personas con Discapacidad de las Entidades Federativas de la República Mexicana",
+       "url": "https://www.gob.mx/conadis/es/articulos/listado-de-instituciones-de-atencion-a-personas-con-discapacidad-de-las-entidades-federativas-de-la-republica-mexicana",
+       "kind": "fact",
+       "upd": "2023-03-31"
+      }
+     },
+     "en": {
+      "name": "Instituciones de atención a personas con discapacidad en cada entidad (institutions for people with disabilities in each state)",
+      "desc": "A list of institutions in each state that give care and guidance to people with disabilities (2023 list).",
+      "hours": "",
+      "src": {
+       "org": "Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad (CONADIS) (gob.mx)",
+       "title": "Listado de Instituciones de Atención a Personas con Discapacidad de las Entidades Federativas de la República Mexicana",
+       "url": "https://www.gob.mx/conadis/es/articulos/listado-de-instituciones-de-atencion-a-personas-con-discapacidad-de-las-entidades-federativas-de-la-republica-mexicana",
+       "kind": "fact",
+       "upd": "2023-03-31"
+      }
+     },
+     "src": {
+      "org": "Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad (CONADIS) (gob.mx)",
+      "title": "Listado de Instituciones de Atención a Personas con Discapacidad de las Entidades Federativas de la República Mexicana",
+      "url": "https://www.gob.mx/conadis/es/articulos/listado-de-instituciones-de-atencion-a-personas-con-discapacidad-de-las-entidades-federativas-de-la-republica-mexicana",
+      "kind": "fact",
+      "upd": "2023-03-31"
+     }
+    },
+    {
+     "id": "mxprofedet",
+     "band": "day",
+     "tel": "800 911 7877",
+     "tel2": "800 717 2942",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "PROFEDET (derechos laborales)",
+      "desc": "Asesoría gratuita sobre tus derechos laborales y de seguridad social, conciliación y representación legal.",
+      "hours": "",
+      "src": {
+       "org": "Procuraduría Federal de la Defensa del Trabajo (PROFEDET) (gob.mx)",
+       "title": "Atención Telefónica PROFEDET",
+       "url": "https://www.gob.mx/profedet/articulos/atencion-telefonica-241560",
+       "kind": "fact",
+       "upd": "2024-07-24"
+      }
+     },
+     "en": {
+      "name": "PROFEDET (labor rights)",
+      "desc": "Free advice on your labor rights and social security rights, conciliation and legal representation.",
+      "hours": "",
+      "src": {
+       "org": "Procuraduría Federal de la Defensa del Trabajo (PROFEDET) (gob.mx)",
+       "title": "Atención Telefónica PROFEDET",
+       "url": "https://www.gob.mx/profedet/articulos/atencion-telefonica-241560",
+       "kind": "fact",
+       "upd": "2024-07-24"
+      }
+     },
+     "src": {
+      "org": "Procuraduría Federal de la Defensa del Trabajo (PROFEDET) (gob.mx)",
+      "title": "Atención Telefónica PROFEDET",
+      "url": "https://www.gob.mx/profedet/articulos/atencion-telefonica-241560",
+      "kind": "fact",
+      "upd": "2024-07-24"
+     }
+    },
+    {
+     "id": "mxconapred",
+     "band": "day",
+     "tel": "800 543 0033",
+     "tel2": "55 52 62 14 90",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "CONAPRED (discriminación)",
+      "desc": "Si crees que viviste discriminación por parte de particulares o de personas servidoras públicas federales, puedes presentar una queja. El 55 52 62 14 90 es el número para la Ciudad de México.",
+      "hours": "Lunes a jueves de 9:00 a 17:30; viernes de 9:00 a 15:00.",
+      "src": {
+       "org": "Consejo Nacional para Prevenir la Discriminación (CONAPRED)",
+       "title": "Inicio - Conapred",
+       "url": "https://www.conapred.gob.mx/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CONAPRED (discrimination)",
+      "desc": "If you believe you experienced discrimination from private individuals or from federal public servants, you can file a complaint. 55 52 62 14 90 is the number for Mexico City.",
+      "hours": "Monday to Thursday from 9:00 to 17:30; Friday from 9:00 to 15:00.",
+      "src": {
+       "org": "Consejo Nacional para Prevenir la Discriminación (CONAPRED)",
+       "title": "Inicio - Conapred",
+       "url": "https://www.conapred.gob.mx/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Consejo Nacional para Prevenir la Discriminación (CONAPRED)",
+      "title": "Inicio - Conapred",
+      "url": "https://www.conapred.gob.mx/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "mxcndh",
+     "band": "day",
+     "tel": "800 715 2000",
+     "tel2": "55 5490 7400",
+     "url": "",
+     "linkOk": false,
+     "esmx": {
+      "name": "CNDH (derechos humanos)",
+      "desc": "Comisión Nacional de los Derechos Humanos. Puedes presentar una queja, también en línea. La llamada al 800 715 2000 es gratuita.",
+      "hours": "",
+      "src": {
+       "org": "Comisión Nacional de los Derechos Humanos (CNDH)",
+       "title": "Nuestro trabajo es defenderte",
+       "url": "https://www.cndh.org.mx/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CNDH (human rights)",
+      "desc": "Comisión Nacional de los Derechos Humanos (National Human Rights Commission). You can file a complaint, including online. The call to 800 715 2000 is free.",
+      "hours": "",
+      "src": {
+       "org": "Comisión Nacional de los Derechos Humanos (CNDH)",
+       "title": "Nuestro trabajo es defenderte",
+       "url": "https://www.cndh.org.mx/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Comisión Nacional de los Derechos Humanos (CNDH)",
+      "title": "Nuestro trabajo es defenderte",
+      "url": "https://www.cndh.org.mx/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "esmx": {
+    "groups": {
+     "mood": {
+      "label": "Ánimo bajo, sin energía",
+      "lead": "Cuando el ánimo sigue bajo y cuesta encontrar fuerzas para cualquier cosa.",
+      "scenes": [
+       "Tengo el ánimo bajo de la mañana a la noche.",
+       "Las cosas que antes me gustaban ya no me hacen disfrutar.",
+       "No tengo fuerzas ni puedo concentrarme, así que el trabajo y los quehaceres de la casa se quedan sin hacer.",
+       "Me culpo de todo y siempre pienso lo peor.",
+       "De noche no puedo dormir, o duermo demasiado. He perdido el apetito y el cuerpo me pesa.",
+       "A veces quiero desaparecer o ya no estar aquí."
+      ],
+      "asks": [
+       "Me ayuda que me expliquen lo que hay que hacer, una cosa a la vez.",
+       "Necesito tiempo para pensar: prefiero que no me presionen para responder ni para decidir.",
+       "Prefiero que me den por escrito lo importante.",
+       "Antes de decirme “¡Ánimo!” o “Échale ganas”, me ayuda que me escuchen primero.",
+       "Cuando descanso, prefiero que no piensen que es flojera.",
+       "Me ayuda que revisen conmigo si alguna enfermedad física o algún medicamento que tomo puede influir."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipotiroidismo (la tiroides produce pocas hormonas)",
+        "why": "Esta página dice que, cuando la tiroides produce menos hormonas de las que hacen falta, el cuerpo funciona más lento y puede haber mucho cansancio, sueño, olvidos y dificultad para concentrarse.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Esta página dice que los problemas de sueño a menudo van junto con la depresión o la ansiedad, y que unos pueden empeorar a los otros.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página dice que la depresión puede durar o volver, y llegar a dificultar el trabajo, la escuela, la casa o la vida diaria.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Estás muy triste? Quizás tengas depresión",
+         "url": "https://www.gob.mx/conasama/articulos/estas-muy-triste-quizas-tengas-depresion",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta página lo describe como cambios fuertes del estado de ánimo que van y vienen, entre etapas de manía y etapas de depresión.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-mental-bipolar",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Consumo nocivo de alcohol",
+        "why": "Esta página relaciona el abuso del alcohol con problemas de salud física y con problemas de salud mental como la depresión y la ansiedad.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Secretaría de Salud promueve el autocuidado y la prevención frente al consumo de bebidas alcohólicas",
+         "url": "https://www.gob.mx/conasama/articulos/secretaria-de-salud-promueve-el-autocuidado-y-la-prevencion-frente-al-consumo-de-bebidas-alcoholicas",
+         "kind": "fact",
+         "upd": "2024-11-15"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mucha preocupación o tensión",
+      "lead": "Preocupaciones que no se quitan, el corazón acelerado e inquietud, dificultades frente a otras personas o al salir de casa, y cosas parecidas.",
+      "scenes": [
+       "Cuando tengo que hablar frente a otras personas o me observan, siento tanta ansiedad que me quedo en blanco.",
+       "De repente el corazón me late muy rápido y me falta el aire. Me preocupa que vuelva a pasar y por eso me cuesta salir de casa.",
+       "Sin un motivo claro, me preocupo por una cosa tras otra, siento mucha inquietud y no me quedan fuerzas.",
+       "La paso mal en los lugares de los que es difícil salir, como el metro, el camión, los centros comerciales o los lugares con mucha gente, y también cuando salgo de casa sin compañía. Por eso trato de evitarlos.",
+       "Como evito lo que me da miedo, cada vez voy a menos lugares y veo a menos gente. Mi vida se ha hecho más pequeña.",
+       "Las preocupaciones no se me quitan de la cabeza y por la noche me cuesta trabajo dormirme."
+      ],
+      "asks": [
+       "Cuando hablo, me ayuda que me den tiempo y no me apuren.",
+       "Prefiero que me expliquen con anticipación el plan y cómo va a transcurrir todo.",
+       "Prefiero que no me pidan mi opinión de repente frente a otras personas, y poder responder también por escrito.",
+       "Si me siento mal, me ayuda poder salir un momento a descansar.",
+       "Prefiero hablar en un lugar tranquilo y con pocas personas.",
+       "Antes de decirme que me preocupo demasiado, me ayuda que escuchen primero lo que me cuesta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipertiroidismo (la tiroides produce demasiadas hormonas)",
+        "why": "Esta página menciona la ansiedad, las palpitaciones, el insomnio, la sudoración y el temblor de manos entre lo que puede presentarse con el hipertiroidismo.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "402. Mayoría de pacientes con cáncer de tiroides alcanzan sobrevida de 90%: Hospital Juárez de México",
+         "url": "https://www.gob.mx/salud/prensa/402-mayoria-de-pacientes-con-cancer-de-tiroides-alcanzan-sobrevida-de-90-hospital-juarez-de-mexico",
+         "kind": "fact",
+         "upd": "2024-09-26"
+        }
+       },
+       {
+        "name": "Arritmias (cambios en el ritmo del corazón)",
+        "why": "Esta página describe la arritmia como un cambio en el ritmo de los latidos, que puede hacer que el corazón lata más rápido o más lento de lo habitual.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "La arritmia, padecimiento frecuente entre la población",
+         "url": "https://www.gob.mx/salud/articulos/la-arritmia-padecimiento-frecuente-entre-la-poblacion",
+         "kind": "fact",
+         "upd": "2018-12-27"
+        }
+       },
+       {
+        "name": "Cafeína y bebidas energizantes",
+        "why": "Esta página menciona el estrés, el ritmo de vida acelerado y las bebidas energizantes, que llevan mucha cafeína, entre lo que puede desencadenar de repente alteraciones del ritmo del corazón.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Arritmias y bebidas energizantes",
+         "url": "https://www.gob.mx/imss/articulos/arritmias-y-bebidas-energizantes?idiom=es",
+         "kind": "fact",
+         "upd": "2024-09-23"
+        }
+       },
+       {
+        "name": "Problemas gastrointestinales",
+        "why": "Esta página explica que las molestias del estómago y los intestinos pueden ir de la mano con la ansiedad.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Esta página dice que los problemas de sueño a menudo van junto con la depresión o la ansiedad, y que unos pueden empeorar a los otros.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada (TAG)",
+        "why": "Esta página describe la ansiedad generalizada como la que surge de muchas preocupaciones.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Ansiedad social (fobia social)",
+        "why": "Esta página la describe como ansiedad que nace del miedo a un juicio negativo de las demás personas.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Trastorno de angustia",
+        "why": "Esta página lo nombra dentro del grupo de los trastornos de ansiedad, que tienen en común sentimientos de ansiedad y temor.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Tienes un ataque de pánico o sufres mucha angustia pensando que algo malo va a pasar?",
+         "url": "https://www.gob.mx/conasama/articulos/tienes-un-ataque-de-panico-o-sufres-mucha-angustia-pensando-que-algo-malo-va-a-pasar?idiom=es",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Me cuesta dejar de revisar o de repetir",
+      "lead": "Cuando revisas una y otra vez la puerta o el gas, te lavas las manos o repites otras acciones y te cuesta parar aunque quieras.",
+      "scenes": [
+       "Al salir de casa necesito revisar una y otra vez si cerré bien la puerta o la llave del gas; si no, no logro irme con tranquilidad.",
+       "Me lavo las manos o el cuerpo cada vez más veces y, aunque quiero parar, no puedo.",
+       "La misma preocupación me viene a la cabeza una y otra vez y no logro dejar de pensar en ella, aunque quiero.",
+       "Si las cosas no están acomodadas o no se hacen en el orden que tengo fijado, me inquieto y termino acomodándolas de nuevo o empezando otra vez.",
+       "Revisar las cosas me toma tanto tiempo que salgo de casa más tarde de lo previsto o llego tarde a mis citas y al trabajo.",
+       "Mi cuerpo se mueve o suelto sonidos sin querer, y me cuesta parar aunque lo intente."
+      ],
+      "asks": [
+       "Prefiero que no me digan que exagero y que primero me escuchen.",
+       "Revisar las cosas me toma tiempo, así que me ayuda que se deje un margen de tiempo.",
+       "Cuando cambien los planes o los pasos a seguir, prefiero que me avisen con anticipación.",
+       "Prefiero que no me señalen ni se rían de mí frente a otras personas cuando estoy revisando algo o lavándome las manos.",
+       "Me ayuda que me den las explicaciones y las instrucciones una por una y por escrito.",
+       "Antes de decidir cómo seguimos, prefiero que escuchen mis preocupaciones y que lo decidamos con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastornos de ansiedad",
+        "why": "Esta página describe un grupo de trastornos con sentimientos de ansiedad y temor, y entre ellos incluye el trastorno obsesivo-compulsivo (TOC).",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Tienes un ataque de pánico o sufres mucha angustia pensando que algo malo va a pasar?",
+         "url": "https://www.gob.mx/conasama/articulos/tienes-un-ataque-de-panico-o-sufres-mucha-angustia-pensando-que-algo-malo-va-a-pasar?idiom=es",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       },
+       {
+        "name": "Trastorno obsesivo-compulsivo (TOC)",
+        "why": "Esta página lo relaciona con preocupaciones y miedos excesivos que llevan a conductas compulsivas, y con dificultades para hacer las actividades de cada día.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "Casi el total de pacientes con trastorno obsesivo compulsivo se recuperan",
+         "url": "https://www.gob.mx/salud/prensa/casi-el-total-de-pacientes-con-trastorno-obsesivo-compulsivo-se-recuperan",
+         "kind": "fact",
+         "upd": "2016-05-29"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página lo describe como una condición del desarrollo del sistema nervioso con dificultades en la comunicación y en el trato con otras personas, y con conductas repetitivas e intereses restringidos.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del espectro autista",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-espectro-autista",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Una experiencia dura me sigue afectando",
+      "lead": "Recuerdos que vuelven una y otra vez, dormir mal o una tensión que no se va después de una experiencia dura.",
+      "scenes": [
+       "Por cualquier detalle, de repente vuelven la escena y las sensaciones de aquel momento tan duro.",
+       "Tengo pesadillas parecidas una y otra vez y muchas noches no logro dormir profundamente.",
+       "Estoy siempre en tensión y hasta un ruido pequeño o un imprevisto me hace brincar.",
+       "Siempre que puedo, evito los lugares, las personas y los temas que me recuerdan aquello, y mi vida diaria se ha ido haciendo más pequeña.",
+       "Es como si algo dentro de mí se hubiera apagado, y ya no logro sentir por mi familia y mis amistades lo mismo que antes.",
+       "Cada vez me culpo más, o me cuesta más confiar en la gente que me rodea."
+      ],
+      "asks": [
+       "Prefiero que no me pregunten todos los detalles de lo que pasó. Quiero contarlo a mi ritmo y hasta donde pueda.",
+       "Hay sonidos, lugares y temas que lo reviven todo. Me ayuda que se acepte que prefiero evitarlos.",
+       "Me ayuda que no me hablen de repente por la espalda ni hagan ruidos fuertes cerca de mí.",
+       "Cuando hablar me cuesta demasiado, prefiero poder entregar algo escrito.",
+       "Hay días en que no duermo o en que no se me quita el cansancio. Prefiero que no se tome por flojera.",
+       "Prefiero que no me apuren con frases como “Olvídalo” o “Supéralo”, y que haya un lugar donde pueda hablar con tranquilidad."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno de pesadillas",
+        "why": "Esta página describe sueños largos y angustiantes que se repiten con frecuencia y se recuerdan con claridad.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Trastornos del sueño",
+        "why": "Esta página incluye la dificultad para dormirse o para seguir dormido, dormir demasiado y los problemas para mantener un horario de sueño.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-sueno-344894",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Trastorno de estrés postraumático (TEPT)",
+        "why": "Esta página dice que aparece después de un acontecimiento traumático o perturbador que se puede identificar.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno de estrés postraumático",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-de-estres-postraumatico",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Trastornos de ansiedad",
+        "why": "Esta página describe un grupo de trastornos con sentimientos de ansiedad y temor, y entre ellos incluye el trastorno de estrés postraumático.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Tienes un ataque de pánico o sufres mucha angustia pensando que algo malo va a pasar?",
+         "url": "https://www.gob.mx/conasama/articulos/tienes-un-ataque-de-panico-o-sufres-mucha-angustia-pensando-que-algo-malo-va-a-pasar?idiom=es",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página dice que la depresión puede durar o volver, y llegar a dificultar el trabajo, la escuela, la casa o la vida diaria.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Estás muy triste? Quizás tengas depresión",
+         "url": "https://www.gob.mx/conasama/articulos/estas-muy-triste-quizas-tengas-depresion",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mxstate",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificultades con el sueño",
+      "lead": "Te cuesta dormirte, te despiertas por la noche, te cuesta levantarte o durante el día te da mucho sueño.",
+      "scenes": [
+       "Aunque me meta a la cama, tardo mucho en dormirme.",
+       "Me despierto varias veces por la noche y no duermo de corrido hasta la mañana.",
+       "A la hora de levantarme no puedo hacerlo, y llego tarde al trabajo o a la escuela una y otra vez.",
+       "Durante el día me da un sueño muy fuerte y estoy a punto de cabecear en una junta o al manejar.",
+       "Mi familia me dice que ronco muy fuerte y que, mientras duermo, parece que se me corta la respiración.",
+       "Al caer la tarde y por la noche siento en las piernas una sensación incómoda que no me deja descansar ni dormir."
+      ],
+      "asks": [
+       "Me ayuda que se tomen el tiempo de preguntarme cómo duermo: cuánto tardo en dormirme, si me despierto de noche, lo que me cuesta levantarme y cuánto sueño tengo de día.",
+       "Prefiero que repasen conmigo los medicamentos que tomo y mis hábitos con el café, el alcohol y el tabaco, para ver qué puede estar influyendo.",
+       "Me ayuda que no se dé por hecho que es cuestión de actitud, y que se revise también la salud del cuerpo y el estado de ánimo.",
+       "Prefiero explicar mis horarios con una nota escrita, con la hora a la que me acuesto y a la que me levanto, y que la revisen con calma.",
+       "Si hay que tomar algún medicamento, me ayuda que me expliquen con palabras sencillas cómo funciona y qué cuidados requiere.",
+       "Por las mañanas me cuesta mucho, así que prefiero que me den cita por la tarde."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Enfermedades del cuerpo",
+        "why": "Esta página señala que algunas condiciones médicas, como la diabetes o la presión arterial alta, pueden impedir dormir bien.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Para atender problemas del sueño, IMSS recomienda establecer horarios regulares para dormir.",
+         "url": "https://www.gob.mx/imss/prensa/para-atender-problemas-del-sueno-imss-recomienda-establecer-horarios-regulares-para-dormir",
+         "kind": "fact",
+         "upd": "2024-04-17"
+        }
+       },
+       {
+        "name": "Cafeína (café y refrescos con cafeína)",
+        "why": "Esta página dice que tomar mucho café o refrescos con cafeína, sobre todo por la tarde y la noche, dificulta relajarse por sus efectos estimulantes.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Esta página dice que el insomnio también puede formar parte de diversas enfermedades psiquiátricas y de otras enfermedades.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Apnea del sueño",
+        "why": "Esta página la menciona entre los problemas de sueño que se atienden en clínicas especializadas, junto con el insomnio y el síndrome de piernas inquietas.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Hasta 80 por ciento de los problemas para dormir se resuelve con buena higiene del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/hasta-80-por-ciento-de-los-problemas-para-dormir-se-resuelve-con-buena-higiene-del-sueno-375838",
+         "kind": "fact",
+         "upd": "2024-08-26"
+        }
+       },
+       {
+        "name": "Síndrome de piernas inquietas",
+        "why": "Esta página lo incluye entre los problemas de sueño que se atienden en clínicas especializadas, junto con el insomnio y la apnea del sueño.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Hasta 80 por ciento de los problemas para dormir se resuelve con buena higiene del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/hasta-80-por-ciento-de-los-problemas-para-dormir-se-resuelve-con-buena-higiene-del-sueno-375838",
+         "kind": "fact",
+         "upd": "2024-08-26"
+        }
+       },
+       {
+        "name": "Narcolepsia",
+        "why": "Esta página la nombra entre los trastornos del sueño que necesitan atención con una persona especialista.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página relaciona los problemas de sueño con más depresión, ansiedad o irritabilidad.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Hasta 80 por ciento de los problemas para dormir se resuelve con buena higiene del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/hasta-80-por-ciento-de-los-problemas-para-dormir-se-resuelve-con-buena-higiene-del-sueno-375838",
+         "kind": "fact",
+         "upd": "2024-08-26"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificultades con la comida",
+      "lead": "Cuando comer se hace difícil: no puedes comer mucho, no puedes parar o comer te da miedo.",
+      "scenes": [
+       "No tengo ganas de comer y hay muchos días en que la comida casi no me pasa por la garganta.",
+       "Cuando empiezo a comer no logro parar, y a veces como tanto que me siento mal.",
+       "Sin darme cuenta, no dejo de pensar en la comida y me cuesta concentrarme en otras cosas.",
+       "Solo puedo comer muy pocas cosas, y evito muchos alimentos porque el sabor, el olor o la textura me resultan muy desagradables.",
+       "Desde que se me atoró un alimento en la garganta o vomité, comer me da miedo.",
+       "Por la noche como entre sueños y, por la mañana, a veces no me acuerdo de nada."
+      ],
+      "asks": [
+       "Prefiero que no hagan comentarios sobre mi cuerpo ni sobre mi aspecto.",
+       "Me ayuda que no me obliguen a comer ni me apuren para hacerlo.",
+       "Cuando se come en grupo, me ayuda que me dejen elegir otro lugar u otro momento.",
+       "Prefiero que me pregunten antes qué puedo comer y qué olores o texturas me cuestan.",
+       "Me ayuda que me expliquen antes cómo será la consulta y qué estudios se van a hacer.",
+       "Prefiero poder entregar por escrito lo que me cuesta decir en voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipertiroidismo (la tiroides produce demasiadas hormonas)",
+        "why": "Esta página dice que, cuando la tiroides produce demasiadas hormonas, puede haber pérdida de peso, ansiedad e insomnio.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Hipotiroidismo (la tiroides produce pocas hormonas)",
+        "why": "Esta página dice que, cuando la tiroides produce pocas hormonas, puede haber cansancio, sueño y aumento de peso.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Trastornos de la conducta alimentaria (anorexia nerviosa, bulimia nerviosa, trastorno por atracón)",
+        "why": "Esta página describe alteraciones graves y persistentes en la forma de comer, con pensamientos y emociones angustiantes, y nombra entre ellas la anorexia nerviosa, la bulimia nerviosa y el trastorno por atracón.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos alimenticios",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-alimenticios",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página dice que las personas con trastornos de la conducta alimentaria también pueden presentar depresión o ansiedad.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "233. Trastornos alimentarios ponen en riesgo la vida",
+         "url": "https://www.gob.mx/salud/prensa/233-trastornos-alimentarios-ponen-en-riesgo-la-vida",
+         "kind": "fact",
+         "upd": "2024-06-14"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mximssb",
+       "mxcecosama"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Me cuesta dejar el alcohol, las apuestas o los videojuegos",
+      "lead": "Cuando quieres dejarlo o hacerlo menos, pero sigues.",
+      "scenes": [
+       "Me propongo dejarlo o hacerlo menos, pero luego me doy cuenta de que sigo igual.",
+       "No logro respetar el tiempo, la cantidad ni el dinero que me había puesto como límite para hoy.",
+       "Les oculto a las personas cercanas que tomo alcohol, que apuesto o que juego videojuegos, o lo disimulo con pretextos.",
+       "Me desvelo jugando videojuegos, por la mañana no logro levantarme y cada vez con más frecuencia llego tarde o falto al trabajo o a la escuela.",
+       "Cuando pierdo dinero en apuestas deportivas, en línea o en las máquinas de los casinos, quiero recuperarlo y vuelvo a apostar.",
+       "Aunque sé que mi cuerpo se está resintiendo, no logro tomar menos alcohol."
+      ],
+      "asks": [
+       "Me ayuda que primero me escuchen, sin culparme ni sacar conclusiones antes de tiempo.",
+       "Me ayuda que me acompañen a ir viendo, paso a paso, cómo es mi día a día con esto y qué dificultades me trae.",
+       "Me gustaría que también se revisaran mi sueño y mi salud física.",
+       "Me ayuda que me digan de forma concreta dónde puedo recibir apoyo y a qué lugares puedo acudir.",
+       "Me gustaría saber si mi familia o una persona cercana puede venir conmigo a la consulta.",
+       "Prefiero que antes me digan a quién se le va a contar lo que cuento y hasta qué punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnio",
+        "why": "Esta página dice que, al intentar dejar el juego, pueden aparecer ansiedad, insomnio o irritabilidad.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       },
+       {
+        "name": "Consumo nocivo de alcohol",
+        "why": "Esta página relaciona el abuso del alcohol con problemas de salud física y con problemas de salud mental como la depresión y la ansiedad.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Secretaría de Salud promueve el autocuidado y la prevención frente al consumo de bebidas alcohólicas",
+         "url": "https://www.gob.mx/conasama/articulos/secretaria-de-salud-promueve-el-autocuidado-y-la-prevencion-frente-al-consumo-de-bebidas-alcoholicas",
+         "kind": "fact",
+         "upd": "2024-11-15"
+        }
+       },
+       {
+        "name": "Problemas con el juego y las apuestas (ludopatía)",
+        "why": "Esta página la describe como dificultad para controlar el impulso de jugar y apostar, que puede dañar mucho la vida familiar, social, laboral y personal.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       },
+       {
+        "name": "Trastorno por uso de videojuegos",
+        "why": "Esta página lo describe como pérdida de control sobre el tiempo de juego y dar a los videojuegos más prioridad que a otras actividades.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Conasama llama a evitar desinformación sobre videojuegos y salud mental",
+         "url": "https://www.gob.mx/conasama/articulos/conasama-llama-a-evitar-desinformacion-sobre-videojuegos-y-salud-mental-376293",
+         "kind": "fact",
+         "upd": "2024-08-30"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página dice que los problemas con el juego pueden estar relacionados con la ansiedad, la depresión, el trastorno bipolar o el déficit de atención.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Esta página menciona el trastorno por déficit de atención entre los problemas de salud mental que pueden estar relacionados con el juego.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificultades de atención u organización",
+      "lead": "Dificultades para concentrarte, avanzar paso a paso o acordarte de las cosas.",
+      "scenes": [
+       "Aunque alguien me esté hablando, mi mente se va a otro lado sin que me dé cuenta.",
+       "No logro sacar adelante mi trabajo o las tareas de la casa en orden, y se me pasan las fechas límite.",
+       "Muchas veces no me acuerdo de lo que me pidieron o de lo que prometí, o pierdo cosas.",
+       "Si llevo mucho rato con la misma tarea, se me juntan los errores por descuido.",
+       "Me cuesta estar mucho rato sin moverme y siento una inquietud que no me deja parar.",
+       "Las personas a mi alrededor me dicen que muchas veces se me olvidan las cosas o que llego tarde."
+      ],
+      "asks": [
+       "Me ayuda que me den las instrucciones una por una.",
+       "Prefiero que lo importante me lo den por escrito.",
+       "Me ayuda que me avisen con tiempo de las fechas límite y de las citas.",
+       "Me ayuda que no me pidan muchas cosas a la vez, sino que las dividan en partes pequeñas.",
+       "Me gustaría hablar en un lugar tranquilo, donde me distraiga menos.",
+       "Me ayuda que se reconozca lo que sí he logrado, en vez de reprocharme lo que no."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipotiroidismo (la tiroides produce pocas hormonas)",
+        "why": "Esta página dice que, cuando la tiroides produce menos hormonas de las que hacen falta, el cuerpo funciona más lento y puede haber mucho cansancio, sueño, olvidos y dificultad para concentrarse.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Esta página dice que dormir mal se nota sobre todo en cansancio, menos energía, irritabilidad y falta de concentración.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Falta de sueño",
+        "why": "Esta página dice que dormir poco o tener algún trastorno del sueño puede afectar la calidad de vida y el rendimiento.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Apnea del sueño",
+        "why": "Esta página menciona ronquidos, sueño cortado y poco reparador, dolor de cabeza al despertar, problemas de memoria y somnolencia durante el día.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "194. Apnea de sueño, factor de riesgo para el desarrollo de obesidad y diabetes",
+         "url": "https://www.gob.mx/salud/prensa/194-apnea-de-sueno-factor-de-riesgo-para-el-desarrollo-de-obesidad-y-diabetes?idiom=es",
+         "kind": "fact",
+         "upd": "2017-05-06"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página menciona la dificultad para concentrarse, junto con la tristeza y los cambios en el sueño y el apetito.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "En México, 3.6 millones de personas adultas padecen depresión",
+         "url": "https://www.gob.mx/salud/articulos/en-mexico-3-6-millones-de-personas-adultas-padecen-depresion",
+         "kind": "fact",
+         "upd": "2023-07-03"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Esta página dice que influye en cómo el cerebro maneja la atención, la actividad y los impulsos, y menciona olvidos, errores por descuido y problemas de organización.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+         "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+         "kind": "fact",
+         "upd": "2026-07-12"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página lo describe como una condición del desarrollo del sistema nervioso con dificultades en la comunicación y en el trato con otras personas, y con conductas repetitivas e intereses restringidos.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del espectro autista",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-espectro-autista",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificultades con el trato, las rutinas o los sentidos",
+      "lead": "Dificultades para hablar o estar con otras personas, una gran necesidad de hacer las cosas de una manera concreta, o ruidos, luces y olores difíciles de soportar.",
+      "scenes": [
+       "En una conversación me cuesta captar lo que siente la otra persona o el ambiente del momento, y muchas veces siento que no nos entendemos.",
+       "Cuando tengo que hablar frente a otras personas o todas las miradas se dirigen a mí, siento mucha tensión y termino evitándolo.",
+       "Con las personas cercanas sí puedo hablar, pero frente a otras no me sale la voz.",
+       "Si cambia mi manera de hacer las cosas, el orden de los pasos o el lugar donde están mis cosas, siento una inquietud muy fuerte.",
+       "Los ruidos, las luces y los olores me resultan demasiado intensos, y los lugares con mucha gente se me hacen muy difíciles.",
+       "Me cuesta oír lo que dicen los demás, o tengo el ánimo bajo, y ver a la gente o hablar con ella se me ha vuelto muy difícil."
+      ],
+      "asks": [
+       "Me ayuda que me hablen despacio y con claridad.",
+       "Me ayuda que me escriban lo importante.",
+       "Me gustaría hablar en un lugar tranquilo.",
+       "Me ayuda que me avisen antes si cambian los planes o la forma de hacer las cosas.",
+       "Prefiero que no me apuren y que me den tiempo para responder.",
+       "Me gustaría poder responder por escrito o con una nota breve, en lugar de hablar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ansiedad social (fobia social)",
+        "why": "Esta página la describe como ansiedad por miedo al juicio negativo de otras personas.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página dice que las personas adultas con fobia social pueden aislarse al evitar convivir con otras personas, y que así la depresión puede aparecer con más facilidad.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "073. Fobias, trastornos mentales más comunes",
+         "url": "https://www.gob.mx/salud/prensa/073-fobias-trastornos-mentales-mas-comunes",
+         "kind": "fact",
+         "upd": "2017-02-17"
+        }
+       },
+       {
+        "name": "Trastorno obsesivo-compulsivo (TOC)",
+        "why": "Esta página lo describe con preocupaciones y miedos muy grandes, conductas compulsivas que responden a esos miedos y dificultad para hacer las actividades de cada día.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "Casi el total de pacientes con trastorno obsesivo compulsivo se recuperan",
+         "url": "https://www.gob.mx/salud/prensa/casi-el-total-de-pacientes-con-trastorno-obsesivo-compulsivo-se-recuperan",
+         "kind": "fact",
+         "upd": "2016-05-29"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página lo describe como una condición del desarrollo del sistema nervioso con dificultades en la comunicación y en el trato con otras personas, y con conductas repetitivas e intereses restringidos.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del espectro autista",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-espectro-autista",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mxconapred",
+       "mxconadis"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Dificultades para leer, escribir o calcular",
+      "lead": "Cuando leer, escribir o manejar números sigue costando aunque te esfuerces.",
+      "scenes": [
+       "Me lleva más tiempo que a otras personas leer un texto, y muchas veces tengo que releerlo.",
+       "Aunque lea, el contenido no se me queda, y me cuesta entender lo que dicen los documentos o las cartas.",
+       "Me cuesta la ortografía: cometo muchos errores o se me van letras o palabras al escribir.",
+       "Mi letra me sale irregular, y escribir me lleva mucho tiempo y mucho esfuerzo.",
+       "Me atoro con las cuentas sencillas y con los problemas que vienen planteados en un texto.",
+       "Puedo hablar y escuchar sin dificultad, pero con la lectura, la escritura o las cuentas no avanzo como quisiera, aunque me tome mucho tiempo."
+      ],
+      "asks": [
+       "Me ayuda que me den los textos en letra grande y con más espacio entre los renglones, o en lectura fácil.",
+       "Prefiero que lo importante me lo lean en voz alta o me lo expliquen en persona.",
+       "Me ayuda poder escribir en la computadora o en el celular, o dejar constancia con fotos o grabaciones de voz, en lugar de escribir a mano.",
+       "Me ayuda poder usar una calculadora para las cuentas.",
+       "Me ayuda que me den más tiempo para leer, escribir y hacer cuentas.",
+       "Prefiero que me den las cosas una por una y no todas a la vez."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnio",
+        "why": "Esta página dice que dormir mal se nota sobre todo en cansancio, menos energía, irritabilidad y falta de concentración.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página menciona la dificultad para concentrarse, junto con la tristeza y los cambios en el sueño y el apetito.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "En México, 3.6 millones de personas adultas padecen depresión",
+         "url": "https://www.gob.mx/salud/articulos/en-mexico-3-6-millones-de-personas-adultas-padecen-depresion",
+         "kind": "fact",
+         "upd": "2023-07-03"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Esta página menciona que cuesta sostener la atención en tareas que piden un esfuerzo continuo, y nombra los errores por descuido, los olvidos y los problemas de organización.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+         "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+         "kind": "fact",
+         "upd": "2026-07-12"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mximssb",
+       "mxconadis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes altibajos de ánimo",
+      "lead": "Cuando el ánimo sube y baja mucho y cuesta seguir el ritmo de tus propias emociones.",
+      "scenes": [
+       "Se alternan etapas de demasiada energía con etapas de ánimo tan bajo que casi no puedo moverme.",
+       "Hay etapas en las que duermo muy poco y aun así tengo mucha energía y no paro de moverme.",
+       "Se me ocurre una idea tras otra y todo se queda a medias.",
+       "En etapas de mucha euforia gasté tanto dinero que después tuve problemas.",
+       "Me irrito por cualquier cosa y me cuesta contener mis emociones.",
+       "Lo que hice cuando mi ánimo estaba muy arriba ha afectado mis relaciones o mi trabajo."
+      ],
+      "asks": [
+       "Me ayuda que me pregunten también por las etapas en las que sentí una energía fuera de lo común.",
+       "Me ayuda que se den el tiempo de repasar conmigo mis subidas y bajadas de ánimo.",
+       "Me ayuda que, antes de decisiones importantes sobre dinero o trabajo, me animen a parar y a pensar primero.",
+       "Prefiero que también se tomen en cuenta las causas físicas, incluidos el sueño, los medicamentos y el alcohol.",
+       "Si notan que algo cambió en mí respecto a lo habitual, prefiero que me lo digan sin reprocharme nada.",
+       "Me ayuda que me escuchen hasta el final, tanto cuando estoy arriba como cuando estoy abajo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipertiroidismo (la tiroides produce demasiadas hormonas)",
+        "why": "Esta página menciona palpitaciones, ansiedad, temblor de manos, sudoración e insomnio entre lo que puede presentarse con el hipertiroidismo.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "402. Mayoría de pacientes con cáncer de tiroides alcanzan sobrevida de 90%: Hospital Juárez de México",
+         "url": "https://www.gob.mx/salud/prensa/402-mayoria-de-pacientes-con-cancer-de-tiroides-alcanzan-sobrevida-de-90-hospital-juarez-de-mexico",
+         "kind": "fact",
+         "upd": "2024-09-26"
+        }
+       },
+       {
+        "name": "Falta de sueño",
+        "why": "Esta página relaciona dormir poco o tener algún trastorno del sueño con más facilidad para que aparezcan la depresión y la ansiedad.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta página lo describe como cambios fuertes del estado de ánimo que van y vienen, entre etapas de manía y etapas de depresión.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-mental-bipolar",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Consumo nocivo de alcohol",
+        "why": "Esta página relaciona el abuso del alcohol con problemas de salud física y con problemas de salud mental como la depresión y la ansiedad.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Secretaría de Salud promueve el autocuidado y la prevención frente al consumo de bebidas alcohólicas",
+         "url": "https://www.gob.mx/conasama/articulos/secretaria-de-salud-promueve-el-autocuidado-y-la-prevencion-frente-al-consumo-de-bebidas-alcoholicas",
+         "kind": "fact",
+         "upd": "2024-11-15"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página describe un estado de ánimo bajo y tristeza, con cambios en el sueño y el apetito.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "En México, 3.6 millones de personas adultas padecen depresión",
+         "url": "https://www.gob.mx/salud/articulos/en-mexico-3-6-millones-de-personas-adultas-padecen-depresion",
+         "kind": "fact",
+         "upd": "2023-07-03"
+        }
+       },
+       {
+        "name": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+        "why": "Esta página dice que tiene que ver con el desarrollo del sistema nervioso y que influye en la conducta y en el manejo de las emociones.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-por-deficit-de-atencion-e-hiperactividad",
+         "kind": "fact",
+         "upd": "2023-09-08"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conocer un nombre puede hacer que los altibajos de siempre parezcan síntomas",
+       "body": "Cuando conoces el nombre de una enfermedad o de una condición del desarrollo, un cansancio pasajero o un descuido cualquiera pueden empezar a parecerte un síntoma.\n\nLas emociones pueden cambiar cómo se sienten el cuerpo y el ánimo, y eso no es imaginación: ocurre de verdad. Pero dormir poco, el estrés, el uso del celular o lo que pasa a tu alrededor también pueden producir algo parecido.\n\nSi al leer un nombre piensas “a lo mejor es esto”, no te quedes ahí: piensa también en otras razones. Y si lo que te cuesta sigue, puedes hablar de ello tal como es, aunque no tengas un nombre para ello.",
+       "srcs": []
+      },
+      {
+       "h": "La ansiedad y el estrés forman parte de la vida de todas las personas",
+       "body": "La ansiedad es una emoción que todas las personas vivimos en algunas situaciones. A veces se vuelve tan frecuente o intensa que conviene buscar apoyo.\n\nEl estrés es una reacción natural ante situaciones difíciles. Cuando es muy intenso o dura mucho tiempo, puede afectar tu salud, tu energía y tus relaciones.\n\nPonerle nombre a lo que pasa (un diagnóstico) le toca a una persona profesional de la salud, que revisa con cuidado tu historia clínica y otros nombres que también hay que considerar.\n\nSi algo te cuesta, puedes hablar de ello tal como es, tengas o no un diagnóstico.",
+       "srcs": [
+        {
+         "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+         "title": "¿Qué te puede causar ansiedad?",
+         "url": "https://www.gob.mx/lineadelavida/articulos/que-te-puede-causar-ansiedad",
+         "kind": "fact",
+         "upd": "2026-11-03"
+        },
+        {
+         "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+         "title": "¿Cómo manejar el estrés y cuidar de ti?",
+         "url": "https://www.gob.mx/lineadelavida/articulos/como-manejar-el-estres-y-cuidar-de-ti",
+         "kind": "fact",
+         "upd": "2026-11-03"
+        },
+        {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+         "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+         "kind": "fact",
+         "upd": "2026-07-12"
+        }
+       ]
+      },
+      {
+       "h": "Puedes hablar de lo que te pasa aunque no tengas un diagnóstico",
+       "body": "Aunque no tengas un diagnóstico, puedes hablar de lo que te pasa tal como es. Cualquier persona con alguna dificultad de salud mental o de consumo de sustancias puede acudir a un CECOSAMA; cuando acudes, te asignan la primera cita disponible.\n\nSi necesitas que en la escuela o en el trabajo hagan algún cambio para ti, puedes pedirlo diciendo en qué momentos tienes dificultades y qué te ayudaría. Para las personas con discapacidad, la ley mexicana llama a estos cambios ajustes razonables y considera discriminación negarlos.\n\nLa misma ley considera discriminación difundir sin tu consentimiento información sobre tu salud física o mental.\n\nEn el trabajo, la ley prohíbe la discriminación entre personas trabajadoras por sus condiciones de salud y también negarse a contratar a alguien por ese motivo.\n\nLo que te gustaría pedir y lo que se puede hacer depende de cada situación, y se decide hablando.",
+       "srcs": [
+        {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+         "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+         "kind": "fact",
+         "upd": "2026-01-20"
+        },
+        {
+         "org": "Poder Judicial del Estado de Chiapas",
+         "title": "Ley Federal para Prevenir y Eliminar la Discriminación (última reforma publicada en el DOF el 14 de noviembre de 2025)",
+         "url": "https://poderjudicialchiapas.gob.mx/storage/legislacion/PJE-1773326023.pdf",
+         "kind": "fact",
+         "upd": "2025-11-14"
+        },
+        {
+         "org": "Poder Judicial del Estado de Guanajuato",
+         "title": "Ley Federal del Trabajo (texto vigente, última reforma publicada 14-05-2026)",
+         "url": "https://www.poderjudicial-gto.gob.mx/pdfs/Ley%20Federal%20del%20Trabajo.pdf?v=1782597375",
+         "kind": "fact",
+         "upd": "2026-05-14"
+        }
+       ]
+      },
+      {
+       "h": "Para algunos trámites se piden informes médicos u otros documentos",
+       "body": "Algunos trámites piden documentos médicos. Lo que hace falta depende de cada trámite.\n\nPara el Certificado de Discapacidad del DIF, en un Centro de Rehabilitación se pide un informe médico que describa el diagnóstico y una identificación oficial.\n\nCon ese certificado y una identificación oficial se tramita la Credencial Nacional para Personas con Discapacidad.\n\nLa Pensión para el Bienestar de las Personas con Discapacidad Permanente pide un certificado o constancia médica de una institución pública de salud federal, estatal o municipal que acredite la discapacidad permanente. Es para personas mexicanas que viven en México y cumplen los requisitos.\n\nAntes de empezar un trámite, pregunta en la oficina que corresponde qué documentos hacen falta.",
+       "srcs": [
+        {
+         "org": "Sistema Nacional para el Desarrollo Integral de la Familia (DIF) (gob.mx)",
+         "title": "Certificado de Discapacidad",
+         "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=DIF-2020-036-010-A",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Sistema Nacional para el Desarrollo Integral de la Familia (DIF) (gob.mx)",
+         "title": "Credencial Nacional para Personas con Discapacidad",
+         "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=DIF-2020-036-006-A",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría de Bienestar (gob.mx)",
+         "title": "ACUERDO por el que se emiten las Reglas de Operación del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente, para el ejercicio fiscal 2026",
+         "url": "https://www.gob.mx/cms/uploads/attachment/file/1056922/ROPS_PDP_2026.pdf",
+         "kind": "fact",
+         "upd": "2026-02-13"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie",
+       "body": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie ni para mirar a otras personas por encima del hombro.\nA algunas personas les reconforta encontrar un nombre para lo que viven. Eso es importante.\nTambién es natural querer que la gente a nuestro alrededor nos comprenda o nos trate con amabilidad.\n\nCuando quieres que te traten con amabilidad, puedes pedirlo directamente, sin necesidad de decir el nombre de ninguna enfermedad.\nSe entiende mejor si dices a la vez dos cosas: con qué tienes dificultades y qué te gustaría que hiciera la otra persona.\n\nPor ejemplo:\n“Hoy me falta energía, así que me ayuda que me hablen despacio.”\n“Si me dicen muchas cosas a la vez, me pierdo; me ayuda que me expliquen las cosas de una en una.”\n“Lo que me dicen de palabra me cuesta recordarlo; prefiero que lo importante me lo den por escrito, en papel o por correo electrónico.”\n“Los lugares con mucha gente se me hacen difíciles; me gustaría hablar en un lugar tranquilo.”\n“Necesito un poco de tiempo para responder; me ayuda que me esperen un momento.”\n“Ahora mismo tengo muchas emociones a la vez; me ayuda que primero me escuchen. Los consejos pueden venir después.”\n“Hoy no me siento bien; me ayuda que me dejen descansar un poco.”\n“Los cambios de planes repentinos me desconciertan; me ayuda que me avisen con anticipación.”\n“Cuando me hablan en voz alta me da miedo; me ayuda que me hablen con calma.”\n\nSi te cuesta decirlo bien, puedes escribirlo en un papel y entregarlo. También puedes enseñar la pantalla “Mis dificultades” con el botón “Mostrar en grande”; aparece en esta aplicación cuando eliges una preocupación y respondes a las preguntas.\nSi quieres decir el nombre de un diagnóstico que ya tienes, puedes hacerlo. También entonces, a la otra persona le ayuda saber a la vez con qué tienes dificultades y qué te gustaría que hiciera.\nA veces la otra persona no puede hacer lo que le pides por su propia situación. Entonces se puede buscar, entre las dos partes, otra manera.\n\nEn el trabajo se puede pedir con las mismas palabras: “Me cuesta seguir varias instrucciones a la vez; prefiero que me las den por escrito.”\n\nNo uses la lista de nombres de esta aplicación para dudar de las personas a tu alrededor.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre esta aplicación",
+       "body": "Esto no es un diagnóstico. Esta lista no dice si tienes una enfermedad o un trastorno. Esta aplicación no es un dispositivo médico y no sustituye la consulta con una persona profesional de la salud.\n\nTus respuestas no se envían a ningún lado ni se guardan en este dispositivo. Desaparecen al cerrar la aplicación.\n\nAplicación independiente. SOYOGI es un grupo voluntario sin fines de lucro con sede en Japón. No tiene relación con el Gobierno de México, la Secretaría de Salud, la CONASAMA, el IMSS, el ISSSTE, el IMSS-Bienestar, los gobiernos de los estados ni ninguna otra institución pública o de salud, y ninguna de ellas la recomienda ni la respalda. Los nombres de las instituciones solo indican de dónde viene la información. Los textos originales se pueden leer gratis en las páginas de cada institución.\n\nSOYOGI escribió estos contenidos con sus propias palabras a partir de páginas públicas de México. Las fuentes aparecen en cada pantalla, con la fecha que muestra cada página cuando la página la muestra. Consultado el 13 de noviembre de 2026. Los números y los horarios pueden cambiar. Los horarios son los que indica cada servicio.\n\nPedir ayuda o no es una decisión tuya, no de la aplicación.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Puedes pedir información u orientación sobre tu bienestar emocional o tu salud mental antes de que las cosas se pongan más difíciles. Pedir orientación no quiere decir necesariamente que haya un problema de salud mental.",
+      "src": {
+       "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+       "title": "Orientación y consejería",
+       "url": "https://www.gob.mx/lineadelavida/articulos/orientacion-y-consejeria",
+       "kind": "fact",
+       "upd": "2026-10-29"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Para hablar de dificultades de salud mental, puedes buscar el CECOSAMA más cercano a tu domicilio en el directorio de la CONASAMA, y llamar o acudir directamente para preguntar qué documentos necesitas para la primera cita.",
+       "src": {
+        "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+        "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+        "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+        "kind": "fact",
+        "upd": "2026-01-20"
+       }
+      },
+      {
+       "text": "Si tienes IMSS, en tu Unidad de Medicina Familiar la médica o el médico que te atiende decide si hace falta pasarte al servicio de psicología.",
+       "src": {
+        "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+        "title": "Para orientación en salud mental IMSS cuenta con especialistas en psicología en los tres niveles de atención y una línea de apoyo telefónico",
+        "url": "https://www.gob.mx/imss/prensa/para-orientacion-en-salud-mental-imss-cuenta-con-especialistas-en-psicologia-en-los-tres-niveles-de-atencion-y-una-linea-de-apoyo-telefonico",
+        "kind": "fact",
+        "upd": "2023-07-15"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre cómo se pone un nombre (un diagnóstico), una página pública de México sobre el TDAH explica:",
+      "text": "Ponerle nombre a lo que pasa le toca a una persona profesional de la salud. Para hacerlo, esa persona revisa con cuidado cómo fue tu desarrollo desde los primeros años, tu historia clínica, si hay otras condiciones al mismo tiempo y otros nombres que también hay que considerar.",
+      "src": {
+       "org": "Secretaría de Salud (gob.mx)",
+       "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+       "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+       "kind": "fact",
+       "upd": "2026-07-12"
+      }
+     }
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood is low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home do not get done.",
+       "I blame myself for everything and always think the worst.",
+       "At night I cannot sleep, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when you explain what needs to be done, one thing at a time.",
+       "I need time to think; please do not pressure me to answer or to decide.",
+       "Please give me the important things in writing.",
+       "Before telling me “Cheer up!” or “Give it your all,” please listen to me first.",
+       "Please do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypothyroidism (the thyroid makes too few hormones)",
+        "why": "This page says that when the thyroid makes fewer hormones than the body needs, the body works more slowly, and there can be a lot of tiredness, sleepiness, forgetfulness, and difficulty concentrating.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that sleep problems often go together with depression or anxiety, and that each can make the other worse.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that depression can last or come back, and can make it hard to manage work, school, home, or daily life.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Estás muy triste? Quizás tengas depresión",
+         "url": "https://www.gob.mx/conasama/articulos/estas-muy-triste-quizas-tengas-depresion",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes it as strong mood changes that come and go, between phases of mania and phases of depression.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-mental-bipolar",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Harmful use of alcohol",
+        "why": "This page links alcohol abuse with physical health problems and with mental health problems such as depression and anxiety.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Secretaría de Salud promueve el autocuidado y la prevención frente al consumo de bebidas alcohólicas",
+         "url": "https://www.gob.mx/conasama/articulos/secretaria-de-salud-promueve-el-autocuidado-y-la-prevencion-frente-al-consumo-de-bebidas-alcoholicas",
+         "kind": "fact",
+         "upd": "2024-11-15"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worries that will not go away, a racing heart and restlessness, difficulties in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or they are watching me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly beats very fast and I cannot get enough air. I worry that it will happen again, and because of that it is hard for me to leave the house.",
+       "For no clear reason, I worry about one thing after another, feel very restless, and have no strength left.",
+       "I have a hard time in places that are hard to get out of, like the subway or metro, the bus, shopping malls, or crowded places, and also when I go out of the house without company. So I try to avoid them.",
+       "Because I avoid what frightens me, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "The worries will not leave my head, and at night it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "When I speak, please give me time and do not rush me.",
+       "Please explain the plan to me in advance, and how everything will go.",
+       "Please do not ask for my opinion suddenly in front of other people, and let me answer in writing as well.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Before telling me that I worry too much, please listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (the thyroid makes too many hormones)",
+        "why": "This page mentions anxiety, palpitations, insomnia, sweating, and trembling hands among what can come with hyperthyroidism.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "402. Mayoría de pacientes con cáncer de tiroides alcanzan sobrevida de 90%: Hospital Juárez de México",
+         "url": "https://www.gob.mx/salud/prensa/402-mayoria-de-pacientes-con-cancer-de-tiroides-alcanzan-sobrevida-de-90-hospital-juarez-de-mexico",
+         "kind": "fact",
+         "upd": "2024-09-26"
+        }
+       },
+       {
+        "name": "Arrhythmias (changes in heart rhythm)",
+        "why": "This page describes arrhythmia as a change in the rhythm of the heartbeats, which can make the heart beat faster or slower than usual.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "La arritmia, padecimiento frecuente entre la población",
+         "url": "https://www.gob.mx/salud/articulos/la-arritmia-padecimiento-frecuente-entre-la-poblacion",
+         "kind": "fact",
+         "upd": "2018-12-27"
+        }
+       },
+       {
+        "name": "Caffeine and energy drinks",
+        "why": "This page mentions stress, a fast-paced lifestyle, and energy drinks, which contain a lot of caffeine, among what can suddenly bring on changes in heart rhythm.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Arritmias y bebidas energizantes",
+         "url": "https://www.gob.mx/imss/articulos/arritmias-y-bebidas-energizantes?idiom=es",
+         "kind": "fact",
+         "upd": "2024-09-23"
+        }
+       },
+       {
+        "name": "Gastrointestinal problems",
+        "why": "This page explains that stomach and intestinal discomfort can go hand in hand with anxiety.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that sleep problems often go together with depression or anxiety, and that each can make the other worse.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This page describes generalized anxiety as the anxiety that comes from many worries.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Social anxiety (social phobia)",
+        "why": "This page describes it as anxiety that comes from the fear of being thought badly of by other people.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This page names it within the group of anxiety disorders, which have feelings of anxiety and fear in common.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Tienes un ataque de pánico o sufres mucha angustia pensando que algo malo va a pasar?",
+         "url": "https://www.gob.mx/conasama/articulos/tienes-un-ataque-de-panico-o-sufres-mucha-angustia-pensando-que-algo-malo-va-a-pasar?idiom=es",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the door or the gas again and again, wash your hands, or repeat other actions, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave the house I need to check again and again whether I have closed the door or the gas valve properly; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes into my head again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not arranged, or not done, in the order I have set, I become uneasy and end up rearranging them or starting over.",
+       "Checking things takes me so long that I leave home later than planned or arrive late for my appointments and for work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop even when I try."
+      ],
+      "asks": [
+       "Please do not tell me I am exaggerating; please listen to me first.",
+       "Checking things takes me time, so it helps me when some extra time is allowed.",
+       "When plans or the steps to follow change, please let me know in advance.",
+       "Please do not point at me or laugh at me in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before we decide how to go on, please listen to my worries, and let us decide calmly together."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety disorders",
+        "why": "This page describes a group of disorders with feelings of anxiety and fear, and includes obsessive-compulsive disorder (OCD) among them.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Tienes un ataque de pánico o sufres mucha angustia pensando que algo malo va a pasar?",
+         "url": "https://www.gob.mx/conasama/articulos/tienes-un-ataque-de-panico-o-sufres-mucha-angustia-pensando-que-algo-malo-va-a-pasar?idiom=es",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       },
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page links it with excessive worries and fears that lead to compulsive behaviors, and with difficulty doing everyday activities.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "Casi el total de pacientes con trastorno obsesivo compulsivo se recuperan",
+         "url": "https://www.gob.mx/salud/prensa/casi-el-total-de-pacientes-con-trastorno-obsesivo-compulsivo-se-recuperan",
+         "kind": "fact",
+         "upd": "2016-05-29"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page describes it as a condition of the development of the nervous system, with difficulties in communication and in dealing with other people, and with repetitive behaviors and restricted interests.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del espectro autista",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-espectro-autista",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "Memories that keep coming back, sleeping badly, or tension that does not go away after a hard experience.",
+      "scenes": [
+       "Any small detail can suddenly bring back the scene and the feelings of that very hard moment.",
+       "I keep having similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a small noise or something unexpected makes me jump.",
+       "Whenever I can, I avoid the places, people and topics that remind me of it, and my daily life has been getting smaller.",
+       "It is as if something inside me had switched off, and I cannot feel the same toward my family and friends as I did before.",
+       "I blame myself more and more, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "Please do not ask me for every detail of what happened. I want to tell it at my own pace and only as far as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I prefer to avoid them.",
+       "It helps me when people do not speak to me suddenly from behind or make loud noises near me.",
+       "When talking is too hard, please let me hand you something written.",
+       "There are days when I do not sleep or when the tiredness does not go away. Please do not take that for laziness.",
+       "Please do not rush me with phrases like “Forget it” or “Get over it”, and please let me have a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Nightmare disorder",
+        "why": "This page describes long, distressing dreams that come back often and are remembered clearly.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Sleep disorders",
+        "why": "This page includes trouble falling asleep or staying asleep, sleeping too much, and problems keeping a sleep schedule.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-sueno-344894",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "PTSD (post-traumatic stress disorder)",
+        "why": "This page says it comes after a traumatic or disturbing event that can be identified.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno de estrés postraumático",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-de-estres-postraumatico",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "This page describes a group of disorders with feelings of anxiety and fear, and includes post-traumatic stress disorder among them.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Tienes un ataque de pánico o sufres mucha angustia pensando que algo malo va a pasar?",
+         "url": "https://www.gob.mx/conasama/articulos/tienes-un-ataque-de-panico-o-sufres-mucha-angustia-pensando-que-algo-malo-va-a-pasar?idiom=es",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says depression can last or come back, and can make work, school, home or daily life harder.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Estás muy triste? Quizás tengas depresión",
+         "url": "https://www.gob.mx/conasama/articulos/estas-muy-triste-quizas-tengas-depresion",
+         "kind": "fact",
+         "upd": "2023-09-05"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mxstate",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times in the night and do not sleep through until morning.",
+       "When it is time to get up I cannot manage it, and I am late for work or school again and again.",
+       "During the day a very strong sleepiness comes over me, and I almost nod off in a meeting or while driving.",
+       "My family tells me that I snore very loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and at night I feel an uncomfortable sensation in my legs that does not let me rest or sleep."
+      ],
+      "asks": [
+       "It helps me when people take the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "Please go over with me the medicines I take and my habits with coffee, alcohol and tobacco, to see what may be having an influence.",
+       "It helps me when people do not assume that it is a matter of attitude, and when my physical health and my mood are looked at as well.",
+       "I prefer to explain my sleep times with a written note showing when I go to bed and when I get up. Please take your time looking at it.",
+       "If I have to take a medicine, it helps me when someone explains in simple words how it works and what precautions come with it.",
+       "Mornings are very hard for me, so I would prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Physical illnesses",
+        "why": "This page points out that some medical conditions, such as diabetes or high blood pressure, can keep a person from sleeping well.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Para atender problemas del sueño, IMSS recomienda establecer horarios regulares para dormir.",
+         "url": "https://www.gob.mx/imss/prensa/para-atender-problemas-del-sueno-imss-recomienda-establecer-horarios-regulares-para-dormir",
+         "kind": "fact",
+         "upd": "2024-04-17"
+        }
+       },
+       {
+        "name": "Caffeine (coffee and caffeinated soft drinks)",
+        "why": "This page says that drinking a lot of coffee or caffeinated soft drinks, especially in the afternoon and at night, makes it harder to relax because of their stimulant effects.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that insomnia can also be part of various psychiatric illnesses and of other illnesses.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "This page mentions it among the sleep problems seen in specialized clinics, along with insomnia and restless legs syndrome.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Hasta 80 por ciento de los problemas para dormir se resuelve con buena higiene del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/hasta-80-por-ciento-de-los-problemas-para-dormir-se-resuelve-con-buena-higiene-del-sueno-375838",
+         "kind": "fact",
+         "upd": "2024-08-26"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page includes it among the sleep problems seen in specialized clinics, along with insomnia and sleep apnea.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Hasta 80 por ciento de los problemas para dormir se resuelve con buena higiene del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/hasta-80-por-ciento-de-los-problemas-para-dormir-se-resuelve-con-buena-higiene-del-sueno-375838",
+         "kind": "fact",
+         "upd": "2024-08-26"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "This page names it among the sleep disorders that need care from a specialist.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page links sleep problems with more depression, anxiety or irritability.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Hasta 80 por ciento de los problemas para dormir se resuelve con buena higiene del sueño",
+         "url": "https://www.gob.mx/conasama/articulos/hasta-80-por-ciento-de-los-problemas-para-dormir-se-resuelve-con-buena-higiene-del-sueno-375838",
+         "kind": "fact",
+         "upd": "2024-08-26"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop, or eating scares you.",
+      "scenes": [
+       "I do not feel like eating, and on many days food hardly goes down my throat.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel sick.",
+       "Without realizing it, I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat very few things, and I avoid many foods because the taste, smell or texture is very unpleasant to me.",
+       "Since some food got stuck in my throat or I vomited, eating scares me.",
+       "At night I eat half asleep and, in the morning, I sometimes remember nothing."
+      ],
+      "asks": [
+       "Please do not make comments about my body or my appearance.",
+       "It helps me when people do not force me to eat or rush me to do it.",
+       "When people eat in a group, it helps me when I am allowed to choose another place or another time.",
+       "I would like to be asked beforehand what I can eat and which smells or textures are hard for me.",
+       "It helps me when people explain beforehand how the appointment will go and what tests will be done.",
+       "I would rather be able to hand over in writing what is hard for me to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (the thyroid makes too many hormones)",
+        "why": "This page says that, when the thyroid makes too many hormones, there can be weight loss, anxiety and insomnia.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Hypothyroidism (the thyroid makes too few hormones)",
+        "why": "This page says that, when the thyroid makes too few hormones, there can be tiredness, sleepiness and weight gain.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Eating disorders (anorexia nervosa, bulimia nervosa, binge-eating disorder)",
+        "why": "This page describes serious and lasting disturbances in the way a person eats, with distressing thoughts and emotions, and names anorexia nervosa, bulimia nervosa and binge-eating disorder among them.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos alimenticios",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-alimenticios",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that people with eating disorders can also have depression or anxiety.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "233. Trastornos alimentarios ponen en riesgo la vida",
+         "url": "https://www.gob.mx/salud/prensa/233-trastornos-alimentarios-ponen-en-riesgo-la-vida",
+         "kind": "fact",
+         "upd": "2024-06-14"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mximssb",
+       "mxcecosama"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to give up alcohol, betting or video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going the same as before.",
+       "I can't stick to the time, the amount or the money I had set for myself for today.",
+       "I hide from people close to me that I drink, that I bet or that I play video games, or I cover it up with excuses.",
+       "I stay up late playing video games, I can't get up in the morning, and more and more often I am late for work or school, or miss it.",
+       "When I lose money on sports bets, online bets or the machines in casinos, I want to win it back and I bet again.",
+       "Even though I know my body is feeling the strain, I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when someone looks with me, step by step, at what my day-to-day life with this is like and what difficulties it brings me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me when I am told in concrete terms where I can get support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can come to the appointment with me.",
+       "I would rather be told beforehand who will hear about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "This page says that when people try to stop gambling, anxiety, insomnia or irritability can appear.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       },
+       {
+        "name": "Harmful alcohol use",
+        "why": "This page links alcohol abuse with physical health problems and with mental health problems such as depression and anxiety.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Secretaría de Salud promueve el autocuidado y la prevención frente al consumo de bebidas alcohólicas",
+         "url": "https://www.gob.mx/conasama/articulos/secretaria-de-salud-promueve-el-autocuidado-y-la-prevencion-frente-al-consumo-de-bebidas-alcoholicas",
+         "kind": "fact",
+         "upd": "2024-11-15"
+        }
+       },
+       {
+        "name": "Problems with gambling and betting (gambling addiction)",
+        "why": "This page describes it as difficulty controlling the urge to gamble and bet, which can seriously harm family, social, work and personal life.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       },
+       {
+        "name": "Gaming disorder",
+        "why": "This page describes it as loss of control over the time spent gaming and giving video games more priority than other activities.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Conasama llama a evitar desinformación sobre videojuegos y salud mental",
+         "url": "https://www.gob.mx/conasama/articulos/conasama-llama-a-evitar-desinformacion-sobre-videojuegos-y-salud-mental-376293",
+         "kind": "fact",
+         "upd": "2024-08-30"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that problems with gambling can be related to anxiety, depression, bipolar disorder or attention deficit.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page mentions attention deficit disorder among the mental health problems that can be related to gambling.",
+        "src": {
+         "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+         "title": "Alerta IMSS síntomas y riesgos de la ludopatía, adicción al juego y las apuestas",
+         "url": "https://www.gob.mx/imss/prensa/alerta-imss-sintomas-y-riesgos-de-la-ludopatia-adiccion-al-juego-y-las-apuestas?idiom=es",
+         "kind": "fact",
+         "upd": "2025-06-01"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts somewhere else without my noticing.",
+       "I can't get my work or my housework done in order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I promised, or I lose things.",
+       "If I have been on the same task for a long time, careless mistakes pile up.",
+       "It's hard for me to stay still for a long time, and I feel a restlessness that won't let me stop.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would rather be given the important things in writing.",
+       "It helps me when I am told about deadlines and appointments in good time.",
+       "It helps me when people don't ask me for many things at once, but split them into small parts.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people recognize what I have managed to do, instead of reproaching me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypothyroidism (the thyroid makes too few hormones)",
+        "why": "This page says that when the thyroid makes fewer hormones than the body needs, the body works more slowly and there can be a lot of tiredness, sleepiness, forgetfulness and trouble concentrating.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Hiper e hipotiroidismo, principales padecimientos de la glándula tiroides",
+         "url": "https://www.gob.mx/issste/prensa/hiper-e-hipotiroidismo-principales-padecimientos-de-la-glandula-tiroides",
+         "kind": "fact",
+         "upd": "2023-05-24"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page says that sleeping badly shows up mostly as tiredness, less energy, irritability and lack of concentration.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Sleep deprivation",
+        "why": "This page says that sleeping little or having a sleep disorder can affect quality of life and performance.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Sleep apnea",
+        "why": "This page mentions snoring, broken and unrefreshing sleep, headache on waking, memory problems and sleepiness during the day.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "194. Apnea de sueño, factor de riesgo para el desarrollo de obesidad y diabetes",
+         "url": "https://www.gob.mx/salud/prensa/194-apnea-de-sueno-factor-de-riesgo-para-el-desarrollo-de-obesidad-y-diabetes?idiom=es",
+         "kind": "fact",
+         "upd": "2017-05-06"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page mentions trouble concentrating, along with sadness and changes in sleep and appetite.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "En México, 3.6 millones de personas adultas padecen depresión",
+         "url": "https://www.gob.mx/salud/articulos/en-mexico-3-6-millones-de-personas-adultas-padecen-depresion",
+         "kind": "fact",
+         "upd": "2023-07-03"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page says that it affects how the brain handles attention, activity and impulses, and mentions forgetfulness, careless mistakes and problems with organization.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+         "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+         "kind": "fact",
+         "upd": "2026-07-12"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page describes it as a condition of nervous system development with difficulties in communication and in dealing with other people, and with repetitive behaviors and restricted interests.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del espectro autista",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-espectro-autista",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to pick up what the other person feels or the mood of the moment, and I often have the impression that we don't understand each other.",
+       "When I have to speak in front of other people or all eyes turn to me, I feel a lot of tension and end up avoiding it.",
+       "I can talk with people close to me, but in front of others my voice won't come out.",
+       "If my usual way of doing things, the order of the steps or the place where I keep my things changes, I feel a very strong unease.",
+       "Noises, lights and smells feel too intense to me, and places with lots of people are very hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking with them has become very difficult."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance if plans or ways of doing things change.",
+       "I would rather not be rushed, and be given time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety (social phobia)",
+        "why": "This page describes it as anxiety that comes from fear of being seen negatively by other people.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "136. Ansiedad puede evolucionar y convertirse en trastorno de salud mental",
+         "url": "https://www.gob.mx/salud/prensa/136-ansiedad-puede-evolucionar-y-convertirse-en-trastorno-de-salud-mental",
+         "kind": "fact",
+         "upd": "2024-04-04"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page says that adults with social phobia can become isolated by avoiding spending time with other people, and that depression can then appear more easily.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "073. Fobias, trastornos mentales más comunes",
+         "url": "https://www.gob.mx/salud/prensa/073-fobias-trastornos-mentales-mas-comunes",
+         "kind": "fact",
+         "upd": "2017-02-17"
+        }
+       },
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page describes it as involving very strong worries and fears, compulsive behaviors that respond to those fears, and difficulty doing everyday activities.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "Casi el total de pacientes con trastorno obsesivo compulsivo se recuperan",
+         "url": "https://www.gob.mx/salud/prensa/casi-el-total-de-pacientes-con-trastorno-obsesivo-compulsivo-se-recuperan",
+         "kind": "fact",
+         "upd": "2016-05-29"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page describes it as a condition of nervous system development with difficulties in communication and in dealing with other people, and with repetitive behaviors and restricted interests.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastornos del espectro autista",
+         "url": "https://www.gob.mx/conasama/articulos/trastornos-del-espectro-autista",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mxconapred",
+       "mxconadis"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is still hard even when you make an effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand what documents or letters say.",
+       "I have trouble with spelling: I make many mistakes, or letters or words go missing when I write.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and a lot of effort.",
+       "I get stuck on simple calculations and on problems that are set out in a text.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "It helps me when texts are given to me in large print with more space between the lines, or in Easy Read (lectura fácil).",
+       "I would rather have the important things read aloud to me or explained to me in person.",
+       "It helps me to be able to write on a computer or a cell phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "It helps me to be able to use a calculator for calculations.",
+       "It helps me when I am given more time to read, write and do calculations.",
+       "I would rather be given things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "This page says that sleeping badly shows up mainly as tiredness, less energy, irritability and lack of concentration.",
+        "src": {
+         "org": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) (gob.mx)",
+         "title": "Si la hora de dormir se convierte en una pesadilla… TRASTORNOS DEL SUEÑO",
+         "url": "https://www.gob.mx/issste/articulos/si-la-hora-de-dormir-se-convierte-en-una-pesadilla-trastornos-del-sueno?idiom=es",
+         "kind": "fact",
+         "upd": "2025-03-14"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page mentions difficulty concentrating, along with sadness and changes in sleep and appetite.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "En México, 3.6 millones de personas adultas padecen depresión",
+         "url": "https://www.gob.mx/salud/articulos/en-mexico-3-6-millones-de-personas-adultas-padecen-depresion",
+         "kind": "fact",
+         "upd": "2023-07-03"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page mentions that it is hard to keep attention on tasks that ask for continued effort, and it names careless mistakes, forgetting things and problems with organization.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+         "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+         "kind": "fact",
+         "upd": "2026-07-12"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mximssb",
+       "mxconadis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own emotions.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when my mood is so low that I can hardly move.",
+       "There are periods when I sleep very little and still have a lot of energy and cannot stop moving.",
+       "One idea after another comes to me and everything is left half done.",
+       "During periods of great euphoria I spent so much money that I had problems afterward.",
+       "I get irritated over any little thing, and I find it hard to hold back my emotions.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when people also ask me about the periods when I felt an unusual amount of energy.",
+       "It helps me when people take the time to go over my ups and downs in mood with me.",
+       "It helps me when, before important decisions about money or work, people encourage me to stop and think first.",
+       "I would rather have physical causes taken into account too, including sleep, medicines and alcohol.",
+       "If people notice that something in me has changed from how I usually am, I would rather they tell me without blaming me.",
+       "It helps me when people hear me out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroidism (the thyroid makes too many hormones)",
+        "why": "This page mentions palpitations, anxiety, trembling hands, sweating and insomnia among what can occur with hyperthyroidism.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "402. Mayoría de pacientes con cáncer de tiroides alcanzan sobrevida de 90%: Hospital Juárez de México",
+         "url": "https://www.gob.mx/salud/prensa/402-mayoria-de-pacientes-con-cancer-de-tiroides-alcanzan-sobrevida-de-90-hospital-juarez-de-mexico",
+         "kind": "fact",
+         "upd": "2024-09-26"
+        }
+       },
+       {
+        "name": "Lack of sleep",
+        "why": "This page links sleeping little or having a sleep disorder to depression and anxiety appearing more easily.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "138. Trastornos del sueño aumentan riesgo de enfermedades: Secretaría de Salud",
+         "url": "https://www.gob.mx/salud/prensa/138-trastornos-del-sueno-aumentan-riesgo-de-enfermedades-secretaria-de-salud",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page describes it as strong mood changes that come and go, between periods of mania and periods of depression.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno bipolar",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-mental-bipolar",
+         "kind": "fact",
+         "upd": "2023-09-11"
+        }
+       },
+       {
+        "name": "Harmful alcohol use",
+        "why": "This page links alcohol abuse to physical health problems and to mental health problems such as depression and anxiety.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Secretaría de Salud promueve el autocuidado y la prevención frente al consumo de bebidas alcohólicas",
+         "url": "https://www.gob.mx/conasama/articulos/secretaria-de-salud-promueve-el-autocuidado-y-la-prevencion-frente-al-consumo-de-bebidas-alcoholicas",
+         "kind": "fact",
+         "upd": "2024-11-15"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page describes a low mood and sadness, with changes in sleep and appetite.",
+        "src": {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "En México, 3.6 millones de personas adultas padecen depresión",
+         "url": "https://www.gob.mx/salud/articulos/en-mexico-3-6-millones-de-personas-adultas-padecen-depresion",
+         "kind": "fact",
+         "upd": "2023-07-03"
+        }
+       },
+       {
+        "name": "ADHD (attention-deficit/hyperactivity disorder)",
+        "why": "This page says it has to do with the development of the nervous system and that it influences behavior and the handling of emotions.",
+        "src": {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "Trastorno por Déficit de Atención e Hiperactividad",
+         "url": "https://www.gob.mx/conasama/articulos/trastorno-por-deficit-de-atencion-e-hiperactividad",
+         "kind": "fact",
+         "upd": "2023-09-08"
+        }
+       }
+      ],
+      "windows": [
+       "mxprimer",
+       "mxcecosama",
+       "mximssb"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs look like symptoms",
+       "body": "When you know the name of an illness or of a developmental condition, a passing tiredness or an everyday slip can start to look like a symptom to you.\n\nFeelings can change how your body and your mood feel, and that is not imagination: it really happens. But sleeping little, stress, cell phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe it is this,” do not stop there: think of other reasons too. And if what is hard for you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Anxiety and stress are part of everyone's life",
+       "body": "Anxiety is an emotion that all of us feel in some situations. Sometimes it becomes so frequent or so intense that it is a good idea to look for support.\n\nStress is a natural reaction to difficult situations. When it is very intense or lasts a long time, it can affect your health, your energy and your relationships.\n\nGiving a name to what is happening (a diagnosis) is a job for a health professional, who carefully reviews your medical history and other names that also have to be considered.\n\nIf something is hard for you, you can talk about it as it is, whether or not you have a diagnosis.",
+       "srcs": [
+        {
+         "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+         "title": "¿Qué te puede causar ansiedad?",
+         "url": "https://www.gob.mx/lineadelavida/articulos/que-te-puede-causar-ansiedad",
+         "kind": "fact",
+         "upd": "2026-11-03"
+        },
+        {
+         "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+         "title": "¿Cómo manejar el estrés y cuidar de ti?",
+         "url": "https://www.gob.mx/lineadelavida/articulos/como-manejar-el-estres-y-cuidar-de-ti",
+         "kind": "fact",
+         "upd": "2026-11-03"
+        },
+        {
+         "org": "Secretaría de Salud (gob.mx)",
+         "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+         "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+         "kind": "fact",
+         "upd": "2026-07-12"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is happening to you even without a diagnosis",
+       "body": "Even without a diagnosis, you can talk about what is happening to you as it is. Anyone with a mental health or substance use difficulty can go to a CECOSAMA; when you go, you are given the first available appointment.\n\nIf you need your school or your workplace to make some change for you, you can ask for it by saying when you have difficulties and what would help you. For people with disabilities, Mexican law calls these changes reasonable adjustments (ajustes razonables) and considers refusing them to be discrimination.\n\nThe same law considers it discrimination to spread information about your physical or mental health without your consent.\n\nAt work, the law prohibits discrimination between workers because of their health conditions, and also refusing to hire someone for that reason.\n\nWhat you would like to ask for and what can be done depend on each situation, and are decided by talking.",
+       "srcs": [
+        {
+         "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+         "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+         "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+         "kind": "fact",
+         "upd": "2026-01-20"
+        },
+        {
+         "org": "Poder Judicial del Estado de Chiapas",
+         "title": "Ley Federal para Prevenir y Eliminar la Discriminación (última reforma publicada en el DOF el 14 de noviembre de 2025)",
+         "url": "https://poderjudicialchiapas.gob.mx/storage/legislacion/PJE-1773326023.pdf",
+         "kind": "fact",
+         "upd": "2025-11-14"
+        },
+        {
+         "org": "Poder Judicial del Estado de Guanajuato",
+         "title": "Ley Federal del Trabajo (texto vigente, última reforma publicada 14-05-2026)",
+         "url": "https://www.poderjudicial-gto.gob.mx/pdfs/Ley%20Federal%20del%20Trabajo.pdf?v=1782597375",
+         "kind": "fact",
+         "upd": "2026-05-14"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for medical reports or other documents",
+       "body": "Some procedures ask for medical documents. What is needed depends on each procedure.\n\nFor the DIF Certificado de Discapacidad (disability certificate), a Centro de Rehabilitación (rehabilitation center) asks for a government-issued ID and a medical report that describes the diagnosis.\n\nWith that certificate and a government-issued ID, you apply for the Credencial Nacional para Personas con Discapacidad (national card for people with disabilities).\n\nThe Pensión para el Bienestar de las Personas con Discapacidad Permanente (pension for people with a permanent disability) asks for a medical certificate or statement from a federal, state or municipal public health institution that shows the permanent disability. It is for Mexican nationals who live in Mexico and meet the requirements.\n\nBefore starting a procedure, ask the relevant office which documents are needed.",
+       "srcs": [
+        {
+         "org": "Sistema Nacional para el Desarrollo Integral de la Familia (DIF) (gob.mx)",
+         "title": "Certificado de Discapacidad",
+         "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=DIF-2020-036-010-A",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Sistema Nacional para el Desarrollo Integral de la Familia (DIF) (gob.mx)",
+         "title": "Credencial Nacional para Personas con Discapacidad",
+         "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=DIF-2020-036-006-A",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría de Bienestar (gob.mx)",
+         "title": "ACUERDO por el que se emiten las Reglas de Operación del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente, para el ejercicio fiscal 2026",
+         "url": "https://www.gob.mx/cms/uploads/attachment/file/1056922/ROPS_PDP_2026.pdf",
+         "kind": "fact",
+         "upd": "2026-02-13"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nSome people feel comforted when they find a name for what they are living through. That matters.\nIt is also natural to want the people around us to understand us or to be kind to us.\n\nWhen you want people to be kind to you, you can ask for it directly, without needing to say the name of any illness.\nIt is understood better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have no energy today, so it helps me when people speak slowly.”\n“If I am told many things at once, I get lost; it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told in words; I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me; I would like to talk in a quiet place.”\n“I need a little time to answer; it helps me when people wait a moment.”\n“Right now I have many emotions at once; it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today; it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off; it helps me when I am told in advance.”\n“When people speak to me loudly I get scared; it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to say the name of a diagnosis you already have, you can. Then too, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then the two of you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.”\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Government of Mexico, the Secretaría de Salud, CONASAMA, the IMSS, the ISSSTE, IMSS-Bienestar, the state governments or any other public or health institution, and none of them has recommended or supported this app. The names of the institutions only show where the information comes from. The original texts can be read free of charge on the pages of each institution.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Mexico. This English version does not quote those pages word for word. Sources are shown on each screen, with the date the page shows, when the page shows one. Checked on 13 November 2026. Numbers and hours may change. The hours are those given by each service.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "You can ask for information or guidance about your emotional well-being or your mental health before things get harder. Asking for guidance does not necessarily mean that there is a mental health problem.",
+      "src": {
+       "org": "La Línea de la Vida, CONASAMA (gob.mx)",
+       "title": "Orientación y consejería",
+       "url": "https://www.gob.mx/lineadelavida/articulos/orientacion-y-consejeria",
+       "kind": "fact",
+       "upd": "2026-10-29"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "To talk about mental health difficulties, you can look for the CECOSAMA nearest to your home in the CONASAMA directory, and call or go in person to ask which documents you need for the first appointment.",
+       "src": {
+        "org": "Comisión Nacional de Salud Mental y Adicciones (CONASAMA) (gob.mx)",
+        "title": "¿Qué son los Centros Comunitarios de Salud Mental y Adicciones?",
+        "url": "https://www.gob.mx/conasama/articulos/que-son-los-centros-comunitarios-de-salud-mental-y-adicciones",
+        "kind": "fact",
+        "upd": "2026-01-20"
+       }
+      },
+      {
+       "text": "If you have IMSS, at your Family Medicine Unit the doctor who sees you decides whether you need to be referred to the psychology service.",
+       "src": {
+        "org": "Instituto Mexicano del Seguro Social (IMSS) (gob.mx)",
+        "title": "Para orientación en salud mental IMSS cuenta con especialistas en psicología en los tres niveles de atención y una línea de apoyo telefónico",
+        "url": "https://www.gob.mx/imss/prensa/para-orientacion-en-salud-mental-imss-cuenta-con-especialistas-en-psicologia-en-los-tres-niveles-de-atencion-y-una-linea-de-apoyo-telefonico",
+        "kind": "fact",
+        "upd": "2023-07-15"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "On how a name (a diagnosis) is given, a public page in Mexico about ADHD explains:",
+      "text": "Giving a name to what is happening is a job for a health professional. To do so, that person carefully reviews how your development went from your early years, your medical history, whether other conditions are present at the same time, and other names that also have to be considered.",
+      "src": {
+       "org": "Secretaría de Salud (gob.mx)",
+       "title": "178. Diagnóstico oportuno y tratamiento adecuado pueden cambiar la trayectoria de vida de personas con TDAH",
+       "url": "https://www.gob.mx/salud/prensa/178-diagnostico-oportuno-y-tratamiento-adecuado-pueden-cambiar-la-trayectoria-de-vida-de-personas-con-tdah",
+       "kind": "fact",
+       "upd": "2026-07-12"
+      }
+     }
     }
    }
   }
