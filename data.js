@@ -1,7 +1,7 @@
 'use strict';
 /* 困りごとから相談へ・そよぎ 中身のデータ(window.KOMARI_DATA)
    🔴🔴 このファイルは手で書かない。_make_data.js が照合済みの正本から作る(node _make_data.js)。
-      正本 = 国ごとのフォルダ(_countries.js の src)の <id>_final.json と common_final.json(2026-10-17 照合)
+      正本 = 国ごとのフォルダ(_countries.js の src)の <id>_final.json と common_final.json(2026-11-17 照合)
    ・画面の操作文言は i18n.js、中身(窓口・まとまり・名前・出典・知っておきたいこと)はここ(SPEC_V1 第6節)
    ・国の箱の中のことばは同じ構造。src = { org, title, url, kind:'quote'|'summary'|'fact' }。窓口の出典は <ことば>.src(src は main のことばと同じ)
    ・groups.<id>.windows = 結果の相談先で先に並べる窓口(固定・答えで変えない)・crisis = 「いま つらいときは」を出す場面の番号
@@ -10,7 +10,7 @@
    ・多国籍版(SPEC_V1 第9節): { ver, order, countries:[...], c:{ <国>:{ id, name, langs, main, fallback, srcLang, freeHosts, ver, order, links, windows, <ことば>:{ groups, common } } } }。
      画面は KOMARI_UI.data() で、いま選んでいる国の箱だけを見る */
 window.KOMARI_DATA = {
- "ver": "2026-10-17",
+ "ver": "2026-11-17",
  "order": [
   "mood",
   "anxiety",
@@ -86,7 +86,7 @@ window.KOMARI_DATA = {
     "hattatsu.go.jp",
     "iryou.teikyouseido.mhlw.go.jp"
    ],
-   "ver": "2026-10-17",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -3232,7 +3232,7 @@ window.KOMARI_DATA = {
     "odphp.health.gov",
     "ed.gov"
    ],
-   "ver": "2026-10-17",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -3336,7 +3336,7 @@ window.KOMARI_DATA = {
      "linkOk": false,
      "en": {
       "name": "National Domestic Violence Hotline",
-      "desc": "For people experiencing domestic violence and their families. Call, or chat at thehotline.org. Help is available in 170 languages. The second number (1-800-787-3224) is for TTY.",
+      "desc": "For people experiencing domestic violence and their families. Call, or chat at thehotline.org. Help is available in 240 languages. The second number (1-800-787-3224) is for TTY.",
       "hours": "24 hours a day, 7 days a week. Free.",
       "src": {
        "org": "Office of Family Violence Prevention and Services, U.S. Department of Health and Human Services",
@@ -4933,7 +4933,7 @@ window.KOMARI_DATA = {
     "info.gouv.fr",
     "monparcourshandicap.gouv.fr"
    ],
-   "ver": "2026-10-17",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -5045,7 +5045,7 @@ window.KOMARI_DATA = {
        "title": "Les lignes d’écoute",
        "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
        "kind": "fact",
-       "upd": "2026-09-15"
+       "upd": "2026-11-16"
       }
      },
      "en": {
@@ -5057,7 +5057,7 @@ window.KOMARI_DATA = {
        "title": "Les lignes d’écoute",
        "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
        "kind": "fact",
-       "upd": "2026-09-15"
+       "upd": "2026-11-16"
       }
      },
      "src": {
@@ -5065,7 +5065,7 @@ window.KOMARI_DATA = {
       "title": "Les lignes d’écoute",
       "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
       "kind": "fact",
-      "upd": "2026-09-15"
+      "upd": "2026-11-16"
      }
     },
     {
@@ -5084,7 +5084,7 @@ window.KOMARI_DATA = {
        "title": "Les lignes d’écoute",
        "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
        "kind": "fact",
-       "upd": "2026-09-15"
+       "upd": "2026-11-16"
       }
      },
      "en": {
@@ -5096,7 +5096,7 @@ window.KOMARI_DATA = {
        "title": "Les lignes d’écoute",
        "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
        "kind": "fact",
-       "upd": "2026-09-15"
+       "upd": "2026-11-16"
       }
      },
      "src": {
@@ -5104,7 +5104,7 @@ window.KOMARI_DATA = {
       "title": "Les lignes d’écoute",
       "url": "https://www.psycom.org/sorienter/les-lignes-decoute/",
       "kind": "fact",
-      "upd": "2026-09-15"
+      "upd": "2026-11-16"
      }
     },
     {
@@ -8318,7 +8318,7 @@ window.KOMARI_DATA = {
    "adaptHosts": [
     "gesetze-im-internet.de"
    ],
-   "ver": "2026-10-21",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -8735,32 +8735,32 @@ window.KOMARI_DATA = {
      "linkOk": false,
      "de": {
       "name": "Sucht & Drogen Hotline",
-      "desc": "Telefonische Beratung für Menschen mit Suchtproblemen und für Angehörige, Freundinnen, Freunde oder Kolleginnen und Kollegen. Erfahrene Fachkräfte aus der Drogen- und Suchthilfe informieren, beraten und vermitteln an Hilfsangebote vor Ort. Ein gemeinsames Angebot der Drogennotrufe aus Frankfurt am Main und München; das BIÖG stellt das organisatorische Dach.",
+      "desc": "Telefonische Beratung für Menschen mit Suchtproblemen und für Angehörige, Freundinnen, Freunde oder Kolleginnen und Kollegen. Erfahrene Fachkräfte aus der Drogen- und Suchthilfe informieren, beraten und vermitteln an Hilfsangebote vor Ort. Ein gemeinsames Angebot der Drogennotrufe aus Frankfurt am Main und München unter der Schirmherrschaft des Drogenbeauftragten der Bundesregierung.",
       "hours": "Täglich 8 bis 24 Uhr. Kostenpflichtig: 0,20 € pro Anruf aus dem Festnetz und aus dem Mobilfunknetz.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-       "title": "Sucht & Drogen Hotline",
-       "url": "https://www.bioeg.de/service/beratungsangebote/sucht-drogen-hotline/",
+       "title": "BIÖG: Sucht",
+       "url": "https://www.bioeg.de/service/beratungsangebote/sucht/",
        "kind": "fact",
        "upd": "none"
       }
      },
      "en": {
       "name": "Sucht & Drogen Hotline (addiction and drugs helpline)",
-      "desc": "Telephone advice for people with addiction problems and for relatives, friends or colleagues. Experienced specialists from drug and addiction services inform, advise and refer to local services. A joint service of the drug emergency services of Frankfurt am Main and Munich; the BIÖG provides the organizational umbrella.",
+      "desc": "Telephone advice for people with addiction problems and for relatives, friends or colleagues. Experienced specialists from drug and addiction services inform, advise and refer to local services. A joint service of the drug emergency services of Frankfurt am Main and Munich, under the patronage of the Federal Government Commissioner for Drugs.",
       "hours": "Daily 8 a.m. to midnight. There is a charge: 0.20 euros per call from a landline and from a mobile network.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-       "title": "Sucht & Drogen Hotline",
-       "url": "https://www.bioeg.de/service/beratungsangebote/sucht-drogen-hotline/",
+       "title": "BIÖG: Sucht",
+       "url": "https://www.bioeg.de/service/beratungsangebote/sucht/",
        "kind": "fact",
        "upd": "none"
       }
      },
      "src": {
       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-      "title": "Sucht & Drogen Hotline",
-      "url": "https://www.bioeg.de/service/beratungsangebote/sucht-drogen-hotline/",
+      "title": "BIÖG: Sucht",
+      "url": "https://www.bioeg.de/service/beratungsangebote/sucht/",
       "kind": "fact",
       "upd": "none"
      }
@@ -8817,8 +8817,8 @@ window.KOMARI_DATA = {
       "hours": "Montag bis Donnerstag 10 bis 22 Uhr, Freitag bis Sonntag 10 bis 18 Uhr.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-       "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
-       "url": "https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/",
+       "title": "BIÖG: Sucht",
+       "url": "https://www.bioeg.de/service/beratungsangebote/sucht/",
        "kind": "fact",
        "upd": "none"
       }
@@ -8829,16 +8829,16 @@ window.KOMARI_DATA = {
       "hours": "Monday to Thursday 10 a.m. to 10 p.m., Friday to Sunday 10 a.m. to 6 p.m.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-       "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
-       "url": "https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/",
+       "title": "BIÖG: Sucht",
+       "url": "https://www.bioeg.de/service/beratungsangebote/sucht/",
        "kind": "fact",
        "upd": "none"
       }
      },
      "src": {
       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-      "title": "BIÖG-Telefonberatung zur Glücksspielsucht",
-      "url": "https://www.bioeg.de/service/beratungsangebote/gluecksspielsucht/",
+      "title": "BIÖG: Sucht",
+      "url": "https://www.bioeg.de/service/beratungsangebote/sucht/",
       "kind": "fact",
       "upd": "none"
      }
@@ -8851,24 +8851,24 @@ window.KOMARI_DATA = {
      "url": "",
      "linkOk": false,
      "de": {
-      "name": "BIÖG-Infotelefon zu Essstörungen",
-      "desc": "Information und Beratung rund ums Essen für Betroffene, Angehörige und Interessierte. Das Infotelefon nennt auch Adressen von Beratungsstellen und Einrichtungen.",
+      "name": "BIÖG-Beratungstelefon zu Essstörungen",
+      "desc": "Information und Beratung rund ums Essen für Betroffene, Angehörige und Interessierte. Das Beratungstelefon nennt auch Adressen von Beratungsstellen und Einrichtungen.",
       "hours": "Montag bis Donnerstag 10 bis 22 Uhr, Freitag bis Sonntag 10 bis 18 Uhr. Kosten wie ein Anruf ins deutsche Festnetz.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-       "title": "Das BIÖG - Infotelefon zu Essstörungen",
+       "title": "BIÖG: Essstörungen",
        "url": "https://www.bioeg.de/service/beratungsangebote/essstoerungen/",
        "kind": "fact",
        "upd": "none"
       }
      },
      "en": {
-      "name": "BIÖG information line on eating disorders",
-      "desc": "Information and advice about eating, for people affected, relatives and anyone interested. The information line also gives addresses of advice centers and institutions.",
+      "name": "BIÖG advice line on eating disorders",
+      "desc": "Information and advice about eating, for people affected, relatives and anyone interested. The advice line also gives addresses of advice centers and institutions.",
       "hours": "Monday to Thursday 10 a.m. to 10 p.m., Friday to Sunday 10 a.m. to 6 p.m. The cost is the same as for a call to a German landline.",
       "src": {
        "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-       "title": "Das BIÖG - Infotelefon zu Essstörungen",
+       "title": "BIÖG: Essstörungen",
        "url": "https://www.bioeg.de/service/beratungsangebote/essstoerungen/",
        "kind": "fact",
        "upd": "none"
@@ -8876,7 +8876,7 @@ window.KOMARI_DATA = {
      },
      "src": {
       "org": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
-      "title": "Das BIÖG - Infotelefon zu Essstörungen",
+      "title": "BIÖG: Essstörungen",
       "url": "https://www.bioeg.de/service/beratungsangebote/essstoerungen/",
       "kind": "fact",
       "upd": "none"
@@ -11756,7 +11756,7 @@ window.KOMARI_DATA = {
     "imserso.es": "Fuente: Sitio web del Imserso: www.imserso.es"
    },
    "factRef": true,
-   "ver": "2026-10-23",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -14739,7 +14739,7 @@ window.KOMARI_DATA = {
     "ciz.nl": "Bron: CIZ, www.ciz.nl"
    },
    "factRef": true,
-   "ver": "2026-10-28",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -17728,7 +17728,7 @@ window.KOMARI_DATA = {
     "mogef.go.kr"
    ],
    "factRef": true,
-   "ver": "2026-10-29",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -20916,7 +20916,7 @@ window.KOMARI_DATA = {
     "nfa.gov.tw": "此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出。政府資料開放授權條款：https://data.gov.tw/license"
    },
    "factRef": true,
-   "ver": "2026-10-29",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -21301,7 +21301,7 @@ window.KOMARI_DATA = {
        "title": "諮詢服務專線",
        "url": "https://www.mohw.gov.tw/cp-23-135-1.html",
        "kind": "summary",
-       "upd": "114-06-23"
+       "upd": "115-11-16"
       }
      },
      "en": {
@@ -21313,7 +21313,7 @@ window.KOMARI_DATA = {
        "title": "諮詢服務專線",
        "url": "https://www.mohw.gov.tw/cp-23-135-1.html",
        "kind": "summary",
-       "upd": "114-06-23"
+       "upd": "115-11-16"
       }
      },
      "src": {
@@ -21321,7 +21321,7 @@ window.KOMARI_DATA = {
       "title": "諮詢服務專線",
       "url": "https://www.mohw.gov.tw/cp-23-135-1.html",
       "kind": "summary",
-      "upd": "114-06-23"
+      "upd": "115-11-16"
      }
     },
     {
@@ -23868,7 +23868,7 @@ window.KOMARI_DATA = {
     "governo.it": "Contenuto rilasciato con licenza Creative Commons Attribuzione 3.0 (CC BY 3.0): https://creativecommons.org/licenses/by/3.0/it/"
    },
    "factRef": true,
-   "ver": "2026-10-29",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -26883,7 +26883,7 @@ window.KOMARI_DATA = {
     "rkrattsbaser.gov.se"
    ],
    "factRef": true,
-   "ver": "2026-11-01",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -27528,7 +27528,7 @@ window.KOMARI_DATA = {
     {
      "id": "sedo",
      "band": "day",
-     "tel": "081202070",
+     "tel": "0812020700",
      "tel2": "",
      "url": "",
      "linkOk": false,
@@ -28958,7 +28958,7 @@ window.KOMARI_DATA = {
         {
          "org": "Karolinska Institutet",
          "title": "Ansök om stöd när du studerar med funktionsnedsättning",
-         "url": "https://utbildning.ki.se/ansok-om-stod-nar-du-studerar-med-funktionsvariation",
+         "url": "https://utbildning.ki.se/student-pa-ki/stod-resurser/studera-med-funktionsnedsattning/ansok-om-stod-nar-du-studerar-med-funktionsnedsattning",
          "kind": "fact",
          "upd": "2026-09-07"
         },
@@ -30226,7 +30226,7 @@ window.KOMARI_DATA = {
         {
          "org": "Karolinska Institutet",
          "title": "Ansök om stöd när du studerar med funktionsnedsättning",
-         "url": "https://utbildning.ki.se/ansok-om-stod-nar-du-studerar-med-funktionsvariation",
+         "url": "https://utbildning.ki.se/student-pa-ki/stod-resurser/studera-med-funktionsnedsattning/ansok-om-stod-nar-du-studerar-med-funktionsnedsattning",
          "kind": "fact",
          "upd": "2026-09-07"
         },
@@ -30331,7 +30331,7 @@ window.KOMARI_DATA = {
     "gov.br": "CC BY-ND 3.0: https://creativecommons.org/licenses/by-nd/3.0/"
    },
    "factRef": true,
-   "ver": "2026-11-01",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -30946,9 +30946,9 @@ window.KOMARI_DATA = {
       "desc": "Segundo a Constituição, a Defensoria Pública oferece orientação jurídica gratuita aos necessitados, e o Estado presta assistência jurídica gratuita a quem comprova que não tem recursos. Há a Defensoria Pública da União e as Defensorias dos estados.",
       "hours": "",
       "src": {
-       "org": "Câmara dos Deputados (texto atualizado da legislação)",
+       "org": "Senado Federal (Legislação Federal, texto compilado)",
        "title": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (art. 134; art. 5º, LXXIV)",
-       "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+       "url": "https://legis.senado.leg.br/norma/579494/publicacao/16434817",
        "kind": "summary",
        "upd": "none"
       }
@@ -30958,17 +30958,17 @@ window.KOMARI_DATA = {
       "desc": "According to the Constitution, the Defensoria Pública offers free legal guidance to people in need, and the State provides free legal assistance to anyone who shows they have no resources. There are the Defensoria Pública da União and the Defensorias of the states.",
       "hours": "",
       "src": {
-       "org": "Câmara dos Deputados (texto atualizado da legislação)",
+       "org": "Senado Federal (Legislação Federal, texto compilado)",
        "title": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (art. 134; art. 5º, LXXIV)",
-       "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+       "url": "https://legis.senado.leg.br/norma/579494/publicacao/16434817",
        "kind": "summary",
        "upd": "none"
       }
      },
      "src": {
-      "org": "Câmara dos Deputados (texto atualizado da legislação)",
+      "org": "Senado Federal (Legislação Federal, texto compilado)",
       "title": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL (art. 134; art. 5º, LXXIV)",
-      "url": "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html",
+      "url": "https://legis.senado.leg.br/norma/579494/publicacao/16434817",
       "kind": "summary",
       "upd": "none"
      }
@@ -31949,9 +31949,9 @@ window.KOMARI_DATA = {
          "upd": "14/07/2026"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 4º, § 1º)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "url": "https://legis.senado.leg.br/norma/584958/publicacao/34619049",
          "kind": "summary",
          "upd": "none"
         }
@@ -31969,9 +31969,9 @@ window.KOMARI_DATA = {
          "upd": "11/03/2025"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 8.213, DE 24 DE JULHO DE 1991 (art. 59)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html",
+         "url": "https://legis.senado.leg.br/norma/550089/publicacao/34619956",
          "kind": "summary",
          "upd": "none"
         },
@@ -31990,23 +31990,23 @@ window.KOMARI_DATA = {
          "upd": "23/06/2023"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 8.742, DE 7 DE DEZEMBRO DE 1993 (art. 20, § 6º)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/1993/lei-8742-7-dezembro-1993-363163-normaatualizada-pl.html",
+         "url": "https://legis.senado.leg.br/norma/550618/publicacao/34620023",
          "kind": "summary",
          "upd": "none"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 12.764, DE 27 DE DEZEMBRO DE 2012 (art. 3º-A, § 1º)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.html",
+         "url": "https://legis.senado.leg.br/norma/588140/publicacao/34619088",
          "kind": "summary",
          "upd": "none"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 30, V)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "url": "https://legis.senado.leg.br/norma/584958/publicacao/34619049",
          "kind": "summary",
          "upd": "none"
         }
@@ -32917,9 +32917,9 @@ window.KOMARI_DATA = {
          "upd": "14/07/2026"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 4º, § 1º)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "url": "https://legis.senado.leg.br/norma/584958/publicacao/34619049",
          "kind": "summary",
          "upd": "none"
         }
@@ -32937,9 +32937,9 @@ window.KOMARI_DATA = {
          "upd": "11/03/2025"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 8.213, DE 24 DE JULHO DE 1991 (art. 59)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html",
+         "url": "https://legis.senado.leg.br/norma/550089/publicacao/34619956",
          "kind": "summary",
          "upd": "none"
         },
@@ -32958,23 +32958,23 @@ window.KOMARI_DATA = {
          "upd": "23/06/2023"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 8.742, DE 7 DE DEZEMBRO DE 1993 (art. 20, § 6º)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/1993/lei-8742-7-dezembro-1993-363163-normaatualizada-pl.html",
+         "url": "https://legis.senado.leg.br/norma/550618/publicacao/34620023",
          "kind": "summary",
          "upd": "none"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 12.764, DE 27 DE DEZEMBRO DE 2012 (art. 3º-A, § 1º)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.html",
+         "url": "https://legis.senado.leg.br/norma/588140/publicacao/34619088",
          "kind": "summary",
          "upd": "none"
         },
         {
-         "org": "Câmara dos Deputados (texto atualizado da legislação)",
+         "org": "Senado Federal (Legislação Federal, texto compilado)",
          "title": "LEI Nº 13.146, DE 6 DE JULHO DE 2015 (art. 30, V)",
-         "url": "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13146-6-julho-2015-781174-normaatualizada-pl.pdf",
+         "url": "https://legis.senado.leg.br/norma/584958/publicacao/34619049",
          "kind": "summary",
          "upd": "none"
         }
@@ -33060,7 +33060,7 @@ window.KOMARI_DATA = {
    "adaptHosts": [],
    "srcNote": {},
    "factRef": true,
-   "ver": "2026-11-04",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -35041,7 +35041,7 @@ window.KOMARI_DATA = {
     }
    },
    "factRef": true,
-   "ver": "2026-11-07",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -36823,7 +36823,7 @@ window.KOMARI_DATA = {
     "humanrights.gov.au": "© Australian Human Rights Commission 2026. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
    },
    "factRef": true,
-   "ver": "2026-11-07",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -38465,7 +38465,7 @@ window.KOMARI_DATA = {
     "msd.govt.nz": "© Crown copyright, Ministry of Social Development. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
    },
    "factRef": true,
-   "ver": "2026-11-07",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -39747,7 +39747,7 @@ window.KOMARI_DATA = {
     "citizensinformation.ie": "Contains Irish Public Sector Data licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence: https://creativecommons.org/licenses/by/4.0/"
    },
    "factRef": true,
-   "ver": "2026-11-12",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -41136,7 +41136,7 @@ window.KOMARI_DATA = {
     "oesterreich.gv.at": "CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode.de"
    },
    "factRef": true,
-   "ver": "2026-11-12",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -44185,7 +44185,7 @@ window.KOMARI_DATA = {
     }
    },
    "factRef": true,
-   "ver": "2026-11-13",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -45395,7 +45395,7 @@ window.KOMARI_DATA = {
        "title": "Contactez la Commission",
        "url": "https://www.ccdp-chrc.gc.ca/contactez-la-commission",
        "kind": "fact",
-       "upd": "2026-11-12"
+       "upd": "2026-11-16"
       }
      },
      "en": {
@@ -45407,7 +45407,7 @@ window.KOMARI_DATA = {
        "title": "Contactez la Commission",
        "url": "https://www.ccdp-chrc.gc.ca/contactez-la-commission",
        "kind": "fact",
-       "upd": "2026-11-12"
+       "upd": "2026-11-16"
       }
      },
      "src": {
@@ -45415,7 +45415,7 @@ window.KOMARI_DATA = {
       "title": "Contactez la Commission",
       "url": "https://www.ccdp-chrc.gc.ca/contactez-la-commission",
       "kind": "fact",
-      "upd": "2026-11-12"
+      "upd": "2026-11-16"
      }
     },
     {
@@ -46215,7 +46215,7 @@ window.KOMARI_DATA = {
          "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
          "url": "https://www.ccdp-chrc.gc.ca/node/771",
          "kind": "fact",
-         "upd": "2026-11-12"
+         "upd": "2026-11-16"
         },
         {
          "org": "Commission ontarienne des droits de la personne (CODP)",
@@ -46263,7 +46263,7 @@ window.KOMARI_DATA = {
          "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
          "url": "https://www.ccdp-chrc.gc.ca/node/771",
          "kind": "fact",
-         "upd": "2026-11-12"
+         "upd": "2026-11-16"
         }
        ]
       },
@@ -47076,7 +47076,7 @@ window.KOMARI_DATA = {
          "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
          "url": "https://www.ccdp-chrc.gc.ca/node/771",
          "kind": "fact",
-         "upd": "2026-11-12"
+         "upd": "2026-11-16"
         },
         {
          "org": "Commission ontarienne des droits de la personne (CODP)",
@@ -47124,7 +47124,7 @@ window.KOMARI_DATA = {
          "title": "Mesures d'adaptation en milieu de travail - Un guide pour les milieux de travail sous réglementation fédérale",
          "url": "https://www.ccdp-chrc.gc.ca/node/771",
          "kind": "fact",
-         "upd": "2026-11-12"
+         "upd": "2026-11-16"
         }
        ]
       },
@@ -47213,7 +47213,7 @@ window.KOMARI_DATA = {
     "files.diariodarepublica.pt"
    ],
    "factRef": true,
-   "ver": "2026-11-13",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
@@ -49460,7 +49460,7 @@ window.KOMARI_DATA = {
    "freeHosts": [],
    "adaptHosts": [],
    "factRef": true,
-   "ver": "2026-11-13",
+   "ver": "2026-11-17",
    "order": [
     "mood",
     "anxiety",
