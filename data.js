@@ -44,7 +44,11 @@ window.KOMARI_DATA = {
   "at",
   "ca",
   "pt",
-  "mx"
+  "mx",
+  "sg",
+  "hk",
+  "ae",
+  "cl"
  ],
  "c": {
   "jp": {
@@ -56,9 +60,11 @@ window.KOMARI_DATA = {
     "de": "Japan",
     "es": "Japón",
     "esmx": "Japón",
+    "escl": "Japón",
     "nl": "Japan",
     "ko": "일본",
     "zh": "日本",
+    "zhhk": "日本",
     "it": "Giappone",
     "sv": "Japan",
     "pt": "Japão",
@@ -3177,9 +3183,11 @@ window.KOMARI_DATA = {
     "de": "Vereinigte Staaten",
     "es": "Estados Unidos",
     "esmx": "Estados Unidos",
+    "escl": "Estados Unidos",
     "nl": "Verenigde Staten",
     "ko": "미국",
     "zh": "美國",
+    "zhhk": "美國",
     "it": "Stati Uniti",
     "sv": "USA",
     "pt": "Estados Unidos",
@@ -4901,9 +4909,11 @@ window.KOMARI_DATA = {
     "de": "Frankreich",
     "es": "Francia",
     "esmx": "Francia",
+    "escl": "Francia",
     "nl": "Frankrijk",
     "ko": "프랑스",
     "zh": "法國",
+    "zhhk": "法國",
     "it": "Francia",
     "sv": "Frankrike",
     "pt": "França",
@@ -8291,9 +8301,11 @@ window.KOMARI_DATA = {
     "de": "Deutschland",
     "es": "Alemania",
     "esmx": "Alemania",
+    "escl": "Alemania",
     "nl": "Duitsland",
     "ko": "독일",
     "zh": "德國",
+    "zhhk": "德國",
     "it": "Germania",
     "sv": "Tyskland",
     "pt": "Alemanha",
@@ -11719,9 +11731,11 @@ window.KOMARI_DATA = {
     "de": "Spanien",
     "es": "España",
     "esmx": "España",
+    "escl": "España",
     "nl": "Spanje",
     "ko": "스페인",
     "zh": "西班牙",
+    "zhhk": "西班牙",
     "it": "Spagna",
     "sv": "Spanien",
     "pt": "Espanha",
@@ -14708,9 +14722,11 @@ window.KOMARI_DATA = {
     "de": "Niederlande",
     "es": "Países Bajos",
     "esmx": "Países Bajos",
+    "escl": "Países Bajos",
     "nl": "Nederland",
     "ko": "네덜란드",
     "zh": "荷蘭",
+    "zhhk": "荷蘭",
     "it": "Paesi Bassi",
     "sv": "Nederländerna",
     "pt": "Países Baixos",
@@ -17700,9 +17716,11 @@ window.KOMARI_DATA = {
     "de": "Südkorea",
     "es": "Corea del Sur",
     "esmx": "Corea del Sur",
+    "escl": "Corea del Sur",
     "nl": "Zuid-Korea",
     "ko": "한국",
     "zh": "韓國",
+    "zhhk": "韓國",
     "it": "Corea del Sud",
     "sv": "Sydkorea",
     "pt": "Coreia do Sul",
@@ -20866,9 +20884,11 @@ window.KOMARI_DATA = {
     "de": "Taiwan",
     "es": "Taiwán",
     "esmx": "Taiwán",
+    "escl": "Taiwán",
     "nl": "Taiwan",
     "ko": "대만",
     "zh": "臺灣",
+    "zhhk": "臺灣",
     "it": "Taiwan",
     "sv": "Taiwan",
     "pt": "Taiwan",
@@ -23832,9 +23852,11 @@ window.KOMARI_DATA = {
     "de": "Italien",
     "es": "Italia",
     "esmx": "Italia",
+    "escl": "Italia",
     "nl": "Italië",
     "ko": "이탈리아",
     "zh": "義大利",
+    "zhhk": "義大利",
     "it": "Italia",
     "sv": "Italien",
     "pt": "Itália",
@@ -26853,9 +26875,11 @@ window.KOMARI_DATA = {
     "de": "Schweden",
     "es": "Suecia",
     "esmx": "Suecia",
+    "escl": "Suecia",
     "nl": "Zweden",
     "ko": "스웨덴",
     "zh": "瑞典",
+    "zhhk": "瑞典",
     "it": "Svezia",
     "sv": "Sverige",
     "pt": "Suécia",
@@ -30306,9 +30330,11 @@ window.KOMARI_DATA = {
     "de": "Brasilien",
     "es": "Brasil",
     "esmx": "Brasil",
+    "escl": "Brasil",
     "nl": "Brazilië",
     "ko": "브라질",
     "zh": "巴西",
+    "zhhk": "巴西",
     "it": "Brasile",
     "sv": "Brasilien",
     "pt": "Brasil",
@@ -33037,9 +33063,11 @@ window.KOMARI_DATA = {
     "de": "Saudi-Arabien",
     "es": "Arabia Saudí",
     "esmx": "Arabia Saudí",
+    "escl": "Arabia Saudí",
     "nl": "Saoedi-Arabië",
     "ko": "사우디아라비아",
     "zh": "沙烏地阿拉伯",
+    "zhhk": "沙烏地阿拉伯",
     "it": "Arabia Saudita",
     "sv": "Saudiarabien",
     "pt": "Arábia Saudita",
@@ -35007,9 +35035,11 @@ window.KOMARI_DATA = {
     "de": "Vereinigtes Königreich",
     "es": "Reino Unido",
     "esmx": "Reino Unido",
+    "escl": "Reino Unido",
     "nl": "Verenigd Koninkrijk",
     "ko": "영국",
     "zh": "英國",
+    "zhhk": "英國",
     "it": "Regno Unito",
     "sv": "Förenade kungariket",
     "pt": "Reino Unido",
@@ -36781,9 +36811,11 @@ window.KOMARI_DATA = {
     "de": "Australien",
     "es": "Australia",
     "esmx": "Australia",
+    "escl": "Australia",
     "nl": "Australië",
     "ko": "오스트레일리아",
     "zh": "澳洲",
+    "zhhk": "澳洲",
     "it": "Australia",
     "sv": "Australien",
     "pt": "Austrália",
@@ -38431,9 +38463,11 @@ window.KOMARI_DATA = {
     "de": "Neuseeland",
     "es": "Nueva Zelanda",
     "esmx": "Nueva Zelanda",
+    "escl": "Nueva Zelanda",
     "nl": "Nieuw-Zeeland",
     "ko": "뉴질랜드",
     "zh": "紐西蘭",
+    "zhhk": "紐西蘭",
     "it": "Nuova Zelanda",
     "sv": "Nya Zeeland",
     "pt": "Nova Zelândia",
@@ -39724,9 +39758,11 @@ window.KOMARI_DATA = {
     "de": "Irland",
     "es": "Irlanda",
     "esmx": "Irlanda",
+    "escl": "Irlanda",
     "nl": "Ierland",
     "ko": "아일랜드",
     "zh": "愛爾蘭",
+    "zhhk": "愛爾蘭",
     "it": "Irlanda",
     "sv": "Irland",
     "pt": "Irlanda",
@@ -41108,9 +41144,11 @@ window.KOMARI_DATA = {
     "de": "Österreich",
     "es": "Austria",
     "esmx": "Austria",
+    "escl": "Austria",
     "nl": "Oostenrijk",
     "ko": "오스트리아",
     "zh": "奧地利",
+    "zhhk": "奧地利",
     "it": "Austria",
     "sv": "Österrike",
     "pt": "Áustria",
@@ -44161,9 +44199,11 @@ window.KOMARI_DATA = {
     "de": "Kanada",
     "es": "Canadá",
     "esmx": "Canadá",
+    "escl": "Canadá",
     "nl": "Canada",
     "ko": "캐나다",
     "zh": "加拿大",
+    "zhhk": "加拿大",
     "it": "Canada",
     "sv": "Kanada",
     "pt": "Canadá",
@@ -47190,9 +47230,11 @@ window.KOMARI_DATA = {
     "de": "Portugal",
     "es": "Portugal",
     "esmx": "Portugal",
+    "escl": "Portugal",
     "nl": "Portugal",
     "ko": "포르투갈",
     "zh": "葡萄牙",
+    "zhhk": "葡萄牙",
     "it": "Portogallo",
     "sv": "Portugal",
     "pt": "Portugal",
@@ -49441,9 +49483,11 @@ window.KOMARI_DATA = {
     "de": "Mexiko",
     "es": "México",
     "esmx": "México",
+    "escl": "México",
     "nl": "Mexico",
     "ko": "멕시코",
     "zh": "墨西哥",
+    "zhhk": "墨西哥",
     "it": "Messico",
     "sv": "Mexiko",
     "pt": "México",
@@ -52251,6 +52295,7543 @@ window.KOMARI_DATA = {
        "upd": "2026-07-12"
       }
      }
+    }
+   }
+  },
+  "sg": {
+   "id": "sg",
+   "name": {
+    "ja": "シンガポール",
+    "en": "Singapore",
+    "fr": "Singapour",
+    "de": "Singapur",
+    "es": "Singapur",
+    "esmx": "Singapur",
+    "escl": "Singapur",
+    "nl": "Singapore",
+    "ko": "싱가포르",
+    "zh": "新加坡",
+    "zhhk": "新加坡",
+    "it": "Singapore",
+    "sv": "Singapore",
+    "pt": "Singapura",
+    "ptpt": "Singapura",
+    "ar": "سنغافورة"
+   },
+   "langs": [
+    "en"
+   ],
+   "main": "en",
+   "fallback": "en",
+   "srcLang": "en",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-18",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "sg995",
+     "band": "now",
+     "tel": "995",
+     "tel2": "999",
+     "url": "https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services",
+     "linkOk": false,
+     "en": {
+      "name": "995 (ambulance) or 999 (police)",
+      "desc": "If a life is in danger or someone needs emergency medical help, call 995 for an ambulance, or 999 for the police. If you cannot speak or it is not safe to call, you can send an SMS to 70999 (police) saying what is happening and where. You can also go to the emergency department (A&E) of any hospital.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Singapore Civil Defence Force",
+       "title": "Emergency Medical Services",
+       "url": "https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services",
+       "kind": "fact",
+       "upd": "2026-07-01"
+      }
+     },
+     "src": {
+      "org": "Singapore Civil Defence Force",
+      "title": "Emergency Medical Services",
+      "url": "https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services",
+      "kind": "fact",
+      "upd": "2026-07-01"
+     }
+    },
+    {
+     "id": "sgmind",
+     "band": "now",
+     "tel": "1771",
+     "tel2": "",
+     "url": "https://www.moh.gov.sg/newsroom/national-mindline-1771-to-provide--round-the-clock-support-for-mental-health/",
+     "linkOk": false,
+     "en": {
+      "name": "national mindline 1771",
+      "desc": "Call 1771, or send a WhatsApp message to 6669 1771, any time of the day or night, to talk with a trained counsellor. You can also use the online chat on the mindline.sg website. What you share is kept confidential. You do not have to give your name.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Ministry of Health Singapore",
+       "title": "NATIONAL MINDLINE 1771 TO PROVIDE ROUND-THE-CLOCK SUPPORT FOR MENTAL HEALTH",
+       "url": "https://www.moh.gov.sg/newsroom/national-mindline-1771-to-provide--round-the-clock-support-for-mental-health/",
+       "kind": "fact",
+       "upd": "2025-06-18"
+      }
+     },
+     "src": {
+      "org": "Ministry of Health Singapore",
+      "title": "NATIONAL MINDLINE 1771 TO PROVIDE ROUND-THE-CLOCK SUPPORT FOR MENTAL HEALTH",
+      "url": "https://www.moh.gov.sg/newsroom/national-mindline-1771-to-provide--round-the-clock-support-for-mental-health/",
+      "kind": "fact",
+      "upd": "2025-06-18"
+     }
+    },
+    {
+     "id": "sgsos",
+     "band": "now",
+     "tel": "1767",
+     "tel2": "",
+     "url": "https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/",
+     "linkOk": false,
+     "en": {
+      "name": "Samaritans of Singapore",
+      "desc": "Call 1767, 24 hours a day, or send a WhatsApp message to 9151 1767. For anyone having thoughts of suicide, or worried about someone they care about.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Ministry of Health Singapore",
+       "title": "Mental health services",
+       "url": "https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/",
+       "kind": "fact",
+       "upd": "2025-08-21"
+      }
+     },
+     "src": {
+      "org": "Ministry of Health Singapore",
+      "title": "Mental health services",
+      "url": "https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/",
+      "kind": "fact",
+      "upd": "2025-08-21"
+     }
+    },
+    {
+     "id": "sgnavh",
+     "band": "now",
+     "tel": "1800 777 0000",
+     "tel2": "",
+     "url": "https://familyassist.msf.gov.sg/content/making-decisions/seeking-safety/getting-help/support-services-available/",
+     "linkOk": false,
+     "en": {
+      "name": "National Anti-Violence and Sexual Harassment Helpline (NAVH)",
+      "desc": "Call 1800 777 0000, 24 hours a day, to report family violence, abuse or neglect, and to get help. You can also make a report online. Information you share is kept confidential, but a police report may be made if the law requires it. Charges apply for calls from a mobile phone.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Ministry of Social and Family Development",
+       "title": "Getting Help",
+       "url": "https://familyassist.msf.gov.sg/content/making-decisions/seeking-safety/getting-help/support-services-available/",
+       "kind": "fact",
+       "upd": "2026-11-17"
+      }
+     },
+     "src": {
+      "org": "Ministry of Social and Family Development",
+      "title": "Getting Help",
+      "url": "https://familyassist.msf.gov.sg/content/making-decisions/seeking-safety/getting-help/support-services-available/",
+      "kind": "fact",
+      "upd": "2026-11-17"
+     }
+    },
+    {
+     "id": "sggp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.moh.gov.sg/newsroom/median-waiting-times-for-patients-seeking-support-for-common-mental-health-conditions-through-primary-care-/",
+     "linkOk": false,
+     "en": {
+      "name": "Your GP or a polyclinic",
+      "desc": "A GP (family doctor) or a polyclinic is usually the first place people are seen about their mental health. You can ask about the cost when you book.",
+      "hours": "Check opening hours with the clinic.",
+      "src": {
+       "org": "Ministry of Health Singapore",
+       "title": "MEDIAN WAITING TIMES FOR PATIENTS SEEKING SUPPORT FOR COMMON MENTAL HEALTH CONDITIONS THROUGH PRIMARY CARE",
+       "url": "https://www.moh.gov.sg/newsroom/median-waiting-times-for-patients-seeking-support-for-common-mental-health-conditions-through-primary-care-/",
+       "kind": "fact",
+       "upd": "2026-05-06"
+      }
+     },
+     "src": {
+      "org": "Ministry of Health Singapore",
+      "title": "MEDIAN WAITING TIMES FOR PATIENTS SEEKING SUPPORT FOR COMMON MENTAL HEALTH CONDITIONS THROUGH PRIMARY CARE",
+      "url": "https://www.moh.gov.sg/newsroom/median-waiting-times-for-patients-seeking-support-for-common-mental-health-conditions-through-primary-care-/",
+      "kind": "fact",
+      "upd": "2026-05-06"
+     }
+    },
+    {
+     "id": "sgcmh",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/",
+     "linkOk": false,
+     "en": {
+      "name": "Community Outreach Teams (CREST)",
+      "desc": "Community Outreach Teams (CREST) are community mental health teams run by social service agencies. CREST is for adults aged 18 and over. You do not need a referral. Information on how to make an appointment is linked from the Ministry of Health's mental health services page.",
+      "hours": "Check how to make an appointment on the page.",
+      "src": {
+       "org": "Ministry of Health Singapore",
+       "title": "Mental health services",
+       "url": "https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/",
+       "kind": "fact",
+       "upd": "2025-08-21"
+      }
+     },
+     "src": {
+      "org": "Ministry of Health Singapore",
+      "title": "Mental health services",
+      "url": "https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/",
+      "kind": "fact",
+      "upd": "2025-08-21"
+     }
+    },
+    {
+     "id": "sgimhappt",
+     "band": "day",
+     "tel": "6389 2200",
+     "tel2": "",
+     "url": "https://www.healthhub.sg/health-conditions/generalised-anxiety-disorder",
+     "linkOk": false,
+     "en": {
+      "name": "Institute of Mental Health (appointments)",
+      "desc": "To make an appointment to see a doctor at the Institute of Mental Health, call 6389 2200, Monday to Friday, 8.00am to 4.00pm.",
+      "hours": "Monday to Friday, 8.00am to 4.00pm.",
+      "src": {
+       "org": "HealthHub (Ministry of Health Singapore)",
+       "title": "Anxiety Disorder",
+       "url": "https://www.healthhub.sg/health-conditions/generalised-anxiety-disorder",
+       "kind": "fact",
+       "upd": "2026-01-07"
+      }
+     },
+     "src": {
+      "org": "HealthHub (Ministry of Health Singapore)",
+      "title": "Anxiety Disorder",
+      "url": "https://www.healthhub.sg/health-conditions/generalised-anxiety-disorder",
+      "kind": "fact",
+      "upd": "2026-01-07"
+     }
+    },
+    {
+     "id": "sgnams",
+     "band": "day",
+     "tel": "6389 2200",
+     "tel2": "",
+     "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/when-gambling-becomes-an-illness",
+     "linkOk": false,
+     "en": {
+      "name": "National Addictions Management Service (NAMS)",
+      "desc": "NAMS at the Institute of Mental Health helps with alcohol, gambling and other addictions. Consultation is by appointment: call 6389 2200.",
+      "hours": "By appointment.",
+      "src": {
+       "org": "HealthHub (Ministry of Health Singapore)",
+       "title": "Understanding Gambling Addictions",
+       "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/when-gambling-becomes-an-illness",
+       "kind": "fact",
+       "upd": "2024-07-22"
+      }
+     },
+     "src": {
+      "org": "HealthHub (Ministry of Health Singapore)",
+      "title": "Understanding Gambling Addictions",
+      "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/when-gambling-becomes-an-illness",
+      "kind": "fact",
+      "upd": "2024-07-22"
+     }
+    },
+    {
+     "id": "sgncpg",
+     "band": "day",
+     "tel": "1800 6 668 668",
+     "tel2": "",
+     "url": "https://www.msf.gov.sg/ncpg",
+     "linkOk": false,
+     "en": {
+      "name": "National Problem Gambling Helpline",
+      "desc": "Call 1800 6 668 668, or use the webchat, every day from 8am to 11pm, for help with gambling problems. Charges apply for calls from a mobile phone.",
+      "hours": "Every day, 8am to 11pm.",
+      "src": {
+       "org": "Ministry of Social and Family Development",
+       "title": "National Council on Problem Gambling (NCPG)",
+       "url": "https://www.msf.gov.sg/ncpg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Social and Family Development",
+      "title": "National Council on Problem Gambling (NCPG)",
+      "url": "https://www.msf.gov.sg/ncpg",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sgeat",
+     "band": "day",
+     "tel": "6321 4377",
+     "tel2": "",
+     "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-eating-disorders-adults",
+     "linkOk": false,
+     "en": {
+      "name": "Eating Disorders Programme, Singapore General Hospital",
+      "desc": "Singapore General Hospital has an eating disorders programme, and a monthly support group for people with eating disorders and the people who support them. Call 6321 4377.",
+      "hours": "Check times with the service.",
+      "src": {
+       "org": "HealthHub (Ministry of Health Singapore)",
+       "title": "Understanding eating disorders",
+       "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-eating-disorders-adults",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "HealthHub (Ministry of Health Singapore)",
+      "title": "Understanding eating disorders",
+      "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-eating-disorders-adults",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sgfsc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.msf.gov.sg/directories",
+     "linkOk": false,
+     "en": {
+      "name": "Family Service Centres",
+      "desc": "Family Service Centres are in the community and help individuals and families who are facing challenges. You can look up the nearest centre by postal code on the MSF website.",
+      "hours": "Check opening hours with each centre.",
+      "src": {
+       "org": "Ministry of Social and Family Development",
+       "title": "Directories",
+       "url": "https://www.msf.gov.sg/directories",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Social and Family Development",
+      "title": "Directories",
+      "url": "https://www.msf.gov.sg/directories",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sgmom",
+     "band": "day",
+     "tel": "6438 5122",
+     "tel2": "",
+     "url": "https://www.mom.gov.sg/contact-us",
+     "linkOk": false,
+     "en": {
+      "name": "Ministry of Manpower (MOM)",
+      "desc": "Phone 6438 5122 (local callers), Monday to Friday, 8:30AM to 5:30PM, except on public holidays. You can also send an enquiry online, for example about employment practices.",
+      "hours": "Monday to Friday, 8:30AM to 5:30PM, except on public holidays.",
+      "src": {
+       "org": "Ministry of Manpower",
+       "title": "Contact us",
+       "url": "https://www.mom.gov.sg/contact-us",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Manpower",
+      "title": "Contact us",
+      "url": "https://www.mom.gov.sg/contact-us",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "sgtafep",
+     "band": "day",
+     "tel": "6838 0969",
+     "tel2": "",
+     "url": "https://www.mom.gov.sg/faq/workplace-harassment/who-can-i-contact-for-more-information-on-workplace-harassment",
+     "linkOk": false,
+     "en": {
+      "name": "TAFEP",
+      "desc": "Phone 6838 0969, Monday to Friday, 8.30am to 5.30pm. Advice on fair employment practices and workplace harassment.",
+      "hours": "Monday to Friday, 8.30am to 5.30pm.",
+      "src": {
+       "org": "Ministry of Manpower",
+       "title": "Who can I contact for more information on workplace harassment?",
+       "url": "https://www.mom.gov.sg/faq/workplace-harassment/who-can-i-contact-for-more-information-on-workplace-harassment",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministry of Manpower",
+      "title": "Who can I contact for more information on workplace harassment?",
+      "url": "https://www.mom.gov.sg/faq/workplace-harassment/who-can-i-contact-for-more-information-on-workplace-harassment",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression with a long-term physical illness",
+        "why": "Depression can also affect people who are living with a serious or long-term physical illness, for example cancer, stroke, arthritis or heart disease.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "How to Cope with Depression",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/coping_with_depression_",
+         "kind": "fact",
+         "upd": "2025-04-10"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "For some people, depression becomes so strong that it takes over daily life and makes it hard to cope the way they used to.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "How to Cope with Depression",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/coping_with_depression_",
+         "kind": "fact",
+         "upd": "2025-04-10"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Bipolar disorder brings mood episodes that keep coming back and can be extreme. An episode can be a time of clearly sad mood, or a time of clearly happy or irritable mood.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding bipolar disorder",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-bipolar-disorder-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh",
+       "sgimhappt"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like the MRT, buses, crowded malls, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Heart rhythm problems (arrhythmia)",
+        "why": "An arrhythmia is an irregular heartbeat. Stress and caffeine are among the things that can bring it on.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Heart Rhythm Disorder (Arrhythmia)",
+         "url": "https://www.healthhub.sg/health-conditions/heart-arrhythmias",
+         "kind": "fact",
+         "upd": "2021-12-09"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "An anxiety disorder is when anxiety keeps going and is much stronger than the situation calls for.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding anxiety disorder",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/dealing-with-anxiety-disorder-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "In a panic attack, the body reacts strongly, and people often take it for a heart problem or a severe asthma attack and go to the emergency department.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Panic Disorder",
+         "url": "https://www.healthhub.sg/health-conditions/panic-disorder-symptoms-management",
+         "kind": "fact",
+         "upd": "2021-06-22"
+        }
+       },
+       {
+        "name": "Post-traumatic stress symptoms",
+        "why": "An accident or another very upsetting event can be lived through again in the mind in sharp detail, even when a person does not want to remember it. The person may also avoid things that remind them of it.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Recognising and Managing Post-traumatic Stress Symptoms After an Accident",
+         "url": "https://www.healthhub.sg/support-and-tools/support-and-care-programmes/post-trauma-support",
+         "kind": "fact",
+         "upd": "2024-06-26"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Some people with an anxiety disorder also have depression at the same time.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding anxiety disorder",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/dealing-with-anxiety-disorder-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh",
+       "sgimhappt"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the cooker, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the cooker again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I don't make it to appointments or work on time.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "In OCD, the same thoughts keep coming back, and a person repeats certain actions over and over, such as washing hands, counting or doing things in a fixed order.",
+        "src": {
+         "org": "National Council of Social Service",
+         "title": "Beyond the Label Media Guide",
+         "url": "https://isomer-user-content.by.gov.sg/24/33d35d3a-57c7-4e41-8044-881054bf4587/Beyond-the-Label-Media-Guide.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh",
+       "sgimhappt"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel close to my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress symptoms",
+        "why": "Following an accident or another shocking experience, the scene may replay vividly in the mind without warning, and some people stay away from places, people or conversations linked to it.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Recognising and Managing Post-traumatic Stress Symptoms After an Accident",
+         "url": "https://www.healthhub.sg/support-and-tools/support-and-care-programmes/post-trauma-support",
+         "kind": "fact",
+         "upd": "2024-06-26"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "When sadness after a loss or another hard event goes on and makes everyday life difficult, it can be depression.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "How To Identify And Deal With Depression",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/how-to-identify-and-deal-with-depression",
+         "kind": "fact",
+         "upd": "2025-12-23"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh",
+       "sgimhappt",
+       "sgfsc"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep being late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "I would like some time to explain how my sleep is going (falling asleep, waking in the night, trouble getting up in the morning, sleepiness during the day).",
+       "I would like to think through the cause together, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "I would prefer it not to be put down to my mindset, and I would like my physical health and my mood to be checked together.",
+       "I would like to show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If I am offered medicine, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnoea",
+        "why": "Heavy snoring that goes on for a long time is not always harmless. It can come with obstructive sleep apnoea, a sleep disorder that is easy to miss.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Obstructive Sleep Apnoea",
+         "url": "https://www.healthhub.sg/health-conditions/obstructive-sleep-apnoea",
+         "kind": "fact",
+         "upd": "2021-07-29"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "Insomnia can be a sleep problem on its own, or it can come with a mental health condition, a physical illness or the use of alcohol or other substances.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Insomnia",
+         "url": "https://www.healthhub.sg/health-conditions/insomnia",
+         "kind": "fact",
+         "upd": "2021-06-22"
+        }
+       },
+       {
+        "name": "Not getting enough sleep (poor sleep)",
+        "why": "When sleep is poor, tiredness can carry into the day and make it harder to focus at work.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "11 Healthy Habits to Sleep Better",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/overcoming_insomnia",
+         "kind": "fact",
+         "upd": "2021-12-21"
+        }
+       },
+       {
+        "name": "Body clock (circadian rhythm) problems, such as from shift work",
+        "why": "The body clock keeps the timing of many body processes over the day. Night work or shifts that keep changing can put it out of step, so sleepiness comes at the wrong times.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Circadian Rhythm Disorder",
+         "url": "https://www.healthhub.sg/health-conditions/circadian-rhythm-problems",
+         "kind": "fact",
+         "upd": "2025-09-01"
+        }
+       },
+       {
+        "name": "Caffeine, nicotine and alcohol",
+        "why": "Caffeine, nicotine and alcohol can all make sleep worse.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Insomnia",
+         "url": "https://www.healthhub.sg/health-conditions/insomnia",
+         "kind": "fact",
+         "upd": "2021-06-22"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Trouble sleeping can come with a mental health condition such as depression or anxiety.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Insomnia",
+         "url": "https://www.healthhub.sg/health-conditions/insomnia",
+         "kind": "fact",
+         "upd": "2021-06-22"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for days.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would prefer it if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When others eat together, I would like to be able to choose a different place or time to eat.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or blood tests explained beforehand.",
+       "I would like to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders",
+        "why": "In eating disorders, which are mental health conditions, unhealthy patterns around food keep going and can take a toll on both body and mind. Food can become a great source of stress, with strong worries about body weight or shape, or a wish to keep eating hidden.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding eating disorders",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-eating-disorders-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgeat",
+       "sgcmh"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "I would like to work out, step by step, how I use these and what problems they cause.",
+       "I would like my sleep and physical health to be checked as well.",
+       "I would like to be told specifically where I can get support and where I can go.",
+       "I would like to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Harmful drinking (binge drinking)",
+        "why": "Binge drinking means drinking a lot of alcohol in a short time.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Why is Binge Drinking Bad for You?",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/substance-addiction/binge-drinking-dangers",
+         "kind": "fact",
+         "upd": "2026-03-13"
+        }
+       },
+       {
+        "name": "Alcohol addiction",
+        "why": "Addiction is a long-lasting illness of both body and mind, and alcohol is one of the things people can become addicted to.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Addictions: Signs, Symptoms and Reasons",
+         "url": "https://www.healthhub.sg/health-conditions/addictions",
+         "kind": "fact",
+         "upd": "2025-12-23"
+        }
+       },
+       {
+        "name": "Gambling addiction",
+        "why": "Gambling addiction is an illness much like alcohol addiction, and it can make it hard to control gambling.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding Gambling Addictions",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/when-gambling-becomes-an-illness",
+         "kind": "fact",
+         "upd": "2024-07-22"
+        }
+       },
+       {
+        "name": "Excessive internet or video game use",
+        "why": "Addiction is not only about substances. It can also be about activities, such as gambling or spending too much time on the internet or video games.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding addictions",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-addictions-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgnams",
+       "sgncpg",
+       "sgcmh"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I cannot get through work or housework in order, and I miss deadlines.",
+       "I often cannot recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "I would prefer not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "I would like to talk in a quiet place where I am less distracted.",
+       "I would appreciate it if you recognised what I managed to do, instead of blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Not getting enough sleep (poor sleep)",
+        "why": "Poor-quality sleep can make someone tired in the daytime and less able to focus and keep up with work.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "11 Healthy Habits to Sleep Better",
+         "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/overcoming_insomnia",
+         "kind": "fact",
+         "upd": "2021-12-21"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety (social phobia)",
+        "why": "In social anxiety (social phobia), a person feels very afraid that others are watching them and thinking badly of them.",
+        "src": {
+         "org": "National Council of Social Service",
+         "title": "Beyond the Label Media Guide",
+         "url": "https://isomer-user-content.by.gov.sg/24/33d35d3a-57c7-4e41-8044-881054bf4587/Beyond-the-Label-Media-Guide.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh",
+       "sgfsc"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "I would like text in large print with wide line spacing, in a font that is easy to read.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "sggp",
+       "sgcmh"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings cannot keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I cannot move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Not getting enough sleep (poor sleep)",
+        "why": "Too little sleep can make someone more irritable, and mood can shift as well.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "The importance of sleeping well",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/sleeping-well-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "Bipolar disorder brings mood episodes, some high and some low. During a high, someone may feel unusually happy or irritable, and sleep and energy can be affected by these episodes.",
+        "src": {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding bipolar disorder",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-bipolar-disorder-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "sggp",
+       "sgcmh",
+       "sgimhappt"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to look like a symptom. Feelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use, and what is going on around you can cause similar things too. Even if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs and worries come with life",
+       "body": "Everyone has ups and downs in mood, more so when times are hard, and stress is part of life. Feeling sad after losing someone close or after a setback is part of life too.\n\nNames are given by health professionals, who look at how strong the difficulties are, how long they have lasted and how much they affect daily life, all together.",
+       "srcs": [
+        {
+         "org": "HealthHub (Ministry of Health Singapore)",
+         "title": "Understanding bipolar disorder",
+         "url": "https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/understanding-bipolar-disorder-adults",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "You can talk about what you are finding hard even without a diagnosis. A GP or a polyclinic is usually the first place to go, and some community mental health services do not need a referral.\n\nAt work, you can explain what you are finding hard and what would help. When you apply for a job, employers should not ask about mental health conditions unless the job requires it. If you have difficulty getting reasonable accommodations from your employer, you can approach TAFEP or the Ministry of Manpower for help.",
+       "srcs": [
+        {
+         "org": "Ministry of Health Singapore",
+         "title": "MEDIAN WAITING TIMES FOR PATIENTS SEEKING SUPPORT FOR COMMON MENTAL HEALTH CONDITIONS THROUGH PRIMARY CARE",
+         "url": "https://www.moh.gov.sg/newsroom/median-waiting-times-for-patients-seeking-support-for-common-mental-health-conditions-through-primary-care-/",
+         "kind": "fact",
+         "upd": "2026-05-06"
+        },
+        {
+         "org": "Ministry of Manpower",
+         "title": "Written Answer to PQ on Reasonable accommodations for individuals with medical conditions",
+         "url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0908-written-answer-to-pq-on-reasonable-accommodations-for-individuals-with-medical-conditions",
+         "kind": "fact",
+         "upd": "2026-09-08"
+        },
+        {
+         "org": "Ministry of Manpower",
+         "title": "Tripartite advisory on mental health and well-being at workplaces",
+         "url": "https://www.mom.gov.sg/employment-practices/tripartism-in-singapore/tripartite-guidelines-and-advisories/tripartite-advisory-on-mental-well-being-at-workplaces",
+         "kind": "fact",
+         "upd": "2023-11-20"
+        }
+       ]
+      },
+      {
+       "h": "However, some kinds of support may ask for papers from a doctor",
+       "body": "Some kinds of support need papers from a doctor. For example, paid sick leave needs a medical certificate from a registered doctor or dentist saying that you are unfit for work. Other kinds of support have their own conditions, so you can ask the service which papers you need.",
+       "srcs": [
+        {
+         "org": "Ministry of Manpower",
+         "title": "Sick leave eligibility and entitlement",
+         "url": "https://www.mom.gov.sg/employment-practices/leave/sick-leave/eligibility-and-entitlement",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.\n\nAt work, you can also ask for reasonable accommodations.",
+       "srcs": [
+        {
+         "org": "Ministry of Manpower",
+         "title": "Written Answer to PQ on Reasonable accommodations for individuals with medical conditions",
+         "url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0908-written-answer-to-pq-on-reasonable-accommodations-for-individuals-with-medical-conditions",
+         "kind": "fact",
+         "upd": "2026-09-08"
+        }
+       ]
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It is not a company. It has no link with the Ministry of Health or the Government of Singapore. Neither of them recommends or supports this app. The names of these organisations only show where information came from.\n\nThe text in this app was written by SOYOGI in its own words, based on pages from the Ministry of Health (including HealthHub), the Ministry of Social and Family Development, the Ministry of Manpower, the National Council of Social Service, the Singapore Civil Defence Force and the Singapore Police Force.\n\nThe check date is 2026-11-18, and numbers and times may change. Times are shown as each organisation writes them. Whether to reach out is decided by you, not by the app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "If worries about your mental health are making everyday life hard, you can reach out for support. People are usually first seen by a GP or at a polyclinic, and some community mental health services do not need a referral.",
+      "src": {
+       "org": "Ministry of Health Singapore",
+       "title": "MEDIAN WAITING TIMES FOR PATIENTS SEEKING SUPPORT FOR COMMON MENTAL HEALTH CONDITIONS THROUGH PRIMARY CARE",
+       "url": "https://www.moh.gov.sg/newsroom/median-waiting-times-for-patients-seeking-support-for-common-mental-health-conditions-through-primary-care-/",
+       "kind": "fact",
+       "upd": "2026-05-06"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "For long-standing difficulties with attention, learning or getting along with others, a GP or a polyclinic is usually the first place to talk. Mental health care is arranged by how much help you need, not by a specific diagnosis, so you do not need to know the name of the difficulty before you go.",
+       "src": {
+        "org": "Ministry of Health Singapore",
+        "title": "INCLUSIONS OF INDIVIDUALS WITH NEURODEVELOPMENTAL CONDITIONS IN THE TIERD-CARE MENTAL HEALTH MODEL",
+        "url": "https://www.moh.gov.sg/newsroom/inclusions-of-individuals-with-neurodevelopmental-conditions-in-the-tierd-care-mental-health-model/",
+        "kind": "fact",
+        "upd": "2026-02-12"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A health professional gives a name (a diagnosis) after looking at what you are going through, how long it has gone on and how much it affects your everyday life. The same trouble can have different causes, such as a physical illness, a sleep problem, or alcohol or other substances, so they may look into these too.",
+      "src": {
+       "org": "HealthHub (Ministry of Health Singapore)",
+       "title": "How To Identify And Deal With Depression",
+       "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/how-to-identify-and-deal-with-depression",
+       "kind": "fact",
+       "upd": "2025-12-23"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "hk": {
+   "id": "hk",
+   "name": {
+    "ja": "香港",
+    "en": "Hong Kong",
+    "fr": "Hong Kong",
+    "de": "Hongkong",
+    "es": "Hong Kong",
+    "esmx": "Hong Kong",
+    "escl": "Hong Kong",
+    "nl": "Hongkong",
+    "ko": "홍콩",
+    "zh": "香港",
+    "zhhk": "香港",
+    "it": "Hong Kong",
+    "sv": "Hongkong",
+    "pt": "Hong Kong",
+    "ptpt": "Hong Kong",
+    "ar": "هونغ كونغ"
+   },
+   "langs": [
+    "zhhk",
+    "en"
+   ],
+   "main": "zhhk",
+   "fallback": "zhhk",
+   "srcLang": "zhhk",
+   "freeHosts": [
+    "gov.hk"
+   ],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-18",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "hk999",
+     "band": "now",
+     "tel": "999",
+     "tel2": "",
+     "url": "https://www.gov.hk/en/nonresidents/visitinghk/usefulinfo/emergency.htm",
+     "linkOk": true,
+     "zhhk": {
+      "name": "999（警察、消防、救護車）",
+      "desc": "如需要警察、消防或救護車，或有人正在傷害自己或他人，請致電 999，或前往醫院的急症室。聽障或語言障礙人士如已預先登記，可以發出短訊至 992 向警方求助。",
+      "hours": "",
+      "src": {
+       "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+       "title": "緊急求助熱線",
+       "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "en": {
+      "name": "999 (police, fire, ambulance)",
+      "desc": "If you need the police, the fire services or an ambulance, or someone is harming themselves or another person, call 999 or go to a hospital Accident and Emergency Department. People with a hearing or speech impairment who have registered in advance can send an SMS to 992 to ask the police for help.",
+      "hours": "",
+      "src": {
+       "org": "GovHK",
+       "title": "Getting Emergency Help",
+       "url": "https://www.gov.hk/en/nonresidents/visitinghk/usefulinfo/emergency.htm",
+       "kind": "fact",
+       "upd": "April 2025"
+      }
+     },
+     "src": {
+      "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+      "title": "緊急求助熱線",
+      "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+      "kind": "fact",
+      "upd": "2025-09-04"
+     }
+    },
+    {
+     "id": "hk18111",
+     "band": "now",
+     "tel": "18111",
+     "tel2": "",
+     "url": "https://www.shallwetalk.hk/zh/get-help/mental-health-support-hotline-18111/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "「情緒通」18111 精神健康支援熱線",
+      "desc": "政府的精神健康支援熱線。可以致電，也可以用 WhatsApp 發送訊息至 (852) 18111。電話和 WhatsApp 的對話會被記錄。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+       "title": "「情緒通」18111精神健康支援熱線",
+       "url": "https://www.shallwetalk.hk/zh/get-help/mental-health-support-hotline-18111/",
+       "kind": "fact",
+       "upd": "2025-11-07"
+      }
+     },
+     "en": {
+      "name": "18111 Mental Health Support Hotline",
+      "desc": "The Government's mental health support hotline. You can phone it, or message (852) 18111 on WhatsApp. Conversations by phone and on WhatsApp are recorded.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Shall We Talk (Advisory Committee on Mental Health)",
+       "title": "“18111 - Mental Health Support Hotline”",
+       "url": "https://www.shallwetalk.hk/en/get-help/mental-health-support-hotline-18111/",
+       "kind": "fact",
+       "upd": "2025-11-07"
+      }
+     },
+     "src": {
+      "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+      "title": "「情緒通」18111精神健康支援熱線",
+      "url": "https://www.shallwetalk.hk/zh/get-help/mental-health-support-hotline-18111/",
+      "kind": "fact",
+      "upd": "2025-11-07"
+     }
+    },
+    {
+     "id": "hkmhd",
+     "band": "now",
+     "tel": "2466 7350",
+     "tel2": "",
+     "url": "https://www.ha.org.hk/haho/ho/cc/Mental_Health_Direct__CHIB5.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "醫院管理局精神健康專線",
+      "desc": "醫院管理局的精神健康熱線，為有需要的人、家屬和市民提供精神健康諮詢。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "醫院管理局",
+       "title": "醫院管理局「精神健康專線」",
+       "url": "https://www.ha.org.hk/haho/ho/cc/Mental_Health_Direct__CHIB5.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Hospital Authority Mental Health Direct",
+      "desc": "A Hospital Authority mental health hotline, giving mental health advice to people in need, their carers and the public.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Hospital Authority",
+       "title": "Hospital Authority - Mental Health Direct",
+       "url": "https://www.ha.org.hk/haho/ho/cc/Mental_Health_Direct_ENG.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "醫院管理局",
+      "title": "醫院管理局「精神健康專線」",
+      "url": "https://www.ha.org.hk/haho/ho/cc/Mental_Health_Direct__CHIB5.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hksbhk",
+     "band": "now",
+     "tel": "2389 2222",
+     "tel2": "",
+     "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "香港撒瑪利亞防止自殺會",
+      "desc": "「陪我講」的緊急求助熱線一覽列出的熱線服務。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+       "title": "緊急求助熱線",
+       "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "en": {
+      "name": "The Samaritan Befrienders Hong Kong",
+      "desc": "A hotline service listed on the emergency helplines page of Shall We Talk.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Shall We Talk (Advisory Committee on Mental Health)",
+       "title": "Emergency Helplines",
+       "url": "https://www.shallwetalk.hk/en/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "src": {
+      "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+      "title": "緊急求助熱線",
+      "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+      "kind": "fact",
+      "upd": "2025-09-04"
+     }
+    },
+    {
+     "id": "hksps",
+     "band": "now",
+     "tel": "2382 0000",
+     "tel2": "",
+     "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "生命熱線",
+      "desc": "「陪我講」的緊急求助熱線一覽列出的熱線服務。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+       "title": "緊急求助熱線",
+       "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "en": {
+      "name": "Suicide Prevention Services",
+      "desc": "A hotline service listed on the emergency helplines page of Shall We Talk.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Shall We Talk (Advisory Committee on Mental Health)",
+       "title": "Emergency Helplines",
+       "url": "https://www.shallwetalk.hk/en/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "src": {
+      "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+      "title": "緊急求助熱線",
+      "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+      "kind": "fact",
+      "upd": "2025-09-04"
+     }
+    },
+    {
+     "id": "hksam",
+     "band": "now",
+     "tel": "2896 0000",
+     "tel2": "",
+     "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "撒瑪利亞會",
+      "desc": "「陪我講」的緊急求助熱線一覽列出的中文及多種語言熱線。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+       "title": "緊急求助熱線",
+       "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "en": {
+      "name": "The Samaritans",
+      "desc": "A hotline in Chinese and other languages, listed on the emergency helplines page of Shall We Talk.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Shall We Talk (Advisory Committee on Mental Health)",
+       "title": "Emergency Helplines",
+       "url": "https://www.shallwetalk.hk/en/get-help/emergency-helplines/",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "src": {
+      "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+      "title": "緊急求助熱線",
+      "url": "https://www.shallwetalk.hk/zh/get-help/emergency-helplines/",
+      "kind": "fact",
+      "upd": "2025-09-04"
+     }
+    },
+    {
+     "id": "hkcease",
+     "band": "now",
+     "tel": "18281",
+     "tel2": "",
+     "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_familyandc/crisisintervention/index.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "危機介入及支援中心（芷若園）",
+      "desc": "社會福利署介紹的熱線。面對性暴力、家庭暴力或其他家庭危機的個人或家庭，不論年齡、性別和種族，都可以聯絡。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "社會福利署",
+       "title": "危機介入及支援中心（芷若園）",
+       "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_familyandc/crisisintervention/index.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CEASE Crisis Centre (Multi-purpose Crisis Intervention and Support Centre)",
+      "desc": "A hotline listed by the Social Welfare Department. Individuals or families facing sexual violence, domestic violence or other family crises can contact it, regardless of age, gender and race.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Social Welfare Department",
+       "title": "Multi-purpose Crisis Intervention and Support Centre (CEASE Crisis Centre)",
+       "url": "https://www.swd.gov.hk/en/pubsvc/family/cat_familyandc/crisisintervention/index.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "社會福利署",
+      "title": "危機介入及支援中心（芷若園）",
+      "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_familyandc/crisisintervention/index.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkfcsc",
+     "band": "now",
+     "tel": "18288",
+     "tel2": "",
+     "url": "https://www.familycouncil.gov.hk/tc/support/support_health.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "明愛向晴軒",
+      "desc": "為面對家庭危機或困擾的個人或家庭提供熱線服務。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "家庭議會",
+       "title": "心理健康及協助",
+       "url": "https://www.familycouncil.gov.hk/tc/support/support_health.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Caritas Family Crisis Support Centre",
+      "desc": "A hotline for individuals or families facing a family crisis or distress.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Family Council",
+       "title": "Psychological Well-being and Assistance",
+       "url": "https://www.familycouncil.gov.hk/en/support/support_health.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "家庭議會",
+      "title": "心理健康及協助",
+      "url": "https://www.familycouncil.gov.hk/tc/support/support_health.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkfmc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.ha.org.hk/visitor/ha_serviceguide_details.asp?Content_ID=10052&IndexPage=200067&Lang=CHIB5&Ver=HTML",
+     "linkOk": false,
+     "zhhk": {
+      "name": "家庭醫學診所（醫院管理局）",
+      "desc": "家庭醫學診所（以前稱為普通科門診）由醫院管理局營辦。預約專科門診的新症，需要本地註冊醫生的轉介信，例如家庭醫學診所或私家醫生發出的轉介信。費用請在醫院管理局的網頁確認。",
+      "hours": "",
+      "src": {
+       "org": "醫院管理局",
+       "title": "家庭醫學門診 (前稱普通科門診)",
+       "url": "https://www.ha.org.hk/visitor/ha_serviceguide_details.asp?Content_ID=10052&IndexPage=200067&Lang=CHIB5&Ver=HTML",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Family Medicine Clinics (Hospital Authority)",
+      "desc": "Family Medicine Clinics (formerly called General Out-patient Clinics) are run by the Hospital Authority. To book a new appointment at a Specialist Out-patient Clinic, you need a referral letter from a doctor registered in Hong Kong, for example from a Family Medicine Clinic or a private doctor. Check the cost on the Hospital Authority page.",
+      "hours": "",
+      "src": {
+       "org": "Hospital Authority",
+       "title": "Family Medicine Clinics (formerly known as General Out-patient Clinics)",
+       "url": "https://www.ha.org.hk/visitor/ha_serviceguide_details.asp?Content_ID=10052&IndexPage=200067&Lang=ENG&Ver=HTML",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "醫院管理局",
+      "title": "家庭醫學門診 (前稱普通科門診)",
+      "url": "https://www.ha.org.hk/visitor/ha_serviceguide_details.asp?Content_ID=10052&IndexPage=200067&Lang=CHIB5&Ver=HTML",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkiccmw",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/centrebase/iccmw/index.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "精神健康綜合社區中心",
+      "desc": "社會福利署介紹的中心，由非政府機構營辦。可以自己申請，也可以經醫生、社工等轉介；申請不收費。中心的聯絡資料，請看社會福利署的名單。",
+      "hours": "",
+      "src": {
+       "org": "社會福利署",
+       "title": "精神健康綜合社區中心",
+       "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/centrebase/iccmw/index.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Integrated Community Centres for Mental Wellness (ICCMW)",
+      "desc": "Centres listed by the Social Welfare Department and run by non-governmental organisations. You can apply yourself or be referred by a doctor, a social worker or others, and the application is free of charge. For the contact details of the centres, see the list of the Social Welfare Department.",
+      "hours": "",
+      "src": {
+       "org": "Social Welfare Department",
+       "title": "Integrated Community Centre for Mental Wellness",
+       "url": "https://www.swd.gov.hk/en/pubsvc/rehab/cat_supportcom/centrebase/iccmw/index.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "社會福利署",
+      "title": "精神健康綜合社區中心",
+      "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/centrebase/iccmw/index.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkifsc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_family/ifs/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "綜合家庭服務中心",
+      "desc": "由社會福利署和受資助的非政府機構營辦的中心。任何人或家庭都可以聯絡住址所在地區的中心查詢或求助。各中心的電話和開放時間，請看社會福利署的名單。",
+      "hours": "",
+      "src": {
+       "org": "社會福利署",
+       "title": "綜合家庭服務",
+       "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_family/ifs/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Integrated Family Service Centres",
+      "desc": "Centres run by the Social Welfare Department and subvented non-governmental organisations. Any individual or family can contact the centre that covers their home address for enquiries or help. See the Social Welfare Department list for each centre's phone number and opening hours.",
+      "hours": "",
+      "src": {
+       "org": "Social Welfare Department",
+       "title": "Integrated Family Services",
+       "url": "https://www.swd.gov.hk/en/pubsvc/family/cat_family/ifs/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "社會福利署",
+      "title": "綜合家庭服務",
+      "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_family/ifs/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkswd",
+     "band": "day",
+     "tel": "2343 2255",
+     "tel2": "",
+     "url": "https://www.swd.gov.hk/tc/department/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "社會福利署熱線",
+      "desc": "提供福利服務的資訊。社工當值時間以外，有自動電話資訊。",
+      "hours": "社工接聽：星期一至五 上午九時至下午五時，星期六 上午九時至中午十二時",
+      "src": {
+       "org": "社會福利署",
+       "title": "社署熱線服務",
+       "url": "https://www.swd.gov.hk/tc/department/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Social Welfare Department Hotline",
+      "desc": "Information on welfare services. Outside the hours when social workers answer, a recorded information service is available.",
+      "hours": "Social workers answer: 9 am to 5 pm, Monday to Friday; 9 am to 12 noon, Saturday",
+      "src": {
+       "org": "Social Welfare Department",
+       "title": "Departmental Hotline Service",
+       "url": "https://www.swd.gov.hk/en/department/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "社會福利署",
+      "title": "社署熱線服務",
+      "url": "https://www.swd.gov.hk/tc/department/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkfcpsu",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_familyandc/familyandc/index.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "保護家庭及兒童服務課",
+      "desc": "受到家庭暴力影響的人和他們的家人，可以聯絡住址所在地區的保護家庭及兒童服務課。",
+      "hours": "",
+      "src": {
+       "org": "社會福利署",
+       "title": "保護家庭及兒童服務",
+       "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_familyandc/familyandc/index.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Family and Child Protective Services Units (FCPSU)",
+      "desc": "People affected by domestic violence, and their family members, can contact the Family and Child Protective Services Unit that covers their home address.",
+      "hours": "",
+      "src": {
+       "org": "Social Welfare Department",
+       "title": "Family and Child Protective Services",
+       "url": "https://www.swd.gov.hk/en/pubsvc/family/cat_familyandc/familyandc/index.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "社會福利署",
+      "title": "保護家庭及兒童服務",
+      "url": "https://www.swd.gov.hk/tc/pubsvc/family/cat_familyandc/familyandc/index.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkdrug",
+     "band": "day",
+     "tel": "186 186",
+     "tel2": "",
+     "url": "https://www.nd.gov.hk/tc/telephone_enquiry.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "「186 186」禁毒電話諮詢服務",
+      "desc": "禁毒處委託非政府機構提供的電話諮詢服務。也可以用 WhatsApp 或微信發送訊息至 98 186 186（每日上午十時至下午八時）。",
+      "hours": "",
+      "src": {
+       "org": "保安局禁毒處",
+       "title": "禁毒電話諮詢服務",
+       "url": "https://www.nd.gov.hk/tc/telephone_enquiry.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "\"186 186\" Anti-drug Telephone Enquiry Service",
+      "desc": "A telephone enquiry service that the Narcotics Division has asked a non-governmental organisation to run. You can also send a WhatsApp or WeChat message to 98 186 186 (10 am to 8 pm every day).",
+      "hours": "",
+      "src": {
+       "org": "Narcotics Division, Security Bureau",
+       "title": "Anti-drug Telephone Enquiry Service",
+       "url": "https://www.nd.gov.hk/en/telephone_enquiry.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "保安局禁毒處",
+      "title": "禁毒電話諮詢服務",
+      "url": "https://www.nd.gov.hk/tc/telephone_enquiry.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkdsac",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.nd.gov.hk/tc/6.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "物質誤用診所（醫院管理局）",
+      "desc": "醫院管理局的診所。除了經轉介，也可以自己直接前往。",
+      "hours": "",
+      "src": {
+       "org": "保安局禁毒處",
+       "title": "物質誤用診所",
+       "url": "https://www.nd.gov.hk/tc/6.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Substance Abuse Clinics (Hospital Authority)",
+      "desc": "Hospital Authority clinics. Besides referrals, they also see people who come to them directly.",
+      "hours": "",
+      "src": {
+       "org": "Narcotics Division, Security Bureau",
+       "title": "Substance Abuse Clinic",
+       "url": "https://www.nd.gov.hk/en/6.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "保安局禁毒處",
+      "title": "物質誤用診所",
+      "url": "https://www.nd.gov.hk/tc/6.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkalc",
+     "band": "day",
+     "tel": "2884 9876",
+     "tel2": "",
+     "url": "https://www.change4health.gov.hk/tc/alcohol_aware/facts/affecting/help/community_resources.html",
+     "linkOk": false,
+     "zhhk": {
+      "name": "東華三院「遠酒高飛」",
+      "desc": "衞生署「Change4Health」網頁介紹的、關於飲酒困擾的服務。查詢熱線 2884 9876。",
+      "hours": "",
+      "src": {
+       "org": "衞生署（Change4Health）",
+       "title": "社區服務資源",
+       "url": "https://www.change4health.gov.hk/tc/alcohol_aware/facts/affecting/help/community_resources.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Tung Wah Group of Hospitals \"Stay Sober Stay Free\"",
+      "desc": "A service for worries about drinking, listed on the Department of Health's Change4Health page. Enquiry hotline: 2884 9876.",
+      "hours": "",
+      "src": {
+       "org": "Department of Health (Change4Health)",
+       "title": "Community Resources",
+       "url": "https://www.change4health.gov.hk/en/alcohol_aware/facts/affecting/help/community_resources.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "衞生署（Change4Health）",
+      "title": "社區服務資源",
+      "url": "https://www.change4health.gov.hk/tc/alcohol_aware/facts/affecting/help/community_resources.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkgamb",
+     "band": "day",
+     "tel": "183 4633",
+     "tel2": "",
+     "url": "https://www.donotgamble.org.hk/tc/helpdesk1.php",
+     "linkOk": false,
+     "zhhk": {
+      "name": "平和戒賭熱線",
+      "desc": "平和基金網頁列出的熱線，為賭博帶來的困擾而設。",
+      "hours": "",
+      "src": {
+       "org": "平和基金",
+       "title": "戒賭服務",
+       "url": "https://www.donotgamble.org.hk/tc/helpdesk1.php",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Gambling Counselling Hotline (Ping Wo Fund)",
+      "desc": "A hotline listed on the Ping Wo Fund page, for worries about gambling.",
+      "hours": "",
+      "src": {
+       "org": "Ping Wo Fund",
+       "title": "Counselling and Treatment Services",
+       "url": "https://www.donotgamble.org.hk/en/helpdesk1.php",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "平和基金",
+      "title": "戒賭服務",
+      "url": "https://www.donotgamble.org.hk/tc/helpdesk1.php",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hklabour",
+     "band": "day",
+     "tel": "2717 1771",
+     "tel2": "",
+     "url": "https://www.labour.gov.hk/tc/public/content2_3.htm",
+     "linkOk": false,
+     "zhhk": {
+      "name": "勞工處",
+      "desc": "勞資關係的查詢熱線（由「1823」接聽）。",
+      "hours": "",
+      "src": {
+       "org": "勞工處",
+       "title": "勞資關係",
+       "url": "https://www.labour.gov.hk/tc/public/content2_3.htm",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Labour Department",
+      "desc": "Enquiry hotline on labour relations (answered by 1823).",
+      "hours": "",
+      "src": {
+       "org": "Labour Department",
+       "title": "Labour Relations",
+       "url": "https://www.labour.gov.hk/eng/public/content2_3.htm",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "勞工處",
+      "title": "勞資關係",
+      "url": "https://www.labour.gov.hk/tc/public/content2_3.htm",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkeoc",
+     "band": "day",
+     "tel": "2511 8211",
+     "tel2": "",
+     "url": "https://www.eoc.org.hk/zh-hk/enquiries-and-complaints/enquiries/telephone",
+     "linkOk": false,
+     "zhhk": {
+      "name": "平等機會委員會",
+      "desc": "一般查詢熱線。",
+      "hours": "星期一至五 上午八時四十五分至下午五時四十五分（星期六、日及公眾假期休息）",
+      "src": {
+       "org": "平等機會委員會",
+       "title": "查詢",
+       "url": "https://www.eoc.org.hk/zh-hk/enquiries-and-complaints/enquiries/telephone",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Equal Opportunities Commission",
+      "desc": "General enquiry hotline.",
+      "hours": "Monday to Friday, 8:45 am to 5:45 pm (closed on Saturdays, Sundays and public holidays)",
+      "src": {
+       "org": "Equal Opportunities Commission",
+       "title": "Enquiries",
+       "url": "https://www.eoc.org.hk/en/enquiries-and-complaints/enquiries/telephone",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "平等機會委員會",
+      "title": "查詢",
+      "url": "https://www.eoc.org.hk/zh-hk/enquiries-and-complaints/enquiries/telephone",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "hkcarer",
+     "band": "day",
+     "tel": "182 183",
+     "tel2": "",
+     "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/scpd/cs/",
+     "linkOk": false,
+     "zhhk": {
+      "name": "照顧者支援專線",
+      "desc": "社會福利署的熱線，由社工接聽，為殘疾人士和精神復元人士的照顧者提供支援。",
+      "hours": "全日二十四小時",
+      "src": {
+       "org": "社會福利署",
+       "title": "支援殘疾人士/精神復元人士照顧者",
+       "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/scpd/cs/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Designated Hotline for Carer Support",
+      "desc": "A Social Welfare Department hotline answered by social workers, for carers of persons with disabilities or persons in mental recovery.",
+      "hours": "24 hours a day",
+      "src": {
+       "org": "Social Welfare Department",
+       "title": "Support to the Carers of Persons with Disabilities/Persons in Mental Recovery",
+       "url": "https://www.swd.gov.hk/en/pubsvc/rehab/cat_supportcom/scpd/cs/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "社會福利署",
+      "title": "支援殘疾人士/精神復元人士照顧者",
+      "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/scpd/cs/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "zhhk": {
+    "groups": {
+     "mood": {
+      "label": "心情低落、提不起勁",
+      "lead": "心情長時間低落，想做甚麼都提不起勁。",
+      "scenes": [
+       "從早到晚，心情一直很低落。",
+       "以前喜歡做的事，現在做了也不覺得開心。",
+       "提不起勁，也很難專心，工作和家務都做不下去。",
+       "常常責怪自己，或是總把事情往壞處想。",
+       "晚上睡不着，或是反過來睡得太多。沒有甚麼胃口，身體也覺得沉重、沒有力氣。",
+       "有時候會想要消失。"
+      ],
+      "asks": [
+       "如果要做的事可以一次只說一件，會對我有幫助。",
+       "如果不催促我回答或作決定，讓我有一些時間想一想，會對我有幫助。",
+       "如果重要的事可以寫下來給我，會對我有幫助。",
+       "在說「加油」之前，如果可以先聽我說，會對我有幫助。",
+       "我在休息的時候，如果不會被當作是在偷懶，會對我有幫助。",
+       "如果可以一起確認，這和身體的疾病或我現在服用的藥物有沒有關係，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "更年期",
+        "why": "頁面寫到，部分婦女在更年期會感到情緒低落、煩躁、精神緊張和情緒波動。",
+        "src": {
+         "org": "衞生署家庭健康服務",
+         "title": "女性更年期",
+         "url": "https://www.fhs.gov.hk/tc_chi/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "酒精的影響",
+        "why": "頁面寫到，經常大量飲酒，會使人較容易陷入抑鬱的情緒。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "飲酒問題",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/3/1/1/alcohol",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "抑鬱症",
+        "why": "抑鬱症是一種常見的情緒病，特徵包括情緒持續低落、對平日喜歡的事失去興趣和動力，以及想法變得負面。頁面也寫到，它會影響工作、學業和社交等生活。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "抑鬱症",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/depression/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "躁狂抑鬱症（躁鬱症）",
+        "why": "躁狂抑鬱症是情緒病的一種，會出現情緒特別高漲和特別低落兩種極端的時期。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "躁狂抑鬱症（躁鬱症）",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "混合焦慮抑鬱症",
+        "why": "頁面寫到，焦慮和抑鬱是兩種不同的情緒困擾，卻經常一起出現；兩者同時出現時，困擾可以和單獨出現時一樣大。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "混合焦慮抑鬱症",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/mixed-anxiety-and-depressive-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkifsc",
+       "hkswd"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "擔心或緊張的感覺很強",
+      "lead": "擔心停不下來，或心跳加速、坐立不安，或很難待在人前、很難出門。",
+      "scenes": [
+       "在人前說話，或被大家注視的時候，非常不安，腦海一片空白。",
+       "突然心跳加速、喘不過氣，擔心「又發生怎麼辦」，所以很難出門。",
+       "沒有明確的原因，卻一件接着一件擔心，坐立不安，整個人很疲累。",
+       "乘搭港鐵或巴士，在人很多的商場或街上，或是一個人出門時，覺得很難離開，所以會避開。",
+       "一直避開讓我不安的事，去的地方和見面的人越來越少，生活的範圍越來越小。",
+       "擔心的事一直在腦海裏打轉，晚上很難入睡。"
+      ],
+      "asks": [
+       "如果我說話的時候不被催促，可以慢慢說完，會對我有幫助。",
+       "如果可以事先告訴我行程和進行的方式，會對我有幫助。",
+       "如果不會突然要我在大家面前表達意見，也可以讓我選擇用文字說明，會對我有幫助。",
+       "覺得不舒服的時候，如果可以讓我先離開座位休息一下，會對我有幫助。",
+       "如果可以在安靜的地方，和少數人談話，會對我有幫助。",
+       "如果不是用「想太多」「太敏感」一句話帶過，而是先聽聽我在困擾甚麼，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "咖啡因的影響",
+        "why": "頁面寫到，咖啡因攝取太多，可以引起焦慮、心跳加速和手震，也會影響睡眠；而每個人能承受的咖啡因份量並不一樣。",
+        "src": {
+         "org": "食物環境衞生署食物安全中心",
+         "title": "咖啡和奶茶中的咖啡因",
+         "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_87_03.html",
+         "kind": "fact",
+         "upd": "二零一三年十月"
+        }
+       },
+       {
+        "name": "更年期",
+        "why": "頁面寫到，部分婦女在更年期會感到煩躁和精神緊張。",
+        "src": {
+         "org": "衞生署家庭健康服務",
+         "title": "女性更年期",
+         "url": "https://www.fhs.gov.hk/tc_chi/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "焦慮症",
+        "why": "焦慮症是一組以過分擔憂和恐懼為主的情緒困擾，也常會預期危險快要來臨。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "焦慮症",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/anxiety-disorders/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "驚恐症",
+        "why": "驚恐症是在沒有明顯原因的情況下，重複出現突如其來的極度驚慌。頁面寫到，它會打亂工作和日常生活，帶來很大的困擾。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "驚恐症",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/2/3/6/panic-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "混合焦慮抑鬱症",
+        "why": "頁面寫到，焦慮和抑鬱經常一起出現；兩者同時出現時，困擾可以和單獨出現時一樣大。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "混合焦慮抑鬱症",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/mixed-anxiety-and-depressive-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "很難停下確認或重複的行為",
+      "lead": "一再確認門窗或煤氣、一直洗手等，重複同樣的事，想停也很難停下來。",
+      "scenes": [
+       "出門前要確認好幾次門有沒有鎖、煤氣有沒有關，才能安心出門。",
+       "洗手或洗身體的次數越來越多，想停也停不下來。",
+       "同樣的擔心一再出現在腦海裏，很想不再去想，卻停不下來。",
+       "東西的擺法或順序，沒有照我定好的方式就很不安，會一直重新擺、重新做。",
+       "確認着確認着，時間就過去了，出門晚了，趕不上約定或上班的時間。",
+       "身體會不由自主地動，或發出聲音，想停也很難停下來。"
+      ],
+      "asks": [
+       "如果不是用「想太多」「太敏感」一句話帶過，而是先聽聽我在困擾甚麼，會對我有幫助。",
+       "我確認需要花時間，如果時間可以安排得寬鬆一些，會對我有幫助。",
+       "如果要更改行程或步驟的時候可以事先告訴我，會對我有幫助。",
+       "我在確認或洗手的時候，如果不會在別人面前被指出來，或被拿來取笑，會對我有幫助。",
+       "如果說明或指示可以一項一項寫下來給我，會對我有幫助。",
+       "之後要怎樣尋求諮詢、怎樣求診，如果可以先聽聽我擔心的地方，再慢慢決定，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "強迫症",
+        "why": "強迫症是焦慮症的一種，同樣的想法或行為會反覆出現，例如懷疑門窗沒有鎖好，或一再洗手。頁面寫到，這些行為會花去很多時間，令人遲遲才能出門或做其他事。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "強迫症",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/2/3/5/obsessive-compulsive-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "自閉症譜系障礙",
+        "why": "頁面寫到，自閉症譜系障礙的特點包括社交溝通上的困難，以及較重複和固執不變的行為和狹窄的興趣。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "自閉症譜系障礙",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/autism-spectrum-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "經歷難受的事之後，一直放在心上",
+      "lead": "經歷難受的事之後，當時的記憶一再浮現，或睡不好，或一直沒辦法放鬆。",
+      "scenes": [
+       "因為一點小事，難受時的畫面和心情突然又湧上來。",
+       "一再夢到類似的可怕夢境，常常睡不安穩。",
+       "總是繃緊神經，一點聲響或小事都會嚇一跳。",
+       "盡量避開會讓我想起那時候的地方、人和話題，能做的事越來越少。",
+       "感覺心好像麻木了，對家人和朋友，也沒辦法再像以前那樣投入感情。",
+       "責怪自己的心情越來越強，或是很難相信身邊的人。"
+      ],
+      "asks": [
+       "如果不追問發生了甚麼事的細節，讓我按自己的步調，只說說得出口的部分，會對我有幫助。",
+       "有些聲音、地方和話題會讓我想起那時候。如果我說想避開的時候，我的想法可以得到尊重，會對我有幫助。",
+       "如果不會突然從背後叫我，或發出很大的聲響，會對我有幫助。",
+       "說不出口的時候，如果可以改為把寫好的紙條交給對方，會對我有幫助。",
+       "如果睡不着、疲倦沒有消失的日子，不會被當成是偷懶，會對我有幫助。",
+       "如果不會被催着「忘了吧」「趕快走出來」，而是有一個能安心說話的地方，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "創傷後壓力症（PTSD）",
+        "why": "創傷後壓力症是一種焦慮症，在經歷極具威脅或災難性的事件之後出現，例如天災、嚴重意外、目睹他人慘死或遭遇暴力罪案。頁面也提到容易受驚和難以入睡等表現。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "創傷後壓力症 (創傷後應激障礙)",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/2/3/7/post-traumatic-stress-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "急性壓力反應",
+        "why": "頁面寫到，親眼看到或親身經歷突然發生的重大事故之後，有時會出現急性壓力反應，例如心跳加速、失眠或發惡夢；這些反應大多會隨着時間慢慢減退。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "如何關顧承受急性壓力的自己和親友",
+         "url": "https://www.shallwetalk.hk/app/public/files/Article_Acute%20stress%20and%20signs%20for%20seeking%20medical%20help_tc-04.pdf",
+         "kind": "fact",
+         "upd": "二零二五年"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkfcpsu",
+       "hkifsc",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "睡眠有困擾",
+      "lead": "很難入睡、半夜常醒來、早上很難起牀，或日間很想睡。",
+      "scenes": [
+       "躺到牀上，還是很久都睡不着。",
+       "半夜醒來好幾次，直到早上都睡不安穩。",
+       "到了該起牀的時間卻起不來，上班或上學一直遲到。",
+       "日間非常想睡，開會或駕駛的時候差點睡着。",
+       "家人說我打鼾很大聲，睡覺時好像會停止呼吸。",
+       "到了黃昏或晚上，腿部不舒服、靜不下來，睡不着。"
+      ],
+      "asks": [
+       "如果可以花時間聽我說睡眠的情況，包括入睡、半夜醒來、早上起不來和日間想睡的程度，會對我有幫助。",
+       "如果可以把我正在服用的藥物，以及我喝咖啡、飲酒、吸煙的習慣一併考慮，一起想想原因，會對我有幫助。",
+       "如果不要用「想太多」「想開一點」帶過，而是一併了解身體和心情的情況，會對我有幫助。",
+       "我想用寫了就寢和起牀時間的紙條來說明，如果可以看一下，會對我有幫助。",
+       "如果需要用藥，用容易明白的方式說明藥物怎樣發揮作用、要注意甚麼，會對我有幫助。",
+       "早上對我比較吃力，如果可以安排下午或晚上的診症時間，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "咖啡因的影響",
+        "why": "頁面寫到，攝取過量咖啡因可令人心跳加速、手震，也會影響睡眠。",
+        "src": {
+         "org": "食物環境衞生署食物安全中心",
+         "title": "咖啡和奶茶中的咖啡因",
+         "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_87_03.html",
+         "kind": "fact",
+         "upd": "二零一三年十月"
+        }
+       },
+       {
+        "name": "身體的疾病和藥物",
+        "why": "頁面寫到，心臟病、內分泌問題、痛症等身體疾病，以及藥物，都有機會令人睡得不安穩。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "酣睡有法寶",
+         "url": "https://www.shallwetalk.hk/app/public/files/tips_on_sleeping_soundly_tc.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "咖啡、濃茶和酒精",
+        "why": "頁面寫到，咖啡、濃茶和含酒精的飲品都帶有刺激性的成分，對健康有影響，也會令睡眠的質素變差。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "酣睡有法寶",
+         "url": "https://www.shallwetalk.hk/app/public/files/tips_on_sleeping_soundly_tc.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "失眠",
+        "why": "失眠是指不能入睡、過早醒來或斷斷續續地醒來，以致睡眠不足。",
+        "src": {
+         "org": "衞生署衞生防護中心",
+         "title": "男性心理問題 - 失眠",
+         "url": "https://www.chp.gov.hk/tc/static/80083.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "情緒困擾和精神健康問題",
+        "why": "頁面寫到，情緒困擾和精神問題也會影響睡眠。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "酣睡有法寶",
+         "url": "https://www.shallwetalk.hk/app/public/files/tips_on_sleeping_soundly_tc.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "創傷後壓力症（PTSD）",
+        "why": "頁面寫到，創傷後壓力症的情況包括容易受驚和睡眠困難。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "創傷後壓力症 (創傷後應激障礙)",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/2/3/7/post-traumatic-stress-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "飲食有困擾",
+      "lead": "吃東西變得困難。只能吃一點點、停不下來，或對吃東西感到害怕。",
+      "scenes": [
+       "不想吃東西，食物很難吞下去的日子一直持續。",
+       "一開始吃就停不下來，有時吃到肚子很不舒服。",
+       "回過神來，滿腦子都是食物，很難專心做別的事。",
+       "能吃的東西很有限，味道、氣味或口感令我難受，所以常常避開很多食物。",
+       "被食物噎到或嘔吐過一次之後，就變得害怕進食。",
+       "晚上有時在半夢半醒之間進食，到了早上完全不記得。"
+      ],
+      "asks": [
+       "如果不要評論我的身形、肥瘦或外表，會對我有幫助。",
+       "如果不要勉強我吃，也不要催我快點吃，會對我有幫助。",
+       "聚餐、公司飯局或家人聚會要一起吃飯的時候，如果可以讓我選擇別的地方或時間，會對我有幫助。",
+       "如果可以先問我能吃甚麼，以及哪些氣味、口感令我難受，會對我有幫助。",
+       "如果可以先說明要做哪些身體檢查、診症的流程，會對我有幫助。",
+       "難以開口說的事，如果可以寫在紙上交給對方，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "進食失調症（厭食症、暴食症、狂食症）",
+        "why": "進食失調症指的是對飲食的看法和吃東西的方式出現嚴重紊亂的一類疾病，例如吃得極少或極多，或者在短時間內停不下來地吃下大量食物。",
+        "src": {
+         "org": "衞生署衞生防護中心",
+         "title": "進食失調症面面觀",
+         "url": "https://www.chp.gov.hk/files/pdf/ncd_watch_may2014_chin.pdf",
+         "kind": "fact",
+         "upd": "二零一四年五月"
+        }
+       },
+       {
+        "name": "抑鬱症",
+        "why": "頁面寫到，抑鬱症的表現除了情緒持續低落，還包括睡眠和食慾受到影響。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "抑鬱症",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/2/3/3/depression",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "很難停下喝酒、賭博、玩遊戲",
+      "lead": "想停下來或減少，卻還是一直做下去。",
+      "scenes": [
+       "明明決定要停下來、要減少，回過神來又繼續了。",
+       "給自己定好「今天到這裏為止」的時間、分量或金額，卻沒辦法遵守。",
+       "喝酒、玩遊戲或賭博的事，會瞞着身邊的人，或用別的說法帶過。",
+       "因為玩電子遊戲、玩手機遊戲而熬夜，早上起不來，遲到或請假變多了。",
+       "輸了之後，想把輸掉的贏回來，於是又賭了。",
+       "明知身體不舒服，還是沒辦法少喝一點。"
+      ],
+      "asks": [
+       "如果可以先聽我說，不責備、不下定論，會對我有幫助。",
+       "如果可以一起按次序，整理目前的情況和困擾的地方，會對我有幫助。",
+       "如果也可以一併了解我的睡眠和身體狀況，會對我有幫助。",
+       "如果可以具體告訴我，可以到哪裏諮詢、有哪些地方可以去，會對我有幫助。",
+       "如果可以告訴我，家人或身邊的人能不能一起諮詢，會對我有幫助。",
+       "如果可以先和我確認，我說的內容會告訴誰、告訴到甚麼程度，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "暴飲",
+        "why": "頁面提醒，無論甚麼時候都不應暴飲；也寫到長期累積的飲酒量越多，包括精神疾病在內的多種長期疾病也越容易出現。",
+        "src": {
+         "org": "衞生署衞生防護中心",
+         "title": "飲酒與健康",
+         "url": "https://www.chp.gov.hk/tc/healthtopics/content/100200/8798.html",
+         "kind": "fact",
+         "upd": "2025年4月15日"
+        }
+       },
+       {
+        "name": "飲酒問題（酒精依賴）",
+        "why": "頁面寫到，每天飲酒可以令身體慢慢習慣酒精的影響，於是在不知不覺間飲得越來越多，最後變得依賴酒精。",
+        "src": {
+         "org": "醫院管理局 青山醫院精神健康學院",
+         "title": "飲酒問題",
+         "url": "https://www3.ha.org.hk/cph/imh/tc/mental-health-info/3/1/1/alcohol",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "病態賭博",
+        "why": "頁面把賭博行為失控、即使因賭博出現各種問題和壓力仍然想繼續賭博的情況，稱為病態賭博。",
+        "src": {
+         "org": "衞生署衞生防護中心",
+         "title": "男性心理問題 - 病態賭博",
+         "url": "https://www.chp.gov.hk/tc/static/80081.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkdrug",
+       "hkdsac",
+       "hkalc",
+       "hkgamb",
+       "hkiccmw"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "很難集中注意力或做計劃",
+      "lead": "很難專心、很難按次序做事、很難記住事情。",
+      "scenes": [
+       "聽別人說話的時候，不知不覺就在想別的事。",
+       "工作或家務沒辦法按次序做，趕不及限期。",
+       "別人託我做的事或約好的事，後來常常想不起來，也常常遺失東西。",
+       "一直做同樣的事，粗心的錯誤就變多。",
+       "一直坐着不動，就覺得靜不下來、坐立不安。",
+       "有時會被身邊的人說，我常常忘記東西或遲到。"
+      ],
+      "asks": [
+       "如果指示可以一次只說一項，會對我有幫助。",
+       "如果可以把重要的事寫成文字給我，會對我有幫助。",
+       "如果可以早一點告訴我限期和約好的事，會對我有幫助。",
+       "如果不要一次託我做很多事，而是分成小份，會對我有幫助。",
+       "如果可以在比較安靜、不容易分心的地方談，會對我有幫助。",
+       "如果不要責怪我做不到的地方，也肯定我做到的部分，會對我有幫助。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "更年期",
+        "why": "頁面寫到，有些婦女在更年期會覺得記憶變差，或者很難集中精神。",
+        "src": {
+         "org": "衞生署家庭健康服務",
+         "title": "女性更年期",
+         "url": "https://www.fhs.gov.hk/tc_chi/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "睡眠不足",
+        "why": "頁面寫到，有實驗發現，連續一段時間睡少了，即使之後補回睡眠，持續專注和工作記憶等能力還是沒有回到原本的水平。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "好眠好生活",
+         "url": "https://www.shallwetalk.hk/app/public/files/Sleep_Well_Live_Well_Article_TC.pdf",
+         "kind": "fact",
+         "upd": "二零二三年"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkifsc"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "在人際關係、固定的做法或感官上有困擾",
+      "lead": "和人說話或相處有困難，或很想一直用同樣的做法，或很難忍受聲音、光線、氣味。",
+      "scenes": [
+       "很難掌握對方的心情和現場的氣氛，覺得話接不上。",
+       "在人前說話，或被大家注視的時候會非常緊張，所以會避開這樣的場合。",
+       "和熟悉的人可以說話，在不熟的人面前卻說不出話來。",
+       "固定的做法、次序或物品擺放的位置一改變，就會非常不安。",
+       "聲音、光線、氣味等覺得特別強烈，在港鐵或商場等人多的地方很難受。",
+       "聽不清楚別人說的話，或心情低落，連見人、說話都覺得辛苦。"
+      ],
+      "asks": [
+       "如果說話可以慢一點、清楚一點，會對我有幫助。",
+       "如果重要的事可以寫下來給我，會對我有幫助。",
+       "我希望在安靜的地方談話。",
+       "如果更改預定或做法之前可以先告訴我，會對我有幫助。",
+       "我希望你不要催我回答，耐心等我。",
+       "我希望可以用文字或字條代替說話來回答。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "抑鬱症",
+        "why": "頁面寫到，抑鬱症會影響工作、學業和社交等生活。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "抑鬱症",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/depression/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "自閉症譜系障礙",
+        "why": "頁面寫到，自閉症譜系障礙會令社交溝通、認知和情緒等方面的發展，出現程度不一的困難和差異。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "自閉症譜系障礙",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/autism-spectrum-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkifsc"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "閱讀、書寫、計算有困難",
+      "lead": "就算很努力，閱讀、書寫、處理數字還是一直很困難。",
+      "scenes": [
+       "我讀一篇文章比別人花更多時間，常常要一讀再讀。",
+       "讀完之後，內容還是進不到腦裏，很難明白文件或信件在說甚麼。",
+       "常寫錯字、別字，或想不起字怎樣寫，也常漏寫。",
+       "字寫得不工整，寫字要花很多時間和力氣。",
+       "簡單的計算，或用文字敘述的計算題，我常常卡住。",
+       "說話和聽別人說話都做得到，但是一碰到閱讀、書寫、計算，就算花很多時間，也沒有辦法照自己想的進行。"
+      ],
+      "asks": [
+       "如果文字可以用較大的字和較闊的行距呈現，難懂的詞語也換成簡單的說法，會對我有幫助。",
+       "如果重要的內容可以唸給我聽，或口頭告訴我，會對我有幫助。",
+       "我希望可以用手機或電腦輸入，或用拍照、錄音記下來，代替手寫。",
+       "計算的時候，我希望可以使用計算機。",
+       "閱讀、書寫、計算的時候，我希望可以多給我一些時間。",
+       "我希望一次給我的分量少一點，一項一項交給我。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "睡眠不足",
+        "why": "頁面寫到，有實驗發現，睡眠減少一段時間後，即使之後補回睡眠，閱讀理解等能力仍未能恢復到原來的水平。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "好眠好生活",
+         "url": "https://www.shallwetalk.hk/app/public/files/Sleep_Well_Live_Well_Article_TC.pdf",
+         "kind": "fact",
+         "upd": "二零二三年"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkifsc"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "心情起伏很大",
+      "lead": "心情起伏很大，自己也很難跟上自己的心情。",
+      "scenes": [
+       "精神特別亢奮的時期，和低落到動不了的時期，輪流出現。",
+       "有一段時期，我幾乎沒怎麼睡，卻很有精神，可以一直動個不停。",
+       "想做的事一件接一件冒出來，每一件都做到一半就放着。",
+       "心情高漲，膽子變大，花了太多錢，事後很傷腦筋。",
+       "一點小事就煩躁，很難按捺自己的情緒。",
+       "情緒高漲的時候做的事，後來影響到人際關係或工作。"
+      ],
+      "asks": [
+       "我希望你也問問我精神特別好的那段時期的情況。",
+       "我希望你花一些時間，和我一起回顧心情的起起落落。",
+       "在做和金錢、工作有關的重大決定之前，如果可以提醒我先停下來想一想，會對我有幫助。",
+       "我希望你也了解我的睡眠、用藥和飲酒的情況，從身體方面一起確認。",
+       "如果覺得我和平常不太一樣，我希望你不要責備我，直接告訴我。",
+       "不論是精神很好的時候，還是低落的時候，我都希望你把我的話聽到最後。"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "更年期",
+        "why": "頁面寫到，部分婦女在更年期會感到情緒波動。",
+        "src": {
+         "org": "衞生署家庭健康服務",
+         "title": "女性更年期",
+         "url": "https://www.fhs.gov.hk/tc_chi/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "經前緊張綜合症",
+        "why": "經前緊張綜合症，是指婦女在月經來潮前反覆出現的身體不適，以及心理或行為上的變化。頁面寫到，情況嚴重時，可能影響日常工作、生活和人際關係。",
+        "src": {
+         "org": "衞生署家庭健康服務",
+         "title": "經前緊張綜合症",
+         "url": "https://www.fhs.gov.hk/tc_chi/health_info/woman/15653.html",
+         "kind": "fact",
+         "upd": "04/2025"
+        }
+       },
+       {
+        "name": "躁狂抑鬱症（躁鬱症）",
+        "why": "躁狂抑鬱症是情緒病的一種，會出現情緒特別高漲和特別低落兩種極端的時期。",
+        "src": {
+         "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+         "title": "躁狂抑鬱症（躁鬱症）",
+         "url": "https://www.shallwetalk.hk/zh/mental-health-information/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "知道名稱之後，平常的小起伏有時也會好像對得上",
+       "body": "知道疾病或發展方面的名稱之後，平常小小的疲倦或發呆，有時會讓人覺得好像跟那個名稱對得上。\n\n心情的變化會影響身體和情緒，這不是心理作用，而是真的會發生的事。不過，睡眠不足、壓力、長時間使用手機、周圍的狀況，也會造成類似的情形。\n\n看到某個名稱，覺得「好像就是這個」的時候，不要只憑這一點就下結論，也想想有沒有別的原因。困擾持續的時候，不論有沒有名稱，都可以直接諮詢。",
+       "srcs": []
+      },
+      {
+       "h": "心情的起伏和擔心，是生活中會有的事",
+       "body": "誰都會有擔心的時候，在面對重要的事情之前更是這樣。心情的起伏和擔心，是生活中會有的事。\n\n不過，名稱（診斷名稱）由醫生等醫護人員綜合各種情況決定。同樣的困擾，原因也可能各有不同，例如身體的疾病、藥物或酒精。困擾持續的時候，不論有沒有名稱，都可以直接諮詢。",
+       "srcs": [
+        {
+         "org": "衞生署衞生防護中心",
+         "title": "男性心理問題 - 憂慮症",
+         "url": "https://www.chp.gov.hk/tc/static/80079.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "沒有病名，也可以諮詢",
+       "body": "沒有病名，也可以把困擾說出來、尋求諮詢。\n\n社會福利署介紹的精神健康綜合社區中心，服務對象包括有精神健康需要的中學生和他們的家人、照顧者，以及想照顧自己精神健康的區內居民；可以自己申請，申請不收費。\n\n應徵工作時，要不要說出自己的殘疾，由自己決定；不過，僱主不知道的話，就難以在面試時作出適當的安排。",
+       "srcs": [
+        {
+         "org": "社會福利署",
+         "title": "精神健康綜合社區中心",
+         "url": "https://www.swd.gov.hk/tc/pubsvc/rehab/cat_supportcom/centrebase/iccmw/index.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "平等機會委員會",
+         "title": "Code of Practice on Employment",
+         "url": "https://www.eoc.org.hk/Upload/cc26d004-b785-4ee7-8673-f92925df889f/ddocop_e_8969.pdf",
+         "kind": "fact",
+         "upd": "2011"
+        }
+       ]
+      },
+      {
+       "h": "不過，使用制度時，有時需要醫生的證明等文件",
+       "body": "不過，使用制度時，有時需要醫生的證明等文件，需要甚麼因制度而不同。\n\n疾病津貼：需要醫生證明書。\n\n傷殘津貼：需要由衞生署署長或醫院管理局行政總裁證明為嚴重殘疾。\n\n香港中學文憑考試的特別考試安排：學校考生經學校申請，自修生自行申請，並要附上醫療報告等文件。\n\n辦手續前，先向有關部門查詢需要甚麼文件。",
+       "srcs": [
+        {
+         "org": "勞工處",
+         "title": "Chapter 5: Sickness Allowance",
+         "url": "https://www.labour.gov.hk/eng/public/wcp/ConciseGuide/05.pdf",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "社會福利署",
+         "title": "普通傷殘津貼",
+         "url": "https://www.swd.gov.hk/tc/pubsvc/socsecu/ssallowance/ssaec/ssaec_nda/index.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "香港考試及評核局",
+         "title": "HKDSE Application Guide - Applications for SEAs",
+         "url": "https://www.hkeaa.edu.hk/DocLibrary/Candidates/Special_Needs_Candidates/HKDSE_Application_Guide_2027_2028_HKDSE_Eng.pdf",
+         "kind": "fact",
+         "upd": "August 2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "病名不是用來站在別人之上的工具",
+       "body": "病名不是用來站在別人之上，或是看不起別人的工具。\n也有人在知道名稱之後，心情變得輕鬆。這很重要。\n希望周圍的人理解自己、對自己溫柔一點，也是很自然的事。\n\n希望別人對自己溫柔一點的時候，可以直接開口請求。\n把「遇到甚麼困難」和「希望對方怎樣做」一起說，比較容易傳達。\n\n例如這樣說：\n「今天比較累，如果說話可以慢一點，會對我有幫助。」\n「一次聽到很多事我會弄混，希望一件一件說。」\n「只靠聽比較難記住，重要的事希望寫在紙上，或用電郵寄給我。」\n「人多的地方我比較吃不消，希望可以在安靜的地方談。」\n「我回答需要一點時間，希望可以稍微等一下。」\n「現在心裏滿是情緒，希望先聽我說，意見之後再給就好。」\n「今天狀況不太好，希望可以讓我休息一下。」\n「突然改變計劃我會慌張，希望可以早一點告訴我。」\n「別人大聲對我說話時，我會害怕，希望可以平靜地說。」\n\n如果不太會說，也可以寫在紙上交給對方。在這個應用程式裏，選擇困擾、回答問題之後會出現「我的困擾」，也可以用「放大顯示」給對方看。\n想告訴對方病名的時候，可以告訴對方。這時候，除了病名，也把「遇到甚麼困難、希望怎樣做」一起說，對方比較知道怎樣配合。\n就算開口請求了，有時對方也因為自己的狀況做不到。這時候，可以一起談談有沒有別的做法。\n在職場上請對方配合時，可以這樣說：「我在○○的時候比較吃力，希望可以○○。」\n\n請不要把這個應用程式的名稱一覽，當成懷疑周圍的人的材料。",
+       "srcs": []
+      },
+      {
+       "h": "關於這個應用程式",
+       "body": "這不是診斷。名稱一覽不能說明有沒有疾病或障礙。這個應用程式不是醫療器材。\n\nSOYOGI 是一個以日本為基地的非牟利義務團體。SOYOGI 與香港特別行政區政府、衞生署、醫院管理局、社會福利署及其他機構都沒有關係，也沒有收取這些機構的資助。畫面上出現的機構名稱，只用來說明資料的出處。\n\n內容是 SOYOGI 參考各機構公開的資料，用自己的話寫成。各機構的原文，可以在各機構的網站閱讀。\n\n確認日期是 2026-11-18。電話號碼和時間可能會有變動，時間按各機構的寫法顯示。要不要諮詢，由你自己決定，這個應用程式不會替你決定。",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "政府的「情緒通」18111 精神健康支援熱線，為任何背景、任何年齡的市民提供支援。困擾持續了多久、對學習、工作和社交生活有多大影響，都可以在諮詢時說出來。",
+      "src": {
+       "org": "政府新聞處（政府新聞公報）",
+       "title": "政府推24小時「情緒通」熱線 一站式支援情緒困擾人士（附圖）",
+       "url": "https://www.info.gov.hk/gia/general/202312/27/P2023122700235.htm",
+       "kind": "fact",
+       "upd": "2023-12-27"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "注意力或與人相處上的困擾，不論有沒有病名，都可以先向家庭醫生或家庭醫學診所說明，也可以聯絡精神健康綜合社區中心或「情緒通」18111。",
+       "src": {
+        "org": "陪我講 Shall We Talk（精神健康諮詢委員會）",
+        "title": "專業診治",
+        "url": "https://www.shallwetalk.hk/zh/get-help/professional-help/",
+        "kind": "fact",
+        "upd": "2025-02-17"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "名稱（診斷名稱）由醫生等醫護人員綜合各種情況決定。同樣的困擾，原因也可能各有不同，例如身體的疾病、藥物或酒精。",
+      "text": "",
+      "src": null
+     },
+     "fewNote": "在政府及醫院管理局等機構的網頁上，能確認的名稱不多。",
+     "noNames": "在政府及醫院管理局等機構的健康網頁上，未能確認這一組的名稱，所以這裏不列出名稱。你仍然可以在這個應用程式找到求助和諮詢的地方。"
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Menopause",
+        "why": "The page says some women going through menopause feel low, irritable or tense, and find that their mood goes up and down.",
+        "src": {
+         "org": "Family Health Service, Department of Health",
+         "title": "Dealing with Menopause",
+         "url": "https://www.fhs.gov.hk/english/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "Effects of alcohol",
+        "why": "The page says that drinking too much leads to a low mood.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Alcoholism",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/3/1/1/alcohol",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression is a common mood disorder. The page describes a low mood that keeps going, a loss of interest and energy, and negative thinking, and says it can disrupt daily life, such as work and social life.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Depression",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/depression/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic depression)",
+        "why": "Bipolar disorder is a mood disorder in which a person goes through both very high periods (mania) and very low periods (depression).",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Bipolar Disorders",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "Mixed anxiety and depressive disorder",
+        "why": "The page says anxiety and depression are two different kinds of mood difficulty that often occur together, and that people affected can be as distressed as those with either one alone.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Mixed Anxiety and Depressive Disorder",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/mixed-anxiety-and-depressive-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkifsc",
+       "hkswd"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like the MTR, buses, crowded shopping malls, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Too much caffeine",
+        "why": "The page says that too much caffeine can bring on anxiety, a fast heartbeat and shaking, and can disturb sleep, and that people differ in how much caffeine they can take.",
+        "src": {
+         "org": "Centre for Food Safety, Food and Environmental Hygiene Department",
+         "title": "Caffeine in Coffee and Milk Tea",
+         "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_87_03.html",
+         "kind": "fact",
+         "upd": "October 2013"
+        }
+       },
+       {
+        "name": "Menopause",
+        "why": "The page says some women going through menopause feel irritable or tense.",
+        "src": {
+         "org": "Family Health Service, Department of Health",
+         "title": "Dealing with Menopause",
+         "url": "https://www.fhs.gov.hk/english/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "Anxiety disorders are a group of conditions marked by excessive worry and fear, and by expecting danger to be near.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Anxiety Disorders",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/anxiety-disorders/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "Panic disorder means sudden attacks of intense fear that come again and again, without warning and not only in particular situations. The page says it affects work and daily life and causes great distress.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Panic Disorder",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/2/3/6/panic-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Mixed anxiety and depressive disorder",
+        "why": "The page says anxiety and depression often occur together, and that people affected can be as distressed as those with either one alone.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Mixed Anxiety and Depressive Disorder",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/mixed-anxiety-and-depressive-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the cooker, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the cooker again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I don't make it to appointments or work on time.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "Obsessive-compulsive disorder is one of the anxiety disorders. Thoughts or actions keep coming back, such as doubting that a door is locked, or washing the hands again and again. The page says this takes up a lot of time, so that it can take a long time to go out or do other things.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Obsessive Compulsive Disorder (OCD)",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/2/3/5/obsessive-compulsive-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder",
+        "why": "The page says autism spectrum disorder involves differences in social communication, and repeated, fixed patterns of behaviour and interests.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Autism Spectrum Disorder",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/autism-spectrum-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel close to my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "Post-traumatic stress disorder is an anxiety disorder that can follow a very threatening or catastrophic event, such as a disaster, a serious accident, seeing someone die violently, or being a victim of violent crime. The page also mentions being easily startled and having difficulty sleeping.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Post-traumatic Stress Disorder",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/2/3/7/post-traumatic-stress-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Acute stress reaction",
+        "why": "The page says that after a serious accident, a disaster or a violent incident, people can have reactions in body and mind, such as a racing heart, sleep problems or nightmares, and that these reactions generally ease over time.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Safeguarding Mental Health During Critical Incidents",
+         "url": "https://www.shallwetalk.hk/app/public/files/%E5%9C%A8%E9%87%8D%E5%A4%A7%E4%BA%8B%E6%95%85%E4%B8%AD%E5%AE%88%E8%AD%B7%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%20EN_V5.pdf",
+         "kind": "fact",
+         "upd": "2026"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkfcpsu",
+       "hkifsc",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep being late for work or school.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "It would help me if there were time to explain how my sleep is going, such as falling asleep, waking in the night, trouble getting up in the morning and sleepiness during the day.",
+       "It would help me if we could think through the cause together, including the medicines I take and my habits with coffee, alcohol and smoking.",
+       "It would help me if my sleep were not put down to my mindset, and if my physical health and my mood were looked at together.",
+       "It would help me if I could show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If medicine is suggested, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so it would help me to have an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Too much caffeine",
+        "why": "The page says that too much caffeine can bring on a fast heartbeat and shaking, and can disturb sleep.",
+        "src": {
+         "org": "Centre for Food Safety, Food and Environmental Hygiene Department",
+         "title": "Caffeine in Coffee and Milk Tea",
+         "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_87_03.html",
+         "kind": "fact",
+         "upd": "October 2013"
+        }
+       },
+       {
+        "name": "Physical health problems and medicines",
+        "why": "The page says that health problems, such as heart disease, hormone problems or chronic pain, and medicines can also make it hard to sleep soundly.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Tips on Sleeping Soundly",
+         "url": "https://www.shallwetalk.hk/app/public/files/tips_on_sleeping_soundly_en.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Coffee, strong tea and alcohol",
+        "why": "The page says that coffee, strong tea and drinks with alcohol all have stimulating substances in them, which affect health and can make sleep poorer.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Tips on Sleeping Soundly",
+         "url": "https://www.shallwetalk.hk/app/public/files/tips_on_sleeping_soundly_en.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "Insomnia means having trouble falling asleep, waking too early, or waking on and off, so that a person does not get enough sleep.",
+        "src": {
+         "org": "Centre for Health Protection, Department of Health",
+         "title": "Men's Mind - Insomnia",
+         "url": "https://www.chp.gov.hk/en/static/80083.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Emotional distress and mental health difficulties",
+        "why": "The page says that emotional distress and mental health difficulties can also disturb sleep.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Tips on Sleeping Soundly",
+         "url": "https://www.shallwetalk.hk/app/public/files/tips_on_sleeping_soundly_en.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "The page says that post-traumatic stress disorder can include being easily startled and having difficulty sleeping.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Post-traumatic Stress Disorder",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/2/3/7/post-traumatic-stress-disorder",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for a long time.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "It would help me if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When people eat together, such as at a work dinner or a family gathering, it would help me to be able to choose a different place or time.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or tests explained beforehand.",
+       "It would help me to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders (anorexia nervosa, bulimia nervosa, binge eating disorder)",
+        "why": "Eating disorders are a group of illnesses in which attitudes to food and ways of eating are seriously disturbed, for example eating very little or a great deal, or eating a large amount in a short time without being able to stop.",
+        "src": {
+         "org": "Centre for Health Protection, Department of Health",
+         "title": "The Faces of Eating Disorders",
+         "url": "https://www.chp.gov.hk/files/pdf/ncd_watch_may2014.pdf",
+         "kind": "fact",
+         "upd": "May 2014"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "The page says that in depression, besides a low mood that keeps going, sleep and appetite can also be disturbed.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Depression",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/2/3/3/depression",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "It would help me to work out, step by step, how I use these and what problems they cause.",
+       "It would help me if my sleep and physical health were looked at as well.",
+       "It would help me to be told specifically where I can get support and where I can go.",
+       "It would help me to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Binge drinking",
+        "why": "The page warns against binge drinking at any time, and says that the more alcohol a person drinks over the years, the more long-term illnesses can follow, including mental illnesses.",
+        "src": {
+         "org": "Centre for Health Protection, Department of Health",
+         "title": "Alcohol Consumption and Health",
+         "url": "https://www.chp.gov.hk/en/healthtopics/content/100200/8798.html",
+         "kind": "fact",
+         "upd": "15 April 2025"
+        }
+       },
+       {
+        "name": "Alcohol dependence",
+        "why": "The page says that drinking every day can make the body get used to the effect of alcohol, so that a person drinks more and more without noticing and in the end comes to depend on it.",
+        "src": {
+         "org": "Hospital Authority (Castle Peak Hospital)",
+         "title": "Alcoholism",
+         "url": "https://www3.ha.org.hk/cph/imh/en/mental-health-info/3/1/1/alcohol",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Pathological gambling",
+        "why": "The page uses the name pathological gambling for gambling that gets out of control, where the urge to gamble goes on despite the problems and distress it brings.",
+        "src": {
+         "org": "Centre for Health Protection, Department of Health",
+         "title": "Men's Mind - Gambling",
+         "url": "https://www.chp.gov.hk/en/static/80081.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkdrug",
+       "hkdsac",
+       "hkalc",
+       "hkgamb",
+       "hkiccmw"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I cannot get through work or housework in order, and I miss deadlines.",
+       "I often cannot recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "It would help me not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "It would help me to talk in a quiet place where I am less distracted.",
+       "It would help me if people recognised what I managed to do, rather than blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Menopause",
+        "why": "The page says some women going through menopause find their memory gets worse or that it is hard to concentrate.",
+        "src": {
+         "org": "Family Health Service, Department of Health",
+         "title": "Dealing with Menopause",
+         "url": "https://www.fhs.gov.hk/english/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "Lack of sleep",
+        "why": "The page says an experiment found that after a period of cutting sleep, sustained attention and working memory did not come back to where they had been, even after catching up on sleep.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Sleep well, live well",
+         "url": "https://www.shallwetalk.hk/app/public/files/Sleep_Well_Live_Well_Article_EN.pdf",
+         "kind": "fact",
+         "upd": "2023"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkifsc"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places such as the MTR or shopping centres are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "The page says depression can disrupt daily life, such as work and social life.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Depression",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/depression/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder",
+        "why": "The page says autism spectrum disorder involves differences and difficulties, to different degrees, in the development of social communication, thinking and emotions.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Autism Spectrum Disorder",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/autism-spectrum-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkifsc"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "It would help me to have text in large print with wide line spacing, and difficult words put more simply.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Lack of sleep",
+        "why": "The page says an experiment found that after a period of cutting sleep, reading comprehension and other abilities did not come back to where they had been, even after catching up on sleep.",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Sleep well, live well",
+         "url": "https://www.shallwetalk.hk/app/public/files/Sleep_Well_Live_Well_Article_EN.pdf",
+         "kind": "fact",
+         "upd": "2023"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkifsc"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings cannot keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I cannot move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Menopause",
+        "why": "The page says some women going through menopause find their mood goes up and down.",
+        "src": {
+         "org": "Family Health Service, Department of Health",
+         "title": "Dealing with Menopause",
+         "url": "https://www.fhs.gov.hk/english/health_info/woman/14768.html",
+         "kind": "fact",
+         "upd": "02/2022"
+        }
+       },
+       {
+        "name": "Premenstrual syndrome (PMS)",
+        "why": "Premenstrual syndrome means the physical discomfort and the psychological or behavioural changes that some women have regularly before a period. The page says that in serious cases it can interfere with everyday work, daily life and relationships.",
+        "src": {
+         "org": "Family Health Service, Department of Health",
+         "title": "Pre-menstrual Syndrome",
+         "url": "https://www.fhs.gov.hk/english/health_info/woman/15653.html",
+         "kind": "fact",
+         "upd": "01/2006"
+        }
+       },
+       {
+        "name": "Bipolar disorder (manic depression)",
+        "why": "Bipolar disorder is a mood disorder in which a person goes through both very high periods (mania) and very low periods (depression).",
+        "src": {
+         "org": "Shall We Talk (Advisory Committee on Mental Health)",
+         "title": "Bipolar Disorders",
+         "url": "https://www.shallwetalk.hk/en/mental-health-information/bipolar-disorder/",
+         "kind": "fact",
+         "upd": "2025-02-17"
+        }
+       }
+      ],
+      "windows": [
+       "hkfmc",
+       "hkiccmw",
+       "hkswd"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs seem to fit it",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to seem like a match for it.\n\nFeelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use, and what is going on around you can cause similar things too.\n\nEven if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs and worries come with life",
+       "body": "Anyone can feel worried at times, and more so when something important is coming up. Ups and downs in mood, and worries, come with life.\n\nA name (a diagnosis) is decided by a doctor or another health professional who looks at the whole situation. The same difficulty can have different causes, for example a physical illness, medicines or alcohol. If the difficulties go on, you can ask for help whether or not you have a name for them.",
+       "srcs": [
+        {
+         "org": "Centre for Health Protection, Department of Health",
+         "title": "Men's Mind - Anxiety Disorders",
+         "url": "https://www.chp.gov.hk/en/static/80079.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "You can talk about your difficulties and ask for help even without a name for them.\n\nIntegrated Community Centres for Mental Wellness, which the Social Welfare Department lists, serve secondary school students with mental health needs and their families and carers, and local residents who want to take care of their mental health. You can apply yourself, and the application is free of charge.\n\nWhen you apply for a job, it is your choice whether to tell the employer about a disability. But if the employer does not know, it is hard for them to make suitable arrangements at the interview.",
+       "srcs": [
+        {
+         "org": "Social Welfare Department",
+         "title": "Integrated Community Centre for Mental Wellness",
+         "url": "https://www.swd.gov.hk/en/pubsvc/rehab/cat_supportcom/centrebase/iccmw/index.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Equal Opportunities Commission",
+         "title": "Code of Practice on Employment",
+         "url": "https://www.eoc.org.hk/Upload/cc26d004-b785-4ee7-8673-f92925df889f/ddocop_e_8969.pdf",
+         "kind": "fact",
+         "upd": "2011"
+        }
+       ]
+      },
+      {
+       "h": "However, some kinds of support may ask for papers from a doctor",
+       "body": "Some kinds of support need papers from a doctor, and what you need depends on the scheme.\n\nSickness Allowance: a medical certificate is needed.\n\nDisability Allowance: the Director of Health or the Chief Executive of the Hospital Authority must certify that the person is severely disabled.\n\nSpecial examination arrangements for the HKDSE: school candidates apply through their school and private candidates apply themselves, with a medical report or other supporting papers.\n\nBefore you apply, ask the office what papers you need.",
+       "srcs": [
+        {
+         "org": "Labour Department",
+         "title": "Chapter 5: Sickness Allowance",
+         "url": "https://www.labour.gov.hk/eng/public/wcp/ConciseGuide/05.pdf",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Social Welfare Department",
+         "title": "Normal Disability Allowance",
+         "url": "https://www.swd.gov.hk/en/pubsvc/socsecu/ssallowance/ssaec/ssaec_nda/index.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Hong Kong Examinations and Assessment Authority",
+         "title": "HKDSE Application Guide - Applications for SEAs",
+         "url": "https://www.hkeaa.edu.hk/DocLibrary/Candidates/Special_Needs_Candidates/HKDSE_Application_Guide_2027_2028_HKDSE_Eng.pdf",
+         "kind": "fact",
+         "upd": "August 2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\nAt work, you can ask in this way: “It is hard for me when ___, so I would like ___.”\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It has no link with the Government of the Hong Kong Special Administrative Region, the Department of Health, the Hospital Authority, the Social Welfare Department or any other organisation, and it does not receive funding from them. Names of organisations are shown only to say where information comes from.\n\nThe content was written by SOYOGI in its own words, based on information that each organisation makes public. The original pages can be read on each organisation's website.\n\nThe check date is 2026-11-18. Phone numbers and times may change, and times are shown in the way each organisation writes them. You decide whether to ask for help; the app does not decide for you.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "The Government's 18111 Mental Health Support Hotline supports people of all backgrounds and all ages. When you ask for help, you can say how long the difficulties have gone on and how much they affect your studies, work or social life.",
+      "src": {
+       "org": "Information Services Department (Government press releases)",
+       "title": "Government launches 24-hour Mental Health Support Hotline to provide one-stop support for people with mental health needs (with photos)",
+       "url": "https://www.info.gov.hk/gia/general/202312/27/P2023122700238.htm",
+       "kind": "fact",
+       "upd": "2023-12-27"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "If you have difficulties with attention or with getting along with people, you can start by talking to a family doctor or a Family Medicine Clinic, whether or not you have a name for it. You can also contact an Integrated Community Centre for Mental Wellness or the 18111 Mental Health Support Hotline.",
+       "src": {
+        "org": "Shall We Talk (Advisory Committee on Mental Health)",
+        "title": "Professional Help",
+        "url": "https://www.shallwetalk.hk/en/get-help/professional-help/",
+        "kind": "fact",
+        "upd": "2025-02-17"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "A name (a diagnosis) is decided by a doctor or another health professional who looks at the whole situation. The same difficulty can have different causes, for example a physical illness, medicines or alcohol.",
+      "text": "",
+      "src": null
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "ae": {
+   "id": "ae",
+   "name": {
+    "ja": "アラブ首長国連邦",
+    "en": "United Arab Emirates",
+    "fr": "Émirats arabes unis",
+    "de": "Vereinigte Arabische Emirate",
+    "es": "Emiratos Árabes Unidos",
+    "esmx": "Emiratos Árabes Unidos",
+    "escl": "Emiratos Árabes Unidos",
+    "nl": "Verenigde Arabische Emiraten",
+    "ko": "아랍에미리트",
+    "zh": "阿拉伯聯合大公國",
+    "zhhk": "阿拉伯聯合大公國",
+    "it": "Emirati Arabi Uniti",
+    "sv": "Förenade Arabemiraten",
+    "pt": "Emirados Árabes Unidos",
+    "ptpt": "Emirados Árabes Unidos",
+    "ar": "الإمارات العربية المتحدة"
+   },
+   "langs": [
+    "ar",
+    "en"
+   ],
+   "main": "ar",
+   "fallback": "ar",
+   "srcLang": "ar",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-18",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "ae999",
+     "band": "now",
+     "tel": "999",
+     "tel2": "998",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "الشرطة 999 والإسعاف 998",
+      "desc": "من أي مكان في الإمارات: 999 للشرطة، و998 للإسعاف، و997 للدفاع المدني (الحريق). وإذا كان الكلام صعبًا: في أبوظبي يمكن لأصحاب الهمم إرسال رسالة نصية إلى 5999 في حالات الطوارئ الطبية، وفي دبي يوفر تطبيق DCAS SOS خدمات لأصحاب الهمم من ذوي الإعاقة السمعية والبصرية.",
+      "hours": "",
+      "src": {
+       "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+       "title": "التعامل مع الحالات الطارئة",
+       "url": "https://u.ae/ar/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies",
+       "kind": "fact",
+       "upd": "2026-10-01"
+      }
+     },
+     "en": {
+      "name": "Police 999 and ambulance 998",
+      "desc": "From anywhere in the UAE: 999 for police, 998 for ambulance, and 997 for civil defence (fire). If speaking is hard: in Abu Dhabi, people of determination can send an SMS to 5999 for a medical emergency, and in Dubai the DCAS SOS app has features for people with hearing or visual disabilities.",
+      "hours": "",
+      "src": {
+       "org": "The Official Portal of the UAE Government (u.ae)",
+       "title": "Handling emergencies",
+       "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies",
+       "kind": "fact",
+       "upd": "2026-10-01"
+      }
+     },
+     "src": {
+      "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+      "title": "التعامل مع الحالات الطارئة",
+      "url": "https://u.ae/ar/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies",
+      "kind": "fact",
+      "upd": "2026-10-01"
+     }
+    },
+    {
+     "id": "aesakina",
+     "band": "now",
+     "tel": "800725462",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "800-سكينة (800725462)، أبوظبي",
+      "desc": "خط سرّي للدعم النفسي في أبوظبي، يعمل على مدار الساعة باللغتين العربية والإنجليزية، ويخدم من يعيش في الإمارة ومن يزورها.",
+      "hours": "على مدار الساعة",
+      "src": {
+       "org": "دائرة الصحة أبوظبي",
+       "title": "دائرة الصحة - أبوظبي تُفعّل الخط الساخن 800-SAKINA لخدمات الدعم النفسي على مدار الساعة",
+       "url": "https://www.doh.gov.ae/ar/news/doh-activates-247-mental-health-support-hotline-800-sakina-(725462)",
+       "kind": "fact",
+       "upd": "2026-03-03"
+      }
+     },
+     "en": {
+      "name": "800-SAKINA (800 725462), Abu Dhabi",
+      "desc": "A confidential mental health support line in Abu Dhabi, open 24/7 in Arabic and English, for long-time residents and for people who have only recently arrived from abroad.",
+      "hours": "24/7",
+      "src": {
+       "org": "Department of Health Abu Dhabi",
+       "title": "Department of Health - Abu Dhabi Activates 24/7 Mental Health Support Hotline 800-SAKINA (725462)",
+       "url": "https://www.doh.gov.ae/en/news/doh-activates-247-mental-health-support-hotline-800-sakina-(725462)",
+       "kind": "fact",
+       "upd": "2026-03-03"
+      }
+     },
+     "src": {
+      "org": "دائرة الصحة أبوظبي",
+      "title": "دائرة الصحة - أبوظبي تُفعّل الخط الساخن 800-SAKINA لخدمات الدعم النفسي على مدار الساعة",
+      "url": "https://www.doh.gov.ae/ar/news/doh-activates-247-mental-health-support-hotline-800-sakina-(725462)",
+      "kind": "fact",
+      "upd": "2026-03-03"
+     }
+    },
+    {
+     "id": "aedfwac",
+     "band": "now",
+     "tel": "800111",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مؤسسة دبي لرعاية النساء والأطفال (800111)",
+      "desc": "خط مساعدة مجاني على مدار الساعة لسكان دبي والإمارات.",
+      "hours": "على مدار الساعة",
+      "src": {
+       "org": "مؤسسة دبي لرعاية النساء والأطفال",
+       "title": "Helpline",
+       "url": "https://www.dfwac.ae/services/helpline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Dubai Foundation for Women and Children (800111)",
+      "desc": "A free helpline, 24/7, for residents of Dubai and the UAE.",
+      "hours": "24/7",
+      "src": {
+       "org": "Dubai Foundation for Women and Children",
+       "title": "Helpline",
+       "url": "https://www.dfwac.ae/services/helpline",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "مؤسسة دبي لرعاية النساء والأطفال",
+      "title": "Helpline",
+      "url": "https://www.dfwac.ae/services/helpline",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aephc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "أبوظبي: طبيب الرعاية الصحية الأولية",
+      "desc": "في غير حالات الطوارئ، يمكن حجز موعد مع طبيب الرعاية الصحية الأولية لدى AHS-SEHA أو جهة أخرى تقدم الخدمة.",
+      "hours": "",
+      "src": {
+       "org": "مركز أبوظبي للصحة العامة",
+       "title": "Mental Health",
+       "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Abu Dhabi: a primary health care doctor",
+      "desc": "When it is not an emergency, you can book an appointment with a primary health care doctor at AHS-SEHA or another provider.",
+      "hours": "",
+      "src": {
+       "org": "Abu Dhabi Public Health Centre",
+       "title": "Mental Health",
+       "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "مركز أبوظبي للصحة العامة",
+      "title": "Mental Health",
+      "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "aeitmaen",
+     "band": "day",
+     "tel": "800506",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "خدمة «اطمئن» (800506)، دبي",
+      "desc": "إرشاد ودعم نفسي مجاني وبسرية، باللغتين العربية والإنجليزية، للمواطنين والمقيمين والزوار.",
+      "hours": "يوميًا من التاسعة صباحًا حتى منتصف الليل (بتوقيت الإمارات)",
+      "src": {
+       "org": "المكتب الإعلامي لحكومة دبي",
+       "title": "إطلاق خدمة \"اطمئن\" لتعزيز الرفاه النفسي وجودة الحياة في دبي",
+       "url": "https://mediaoffice.ae/ar/news/2026/march/13-03/dubai-health",
+       "kind": "fact",
+       "upd": "2026-03-13"
+      }
+     },
+     "en": {
+      "name": "Itma’en (800506), Dubai",
+      "desc": "Free and confidential mental wellbeing guidance, in Arabic and English, for citizens, residents and visitors.",
+      "hours": "Every day, 9 am to midnight (UAE time)",
+      "src": {
+       "org": "Government of Dubai Media Office",
+       "title": "Dubai Health, CDA, and DHA introduce the ‘Itma’en’ service to enhance mental wellbeing and quality of life in Dubai",
+       "url": "https://mediaoffice.ae/en/news/2026/march/13-03/dubai-health",
+       "kind": "fact",
+       "upd": "2026-03-13"
+      }
+     },
+     "src": {
+      "org": "المكتب الإعلامي لحكومة دبي",
+      "title": "إطلاق خدمة \"اطمئن\" لتعزيز الرفاه النفسي وجودة الحياة في دبي",
+      "url": "https://mediaoffice.ae/ar/news/2026/march/13-03/dubai-health",
+      "kind": "fact",
+      "upd": "2026-03-13"
+     }
+    },
+    {
+     "id": "aeehs",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مؤسسة الإمارات للخدمات الصحية",
+      "desc": "تذكر بوابة حكومة الإمارات أنه يمكن الوصول إلى خدمات الصحة النفسية من خلال مؤسسة الإمارات للخدمات الصحية.",
+      "hours": "",
+      "src": {
+       "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+       "title": "الصحة النفسية والعقلية",
+       "url": "https://u.ae/ar/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "en": {
+      "name": "Emirates Health Services (EHS)",
+      "desc": "The UAE Government portal points to Emirates Health Services for access to mental health services in the UAE.",
+      "hours": "",
+      "src": {
+       "org": "The Official Portal of the UAE Government (u.ae)",
+       "title": "Mental health",
+       "url": "https://u.ae/en/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+       "kind": "fact",
+       "upd": "2026-11-09"
+      }
+     },
+     "src": {
+      "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+      "title": "الصحة النفسية والعقلية",
+      "url": "https://u.ae/ar/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+      "kind": "fact",
+      "upd": "2026-02-05"
+     }
+    },
+    {
+     "id": "aealamal",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مستشفى الأمل",
+      "desc": "مستشفى للصحة النفسية يخدم الناس من دبي والإمارات الشمالية، وفيه عيادات نفسية، منها عيادة للإدمان.",
+      "hours": "",
+      "src": {
+       "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+       "title": "الصحة النفسية والعقلية",
+       "url": "https://u.ae/ar/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "en": {
+      "name": "Al Amal Hospital",
+      "desc": "A hospital for mental health that serves people from Dubai and the Northern Emirates, with outpatient clinics, including one for addiction.",
+      "hours": "",
+      "src": {
+       "org": "The Official Portal of the UAE Government (u.ae)",
+       "title": "Mental health",
+       "url": "https://u.ae/en/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+       "kind": "fact",
+       "upd": "2026-11-09"
+      }
+     },
+     "src": {
+      "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+      "title": "الصحة النفسية والعقلية",
+      "url": "https://u.ae/ar/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+      "kind": "fact",
+      "upd": "2026-02-05"
+     }
+    },
+    {
+     "id": "aeshj",
+     "band": "day",
+     "tel": "800700",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مركز حماية المرأة، الشارقة (800700)",
+      "desc": "رقم مجاني يقدّم فيه مختصون قانونيون واجتماعيون ونفسيون الاستشارة، ويساعدون في حل المشكلات الأسرية التي تخص المرأة.",
+      "hours": "",
+      "src": {
+       "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+       "title": "محاربة الإتجار بالبشر",
+       "url": "https://u.ae/ar/about-the-uae/human-rights-in-the-uae/combatting-human-trafficking",
+       "kind": "fact",
+       "upd": "2026-09-03"
+      }
+     },
+     "en": {
+      "name": "Women’s Protection Centre, Sharjah (800 700)",
+      "desc": "A toll-free number where legal, social and psychological specialists give advice and help find solutions to problems at home.",
+      "hours": "",
+      "src": {
+       "org": "The Official Portal of the UAE Government (u.ae)",
+       "title": "Combatting human trafficking",
+       "url": "https://u.ae/en/about-the-uae/human-rights-in-the-uae/combatting-human-trafficking",
+       "kind": "fact",
+       "upd": "2026-08-27"
+      }
+     },
+     "src": {
+      "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+      "title": "محاربة الإتجار بالبشر",
+      "url": "https://u.ae/ar/about-the-uae/human-rights-in-the-uae/combatting-human-trafficking",
+      "kind": "fact",
+      "upd": "2026-09-03"
+     }
+    },
+    {
+     "id": "aeewaa",
+     "band": "day",
+     "tel": "8007283",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مراكز إيواء للنساء والأطفال (8007283)",
+      "desc": "تذكر بوابة حكومة الإمارات هذا الرقم خطًا ساخنًا لبلاغات الإتجار بالبشر.",
+      "hours": "",
+      "src": {
+       "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+       "title": "محاربة الإتجار بالبشر",
+       "url": "https://u.ae/ar/about-the-uae/human-rights-in-the-uae/combatting-human-trafficking",
+       "kind": "fact",
+       "upd": "2026-09-03"
+      }
+     },
+     "en": {
+      "name": "EWAA Shelter for Women and Children (800 7283)",
+      "desc": "The UAE Government portal gives this number as the hotline for human trafficking issues.",
+      "hours": "",
+      "src": {
+       "org": "The Official Portal of the UAE Government (u.ae)",
+       "title": "Combatting human trafficking",
+       "url": "https://u.ae/en/about-the-uae/human-rights-in-the-uae/combatting-human-trafficking",
+       "kind": "fact",
+       "upd": "2026-08-27"
+      }
+     },
+     "src": {
+      "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+      "title": "محاربة الإتجار بالبشر",
+      "url": "https://u.ae/ar/about-the-uae/human-rights-in-the-uae/combatting-human-trafficking",
+      "kind": "fact",
+      "upd": "2026-09-03"
+     }
+    },
+    {
+     "id": "aemohre",
+     "band": "day",
+     "tel": "80084",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "مركز الاستشارات والمطالبات العمالية، وزارة الموارد البشرية والتوطين (80084)",
+      "desc": "رقم مجاني للعمال، للمساعدة في الشكاوى المتعلقة بالعمل وفي الأسئلة القانونية عن حقوقهم.",
+      "hours": "",
+      "src": {
+       "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+       "title": "حماية وضمان حقوق العمالة",
+       "url": "https://u.ae/ar/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights",
+       "kind": "fact",
+       "upd": "2026-10-08"
+      }
+     },
+     "en": {
+      "name": "Labour Claims and Advisory Call Centre, Ministry of Human Resources and Emiratisation (80084)",
+      "desc": "A toll-free number for workers who need help with a complaint about their work or a legal matter.",
+      "hours": "",
+      "src": {
+       "org": "The Official Portal of the UAE Government (u.ae)",
+       "title": "Protection of workers’ rights",
+       "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights",
+       "kind": "fact",
+       "upd": "2026-10-15"
+      }
+     },
+     "src": {
+      "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+      "title": "حماية وضمان حقوق العمالة",
+      "url": "https://u.ae/ar/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights",
+      "kind": "fact",
+      "upd": "2026-10-08"
+     }
+    },
+    {
+     "id": "aemoce",
+     "band": "day",
+     "tel": "800623",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "ar": {
+      "name": "وزارة تمكين المجتمع (800623)",
+      "desc": "رقم مركز الاتصال لدى وزارة تمكين المجتمع.",
+      "hours": "",
+      "src": {
+       "org": "وزارة تمكين المجتمع",
+       "title": "للإبلاغ عن العنف الأسري",
+       "url": "https://www.moce.gov.ae/ar/family-violence-channels",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Ministry of Community Empowerment (800 623)",
+      "desc": "The toll-free number of the Ministry of Community Empowerment.",
+      "hours": "",
+      "src": {
+       "org": "Ministry of Community Empowerment",
+       "title": "Channels for Reporting Family Violence",
+       "url": "https://www.moce.gov.ae/en/family-violence-channels",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "وزارة تمكين المجتمع",
+      "title": "للإبلاغ عن العنف الأسري",
+      "url": "https://www.moce.gov.ae/ar/family-violence-channels",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "ar": {
+    "groups": {
+     "mood": {
+      "label": "انخفاض المزاج وفقدان الحافز",
+      "lead": "حين يبقى المزاج منخفضًا مدة طويلة ويغيب الحافز لفعل أي شيء.",
+      "scenes": [
+       "يبقى مزاجي منخفضًا من الصباح حتى المساء.",
+       "لا أشعر بالمتعة فيما كان يسعدني من قبل.",
+       "لا أجد طاقة ولا أستطيع التركيز، فيتأخر عملي وتتأخر مهام البيت.",
+       "ألوم نفسي كثيرًا، وأرى الأمور في الغالب من جانبها المظلم.",
+       "لا أستطيع النوم ليلًا، أو أنام أكثر من اللازم. تقل شهيتي ويثقل جسدي.",
+       "أحيانًا أتمنى أن أختفي، أو ألّا أبقى هنا بعد الآن."
+      ],
+      "asks": [
+       "يساعدني أن يُذكر لي ما يجب فعله شيئًا واحدًا في كل مرة.",
+       "أحتاج إلى وقت للتفكير، ويساعدني ألّا أُستعجل في الرد أو في اتخاذ القرار.",
+       "يساعدني أن تُعطى لي الأمور المهمة مكتوبة.",
+       "قبل كلمات التشجيع والدعوة إلى الصبر، يساعدني أن يُسمع كلامي أولًا.",
+       "أرجو ألّا يُعدّ أخذي للراحة كسلًا.",
+       "يساعدني أن يُتحقق معي مما إذا كان لحالة جسدية أو لدواء أتناوله علاقة بذلك."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الأرق",
+        "why": "قد ترتبط مشكلات النوم مثل الأرق بحالات مثل الاكتئاب والقلق واضطراب ثنائي القطب.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Scope of Practice and Core Competencies for Mental Health Services",
+         "url": "https://www.dha.gov.ae/uploads/012025/DHA%20Mental%20Health%20Services%20Scope%20of%20Practice2025154594.pdf",
+         "kind": "fact",
+         "upd": "2024-12-31"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "قد يظهر الاكتئاب في حزن مستمر، وفقدان الاهتمام، وتغيّر في النوم والشهية، وصعوبة في التركيز.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "القلق والتوتر الشديد",
+      "lead": "حين تستمر الهموم ويصعب الهدوء، أو يصعب الحديث أمام الناس والخروج من البيت.",
+      "scenes": [
+       "عندما أتحدث أمام الآخرين أو تتجه إليّ الأنظار، أشعر بقلق شديد ويخلو ذهني تمامًا.",
+       "يخفق قلبي بسرعة فجأة ويضيق نفَسي، وأقلق من أن يتكرر ذلك، فأجد صعوبة في الخروج.",
+       "أقلق بشأن أمور كثيرة دون سبب واضح، وأشعر بالتوتر وبالتعب.",
+       "أتجنب الأماكن التي يصعب مغادرتها، مثل المراكز التجارية والأسواق المزدحمة، أو وسائل النقل العام، أو الطوابير الطويلة، وأتجنب الخروج من البيت بمفردي.",
+       "بسبب تجنبي لما يقلقني، قلّت الأماكن التي أذهب إليها والأشخاص الذين ألتقيهم، وضاقت حياتي.",
+       "تبقى الهموم في رأسي فيصعب عليّ النوم ليلًا."
+      ],
+      "asks": [
+       "يساعدني ألّا أُستعجَل حين أتكلم.",
+       "يساعدني أن أعرف الخطة وسير الأمور مسبقًا.",
+       "أفضّل ألّا أُسأل عن رأيي أمام الآخرين فجأة، وأن تتاح لي الإجابة كتابةً.",
+       "إذا شعرت بتوعّك، أرجو أن يُسمح لي بالخروج قليلًا للراحة.",
+       "أفضّل أن يكون الحديث في مكان هادئ ومع عدد قليل من الأشخاص.",
+       "أرجو ألّا يُقال لي إنني أبالغ في القلق قبل أن يُسمع كلامي."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الأرق",
+        "why": "قد ترتبط مشكلات النوم مثل الأرق بالقلق والاكتئاب.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Scope of Practice and Core Competencies for Mental Health Services",
+         "url": "https://www.dha.gov.ae/uploads/012025/DHA%20Mental%20Health%20Services%20Scope%20of%20Practice2025154594.pdf",
+         "kind": "fact",
+         "upd": "2024-12-31"
+        }
+       },
+       {
+        "name": "اضطرابات القلق",
+        "why": "قد يظهر القلق في التململ، والشعور بالتوتر أو الترقّب، وسرعة التعب، وصعوبة التركيز، وسرعة الانفعال، وشدّ العضلات، واضطراب النوم.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "قد يحدث القلق والاكتئاب كلٌّ على حدة، أو معًا لدى الشخص نفسه.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "التأكد والتكرار الذي يصعب إيقافه",
+      "lead": "حين يتكرر التأكد من الباب والغاز أو الغسل مرارًا، ويصعب التوقف رغم الرغبة في ذلك.",
+      "scenes": [
+       "عند الخروج من البيت لا أرتاح حتى أتأكد من قفل الباب ومن الغاز (أسطوانة الغاز أو الموقد) مرارًا.",
+       "أغسل يديّ أو جسمي أكثر فأكثر، ولا أستطيع التوقف رغم رغبتي في ذلك.",
+       "تعود إلى ذهني الفكرة المقلقة نفسها مرارًا، ولا أستطيع التوقف عن التفكير فيها رغم رغبتي في ذلك.",
+       "لا أرتاح إن لم توضع الأشياء أو تُنجز الأمور بالترتيب الذي حددته، فأعيد ترتيبها أو أكرر ما فعلته.",
+       "يمضي الوقت وأنا أتأكد، فأتأخر في الخروج، أو لا أصل إلى مواعيدي أو عملي في الوقت المحدد.",
+       "يتحرك جسدي أو يخرج مني صوت دون قصد، ويصعب عليّ إيقاف ذلك حتى حين أحاول."
+      ],
+      "asks": [
+       "يساعدني أن يُسمع كلامي أولًا قبل أن يُقال لي إنني أبالغ.",
+       "يأخذ مني التأكد وقتًا، فيساعدني أن يُترك لي وقت إضافي.",
+       "يساعدني أن أُبلَّغ مسبقًا عند تغيير المواعيد أو الخطوات.",
+       "أرجو ألّا يُلفَت الانتباه إلى تأكدي أو غسلي أمام الآخرين، وألّا يُسخر منه.",
+       "يساعدني أن تُعطى لي الشروح والتعليمات شيئًا فشيئًا ومكتوبة.",
+       "عند تحديد كيف نمضي بعد ذلك، يساعدني أن تُسمع مخاوفي أولًا وأن يكون القرار بهدوء."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "اضطراب القلق العام",
+        "why": "في اضطراب القلق العام يزيد القلق والترقّب المتوجّس عن الحد، ويشمل ذلك عدة أحداث أو أنشطة، مثل العمل.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Dubai Mental Health Screening Guidelines",
+         "url": "https://dha.gov.ae/uploads/052024/Dubai%20Mental%20Health%20Screening%20Guidelines2024533931.pdf",
+         "kind": "fact",
+         "upd": "2024-05-22"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "أثر تجربة مؤلمة يستمر",
+      "lead": "بعد تجربة مؤلمة: عودة الذكريات، وصعوبة النوم، واستمرار التأهب.",
+      "scenes": [
+       "يعيد إليّ شيء بسيط، فجأة، مشهد ذلك الوقت الصعب ومشاعره.",
+       "تتكرر عليّ كوابيس مخيفة متشابهة، ولا أنام نومًا عميقًا في كثير من الليالي.",
+       "أبقى دائمًا في حالة تأهب، وأنتفض لأي صوت أو حدث بسيط.",
+       "أتجنب قدر الإمكان الأماكن والأشخاص والأحاديث التي تذكّرني بذلك الوقت، وقد ضاق نطاق ما أفعله في حياتي اليومية.",
+       "أشعر كأن مشاعري توقفت، فلا أستطيع أن أمنح أسرتي وأصدقائي ما كنت أمنحهم من مشاعر من قبل.",
+       "يزداد لومي لنفسي، ويصعب عليّ أن أثق بمن حولي."
+      ],
+      "asks": [
+       "أرجو ألّا يُطلب مني سرد تفاصيل ما حدث. أفضّل أن أتحدث بالقدر الذي أستطيعه، وبالوتيرة التي تناسبني.",
+       "هناك أصوات وأماكن وموضوعات تعيد إليّ ما حدث، ويساعدني أن يُقبل طلبي حين أقول إنني أريد تجنبها.",
+       "يساعدني ألّا يُنادى عليّ فجأة من الخلف، وألّا تصدر أصوات عالية بالقرب مني.",
+       "حين يصعب عليّ الكلام، أرجو أن يُقبل مني تسليم ورقة كتبتها.",
+       "أرجو ألّا تُعدّ الليالي التي لا أنام فيها، والأيام التي يبقى فيها التعب، كسلًا.",
+       "أرجو ألّا أُستعجَل في النسيان أو في العودة كما كنت، وأن يتوفر لي مكان أشعر فيه بالأمان عند الحديث."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الأرق",
+        "why": "قد تأتي صعوبة النوم مع ضغط نفسي حاد، أو مع دواء أو مادة أخرى، أو مع عادات نوم غير مناسبة، أو مع تغيّر مكان النوم.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "قد يكون لأحداث الحياة الضاغطة دور في الاكتئاب.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Clinical Guidelines for the Virtual Management of Depression",
+         "url": "https://www.dha.gov.ae/uploads/112021/47150ce4-a9e6-4f6b-bb35-435708e107dc.pdf",
+         "kind": "fact",
+         "upd": "2021-07-27"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal",
+       "aeshj",
+       "aeewaa"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "مشكلات النوم",
+      "lead": "صعوبة بدء النوم، أو الاستيقاظ في الليل، أو صعوبة النهوض في الصباح، أو النعاس الشديد في النهار.",
+      "scenes": [
+       "لا أستطيع أن أنام بسهولة حتى بعد أن أستلقي في فراشي.",
+       "أستيقظ في الليل كثيرًا، فلا أنام نومًا عميقًا حتى الصباح.",
+       "لا أستطيع النهوض حين يحين وقت الاستيقاظ، ويتكرر تأخري عن العمل أو الدراسة.",
+       "يغلبني النعاس الشديد في النهار، وأكاد أغفو أثناء الاجتماعات أو القيادة.",
+       "أخبرني أهلي أنني أشخر بصوت عالٍ، وأن تنفسي يبدو كأنه يتوقف أثناء النوم.",
+       "من المساء إلى الليل أشعر بانزعاج وتململ في ساقيّ، فلا أستطيع النوم."
+      ],
+      "asks": [
+       "أرجو أن يُتاح لي وقت كافٍ لأصف حال نومي: صعوبة بدء النوم، والاستيقاظ أثناء الليل، وصعوبة النهوض صباحًا، والنعاس في النهار.",
+       "يساعدني أن نبحث معًا عن السبب، ويشمل ذلك الأدوية التي أتناولها، وعاداتي في تناول المنبهات مثل القهوة والشاي ومشروبات الطاقة، وفي التدخين.",
+       "أرجو ألّا يُعدّ الأمر مجرد مسألة تفكير أو إرادة، وأن تُفحص حالتي الجسدية ومزاجي معًا.",
+       "أرغب في أن أعرض ورقة دوّنت فيها مواعيد نومي واستيقاظي، وأرجو الاطلاع عليها.",
+       "إن وُصف لي دواء، فأرجو أن يُشرح لي بوضوح كيف يعمل وما الذي يجب الانتباه إليه.",
+       "الصباح صعب عليّ، فأفضّل أن يكون الموعد بعد الظهر أو في المساء."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "انقطاع النفس أثناء النوم",
+        "why": "في انقطاع النفس أثناء النوم، يتوقف التنفس دون إرادة الشخص وهو نائم.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "الأرق",
+        "why": "عند إعطاء اسم الأرق (التشخيص) يُنظر إلى ثلاثة أمور معًا: صعوبة مستمرة في النوم، ووجود فرصة كافية للنوم، وأثر في النهار.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       },
+       {
+        "name": "اضطرابات إيقاع الساعة البيولوجية",
+        "why": "تُذكر اضطرابات إيقاع الساعة البيولوجية بين اضطرابات النوم التي قد تأتي مع نعاس شديد في النهار. وإيقاع الساعة البيولوجية عملية داخلية في الجسم تنظّم دورة النوم والاستيقاظ بما يتوافق مع الليل والنهار.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "فرط النوم",
+        "why": "فرط النوم نعاس شديد في النهار رغم نوم ليلي كافٍ أو طويل.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "الباراسومنيا (سلوكيات غير معتادة أثناء النوم)",
+        "why": "الباراسومنيا سلوكيات أو تجارب غير معتادة تحدث أثناء النوم أو عند الانتقال بين مراحله.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "متلازمة تململ الساقين",
+        "why": "تُذكر متلازمة تململ الساقين بين أمثلة اضطرابات النوم، مع الأرق وانقطاع النفس أثناء النوم.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "قد يشمل الاكتئاب تغيّرًا في النوم.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "اضطرابات القلق",
+        "why": "قد يشمل القلق اضطرابًا في النوم.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "مشكلات الأكل",
+      "lead": "عدم القدرة على الأكل، أو الإفراط فيه، أو الخوف منه.",
+      "scenes": [
+       "لا أشعر بالرغبة في الأكل، ويصعب عليّ ابتلاع الطعام منذ فترة.",
+       "حين أبدأ في الأكل لا أستطيع أن أوقف نفسي، وأحيانًا آكل حتى أشعر بالألم.",
+       "أجد نفسي أفكر في الطعام وحده، ويصعب عليّ التركيز في أي شيء آخر.",
+       "الأطعمة التي أستطيع تناولها محدودة جدًا، وأتجنب كثيرًا من الأطعمة بسبب طعمها أو رائحتها أو ملمسها.",
+       "بعد أن اختنقت بالطعام أو تقيأت، صار الأكل يخيفني.",
+       "أحيانًا آكل في الليل وأنا بين النوم واليقظة، وفي الصباح لا أتذكر ذلك."
+      ],
+      "asks": [
+       "أرجو ألّا يُعلَّق على وزني أو شكلي.",
+       "أرجو ألّا أُجبَر على الأكل، وألّا أُستعجَل فيه.",
+       "أرجو أن يُتاح لي اختيار مكان أو وقت آخر حين يأكل الناس معًا، كالولائم والمناسبات ولقاءات العائلة على الطعام.",
+       "أرجو أن يكون السؤال أولًا عمّا أستطيع أكله، وعمّا يصعب عليّ تحمّله من الروائح والملمس.",
+       "أرجو أن تُشرح لي خطوات الفحص الجسدي والتحاليل قبل إجرائها.",
+       "أرجو أن يُسمح لي بأن أكتب ما يصعب عليّ قوله وأسلّمه."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "اضطرابات الأكل",
+        "why": "اضطرابات الأكل حالات نفسية يبقى فيها الأكل، أو السلوك المرتبط بالطعام، مضطربًا، فيتغيّر تناول الطعام أو امتصاصه. وقد يؤثر ذلك تأثيرًا كبيرًا في صحة الجسم، أو في الأداء النفسي والاجتماعي.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Dubai Mental Health Screening Guidelines",
+         "url": "https://dha.gov.ae/uploads/052024/Dubai%20Mental%20Health%20Screening%20Guidelines2024533931.pdf",
+         "kind": "fact",
+         "upd": "2024-05-22"
+        }
+       },
+       {
+        "name": "الاكتئاب",
+        "why": "قد يشمل الاكتئاب تغيّرًا في الشهية.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "الكحول أو القمار أو الألعاب الإلكترونية: صعوبة التوقف",
+      "lead": "رغبة في التوقف أو التقليل، مع استمرار العودة إلى الأمر.",
+      "scenes": [
+       "حتى حين أقرر التوقف أو التقليل، أجد نفسي أعود إلى الأمر من جديد.",
+       "لا أستطيع أن ألتزم بالوقت أو الكمية أو المبلغ الذي حددته لنفسي، مثل «هذا يكفي لليوم».",
+       "أُخفي أمر الكحول أو القمار أو الألعاب عن أسرتي أو المقربين مني، أو أتحايل في الحديث عنه.",
+       "أسهر على الألعاب الإلكترونية حتى وقت متأخر، فلا أستطيع الاستيقاظ في الصباح، ويزداد تأخري وغيابي.",
+       "أعود إلى القمار لأستعيد ما خسرته.",
+       "أعرف أن حالتي الجسدية ليست جيدة، ومع ذلك لا أستطيع التقليل من الكحول."
+      ],
+      "asks": [
+       "أرجو أن يُستمع إلى كلامي أولًا دون لوم أو أحكام مسبقة.",
+       "يساعدني أن نرتب معًا، خطوة بخطوة، كيف أتعامل مع الأمر الآن وما الصعوبات التي يسببها لي.",
+       "أرجو أن يُنظر أيضًا في نومي وحالتي الجسدية.",
+       "أرجو أن يُوضَّح لي تحديدًا أين يمكن طلب الدعم، وإلى أي أماكن يمكنني الذهاب.",
+       "أرجو أن أعرف إن كان بإمكان أسرتي أو أحد المقربين مني المشاركة معي في الحديث.",
+       "أرجو أن أعرف مسبقًا مَن سيطّلع على ما أقوله، وإلى أي حد."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الأرق",
+        "why": "قد تأتي صعوبة النوم مع دواء أو مادة أخرى.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       },
+       {
+        "name": "اضطراب تعاطي المواد",
+        "why": "يشير اضطراب تعاطي المواد إلى نمط في استخدام مادة ما بلغ حدًّا مهمًّا من الناحية السريرية، ويجلب صعوبة واضحة في الأداء اليومي أو ضيقًا واضحًا.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Substance Use Disorder (SUD) Treatment and Rehabilitation",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2026/Standard--Substance-Use-Disorder-SUD-Treatment-and-Rehabilitation-27826.ashx",
+         "kind": "fact",
+         "upd": "2026-08"
+        }
+       },
+       {
+        "name": "الإدمان السلوكي",
+        "why": "في الإدمان السلوكي يشعر الشخص بدافع قهري إلى تكرار سلوك ما، ويستمر فيه حتى حين يجلب له الضرر. ويشترك مع اضطراب تعاطي المواد في سمات، منها الرغبة الملحّة وفقدان السيطرة وصعوبة القيام بشؤون الحياة اليومية.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Substance Use Disorder (SUD) Treatment and Rehabilitation",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2026/Standard--Substance-Use-Disorder-SUD-Treatment-and-Rehabilitation-27826.ashx",
+         "kind": "fact",
+         "upd": "2026-08"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aealamal",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "صعوبات الانتباه أو التنظيم",
+      "lead": "صعوبة التركيز، أو القيام بالأمور بالترتيب، أو تذكّرها.",
+      "scenes": [
+       "حتى حين يتحدث إليّ أحد، أجد أن ذهني قد انصرف إلى شيء آخر دون أن أنتبه.",
+       "لا أستطيع إنجاز العمل أو أعمال البيت بالترتيب، فتفوتني المواعيد النهائية.",
+       "كثيرًا ما لا أتذكر لاحقًا ما طُلب مني أو ما وعدت به، أو أضيّع أغراضي.",
+       "حين أواصل المهمة نفسها وقتًا طويلًا، تكثر أخطائي من غير قصد.",
+       "عندما أجلس دون حركة لا أستطيع الاستقرار، وأظل أتحرك في مكاني.",
+       "يقول لي من حولي إنني كثيرًا ما أنسى أغراضي أو أتأخر عن المواعيد."
+      ],
+      "asks": [
+       "يساعدني أن تُعطى لي التعليمات واحدةً واحدة.",
+       "يساعدني أن يُكتب لي الأمر المهم وأن يُسلَّم إليّ مكتوبًا.",
+       "أرجو أن أُبلَّغ بالمواعيد والمواعيد النهائية مبكرًا.",
+       "يساعدني ألّا أُكلَّف بأمور كثيرة دفعة واحدة، وأن تُقسَّم المهام إلى أجزاء صغيرة.",
+       "أفضّل أن يكون الحديث في مكان هادئ لا يشتت انتباهي.",
+       "أرجو ألّا أُلام على ما لم أستطع إنجازه، وأن يُعترف بما أنجزته."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الاكتئاب",
+        "why": "قد يشمل الاكتئاب صعوبةً في التركيز.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "اضطرابات القلق",
+        "why": "قد يشمل القلق صعوبةً في التركيز.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "اضطراب فرط الحركة ونقص الانتباه (ADHD)",
+        "why": "لدى البالغين، قد يظهر اضطراب فرط الحركة ونقص الانتباه في صعوبة الحفاظ على الانتباه، وعدم التنظيم، والنسيان، وصعوبة في شؤون الحياة اليومية، مما قد يؤثر في العمل والمسؤوليات الشخصية.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard of Care for Attention-Deficit Hyperactivity Disorder (ADHD)",
+         "url": "https://www.doh.gov.ae/-/media/9B6AFDE5352A4943B3894B6FE43A1B22.ashx",
+         "kind": "fact",
+         "upd": "2025-10"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "صعوبات في العلاقات أو العادات اليومية أو المؤثرات الحسية",
+      "lead": "صعوبة الحديث مع الآخرين أو التعامل معهم، أو حاجة قوية إلى فعل الأشياء بالطريقة نفسها دائمًا، أو صعوبة تحمّل الأصوات والأضواء والروائح.",
+      "scenes": [
+       "يصعب عليّ فهم مشاعر مَن أتحدث معه أو أجواء المكان، فأشعر بأن كلًّا منا يتحدث في اتجاه مختلف.",
+       "عندما أتحدث أمام الناس أو تتجه إليّ الأنظار، أشعر بتوتر شديد وأتجنب هذه المواقف.",
+       "أتحدث مع المقربين مني بسهولة، لكني لا أستطيع الكلام أمام غيرهم.",
+       "حين يتغير ما اعتدت عليه من ترتيب أو أسلوب أو مكان للأشياء، أشعر بقلق شديد.",
+       "تبدو لي الأصوات والأضواء والروائح قوية جدًّا، فتصعب عليّ الأماكن المزدحمة، مثل المراكز التجارية.",
+       "يصعب عليّ سماع كلام الناس أو يغلبني الحزن، حتى صار لقاء الناس والحديث معهم ثقيلًا عليّ."
+      ],
+      "asks": [
+       "يساعدني أن يُتحدث معي ببطء ووضوح.",
+       "يساعدني أن يُكتب لي الأمر المهم.",
+       "أفضّل أن يكون الحديث في مكان هادئ.",
+       "أرجو أن أُبلَّغ مسبقًا عند تغيير الموعد أو طريقة العمل.",
+       "أرجو ألّا أُستعجَل في الإجابة، وأن يُنتظر جوابي.",
+       "يساعدني أن أُجيب كتابةً أو بملاحظة قصيرة بدل الكلام."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الاكتئاب",
+        "why": "قد يؤثر القلق والاكتئاب في الحالة النفسية والعاطفية، وقد يؤديان إلى صعوبات في العمل ومع الناس وفي الحياة الشخصية.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "اضطراب طيف التوحد",
+        "why": "قد يتضمن اضطراب طيف التوحد صعوبة مستمرة في التواصل مع الآخرين والتعامل معهم، في مواقف كثيرة ومختلفة.",
+        "src": {
+         "org": "دائرة الصحة أبوظبي",
+         "title": "Standard For Autism Spectrum Disorder Management",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-for-Autism-Spectrum-Disorder-Care-Management.ashx",
+         "kind": "fact",
+         "upd": "2025-12"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aemohre"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "صعوبات القراءة أو الكتابة أو الحساب",
+      "lead": "تبقى القراءة أو الكتابة أو الحساب صعبة جدًا، حتى مع بذل جهد كبير.",
+      "scenes": [
+       "أحتاج إلى وقت أطول من غيري لقراءة النص، وأعيد قراءته مرات كثيرة.",
+       "حتى بعد القراءة لا يستقر المعنى في ذهني، ويصعب عليّ فهم الرسائل والنماذج الواردة من الجهات الحكومية أو البنك أو جهة العمل.",
+       "أخطئ كثيرًا في الإملاء، مثل الهمزات والتاء المربوطة والمفتوحة، وأنسى أحيانًا بعض الحروف.",
+       "يأتي خطّي غير منتظم، والكتابة تستغرق مني وقتًا وجهدًا كبيرين.",
+       "أتعثر في العمليات الحسابية البسيطة وفي المسائل الحسابية المكتوبة في نص.",
+       "أستطيع الحديث والاستماع دون صعوبة، لكن في القراءة والكتابة والحساب لا أتقدم كما أريد حتى مع بذل الوقت."
+      ],
+      "asks": [
+       "يساعدني أن يُعرض النص بخط كبير ومسافات واسعة بين الأسطر، وبالتشكيل عند الحاجة.",
+       "يساعدني أن يُقرأ لي الأمر المهم بصوت مسموع أو يُقال لي شفهيًا.",
+       "أفضّل أن أكتب على الحاسوب أو الهاتف، أو أسجّل بالصور أو بالتسجيل الصوتي، بدل الكتابة بخط اليد.",
+       "أرجو أن يُسمح لي باستخدام الآلة الحاسبة (في الهاتف) في الحسابات.",
+       "يساعدني أن يكون لديّ وقت أطول للقراءة والكتابة والحساب.",
+       "يساعدني أن يقلّ ما يُعطى لي في المرة الواحدة، وأن يُسلَّم إليّ كل أمر على حدة."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "تقلّبات كبيرة في المزاج",
+      "lead": "يرتفع المزاج وينخفض كثيرًا، ويصعب مجاراة ذلك.",
+      "scenes": [
+       "تتعاقب عليّ فترات يشتد فيها نشاطي وفترات ينخفض فيها مزاجي حتى لا أستطيع الحركة.",
+       "تمر بي فترات أكاد لا أنام فيها، ومع ذلك يكون نشاطي كبيرًا وأظل أتحرك.",
+       "تتوالى الأفكار والخطط في ذهني، فيبقى كل منها دون إكمال.",
+       "حين ارتفع مزاجي اشتريت أشياء كثيرة، بالبطاقة أو بالتقسيط، ثم ندمت.",
+       "ينفد صبري بسرعة لأمور صغيرة، ويصعب عليّ ضبط مشاعري.",
+       "تصرفت في أوقات ارتفاع مزاجي بطرق أثّرت لاحقًا في علاقاتي أو في عملي."
+      ],
+      "asks": [
+       "يساعدني أن تشمل الأسئلة أيضًا الفترات التي كان فيها مزاجي مرتفعًا أكثر من المعتاد.",
+       "أفضّل أن نراجع معًا، على مهل، ارتفاع مزاجي وانخفاضه.",
+       "يساعدني أن أُذكَّر بالتوقف والتفكير قبل القرارات الكبيرة في المال أو العمل.",
+       "أرجو أن يُنظر أيضًا في الجوانب الجسدية، ومنها النوم والأدوية والمنبّهات.",
+       "أرجو أن أُخبَر دون لوم إذا بدت حالتي مختلفة عن المعتاد.",
+       "أرجو أن يُستمع إلى كلامي حتى آخره، في أوقات النشاط وفي أوقات الانخفاض."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "الاكتئاب",
+        "why": "الاكتئاب حالة نفسية ينتشر فيها المزاج المنخفض في جوانب الحياة، مع تدنٍّ في تقدير الذات، وفقدان الاهتمام أو المتعة في أشياء يحب الشخص فعلها عادةً.",
+        "src": {
+         "org": "هيئة الصحة بدبي",
+         "title": "Dubai Mental Health Screening Guidelines",
+         "url": "https://dha.gov.ae/uploads/052024/Dubai%20Mental%20Health%20Screening%20Guidelines2024533931.pdf",
+         "kind": "fact",
+         "upd": "2024-05-22"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "معرفة اسم مرض أو حالة نمائية قد تجعل التقلّبات اليومية تبدو أكبر مما هي عليه",
+       "body": "عند معرفة اسم مرض أو حالة نمائية، قد يبدو التعب البسيط أو شرود الذهن أحيانًا أمرًا أكبر مما هو عليه.\n\nللمشاعر تأثير في الجسد والمزاج، وهذا ليس من الخيال بل يحدث فعلًا. لكن قلة النوم والضغوط والهاتف وما يجري في المحيط قد تسبب أمورًا مشابهة أيضًا.\n\nوعند قراءة اسم والتفكير «ربما هذا ما عندي»، لا يُحسم الأمر بذلك وحده، بل يُنظر في أسباب أخرى أيضًا. وإذا استمر ما يصعب، يمكن الحديث عنه كما هو، حتى دون اسم له.",
+       "srcs": []
+      },
+      {
+       "h": "قد يتأثر النوم والمزاج بما يجري في الحياة",
+       "body": "تذكر إرشادات هيئة الصحة بدبي أن صعوبات النوم قد تأتي مع ضغط نفسي حاد، أو مع دواء أو مادة أخرى، أو مع عادات النوم، أو مع تغيّر مكان النوم.\n\nوالاسم (التشخيص) يضعه طبيب أو مختص صحي مرخص، ولا يضعه هذا التطبيق.\n\nوإذا استمر ما يصعب، يمكن الحديث عنه كما هو، أيًّا كان الاسم.",
+       "srcs": [
+        {
+         "org": "هيئة الصحة بدبي",
+         "title": "DHA Telehealth Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       ]
+      },
+      {
+       "h": "يمكن الحديث عمّا يصعب حتى دون معرفة اسمه.",
+       "body": "في غير حالات الطوارئ، تشير صفحة مركز أبوظبي للصحة العامة إلى حجز موعد مع طبيب الرعاية الصحية الأولية، ويمكن هناك الحديث عمّا يصعب كما هو.\n\nوفي العمل في القطاع الخاص، يحظر قانون العمل في الإمارات التمييز على أساس الإعاقة. ويمكن التحدث عمّا يُحتاج إليه وما قد يساعد، والاتفاق عليه معًا.",
+       "srcs": [
+        {
+         "org": "مركز أبوظبي للصحة العامة",
+         "title": "Mental Health",
+         "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+         "title": "قوانين وسياسات لمكافحة التمييز",
+         "url": "https://u.ae/ar/information-and-services/justice-safety-and-the-law/Law/anti-discrimination-laws-and-policies",
+         "kind": "fact",
+         "upd": "2026-10-01"
+        }
+       ]
+      },
+      {
+       "h": "لكن بعض الحقوق والخدمات قد تتطلب أوراقًا من الطبيب",
+       "body": "تطلب بعض الحقوق والخدمات أوراقًا من الطبيب. ففي إجازة المرض في العمل في القطاع الخاص، يجب إبلاغ صاحب العمل خلال مدة محددة وتقديم تقرير طبي صادر من الجهة الصحية المعنية. وفي دبي، تصدر بطاقة «سند» لأصحاب الهمم بعد تقييم الحالة في منشأة صحية معتمدة وإعداد تقرير طبي وفق النموذج الموحّد.\n\nوما يُطلب يختلف من خدمة إلى أخرى، لذا يفيد السؤال مسبقًا لدى الجهة المعنية.",
+       "srcs": [
+        {
+         "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+         "title": "الإجازات",
+         "url": "https://u.ae/ar/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/Types-of-leaves",
+         "kind": "fact",
+         "upd": "2026-09-24"
+        },
+        {
+         "org": "المكتب الإعلامي لحكومة دبي",
+         "title": "هيئـة الصحـة بدبي تُعـــزِّز خدمــات أصـحــاب الهـمم بمرجعية طبية موحّـــدة",
+         "url": "https://mediaoffice.ae/ar/news/2026/may/04-05/dha-launches-unified-medical-report-project-to-enhance-services-for-people-of-determination",
+         "kind": "fact",
+         "upd": "2026-05-04"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "اسم المرض ليس أداة للتعالي على أحد",
+       "body": "اسم المرض ليس أداة للشعور بالتفوّق على أحد، ولا للنظر إلى الآخرين من علٍ.\nمعرفة اسم ما يمرّ به الشخص تريح بعض الناس، وهذا أمر مهم.\nوالرغبة في أن يفهمنا من حولنا وأن يلطفوا بنا رغبة مفهومة أيضًا.\n\nوعند الرغبة في أن يكون من حولنا ألطف، يمكن طلب ذلك مباشرة، دون الحاجة إلى ذكر اسم مرض.\nويسهل الفهم عندما يُقال أمران معًا: ما الذي يصعب عليّ، وما الذي يساعدني.\n\nمن أمثلة ذلك:\n«طاقتي اليوم قليلة. يساعدني أن يتحدث معي الآخرون ببطء.»\n«أرتبك عندما تُقال لي أمور كثيرة دفعة واحدة. يساعدني أن يُقال لي أمر واحد في كل مرة.»\n«يصعب عليّ تذكّر ما يُقال شفهيًا فقط. أفضّل أن تصلني الأمور المهمة مكتوبة، على ورقة أو بالبريد الإلكتروني.»\n«الأماكن المزدحمة تستنزف طاقتي. يسهل عليّ الأمر إن تحدثنا في مكان هادئ.»\n«أحتاج إلى وقت قصير قبل أن أرد. يساعدني أن يُنتظر قليلًا.»\n«عندي الآن مشاعر كثيرة في وقت واحد. يساعدني أن يُصغى إليّ أولًا، وأن تُؤجَّل النصيحة إلى وقت لاحق.»\n«اليوم لست على ما يرام. يساعدني أن أستريح قليلًا.»\n«التغييرات المفاجئة في الخطط تربكني. يساعدني أن أعرف مسبقًا.»\n«أشعر بالخوف عندما يُرفع الصوت عليّ. يساعدني أن يُتحدَّث معي بهدوء.»\n\nوإن كان التعبير بالكلام صعبًا، يمكن كتابة ذلك على ورقة وتسليمها. ويمكن أيضًا عرض صفحة «ما الذي يصعب عليّ» بزر «عرض بخط كبير». تظهر هذه الصفحة في هذا التطبيق بعد اختيار ما يصعب والإجابة عن الأسئلة.\nويمكن أيضًا ذكر الاسم الذي سبق أن أُعطي. ومع ذلك يفيد الطرف الآخر أن يعرف ما الذي يصعب وما المساعدة المطلوبة.\nوقد لا يستطيع الطرف الآخر تلبية الطلب بسبب ظروفه. عندئذ يمكن البحث معًا عن طريق آخر.\n\nوفي العمل يمكن طلب العون بالكلمات نفسها: «يصعب عليّ اتباع عدة تعليمات في وقت واحد. يسهل عليّ الأمر إن وصلتني التعليمات مكتوبة.» وإن احتاج التعديل إلى صفة رسمية، فقد تلزم وثيقة مكتوبة.\n\nلا تُستخدم قائمة الأسماء في هذا التطبيق للتشكيك في من حولنا.",
+       "srcs": []
+      },
+      {
+       "h": "عن هذا التطبيق",
+       "body": "هذا ليس تشخيصًا. وظهور اسم في القائمة لا يعني أن طبيبًا ذكر هذا الاسم.\n\nهذا التطبيق ليس جهازًا طبيًا ولا يقدّم تشخيصًا ولا علاجًا ولا يشفي ولا يقي من أي حالة طبية.\n\nSOYOGI مجموعة طوعية غير ربحية مقرّها اليابان، ولا شخصية اعتبارية لها. وليس لها أي صلة بحكومة الإمارات العربية المتحدة ولا بأي جهة صحية فيها، ومنها وزارة الصحة ووقاية المجتمع ودائرة الصحة أبوظبي وهيئة الصحة بدبي ومؤسسة الإمارات للخدمات الصحية. ولا توصي أي جهة من هذه الجهات بهذا التطبيق ولا تدعمه.\n\nأسماء الجهات تدل على مصدر المعلومات فقط.\n\nاستنادًا إلى صفحات ووثائق نشرتها جهات حكومية في الإمارات العربية المتحدة، كُتب المحتوى بكلمات SOYOGI، ولا يُنقل منها نص حرفيًا. المصادر مذكورة في كل شاشة، مع تاريخ الصفحة حين تُظهره. تاريخ الاطلاع: 18 نوفمبر 2026. وقد تتغير الأرقام والأوقات.\n\nقرار طلب المساعدة يعود إلى الشخص نفسه لا إلى التطبيق. والتطبيق موجّه لمن يبلغ 13 عامًا فأكثر.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "تذكر صفحة مركز أبوظبي للصحة العامة أنه في غير حالات الطوارئ يمكن حجز موعد مع طبيب الرعاية الصحية الأولية (في أبوظبي: AHS-SEHA أو جهة أخرى تقدم الخدمة).",
+      "src": {
+       "org": "مركز أبوظبي للصحة العامة",
+       "title": "Mental Health",
+       "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "لصعوبات الانتباه أو القراءة والكتابة أو التواصل مع الناس، يمكن البدء بخدمات الصحة النفسية لدى مؤسسة الإمارات للخدمات الصحية، حتى دون معرفة اسم لما يحدث.",
+       "src": {
+        "org": "المنصة الرسمية لحكومة الإمارات العربية المتحدة (u.ae)",
+        "title": "الصحة النفسية والعقلية",
+        "url": "https://u.ae/ar/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+        "kind": "fact",
+        "upd": "2026-02-05"
+       }
+      },
+      {
+       "text": "وفي أبوظبي، في غير حالات الطوارئ، يمكن البدء بموعد مع طبيب الرعاية الصحية الأولية.",
+       "src": {
+        "org": "مركز أبوظبي للصحة العامة",
+        "title": "Mental Health",
+        "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "كيف يُعطى الاسم (التشخيص)؟",
+      "text": "معايير دائرة الصحة أبوظبي للقلق والاكتئاب موجّهة إلى مقدمي الرعاية الصحية المرخص لهم. فالاسم (التشخيص) يضعه طبيب أو مختص صحي مرخص، ولا يضعه هذا التطبيق.",
+      "src": {
+       "org": "دائرة الصحة أبوظبي",
+       "title": "Standard Of Care for Depression & Anxiety Disorders",
+       "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+       "kind": "fact",
+       "upd": "2025-07"
+      }
+     },
+     "fewNote": "الأسماء التي أمكن التحقق منها في الصفحات الحكومية قليلة.",
+     "noNames": "لم نتمكن من التحقق من أسماء لهذه المجموعة في الصفحات الحكومية، لذلك لا نعرض قائمة بالأسماء هنا. ويمكن الاطلاع على جهات الدعم في هذا التطبيق."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Low mood and loss of motivation",
+      "lead": "For when your mood stays low for a long time and the motivation to do anything is gone.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "I no longer enjoy things that used to make me happy.",
+       "I have no energy and cannot concentrate, so my work and the tasks at home fall behind.",
+       "I blame myself a lot, and I mostly see the dark side of things.",
+       "I cannot sleep at night, or I sleep too much. My appetite is low and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me to be told what needs to be done, one thing at a time.",
+       "I need time to think, and it helps me not to be rushed to answer or to decide.",
+       "It helps me to be given the important things in writing.",
+       "Before words of encouragement or being told to hang in there, it helps me to be heard first.",
+       "I hope my resting will not be seen as laziness.",
+       "It helps me when we check together whether a physical condition or a medicine I take might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "Sleep problems such as insomnia can be linked with conditions such as depression, anxiety and bipolar disorder.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Scope of Practice and Core Competencies for Mental Health Services",
+         "url": "https://www.dha.gov.ae/uploads/012025/DHA%20Mental%20Health%20Services%20Scope%20of%20Practice2025154594.pdf",
+         "kind": "fact",
+         "upd": "2024-12-31"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can show as lasting sadness, loss of interest, changes in sleep and appetite, and difficulty concentrating.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "When worries keep going and it is hard to calm down, or it is hard to speak in front of people and to leave the house.",
+      "scenes": [
+       "When I speak in front of others or all eyes are on me, I feel intense anxiety and my mind goes completely blank.",
+       "My heart suddenly pounds and my breathing gets tight, and I worry it will happen again, so going out feels hard.",
+       "I worry about many things for no clear reason, and I feel tense and tired.",
+       "I avoid places that are hard to leave, such as malls and crowded markets, public transport, or long queues, and I avoid leaving the house on my own.",
+       "Because I avoid what makes me anxious, I go to fewer places and meet fewer people, and my life has become narrower.",
+       "The worries stay in my head, so it is hard for me to sleep at night."
+      ],
+      "asks": [
+       "It helps me not to be rushed when I am speaking.",
+       "It helps me to know the plan and how things will go ahead of time.",
+       "I would rather not be asked for my opinion suddenly in front of others, and I would like to be able to answer in writing.",
+       "If I start to feel unwell, I would like to be allowed to step out for a moment to rest.",
+       "I would rather talk in a quiet place with only a few people.",
+       "I would rather not be told that I worry too much before I have been listened to."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "Sleep problems such as insomnia can be linked with anxiety and depression.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Scope of Practice and Core Competencies for Mental Health Services",
+         "url": "https://www.dha.gov.ae/uploads/012025/DHA%20Mental%20Health%20Services%20Scope%20of%20Practice2025154594.pdf",
+         "kind": "fact",
+         "upd": "2024-12-31"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "Anxiety can show as restlessness, feeling keyed up or on edge, getting tired easily, difficulty concentrating, irritability, muscle tension and sleep problems.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Anxiety and depression can happen on their own or together in the same person.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Checking and repeating that is hard to stop",
+      "lead": "For when you check the door and the gas or wash again and again, and find it hard to stop even though you want to.",
+      "scenes": [
+       "When I leave the house, I cannot relax until I have checked the door lock and the gas (the gas cylinder or the cooker) again and again.",
+       "I wash my hands or my body more and more, and I cannot stop even though I want to.",
+       "The same worrying thought comes back to my mind again and again, and I cannot stop thinking about it even though I want to.",
+       "I cannot relax if things are not placed or done in the order I have set, so I rearrange them or repeat what I did.",
+       "Time passes while I am checking, so I leave late, or I do not get to my appointments or to work on time.",
+       "My body moves or a sound comes out of me without my meaning to, and it is hard for me to stop it even when I try."
+      ],
+      "asks": [
+       "It helps me to be heard first, before being told that I am overdoing it.",
+       "Checking takes me time, so it helps me to be given extra time.",
+       "It helps me to be told in advance when appointments or steps change.",
+       "I would rather my checking or washing not be pointed out in front of others, and I hope it will not be made fun of.",
+       "It helps me to be given explanations and instructions a little at a time and in writing.",
+       "When we decide how to go on from here, it helps me to have my worries heard first and the decision made calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Generalised anxiety disorder",
+        "why": "In generalised anxiety disorder, worry and uneasy expectation become excessive and cover several events or activities, such as work.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Dubai Mental Health Screening Guidelines",
+         "url": "https://dha.gov.ae/uploads/052024/Dubai%20Mental%20Health%20Screening%20Guidelines2024533931.pdf",
+         "kind": "fact",
+         "upd": "2024-05-22"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "After a hard experience: memories that come back, trouble sleeping, and staying on alert.",
+      "scenes": [
+       "Suddenly, something small brings back the scene and the feelings of that hard time.",
+       "I keep having similar frightening nightmares, and on many nights I do not sleep deeply.",
+       "I am always on alert, and I jump at any small sound or event.",
+       "I avoid, as much as I can, the places, people and conversations that remind me of that time, and the range of what I do in my daily life has narrowed.",
+       "It feels as if my emotions have stopped, so I cannot give my family and friends the feelings I used to give them.",
+       "I blame myself more and more, and it is hard for me to trust the people around me."
+      ],
+      "asks": [
+       "I would rather not be asked to describe the details of what happened. I prefer to speak as much as I can, at a pace that suits me.",
+       "Some sounds, places and topics bring back what happened. It helps me when my request to avoid them is accepted.",
+       "It helps me when people do not call out to me suddenly from behind or make loud noises near me.",
+       "When it is hard for me to speak, I would like to be able to hand over a note that I have written.",
+       "I hope the nights when I do not sleep, and the days when the tiredness stays, will not be taken for laziness.",
+       "I hope not to be rushed to forget or to go back to how I was, and to have a place where I feel safe when I talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "Difficulty sleeping can come with acute stress, with a medicine or another substance, with unhelpful sleep habits, or with a change in the place of sleep.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Stressful events in life can play a part in depression.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Clinical Guidelines for the Virtual Management of Depression",
+         "url": "https://www.dha.gov.ae/uploads/112021/47150ce4-a9e6-4f6b-bb35-435708e107dc.pdf",
+         "kind": "fact",
+         "upd": "2021-07-27"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal",
+       "aeshj",
+       "aeewaa"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "I cannot fall asleep easily even after I lie down in bed.",
+       "I wake up often in the night, so I do not sleep deeply until morning.",
+       "I cannot get up when it is time to wake up, and I am often late for work or study.",
+       "Very strong sleepiness comes over me during the day, and I nearly doze off in meetings or while driving.",
+       "My family told me that I snore loudly and that my breathing seems to stop while I sleep.",
+       "From evening into the night I feel discomfort and restlessness in my legs, so I cannot sleep."
+      ],
+      "asks": [
+       "I need enough time to describe how I sleep: trouble falling asleep, waking up during the night, trouble getting up in the morning, and sleepiness in the day.",
+       "It helps me when we look for the cause together, including the medicines I take and my habits with stimulants such as coffee, tea and energy drinks, and with smoking.",
+       "I would like it not to be seen as only a matter of thinking or willpower, and my physical condition and my mood to be checked together.",
+       "I would like to show a sheet where I wrote down my sleep and wake-up times. Please take a look at it.",
+       "If a medicine is prescribed for me, please explain clearly how it works and what I should watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep apnoea",
+        "why": "In sleep apnoea, breathing stops, without the person meaning it, while they are asleep.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "A diagnosis of insomnia looks at three things together: lasting difficulty sleeping, enough chance to sleep, and effects during the day.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       },
+       {
+        "name": "Circadian rhythm disturbances (body clock)",
+        "why": "Circadian rhythm disturbances are named among sleep disorders that can come with strong sleepiness during the day. The circadian rhythm is an internal process in the body that keeps sleeping and waking in step with day and night.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "Hypersomnia",
+        "why": "Hypersomnia means strong sleepiness during the day even after enough or long sleep at night.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "Parasomnias",
+        "why": "Parasomnias are unusual behaviours or experiences during sleep or when moving between its stages.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "Restless legs syndrome is named among examples of sleep disorders, together with insomnia and sleep apnoea.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Standards for Sleep Laboratory",
+         "url": "https://dha.gov.ae/uploads/012025/Standards%20For%20Sleep%20Laboratory2025134354.pdf",
+         "kind": "fact",
+         "upd": "2024-12-19"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can include changes in sleep.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "Anxiety can include sleep disturbance.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "Being unable to eat, eating too much, or being afraid of eating.",
+      "scenes": [
+       "I do not feel like eating, and for some time it has been hard for me to swallow food.",
+       "Once I start eating I cannot stop myself, and sometimes I eat until it hurts.",
+       "I find myself thinking only about food, and it is hard for me to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After I choked on food or vomited, eating became frightening to me.",
+       "Sometimes I eat at night while I am half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would like people not to comment on my weight or my appearance.",
+       "I would like not to be forced to eat or rushed while I eat.",
+       "When people eat together, such as at banquets, gatherings and family meals, please let me choose another place or time.",
+       "It helps me to be asked first what I can eat, and which smells and textures are hard for me to bear.",
+       "It helps me to have the steps of the physical examination and the tests explained before they are done.",
+       "It helps me when I can write down what is hard for me to say and hand it over."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders",
+        "why": "Eating disorders are mental health conditions in which eating, or behaviour around food, stays disturbed and changes how food is taken in or absorbed. This can seriously affect physical health, or how a person functions psychologically and socially.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Dubai Mental Health Screening Guidelines",
+         "url": "https://dha.gov.ae/uploads/052024/Dubai%20Mental%20Health%20Screening%20Guidelines2024533931.pdf",
+         "kind": "fact",
+         "upd": "2024-05-22"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression can include changes in appetite.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Alcohol, gambling or video games: hard to stop",
+      "lead": "Wanting to stop or cut down, but still going back to it.",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself going back to it again.",
+       "I can't keep to the time, the amount or the money I set for myself, such as “That's enough for today.”",
+       "I hide my drinking, gambling or video gaming from my family or people close to me, or I am evasive when I talk about it.",
+       "I stay up late playing video games, so I can't wake up in the morning, and I am late or absent more and more often.",
+       "I go back to gambling to win back what I lost.",
+       "I know my body is not in good shape, but I still can't cut down on alcohol."
+      ],
+      "asks": [
+       "It helps me to be listened to first, without blame or jumping to conclusions.",
+       "It helps me when we go through, step by step, how I deal with this now and what difficulties it causes me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me to be told specifically where I can ask for support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can join the conversation.",
+       "I would like to know beforehand who will be able to see what I say, and to what extent."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Insomnia",
+        "why": "Difficulty sleeping can come with a medicine or another substance.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       },
+       {
+        "name": "Substance use disorder",
+        "why": "Substance use disorder refers to a way of using a substance that has reached a clinically important level, bringing marked difficulty in daily functioning or marked distress.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Substance Use Disorder (SUD) Treatment and Rehabilitation",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2026/Standard--Substance-Use-Disorder-SUD-Treatment-and-Rehabilitation-27826.ashx",
+         "kind": "fact",
+         "upd": "2026-08"
+        }
+       },
+       {
+        "name": "Behavioural addiction",
+        "why": "In a behavioural addiction, a person feels driven to repeat a behaviour and keeps going even when it brings harm. It has features in common with substance use disorder, such as craving, losing control and difficulty in daily functioning.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Substance Use Disorder (SUD) Treatment and Rehabilitation",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2026/Standard--Substance-Use-Disorder-SUD-Treatment-and-Rehabilitation-27826.ashx",
+         "kind": "fact",
+         "upd": "2026-08"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aealamal",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organised",
+      "lead": "Trouble concentrating, doing things in order, or remembering them.",
+      "scenes": [
+       "Even when someone is talking to me, I find that my mind has drifted to something else without my noticing.",
+       "I can't get my work or my housework done in order, so I miss deadlines.",
+       "I often can't remember later what I was asked to do or what I promised, or I lose my things.",
+       "When I keep at the same task for a long time, I make more and more mistakes without meaning to.",
+       "When I have to sit still, I can't settle down, and I keep moving around in my seat.",
+       "People around me tell me that I often forget my things or am late for appointments."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "It helps me when important things are written down and handed to me.",
+       "I would like to be told about appointments and deadlines early.",
+       "It helps me when I am not given many things at once, and when tasks are split into small parts.",
+       "I would rather talk in a quiet place where nothing distracts me.",
+       "I would like people not to blame me for what I couldn't get done, and to recognise what I did get done."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Depression can include difficulty concentrating.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "Anxiety can include difficulty concentrating.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Attention deficit hyperactivity disorder (ADHD)",
+        "why": "In adults, ADHD can show as difficulty keeping attention, disorganisation, forgetfulness and trouble with everyday tasks, which can affect work and personal responsibilities.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard of Care for Attention-Deficit Hyperactivity Disorder (ADHD)",
+         "url": "https://www.doh.gov.ae/-/media/9B6AFDE5352A4943B3894B6FE43A1B22.ashx",
+         "kind": "fact",
+         "upd": "2025-10"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with relationships, daily routines or sensory input",
+      "lead": "Trouble talking or dealing with others, a strong need to always do things the same way, or finding sounds, lights and smells hard to bear.",
+      "scenes": [
+       "It is hard for me to understand how the person I am talking with feels, or the mood of the place, so it feels as if we are talking past each other.",
+       "When I speak in front of people or all eyes turn to me, I feel very tense and I avoid those situations.",
+       "I talk easily with people close to me, but I can't speak in front of others.",
+       "When the order of things, the way of doing them or the place where they are kept changes from what I am used to, I feel very anxious.",
+       "Sounds, lights and smells feel too strong to me, so crowded places, such as shopping malls, are hard for me.",
+       "It is hard for me to hear what people say, or sadness overwhelms me, so that meeting people and talking with them has come to weigh on me."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would rather talk in a quiet place.",
+       "I would like to be told beforehand when an appointment or the way of working changes.",
+       "I would like people not to rush me to answer, and to wait for my answer.",
+       "It helps me when I can answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Anxiety and depression can affect a person's emotional and mental state, and can lead to difficulties at work, with other people and in personal life.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard Of Care for Depression & Anxiety Disorders",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+         "kind": "fact",
+         "upd": "2025-07"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder",
+        "why": "Autism spectrum disorder can include ongoing difficulty with communicating and dealing with other people, in many different situations.",
+        "src": {
+         "org": "Department of Health Abu Dhabi",
+         "title": "Standard For Autism Spectrum Disorder Management",
+         "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-for-Autism-Spectrum-Disorder-Care-Management.ashx",
+         "kind": "fact",
+         "upd": "2025-12"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aemohre"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "Even with a lot of effort, reading, writing or calculating is still very hard.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I read it again many times.",
+       "Even after reading, the meaning does not settle in my mind, and I find it hard to understand messages and forms from government offices, the bank or my workplace.",
+       "I make many spelling mistakes, for example with the hamza and with the two forms of the letter taa (ة and ت), and sometimes I leave out some letters.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and effort.",
+       "I stumble over simple calculations and over maths problems written out in words.",
+       "I can talk and listen without difficulty, but with reading, writing and calculating I do not make the progress I would like, even when I put time into it."
+      ],
+      "asks": [
+       "It helps me when text is shown in large print with wide spacing between the lines, and with vowel marks (tashkeel) when needed.",
+       "It helps me when important things are read aloud to me or told to me.",
+       "I prefer to enter text on a computer or phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "I would like to be allowed to use a calculator (on my phone) for calculations.",
+       "It helps me to have more time for reading, writing and calculating.",
+       "It helps me when I am given less at a time, and when each thing is handed to me separately."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "Mood goes up and down a lot, and it is hard to keep up with it.",
+      "scenes": [
+       "Periods when my energy runs very high alternate with periods when my mood is so low that I cannot move.",
+       "There are periods when I hardly sleep, and yet my energy is high and I keep moving.",
+       "Ideas and plans come one after another in my mind, and each of them is left unfinished.",
+       "When my mood was high, I bought many things, by card or in instalments, and then I regretted it.",
+       "I lose patience quickly over small things, and it is hard for me to keep my feelings in check.",
+       "When my mood was high, I acted in ways that later affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when the questions also cover the times when my mood was higher than usual.",
+       "I prefer that we go over the highs and lows of my mood together, without hurrying.",
+       "It helps me to be reminded to stop and think before big decisions about money or work.",
+       "I would like physical factors to be looked at too, including sleep, medicines and stimulants.",
+       "I would like to be told, without blame, if I seem different from usual.",
+       "I would like to be heard out to the end, both in my high times and in my low times."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Depression is a mental health condition in which low mood spreads across life, together with low self-esteem and a loss of interest or enjoyment in things a person usually likes doing.",
+        "src": {
+         "org": "Dubai Health Authority",
+         "title": "Dubai Mental Health Screening Guidelines",
+         "url": "https://dha.gov.ae/uploads/052024/Dubai%20Mental%20Health%20Screening%20Guidelines2024533931.pdf",
+         "kind": "fact",
+         "upd": "2024-05-22"
+        }
+       }
+      ],
+      "windows": [
+       "aephc",
+       "aeitmaen",
+       "aeehs",
+       "aealamal"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing the name of an illness or a developmental condition can make everyday ups and downs seem like more than they are",
+       "body": "When you learn the name of an illness or of a developmental condition, a little tiredness or a mind that drifts at times can seem like more than it is.\n\nEmotions have an effect on the body and the mood, and this is not imagination; it really happens. But too little sleep, stress, the phone and what is going on around you can also cause similar things.\n\nWhen you read a name and think “maybe this is what I have,” that by itself does not settle it; other causes are looked at too. And if what is hard continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Sleep and mood can be affected by what is going on in life",
+       "body": "Guidelines from the Dubai Health Authority say that sleep difficulties can come with acute stress, a medicine or another substance, sleep habits, or changes in the place where you sleep.\n\nA name (a diagnosis) is given by a doctor or another licensed health professional. This app does not give one.\n\nIf what is hard continues, you can talk about it as it is, whatever the name.",
+       "srcs": [
+        {
+         "org": "Dubai Health Authority",
+         "title": "DHA Telehealth Clinical Guidelines for Virtual Management of Insomnia",
+         "url": "https://dha.gov.ae/uploads/032024/24%20-%20DHA%20Telehealth%20Clinical%20Guidelines%20for%20Virtual%20Management%20of%20Insomnia2024313354.pdf",
+         "kind": "fact",
+         "upd": "2024-02-21"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about what is hard even without knowing its name",
+       "body": "When it is not an emergency, the Abu Dhabi Public Health Centre page points to booking an appointment with a primary health care doctor. You can talk there about what is hard, as it is.\n\nIn private-sector work, labour law in the UAE prohibits discrimination on the basis of disability. What you need, and what could help, can be talked over and decided together.",
+       "srcs": [
+        {
+         "org": "Abu Dhabi Public Health Centre",
+         "title": "Mental Health",
+         "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "The Official Portal of the UAE Government (u.ae)",
+         "title": "Anti-discrimination laws and policies",
+         "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/Law/anti-discrimination-laws-and-policies",
+         "kind": "fact",
+         "upd": "2026-09-02"
+        }
+       ]
+      },
+      {
+       "h": "But some rights and services may require papers from a doctor",
+       "body": "Some rights and services ask for papers from a doctor. For sick leave in private-sector work, the worker must tell the employer within a set time and give a medical report issued by the relevant medical entity. In Dubai, the Sanad card for people of determination is issued after the person’s condition is looked at in a recognised health facility and a unified medical report is prepared.\n\nWhat is asked differs from one service to another, so it helps to ask the relevant body first.",
+       "srcs": [
+        {
+         "org": "The Official Portal of the UAE Government (u.ae)",
+         "title": "Types of leaves",
+         "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/Types-of-leaves",
+         "kind": "fact",
+         "upd": "2026-10-14"
+        },
+        {
+         "org": "Government of Dubai Media Office",
+         "title": "DHA launches unified medical report project to enhance services for People of Determination",
+         "url": "https://mediaoffice.ae/en/news/2026/may/04-05/dha-launches-unified-medical-report-project-to-enhance-services-for-people-of-determination",
+         "kind": "fact",
+         "upd": "2026-05-04"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for feeling superior to someone, or for looking down on other people.\nFor some people, knowing the name of what they are going through brings relief. That matters.\nWanting the people around us to understand us and to be gentle with us also makes sense.\n\nWhen you want the people around you to be gentler, you can ask for that directly, without needing to say the name of an illness.\nIt is easier to understand when you say two things together: what is hard for you and what helps you.\n\nHere are some examples:\n“I have little energy today. It helps me when people speak to me slowly.”\n“I get confused when many things are said at once. It helps me when I am told one thing at a time.”\n“It is hard for me to remember what is only said out loud. I prefer to receive the important things in writing, on paper or by email.”\n“Crowded places drain my energy. It is easier for me if we talk in a quiet place.”\n“I need a little time before I answer. It helps me when people wait a moment.”\n“Right now I have many feelings at once. It helps me when I am listened to first, and when advice is put off until later.”\n“I am not feeling well today. It helps me to rest a little.”\n“Sudden changes of plans throw me off. It helps me to know in advance.”\n“When a voice is raised at me, I feel afraid. It helps me when people speak to me calmly.”\n\nIf it is hard to say this out loud, you can write it on a piece of paper and hand it over. You can also show the page “My worries” with the button “Show it large”. It appears in this app after you choose what is hard and answer the questions.\nYou can also mention the name you were already given. Even so, it helps the other person to know what is hard and what help is needed.\nSometimes the other person cannot meet the request because of their own circumstances. In that case, you can look for another way together.\n\nAt work, you can ask for help in the same words: “It is hard for me to follow several instructions at the same time. It is easier for me if the instructions reach me in writing.” If the adjustment needs to be formal, a written document may be needed.\n\nThe list of names in this app is not meant to be used to doubt the people around us.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. If a name appears in the list, it does not mean that a doctor has mentioned that name.\n\nThis app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It has no legal personality. It has no link with the UAE Government or any health authority in the UAE, including the Ministry of Health and Prevention, the Department of Health Abu Dhabi, the Dubai Health Authority and Emirates Health Services. None of them recommends or supports this app. The names of these bodies only show where information came from.\n\nSOYOGI wrote this content in its own words, based on pages and documents published by government bodies in the UAE. It does not quote them word for word. Sources are shown on each screen, with the date of the page when it shows one. Accessed on 18 November 2026. Numbers and hours may change.\n\nThe decision to ask for help belongs to the person, not to the app. This app is meant for people aged 13 and over.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "The Abu Dhabi Public Health Centre page says that, when it is not an emergency, you can book an appointment with a primary health care doctor (in Abu Dhabi: AHS-SEHA or another provider).",
+      "src": {
+       "org": "Abu Dhabi Public Health Centre",
+       "title": "Mental Health",
+       "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "For difficulties with attention, with reading and writing, or with getting along with people, you can start with the mental health services of Emirates Health Services, even without knowing a name for what is happening.",
+       "src": {
+        "org": "The Official Portal of the UAE Government (u.ae)",
+        "title": "Mental health",
+        "url": "https://u.ae/en/information-and-services/health-and-fitness/Health-and-wellbeing/mental-health",
+        "kind": "fact",
+        "upd": "2026-11-09"
+       }
+      },
+      {
+       "text": "In Abu Dhabi, when it is not an emergency, you can also start with an appointment with a primary health care doctor.",
+       "src": {
+        "org": "Abu Dhabi Public Health Centre",
+        "title": "Mental Health",
+        "url": "https://www.adphc.gov.ae/en/Public-Health-Programs/Mental-Health",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "How is a name (a diagnosis) given?",
+      "text": "The standard of the Department of Health Abu Dhabi for anxiety and depression is written for licensed health care providers. A name (a diagnosis) is given by a doctor or another licensed health professional, not by this app.",
+      "src": {
+       "org": "Department of Health Abu Dhabi",
+       "title": "Standard Of Care for Depression & Anxiety Disorders",
+       "url": "https://www.doh.gov.ae/-/media/Feature/Resources/Standards/2025/Standard-of-Care-Depression--Anxiety.ashx",
+       "kind": "fact",
+       "upd": "2025-07"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on government pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "cl": {
+   "id": "cl",
+   "name": {
+    "ja": "チリ",
+    "en": "Chile",
+    "fr": "Chili",
+    "de": "Chile",
+    "es": "Chile",
+    "esmx": "Chile",
+    "escl": "Chile",
+    "nl": "Chili",
+    "ko": "칠레",
+    "zh": "智利",
+    "zhhk": "智利",
+    "it": "Cile",
+    "sv": "Chile",
+    "pt": "Chile",
+    "ptpt": "Chile",
+    "ar": "تشيلي"
+   },
+   "langs": [
+    "escl",
+    "en"
+   ],
+   "main": "escl",
+   "fallback": "escl",
+   "srcLang": "escl",
+   "freeHosts": [],
+   "adaptHosts": [
+    "chileatiende.gob.cl"
+   ],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-18",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "clurg",
+     "band": "now",
+     "tel": "131",
+     "tel2": "133",
+     "url": "https://www.consulado.gob.cl/emergencias-en-chile",
+     "linkOk": false,
+     "escl": {
+      "name": "Emergencias: 131 (ambulancia) y 133 (Carabineros)",
+      "desc": "131: ambulancia y atención médica. 133: Carabineros, emergencias.",
+      "hours": "Para emergencias.",
+      "src": {
+       "org": "Ministerio de Relaciones Exteriores",
+       "title": "Emergencias en Chile",
+       "url": "https://www.consulado.gob.cl/emergencias-en-chile",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Emergencies: 131 (ambulance) and 133 (Carabineros)",
+      "desc": "131: ambulance and medical care. 133: Carabineros, emergencies.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Ministerio de Relaciones Exteriores",
+       "title": "Emergencias en Chile",
+       "url": "https://www.consulado.gob.cl/emergencias-en-chile",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Relaciones Exteriores",
+      "title": "Emergencias en Chile",
+      "url": "https://www.consulado.gob.cl/emergencias-en-chile",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cl4141",
+     "band": "now",
+     "tel": "*4141",
+     "tel2": "",
+     "url": "https://www.minsal.cl/linea-de-atencion-4141-no-estas-solo-no-estas-sola/",
+     "linkOk": false,
+     "escl": {
+      "name": "Línea de prevención del suicidio *4141",
+      "desc": "Línea de prevención del suicidio del Ministerio de Salud. Llama al *4141 desde un celular. Es gratuita, atiende de lunes a domingo, las 24 horas del día, y te contesta un psicólogo. La atención es confidencial.",
+      "hours": "De lunes a domingo, las 24 horas del día.",
+      "src": {
+       "org": "Ministerio de Salud",
+       "title": "Línea de atención *4141 no estás solo, no estás sola",
+       "url": "https://www.minsal.cl/linea-de-atencion-4141-no-estas-solo-no-estas-sola/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Suicide prevention line *4141",
+      "desc": "Suicide prevention line of the Ministry of Health. Call *4141 from a mobile phone. It is free, runs Monday to Sunday, 24 hours a day, and a psychologist answers. The service is confidential.",
+      "hours": "Monday to Sunday, 24 hours a day.",
+      "src": {
+       "org": "Ministerio de Salud",
+       "title": "Línea de atención *4141 no estás solo, no estás sola",
+       "url": "https://www.minsal.cl/linea-de-atencion-4141-no-estas-solo-no-estas-sola/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud",
+      "title": "Línea de atención *4141 no estás solo, no estás sola",
+      "url": "https://www.minsal.cl/linea-de-atencion-4141-no-estas-solo-no-estas-sola/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cl149",
+     "band": "now",
+     "tel": "149",
+     "tel2": "",
+     "url": "https://www.chileatiende.gob.cl/fichas/28630-fono-familia-149",
+     "linkOk": false,
+     "escl": {
+      "name": "Fono Familia 149 (Carabineros de Chile)",
+      "desc": "Teléfono de Carabineros de Chile para recibir orientación si eres o podrías ser víctima de violencia intrafamiliar. Es gratuito y confidencial y está disponible las 24 horas y durante todo el año. Desde aquí también se pueden activar procedimientos policiales.",
+      "hours": "Las 24 horas, durante todo el año.",
+      "src": {
+       "org": "Carabineros de Chile (ChileAtiende)",
+       "title": "Fono Familia 149",
+       "url": "https://www.chileatiende.gob.cl/fichas/28630-fono-familia-149",
+       "kind": "summary",
+       "upd": "2026-05-20"
+      }
+     },
+     "en": {
+      "name": "Fono Familia 149 (Carabineros de Chile)",
+      "desc": "Carabineros de Chile phone line for guidance if you are, or may be, a victim of domestic violence. It is free and confidential and is available 24 hours a day, all year round. Police procedures can also be activated through it.",
+      "hours": "24 hours a day, all year round.",
+      "src": {
+       "org": "Carabineros de Chile (ChileAtiende)",
+       "title": "Fono Familia 149",
+       "url": "https://www.chileatiende.gob.cl/fichas/28630-fono-familia-149",
+       "kind": "summary",
+       "upd": "2026-05-20"
+      }
+     },
+     "src": {
+      "org": "Carabineros de Chile (ChileAtiende)",
+      "title": "Fono Familia 149",
+      "url": "https://www.chileatiende.gob.cl/fichas/28630-fono-familia-149",
+      "kind": "summary",
+      "upd": "2026-05-20"
+     }
+    },
+    {
+     "id": "clsaludresp",
+     "band": "now",
+     "tel": "600 360 77 77",
+     "tel2": "",
+     "url": "https://www.chileatiende.gob.cl/fichas/2467-salud-responde",
+     "linkOk": false,
+     "escl": {
+      "name": "Salud Responde 600 360 77 77",
+      "desc": "Teléfono del Ministerio de Salud con médicos, enfermeras, enfermeros, matronas y matrones. Atiende durante todo el año, las 24 horas del día, a todas las personas. El costo equivale a una llamada local. Entrega información sobre los derechos y beneficios de la red de salud. También hay atención en kreyol y en lengua de señas por videollamada.",
+      "hours": "Durante todo el año, las 24 horas del día.",
+      "src": {
+       "org": "Ministerio de Salud (ChileAtiende)",
+       "title": "Salud Responde",
+       "url": "https://www.chileatiende.gob.cl/fichas/2467-salud-responde",
+       "kind": "summary",
+       "upd": "2024-04-04"
+      }
+     },
+     "en": {
+      "name": "Salud Responde 600 360 77 77",
+      "desc": "Ministry of Health phone line with doctors, nurses and midwives. It is open all year, 24 hours a day, to everyone. The cost is equivalent to a local call. It gives information about the rights and benefits of the health network. Service is also available in kreyol, and in sign language by video call.",
+      "hours": "All year, 24 hours a day.",
+      "src": {
+       "org": "Ministerio de Salud (ChileAtiende)",
+       "title": "Salud Responde",
+       "url": "https://www.chileatiende.gob.cl/fichas/2467-salud-responde",
+       "kind": "summary",
+       "upd": "2024-04-04"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud (ChileAtiende)",
+      "title": "Salud Responde",
+      "url": "https://www.chileatiende.gob.cl/fichas/2467-salud-responde",
+      "kind": "summary",
+      "upd": "2024-04-04"
+     }
+    },
+    {
+     "id": "clcesfam",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges",
+     "linkOk": false,
+     "escl": {
+      "name": "Tu CESFAM o consultorio",
+      "desc": "Si tienes Fonasa, para empezar una atención del sistema GES (Garantías Explícitas en Salud) te atiende un médico en el centro de salud donde tienes tu inscripción (CESFAM o consultorio).",
+      "hours": "Consulta el horario en tu centro de salud.",
+      "src": {
+       "org": "Ministerio de Salud (ChileAtiende)",
+       "title": "Plan AUGE-GES",
+       "url": "https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges",
+       "kind": "summary",
+       "upd": "2026-10-13"
+      }
+     },
+     "en": {
+      "name": "Your CESFAM or consultorio (public primary health centre)",
+      "desc": "If you have Fonasa, to start care under the GES system (Explicit Health Guarantees), you are seen by a doctor at the health centre where you are registered (CESFAM or consultorio).",
+      "hours": "Check opening hours with your health centre.",
+      "src": {
+       "org": "Ministerio de Salud (ChileAtiende)",
+       "title": "Plan AUGE-GES",
+       "url": "https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges",
+       "kind": "summary",
+       "upd": "2026-10-13"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud (ChileAtiende)",
+      "title": "Plan AUGE-GES",
+      "url": "https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges",
+      "kind": "summary",
+      "upd": "2026-10-13"
+     }
+    },
+    {
+     "id": "clsenda",
+     "band": "day",
+     "tel": "1412",
+     "tel2": "",
+     "url": "https://interior.gob.cl/noticias/2025/10/15/vicepresidente-elizalde-participa-del-lanzamiento-segunda-temporada-de-la-audioserie-1412-esto-es-sin-juzgar-de-senda/",
+     "linkOk": false,
+     "escl": {
+      "name": "Fono Drogas y Alcohol 1412 (SENDA)",
+      "desc": "Fono Drogas y Alcohol de SENDA (Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol). Es un canal gratuito, confidencial y disponible las 24 horas del día.",
+      "hours": "Las 24 horas del día.",
+      "src": {
+       "org": "Ministerio del Interior",
+       "title": "Vicepresidente Elizalde participa del lanzamiento segunda temporada de la audioserie “1412: Esto es sin juzgar” de SENDA",
+       "url": "https://interior.gob.cl/noticias/2025/10/15/vicepresidente-elizalde-participa-del-lanzamiento-segunda-temporada-de-la-audioserie-1412-esto-es-sin-juzgar-de-senda/",
+       "kind": "fact",
+       "upd": "2025-10-15"
+      }
+     },
+     "en": {
+      "name": "Drug and Alcohol Helpline 1412 (SENDA)",
+      "desc": "SENDA Drug and Alcohol Helpline (Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol). It is a free, confidential channel available 24 hours a day.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Ministerio del Interior",
+       "title": "Vicepresidente Elizalde participa del lanzamiento segunda temporada de la audioserie “1412: Esto es sin juzgar” de SENDA",
+       "url": "https://interior.gob.cl/noticias/2025/10/15/vicepresidente-elizalde-participa-del-lanzamiento-segunda-temporada-de-la-audioserie-1412-esto-es-sin-juzgar-de-senda/",
+       "kind": "fact",
+       "upd": "2025-10-15"
+      }
+     },
+     "src": {
+      "org": "Ministerio del Interior",
+      "title": "Vicepresidente Elizalde participa del lanzamiento segunda temporada de la audioserie “1412: Esto es sin juzgar” de SENDA",
+      "url": "https://interior.gob.cl/noticias/2025/10/15/vicepresidente-elizalde-participa-del-lanzamiento-segunda-temporada-de-la-audioserie-1412-esto-es-sin-juzgar-de-senda/",
+      "kind": "fact",
+      "upd": "2025-10-15"
+     }
+    },
+    {
+     "id": "cl1455",
+     "band": "day",
+     "tel": "1455",
+     "tel2": "",
+     "url": "https://www.sernameg.gob.cl/sernameg-te-orienta/",
+     "linkOk": false,
+     "escl": {
+      "name": "Fono 1455 de SernamEG",
+      "desc": "Fono de orientación de SernamEG para testigos o víctimas de violencia de género. Atiende de lunes a domingo, incluidos los festivos, de 08:00 a 00:00 horas. También puedes escribir por WhatsApp al +56 9 9700 7000 en el mismo horario.",
+      "hours": "De lunes a domingo, incluidos los festivos, de 08:00 a 00:00 horas.",
+      "src": {
+       "org": "Servicio Nacional de la Mujer y la Equidad de Género (SernamEG)",
+       "title": "SernamEG Te Orienta",
+       "url": "https://www.sernameg.gob.cl/sernameg-te-orienta/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "SernamEG 1455 line",
+      "desc": "SernamEG guidance line for witnesses or victims of gender-based violence. It is open Monday to Sunday, including public holidays, from 08:00 to 00:00. You can also write on WhatsApp to +56 9 9700 7000 during the same hours.",
+      "hours": "Monday to Sunday, including public holidays, from 08:00 to 00:00.",
+      "src": {
+       "org": "Servicio Nacional de la Mujer y la Equidad de Género (SernamEG)",
+       "title": "SernamEG Te Orienta",
+       "url": "https://www.sernameg.gob.cl/sernameg-te-orienta/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Servicio Nacional de la Mujer y la Equidad de Género (SernamEG)",
+      "title": "SernamEG Te Orienta",
+      "url": "https://www.sernameg.gob.cl/sernameg-te-orienta/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "clsenadis",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.senadis.gob.cl/pag/593/1888/contactenos_siac",
+     "linkOk": false,
+     "escl": {
+      "name": "Servicio Nacional de la Discapacidad (SENADIS)",
+      "desc": "Servicio Nacional de la Discapacidad (SENADIS). Atiende en persona o por teléfono en sus Direcciones Regionales.",
+      "hours": "Consulta el horario de tu Dirección Regional.",
+      "src": {
+       "org": "Servicio Nacional de la Discapacidad (SENADIS)",
+       "title": "Contáctenos - SIAC",
+       "url": "https://www.senadis.gob.cl/pag/593/1888/contactenos_siac",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "National Disability Service (SENADIS)",
+      "desc": "National Disability Service (SENADIS). It serves people in person or by phone at its Regional Offices.",
+      "hours": "Check opening hours with your Regional Office.",
+      "src": {
+       "org": "Servicio Nacional de la Discapacidad (SENADIS)",
+       "title": "Contáctenos - SIAC",
+       "url": "https://www.senadis.gob.cl/pag/593/1888/contactenos_siac",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Servicio Nacional de la Discapacidad (SENADIS)",
+      "title": "Contáctenos - SIAC",
+      "url": "https://www.senadis.gob.cl/pag/593/1888/contactenos_siac",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "cldt",
+     "band": "day",
+     "tel": "600 450 4000",
+     "tel2": "",
+     "url": "https://www.dt.gob.cl/portal/1626/w3-channel.html",
+     "linkOk": false,
+     "escl": {
+      "name": "Dirección del Trabajo 600 450 4000",
+      "desc": "Teléfono de atención de la Dirección del Trabajo.",
+      "hours": "De lunes a viernes, de 09:00 a 17:00 horas.",
+      "src": {
+       "org": "Dirección del Trabajo",
+       "title": "Inicio - DT - Dirección del Trabajo",
+       "url": "https://www.dt.gob.cl/portal/1626/w3-channel.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Labour Directorate (Dirección del Trabajo) 600 450 4000",
+      "desc": "Phone line of the Labour Directorate (Dirección del Trabajo).",
+      "hours": "Monday to Friday, 09:00 to 17:00.",
+      "src": {
+       "org": "Dirección del Trabajo",
+       "title": "Inicio - DT - Dirección del Trabajo",
+       "url": "https://www.dt.gob.cl/portal/1626/w3-channel.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Dirección del Trabajo",
+      "title": "Inicio - DT - Dirección del Trabajo",
+      "url": "https://www.dt.gob.cl/portal/1626/w3-channel.html",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "escl": {
+    "groups": {
+     "mood": {
+      "label": "Ánimo bajo, sin energía",
+      "lead": "Cuando el ánimo sigue bajo y cuesta encontrar fuerzas para cualquier cosa.",
+      "scenes": [
+       "Tengo el ánimo bajo de la mañana a la noche.",
+       "Las cosas que antes me gustaban ya no me hacen disfrutar.",
+       "No tengo fuerzas ni puedo concentrarme, así que el trabajo y las tareas de la casa se quedan sin hacer.",
+       "Me culpo de todo y siempre pienso lo peor.",
+       "De noche no puedo dormir, o duermo demasiado. He perdido el apetito y el cuerpo me pesa.",
+       "A veces quiero desaparecer o ya no estar aquí."
+      ],
+      "asks": [
+       "Me ayuda que me expliquen lo que hay que hacer, una cosa a la vez.",
+       "Necesito tiempo para pensar: prefiero que no me presionen para responder ni para decidir.",
+       "Prefiero que me den por escrito lo importante.",
+       "Antes de decirme “¡Ánimo!” o “¡Ponle ganas!”, me ayuda que me escuchen primero.",
+       "Cuando descanso, prefiero que no piensen que es flojera.",
+       "Me ayuda que revisen conmigo si alguna enfermedad física o algún medicamento que tomo puede influir."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión",
+        "why": "Esta página explica que la depresión es un trastorno del estado de ánimo: cambia cómo una persona se siente y piensa y cómo lleva su día a día, con ánimo bajo, mucho menos interés o gusto por las actividades y poca energía.",
+        "src": {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Depresión",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-depresion/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta guía explica que en el trastorno bipolar el ánimo se mueve entre dos extremos: momentos de exaltación y euforia, y momentos marcados por la tristeza.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Guía Clínica Trastorno Bipolar en personas de 15 años y más",
+         "url": "https://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2016/02/3.-MINSAL_GPC_Trastorno-bipolar_2013.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "cldt"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mucha preocupación o tensión",
+      "lead": "Preocupaciones que no se quitan, el corazón acelerado e inquietud, dificultades frente a otras personas o al salir de casa, y cosas parecidas.",
+      "scenes": [
+       "Cuando tengo que hablar frente a otras personas o me observan, siento tanta ansiedad que me quedo en blanco.",
+       "De repente el corazón me late muy rápido y me falta el aire. Me preocupa que vuelva a pasar y por eso me cuesta salir de casa.",
+       "Sin un motivo claro, me preocupo por una cosa tras otra, siento mucha inquietud y no me quedan fuerzas.",
+       "Lo paso mal en los lugares de los que es difícil salir, como el metro, el bus, los centros comerciales o los lugares con mucha gente, y también cuando salgo de casa sin compañía. Por eso trato de evitarlos.",
+       "Como evito lo que me da miedo, cada vez voy a menos lugares y veo a menos gente. Mi vida se ha hecho más pequeña.",
+       "Las preocupaciones no se me quitan de la cabeza y por la noche me cuesta dormirme."
+      ],
+      "asks": [
+       "Cuando hablo, me ayuda que me den tiempo y no me apuren.",
+       "Prefiero que me expliquen con anticipación el plan y cómo va a ser todo.",
+       "Prefiero que no me pidan mi opinión de repente frente a otras personas, y poder responder también por escrito.",
+       "Si me siento mal, me ayuda poder salir un momento a descansar.",
+       "Prefiero hablar en un lugar tranquilo y con pocas personas.",
+       "Antes de decirme que me preocupo demasiado, me ayuda que escuchen primero lo que me cuesta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno de ansiedad",
+        "why": "Esta página explica que la ansiedad puede llegar a ser una enfermedad, el trastorno de ansiedad, cuando las preocupaciones se repiten mucho, pesan demasiado y empiezan a estorbar el día a día o la relación con otras personas.",
+        "src": {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Ansiedad",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada",
+        "why": "Este documento explica que, en el trastorno de ansiedad generalizada, la ansiedad se mantiene en el tiempo y abarca muchas cosas, con nerviosismo constante y tensión en el cuerpo.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Resumen Ejecutivo Guía de Práctica Clínica Trastorno Ansioso",
+         "url": "https://diprece.minsal.cl/wp-content/uploads/2020/02/08.-RE_GPC-trastorno-ansioso_2018-final_v3.pdf",
+         "kind": "fact",
+         "upd": "2020"
+        }
+       },
+       {
+        "name": "Trastorno de pánico",
+        "why": "Este documento explica que, en el trastorno de pánico, vuelven una y otra vez episodios de ansiedad muy intensa que llegan sin aviso y que pueden venir con el corazón acelerado, sensación de ahogo o mareos.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Resumen Ejecutivo Guía de Práctica Clínica Trastorno Ansioso",
+         "url": "https://diprece.minsal.cl/wp-content/uploads/2020/02/08.-RE_GPC-trastorno-ansioso_2018-final_v3.pdf",
+         "kind": "fact",
+         "upd": "2020"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "cldt"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Me cuesta dejar de revisar o de repetir",
+      "lead": "Cuando revisas una y otra vez la puerta o el gas, te lavas las manos o repites otras acciones y te cuesta parar aunque quieras.",
+      "scenes": [
+       "Al salir de casa necesito revisar una y otra vez si cerré bien la puerta o la llave del gas; si no, no logro irme con tranquilidad.",
+       "Me lavo las manos o el cuerpo cada vez más veces y, aunque quiero parar, no puedo.",
+       "La misma preocupación me viene a la cabeza una y otra vez y no logro dejar de pensar en ella, aunque quiero.",
+       "Si las cosas no están ordenadas o no se hacen en el orden que tengo fijado, me inquieto y termino ordenándolas de nuevo o empezando otra vez.",
+       "Me demoro tanto en revisar las cosas que salgo de casa más tarde de lo previsto o llego tarde a mis citas y al trabajo.",
+       "Mi cuerpo se mueve o suelto sonidos sin querer, y me cuesta parar aunque lo intente."
+      ],
+      "asks": [
+       "Prefiero que no me digan que exagero y que primero me escuchen.",
+       "Revisar las cosas me toma tiempo, así que me ayuda que se deje un margen de tiempo.",
+       "Cuando cambien los planes o los pasos a seguir, prefiero que me avisen con anticipación.",
+       "Prefiero que no me señalen ni se rían de mí frente a otras personas cuando estoy revisando algo o lavándome las manos.",
+       "Me ayuda que me den las explicaciones y las instrucciones una por una y por escrito.",
+       "Antes de decidir cómo seguimos, prefiero que escuchen mis preocupaciones y que lo decidamos con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta ley explica que el trastorno del espectro autista se manifiesta, entre otras cosas, en conductas o intereses limitados o que se repiten, además de dificultades para relacionarse y comunicarse con otras personas.",
+        "src": {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 21.545",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1190123",
+         "kind": "fact",
+         "upd": "2023-03-10"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Una experiencia dura me sigue afectando",
+      "lead": "Recuerdos que vuelven una y otra vez, dormir mal o una tensión que no se va después de una experiencia dura.",
+      "scenes": [
+       "Por cualquier detalle, de repente vuelven la escena y las sensaciones de aquel momento tan duro.",
+       "Tengo pesadillas parecidas una y otra vez y muchas noches no logro dormir profundamente.",
+       "Estoy siempre en tensión y hasta un ruido pequeño o un imprevisto me sobresalta.",
+       "Siempre que puedo, evito los lugares, las personas y los temas que me recuerdan aquello, y mi vida diaria se ha ido haciendo más pequeña.",
+       "Es como si algo dentro de mí se hubiera apagado, y ya no logro sentir por mi familia y mis amistades lo mismo que antes.",
+       "Cada vez me culpo más, o me cuesta más confiar en la gente que me rodea."
+      ],
+      "asks": [
+       "Prefiero que no me pregunten todos los detalles de lo que pasó. Quiero contarlo a mi ritmo y hasta donde pueda.",
+       "Hay sonidos, lugares y temas que lo reviven todo. Me ayuda que se acepte que prefiero evitarlos.",
+       "Me ayuda que no me hablen de repente por la espalda ni hagan ruidos fuertes cerca de mí.",
+       "Cuando hablar me cuesta demasiado, prefiero poder entregar algo escrito.",
+       "Hay días en que no duermo o en que no se me quita el cansancio. Prefiero que no se tome por flojera.",
+       "Prefiero que no me apuren con frases como “Olvídalo” o “Supéralo”, y que haya un lugar donde pueda hablar con tranquilidad."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno por estrés agudo",
+        "why": "Este documento dice que el trastorno por estrés agudo es un cuadro que aparece después de que una persona pasa por un hecho que siente como traumático, y que puede traer mucho sufrimiento y afectar con fuerza la relación con los demás, el trabajo y la vida en familia.",
+        "src": {
+         "org": "Ministerio de Salud",
+         "title": "Orientaciones para el manejo del Trastorno por Estrés Agudo",
+         "url": "https://www.minsal.cl/wp-content/uploads/2019/11/Orientaciones-para-el-manejo-del-Trastorno-por-Estr%C3%A9s-Agudo-Nov.-2019.pdf",
+         "kind": "fact",
+         "upd": "2019"
+        }
+       },
+       {
+        "name": "Trastorno de estrés postraumático (TEPT)",
+        "why": "Este documento explica que el trastorno de estrés postraumático puede aparecer tiempo después de un hecho muy amenazante, con recuerdos que vuelven una y otra vez o pesadillas, y una sensación de estar como adormecido por dentro.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Resumen Ejecutivo Guía de Práctica Clínica Trastorno Ansioso",
+         "url": "https://diprece.minsal.cl/wp-content/uploads/2020/02/08.-RE_GPC-trastorno-ansioso_2018-final_v3.pdf",
+         "kind": "fact",
+         "upd": "2020"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "cl1455",
+       "cldt"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificultades con el sueño",
+      "lead": "Te cuesta dormirte, te despiertas por la noche, te cuesta levantarte o durante el día te da mucho sueño.",
+      "scenes": [
+       "Aunque me meta a la cama, tardo mucho en dormirme.",
+       "Me despierto varias veces por la noche y no duermo de corrido hasta la mañana.",
+       "A la hora de levantarme no puedo hacerlo, y llego tarde al trabajo o a clases una y otra vez.",
+       "Durante el día me da un sueño muy fuerte y estoy a punto de cabecear en una reunión o al manejar.",
+       "Mi familia me dice que ronco muy fuerte y que, mientras duermo, parece que se me corta la respiración.",
+       "Al caer la tarde y por la noche siento en las piernas una sensación incómoda que no me deja descansar ni dormir."
+      ],
+      "asks": [
+       "Me ayuda que se tomen el tiempo de preguntarme cómo duermo: cuánto tardo en dormirme, si me despierto de noche, lo que me cuesta levantarme y cuánto sueño tengo de día.",
+       "Prefiero que repasen conmigo los medicamentos que tomo y mis hábitos con el café, el alcohol y el tabaco, para ver qué puede estar influyendo.",
+       "Me ayuda que no se dé por hecho que es cuestión de actitud, y que se revise también la salud del cuerpo y el estado de ánimo.",
+       "Prefiero explicar mis horarios con una nota escrita, con la hora a la que me acuesto y a la que me levanto, y que la revisen con calma.",
+       "Si hay que tomar algún medicamento, me ayuda que me expliquen con palabras sencillas cómo funciona y qué cuidados requiere.",
+       "Por las mañanas me cuesta mucho, así que prefiero que me den hora por la tarde."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión",
+        "why": "Esta guía cuenta los cambios en el sueño entre lo que más se nota en los trastornos depresivos, junto con cambios en el apetito y en el interés por las actividades, falta de energía y dificultad para concentrarse.",
+        "src": {
+         "org": "Superintendencia de Salud",
+         "title": "Guía Clínica Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/difusion/572/articles-652_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Dificultades con la comida",
+      "lead": "Cuando comer se hace difícil: no puedes comer mucho, no puedes parar o comer te da miedo.",
+      "scenes": [
+       "No tengo ganas de comer y hay muchos días en que la comida casi no me pasa por la garganta.",
+       "Cuando empiezo a comer no logro parar, y a veces como tanto que me siento mal.",
+       "Sin darme cuenta, no dejo de pensar en la comida y me cuesta concentrarme en otras cosas.",
+       "Solo puedo comer muy pocas cosas, y evito muchos alimentos porque el sabor, el olor o la textura me resultan muy desagradables.",
+       "Desde que se me quedó atascado un alimento en la garganta o vomité, comer me da miedo.",
+       "Por la noche como entre sueños y, por la mañana, a veces no me acuerdo de nada."
+      ],
+      "asks": [
+       "Prefiero que no hagan comentarios sobre mi cuerpo ni sobre mi aspecto.",
+       "Me ayuda que no me obliguen a comer ni me apuren para hacerlo.",
+       "Cuando se come en grupo, me ayuda que me dejen elegir otro lugar u otro momento.",
+       "Prefiero que me pregunten antes qué puedo comer y qué olores o texturas me cuestan.",
+       "Me ayuda que me expliquen antes cómo será la consulta y qué exámenes se van a hacer.",
+       "Prefiero poder entregar por escrito lo que me cuesta decir en voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastornos de la conducta alimentaria",
+        "why": "Esta página explica que en los trastornos de la conducta alimentaria cambia la forma de comer, por ejemplo qué se come o cuánto, y que esto daña mucho la salud del cuerpo y la salud mental.",
+        "src": {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Trastornos de la Conducta Alimentaria",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-trastornos-de-la-conducta-alimentaria/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta guía cuenta los cambios en el apetito entre lo que más se nota en los trastornos depresivos, junto con cambios en el sueño, falta de energía y dificultad para concentrarse.",
+        "src": {
+         "org": "Superintendencia de Salud",
+         "title": "Guía Clínica Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/difusion/572/articles-652_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Me cuesta dejar el alcohol, las apuestas o los videojuegos",
+      "lead": "Cuando quieres dejarlo o hacerlo menos, pero sigues.",
+      "scenes": [
+       "Me propongo dejarlo o hacerlo menos, pero luego me doy cuenta de que sigo igual.",
+       "No logro respetar el tiempo, la cantidad ni el dinero que me había puesto como límite para hoy.",
+       "Les oculto a las personas cercanas que tomo alcohol, que apuesto o que juego videojuegos, o lo disimulo con excusas.",
+       "Me quedo hasta muy tarde jugando videojuegos, en la mañana no logro levantarme y cada vez con más frecuencia llego tarde o falto al trabajo o a clases.",
+       "Cuando pierdo dinero en apuestas deportivas, en línea o en las máquinas tragamonedas de los casinos, quiero recuperarlo y vuelvo a apostar.",
+       "Aunque sé que mi cuerpo se está resintiendo, no logro tomar menos alcohol."
+      ],
+      "asks": [
+       "Me ayuda que primero me escuchen, sin culparme ni sacar conclusiones antes de tiempo.",
+       "Me ayuda que me acompañen a ir viendo, paso a paso, cómo es mi día a día con esto y qué dificultades me trae.",
+       "Me gustaría que también se revisaran mi sueño y mi salud física.",
+       "Me ayuda que me digan de forma concreta dónde puedo recibir apoyo y a qué lugares puedo acudir.",
+       "Me gustaría saber si mi familia o una persona cercana puede venir conmigo a la consulta.",
+       "Prefiero que antes me digan a quién se le va a contar lo que cuento y hasta qué punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Juego problemático",
+        "why": "Esta página usa la expresión “juego problemático” cuando jugar y apostar pasa a ser lo más importante y empieza a afectar la vida de todos los días.",
+        "src": {
+         "org": "Superintendencia de Casinos de Juego (SCJ)",
+         "title": "Recomendaciones Juego Responsable",
+         "url": "https://www.scj.gob.cl/recomendaciones-juego-responsable/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "clsenda"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "attention": {
+      "label": "Dificultades de atención u organización",
+      "lead": "Dificultades para concentrarte, avanzar paso a paso o acordarte de las cosas.",
+      "scenes": [
+       "Aunque alguien me esté hablando, mi mente se va a otro lado sin que me dé cuenta.",
+       "No logro sacar adelante mi trabajo o las tareas de la casa en orden, y se me pasan los plazos.",
+       "Muchas veces no me acuerdo de lo que me pidieron o de lo que prometí, o pierdo cosas.",
+       "Si llevo mucho rato con la misma tarea, se me juntan los errores por descuido.",
+       "Me cuesta estar mucho rato sin moverme y siento una inquietud que no me deja parar.",
+       "Las personas a mi alrededor me dicen que muchas veces se me olvidan las cosas o que llego tarde."
+      ],
+      "asks": [
+       "Me ayuda que me den las instrucciones una por una.",
+       "Prefiero que lo importante me lo den por escrito.",
+       "Me ayuda que me avisen con tiempo de los plazos y de las citas.",
+       "Me ayuda que no me pidan muchas cosas a la vez, sino que las dividan en partes pequeñas.",
+       "Me gustaría hablar en un lugar tranquilo, donde me distraiga menos.",
+       "Me ayuda que se reconozca lo que sí he logrado, en vez de reprocharme lo que no."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión",
+        "why": "Esta guía dice que, entre las características de los trastornos depresivos, hay problemas de concentración, además de cambios en el ánimo, en el sueño y en el apetito.",
+        "src": {
+         "org": "Superintendencia de Salud",
+         "title": "Guía Clínica Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/difusion/572/articles-652_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "clsenadis",
+       "cldt"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "social": {
+      "label": "Dificultades con el trato, las rutinas o los sentidos",
+      "lead": "Dificultades para hablar o estar con otras personas, una gran necesidad de hacer las cosas de una manera concreta, o ruidos, luces y olores difíciles de soportar.",
+      "scenes": [
+       "En una conversación me cuesta captar lo que siente la otra persona o el ambiente del momento, y muchas veces siento que no nos entendemos.",
+       "Cuando tengo que hablar frente a otras personas o todas las miradas se dirigen a mí, siento mucha tensión y termino evitándolo.",
+       "Con las personas cercanas sí puedo hablar, pero frente a otras no me sale la voz.",
+       "Si cambia mi manera de hacer las cosas, el orden de los pasos o el lugar donde están mis cosas, siento una inquietud muy fuerte.",
+       "Los ruidos, las luces y los olores me resultan demasiado intensos, y los lugares con mucha gente se me hacen muy difíciles.",
+       "Me cuesta oír lo que dicen los demás, o tengo el ánimo bajo, y ver a la gente o hablar con ella se me ha vuelto muy difícil."
+      ],
+      "asks": [
+       "Me ayuda que me hablen despacio y con claridad.",
+       "Me ayuda que me escriban lo importante.",
+       "Me gustaría hablar en un lugar tranquilo.",
+       "Me ayuda que me avisen antes si cambian los planes o la forma de hacer las cosas.",
+       "Prefiero que no me apuren y que me den tiempo para responder.",
+       "Me gustaría poder responder por escrito o con una nota breve, en lugar de hablar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta ley dice que el autismo se manifiesta en dificultades importantes para iniciar la interacción y la comunicación social, corresponder a ellas y mantenerlas.",
+        "src": {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 21.545",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1190123",
+         "kind": "fact",
+         "upd": "2023-03-10"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "clsenadis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Dificultades para leer, escribir o calcular",
+      "lead": "Cuando leer, escribir o manejar números sigue costando aunque te esfuerces.",
+      "scenes": [
+       "Me lleva más tiempo que a otras personas leer un texto, y muchas veces tengo que releerlo.",
+       "Aunque lea, el contenido no se me queda, y me cuesta entender lo que dicen los documentos o las cartas.",
+       "Me cuesta la ortografía: cometo muchos errores o se me van letras o palabras al escribir.",
+       "Mi letra me sale irregular, y escribir me lleva mucho tiempo y mucho esfuerzo.",
+       "Me trabo con las sumas sencillas y con los problemas que vienen planteados en un texto.",
+       "Puedo hablar y escuchar sin dificultad, pero con la lectura, la escritura o los cálculos no avanzo como quisiera, aunque me tome mucho tiempo."
+      ],
+      "asks": [
+       "Me ayuda que me den los textos en letra grande y con más espacio entre las líneas, o en lectura fácil.",
+       "Prefiero que lo importante me lo lean en voz alta o me lo expliquen en persona.",
+       "Me ayuda poder escribir en el computador o en el celular, o dejar constancia con fotos o grabaciones de voz, en lugar de escribir a mano.",
+       "Me ayuda poder usar una calculadora para los cálculos.",
+       "Me ayuda que me den más tiempo para leer, escribir y hacer cálculos.",
+       "Prefiero que me den las cosas una por una y no todas a la vez."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "clcesfam",
+       "clsenadis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes altibajos de ánimo",
+      "lead": "Cuando el ánimo sube y baja mucho y cuesta seguir el ritmo de tus propias emociones.",
+      "scenes": [
+       "Se alternan etapas de demasiada energía con etapas de ánimo tan bajo que casi no puedo moverme.",
+       "Hay etapas en las que duermo muy poco y aun así tengo mucha energía y no paro de moverme.",
+       "Se me ocurre una idea tras otra y todo se queda a medias.",
+       "En etapas de mucha euforia gasté tanto dinero que después tuve problemas.",
+       "Me irrito por cualquier cosa y me cuesta contener mis emociones.",
+       "Lo que hice cuando mi ánimo estaba muy arriba ha afectado mis relaciones o mi trabajo."
+      ],
+      "asks": [
+       "Me ayuda que me pregunten también por las etapas en las que sentí una energía fuera de lo común.",
+       "Me ayuda que se den el tiempo de repasar conmigo mis subidas y bajadas de ánimo.",
+       "Me ayuda que, antes de decisiones importantes sobre dinero o trabajo, me animen a parar y a pensar primero.",
+       "Prefiero que también se tomen en cuenta las causas físicas, incluidos el sueño, los medicamentos y el alcohol.",
+       "Si notan que algo cambió en mí respecto a lo habitual, prefiero que me lo digan sin reprocharme nada.",
+       "Me ayuda que me escuchen hasta el final, tanto cuando estoy arriba como cuando estoy abajo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta guía explica que en el trastorno bipolar hay etapas de exaltación y euforia y otras etapas marcadas por la tristeza, y que el ánimo pasa de unas a otras.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Guía Clínica Trastorno Bipolar en personas de 15 años y más",
+         "url": "https://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2016/02/3.-MINSAL_GPC_Trastorno-bipolar_2013.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conocer un nombre puede hacer que los altibajos de siempre parezcan síntomas",
+       "body": "Cuando conoces el nombre de una enfermedad o de una condición del desarrollo, un cansancio pasajero o un descuido cualquiera pueden empezar a parecerte un síntoma.\n\nLas emociones pueden cambiar cómo se sienten el cuerpo y el ánimo, y eso no es imaginación: ocurre de verdad. Pero dormir poco, el estrés, el uso del celular o lo que pasa a tu alrededor también pueden producir algo parecido.\n\nSi al leer un nombre piensas “a lo mejor es esto”, no te quedes ahí: piensa también en otras razones. Y si lo que te cuesta sigue, puedes hablar de ello tal como es, aunque no tengas un nombre para ello.",
+       "srcs": []
+      },
+      {
+       "h": "Las tensiones son parte de la vida de todas las personas",
+       "body": "Las tensiones son parte de la vida de todas las personas. La ansiedad, por ejemplo, es una respuesta emocional ante situaciones que se sienten como un peligro o una amenaza.\n\nLa salud mental depende de muchos factores: culturales, históricos, socioeconómicos, biológicos y psicológicos.\n\nUn nombre (un diagnóstico) lo confirma una persona profesional de la salud, por ejemplo una médica o un médico.",
+       "srcs": [
+        {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 21.331",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1159383",
+         "kind": "fact",
+         "upd": "2021-05-11"
+        },
+        {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Ansiedad",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Superintendencia de Salud",
+         "title": "Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Puedes consultar por lo que te pasa, también cuando tienes dudas",
+       "body": "Si tienes problemas o dudas de salud, puedes consultar. Si tienes Fonasa, para empezar una atención del sistema GES (Garantías Explícitas en Salud) te atiende un médico en el centro de salud donde tienes tu inscripción (CESFAM o consultorio).\n\nEn el trabajo, la ley chilena considera que los actos de discriminación van en contra de los principios del derecho laboral, también cuando se basan en una enfermedad o una discapacidad. Las empresas que deben tener un reglamento interno deben incluir en él medidas de accesibilidad y ajustes necesarios para las personas trabajadoras con discapacidad.\n\nLa ley chilena contra la discriminación arbitraria incluye entre los motivos la enfermedad o la discapacidad.\n\nSi una discapacidad te hace difícil rendir un examen o una prueba de selección para estudiar o para un empleo, la ley dice que debes informarlo al postular para que hagan las adaptaciones. Los ajustes se hacen cuando no suponen una carga desproporcionada, así que a veces no se pueden hacer todos.\n\nLo que te gustaría pedir y lo que se puede hacer depende de cada situación, y se decide conversando.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud (ChileAtiende)",
+         "title": "Plan AUGE-GES",
+         "url": "https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges",
+         "kind": "summary",
+         "upd": "2026-10-13"
+        },
+        {
+         "org": "Ministerio de Salud (ChileAtiende)",
+         "title": "Salud Responde",
+         "url": "https://www.chileatiende.gob.cl/fichas/2467-salud-responde",
+         "kind": "summary",
+         "upd": "2024-04-04"
+        },
+        {
+         "org": "Dirección del Trabajo",
+         "title": "Código del Trabajo",
+         "url": "https://www.dt.gob.cl/legislacion/1624/articles-95516_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2026-11-02"
+        },
+        {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 20.609",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1042092",
+         "kind": "fact",
+         "upd": "2012-07-24"
+        },
+        {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 20.422",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010903",
+         "kind": "fact",
+         "upd": "2010-02-10"
+        }
+       ]
+      },
+      {
+       "h": "Algunos trámites piden documentos de un médico",
+       "body": "Algunos trámites piden documentos de un médico. Por ejemplo, para ausentarte del trabajo por una enfermedad se usa la licencia médica. Para inscribirte en el Registro Nacional de la Discapacidad, primero necesitas la certificación de la COMPIN (Comisión de Medicina Preventiva e Invalidez).\n\nSegún las normas de la Superintendencia de Seguridad Social, cuando el empleador pide una copia de la licencia médica, esa copia no indica el diagnóstico.\n\nAlgunas atenciones del sistema GES (Garantías Explícitas en Salud) se reciben después de que una médica o un médico confirma el diagnóstico.\n\nAntes de empezar un trámite, pregunta en la oficina que corresponde qué documentos hacen falta.",
+       "srcs": [
+        {
+         "org": "Comisión de Medicina Preventiva e Invalidez (ChileAtiende)",
+         "title": "Licencia médica (afiliados a Fonasa)",
+         "url": "https://www.chileatiende.gob.cl/fichas/53052-licencia-medica-afiliados-a-fonasa",
+         "kind": "summary",
+         "upd": "2026-03-16"
+        },
+        {
+         "org": "Servicio de Registro Civil e Identificación (ChileAtiende)",
+         "title": "Registro Nacional de la Discapacidad (RND)",
+         "url": "https://www.chileatiende.gob.cl/fichas/3349",
+         "kind": "summary",
+         "upd": "2026-05-07"
+        },
+        {
+         "org": "Superintendencia de Seguridad Social (SUSESO)",
+         "title": "Compendio de Normas sobre Licencias Médicas, Subsidios por Incapacidad Laboral y Seguro SANNA",
+         "url": "https://www.suseso.gob.cl/622/w3-propertyvalue-774931.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Superintendencia de Salud",
+         "title": "Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie",
+       "body": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie ni para mirar a otras personas por encima del hombro.\nA algunas personas les reconforta encontrar un nombre para lo que viven. Eso es importante.\nTambién es natural querer que la gente a nuestro alrededor nos comprenda o nos trate con amabilidad.\n\nCuando quieres que te traten con amabilidad, puedes pedirlo directamente, sin necesidad de decir el nombre de ninguna enfermedad.\nSe entiende mejor si dices a la vez dos cosas: con qué tienes dificultades y qué te gustaría que hiciera la otra persona.\n\nPor ejemplo:\n“Hoy me falta energía, así que me ayuda que me hablen despacio.”\n“Si me dicen muchas cosas a la vez, me pierdo; me ayuda que me expliquen las cosas de una en una.”\n“Lo que me dicen de palabra me cuesta recordarlo; prefiero que lo importante me lo den por escrito, en papel o por correo electrónico.”\n“Los lugares con mucha gente se me hacen difíciles; me gustaría hablar en un lugar tranquilo.”\n“Necesito un poco de tiempo para responder; me ayuda que me esperen un momento.”\n“Ahora mismo tengo muchas emociones a la vez; me ayuda que primero me escuchen. Los consejos pueden venir después.”\n“Hoy no me siento bien; me ayuda que me dejen descansar un poco.”\n“Los cambios de planes repentinos me desconciertan; me ayuda que me avisen con anticipación.”\n“Cuando me hablan en voz alta me da miedo; me ayuda que me hablen con calma.”\n\nSi te cuesta decirlo bien, puedes escribirlo en un papel y entregarlo. También puedes enseñar la pantalla “Mis dificultades” con el botón “Mostrar en grande”; aparece en esta aplicación cuando eliges una preocupación y respondes a las preguntas.\nSi quieres decir el nombre de un diagnóstico que ya tienes, puedes hacerlo. También entonces, a la otra persona le ayuda saber a la vez con qué tienes dificultades y qué te gustaría que hiciera.\nA veces la otra persona no puede hacer lo que le pides por su propia situación. Entonces se puede buscar, entre las dos partes, otra manera.\n\nEn el trabajo se puede pedir con las mismas palabras: “Me cuesta seguir varias instrucciones a la vez; prefiero que me las den por escrito.”\n\nNo uses la lista de nombres de esta aplicación para dudar de las personas a tu alrededor.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre esta aplicación",
+       "body": "Esto no es un diagnóstico. Esta lista no dice si tienes una enfermedad o un trastorno. Esta app no es un dispositivo médico y no sustituye la consulta con una persona profesional de la salud.\n\nTus respuestas no se envían a ningún lado ni se guardan en este dispositivo. Desaparecen al cerrar la aplicación.\n\nAplicación independiente. SOYOGI es un grupo voluntario sin fines de lucro con sede en Japón. No tiene relación con el Gobierno de Chile, el Ministerio de Salud, Fonasa, la Superintendencia de Salud, SENADIS, el INJUV ni ninguna otra institución pública o de salud, y ninguna de ellas la recomienda ni la respalda. Los nombres de las instituciones solo indican de dónde viene la información.\n\nSOYOGI escribió estos contenidos con sus propias palabras a partir de páginas públicas de Chile. Parte de los textos se basa en contenidos de ChileAtiende (chileatiende.gob.cl), publicados con licencia CC0; SOYOGI los adaptó. Las fuentes aparecen en cada pantalla, con la fecha que muestra cada página cuando la página la muestra. Consultado el 18 de noviembre de 2026. Los números y los horarios pueden cambiar. Los horarios son los que indica cada servicio.\n\nPedir ayuda o no es una decisión tuya, no de la aplicación.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Si las preocupaciones aparecen a menudo y llegan a ser tan intensas que te complican las actividades de cada día o el trato con otras personas, puede ser un buen momento para pedir ayuda profesional.",
+      "src": {
+       "org": "Instituto Nacional de la Juventud (INJUV)",
+       "title": "Hablemos de: Ansiedad",
+       "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-ansiedad/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Si algo te cuesta desde hace tiempo en el día a día, puedes consultar en tu centro de salud de atención primaria (por ejemplo, el CESFAM). A veces, una persona adulta consulta primero por cómo se siente, sin saber todavía de dónde viene la dificultad. Si hace falta, el equipo de salud ve qué pasos seguir.",
+       "src": {
+        "org": "Ministerio de Salud (DIPRECE)",
+        "title": "Protocolo para el abordaje integral en salud de personas con trastorno del espectro autista",
+        "url": "https://diprece.minsal.cl/wp-content/uploads/2024/10/2024.10.14_PROTOCOLO-LINEAMIENTOS-AUTISMO.pdf",
+        "kind": "fact",
+        "upd": "2024"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre cómo se pone un nombre (un diagnóstico), en pocas palabras:",
+      "text": "Un nombre (un diagnóstico) lo confirma una persona profesional de la salud, por ejemplo una médica o un médico. Para eso mira lo que te pasa y, a veces, revisa si la dificultad puede venir de otra causa, como un problema de salud física.",
+      "src": {
+       "org": "Superintendencia de Salud",
+       "title": "Depresión en personas de 15 años y más",
+       "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Solo se pudieron confirmar pocos nombres en páginas públicas de salud.",
+     "noNames": "No se pudieron confirmar nombres para este grupo en páginas públicas de salud; por eso, aquí no aparece una lista de nombres. Aun así, en esta aplicación puedes encontrar dónde pedir ayuda."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood is low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home do not get done.",
+       "I blame myself for everything and always think the worst.",
+       "At night I cannot sleep, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when you explain what needs to be done, one thing at a time.",
+       "I need time to think, and I would rather not be pressured to answer or to decide.",
+       "I would like the important things given to me in writing.",
+       "Before I am told “Cheer up!” or “Try harder!”, it helps me to be listened to first.",
+       "It helps me when people do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This page explains that depression is a mood disorder: it changes how a person feels and thinks and how they get through the day, with low mood, much less interest or pleasure in activities, and little energy.",
+        "src": {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Depresión",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-depresion/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This guide explains that in bipolar disorder mood moves between two extremes: periods of elation and euphoria, and periods marked by sadness.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Guía Clínica Trastorno Bipolar en personas de 15 años y más",
+         "url": "https://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2016/02/3.-MINSAL_GPC_Trastorno-bipolar_2013.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "cldt"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worries that will not go away, a racing heart and restlessness, difficulties in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or they are watching me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly beats very fast and I cannot get enough air. I worry that it will happen again, and because of that it is hard for me to leave the house.",
+       "For no clear reason, I worry about one thing after another, feel very restless, and have no strength left.",
+       "I have a hard time in places that are hard to get out of, like the metro, the bus, shopping malls, or crowded places, and also when I go out of the house without company. So I try to avoid them.",
+       "Because I avoid what frightens me, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "The worries will not leave my head, and at night it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "When I speak, it helps me to be given time and not be rushed.",
+       "I would like the plan explained to me in advance, and how everything will go.",
+       "I would rather not be asked for my opinion suddenly in front of other people, and I would like to be able to answer in writing too.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Before anyone tells me that I worry too much, it helps me when they listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety disorder",
+        "why": "This page explains that anxiety can become an illness, an anxiety disorder, when worries come very often, weigh too much and start to get in the way of daily life or relationships with other people.",
+        "src": {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Ansiedad",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This document explains that in generalized anxiety disorder, anxiety lasts over time and covers many things, with constant nervousness and tension in the body.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Resumen Ejecutivo Guía de Práctica Clínica Trastorno Ansioso",
+         "url": "https://diprece.minsal.cl/wp-content/uploads/2020/02/08.-RE_GPC-trastorno-ansioso_2018-final_v3.pdf",
+         "kind": "fact",
+         "upd": "2020"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This document explains that in panic disorder, episodes of very intense anxiety come back again and again without warning, and can come with a racing heart, a feeling of choking or dizziness.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Resumen Ejecutivo Guía de Práctica Clínica Trastorno Ansioso",
+         "url": "https://diprece.minsal.cl/wp-content/uploads/2020/02/08.-RE_GPC-trastorno-ansioso_2018-final_v3.pdf",
+         "kind": "fact",
+         "upd": "2020"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "cldt"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the door or the gas again and again, wash your hands, or repeat other actions, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave the house I need to check again and again whether I have closed the door or the gas valve properly; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes into my head again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not arranged, or not done, in the order I have set, I become uneasy and end up rearranging them or starting over.",
+       "Checking things takes me so long that I leave home later than planned or arrive late for my appointments and for work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop even when I try."
+      ],
+      "asks": [
+       "I would rather not be told that I am exaggerating; it helps me when people listen to me first.",
+       "Checking things takes me time, so it helps me when some extra time is allowed.",
+       "When plans or the steps to follow change, it helps me to be told in advance.",
+       "I would rather not be pointed at or laughed at in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before we decide how to go on, I would like my worries to be heard, and for us to decide calmly together."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This law explains that autism spectrum disorder shows, among other things, in behaviors or interests that are narrow or repeated, as well as in difficulties relating to and communicating with other people.",
+        "src": {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 21.545",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1190123",
+         "kind": "fact",
+         "upd": "2023-03-10"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "Memories that keep coming back, sleeping badly, or tension that does not go away after a hard experience.",
+      "scenes": [
+       "Any small detail can suddenly bring back the scene and the feelings of that very hard moment.",
+       "I keep having similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a small noise or something unexpected makes me jump.",
+       "Whenever I can, I avoid the places, people and topics that remind me of it, and my daily life has been getting smaller.",
+       "It is as if something inside me had switched off, and I cannot feel the same toward my family and friends as I did before.",
+       "I blame myself more and more, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "I would rather not be asked for every detail of what happened. I want to tell it at my own pace and only as far as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I prefer to avoid them.",
+       "It helps me when people do not speak to me suddenly from behind or make loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something written.",
+       "There are days when I do not sleep or when the tiredness does not go away. I would rather that is not taken for laziness.",
+       "I would rather not be rushed with phrases like “Forget it” or “Get over it”, and I would like a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Acute stress disorder",
+        "why": "This document says that acute stress disorder is a condition that appears after a person goes through an event they experience as traumatic, and that it can bring a great deal of suffering and strongly affect relationships with others, work and family life.",
+        "src": {
+         "org": "Ministerio de Salud",
+         "title": "Orientaciones para el manejo del Trastorno por Estrés Agudo",
+         "url": "https://www.minsal.cl/wp-content/uploads/2019/11/Orientaciones-para-el-manejo-del-Trastorno-por-Estr%C3%A9s-Agudo-Nov.-2019.pdf",
+         "kind": "fact",
+         "upd": "2019"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This document explains that post-traumatic stress disorder can appear some time after a very threatening event, with memories that keep coming back or nightmares, and a feeling of being numb inside.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Resumen Ejecutivo Guía de Práctica Clínica Trastorno Ansioso",
+         "url": "https://diprece.minsal.cl/wp-content/uploads/2020/02/08.-RE_GPC-trastorno-ansioso_2018-final_v3.pdf",
+         "kind": "fact",
+         "upd": "2020"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "cl1455",
+       "cldt"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times in the night and do not sleep through until morning.",
+       "When it is time to get up I cannot manage it, and I am late for work or classes again and again.",
+       "During the day a very strong sleepiness comes over me, and I almost nod off in a meeting or while driving.",
+       "My family tells me that I snore very loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and at night I feel an uncomfortable sensation in my legs that does not let me rest or sleep."
+      ],
+      "asks": [
+       "It helps me when people take the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "It helps me to go over together the medicines I take and my habits with coffee, alcohol and tobacco, to see what may be having an influence.",
+       "It helps me when people do not assume that it is a matter of attitude, and when my physical health and my mood are looked at as well.",
+       "I would rather explain my sleep times with a written note showing when I go to bed and when I get up, and I would like it looked at calmly.",
+       "If I have to take a medicine, it helps me when someone explains in simple words how it works and what precautions come with it.",
+       "Mornings are very hard for me, so I would prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This guide lists changes in sleep among what stands out most in depressive disorders, along with changes in appetite and in interest in activities, lack of energy and difficulty concentrating.",
+        "src": {
+         "org": "Superintendencia de Salud",
+         "title": "Guía Clínica Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/difusion/572/articles-652_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop, or eating scares you.",
+      "scenes": [
+       "I do not feel like eating, and on many days food hardly goes down my throat.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel sick.",
+       "Without realizing it, I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat very few things, and I avoid many foods because the taste, smell or texture is very unpleasant to me.",
+       "Since some food got stuck in my throat or I vomited, eating scares me.",
+       "At night I eat half asleep and, in the morning, I sometimes remember nothing."
+      ],
+      "asks": [
+       "I would rather not have comments made about my body or my appearance.",
+       "It helps me when people do not force me to eat or rush me to do it.",
+       "When people eat in a group, it helps me when I am allowed to choose another place or another time.",
+       "I would like to be asked beforehand what I can eat and which smells or textures are hard for me.",
+       "It helps me when people explain beforehand how the appointment will go and what tests will be done.",
+       "I would rather be able to hand over in writing what is hard for me to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders",
+        "why": "This page explains that in eating disorders the way of eating changes, for example what a person eats or how much, and that this seriously harms physical and mental health.",
+        "src": {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Trastornos de la Conducta Alimentaria",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-trastornos-de-la-conducta-alimentaria/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This guide lists changes in appetite among what stands out most in depressive disorders, along with changes in sleep, lack of energy and difficulty concentrating.",
+        "src": {
+         "org": "Superintendencia de Salud",
+         "title": "Guía Clínica Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/difusion/572/articles-652_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to give up alcohol, betting or video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going the same as before.",
+       "I can't stick to the time, the amount or the money I had set for myself for today.",
+       "I hide from people close to me that I drink, that I bet or that I play video games, or I cover it up with excuses.",
+       "I stay up very late playing video games, I can't get up in the morning, and more and more often I am late for work or class, or miss it.",
+       "When I lose money on sports bets, online bets or the slot machines in casinos, I want to win it back and I bet again.",
+       "Even though I know my body is feeling the strain, I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when someone looks with me, step by step, at what my day-to-day life with this is like and what difficulties it brings me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me when I am told in concrete terms where I can get support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can come to the appointment with me.",
+       "I would rather be told beforehand who will hear about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Problem gambling",
+        "why": "This page uses the expression “problem gambling” when playing and betting becomes the top priority and starts to affect everyday life.",
+        "src": {
+         "org": "Superintendencia de Casinos de Juego (SCJ)",
+         "title": "Recomendaciones Juego Responsable",
+         "url": "https://www.scj.gob.cl/recomendaciones-juego-responsable/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "clsenda"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organised",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts somewhere else without my noticing.",
+       "I can't get my work or my housework done in order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I promised, or I lose things.",
+       "If I have been on the same task for a long time, careless mistakes pile up.",
+       "It's hard for me to stay still for a long time, and I feel a restlessness that won't let me stop.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would rather be given the important things in writing.",
+       "It helps me when I am told about deadlines and appointments in good time.",
+       "It helps me when people don't ask me for many things at once, but split them into small parts.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people acknowledge what I have managed to do, instead of reproaching me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This guide says that the features of depressive disorders include problems with concentration, as well as changes in mood, sleep and appetite.",
+        "src": {
+         "org": "Superintendencia de Salud",
+         "title": "Guía Clínica Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/difusion/572/articles-652_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "clsenadis",
+       "cldt"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to pick up what the other person feels or the mood of the moment, and I often have the impression that we don't understand each other.",
+       "When I have to speak in front of other people or all eyes turn to me, I feel a lot of tension and end up avoiding it.",
+       "I can talk with people close to me, but in front of others my voice won't come out.",
+       "If my usual way of doing things, the order of the steps or the place where I keep my things changes, I feel a very strong unease.",
+       "Noises, lights and smells feel too intense to me, and places with lots of people are very hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking with them has become very difficult."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance if plans or ways of doing things change.",
+       "I would rather not be rushed, and be given time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This law says that autism shows up as significant difficulties in starting social interaction and communication, responding to it and keeping it up.",
+        "src": {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 21.545",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1190123",
+         "kind": "fact",
+         "upd": "2023-03-10"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam",
+       "clsenadis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is still hard even when you make an effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand what documents or letters say.",
+       "I have trouble with spelling: I make many mistakes, or letters or words go missing when I write.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and a lot of effort.",
+       "I get stuck on simple sums and on problems that are set out in a text.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "It helps me when texts are given to me in large print with more space between the lines, or in Easy Read (lectura fácil).",
+       "I would rather have the important things read aloud to me or explained to me in person.",
+       "It helps me to be able to write on a computer or a mobile phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "It helps me to be able to use a calculator for calculations.",
+       "It helps me when I am given more time to read, write and do calculations.",
+       "I would rather be given things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "clcesfam",
+       "clsenadis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own emotions.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when my mood is so low that I can hardly move.",
+       "There are periods when I sleep very little and still have a lot of energy and cannot stop moving.",
+       "One idea after another comes to me and everything is left half done.",
+       "During periods of great euphoria I spent so much money that I had problems afterwards.",
+       "I get irritated over any little thing, and I find it hard to hold back my emotions.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when people also ask me about the periods when I felt an unusual amount of energy.",
+       "It helps me when people take the time to go over my ups and downs in mood with me.",
+       "It helps me when, before important decisions about money or work, people encourage me to stop and think first.",
+       "I would rather have physical causes taken into account too, including sleep, medicines and alcohol.",
+       "If people notice that something in me has changed from how I usually am, I would rather they tell me without blaming me.",
+       "It helps me when people hear me out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Bipolar disorder",
+        "why": "This guide explains that in bipolar disorder there are periods of elation and euphoria and other periods marked by sadness, and that mood moves from one to the other.",
+        "src": {
+         "org": "Ministerio de Salud (DIPRECE)",
+         "title": "Guía Clínica Trastorno Bipolar en personas de 15 años y más",
+         "url": "https://diprece.minsal.cl/wrdprss_minsal/wp-content/uploads/2016/02/3.-MINSAL_GPC_Trastorno-bipolar_2013.pdf",
+         "kind": "fact",
+         "upd": "2013"
+        }
+       }
+      ],
+      "windows": [
+       "clcesfam"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs look like symptoms",
+       "body": "When you know the name of an illness or of a developmental condition, a passing tiredness or an everyday slip can start to look like a symptom to you.\n\nFeelings can change how your body and your mood feel, and that is not imagination: it really happens. But sleeping little, stress, mobile phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe it is this,” do not stop there: think of other reasons too. And if what is hard for you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Tension is part of everyone’s life",
+       "body": "Tension is part of everyone’s life. Anxiety, for example, is an emotional response to situations that feel like a danger or a threat.\n\nMental health depends on many factors: cultural, historical, socioeconomic, biological and psychological.\n\nA name (a diagnosis) is confirmed by a health professional, for example a doctor.",
+       "srcs": [
+        {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 21.331",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1159383",
+         "kind": "fact",
+         "upd": "2021-05-11"
+        },
+        {
+         "org": "Instituto Nacional de la Juventud (INJUV)",
+         "title": "Hablemos de: Ansiedad",
+         "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Superintendencia de Salud",
+         "title": "Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "You can ask about what is happening to you, also when you have doubts",
+       "body": "If you have health problems or doubts, you can ask for care. If you have Fonasa, to start care under the GES system (Explicit Health Guarantees), you are seen by a doctor at the health centre where you are registered (CESFAM or consultorio).\n\nAt work, Chilean law regards acts of discrimination as going against the principles of labour law, including those based on an illness or a disability. Companies that must have an internal regulation must include in it accessibility measures and necessary adjustments for workers with disabilities.\n\nChile’s law against arbitrary discrimination includes illness and disability among its grounds.\n\nIf a disability makes it hard for you to take an exam or a selection test for study or a job, the law says you must mention it when you apply so that adaptations can be made. Adjustments are made when they are not a disproportionate burden, so sometimes not all of them can be made.\n\nWhat you would like to ask for, and what can be done, depends on each situation and is decided by talking it through.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud (ChileAtiende)",
+         "title": "Plan AUGE-GES",
+         "url": "https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges",
+         "kind": "summary",
+         "upd": "2026-10-13"
+        },
+        {
+         "org": "Ministerio de Salud (ChileAtiende)",
+         "title": "Salud Responde",
+         "url": "https://www.chileatiende.gob.cl/fichas/2467-salud-responde",
+         "kind": "summary",
+         "upd": "2024-04-04"
+        },
+        {
+         "org": "Dirección del Trabajo",
+         "title": "Código del Trabajo",
+         "url": "https://www.dt.gob.cl/legislacion/1624/articles-95516_recurso_1.pdf",
+         "kind": "fact",
+         "upd": "2026-11-02"
+        },
+        {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 20.609",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1042092",
+         "kind": "fact",
+         "upd": "2012-07-24"
+        },
+        {
+         "org": "Biblioteca del Congreso Nacional de Chile (LeyChile)",
+         "title": "Ley 20.422",
+         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1010903",
+         "kind": "fact",
+         "upd": "2010-02-10"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for papers from a doctor",
+       "body": "Some procedures ask for papers from a doctor. For example, to be absent from work because of an illness, a medical leave certificate (licencia médica) is used. To register in the National Disability Registry, you first need certification from COMPIN (Comisión de Medicina Preventiva e Invalidez).\n\nUnder the rules of the Superintendence of Social Security, when an employer asks for a copy of a medical leave certificate, that copy does not state the diagnosis.\n\nSome care under the GES system (Explicit Health Guarantees) is received after a doctor confirms the diagnosis.\n\nBefore starting a procedure, ask the office in charge which papers are needed.",
+       "srcs": [
+        {
+         "org": "Comisión de Medicina Preventiva e Invalidez (ChileAtiende)",
+         "title": "Licencia médica (afiliados a Fonasa)",
+         "url": "https://www.chileatiende.gob.cl/fichas/53052-licencia-medica-afiliados-a-fonasa",
+         "kind": "summary",
+         "upd": "2026-03-16"
+        },
+        {
+         "org": "Servicio de Registro Civil e Identificación (ChileAtiende)",
+         "title": "Registro Nacional de la Discapacidad (RND)",
+         "url": "https://www.chileatiende.gob.cl/fichas/3349",
+         "kind": "summary",
+         "upd": "2026-05-07"
+        },
+        {
+         "org": "Superintendencia de Seguridad Social (SUSESO)",
+         "title": "Compendio de Normas sobre Licencias Médicas, Subsidios por Incapacidad Laboral y Seguro SANNA",
+         "url": "https://www.suseso.gob.cl/622/w3-propertyvalue-774931.html",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Superintendencia de Salud",
+         "title": "Depresión en personas de 15 años y más",
+         "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nSome people feel comforted when they find a name for what they are living through. That matters.\nIt is also natural to want the people around us to understand us or to be kind to us.\n\nWhen you want people to be kind to you, you can ask for it directly, without needing to say the name of any illness.\nIt is understood better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have no energy today, so it helps me when people speak slowly.”\n“If I am told many things at once, I get lost; it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told in words; I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me; I would like to talk in a quiet place.”\n“I need a little time to answer; it helps me when people wait a moment.”\n“Right now I have many emotions at once; it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today; it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off; it helps me when I am told in advance.”\n“When people speak to me loudly I get scared; it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to say the name of a diagnosis you already have, you can. Then too, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then the two of you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.”\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Government of Chile, the Ministry of Health, Fonasa, the Superintendence of Health, SENADIS, INJUV or any other public or health institution, and none of them has recommended or supported this app. The names of the institutions only show where the information comes from.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Chile. Part of the text is based on content from ChileAtiende (chileatiende.gob.cl), published under a CC0 licence; SOYOGI adapted it. This English version does not quote those pages word for word. Sources are shown on each screen, with the date the page shows, when the page shows one. Checked on 18 November 2026. Numbers and hours may change. The hours are those given by each service.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "If worries come up often and get so intense that they make your everyday activities or your dealings with other people harder, it may be a good time to ask for professional help.",
+      "src": {
+       "org": "Instituto Nacional de la Juventud (INJUV)",
+       "title": "Hablemos de: Ansiedad",
+       "url": "https://hablemosdetodo.injuv.gob.cl/hablemos-de-salud-mental/hablemos-de-ansiedad/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "If something has been hard for you in daily life for a long time, you can go to your primary health centre (for example, your CESFAM). Sometimes an adult first comes in because of how they feel, without knowing yet where the difficulty comes from. If needed, the health team works out the next steps.",
+       "src": {
+        "org": "Ministerio de Salud (DIPRECE)",
+        "title": "Protocolo para el abordaje integral en salud de personas con trastorno del espectro autista",
+        "url": "https://diprece.minsal.cl/wp-content/uploads/2024/10/2024.10.14_PROTOCOLO-LINEAMIENTOS-AUTISMO.pdf",
+        "kind": "fact",
+        "upd": "2024"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A name (a diagnosis) is confirmed by a health professional, for example a doctor. To do this, they look at what is happening to you and sometimes check whether the difficulty could come from another cause, such as a physical health problem.",
+      "src": {
+       "org": "Superintendencia de Salud",
+       "title": "Depresión en personas de 15 años y más",
+       "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
     }
    }
   }

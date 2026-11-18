@@ -34,6 +34,10 @@ body{
 html[lang^="zh"] body{
   font-family:"PingFang TC","Microsoft JhengHei","Noto Sans TC","Noto Sans CJK TC","Source Han Sans TC",system-ui,sans-serif;
 }
+/* 香港の繁體中文は香港の字形のフォントを先に(HK07 8-1) */
+html[lang="zh-Hant-HK"] body{
+  font-family:"PingFang HK","Microsoft JhengHei","Noto Sans HK","Noto Sans CJK HK","Source Han Sans HC",system-ui,sans-serif;
+}
 body.fs0{ font-size:18px; }
 body.fs1{ font-size:21px; }
 body.fs2{ font-size:25px; }

@@ -127,7 +127,7 @@
     [w.tel, w.tel2].forEach(function(tel){
       if(!tel) return;
       var a = api.el('a', 'call-btn', fmt(api.T('screen.ui.call'), { tel: tel }));
-      a.href = 'tel:' + String(tel).replace(/[^0-9+]/g, '');
+      a.href = 'tel:' + String(tel).replace(/[^0-9+*]/g, '');
       card.appendChild(a);
     });
     /* テキスト(SMS)で つながる窓口(アメリカの 988 など・国の箱に sms があるときだけ) */
