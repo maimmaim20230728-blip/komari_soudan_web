@@ -48,7 +48,8 @@ window.KOMARI_DATA = {
   "sg",
   "hk",
   "ae",
-  "cl"
+  "cl",
+  "in"
  ],
  "c": {
   "jp": {
@@ -69,7 +70,8 @@ window.KOMARI_DATA = {
     "sv": "Japan",
     "pt": "Japão",
     "ptpt": "Japão",
-    "ar": "اليابان"
+    "ar": "اليابان",
+    "hi": "जापान"
    },
    "langs": [
     "ja",
@@ -3192,7 +3194,8 @@ window.KOMARI_DATA = {
     "sv": "USA",
     "pt": "Estados Unidos",
     "ptpt": "Estados Unidos",
-    "ar": "الولايات المتحدة"
+    "ar": "الولايات المتحدة",
+    "hi": "संयुक्त राज्य अमेरिका"
    },
    "langs": [
     "en"
@@ -4918,7 +4921,8 @@ window.KOMARI_DATA = {
     "sv": "Frankrike",
     "pt": "França",
     "ptpt": "França",
-    "ar": "فرنسا"
+    "ar": "فرنسا",
+    "hi": "फ़्रांस"
    },
    "langs": [
     "fr",
@@ -8310,7 +8314,8 @@ window.KOMARI_DATA = {
     "sv": "Tyskland",
     "pt": "Alemanha",
     "ptpt": "Alemanha",
-    "ar": "ألمانيا"
+    "ar": "ألمانيا",
+    "hi": "जर्मनी"
    },
    "langs": [
     "de",
@@ -11740,7 +11745,8 @@ window.KOMARI_DATA = {
     "sv": "Spanien",
     "pt": "Espanha",
     "ptpt": "Espanha",
-    "ar": "إسبانيا"
+    "ar": "إسبانيا",
+    "hi": "स्पेन"
    },
    "langs": [
     "es",
@@ -14731,7 +14737,8 @@ window.KOMARI_DATA = {
     "sv": "Nederländerna",
     "pt": "Países Baixos",
     "ptpt": "Países Baixos",
-    "ar": "هولندا"
+    "ar": "هولندا",
+    "hi": "नीदरलैंड"
    },
    "langs": [
     "nl",
@@ -17725,7 +17732,8 @@ window.KOMARI_DATA = {
     "sv": "Sydkorea",
     "pt": "Coreia do Sul",
     "ptpt": "Coreia do Sul",
-    "ar": "كوريا الجنوبية"
+    "ar": "كوريا الجنوبية",
+    "hi": "दक्षिण कोरिया"
    },
    "langs": [
     "ko",
@@ -20893,7 +20901,8 @@ window.KOMARI_DATA = {
     "sv": "Taiwan",
     "pt": "Taiwan",
     "ptpt": "Taiwan",
-    "ar": "تايوان"
+    "ar": "تايوان",
+    "hi": "ताइवान"
    },
    "langs": [
     "zh",
@@ -23861,7 +23870,8 @@ window.KOMARI_DATA = {
     "sv": "Italien",
     "pt": "Itália",
     "ptpt": "Itália",
-    "ar": "إيطاليا"
+    "ar": "إيطاليا",
+    "hi": "इटली"
    },
    "langs": [
     "it",
@@ -26884,7 +26894,8 @@ window.KOMARI_DATA = {
     "sv": "Sverige",
     "pt": "Suécia",
     "ptpt": "Suécia",
-    "ar": "السويد"
+    "ar": "السويد",
+    "hi": "स्वीडन"
    },
    "langs": [
     "sv",
@@ -30339,7 +30350,8 @@ window.KOMARI_DATA = {
     "sv": "Brasilien",
     "pt": "Brasil",
     "ptpt": "Brasil",
-    "ar": "البرازيل"
+    "ar": "البرازيل",
+    "hi": "ब्राज़ील"
    },
    "langs": [
     "pt",
@@ -33072,7 +33084,8 @@ window.KOMARI_DATA = {
     "sv": "Saudiarabien",
     "pt": "Arábia Saudita",
     "ptpt": "Arábia Saudita",
-    "ar": "المملكة العربية السعودية"
+    "ar": "المملكة العربية السعودية",
+    "hi": "सऊदी अरब"
    },
    "langs": [
     "ar",
@@ -35044,7 +35057,8 @@ window.KOMARI_DATA = {
     "sv": "Förenade kungariket",
     "pt": "Reino Unido",
     "ptpt": "Reino Unido",
-    "ar": "المملكة المتحدة"
+    "ar": "المملكة المتحدة",
+    "hi": "यूनाइटेड किंगडम"
    },
    "langs": [
     "en"
@@ -36820,7 +36834,8 @@ window.KOMARI_DATA = {
     "sv": "Australien",
     "pt": "Austrália",
     "ptpt": "Austrália",
-    "ar": "أستراليا"
+    "ar": "أستراليا",
+    "hi": "ऑस्ट्रेलिया"
    },
    "langs": [
     "en"
@@ -38472,7 +38487,8 @@ window.KOMARI_DATA = {
     "sv": "Nya Zeeland",
     "pt": "Nova Zelândia",
     "ptpt": "Nova Zelândia",
-    "ar": "نيوزيلندا"
+    "ar": "نيوزيلندا",
+    "hi": "न्यूज़ीलैंड"
    },
    "langs": [
     "en"
@@ -39767,7 +39783,8 @@ window.KOMARI_DATA = {
     "sv": "Irland",
     "pt": "Irlanda",
     "ptpt": "Irlanda",
-    "ar": "أيرلندا"
+    "ar": "أيرلندا",
+    "hi": "आयरलैंड"
    },
    "langs": [
     "en"
@@ -41153,7 +41170,8 @@ window.KOMARI_DATA = {
     "sv": "Österrike",
     "pt": "Áustria",
     "ptpt": "Áustria",
-    "ar": "النمسا"
+    "ar": "النمسا",
+    "hi": "ऑस्ट्रिया"
    },
    "langs": [
     "de",
@@ -44208,7 +44226,8 @@ window.KOMARI_DATA = {
     "sv": "Kanada",
     "pt": "Canadá",
     "ptpt": "Canadá",
-    "ar": "كندا"
+    "ar": "كندا",
+    "hi": "कनाडा"
    },
    "langs": [
     "fr",
@@ -47239,7 +47258,8 @@ window.KOMARI_DATA = {
     "sv": "Portugal",
     "pt": "Portugal",
     "ptpt": "Portugal",
-    "ar": "البرتغال"
+    "ar": "البرتغال",
+    "hi": "पुर्तगाल"
    },
    "langs": [
     "ptpt",
@@ -49492,7 +49512,8 @@ window.KOMARI_DATA = {
     "sv": "Mexiko",
     "pt": "México",
     "ptpt": "México",
-    "ar": "المكسيك"
+    "ar": "المكسيك",
+    "hi": "मेक्सिको"
    },
    "langs": [
     "esmx",
@@ -52316,7 +52337,8 @@ window.KOMARI_DATA = {
     "sv": "Singapore",
     "pt": "Singapura",
     "ptpt": "Singapura",
-    "ar": "سنغافورة"
+    "ar": "سنغافورة",
+    "hi": "सिंगापुर"
    },
    "langs": [
     "en"
@@ -53490,7 +53512,8 @@ window.KOMARI_DATA = {
     "sv": "Hongkong",
     "pt": "Hong Kong",
     "ptpt": "Hong Kong",
-    "ar": "هونغ كونغ"
+    "ar": "هونغ كونغ",
+    "hi": "हांगकांग"
    },
    "langs": [
     "zhhk",
@@ -56015,7 +56038,8 @@ window.KOMARI_DATA = {
     "sv": "Förenade Arabemiraten",
     "pt": "Emirados Árabes Unidos",
     "ptpt": "Emirados Árabes Unidos",
-    "ar": "الإمارات العربية المتحدة"
+    "ar": "الإمارات العربية المتحدة",
+    "hi": "संयुक्त अरब अमीरात"
    },
    "langs": [
     "ar",
@@ -58083,7 +58107,8 @@ window.KOMARI_DATA = {
     "sv": "Chile",
     "pt": "Chile",
     "ptpt": "Chile",
-    "ar": "تشيلي"
+    "ar": "تشيلي",
+    "hi": "चिली"
    },
    "langs": [
     "escl",
@@ -59828,6 +59853,1686 @@ window.KOMARI_DATA = {
        "url": "https://www.superdesalud.gob.cl/orientacion-en-salud/depresion-en-personas-de-15-anos-y-mas/",
        "kind": "fact",
        "upd": "none"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "in": {
+   "id": "in",
+   "name": {
+    "ja": "インド",
+    "en": "India",
+    "fr": "Inde",
+    "de": "Indien",
+    "es": "India",
+    "esmx": "India",
+    "escl": "India",
+    "nl": "India",
+    "ko": "인도",
+    "zh": "印度",
+    "zhhk": "印度",
+    "it": "India",
+    "sv": "Indien",
+    "pt": "Índia",
+    "ptpt": "Índia",
+    "ar": "الهند",
+    "hi": "भारत"
+   },
+   "langs": [
+    "hi",
+    "en"
+   ],
+   "main": "hi",
+   "fallback": "hi",
+   "srcLang": "hi",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-18",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "in112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296048",
+     "linkOk": false,
+     "hi": {
+      "name": "112 (आपातकालीन प्रतिक्रिया सहायता प्रणाली)",
+      "desc": "जान का खतरा हो तो 112 पर कॉल करें। यह भारत का एकल आपातकालीन नंबर है, जो 36 राज्यों और केंद्र शासित प्रदेशों में लागू किया जा चुका है।",
+      "hours": "आपात स्थिति के लिए।",
+      "src": {
+       "org": "पत्र सूचना कार्यालय (PIB)",
+       "title": "सरकार देश में महिलाओं की सुरक्षा, पुनर्वास और सशक्तिकरण को सर्वोच्च प्राथमिकता देती है।",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296159",
+       "kind": "fact",
+       "upd": "2026-08-07"
+      }
+     },
+     "en": {
+      "name": "112 (Emergency Response Support System)",
+      "desc": "If a life is in danger, call 112. It is India’s single emergency number, and it has been put in place in 36 States and Union Territories.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Press Information Bureau (PIB)",
+       "title": "Government gives utmost priority to safety, security, rehabilitation and empowerment of women in the country",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296048",
+       "kind": "fact",
+       "upd": "2026-08-07"
+      }
+     },
+     "src": {
+      "org": "पत्र सूचना कार्यालय (PIB)",
+      "title": "सरकार देश में महिलाओं की सुरक्षा, पुनर्वास और सशक्तिकरण को सर्वोच्च प्राथमिकता देती है।",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296159",
+      "kind": "fact",
+      "upd": "2026-08-07"
+     }
+    },
+    {
+     "id": "intm",
+     "band": "now",
+     "tel": "14416",
+     "tel2": "18008914416",
+     "url": "https://telemanas.mohfw.gov.in/privacy-policy",
+     "linkOk": false,
+     "hi": {
+      "name": "टेली मानस (टेली मानसिक स्वास्थ्य हेल्पलाइन)",
+      "desc": "14416 या 1800 891 4416 पर कॉल करें। टेली मानस पूरे देश में टेली मानसिक स्वास्थ्य सेवा देने वाली हेल्पलाइन है। कॉल निःशुल्क है और सेवा 24 घंटे, हर दिन उपलब्ध है। कॉल आपके राज्य या केंद्र शासित प्रदेश के टेली मानस सेल तक जाती है और आप भाषा चुन सकते हैं। अपना नाम बताना ज़रूरी नहीं है।",
+      "hours": "24 घंटे, हर दिन।",
+      "src": {
+       "org": "टेली मानस (स्वास्थ्य और परिवार कल्याण मंत्रालय)",
+       "title": "Privacy Policy",
+       "url": "https://telemanas.mohfw.gov.in/privacy-policy",
+       "kind": "fact",
+       "upd": "2024-10-08"
+      }
+     },
+     "en": {
+      "name": "Tele-MANAS (tele mental health helpline)",
+      "desc": "Call 14416 or 1800 891 4416. Tele-MANAS is a helpline that offers tele mental health services across the country. Calls are free, and it is open 24 hours a day, every day. Your call goes to a Tele-MANAS cell in your State or Union Territory, and you can choose a language. You do not have to give your name.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Tele-MANAS (Ministry of Health and Family Welfare)",
+       "title": "Privacy Policy",
+       "url": "https://telemanas.mohfw.gov.in/privacy-policy",
+       "kind": "fact",
+       "upd": "2024-10-08"
+      }
+     },
+     "src": {
+      "org": "टेली मानस (स्वास्थ्य और परिवार कल्याण मंत्रालय)",
+      "title": "Privacy Policy",
+      "url": "https://telemanas.mohfw.gov.in/privacy-policy",
+      "kind": "fact",
+      "upd": "2024-10-08"
+     }
+    },
+    {
+     "id": "inwhl",
+     "band": "now",
+     "tel": "181",
+     "tel2": "",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296048",
+     "linkOk": false,
+     "hi": {
+      "name": "महिला हेल्पलाइन 181",
+      "desc": "महिला हेल्पलाइन 181 महिलाओं की मदद करती है, चाहे आपात स्थिति हो या न हो। यह टोल-फ्री है और 24 घंटे खुली रहती है। यह आपको वन स्टॉप सेंटर जैसी दूसरी सेवाओं से जोड़ सकती है। अगर 181 न लगे, तो 112 पर कॉल करें।",
+      "hours": "24 घंटे।",
+      "src": {
+       "org": "पत्र सूचना कार्यालय (PIB)",
+       "title": "सरकार देश में महिलाओं की सुरक्षा, पुनर्वास और सशक्तिकरण को सर्वोच्च प्राथमिकता देती है।",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296159",
+       "kind": "fact",
+       "upd": "2026-08-07"
+      }
+     },
+     "en": {
+      "name": "Women Helpline 181",
+      "desc": "Women Helpline 181 helps women, whether or not it is an emergency. It is toll-free and open 24 hours a day. It can link you with other services, such as a One Stop Centre. If 181 does not connect, call 112.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Press Information Bureau (PIB)",
+       "title": "Government gives utmost priority to safety, security, rehabilitation and empowerment of women in the country",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296048",
+       "kind": "fact",
+       "upd": "2026-08-07"
+      }
+     },
+     "src": {
+      "org": "पत्र सूचना कार्यालय (PIB)",
+      "title": "सरकार देश में महिलाओं की सुरक्षा, पुनर्वास और सशक्तिकरण को सर्वोच्च प्राथमिकता देती है।",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296159",
+      "kind": "fact",
+      "upd": "2026-08-07"
+     }
+    },
+    {
+     "id": "ingp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247567",
+     "linkOk": false,
+     "hi": {
+      "name": "आयुष्मान आरोग्य मंदिर, प्राथमिक स्वास्थ्य केंद्र या सामुदायिक स्वास्थ्य केंद्र",
+      "desc": "आयुष्मान आरोग्य मंदिरों में अब मानसिक स्वास्थ्य सेवाएं भी मिलती हैं। सामुदायिक स्वास्थ्य केंद्रों और प्राथमिक स्वास्थ्य केंद्रों पर भी मानसिक स्वास्थ्य से जुड़ी कुछ सुविधाएं मिलती हैं। अपने पास के केंद्र में पूछें कि वहां क्या मिलता है।",
+      "hours": "खुलने का समय केंद्र पर पूछें।",
+      "src": {
+       "org": "पत्र सूचना कार्यालय (PIB)",
+       "title": "सरकार मानसिक स्वास्थ्य सेवाओं को सुदृढ़ करने के लिए राष्ट्रीय मानसिक स्वास्थ्य कार्यक्रम कार्यान्वित कर रही है",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247677",
+       "kind": "fact",
+       "upd": "2026-04-01"
+      }
+     },
+     "en": {
+      "name": "Ayushman Arogya Mandir, Primary Health Centre or Community Health Centre",
+      "desc": "Ayushman Arogya Mandirs now also offer mental health services. Some mental health facilities are also available at Community Health Centres and Primary Health Centres. Ask at your nearest centre what they offer.",
+      "hours": "Check opening hours at the centre.",
+      "src": {
+       "org": "Press Information Bureau (PIB)",
+       "title": "Government implements National Mental Health Programme to strengthen mental health services",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247567",
+       "kind": "fact",
+       "upd": "2026-04-01"
+      }
+     },
+     "src": {
+      "org": "पत्र सूचना कार्यालय (PIB)",
+      "title": "सरकार मानसिक स्वास्थ्य सेवाओं को सुदृढ़ करने के लिए राष्ट्रीय मानसिक स्वास्थ्य कार्यक्रम कार्यान्वित कर रही है",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247677",
+      "kind": "fact",
+      "upd": "2026-04-01"
+     }
+    },
+    {
+     "id": "inddc",
+     "band": "day",
+     "tel": "14446",
+     "tel2": "",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2269282",
+     "linkOk": false,
+     "hi": {
+      "name": "टोल-फ्री नशामुक्ति हेल्पलाइन 14446",
+      "desc": "टोल-फ्री नशामुक्ति हेल्पलाइन 14446: मदद के लिए आप या आपका परिवार सबसे पहले यहां कॉल कर सकते हैं।",
+      "hours": "सेवा के घंटे कॉल करके पूछें।",
+      "src": {
+       "org": "पत्र सूचना कार्यालय (PIB)",
+       "title": "सामाजिक न्याय और अधिकारिता मंत्रालय (एमओएसजेई) ने रोकथाम, उपचार और पुनर्वास के माध्यम से मादक द्रव्यों के दुरुपयोग के खिलाफ राष्ट्रीय अभियान को मजबूत कर रहा है",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2269449",
+       "kind": "fact",
+       "upd": "2026-06-05"
+      }
+     },
+     "en": {
+      "name": "Toll-free de-addiction helpline 14446",
+      "desc": "Toll-free de-addiction helpline 14446: a place you or your family can call first when looking for help.",
+      "hours": "Ask about the hours when you call.",
+      "src": {
+       "org": "Press Information Bureau (PIB)",
+       "title": "MoSJE Strengthens National Fight Against Substance Abuse Through Prevention, Treatment and Rehabilitation",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2269282",
+       "kind": "fact",
+       "upd": "2026-06-05"
+      }
+     },
+     "src": {
+      "org": "पत्र सूचना कार्यालय (PIB)",
+      "title": "सामाजिक न्याय और अधिकारिता मंत्रालय (एमओएसजेई) ने रोकथाम, उपचार और पुनर्वास के माध्यम से मादक द्रव्यों के दुरुपयोग के खिलाफ राष्ट्रीय अभियान को मजबूत कर रहा है",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2269449",
+      "kind": "fact",
+      "upd": "2026-06-05"
+     }
+    },
+    {
+     "id": "indmhp",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790",
+     "linkOk": false,
+     "hi": {
+      "name": "जिला मानसिक स्वास्थ्य कार्यक्रम",
+      "desc": "जिला मानसिक स्वास्थ्य कार्यक्रम: जिला अस्पतालों में मानसिक स्वास्थ्य सेवाएं चलती हैं, और कुछ सुविधाएं सामुदायिक स्वास्थ्य केंद्रों और प्राथमिक स्वास्थ्य केंद्रों पर भी मिलती हैं। अपने जिला अस्पताल में पूछें।",
+      "hours": "समय अस्पताल में पूछें।",
+      "src": {
+       "org": "पत्र सूचना कार्यालय (PIB)",
+       "title": "राष्ट्रीय टेली मानसिक स्वास्थ्य कार्यक्रम (एनटीएमएचपी) पर अपडेट",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118944",
+       "kind": "fact",
+       "upd": "2025-04-04"
+      }
+     },
+     "en": {
+      "name": "District Mental Health Programme",
+      "desc": "District Mental Health Programme: mental health services are run at district hospitals, and some facilities are also available at Community Health Centres and Primary Health Centres. Ask at your district hospital.",
+      "hours": "Check the hours at the hospital.",
+      "src": {
+       "org": "Press Information Bureau (PIB)",
+       "title": "Update on National Tele Mental Health Programme (NTMHP)",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790",
+       "kind": "fact",
+       "upd": "2025-04-04"
+      }
+     },
+     "src": {
+      "org": "पत्र सूचना कार्यालय (PIB)",
+      "title": "राष्ट्रीय टेली मानसिक स्वास्थ्य कार्यक्रम (एनटीएमएचपी) पर अपडेट",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118944",
+      "kind": "fact",
+      "upd": "2025-04-04"
+     }
+    },
+    {
+     "id": "inncw",
+     "band": "day",
+     "tel": "14490",
+     "tel2": "7827170170",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280625",
+     "linkOk": false,
+     "hi": {
+      "name": "राष्ट्रीय महिला आयोग महिला हेल्पलाइन 14490",
+      "desc": "राष्ट्रीय महिला आयोग की महिला हेल्पलाइन 14490 (7827170170 से जुड़ी): 24×7, टोल-फ्री, हिंसा से प्रभावित 18 वर्ष से अधिक आयु की महिलाओं और लड़कियों के लिए। यहां शिकायत दर्ज की जा सकती है।",
+      "hours": "24 घंटे, हर दिन।",
+      "src": {
+       "org": "पत्र सूचना कार्यालय (PIB)",
+       "title": "एनसीडब्ल्यू महिला हेल्पलाइन - 14490: महिलाओं की सहायता के लिए समर्पित एक मंच",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280626",
+       "kind": "fact",
+       "upd": "2026-07-03"
+      }
+     },
+     "en": {
+      "name": "NCW Women Helpline 14490 (National Commission for Women)",
+      "desc": "National Commission for Women helpline 14490 (linked to 7827170170): toll-free and open 24 hours, for women and girls over 18 who are affected by violence. You can register a complaint here.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Press Information Bureau (PIB)",
+       "title": "NCW Women Helpline - 14490: A Dedicated Platform for Women's Support",
+       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280625",
+       "kind": "fact",
+       "upd": "2026-07-03"
+      }
+     },
+     "src": {
+      "org": "पत्र सूचना कार्यालय (PIB)",
+      "title": "एनसीडब्ल्यू महिला हेल्पलाइन - 14490: महिलाओं की सहायता के लिए समर्पित एक मंच",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280626",
+      "kind": "fact",
+      "upd": "2026-07-03"
+     }
+    },
+    {
+     "id": "inudid",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://depwd.gov.in/en/udid-scheme/",
+     "linkOk": false,
+     "hi": {
+      "name": "यूडीआईडी कार्ड (दिव्यांगता प्रमाण-पत्र)",
+      "desc": "यूडीआईडी कार्ड (दिव्यांगता प्रमाण-पत्र): यूडीआईडी पोर्टल पर ऑनलाइन आवेदन करें और अस्पताल से संपर्क करें। कोई शुल्क नहीं है।",
+      "hours": "ऑनलाइन आवेदन।",
+      "src": {
+       "org": "दिव्यांगजन सशक्तिकरण विभाग",
+       "title": "यूडीआईडी परियोजना (विशिष्ट दिव्यांगता पहचान पत्र)",
+       "url": "https://depwd.gov.in/udid-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be/",
+       "kind": "fact",
+       "upd": "2026-11-13"
+      }
+     },
+     "en": {
+      "name": "UDID card (disability certificate)",
+      "desc": "UDID card (disability certificate): apply online on the UDID portal and contact your chosen hospital. There is no fee.",
+      "hours": "Apply online.",
+      "src": {
+       "org": "Department of Empowerment of Persons with Disabilities",
+       "title": "UDID Project (Unique Disability ID)",
+       "url": "https://depwd.gov.in/en/udid-scheme/",
+       "kind": "fact",
+       "upd": "2026-11-10"
+      }
+     },
+     "src": {
+      "org": "दिव्यांगजन सशक्तिकरण विभाग",
+      "title": "यूडीआईडी परियोजना (विशिष्ट दिव्यांगता पहचान पत्र)",
+      "url": "https://depwd.gov.in/udid-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be/",
+      "kind": "fact",
+      "upd": "2026-11-13"
+     }
+    }
+   ],
+   "hi": {
+    "groups": {
+     "mood": {
+      "label": "मन उदास रहना, उत्साह न होना",
+      "lead": "जब मन लगातार उदास रहता है और किसी भी काम के लिए ताकत जुटाना मुश्किल लगता है।",
+      "scenes": [
+       "सुबह से रात तक मन उदास रहता है।",
+       "जिन चीज़ों में पहले आनंद आता था, उनमें अब आनंद नहीं आता।",
+       "ताकत नहीं रहती और ध्यान नहीं लगता, इसलिए काम और घर के काम अधूरे रह जाते हैं।",
+       "मन में बार-बार आता है कि सब मेरी ही गलती है, और हर चीज़ अंधेरी दिखाई देती है।",
+       "रात को नींद नहीं आती, या ज़रूरत से ज़्यादा नींद आती है। भूख नहीं लगती और शरीर भारी लगता है।",
+       "कभी-कभी मन करता है कि मैं गायब हो जाऊं, या अब यहां न रहूं।"
+      ],
+      "asks": [
+       "एक बार में एक ही बात बताई जाए कि क्या करना है, तो मुझे आसानी होती है।",
+       "मुझे सोचने के लिए समय चाहिए; जवाब या फ़ैसले के लिए जल्दी न की जाए, तो मुझे अच्छा लगेगा।",
+       "ज़रूरी बातें लिखकर दी जाएं, तो मेरे लिए आसान होगा।",
+       "बस आगे बढ़ते रहने की सलाह देने से पहले अगर मेरी बात सुनी जाए, तो मुझे मदद मिलती है।",
+       "आराम करते समय मुझे आलसी न समझा जाए, तो मुझे अच्छा लगेगा।",
+       "साथ मिलकर देखा जाए कि कहीं कोई शारीरिक बीमारी या मेरी ली जा रही दवा का असर तो नहीं है, तो मुझे अच्छा लगेगा।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "अवसाद (Depression)",
+        "why": "अवसाद में मन लगातार उदास रहता है, रोज़ की चीज़ों में रुचि और आनंद कम हो जाता है और थकान जल्दी होने लगती है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "बाइपोलर डिसऑर्डर (Bipolar disorder)",
+        "why": "बाइपोलर डिसऑर्डर में मन की स्थिति दौरों में बदलती है: कभी मेनिया के दौर आते हैं और कभी अवसाद के, और ये बारी-बारी से आ सकते हैं।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "तेज़ चिंता या घबराहट",
+      "lead": "ऐसी चिंताएं जो रुकती नहीं, दिल तेज़ धड़कना और बेचैनी, लोगों के सामने या बाहर जाने में परेशानी, और ऐसी ही मुश्किलें।",
+      "scenes": [
+       "लोगों के सामने बोलते समय या जब लगे कि सब देख रहे हैं, तो इतनी घबराहट होती है कि दिमाग खाली हो जाता है।",
+       "अचानक दिल तेज़ धड़कने लगता है और सांस लेना मुश्किल हो जाता है, और डर रहता है कि यह फिर होगा, इसलिए बाहर निकलना मुश्किल लगता है।",
+       "बिना किसी साफ़ वजह के भी एक के बाद एक चिंताएं चलती रहती हैं, बेचैनी रहती है और बहुत थकान हो जाती है।",
+       "जहां से निकलना मुश्किल हो, जैसे मेट्रो, ट्रेन, बस, भीड़ वाले बाज़ार, या अकेले बाहर जाना, वहां परेशानी होती है, इसलिए उनसे बचना पड़ता है।",
+       "जिन बातों से घबराहट होती है उनसे बचते-बचते जाने की जगहें और मिलने वाले लोग कम हो गए हैं, और ज़िंदगी सिमट गई है।",
+       "चिंताएं दिमाग में घूमती रहती हैं और रात को नींद आने में दिक्कत होती है।"
+      ],
+      "asks": [
+       "जल्दी मचाने के बजाय मेरे बोलने का इंतज़ार किया जाए, तो मुझे अच्छा लगेगा।",
+       "योजना और आगे कैसे होगा, यह पहले से बता दिया जाए, तो मुझे मदद मिलेगी।",
+       "सबके सामने अचानक मुझसे सवाल न पूछा जाए, और मैं लिखकर भी जवाब दे सकूं, तो मुझे अच्छा लगेगा।",
+       "अगर तबीयत बिगड़ने लगे, तो थोड़ी देर के लिए अलग जाकर आराम करने की छूट मिले, यह मुझे चाहिए।",
+       "शांत जगह पर कम लोगों के साथ बात हो, तो मुझे अच्छा लगेगा।",
+       "यह कह देने के बजाय कि बात ज़्यादा सोचने की है, पहले यह सुना जाए कि मुझे किस बात में मुश्किल हो रही है।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "चिंता विकार (Anxiety disorders)",
+        "why": "तनाव में कुछ चिंता होना स्वाभाविक है। जब चिंता इससे बहुत आगे बढ़ जाए और रोज़ के काम करना मुश्किल होने लगे, तब इसे चिंता विकार कहा जाता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "जनरलाइज़्ड एंग्जायटी डिसऑर्डर (Generalized anxiety disorder)",
+        "why": "जनरलाइज़्ड एंग्जायटी डिसऑर्डर में कई अलग-अलग बातों या कामों को लेकर लगातार चिंता, डर और तनाव बना रहता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "पैनिक डिसऑर्डर (Panic disorder)",
+        "why": "पैनिक डिसऑर्डर में अचानक बहुत तेज़ डर के दौरे बार-बार आते हैं, अक्सर शरीर में भी तेज़ घबराहट होती है, और अगला दौरा आने की चिंता बनी रहती है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "सोशल एंग्जायटी डिसऑर्डर (Social anxiety disorder)",
+        "why": "सोशल एंग्जायटी डिसऑर्डर में दूसरों के सामने शर्मिंदा या अपमानित होने का बहुत ज़्यादा डर रहता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "पीटीएसडी (Post-traumatic stress disorder)",
+        "why": "किसी जानलेवा घटना, जैसे प्राकृतिक आपदा, के बाद वह घटना बार-बार याद आ सकती है, उससे जुड़ी बातों से दूर रहने का मन कर सकता है और मन तनाव में या चौकन्ना रह सकता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "अवसाद (Depression)",
+        "why": "अवसाद और चिंता अक्सर साथ-साथ होते हैं, और रोज़ की स्वास्थ्य देखभाल में यह मेल अक्सर देखा जाता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "बार-बार जांचना या दोहराना, रुकना मुश्किल",
+      "lead": "जब ताला या गैस बार-बार जांचना पड़ता है, हाथ धोना या और कुछ बार-बार दोहराना पड़ता है, और चाहने पर भी रुकना मुश्किल होता है।",
+      "scenes": [
+       "घर से निकलते समय ताले और गैस को बार-बार जांचे बिना चैन नहीं पड़ता।",
+       "हाथ या शरीर धोना बढ़ता जा रहा है, और रुकना चाहूं तब भी रुका नहीं जाता।",
+       "एक ही चिंता बार-बार दिमाग में आती है, और रोकना चाहूं तब भी उसके बारे में सोचना बंद नहीं होता।",
+       "अगर चीज़ें मेरे तय किए क्रम में न रखी या की गई हों, तो बेचैनी होती है और उन्हें सुधारना या फिर से करना पड़ता है।",
+       "जांचने में इतना समय लग जाता है कि निकलने में देर हो जाती है, और मिलने के समय या काम पर समय से पहुंचना नहीं हो पाता।",
+       "शरीर बिना चाहे हिल जाता है या आवाज़ें निकल जाती हैं, और कोशिश करने पर भी रोकना मुश्किल होता है।"
+      ],
+      "asks": [
+       "यह कह देने के बजाय कि बात ज़्यादा सोचने की है, पहले मेरी बात सुनी जाए, तो मुझे अच्छा लगेगा।",
+       "जांचने में मुझे समय लगता है, इसलिए थोड़ा अतिरिक्त समय दिया जाए, तो मुझे मदद मिलेगी।",
+       "योजना या प्रक्रिया बदले, तो मुझे पहले से बता दिया जाए, यह मुझे चाहिए।",
+       "दूसरों के सामने मेरे जांचने या धोने पर टोका न जाए और मज़ाक न उड़ाया जाए, तो मुझे अच्छा लगेगा।",
+       "जानकारी और निर्देश एक-एक करके, लिखकर दिए जाएं, तो मेरे लिए आसान होगा।",
+       "आगे कैसे बढ़ना है, यह तय करते समय मेरी चिंताएं सुनी जाएं और धीरे-धीरे चला जाए, तो मुझे अच्छा लगेगा।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "ऑटिज़्म स्पेक्ट्रम विकार (Autism spectrum disorder)",
+        "why": "ऑटिज़्म स्पेक्ट्रम विकार में अक्सर तय तौर-तरीके और बार-बार दोहराए जाने वाले व्यवहार देखे जाते हैं।",
+        "src": {
+         "org": "दिव्यांगजन सशक्तिकरण विभाग",
+         "title": "The Rights of Persons with Disabilities Act, 2016",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf",
+         "kind": "fact",
+         "upd": "2016-12-28"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "दर्दनाक घटना के बाद भी बनी रहने वाली परेशानी",
+      "lead": "किसी दर्दनाक घटना के बाद बार-बार याद आना, ठीक से नींद न आना, या मन का हर समय चौकन्ना रहना।",
+      "scenes": [
+       "कोई छोटी-सी बात अचानक उस कठिन समय का दृश्य और उसकी भावनाएं वापस ले आती है।",
+       "एक जैसा डरावना सपना बार-बार आता है, और अक्सर गहरी नींद नहीं आती।",
+       "हर समय मन चौकन्ना रहता है, और छोटी-सी आवाज़ या घटना से भी झटका लगता है।",
+       "उस समय की याद दिलाने वाली जगहों, लोगों और बातों से बचना पड़ता है, और रोज़ के काम और मिलना-जुलना सिमट गया है।",
+       "भावनाएं सुन्न-सी लगती हैं, और परिवार और दोस्तों के साथ पहले जैसा अपनापन महसूस नहीं होता।",
+       "खुद को दोष देना बढ़ता जा रहा है, या आसपास के लोगों पर भरोसा करना और मुश्किल लगता है।"
+      ],
+      "asks": [
+       "जो हुआ उसका ब्यौरा देने के लिए ज़ोर न दिया जाए, तो मुझे मदद मिलेगी। मैं अपनी गति से, जितना कह सकूं उतना ही बताऊं, यह मुझे चाहिए।",
+       "कुछ आवाज़ें, जगहें और बातें उसे वापस ले आती हैं, इसलिए जब उनसे बचने को कहूं तो उसे मान लिया जाए, यह मेरे लिए मददगार होगा।",
+       "पीछे से अचानक कोई आवाज़ न दे और पास में ज़ोर की आवाज़ न करे, तो मुझे अच्छा लगेगा।",
+       "जब बोलना बहुत मुश्किल हो, तब लिखकर देने की छूट मिले, यह मुझे चाहिए।",
+       "जिन दिनों नींद नहीं आती या थकान बनी रहती है, उन्हें आलस न समझा जाए, तो मेरे लिए मददगार होगा।",
+       "भूल जाने या जल्दी ठीक हो जाने की सलाह देकर जल्दी न की जाए, और मुझे ऐसी सुरक्षित जगह मिले जहां मैं बात कर सकूं।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "पीटीएसडी (Post-traumatic stress disorder)",
+        "why": "किसी जानलेवा घटना के बाद उसकी यादें बार-बार लौट सकती हैं, उससे जुड़ी बातों से दूर रहने का मन कर सकता है और मन तनाव में या चौकन्ना रह सकता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp",
+       "inncw"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "sleep": {
+      "label": "नींद की परेशानी",
+      "lead": "नींद न आना, रात में बार-बार जाग जाना, सुबह उठ न पाना, या दिन में बहुत नींद आना।",
+      "scenes": [
+       "बिस्तर में लेटने के बाद भी नींद नहीं आती।",
+       "रात में कई बार नींद खुल जाती है और सुबह तक गहरी नींद नहीं आती।",
+       "उठने का समय होने पर उठा नहीं जाता, और काम या कक्षा में बार-बार देर हो जाती है।",
+       "दिन में बहुत नींद आती है, और मीटिंग में या गाड़ी चलाते समय झपकी आने को होती है।",
+       "घर के लोग बताते हैं कि सोते समय ज़ोर से खर्राटे आते हैं और ऐसा लगता है कि सांस रुक जाती है।",
+       "शाम और रात को पैरों में बेचैनी और अजीब-सा एहसास होता है, और नींद नहीं आती।"
+      ],
+      "asks": [
+       "अपनी नींद का हाल बताने के लिए मुझे थोड़ा समय चाहिए (नींद आने में दिक्कत, रात में जागना, सुबह उठने में मुश्किल, दिन में नींद)।",
+       "कारण साथ मिलकर सोचा जाए, जिसमें मेरी दवाएं और चाय, कॉफ़ी, शराब और सिगरेट की मेरी आदतें भी शामिल हों, तो मुझे अच्छा लगेगा।",
+       "इसे मेरी सोच का नतीजा न माना जाए, और मेरा शारीरिक स्वास्थ्य और मन की हालत साथ में देखी जाए, यह मुझे चाहिए।",
+       "सोने और उठने का समय एक लिखे हुए नोट से दिखाया जा सके, तो मेरे लिए आसान होगा।",
+       "अगर दवा दी जाए, तो वह कैसे काम करती है और किन बातों का ध्यान रखना है, यह सरल शब्दों में बताया जाए, तो मुझे मदद मिलेगी।",
+       "सुबह मुझे मुश्किल होती है, इसलिए दोपहर या शाम की अपॉइंटमेंट मिले, तो मुझे अच्छा लगेगा।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "ऑब्सट्रक्टिव स्लीप एप्निया (Obstructive sleep apnea)",
+        "why": "ऑब्सट्रक्टिव स्लीप एप्निया में नींद के दौरान सांस की ऊपरी नली बार-बार बंद होती है। इससे खर्राटे, रात में टूटी-टूटी नींद और दिन में बहुत ज़्यादा नींद आ सकती है।",
+        "src": {
+         "org": "स्वास्थ्य अनुसंधान विभाग, स्वास्थ्य और परिवार कल्याण मंत्रालय",
+         "title": "Consensus & Evidence-Based INOSA Guidelines (INdian initiative on Obstructive Sleep Apnea Guidelines)",
+         "url": "https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Consensus%20and%20Evidence%20Based%20INOSA%20GUIDELINES%202014.pdf",
+         "kind": "fact",
+         "upd": "2014"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "खाने से जुड़ी परेशानी",
+      "lead": "जब खाना मुश्किल हो: ज़्यादा खाया न जाए, खाना रोका न जा सके, या खाने से डर लगे।",
+      "scenes": [
+       "खाने का मन नहीं करता, और कई दिनों से खाना निगलना मुश्किल लग रहा है।",
+       "एक बार खाना शुरू हो जाए तो खुद को रोकना मुश्किल होता है, और कभी-कभी इतना खाना हो जाता है कि पेट दर्द करने लगता है।",
+       "पता भी नहीं चलता और दिमाग में सिर्फ़ खाने की बात चलती रहती है, किसी और चीज़ पर ध्यान लगाना मुश्किल होता है।",
+       "खाने की चीज़ों का दायरा बहुत छोटा है, और स्वाद, गंध या बनावट की वजह से बहुत-सी चीज़ों से बचना पड़ता है।",
+       "एक बार खाना गले में अटकने या उल्टी होने के बाद खाने से डर लगने लगा है।",
+       "रात को कभी-कभी आधी नींद में खा लिया जाता है, और सुबह याद नहीं रहता।"
+      ],
+      "asks": [
+       "मेरे शरीर या रूप-रंग पर कोई टिप्पणी न करे, तो मुझे अच्छा लगेगा।",
+       "खाने के लिए मुझ पर ज़ोर न डाला जाए और जल्दी न की जाए, तो मेरे लिए मददगार होगा।",
+       "जब बाकी लोग साथ खाएं, तब खाने की कोई दूसरी जगह या समय चुनने की छूट मिले, यह मुझे चाहिए।",
+       "पहले मुझसे पूछा जाए कि कौन-सी चीज़ें खाई जा सकती हैं और किन गंधों या बनावट से मुश्किल होती है, तो मुझे मदद मिलेगी।",
+       "शारीरिक जांच या खून की जांच के चरण पहले से समझा दिए जाएं, तो मुझे अच्छा लगेगा।",
+       "जो बात ज़ोर से कहना मुश्किल हो, उसे लिखकर देने की छूट मिले, यह मुझे चाहिए।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "शराब, जुए या गेमिंग की आदत छोड़ना मुश्किल",
+      "lead": "जब रुकने या कम करने का मन हो, फिर भी वही दोबारा होता रहे",
+      "scenes": [
+       "रुकने या कम करने का फ़ैसला करने के बाद भी मुझसे वही दोबारा हो जाता है।",
+       "जो समय, मात्रा या पैसा मैंने तय किया था (\"आज बस इतना\"), उस पर मुझसे टिका नहीं जाता।",
+       "अपने करीबी लोगों से मुझे अपनी शराब, जुए या गेमिंग की बात छिपानी पड़ती है, या बहाने बनाकर उस पर पर्दा डालना पड़ता है।",
+       "देर रात तक गेम खेलना आदत बन गई है, और सुबह उठा नहीं जाता। काम पर देर से पहुंचना या न पहुंचना बढ़ गया है।",
+       "हार के बाद मन करता है कि सब वापस जीत लूं, और फिर से दांव लग जाता है।",
+       "शरीर ठीक नहीं है, यह जानते हुए भी मुझसे शराब कम नहीं की जाती।"
+      ],
+      "asks": [
+       "पहले बिना दोष लगाए और बिना कोई धारणा बनाए मेरी बात सुनी जाए, तो मुझे मदद मिलेगी।",
+       "इन चीज़ों से जुड़ी मेरी आदत कैसी है और इससे क्या परेशानियां होती हैं, यह एक-एक कदम साथ मिलकर समझा जाए, तो अच्छा होगा।",
+       "मेरी नींद और शरीर की सेहत को भी देखा जाए, तो मुझे अच्छा लगेगा।",
+       "मुझे साफ़ बताया जाए कि मदद कहां मिल सकती है और कहां जाया जा सकता है, तो मुझे सहूलियत होगी।",
+       "मुझे यह जानना है कि इस बारे में बात करते समय मेरे परिवार का कोई सदस्य या कोई करीबी साथ आ सकता है या नहीं।",
+       "पहले मुझसे पूछा जाए कि मैंने जो कहा, वह किसे और कितना बताया जाएगा, तो मुझे मदद मिलेगी।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "शराब का व्यसन (Alcohol dependence)",
+        "why": "शराब का व्यसन शरीर के साथ-साथ व्यक्ति के सामाजिक और निजी जीवन पर भी असर डालता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "inddc",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "attention": {
+      "label": "ध्यान और काम को व्यवस्थित रखने में परेशानी",
+      "lead": "ध्यान टिकाने, काम को क्रम से करने या बातें याद रखने में दिक्कत।",
+      "scenes": [
+       "कोई मुझसे बात कर रहा हो, तब भी मेरा ध्यान किसी और चीज़ पर चला जाता है।",
+       "दफ़्तर या घर का काम मुझसे क्रम से पूरा नहीं होता, और समय-सीमा चूक जाती है।",
+       "जो काम करने को कहा गया था या जिसका वादा किया था, वह अक्सर मुझे याद नहीं रहता, या मेरा सामान खो जाता है।",
+       "एक ही काम बार-बार करते रहने पर लापरवाही की गलतियां बढ़ती जाती हैं।",
+       "चुपचाप बैठना पड़े तो मुझे बेचैनी होती है और हाथ-पैर हिलाने का मन करता है।",
+       "आसपास के लोग कहते हैं कि मुझे अक्सर बातें याद नहीं रहतीं या मुझसे देर हो जाती है।"
+      ],
+      "asks": [
+       "मुझे हिदायतें एक-एक करके दी जाएं, तो मदद मिलेगी।",
+       "ज़रूरी बातें लिखकर मुझे दी जाएं, तो मदद मिलेगी।",
+       "समय-सीमा और अपॉइंटमेंट की जानकारी मुझे पहले से मिल जाए, तो मदद मिलेगी।",
+       "एक साथ बहुत सारी बातें न पूछी जाएं और काम को छोटे हिस्सों में बांट दिया जाए, तो मुझे सहूलियत होगी।",
+       "मुझे शांत जगह में बात करना ठीक रहेगा, जहां ध्यान कम भटके।",
+       "जो मुझसे नहीं हो पाया उसके लिए दोष देने के बजाय, जो मैंने किया उसे सराहा जाए, तो मुझे अच्छा लगेगा।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "लोगों से मेलजोल, तय तरीके और आवाज़-रोशनी की परेशानी",
+      "lead": "लोगों से बात करने या मिलने-जुलने में दिक्कत, चीज़ें एक तय तरीके से करने की तेज़ ज़रूरत, या आवाज़ें, रोशनी और गंध जो सहन करना मुश्किल हों।",
+      "scenes": [
+       "बातचीत में दूसरे व्यक्ति की भावनाएं या माहौल समझना मुझे मुश्किल लगता है, और हमारी बातें एक-दूसरे से मेल नहीं खातीं।",
+       "लोगों के सामने बोलना हो या सबकी नज़रें मुझ पर हों, तो मुझे बहुत तनाव होता है और उससे बचने का मन करता है।",
+       "जिन लोगों के करीब हूं, उनसे बात हो जाती है, पर दूसरों के सामने आवाज़ नहीं निकलती।",
+       "मेरे तय तरीके, काम के क्रम या चीज़ों की जगह में बदलाव हो जाए, तो मुझे बहुत घबराहट होती है।",
+       "आवाज़ें, रोशनी, गंध वगैरह बहुत तेज़ लगती हैं, और भीड़ वाली जगहें मेरे लिए मुश्किल हैं।",
+       "लोगों की बात सुनना मुश्किल लगता है, या मन उदास रहता है, और लोगों से मिलना-बात करना कठिन हो गया है।"
+      ],
+      "asks": [
+       "धीरे और साफ़ बोला जाए, तो मुझे मदद मिलेगी।",
+       "ज़रूरी बातें मुझे लिखकर दी जाएं, तो मदद मिलेगी।",
+       "मुझे शांत जगह में बात करना ठीक रहेगा।",
+       "योजना या काम करने का तरीका बदलने पर पहले से बता दिया जाए, तो मुझे सहूलियत होगी।",
+       "जवाब देने के लिए मुझे जल्दबाज़ी किए बिना समय दिया जाए, तो अच्छा होगा।",
+       "बोलने की जगह लिखकर या छोटे नोट से जवाब देने की छूट मिले, तो मुझे अच्छा लगेगा।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "सोशल एंग्जायटी डिसऑर्डर (Social anxiety disorder)",
+        "why": "सोशल एंग्जायटी डिसऑर्डर में लोगों के बीच शर्मिंदा या अपमानित होने का बहुत ज़्यादा डर रहता है।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "ऑटिज़्म स्पेक्ट्रम विकार (Autism spectrum disorder)",
+        "why": "ऑटिज़्म स्पेक्ट्रम विकार में बातचीत करना, रिश्तों को समझना और दूसरों से जुड़ना मुश्किल हो सकता है।",
+        "src": {
+         "org": "दिव्यांगजन सशक्तिकरण विभाग",
+         "title": "The Rights of Persons with Disabilities Act, 2016",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf",
+         "kind": "fact",
+         "upd": "2016-12-28"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "पढ़ने, लिखने या गणना में परेशानी",
+      "lead": "जब मेहनत के बाद भी पढ़ना, लिखना या गणना करना मुश्किल लगे।",
+      "scenes": [
+       "किसी पाठ को पढ़ने में मुझे ज़्यादातर लोगों से ज़्यादा समय लगता है, और उसे बार-बार पढ़ना पड़ता है।",
+       "पढ़ लेने के बाद भी बात समझ में नहीं बैठती, और कागज़ात या चिट्ठियों का मतलब समझना मुश्किल होता है।",
+       "शब्दों की सही वर्तनी लिखने में मुझे दिक्कत होती है, और लिखने में अक्सर गलतियां होती हैं या कुछ छूट जाता है।",
+       "मेरी लिखावट टेढ़ी-मेढ़ी बनती है, और लिखने में बहुत समय और मेहनत लगती है।",
+       "सीधे-सादे जोड़-घटाव और शब्दों में लिखे गणित के सवालों में मुझे अटकना पड़ता है।",
+       "बोलना और सुनना मुझे ठीक से आता है, पर पढ़ने, लिखने या गणना करने में, खूब समय लेने पर भी, चीज़ें मनचाही तरह से आगे नहीं बढ़तीं।"
+      ],
+      "asks": [
+       "मोटे अक्षरों में, पंक्तियों के बीच ज़्यादा जगह और आसानी से पढ़े जाने वाले फ़ॉन्ट में लिखा पाठ मिले, तो मुझे अच्छा लगेगा।",
+       "ज़रूरी जानकारी मुझे पढ़कर सुनाई या बोलकर बताई जाए, तो मदद मिलेगी।",
+       "हाथ से लिखने की जगह कंप्यूटर या फ़ोन पर टाइप करने, या फ़ोटो और आवाज़ की रिकॉर्डिंग से दर्ज करने की छूट मिले, तो मुझे अच्छा लगेगा।",
+       "गणना के लिए कैलकुलेटर इस्तेमाल करने की छूट मिले, तो अच्छा होगा।",
+       "पढ़ने, लिखने और गणना के लिए मुझे अतिरिक्त समय मिले, तो अच्छा होगा।",
+       "एक बार में थोड़ा-थोड़ा, एक के बाद एक करके दिया जाए, तो मुझे मदद मिलेगी।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "डिस्लेक्सिया और सीखने की अन्य अक्षमताएं (Specific learning disabilities)",
+        "why": "डिस्लेक्सिया या सीखने की अन्य अक्षमताओं में पढ़ने, लिखने, वर्तनी, समझने या गणित की गणना में कठिनाई हो सकती है।",
+        "src": {
+         "org": "पत्र सूचना कार्यालय (PIB)",
+         "title": "एक्ट फॉर डिस्लेक्सिया अभियान के अंतर्गत राष्‍ट्रपति भवन और देश के अन्‍य प्रमुख भवनों और स्‍मारकों को लाल रंग से रोशन किया गया",
+         "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2068993&reg=48&lang=2",
+         "kind": "fact",
+         "upd": "2024-10-28"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "मन में बड़े उतार-चढ़ाव",
+      "lead": "जब मन बहुत ऊपर-नीचे होता है और भावनाएं साथ नहीं दे पातीं।",
+      "scenes": [
+       "मेरा मन कभी बहुत जोश से भरा रहता है और कभी इतना उदास कि हिलना भी मुश्किल हो जाता है।",
+       "कुछ दौर ऐसे आते हैं जब नींद लगभग नहीं आती, फिर भी मुझमें भरपूर ऊर्जा रहती है और लगातार भागदौड़ चलती रहती है।",
+       "एक के बाद एक विचार आते रहते हैं, और सब कुछ अधूरा रह जाता है।",
+       "कभी मन इतना बेधड़क हो गया कि पैसा खर्च हो गया, जिसे बाद में संभालना मुश्किल पड़ा।",
+       "छोटी-छोटी बातों पर चिड़चिड़ाहट होती है, और भावनाओं को काबू में रखना मुश्किल लगता है।",
+       "मन के जोश वाले दौर में जो किया, उसका असर मेरे रिश्तों या काम पर पड़ा है।"
+      ],
+      "asks": [
+       "जब मुझे बहुत अच्छा लगा या मुझमें बहुत ऊर्जा थी, उन समयों के बारे में भी पूछा जाए, तो अच्छा होगा।",
+       "मेरे उतार-चढ़ाव को साथ बैठकर आराम से समझा जाए, तो मुझे अच्छा लगेगा।",
+       "पैसे या काम से जुड़े बड़े फ़ैसलों से पहले कोई मुझे रुककर सोचने की याद दिलाए, तो मुझे मदद मिलेगी।",
+       "नींद, दवाइयों और शराब समेत शरीर से जुड़े कारणों को भी देखा जाए, तो अच्छा होगा।",
+       "अगर मेरा व्यवहार हमेशा जैसा न लगे, तो दोष दिए बिना मुझे बताया जाए।",
+       "जोश वाले दौर में भी और उदासी वाले दौर में भी मेरी पूरी बात सुनी जाए, तो मुझे अच्छा लगेगा।"
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "बाइपोलर डिसऑर्डर (Bipolar disorder)",
+        "why": "बाइपोलर डिसऑर्डर में मेनिया और अवसाद के दौर आ सकते हैं, जो बारी-बारी से बदलते हैं।",
+        "src": {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "नाम जान लेने पर रोज़ के उतार-चढ़ाव लक्षण जैसे लग सकते हैं",
+       "body": "किसी स्थिति का नाम जान लेने पर साधारण थकान या ध्यान का भटकना भी लक्षण जैसा लगने लग सकता है।\n\nभावनाएं शरीर और मन की स्थिति को बदल सकती हैं, और यह सिर्फ़ कल्पना नहीं है; ऐसा सच में होता है। नींद की कमी, तनाव, फ़ोन का इस्तेमाल और आसपास जो हो रहा है, वह भी ऐसी ही बातें पैदा कर सकता है।\n\nकोई नाम पढ़कर अगर आपको लगे कि “शायद यही है”, तो तुरंत उसी पर न रुकें, और दूसरे कारणों के बारे में भी सोचें। अगर मुश्किल का समय बना रहे, तो बिना नाम के भी, जैसे हैं वैसे, मदद मांग सकते हैं।",
+       "srcs": []
+      },
+      {
+       "h": "मन के उतार-चढ़ाव और चिंता ज़िंदगी का हिस्सा हैं",
+       "body": "कभी-कभी उदास होना, चिंता या तनाव महसूस करना ज़िंदगी का हिस्सा है। थोड़ी चिंता किसी चुनौती के लिए तैयार होने में मदद भी कर सकती है।\n\nनाम स्वास्थ्य पेशेवर देते हैं। वे परेशानी कितनी गहरी है, कितने समय से है और रोज़ की ज़िंदगी पर कितना असर डालती है, इन सब को साथ में देखते हैं।",
+       "srcs": [
+        {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       ]
+      },
+      {
+       "h": "जो हो रहा है उसका नाम न हो, तब भी मदद मांग सकते हैं",
+       "body": "निदान के बिना भी आप अपनी परेशानी के बारे में बात कर सकते हैं।\n\nदिव्यांग लोगों के अधिकारों से जुड़ा कानून (RPwD Act, 2016) सरकारी कार्यस्थलों से कहता है कि वे दिव्यांग कर्मचारियों के लिए उचित व्यवस्था करें, यानी ऐसे बदलाव जिनसे कोई व्यक्ति दूसरों के बराबर हिस्सा ले सके।",
+       "srcs": [
+        {
+         "org": "दिव्यांगजन सशक्तिकरण विभाग",
+         "title": "The Rights of Persons with Disabilities Act, 2016",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf",
+         "kind": "fact",
+         "upd": "2016-12-28"
+        }
+       ]
+      },
+      {
+       "h": "फिर भी, कुछ सहायता के लिए डॉक्टर के कागज़ मांगे जा सकते हैं",
+       "body": "कुछ सहायता के लिए डॉक्टर के कागज़ चाहिए होते हैं। जैसे, यूडीआईडी कार्ड अस्पताल में जांच के बाद मिलता है, और परीक्षा में लेखक या अतिरिक्त समय के लिए चिकित्सा प्रमाण-पत्र चाहिए। दूसरी सहायता की अपनी शर्तें होती हैं, इसलिए कौन से कागज़ चाहिए, यह संबंधित दफ़्तर से पूछ सकते हैं।",
+       "srcs": [
+        {
+         "org": "दिव्यांगजन सशक्तिकरण विभाग",
+         "title": "यूडीआईडी परियोजना (विशिष्ट दिव्यांगता पहचान पत्र)",
+         "url": "https://depwd.gov.in/udid-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be/",
+         "kind": "fact",
+         "upd": "2026-11-13"
+        },
+        {
+         "org": "दिव्यांगजन सशक्तिकरण विभाग",
+         "title": "Guidelines for conducting written examination for persons with specified disabilities covered under the definition of Section 2(s) of the RPwD Act, 2016 but not covered under the definition of Section 2(r) of the said Act, i.e. persons having less than 40% disability and having difficulty in writing",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/11/202311171714558279.pdf",
+         "kind": "fact",
+         "upd": "2022-08-10"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "किसी स्थिति का नाम किसी से ऊपर खड़े होने का साधन नहीं है",
+       "body": "किसी स्थिति का नाम किसी से ऊपर खड़े होने या किसी को नीची नज़र से देखने का साधन नहीं है।\nकुछ लोगों को अपने अनुभव का नाम मिल जाने से राहत मिलती है। यह ज़रूरी बात है।\nयह चाहना भी स्वाभाविक है कि आसपास के लोग हमें समझें या हमारे साथ नरमी से पेश आएं।\n\nजब आप चाहें कि लोग आपके साथ नरमी से पेश आएं, तो किसी स्थिति का नाम बताए बिना भी सीधे कह सकते हैं।\nदो बातें एक साथ कहने पर बात ज़्यादा आसानी से पहुंचती है: आपको किस बात में परेशानी है, और आपको सामने वाले से क्या चाहिए।\n\nउदाहरण के लिए:\n“आज मुझमें ऊर्जा नहीं है, इसलिए धीरे बोला जाए तो मदद होगी।”\n“एक साथ कई बातें कही जाएं तो मुझे उलझन होती है; एक-एक करके समझाई जाएं तो मदद होगी।”\n“जो सिर्फ़ बोलकर कहा जाता है, वह मुझे याद रखना मुश्किल लगता है; ज़रूरी बातें लिखकर, कागज़ पर या ईमेल से, दी जाएं तो अच्छा होगा।”\n“भीड़ वाली जगहें मेरे लिए मुश्किल हैं; शांत जगह में बात हो तो अच्छा रहेगा।”\n“जवाब देने में मुझे थोड़ा समय लगता है; थोड़ी देर इंतज़ार किया जाए तो मदद होगी।”\n“अभी मन में बहुत सारी भावनाएं एक साथ उमड़ रही हैं; पहले सिर्फ़ मेरी बात सुनी जाए। सलाह बाद में दी जा सकती है।”\n“आज मेरी तबीयत ठीक नहीं है; थोड़ी देर आराम करने दिया जाए तो अच्छा होगा।”\n“अचानक योजना बदलने से मुझे उलझन होती है; बदलाव की खबर समय पर मिले तो मदद होगी।”\n“ऊंची आवाज़ में बात की जाए तो मुझे डर लगता है; शांति से बात की जाए तो अच्छा होगा।”\n\nअगर इसे ठीक से कहना मुश्किल हो, तो कागज़ पर लिखकर दे सकते हैं। आप “बड़ा करके दिखाएं” बटन से “मेरी परेशानियां” वाला कार्ड भी दिखा सकते हैं; यह इस ऐप में कोई परेशानी चुनने और सवालों के जवाब देने के बाद आता है।\nअगर आप अपने पहले से मिले निदान का नाम बताना चाहें, तो बता सकते हैं। तब भी यह साथ में बताना सामने वाले के लिए मददगार होता है कि आपको किस बात में परेशानी है और आपको क्या चाहिए।\nकभी-कभी सामने वाला अपनी परिस्थिति की वजह से आपकी कही बात पूरी नहीं कर पाता। तब दोनों मिलकर कोई दूसरा रास्ता ढूंढ सकते हैं।\n\nकाम पर भी इन्हीं शब्दों में कह सकते हैं: “कई हिदायतें एक साथ मानना मुझे मुश्किल लगता है; मुझे वे लिखकर दी जाएं तो अच्छा होगा।”\n\nकृपया इस ऐप की नामों की सूची का इस्तेमाल अपने आसपास के लोगों की परेशानी पर सवाल उठाने के लिए न करें।",
+       "srcs": []
+      },
+      {
+       "h": "इस ऐप के बारे में",
+       "body": "यह निदान नहीं है। इस सूची से यह नहीं कहा जा सकता कि आपका निदान हो गया है। यह ऐप कोई चिकित्सा उपकरण नहीं है और किसी भी बीमारी का निदान, उपचार, इलाज या रोकथाम नहीं करता।\n\nसोयोगी जापान में स्थित एक गैर-लाभकारी स्वैच्छिक समूह है। यह कोई कंपनी नहीं है। इसका टेली मानस, स्वास्थ्य और परिवार कल्याण मंत्रालय या भारत सरकार से कोई संबंध नहीं है। इनमें से कोई भी इस ऐप की सिफ़ारिश या समर्थन नहीं करता। इन संस्थाओं के नाम सिर्फ़ यह बताते हैं कि जानकारी कहां से ली गई है।\n\nइस ऐप के पाठ सोयोगी ने अपने शब्दों में लिखे हैं। ये स्वास्थ्य और परिवार कल्याण मंत्रालय (टेली मानस और NHSRC सहित), स्वास्थ्य अनुसंधान विभाग, दिव्यांगजन सशक्तिकरण विभाग और पत्र सूचना कार्यालय (PIB) के पेजों पर आधारित हैं।\n\nजांच की तारीख 2026-11-18 है; नंबर और समय बदल सकते हैं। समय वैसे ही लिखे गए हैं जैसे हर संस्था लिखती है। मदद लेनी है या नहीं, यह फ़ैसला आपका है, ऐप का नहीं।",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "मानसिक स्वास्थ्य को लेकर कोई भी मदद ले सकता है। इसमें दिन-प्रतिदिन की चुनौतियाँ भी शामिल हैं, जैसे रिश्तों में टकराव, वित्तीय तनाव, कार्यस्थल का तनाव या परीक्षा का तनाव।",
+      "src": {
+       "org": "टेली मानस (स्वास्थ्य और परिवार कल्याण मंत्रालय)",
+       "title": "हमारी सेवाएँ",
+       "url": "https://telemanas.mohfw.gov.in/telemanas-services",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "लंबे समय से चली आ रही परेशानियों के बारे में आप पहले निदान के बिना भी बात कर सकते हैं। कोई भी टेली मानस को 14416 पर कॉल कर सकता है, और ज़रूरत होने पर वहां से मानसिक स्वास्थ्य पेशेवर के पास भेजा जा सकता है।",
+       "src": {
+        "org": "टेली मानस (स्वास्थ्य और परिवार कल्याण मंत्रालय)",
+        "title": "हमारी सेवाएँ",
+        "url": "https://telemanas.mohfw.gov.in/telemanas-services",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "जिला मानसिक स्वास्थ्य कार्यक्रम के तहत जिला अस्पतालों में भी मानसिक स्वास्थ्य सेवाएं चलती हैं।",
+       "src": {
+        "org": "पत्र सूचना कार्यालय (PIB)",
+        "title": "राष्ट्रीय टेली मानसिक स्वास्थ्य कार्यक्रम (एनटीएमएचपी) पर अपडेट",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118944",
+        "kind": "fact",
+        "upd": "2025-04-04"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "नाम (निदान) कैसे दिया जाता है, संक्षेप में:",
+      "text": "नाम (निदान) स्वास्थ्य पेशेवर देते हैं। इसके लिए वे देखते हैं कि परेशानी क्या है, यह कितने समय से है और रोज़मर्रा की ज़िंदगी पर इसका कितना असर है। कुछ शारीरिक बीमारियां भी मन या चिंता में बदलाव ला सकती हैं, इसलिए वे इनकी भी जांच कर सकते हैं।",
+      "src": {
+       "org": "स्वास्थ्य और परिवार कल्याण मंत्रालय (NHSRC)",
+       "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+       "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+       "kind": "fact",
+       "upd": "2021"
+      }
+     },
+     "fewNote": "सार्वजनिक स्वास्थ्य पेजों पर केवल कुछ ही नामों की पुष्टि हो सकी।",
+     "noNames": "इस समूह के लिए सार्वजनिक स्वास्थ्य पेजों पर नामों की पुष्टि नहीं हो सकी, इसलिए यहां नामों की सूची नहीं दिखाई गई है। आप इस ऐप में मदद के लिए संपर्क की जगहें फिर भी देख सकते हैं।"
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no motivation",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood stays low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores do not get done.",
+       "I blame myself, and I keep seeing everything in a dark light.",
+       "I cannot sleep at night, or I sleep too much. I have no appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It would help me if you told me what to do one thing at a time.",
+       "I would like some time to think, rather than being rushed for answers or decisions.",
+       "It would help me if you wrote important things down for me.",
+       "I would like you to listen to me first, before telling me to 'just keep going'.",
+       "I would prefer it if you did not assume I am being lazy when I am resting.",
+       "I would like us to check together whether a physical illness or the medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Depression is a low mood that stays and does not lift, with less interest and enjoyment in everyday things and getting tired more easily.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "In bipolar disorder, mood changes in episodes: there can be periods of mania and periods of depression, and these can take turns.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong anxiety or tension",
+      "lead": "Worries that will not stop, a pounding heart and restlessness, trouble in front of people or when going out, and similar struggles.",
+      "scenes": [
+       "When I speak in front of people or feel watched, I get so anxious that my mind goes blank.",
+       "My heart suddenly pounds and it gets hard to breathe, and I worry it will happen again, so going out feels hard.",
+       "Even without a clear reason, I keep worrying about one thing after another, feel restless, and get worn out.",
+       "Places that are hard to get away from, like the metro, trains, buses, crowded markets, or going out alone, are difficult for me, so I avoid them.",
+       "As I keep avoiding what makes me anxious, the places I go and the people I see have shrunk, and my life has become narrower.",
+       "Worries stay in my head and I have trouble falling asleep at night."
+      ],
+      "asks": [
+       "I would like you to wait for me to speak rather than rushing me.",
+       "It would help me if you told me the plan and how things will go ahead of time.",
+       "I would prefer not to be put on the spot suddenly in front of others, and to be able to answer in writing too.",
+       "If I start to feel unwell, I would like to be able to step away and rest for a moment.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "I would like you to listen first to what is hard for me, without just telling me I am overthinking it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety disorders",
+        "why": "Some worry is a natural response to stress. When anxiety rises far beyond that and makes it hard to get through the day, it is called an anxiety disorder.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "In generalized anxiety disorder, a person keeps worrying about many different events or activities, with fear, tension and stress.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "Panic disorder means sudden attacks of extreme fear that come again and again, often with strong physical feelings, and worry about having another attack.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "Social anxiety disorder",
+        "why": "In social anxiety disorder, there is a very strong fear of being embarrassed or humiliated in front of other people.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "After a life-threatening event, such as a natural disaster, the event can keep coming back to mind, a person may avoid reminders of it, and they may feel on edge.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Depression and anxiety often come together, and this mix is common in everyday health care.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the lock or the gas stove, wash your hands, or repeat other things again and again, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave home, I can't feel at ease unless I check the lock and the gas stove again and again.",
+       "I wash my hands or body more and more often, and I can't stop even when I want to.",
+       "The same worry keeps coming into my head, and I can't stop thinking about it even though I want to.",
+       "If things aren't placed or done in the order I've decided, I feel unsettled and end up fixing or redoing them.",
+       "Checking takes so long that I leave late, or I don't make it to appointments or work on time.",
+       "My body moves or I make sounds without meaning to, and it's hard to stop even when I try."
+      ],
+      "asks": [
+       "I would like you to listen to me first, instead of just saying I am overthinking it.",
+       "Checking takes me time, so it would help me if you allowed some extra time.",
+       "When plans or procedures change, I would like to be told in advance.",
+       "I would prefer it if you did not point out or tease me about checking or washing in front of others.",
+       "It would help me if explanations and instructions were given one at a time, in writing.",
+       "When we decide how to go ahead with appointments, I would like you to listen to my worries and take it slowly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder",
+        "why": "Autism spectrum disorder is often linked with fixed rituals and repeated ways of behaving.",
+        "src": {
+         "org": "Department of Empowerment of Persons with Disabilities",
+         "title": "The Rights of Persons with Disabilities Act, 2016",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf",
+         "kind": "fact",
+         "upd": "2016-12-28"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Trouble that continues after a painful event",
+      "lead": "Remembering, sleeping poorly, or feeling on edge after something painful.",
+      "scenes": [
+       "Something small suddenly brings back the scene and the feelings from that hard time.",
+       "I keep having the same kind of frightening dream, and often can't sleep deeply.",
+       "I'm always on edge, and even small noises or events make me jump.",
+       "I avoid places, people and topics that remind me of that time, and the range of things I do has become narrower.",
+       "I feel emotionally flat, and I can't feel close to my family and friends the way I used to.",
+       "I blame myself more and more, or find it harder to trust the people around me."
+      ],
+      "asks": [
+       "It would help me not to be pressed for the details of what happened. I would like to tell it at my own pace, only as much as I can.",
+       "Some sounds, places and topics bring it back, so it would help me if people accepted it when I say I want to avoid them.",
+       "I would prefer it if nobody called out to me suddenly from behind or made loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something I have written.",
+       "It would help me if days when I cannot sleep, or when tiredness lingers, were not seen as laziness.",
+       "I would prefer not to be rushed with 'just forget it' or 'get well soon', and I would like a safe place where I can talk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "After a life-threatening event, memories of it can keep coming back, a person may stay away from reminders, and they may feel on edge.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp",
+       "inncw"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, not being able to get up in the morning, or feeling very sleepy in the daytime.",
+      "scenes": [
+       "Even after getting into bed, I can't fall asleep.",
+       "I wake up many times during the night and never sleep deeply until morning.",
+       "When it is time to get up I can't, and I keep being late for work or my classes.",
+       "I get very sleepy during the day and nearly doze off in meetings or while driving.",
+       "My family says I snore loudly and that it looks like I stop breathing while I sleep.",
+       "In the evening and at night my legs feel uncomfortable and restless, and I can't sleep."
+      ],
+      "asks": [
+       "I would like some time to explain how my sleep is going (falling asleep, waking in the night, trouble getting up in the morning, sleepiness during the day).",
+       "I would like to think through the cause together, including the medicines I take and my habits with tea, coffee, alcohol and cigarettes.",
+       "I would prefer it not to be put down to my mindset, and I would like my physical health and my mood to be checked together.",
+       "I would like to show my sleep times using a written note of when I went to bed and when I woke up.",
+       "If I am offered medicine, it would help me to hear in plain words how it works and what to watch out for.",
+       "Mornings are hard for me, so I would prefer an appointment in the afternoon or evening."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnea (OSA)",
+        "why": "In obstructive sleep apnea, the upper airway keeps closing during sleep. This can cause snoring, broken sleep at night and strong sleepiness during the day.",
+        "src": {
+         "org": "Department of Health Research, Ministry of Health and Family Welfare",
+         "title": "Consensus & Evidence-Based INOSA Guidelines (INdian initiative on Obstructive Sleep Apnea Guidelines)",
+         "url": "https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource-guidelines/Consensus%20and%20Evidence%20Based%20INOSA%20GUIDELINES%202014.pdf",
+         "kind": "fact",
+         "upd": "2014"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "For when eating is hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and food has been hard to get down for days.",
+       "Once I start eating I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "Before I realise it, I am thinking only about food, and it is hard to focus on anything else.",
+       "The foods I can eat are very limited, and I avoid many foods because of their taste, smell or texture.",
+       "After choking on food or vomiting once, I became afraid of eating.",
+       "At night I sometimes eat while half asleep, and in the morning I do not remember it."
+      ],
+      "asks": [
+       "I would prefer it if nobody commented on my body or appearance.",
+       "It would help me not to be forced or rushed to eat.",
+       "When others eat together, I would like to be able to choose a different place or time to eat.",
+       "It would help me to be asked first what I can eat and which smells or textures are hard for me.",
+       "It would help me to have the steps of any physical examination or blood tests explained beforehand.",
+       "I would like to hand over in writing what is hard to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling or gaming",
+      "lead": "For when you want to stop or cut down, but keep going anyway",
+      "scenes": [
+       "Even when I decide to stop or cut down, I find myself doing it again.",
+       "I can't stick to the time, amount or money I set for myself ('just this much today').",
+       "I hide my drinking, gambling or gaming from people close to me, or cover it up.",
+       "Staying up late gaming has become a habit, and I can't get up in the morning. I'm late or absent more often.",
+       "When I lose, I want to win it back, so I bet again.",
+       "Even though I know my body isn't doing well, I can't cut back on drinking."
+      ],
+      "asks": [
+       "It would help me to be listened to first, without blame or assumptions.",
+       "I would like to work out, step by step, how I use these and what problems they cause.",
+       "I would like my sleep and physical health to be checked as well.",
+       "I would like to be told specifically where I can get support and where I can go.",
+       "I would like to know whether my family or someone close to me can join me when I talk about it.",
+       "It would help me to be asked first who will be told what I have said, and how much."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence",
+        "why": "Alcohol dependence can affect a person's body, and also their social and personal life.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "inddc",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "attention": {
+      "label": "Trouble with attention and getting organised",
+      "lead": "Trouble keeping focus, working through steps in order, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts to something else.",
+       "I cannot get through work or housework in order, and I miss deadlines.",
+       "I often cannot recall things I was asked to do or promised, or I lose my belongings.",
+       "When I keep doing the same task, careless mistakes pile up.",
+       "When I have to sit still, I feel restless and fidgety.",
+       "People around me say that I often forget things or am late."
+      ],
+      "asks": [
+       "It would help me if instructions were given to me one at a time.",
+       "It would help me if important things were written down and handed to me.",
+       "It would help me to hear about deadlines and appointments early.",
+       "I would prefer not to be asked for lots of things at once, and to have tasks broken into small parts.",
+       "I would like to talk in a quiet place where I am less distracted.",
+       "I would appreciate it if you recognised what I managed to do, instead of blaming me for what I could not do."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In conversation, I find it hard to pick up the other person's feelings or the mood of the room, and we talk past each other.",
+       "When I have to speak in front of people or have everyone's eyes on me, I get very tense and end up avoiding it.",
+       "I can talk with people I am close to, but my voice will not come out in front of others.",
+       "When my set way of doing things, my order of steps, or where things are placed changes, I feel strongly anxious.",
+       "Sounds, lights, smells and so on feel too strong, and crowded places are hard for me.",
+       "I find it hard to hear what people say, or my mood is low, and meeting and talking with people has become hard."
+      ],
+      "asks": [
+       "It would help me if you spoke slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told in advance when plans or ways of doing things change.",
+       "I would prefer to be given time to answer, without being rushed.",
+       "I would like to be able to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety disorder",
+        "why": "In social anxiety disorder, there is a very strong fear of being embarrassed or humiliated in social situations.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder",
+        "why": "Autism spectrum disorder can affect how a person communicates, understands relationships and relates to others.",
+        "src": {
+         "org": "Department of Empowerment of Persons with Disabilities",
+         "title": "The Rights of Persons with Disabilities Act, 2016",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf",
+         "kind": "fact",
+         "upd": "2016-12-28"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing or calculating",
+      "lead": "For when reading, writing or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than most people to read a text, and I end up rereading it many times.",
+       "Even after reading, the content does not sink in, and I struggle to grasp what documents or letters mean.",
+       "I have trouble spelling words correctly, and I often make writing mistakes or leave things out.",
+       "My handwriting comes out uneven, and writing takes a lot of time and effort.",
+       "I get stuck on simple sums and on maths problems written in words.",
+       "I can talk and listen without trouble, but when it comes to reading, writing or calculating, things do not move along as I want, even with plenty of time."
+      ],
+      "asks": [
+       "I would like text in large print with wide line spacing, in a font that is easy to read.",
+       "It would help me if important information was read aloud or told to me out loud.",
+       "I would like to be able to use a computer or phone to enter text, or record with photos or audio, instead of writing by hand.",
+       "I would like to be able to use a calculator for sums.",
+       "I would like extra time for reading, writing and calculating.",
+       "It would help me to be given a little at a time, one thing after another."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Specific learning disabilities (including dyslexia)",
+        "why": "With dyslexia or other learning disabilities, reading, writing, spelling, understanding or doing calculations can be hard.",
+        "src": {
+         "org": "Press Information Bureau (PIB)",
+         "title": "Rashtrapati Bhawan, among other key buildings and monuments across India, illuminated in Red as part of ‘Act4Dyslexia’ campaign",
+         "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2068879",
+         "kind": "fact",
+         "upd": "2024-10-28"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and your feelings cannot keep up.",
+      "scenes": [
+       "My mood switches between being too energetic and being so low that I cannot move.",
+       "I have stretches when I hardly sleep yet feel full of energy and keep on the move.",
+       "Ideas keep coming one after another, and everything is left half done.",
+       "I have felt so bold that I spent money I later struggled to cover.",
+       "Little things make me irritable, and it is hard to keep my feelings in check.",
+       "Things I did when my mood was running high have affected my relationships or my work."
+      ],
+      "asks": [
+       "I would like to be asked about times when I felt unusually good or energetic too.",
+       "I would like us to take the time to go through my ups and downs together.",
+       "Before big decisions about money or work, it would help me if someone prompted me to stop and think first.",
+       "I would like physical causes to be looked at too, including sleep, medicines and alcohol.",
+       "If I seem different from usual, I would prefer to be told without being blamed.",
+       "I would like to be heard out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Bipolar disorder",
+        "why": "In bipolar disorder, periods of mania and periods of depression can come in episodes and take turns.",
+        "src": {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "ingp",
+       "indmhp"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs look like symptoms",
+       "body": "Once you learn the name of a condition, ordinary tiredness or spacing out can start to look like a symptom.\n\nFeelings can change how your body and mood feel, and that is not just imagination; it does happen. Lack of sleep, stress, phone use and what is going on around you can cause similar things too.\n\nEven if you see a name and think “this might be me,” try not to settle on it right away, and think about other reasons too. If the hard times continue, you are welcome to ask for help just as you are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Ups and downs and worries come with life",
+       "body": "Feeling sad, worried or stressed at times is part of life. Some worry can even help you get ready for a challenge.\n\nNames are given by health professionals, who look at how strong the difficulties are, how long they have lasted and how much they affect daily life, all together.",
+       "srcs": [
+        {
+         "org": "Ministry of Health and Family Welfare (Clinical Establishments)",
+         "title": "Guidelines for the Management of Common Mental Disorders",
+         "url": "https://clinicalestablishments.mohfw.gov.in/sites/default/files/standard-treatment-guidelines/606.pdf",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministry of Health and Family Welfare (NHSRC)",
+         "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+         "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       ]
+      },
+      {
+       "h": "You can ask for help even without a name for what is happening",
+       "body": "You can talk about what you are going through without a diagnosis.\n\nIndia’s disability rights law (the RPwD Act, 2016) asks government workplaces to provide reasonable accommodation to employees with disability, which means changes that help a person take part equally with others.",
+       "srcs": [
+        {
+         "org": "Department of Empowerment of Persons with Disabilities",
+         "title": "The Rights of Persons with Disabilities Act, 2016",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/10/202310161053958942.pdf",
+         "kind": "fact",
+         "upd": "2016-12-28"
+        }
+       ]
+      },
+      {
+       "h": "However, some kinds of support may ask for papers from a doctor",
+       "body": "Some kinds of support need papers from a doctor. For example, a UDID card is issued after a hospital checks your condition, and help in exams, such as a scribe or extra time, needs a medical certificate. Other kinds of support have their own conditions, so you can ask the office which papers you need.",
+       "srcs": [
+        {
+         "org": "Department of Empowerment of Persons with Disabilities",
+         "title": "Unique Disability ID (UDID)",
+         "url": "https://depwd.gov.in/en/unique-disability-id-udid/",
+         "kind": "fact",
+         "upd": "2026-06-11"
+        },
+        {
+         "org": "Department of Empowerment of Persons with Disabilities",
+         "title": "Guidelines for conducting written examination for persons with specified disabilities covered under the definition of Section 2(s) of the RPwD Act, 2016 but not covered under the definition of Section 2(r) of the said Act, i.e. persons having less than 40% disability and having difficulty in writing",
+         "url": "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/11/202311171714558279.pdf",
+         "kind": "fact",
+         "upd": "2022-08-10"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for a condition is not a tool for standing above anyone",
+       "body": "A name for a condition is not a tool for standing above someone or looking down on anyone.\nSome people feel relieved when they learn a name for what they are going through. That is important.\nWanting the people around you to understand you, or to be kind to you, is natural too.\n\nWhen you want someone to be kind to you, you can ask for that directly, without having to give the name of a condition.\nIt is easier to get across if you say two things together: what you are struggling with, and what you would like the other person to do.\n\nFor example, you could say:\n“I am tired today, so it would help me if you spoke slowly.”\n“I get lost when I am told many things at once, so I would prefer to be told one thing at a time.”\n“I find it hard to remember things I only hear, so it would help me if important things were written down, on paper or in an email.”\n“Crowded places are hard for me, so I would like to talk somewhere quiet.”\n“It takes me a while to answer, so I would appreciate a little time.”\n“I am overwhelmed right now, so I would like you to just listen first. Advice can come later.”\n“I am not feeling well today, so I would like to rest for a while.”\n“Sudden changes of plan throw me off, so it would help me to hear about any changes in good time.”\n“When people speak to me loudly, I get scared, so I would prefer it if people spoke calmly.”\n\nIf it is hard to say it well, you are welcome to write it on paper and hand it over. You can also use “Show it large” to show the “My worries” card, which appears in this app after you choose a worry and answer the questions.\nIf you want to tell someone the name of your condition, you are welcome to. When you do, also saying what you are struggling with and what you would like them to do makes it easier for them to help.\nSometimes the other person cannot do what you ask because of their own situation. When that happens, try talking together about whether there is another way.\n\nAt work, you can ask in the same words: “I find it hard to follow several instructions at once, so I would prefer to have them in writing.”\n\nPlease do not use the list of names in this app as a reason to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list cannot tell you whether you have any condition. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.\n\nSOYOGI is a non-profit voluntary group based in Japan. It is not a company. It has no link with Tele-MANAS, the Ministry of Health and Family Welfare or the Government of India. None of them recommends or supports this app. The names of these organisations only show where information came from.\n\nThe text in this app was written by SOYOGI in its own words, based on pages from the Ministry of Health and Family Welfare (including Tele-MANAS and NHSRC), the Department of Health Research, the Department of Empowerment of Persons with Disabilities and the Press Information Bureau.\n\nThe check date is 2026-11-18, and numbers and times may change. Times are shown as each organisation writes them. Whether to reach out is up to you, not the app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Anyone can reach out for support with their mental health. This includes everyday challenges, such as relationship conflicts, financial stress, pressure at work or exam stress.",
+      "src": {
+       "org": "Tele-MANAS (Ministry of Health and Family Welfare)",
+       "title": "Our Services",
+       "url": "https://telemanas.mohfw.gov.in/telemanas-services",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "You can talk about long-standing difficulties without a diagnosis first. Anyone can call Tele-MANAS on 14416, and, if needed, Tele-MANAS can refer callers to a mental health professional.",
+       "src": {
+        "org": "Tele-MANAS (Ministry of Health and Family Welfare)",
+        "title": "Our Services",
+        "url": "https://telemanas.mohfw.gov.in/telemanas-services",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Mental health services are also run at district hospitals under the District Mental Health Programme.",
+       "src": {
+        "org": "Press Information Bureau (PIB)",
+        "title": "Update on National Tele Mental Health Programme (NTMHP)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2118790",
+        "kind": "fact",
+        "upd": "2025-04-04"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A name (a diagnosis) is given by a health professional. To do this, they look at what the difficulty is, how long it has been there and how much it gets in the way of day-to-day life. Some physical illnesses can also bring changes in mood or worry, so these may be checked as well.",
+      "src": {
+       "org": "Ministry of Health and Family Welfare (NHSRC)",
+       "title": "Training Manual on Mental, Neurological and Substance Use (MNS) Disorders Care for Medical Officer at Ayushman Bharat ... Health and Wellness Centres",
+       "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
+       "kind": "fact",
+       "upd": "2021"
       }
      },
      "fewNote": "Only a few names could be confirmed on public health pages.",
