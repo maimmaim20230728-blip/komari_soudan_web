@@ -49,7 +49,8 @@ window.KOMARI_DATA = {
   "hk",
   "ae",
   "cl",
-  "in"
+  "in",
+  "arg"
  ],
  "c": {
   "jp": {
@@ -62,6 +63,7 @@ window.KOMARI_DATA = {
     "es": "Japón",
     "esmx": "Japón",
     "escl": "Japón",
+    "esar": "Japón",
     "nl": "Japan",
     "ko": "일본",
     "zh": "日本",
@@ -3186,6 +3188,7 @@ window.KOMARI_DATA = {
     "es": "Estados Unidos",
     "esmx": "Estados Unidos",
     "escl": "Estados Unidos",
+    "esar": "Estados Unidos",
     "nl": "Verenigde Staten",
     "ko": "미국",
     "zh": "美國",
@@ -4913,6 +4916,7 @@ window.KOMARI_DATA = {
     "es": "Francia",
     "esmx": "Francia",
     "escl": "Francia",
+    "esar": "Francia",
     "nl": "Frankrijk",
     "ko": "프랑스",
     "zh": "法國",
@@ -8306,6 +8310,7 @@ window.KOMARI_DATA = {
     "es": "Alemania",
     "esmx": "Alemania",
     "escl": "Alemania",
+    "esar": "Alemania",
     "nl": "Duitsland",
     "ko": "독일",
     "zh": "德國",
@@ -11737,6 +11742,7 @@ window.KOMARI_DATA = {
     "es": "España",
     "esmx": "España",
     "escl": "España",
+    "esar": "España",
     "nl": "Spanje",
     "ko": "스페인",
     "zh": "西班牙",
@@ -14729,6 +14735,7 @@ window.KOMARI_DATA = {
     "es": "Países Bajos",
     "esmx": "Países Bajos",
     "escl": "Países Bajos",
+    "esar": "Países Bajos",
     "nl": "Nederland",
     "ko": "네덜란드",
     "zh": "荷蘭",
@@ -17724,6 +17731,7 @@ window.KOMARI_DATA = {
     "es": "Corea del Sur",
     "esmx": "Corea del Sur",
     "escl": "Corea del Sur",
+    "esar": "Corea del Sur",
     "nl": "Zuid-Korea",
     "ko": "한국",
     "zh": "韓國",
@@ -20893,6 +20901,7 @@ window.KOMARI_DATA = {
     "es": "Taiwán",
     "esmx": "Taiwán",
     "escl": "Taiwán",
+    "esar": "Taiwán",
     "nl": "Taiwan",
     "ko": "대만",
     "zh": "臺灣",
@@ -23862,6 +23871,7 @@ window.KOMARI_DATA = {
     "es": "Italia",
     "esmx": "Italia",
     "escl": "Italia",
+    "esar": "Italia",
     "nl": "Italië",
     "ko": "이탈리아",
     "zh": "義大利",
@@ -26886,6 +26896,7 @@ window.KOMARI_DATA = {
     "es": "Suecia",
     "esmx": "Suecia",
     "escl": "Suecia",
+    "esar": "Suecia",
     "nl": "Zweden",
     "ko": "스웨덴",
     "zh": "瑞典",
@@ -30342,6 +30353,7 @@ window.KOMARI_DATA = {
     "es": "Brasil",
     "esmx": "Brasil",
     "escl": "Brasil",
+    "esar": "Brasil",
     "nl": "Brazilië",
     "ko": "브라질",
     "zh": "巴西",
@@ -33076,6 +33088,7 @@ window.KOMARI_DATA = {
     "es": "Arabia Saudí",
     "esmx": "Arabia Saudí",
     "escl": "Arabia Saudí",
+    "esar": "Arabia Saudí",
     "nl": "Saoedi-Arabië",
     "ko": "사우디아라비아",
     "zh": "沙烏地阿拉伯",
@@ -35049,6 +35062,7 @@ window.KOMARI_DATA = {
     "es": "Reino Unido",
     "esmx": "Reino Unido",
     "escl": "Reino Unido",
+    "esar": "Reino Unido",
     "nl": "Verenigd Koninkrijk",
     "ko": "영국",
     "zh": "英國",
@@ -36826,6 +36840,7 @@ window.KOMARI_DATA = {
     "es": "Australia",
     "esmx": "Australia",
     "escl": "Australia",
+    "esar": "Australia",
     "nl": "Australië",
     "ko": "오스트레일리아",
     "zh": "澳洲",
@@ -38479,6 +38494,7 @@ window.KOMARI_DATA = {
     "es": "Nueva Zelanda",
     "esmx": "Nueva Zelanda",
     "escl": "Nueva Zelanda",
+    "esar": "Nueva Zelanda",
     "nl": "Nieuw-Zeeland",
     "ko": "뉴질랜드",
     "zh": "紐西蘭",
@@ -39775,6 +39791,7 @@ window.KOMARI_DATA = {
     "es": "Irlanda",
     "esmx": "Irlanda",
     "escl": "Irlanda",
+    "esar": "Irlanda",
     "nl": "Ierland",
     "ko": "아일랜드",
     "zh": "愛爾蘭",
@@ -41162,6 +41179,7 @@ window.KOMARI_DATA = {
     "es": "Austria",
     "esmx": "Austria",
     "escl": "Austria",
+    "esar": "Austria",
     "nl": "Oostenrijk",
     "ko": "오스트리아",
     "zh": "奧地利",
@@ -44218,6 +44236,7 @@ window.KOMARI_DATA = {
     "es": "Canadá",
     "esmx": "Canadá",
     "escl": "Canadá",
+    "esar": "Canadá",
     "nl": "Canada",
     "ko": "캐나다",
     "zh": "加拿大",
@@ -47250,6 +47269,7 @@ window.KOMARI_DATA = {
     "es": "Portugal",
     "esmx": "Portugal",
     "escl": "Portugal",
+    "esar": "Portugal",
     "nl": "Portugal",
     "ko": "포르투갈",
     "zh": "葡萄牙",
@@ -49504,6 +49524,7 @@ window.KOMARI_DATA = {
     "es": "México",
     "esmx": "México",
     "escl": "México",
+    "esar": "México",
     "nl": "Mexico",
     "ko": "멕시코",
     "zh": "墨西哥",
@@ -52329,6 +52350,7 @@ window.KOMARI_DATA = {
     "es": "Singapur",
     "esmx": "Singapur",
     "escl": "Singapur",
+    "esar": "Singapur",
     "nl": "Singapore",
     "ko": "싱가포르",
     "zh": "新加坡",
@@ -53504,6 +53526,7 @@ window.KOMARI_DATA = {
     "es": "Hong Kong",
     "esmx": "Hong Kong",
     "escl": "Hong Kong",
+    "esar": "Hong Kong",
     "nl": "Hongkong",
     "ko": "홍콩",
     "zh": "香港",
@@ -56030,6 +56053,7 @@ window.KOMARI_DATA = {
     "es": "Emiratos Árabes Unidos",
     "esmx": "Emiratos Árabes Unidos",
     "escl": "Emiratos Árabes Unidos",
+    "esar": "Emiratos Árabes Unidos",
     "nl": "Verenigde Arabische Emiraten",
     "ko": "아랍에미리트",
     "zh": "阿拉伯聯合大公國",
@@ -58099,6 +58123,7 @@ window.KOMARI_DATA = {
     "es": "Chile",
     "esmx": "Chile",
     "escl": "Chile",
+    "esar": "Chile",
     "nl": "Chili",
     "ko": "칠레",
     "zh": "智利",
@@ -59870,6 +59895,7 @@ window.KOMARI_DATA = {
     "es": "India",
     "esmx": "India",
     "escl": "India",
+    "esar": "India",
     "nl": "India",
     "ko": "인도",
     "zh": "印度",
@@ -61533,6 +61559,2146 @@ window.KOMARI_DATA = {
        "url": "https://www.nhsrcindia.org/sites/default/files/2021-12/MNS%20Care%20Training%20Manual%20for%20Medical%20Officer.pdf",
        "kind": "fact",
        "upd": "2021"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "arg": {
+   "id": "arg",
+   "name": {
+    "ja": "アルゼンチン",
+    "en": "Argentina",
+    "fr": "Argentine",
+    "de": "Argentinien",
+    "es": "Argentina",
+    "esmx": "Argentina",
+    "escl": "Argentina",
+    "esar": "Argentina",
+    "nl": "Argentinië",
+    "ko": "아르헨티나",
+    "zh": "阿根廷",
+    "zhhk": "阿根廷",
+    "it": "Argentina",
+    "sv": "Argentina",
+    "pt": "Argentina",
+    "ptpt": "Argentina",
+    "ar": "الأرجنتين",
+    "hi": "अर्जेंटीना"
+   },
+   "langs": [
+    "esar",
+    "en"
+   ],
+   "main": "esar",
+   "fallback": "esar",
+   "srcLang": "esar",
+   "freeHosts": [],
+   "adaptHosts": [
+    "argentina.gob.ar"
+   ],
+   "srcNote": {
+    "argentina.gob.ar": "CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es"
+   },
+   "factRef": true,
+   "ver": "2026-11-20",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "argurg",
+     "band": "now",
+     "tel": "911",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/tema/emergencias",
+     "linkOk": false,
+     "esar": {
+      "name": "Emergencias: 911",
+      "desc": "Llamá al 911 si necesitás una ambulancia de emergencias o a la policía. En la Ciudad de Buenos Aires y en localidades de la provincia de Buenos Aires también funciona el 107 (SAME, emergencias médicas).",
+      "hours": "Para emergencias.",
+      "src": {
+       "org": "argentina.gob.ar",
+       "title": "Emergencias",
+       "url": "https://www.argentina.gob.ar/tema/emergencias",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Emergencies: 911",
+      "desc": "Call 911 if you need an emergency ambulance or the police. In the City of Buenos Aires and in some places in Buenos Aires Province, 107 (SAME, medical emergencies) also works.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "argentina.gob.ar",
+       "title": "Emergencias",
+       "url": "https://www.argentina.gob.ar/tema/emergencias",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "argentina.gob.ar",
+      "title": "Emergencias",
+      "url": "https://www.argentina.gob.ar/tema/emergencias",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "arg0800",
+     "band": "now",
+     "tel": "0800 999 0091",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/salud/hospitalbonaparte/hospital-en-red/dispositivo-0800",
+     "linkOk": false,
+     "esar": {
+      "name": "Línea Nacional de Salud Mental: 0800 999 0091",
+      "desc": "Línea Nacional de Orientación y Apoyo en la Urgencia de Salud Mental (Ministerio de Salud, Hospital Nacional Laura Bonaparte). Atención gratuita y confidencial en todo el país. No reemplaza a la guardia ni a los servicios de emergencia médica.",
+      "hours": "Las 24 horas, los 365 días del año.",
+      "src": {
+       "org": "Hospital Nacional Laura Bonaparte, Ministerio de Salud (argentina.gob.ar)",
+       "title": "Dispositivo 0800",
+       "url": "https://www.argentina.gob.ar/salud/hospitalbonaparte/hospital-en-red/dispositivo-0800",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "National Mental Health Line: 0800 999 0091",
+      "desc": "National Line for Guidance and Support in Urgent Mental Health Situations (Ministry of Health, Laura Bonaparte National Hospital). Free and confidential, across the country. It does not replace the hospital emergency department or emergency medical services.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Hospital Nacional Laura Bonaparte, Ministerio de Salud (argentina.gob.ar)",
+       "title": "Dispositivo 0800",
+       "url": "https://www.argentina.gob.ar/salud/hospitalbonaparte/hospital-en-red/dispositivo-0800",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Hospital Nacional Laura Bonaparte, Ministerio de Salud (argentina.gob.ar)",
+      "title": "Dispositivo 0800",
+      "url": "https://www.argentina.gob.ar/salud/hospitalbonaparte/hospital-en-red/dispositivo-0800",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "arg144",
+     "band": "now",
+     "tel": "144",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/justicia/proteccion-contra-toda-forma-de-violencia",
+     "linkOk": false,
+     "esar": {
+      "name": "Línea 144",
+      "desc": "Línea 144 del Ministerio de Justicia: atención, contención y asesoramiento para personas en situación de violencia, de manera gratuita y en todo el país. También por WhatsApp. No es una línea de emergencia: si hay peligro, llamá al 911.",
+      "hours": "Las 24 horas.",
+      "src": {
+       "org": "Ministerio de Justicia (argentina.gob.ar)",
+       "title": "Protección contra toda forma de violencia",
+       "url": "https://www.argentina.gob.ar/justicia/proteccion-contra-toda-forma-de-violencia",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Line 144",
+      "desc": "Line 144 of the Ministry of Justice: care, support and advice for people in situations of violence, free and across the country. Also by WhatsApp. It is not an emergency line: if there is danger, call 911.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Ministerio de Justicia (argentina.gob.ar)",
+       "title": "Protección contra toda forma de violencia",
+       "url": "https://www.argentina.gob.ar/justicia/proteccion-contra-toda-forma-de-violencia",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Justicia (argentina.gob.ar)",
+      "title": "Protección contra toda forma de violencia",
+      "url": "https://www.argentina.gob.ar/justicia/proteccion-contra-toda-forma-de-violencia",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "arg137",
+     "band": "now",
+     "tel": "137",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/justicia/violencia-familiar-sexual",
+     "linkOk": false,
+     "esar": {
+      "name": "Línea 137",
+      "desc": "Línea 137 del Ministerio de Justicia: asistencia y acompañamiento para víctimas de violencia familiar o sexual (opción 1). También podés escribir por WhatsApp al (54911) 3133-1000. Por convenio, también funciona en Misiones (Posadas, Garupá, Eldorado y Oberá) y en Chaco (Resistencia).",
+      "hours": "Las 24 horas, los 365 días del año.",
+      "src": {
+       "org": "Ministerio de Justicia (argentina.gob.ar)",
+       "title": "Línea 137",
+       "url": "https://www.argentina.gob.ar/justicia/violencia-familiar-sexual",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Line 137",
+      "desc": "Line 137 of the Ministry of Justice: help and support for victims of family or sexual violence (option 1). You can also send a WhatsApp message to (54911) 3133-1000. By agreement, it also works in Misiones (Posadas, Garupá, Eldorado and Oberá) and in Chaco (Resistencia).",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Ministerio de Justicia (argentina.gob.ar)",
+       "title": "Línea 137",
+       "url": "https://www.argentina.gob.ar/justicia/violencia-familiar-sexual",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Justicia (argentina.gob.ar)",
+      "title": "Línea 137",
+      "url": "https://www.argentina.gob.ar/justicia/violencia-familiar-sexual",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argcaps",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+     "linkOk": false,
+     "esar": {
+      "name": "Centro de salud (CAPS) u hospital general",
+      "desc": "Para consultar por tu salud mental podés ir a un Centro de Atención Primaria de la Salud (CAPS) o a un hospital general. La salud mental se atiende en los mismos lugares que la salud física.",
+      "hours": "Depende de cada lugar.",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "Salud mental",
+       "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Health centre (CAPS) or general hospital",
+      "desc": "To talk about your mental health you can go to a Primary Health Care Centre (CAPS) or a general hospital. Mental health is cared for in the same places as physical health.",
+      "hours": "It depends on each place.",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "Salud mental",
+       "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud (argentina.gob.ar)",
+      "title": "Salud mental",
+      "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argsedro",
+     "band": "day",
+     "tel": "141",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/salud/sedronar",
+     "linkOk": false,
+     "esar": {
+      "name": "Sedronar: Línea 141",
+      "desc": "Línea 141 de la Sedronar (Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina), para consumos problemáticos de sustancias. Podés comunicarte de forma gratuita, anónima y en todo el país. También podés escribir un correo electrónico.",
+      "hours": "Las 24 horas, todos los días.",
+      "src": {
+       "org": "Sedronar, Ministerio de Salud (argentina.gob.ar)",
+       "title": "Sedronar",
+       "url": "https://www.argentina.gob.ar/salud/sedronar",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Sedronar: Line 141",
+      "desc": "Sedronar Line 141 (the national secretariat for drug policy), for problematic use of substances. Calls are free, anonymous and available throughout the country. You can also write an email.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Sedronar, Ministerio de Salud (argentina.gob.ar)",
+       "title": "Sedronar",
+       "url": "https://www.argentina.gob.ar/salud/sedronar",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Sedronar, Ministerio de Salud (argentina.gob.ar)",
+      "title": "Sedronar",
+      "url": "https://www.argentina.gob.ar/salud/sedronar",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argsr",
+     "band": "day",
+     "tel": "0800-222-1002",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/salud/0800saludresponde",
+     "linkOk": false,
+     "esar": {
+      "name": "0800 Salud Responde: 0800-222-1002",
+      "desc": "Línea de orientación del Ministerio de Salud sobre otros temas de salud (opción 9). La llamada es gratuita desde cualquier lugar del país.",
+      "hours": "",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "0800 Salud Responde",
+       "url": "https://www.argentina.gob.ar/salud/0800saludresponde",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "0800 Salud Responde: 0800-222-1002",
+      "desc": "Ministry of Health line with guidance on other health topics (option 9). The call is free from anywhere in the country.",
+      "hours": "",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "0800 Salud Responde",
+       "url": "https://www.argentina.gob.ar/salud/0800saludresponde",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud (argentina.gob.ar)",
+      "title": "0800 Salud Responde",
+      "url": "https://www.argentina.gob.ar/salud/0800saludresponde",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argdisc",
+     "band": "day",
+     "tel": "0800 555 3472",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/cud/requisitos",
+     "linkOk": false,
+     "esar": {
+      "name": "Secretaría Nacional de Discapacidad: 0800 555 3472",
+      "desc": "Secretaría Nacional de Discapacidad: información sobre el Certificado Único de Discapacidad (CUD).",
+      "hours": "Días hábiles, de 8 a 18 h.",
+      "src": {
+       "org": "Secretaría Nacional de Discapacidad (argentina.gob.ar)",
+       "title": "Dónde ir y qué llevar para tramitar el Certificado Único de Discapacidad (CUD)",
+       "url": "https://www.argentina.gob.ar/cud/requisitos",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "National Disability Secretariat: 0800 555 3472",
+      "desc": "National Disability Secretariat: information about the Certificado Único de Discapacidad (CUD).",
+      "hours": "Working days, 8:00 to 18:00.",
+      "src": {
+       "org": "Secretaría Nacional de Discapacidad (argentina.gob.ar)",
+       "title": "Dónde ir y qué llevar para tramitar el Certificado Único de Discapacidad (CUD)",
+       "url": "https://www.argentina.gob.ar/cud/requisitos",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Secretaría Nacional de Discapacidad (argentina.gob.ar)",
+      "title": "Dónde ir y qué llevar para tramitar el Certificado Único de Discapacidad (CUD)",
+      "url": "https://www.argentina.gob.ar/cud/requisitos",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argtrab",
+     "band": "day",
+     "tel": "0800 666 4100",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/trabajo/orientacion",
+     "linkOk": false,
+     "esar": {
+      "name": "Orientación sobre trabajo: 0800 666 4100",
+      "desc": "Centro de Orientación al Ciudadano (Trabajo, Ministerio de Capital Humano): consultas sobre la Ley de Contrato de Trabajo, asesoramiento sobre violencia laboral y denuncias de trabajo no registrado.",
+      "hours": "De lunes a viernes, de 8 a 20 h.",
+      "src": {
+       "org": "Ministerio de Capital Humano (argentina.gob.ar)",
+       "title": "Centro de Orientación al Ciudadano",
+       "url": "https://www.argentina.gob.ar/trabajo/orientacion",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Work guidance: 0800 666 4100",
+      "desc": "Citizen Guidance Centre (Labour, Ministry of Human Capital): questions about the Employment Contract Law, advice on workplace violence, and reports of unregistered work.",
+      "hours": "Monday to Friday, 8:00 to 20:00.",
+      "src": {
+       "org": "Ministerio de Capital Humano (argentina.gob.ar)",
+       "title": "Centro de Orientación al Ciudadano",
+       "url": "https://www.argentina.gob.ar/trabajo/orientacion",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Capital Humano (argentina.gob.ar)",
+      "title": "Centro de Orientación al Ciudadano",
+      "url": "https://www.argentina.gob.ar/trabajo/orientacion",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argsss",
+     "band": "day",
+     "tel": "0800-222-72583",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/sssalud",
+     "linkOk": false,
+     "esar": {
+      "name": "Superintendencia de Servicios de Salud: 0800-222-72583",
+      "desc": "Controla a las obras sociales nacionales y a las entidades de medicina prepaga. Podés hacer trámites, consultas y denuncias.",
+      "hours": "De 8 a 16 h.",
+      "src": {
+       "org": "Superintendencia de Servicios de Salud (argentina.gob.ar)",
+       "title": "Superintendencia de Servicios de Salud",
+       "url": "https://www.argentina.gob.ar/sssalud",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Superintendence of Health Services: 0800-222-72583",
+      "desc": "It oversees the national health insurance funds (obras sociales) and prepaid medicine entities. You can carry out procedures, make enquiries and file complaints.",
+      "hours": "8:00 to 16:00.",
+      "src": {
+       "org": "Superintendencia de Servicios de Salud (argentina.gob.ar)",
+       "title": "Superintendencia de Servicios de Salud",
+       "url": "https://www.argentina.gob.ar/sssalud",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Superintendencia de Servicios de Salud (argentina.gob.ar)",
+      "title": "Superintendencia de Servicios de Salud",
+      "url": "https://www.argentina.gob.ar/sssalud",
+      "kind": "summary",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "argrev",
+     "band": "day",
+     "tel": "0800-333-6776",
+     "tel2": "",
+     "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/respeto",
+     "linkOk": false,
+     "esar": {
+      "name": "Órgano de Revisión de la Ley de Salud Mental: 0800-333-6776",
+      "desc": "Si te sentís vulnerado o vulnerada, o querés denunciar un incumplimiento de la ley de salud mental, podés llamar al Órgano de Revisión de la Ley de Salud Mental.",
+      "hours": "",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "Todas las personas con padecimientos mentales deben ser respetadas",
+       "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/respeto",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Mental Health Law Review Body: 0800-333-6776",
+      "desc": "If you feel your rights have been violated, or you want to report that the mental health law is not being followed, you can call the Mental Health Law Review Body.",
+      "hours": "",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "Todas las personas con padecimientos mentales deben ser respetadas",
+       "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/respeto",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud (argentina.gob.ar)",
+      "title": "Todas las personas con padecimientos mentales deben ser respetadas",
+      "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/respeto",
+      "kind": "summary",
+      "upd": "none"
+     }
+    }
+   ],
+   "esar": {
+    "groups": {
+     "mood": {
+      "label": "Ánimo bajo, sin energía",
+      "lead": "Cuando el ánimo sigue bajo y cuesta encontrar fuerzas para cualquier cosa.",
+      "scenes": [
+       "Tengo el ánimo bajo de la mañana a la noche.",
+       "Las cosas que antes me gustaban ya no me hacen disfrutar.",
+       "No tengo fuerzas ni puedo concentrarme, así que el trabajo y las tareas de la casa quedan sin hacer.",
+       "Me culpo por todo y siempre pienso lo peor.",
+       "De noche no puedo dormir, o duermo demasiado. Perdí el apetito y el cuerpo me pesa.",
+       "A veces quiero desaparecer o ya no estar acá."
+      ],
+      "asks": [
+       "Me ayuda que me expliquen lo que hay que hacer, de a una cosa por vez.",
+       "Necesito tiempo para pensar: prefiero que no me apuren para responder ni para decidir.",
+       "Prefiero que me den por escrito lo importante.",
+       "Antes de decirme “¡Animate!” o “¡Ponele ganas!”, me ayuda que me escuchen primero.",
+       "Cuando descanso, prefiero que no piensen que es fiaca.",
+       "Me ayuda que revisen conmigo si alguna enfermedad física o algún medicamento que tomo puede influir."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión secundaria a una enfermedad orgánica",
+        "why": "Este material de formación para equipos de salud explica que, ante un ánimo muy bajo, conviene revisar si alguna enfermedad del cuerpo puede estar causando una depresión secundaria.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Este artículo de un hospital nacional explica que la depresión trae un ánimo muy bajo, pérdida de interés y de la capacidad de disfrutar, y menos energía, y que puede causar mucho sufrimiento y alterar el trabajo, el estudio y la vida familiar.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Este material de formación para equipos de salud explica que en el trastorno bipolar, que también se conoce como enfermedad maníaco depresiva, hay cambios muy grandes del ánimo, que pueden ir de una euforia muy intensa a una depresión profunda.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mucha preocupación o tensión",
+      "lead": "Preocupaciones que no se van, el corazón acelerado e inquietud, dificultades frente a otras personas o al salir de casa, y cosas parecidas.",
+      "scenes": [
+       "Cuando tengo que hablar delante de otras personas o me miran, siento tanta ansiedad que me quedo en blanco.",
+       "De repente el corazón me late muy rápido y me falta el aire. Me preocupa que vuelva a pasar y por eso me cuesta salir de casa.",
+       "Sin un motivo claro, me preocupo por una cosa tras otra, siento mucha inquietud y no me quedan fuerzas.",
+       "La paso mal en los lugares de los que es difícil salir, como el subte, el colectivo, los shoppings o los lugares con mucha gente, y también cuando salgo de casa sin compañía. Por eso trato de evitarlos.",
+       "Como evito lo que me da miedo, cada vez voy a menos lugares y veo a menos gente. Mi vida se fue haciendo más chica.",
+       "Las preocupaciones no se me van de la cabeza y por la noche me cuesta dormirme."
+      ],
+      "asks": [
+       "Cuando hablo, me ayuda que me den tiempo y no me apuren.",
+       "Prefiero que me expliquen de antemano el plan y cómo va a ser todo.",
+       "Prefiero que no me pidan mi opinión de golpe delante de otras personas, y poder responder también por escrito.",
+       "Si me siento mal, me ayuda poder salir un momento a descansar.",
+       "Prefiero hablar en un lugar tranquilo y con pocas personas.",
+       "Antes de decirme que me preocupo demasiado, me ayuda que escuchen primero lo que me cuesta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ansiedad secundaria a una enfermedad física o a medicamentos",
+        "why": "Este material de formación para equipos de salud explica que algunas enfermedades del cuerpo (por ejemplo, trastornos cardiovasculares, tirotoxicosis o anemia) y algunos medicamentos pueden producir ansiedad.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada (TAG)",
+        "why": "Este material de formación para equipos de salud explica que en el trastorno de ansiedad generalizada hay una preocupación que no para y cuesta controlar, acompañada de otras molestias propias de la ansiedad.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Fobia social",
+        "why": "Este material de formación para equipos de salud explica que la fobia social es un miedo intenso a la mirada atenta o a la crítica de otras personas en ciertas situaciones, por ejemplo al hablar en público, y que lleva a evitarlas.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Trastorno por estrés postraumático (TEPT)",
+        "why": "Este material de formación para equipos de salud explica que este trastorno se puede presentar en personas que pasaron por algo que las amenazó de forma grave, y que trae recuerdos cargados de ansiedad, con la sensación de estar viviéndolo otra vez.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Este artículo de un hospital nacional explica que la depresión puede presentarse junto a ansiedad, alteraciones del sueño y del apetito, sentimientos de culpa y problemas de concentración.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Me cuesta dejar de revisar o de repetir",
+      "lead": "Cuando revisás una y otra vez la puerta o el gas, te lavás las manos o repetís otras acciones y te cuesta parar aunque quieras.",
+      "scenes": [
+       "Al salir de casa necesito revisar una y otra vez si cerré bien la puerta o la llave de gas; si no, no puedo irme con tranquilidad.",
+       "Me lavo las manos o el cuerpo cada vez más veces y, aunque quiero parar, no puedo.",
+       "La misma preocupación me vuelve a la cabeza una y otra vez y no logro dejar de pensar en ella, aunque quiero.",
+       "Si las cosas no están ordenadas o no se hacen en el orden que tengo fijado, me inquieto y termino ordenándolas de nuevo o empezando otra vez.",
+       "Tardo tanto en revisar las cosas que salgo de casa más tarde de lo previsto o llego tarde a mis turnos y al trabajo.",
+       "Mi cuerpo se mueve o hago sonidos sin querer, y me cuesta parar aunque lo intente."
+      ],
+      "asks": [
+       "Prefiero que no me digan que exagero y que primero me escuchen.",
+       "Revisar las cosas me lleva tiempo, así que me ayuda que se deje un margen.",
+       "Cuando cambien los planes o los pasos a seguir, prefiero que me avisen con anticipación.",
+       "Prefiero que no me señalen ni se rían de mí delante de otras personas cuando estoy revisando algo o lavándome las manos.",
+       "Me ayuda que me den las explicaciones y las indicaciones de a una y por escrito.",
+       "Antes de decidir cómo seguimos, prefiero que escuchen mis preocupaciones y que lo decidamos con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno obsesivo compulsivo (TOC)",
+        "why": "Este material de formación para equipos de salud explica que en el TOC hay pensamientos que se repiten y generan ansiedad, o acciones que se repiten y que, cuando no se llevan a cabo, generan mucha ansiedad.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Trastorno del Espectro Autista (TEA)",
+        "why": "Esta página explica que el TEA incluye comportamientos repetitivos, restringidos y estereotipados, además de alteraciones en la comunicación y en la forma de relacionarse, y que en general acompaña a la persona toda la vida.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Trastorno del Espectro Autista (TEA)",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/autismo",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Una experiencia dura me sigue afectando",
+      "lead": "Recuerdos que vuelven una y otra vez, dormir mal o una tensión que no se va después de una experiencia dura.",
+      "scenes": [
+       "Por cualquier detalle, de repente vuelven la escena y las sensaciones de aquel momento tan duro.",
+       "Tengo pesadillas parecidas una y otra vez y muchas noches no logro dormir profundo.",
+       "Estoy siempre en tensión y hasta un ruido chico o un imprevisto me sobresalta.",
+       "Siempre que puedo, evito los lugares, las personas y los temas que me recuerdan aquello, y mi vida diaria se fue haciendo más chica.",
+       "Es como si algo dentro mío se hubiera apagado, y ya no logro sentir por mi familia y mis amistades lo mismo que antes.",
+       "Cada vez me culpo más, o me cuesta más confiar en la gente que me rodea."
+      ],
+      "asks": [
+       "Prefiero que no me pregunten todos los detalles de lo que pasó. Quiero contarlo a mi ritmo y hasta donde pueda.",
+       "Hay sonidos, lugares y temas que lo reviven todo. Me ayuda que se acepte que prefiero evitarlos.",
+       "Me ayuda que no me hablen de golpe por la espalda ni hagan ruidos fuertes cerca de mí.",
+       "Cuando hablar me cuesta demasiado, prefiero poder entregar algo escrito.",
+       "Hay días en que no duermo o en que no se me va el cansancio. Prefiero que no se tome por fiaca.",
+       "Prefiero que no me apuren con frases como “Olvidalo” o “Superalo”, y que haya un lugar donde pueda hablar con tranquilidad."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno por estrés postraumático (TEPT)",
+        "why": "Este material de formación para equipos de salud explica que este trastorno puede darse en personas que pasaron por una situación de mucho peligro, y que lo vivido puede volver a la memoria como si estuviera pasando de nuevo, también en sueños.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "sleep": {
+      "label": "Dificultades con el sueño",
+      "lead": "Te cuesta dormirte, te despertás por la noche, te cuesta levantarte o durante el día te da mucho sueño.",
+      "scenes": [
+       "Aunque me acueste, tardo mucho en dormirme.",
+       "Me despierto varias veces por la noche y no duermo de un tirón hasta la mañana.",
+       "A la hora de levantarme no puedo hacerlo, y llego tarde al trabajo o a clase una y otra vez.",
+       "Durante el día me da un sueño muy fuerte y estoy a punto de cabecear en una reunión o al manejar.",
+       "Mi familia me dice que ronco muy fuerte y que, mientras duermo, parece que se me corta la respiración.",
+       "Al caer la tarde y por la noche siento en las piernas una sensación incómoda que no me deja descansar ni dormir."
+      ],
+      "asks": [
+       "Me ayuda que se tomen el tiempo de preguntarme cómo duermo: cuánto tardo en dormirme, si me despierto de noche, lo que me cuesta levantarme y cuánto sueño tengo de día.",
+       "Prefiero que repasen conmigo los medicamentos que tomo y mis hábitos con el café, el alcohol y el cigarrillo, para ver qué puede estar influyendo.",
+       "Me ayuda que no den por hecho que es cuestión de actitud, y que se revise también la salud del cuerpo y el estado de ánimo.",
+       "Prefiero explicar mis horarios con una nota escrita, con la hora a la que me acuesto y a la que me levanto, y que la revisen con calma.",
+       "Si hay que tomar algún medicamento, me ayuda que me expliquen con palabras sencillas cómo funciona y qué cuidados requiere.",
+       "Por las mañanas me cuesta mucho, así que prefiero que me den un turno por la tarde."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Apnea obstructiva del sueño",
+        "why": "Este artículo explica que la apnea obstructiva del sueño corta la respiración mientras se duerme, y que suele venir con ronquidos fuertes, despertares con sensación de ahogo y mucho cansancio durante el día.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud desarrolla la primera encuesta sobre apnea obstructiva del sueño en Argentina",
+         "url": "https://www.argentina.gob.ar/noticias/salud-desarrolla-la-primera-encuesta-sobre-apnea-obstructiva-del-sueno-en-argentina",
+         "kind": "summary",
+         "upd": "2019-11-13"
+        }
+       },
+       {
+        "name": "Insomnio secundario",
+        "why": "Este material de formación para equipos de salud explica que el insomnio también puede aparecer junto con otros problemas: enfermedades médicas o neurológicas, medicamentos o sustancias, la apnea del sueño o el síndrome de las piernas inquietas.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Este material de formación para equipos de salud explica que el insomnio es la dificultad para dormirse o para seguir durmiendo durante la noche, y que también incluye despertarse antes de tiempo sin quererlo.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Este artículo de un hospital nacional explica que la depresión puede ir acompañada de alteraciones del sueño y del apetito.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificultades con la comida",
+      "lead": "Cuando comer se vuelve difícil: no podés comer mucho, no podés parar o comer te da miedo.",
+      "scenes": [
+       "No tengo ganas de comer y hay muchos días en que la comida casi no me pasa por la garganta.",
+       "Cuando empiezo a comer no logro parar, y a veces como tanto que me siento mal.",
+       "Sin darme cuenta, no dejo de pensar en la comida y me cuesta concentrarme en otras cosas.",
+       "Solo puedo comer muy pocas cosas, y evito muchos alimentos porque el sabor, el olor o la textura me resultan muy desagradables.",
+       "Desde que me atraganté con algo de comida o vomité, comer me da miedo.",
+       "Por la noche como entre sueños y, por la mañana, a veces no me acuerdo de nada."
+      ],
+      "asks": [
+       "Prefiero que no hagan comentarios sobre mi cuerpo ni sobre mi aspecto.",
+       "Me ayuda que no me obliguen a comer ni me apuren para hacerlo.",
+       "Cuando se come en grupo, me ayuda que me dejen elegir otro lugar u otro momento.",
+       "Prefiero que me pregunten antes qué puedo comer y qué olores o texturas me cuestan.",
+       "Me ayuda que me expliquen antes cómo va a ser la consulta y qué estudios se van a hacer.",
+       "Prefiero poder entregar por escrito lo que me cuesta decir en voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastornos alimentarios",
+        "why": "Esta página explica que los trastornos alimentarios son alteraciones en la forma de comer, y que la ley protege el derecho a la salud de las personas que los tienen y las ampara frente a la discriminación.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Trastornos alimentarios",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/trastornos-alimentarios",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Este artículo de un hospital nacional explica que con la depresión también pueden aparecer alteraciones del apetito y del sueño.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Me cuesta dejar el alcohol, las apuestas o los videojuegos",
+      "lead": "Cuando querés dejarlo o hacerlo menos, pero seguís.",
+      "scenes": [
+       "Me propongo dejarlo o hacerlo menos, pero después me doy cuenta de que sigo igual.",
+       "No consigo respetar el tiempo, la cantidad ni la plata que me había puesto como límite para hoy.",
+       "Les oculto a las personas cercanas que tomo alcohol, que apuesto o que juego videojuegos, o lo disimulo con excusas.",
+       "Me quedo hasta muy tarde jugando videojuegos, a la mañana no consigo levantarme y cada vez con más frecuencia llego tarde o falto al trabajo o a clase.",
+       "Cuando pierdo plata en apuestas deportivas, en apuestas en línea o en las tragamonedas de los casinos, quiero recuperarla y vuelvo a apostar.",
+       "Aunque sé que mi cuerpo se está resintiendo, no consigo tomar menos alcohol."
+      ],
+      "asks": [
+       "Me ayuda que primero me escuchen, sin culparme ni sacar conclusiones antes de tiempo.",
+       "Me ayuda que me acompañen a ir viendo, paso a paso, cómo es mi día a día con esto y qué dificultades me trae.",
+       "Me gustaría que también se revisaran mi sueño y mi salud física.",
+       "Me ayuda que me digan de forma concreta dónde puedo recibir apoyo y a qué lugares puedo acudir.",
+       "Me gustaría saber si mi familia o una persona cercana puede venir conmigo al turno.",
+       "Prefiero que antes me digan a quién se le va a contar lo que cuento y hasta qué punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Consumo problemático",
+        "why": "Esta página explica que un consumo problemático es una conducta que una persona no puede controlar y que afecta su salud o sus relaciones, y que puede ser con el alcohol, el juego o la tecnología, entre otros.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Adicciones y consumos problemáticos",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/adicciones-y-consumos-problematicos",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Consumo perjudicial y dependencia (alcohol y otras sustancias)",
+        "why": "Este material de formación para equipos de salud explica que el consumo perjudicial es un modo de usar sustancias que hace daño a la salud, y que puede traer problemas en la vida familiar, en el trabajo o el estudio y en la vida social.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Trastorno por juego de apuestas",
+        "why": "Este informe explica que el trastorno por juego de apuestas, en línea o no, se ubica entre los trastornos debidos a comportamientos adictivos, y que en él cuesta controlar el juego aunque traiga consecuencias negativas.",
+        "src": {
+         "org": "Sedronar (Observatorio Argentino de Drogas, argentina.gob.ar)",
+         "title": "Juegos con dinero y apuestas. Dimensiones de análisis, regulación estatal y su magnitud en población universitaria argentina",
+         "url": "https://www.argentina.gob.ar/sites/default/files/2020/11/observatorio-argentino-drogas-2025-juegos-dinero-apuestas.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsedro",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificultades de atención u organización",
+      "lead": "Dificultades para concentrarte, avanzar paso a paso o acordarte de las cosas.",
+      "scenes": [
+       "Aunque alguien me esté hablando, mi mente se va a otro lado sin que me dé cuenta.",
+       "No consigo sacar adelante mi trabajo o las tareas de la casa en orden, y se me pasan los plazos.",
+       "Muchas veces no me acuerdo de lo que me pidieron o de lo que prometí, o pierdo cosas.",
+       "Si llevo mucho rato con la misma tarea, se me juntan los errores por descuido.",
+       "Me cuesta estar mucho rato sin moverme y siento una inquietud que no me deja parar.",
+       "Las personas a mi alrededor me dicen que muchas veces se me olvidan las cosas o que llego tarde."
+      ],
+      "asks": [
+       "Me ayuda que me den las instrucciones una por una.",
+       "Prefiero que lo importante me lo den por escrito.",
+       "Me ayuda que me avisen con tiempo de los plazos y de los turnos.",
+       "Me ayuda que no me pidan muchas cosas a la vez, sino que las dividan en partes pequeñas.",
+       "Me gustaría hablar en un lugar tranquilo, donde me distraiga menos.",
+       "Me ayuda que se reconozca lo que sí logré, en vez de reprocharme lo que no."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Apnea obstructiva del sueño",
+        "why": "Este artículo explica que la apnea obstructiva del sueño puede traer somnolencia y dificultad en la concentración y la memoria durante el día.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud desarrolla la primera encuesta sobre apnea obstructiva del sueño en Argentina",
+         "url": "https://www.argentina.gob.ar/noticias/salud-desarrolla-la-primera-encuesta-sobre-apnea-obstructiva-del-sueno-en-argentina",
+         "kind": "summary",
+         "upd": "2019-11-13"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Este artículo de un hospital nacional explica que la depresión puede venir junto con dificultades para concentrarse.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argdisc",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificultades con el trato, las rutinas o los sentidos",
+      "lead": "Dificultades para hablar o estar con otras personas, una gran necesidad de hacer las cosas de una manera concreta, o ruidos, luces y olores difíciles de soportar.",
+      "scenes": [
+       "En una conversación me cuesta captar lo que siente la otra persona o el clima del momento, y muchas veces siento que no nos entendemos.",
+       "Cuando tengo que hablar frente a otras personas o todas las miradas se dirigen a mí, siento mucha tensión y termino evitándolo.",
+       "Con las personas cercanas sí puedo hablar, pero frente a otras no me sale la voz.",
+       "Si cambia mi manera de hacer las cosas, el orden de los pasos o el lugar donde están mis cosas, siento una inquietud muy fuerte.",
+       "Los ruidos, las luces y los olores me resultan demasiado intensos, y los lugares con mucha gente se me hacen muy difíciles.",
+       "Me cuesta oír lo que dicen los demás, o tengo el ánimo bajo, y ver a la gente o hablar con ella se me volvió muy difícil."
+      ],
+      "asks": [
+       "Me ayuda que me hablen despacio y con claridad.",
+       "Me ayuda que me escriban lo importante.",
+       "Me gustaría hablar en un lugar tranquilo.",
+       "Me ayuda que me avisen antes si cambian los planes o la forma de hacer las cosas.",
+       "Prefiero que no me apuren y que me den tiempo para responder.",
+       "Me gustaría poder responder por escrito o con una nota breve, en lugar de hablar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hipoacusia",
+        "why": "Esta página explica que la hipoacusia es una dificultad para oír que complica la comunicación, por ejemplo, seguir una conversación entre dos o más personas.",
+        "src": {
+         "org": "Ministerio de Salud (Glosario de Salud, argentina.gob.ar)",
+         "title": "Hipoacusia",
+         "url": "https://www.argentina.gob.ar/salud/glosario/hipoacusia-sordera",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Fobia social",
+        "why": "Este material de formación para equipos de salud explica que la fobia social es un miedo intenso a quedar bajo la mirada o la crítica de otras personas, y que lleva a evitar esas situaciones.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Trastorno del Espectro Autista (TEA)",
+        "why": "Esta página explica que el TEA afecta la forma de relacionarse y comunicarse con otras personas, que se manifiesta de manera muy distinta en cada persona y que en general acompaña a la persona toda la vida.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Trastorno del Espectro Autista (TEA)",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/autismo",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argdisc",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Dificultades para leer, escribir o calcular",
+      "lead": "Cuando leer, escribir o manejar números sigue costando aunque te esfuerces.",
+      "scenes": [
+       "Me lleva más tiempo que a otras personas leer un texto, y muchas veces tengo que releerlo.",
+       "Aunque lea, el contenido no se me queda, y me cuesta entender lo que dicen los documentos o las cartas.",
+       "Me cuesta la ortografía: cometo muchos errores o se me van letras o palabras al escribir.",
+       "Mi letra me sale despareja, y escribir me lleva mucho tiempo y mucho esfuerzo.",
+       "Me trabo con las cuentas sencillas y con los problemas que vienen planteados en un texto.",
+       "Puedo hablar y escuchar sin dificultad, pero con la lectura, la escritura o las cuentas no avanzo como quisiera, aunque me tome mucho tiempo."
+      ],
+      "asks": [
+       "Me ayuda que me den los textos en letra grande y con más espacio entre los renglones, o en lectura fácil.",
+       "Prefiero que lo importante me lo lean en voz alta o me lo expliquen en persona.",
+       "Me ayuda poder escribir en la computadora o en el celular, o dejar constancia con fotos o audios, en lugar de escribir a mano.",
+       "Me ayuda poder usar una calculadora para las cuentas.",
+       "Me ayuda que me den más tiempo para leer, escribir y hacer cuentas.",
+       "Prefiero que me den las cosas una por una y no todas a la vez."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dificultades Específicas del Aprendizaje (DEA), como la dislexia",
+        "why": "Esta página explica que las Dificultades Específicas del Aprendizaje, como la dislexia, afectan la lectura, la escritura o el cálculo, y que la ley también alcanza a personas adultas.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Dificultades Específicas del Aprendizaje (DEA)",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/dificultades-especificas-del-aprendizaje-dea",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argdisc",
+       "argsss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Grandes altibajos de ánimo",
+      "lead": "Cuando el ánimo sube y baja mucho y cuesta seguir el ritmo de tus propias emociones.",
+      "scenes": [
+       "Se alternan etapas de demasiada energía con etapas de ánimo tan bajo que casi no puedo moverme.",
+       "Hay etapas en las que duermo muy poco y aun así tengo mucha energía y no paro de moverme.",
+       "Se me ocurre una idea tras otra y todo queda a medias.",
+       "En etapas de mucha euforia gasté tanta plata que después tuve problemas.",
+       "Me irrito por cualquier cosa y me cuesta contener mis emociones.",
+       "Lo que hice cuando mi ánimo estaba muy arriba afectó mis relaciones o mi trabajo."
+      ],
+      "asks": [
+       "Me ayuda que me pregunten también por las etapas en las que sentí una energía fuera de lo común.",
+       "Me ayuda que se den el tiempo de repasar conmigo mis subidas y bajadas de ánimo.",
+       "Me ayuda que, antes de decisiones importantes sobre plata o trabajo, me animen a parar y a pensar primero.",
+       "Prefiero que también se tomen en cuenta las causas físicas, incluidos el sueño, los medicamentos y el alcohol.",
+       "Si notan que algo cambió en mí respecto de cómo soy siempre, prefiero que me lo digan sin reprocharme nada.",
+       "Me ayuda que me escuchen hasta el final, tanto cuando estoy arriba como cuando estoy abajo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno bipolar",
+        "why": "Este material de formación para equipos de salud explica que en el trastorno bipolar hay episodios que se repiten, con cambios grandes en el ánimo y en la actividad, que pueden ir de mucha euforia a una depresión profunda.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conocer un nombre puede hacer que los altibajos de siempre parezcan síntomas",
+       "body": "Cuando conocés el nombre de una enfermedad o de una condición del desarrollo, un cansancio pasajero o un descuido cualquiera pueden empezar a parecerte un síntoma.\n\nLas emociones pueden cambiar cómo se sienten el cuerpo y el ánimo, y eso no es imaginación: pasa de verdad. Pero dormir poco, el estrés, el uso del celular o lo que pasa a tu alrededor también pueden producir algo parecido.\n\nSi al leer un nombre pensás “a lo mejor es esto”, no te quedes ahí: pensá también en otras razones. Y si lo que te cuesta sigue, podés hablar de eso tal como es, aunque no tengas un nombre para ello.",
+       "srcs": []
+      },
+      {
+       "h": "Cualquier persona puede pasar por problemas de salud mental",
+       "body": "Cualquier persona puede pasar por problemas de salud mental en algún momento de su vida. Puede ser alguien cercano, o podés ser vos. Entenderlos de manera integral ayuda a dejar atrás los prejuicios.\n\nUn nombre (un diagnóstico) lo pone una persona profesional de la salud.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Dirección Nacional de Abordaje Integral de Salud Mental",
+         "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud mental",
+         "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 26.657",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+         "kind": "fact",
+         "upd": "2010-12-03"
+        }
+       ]
+      },
+      {
+       "h": "Podés consultar por lo que te pasa",
+       "body": "Podés consultar por lo que te pasa en un centro de salud o en un hospital general. Un hospital no puede negarte la atención solo porque se trate de salud mental.\n\nSi una discapacidad te dificulta el trabajo o el estudio, podés pedir ajustes razonables: cambios pensados para tu caso, siempre que no supongan una carga desproporcionada. Contá qué te cuesta y qué necesitás; a veces no se puede hacer todo.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud mental",
+         "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Salud mental",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/salud-mental",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 26.657",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+         "kind": "fact",
+         "upd": "2010-12-03"
+        },
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 26.378",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141317/norma.htm",
+         "kind": "fact",
+         "upd": "2008-06-09"
+        }
+       ]
+      },
+      {
+       "h": "Algunos trámites piden documentos de un médico",
+       "body": "Algunos trámites piden documentos de un médico o de un equipo de salud. Para faltar al trabajo por una enfermedad, se presenta un certificado médico; desde 2026, la ley pide que indique el diagnóstico médico y la cantidad de días de reposo, entre otros datos.\n\nEl Certificado Único de Discapacidad (CUD) es voluntario y gratuito: para pedirlo se reúnen certificados e informes del equipo de salud, y una junta decide si corresponde emitirlo. El CUD permite acceder a derechos y prestaciones por discapacidad. No todos los problemas de salud mental implican una discapacidad.\n\nAntes de empezar un trámite, preguntá en la oficina que corresponde qué documentos hacen falta.",
+       "srcs": [
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 27802",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/420000-424999/423680/norma.htm",
+         "kind": "fact",
+         "upd": "2026-03-06"
+        },
+        {
+         "org": "Secretaría Nacional de Discapacidad, Ministerio de Salud (argentina.gob.ar)",
+         "title": "Cómo obtener el Certificado Único de Discapacidad (CUD)",
+         "url": "https://www.argentina.gob.ar/servicio/como-obtener-el-certificado-unico-de-discapacidad-cud",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Subsecretaría de Derechos Humanos, Ministerio de Justicia (argentina.gob.ar)",
+         "title": "Orientación en Salud Mental",
+         "url": "https://www.argentina.gob.ar/derechoshumanos/grupos-en-situacion-de-vulnerabilidad/orientacion-en-salud-mental",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie",
+       "body": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie ni para mirar a otras personas por encima del hombro.\nA algunas personas les reconforta encontrar un nombre para lo que viven. Eso es importante.\nTambién es natural querer que la gente a nuestro alrededor nos comprenda o nos trate con amabilidad.\n\nCuando querés que te traten con amabilidad, podés pedirlo directamente, sin necesidad de decir el nombre de ninguna enfermedad.\nSe entiende mejor si decís a la vez dos cosas: con qué tenés dificultades y qué te gustaría que hiciera la otra persona.\n\nPor ejemplo:\n“Hoy me falta energía, así que me ayuda que me hablen despacio.”\n“Si me dicen muchas cosas a la vez, me pierdo; me ayuda que me expliquen las cosas de una en una.”\n“Lo que me dicen de palabra me cuesta recordarlo; prefiero que lo importante me lo den por escrito, en papel o por correo electrónico.”\n“Los lugares con mucha gente se me hacen difíciles; me gustaría hablar en un lugar tranquilo.”\n“Necesito un poco de tiempo para responder; me ayuda que me esperen un momento.”\n“Ahora mismo tengo muchas emociones a la vez; me ayuda que primero me escuchen. Los consejos pueden venir después.”\n“Hoy no me siento bien; me ayuda que me dejen descansar un poco.”\n“Los cambios de planes repentinos me desconciertan; me ayuda que me avisen con anticipación.”\n“Cuando me hablan en voz alta me da miedo; me ayuda que me hablen con calma.”\n\nSi te cuesta decirlo bien, podés escribirlo en un papel y entregarlo. También podés mostrar la pantalla “Mis dificultades” con el botón “Mostrar en grande”; aparece en esta aplicación cuando elegís una preocupación y respondés a las preguntas.\nSi querés decir el nombre de un diagnóstico que ya tenés, podés hacerlo. También entonces, a la otra persona le ayuda saber a la vez con qué tenés dificultades y qué te gustaría que hiciera.\nA veces la otra persona no puede hacer lo que le pedís por su propia situación. Entonces se puede buscar, entre las dos partes, otra manera.\n\nEn el trabajo se puede pedir con las mismas palabras: “Me cuesta seguir varias instrucciones a la vez; prefiero que me las den por escrito.”\n\nNo uses la lista de nombres de esta aplicación para dudar de las personas a tu alrededor.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre esta aplicación",
+       "body": "Esto no es un diagnóstico. Esta lista no dice si tenés una enfermedad o un trastorno. Esta app no es un dispositivo médico y no reemplaza la consulta con una persona profesional de la salud.\n\nTus respuestas no se envían a ningún lado ni se guardan en este dispositivo. Desaparecen al cerrar la aplicación.\n\nAplicación independiente. SOYOGI es un grupo voluntario sin fines de lucro con sede en Japón. No tiene relación con el Gobierno de la Nación Argentina, el Ministerio de Salud, la Sedronar, la ANMAT ni ninguna otra institución pública o de salud, y ninguna de ellas la recomienda ni la respalda. Los nombres de las instituciones solo indican de dónde viene la información.\n\nSOYOGI escribió estos contenidos con sus propias palabras a partir de páginas públicas de la Argentina. Parte de los textos se basa en contenidos de argentina.gob.ar, publicados con la licencia Creative Commons Atribución 4.0 Internacional (creativecommons.org/licenses/by/4.0/deed.es); SOYOGI los adaptó. Las fuentes aparecen en cada pantalla, con la fecha que muestra cada página cuando la página la muestra. Consultado el 20 de noviembre de 2026. Los números y los horarios pueden cambiar. Los horarios son los que indica cada servicio.\n\nPedir ayuda o no es una decisión tuya, no de la aplicación.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Si algo de tu salud mental te preocupa, podés consultar en un centro de salud o en un hospital general. Allí, la salud mental debe atenderse igual que la salud física.",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "Salud mental",
+       "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Si algo te cuesta desde hace tiempo en el día a día, podés contarlo en un centro de salud o en un hospital general.",
+       "src": {
+        "org": "Ministerio de Salud (argentina.gob.ar)",
+        "title": "Salud mental",
+        "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+        "kind": "summary",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "La ley de salud mental dice que la atención debe basarse en los principios de la atención primaria de la salud.",
+       "src": {
+        "org": "Infoleg (Ministerio de Justicia)",
+        "title": "Ley 26.657",
+        "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+        "kind": "fact",
+        "upd": "2010-12-03"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre cómo se pone un nombre (un diagnóstico), en pocas palabras:",
+      "text": "Un nombre (un diagnóstico) lo pone una persona profesional de la salud. En Argentina, la ley de salud mental dice que un diagnóstico no puede hacerse solo por lo que pide la familia o el trabajo.",
+      "src": {
+       "org": "Infoleg (Ministerio de Justicia)",
+       "title": "Ley 26.657",
+       "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+       "kind": "fact",
+       "upd": "2010-12-03"
+      }
+     },
+     "fewNote": "Solo se pudieron confirmar pocos nombres en páginas públicas de salud.",
+     "noNames": "No se pudieron confirmar nombres para este grupo en páginas públicas de salud; por eso, acá no aparece una lista de nombres. Aun así, en esta aplicación podés encontrar dónde pedir ayuda."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood is low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home do not get done.",
+       "I blame myself for everything and always think the worst.",
+       "At night I cannot sleep, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when you explain what needs to be done, one thing at a time.",
+       "I need time to think, and I would rather not be pressured to answer or to decide.",
+       "I would like the important things given to me in writing.",
+       "Before I am told “Cheer up!” or “Try harder!”, it helps me to be listened to first.",
+       "It helps me when people do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression secondary to an organic illness",
+        "why": "This training material for health teams explains that when someone’s mood is very low, it is worth checking whether an illness of the body could be causing a secondary depression.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This article from a national hospital explains that depression brings a very low mood, loss of interest and of the ability to enjoy things, and less energy, and that it can cause a lot of suffering and disrupt work, study and family life.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This training material for health teams explains that in bipolar disorder, also known as manic-depressive illness, there are very big changes in mood, which can go from very intense euphoria to deep depression.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worries that will not go away, a racing heart and restlessness, difficulties in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or they are watching me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly beats very fast and I cannot get enough air. I worry that it will happen again, and because of that it is hard for me to leave the house.",
+       "For no clear reason, I worry about one thing after another, feel very restless, and have no strength left.",
+       "I have a hard time in places that are hard to get out of, like the subway, the bus, shopping malls, or crowded places, and also when I go out of the house without company. So I try to avoid them.",
+       "Because I avoid what frightens me, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "The worries will not leave my head, and at night it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "When I speak, it helps me to be given time and not be rushed.",
+       "I would like the plan explained to me in advance, and how everything will go.",
+       "I would rather not be asked for my opinion suddenly in front of other people, and I would like to be able to answer in writing too.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Before anyone tells me that I worry too much, it helps me when they listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety secondary to a physical illness or to medicines",
+        "why": "This training material for health teams explains that some illnesses of the body (for example cardiovascular disorders, thyrotoxicosis or anemia) and some medicines can cause anxiety.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This training material for health teams explains that in generalized anxiety disorder there is worry that does not let up and is hard to control, together with other kinds of discomfort that come with anxiety.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Social phobia",
+        "why": "This training material for health teams explains that social phobia is an intense fear of being watched closely or criticized by other people in certain situations, for example when speaking in public, and that it leads people to avoid those situations.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This training material for health teams explains that this disorder can develop in people who went through something that seriously threatened them, and that it brings memories full of anxiety, with the feeling of going through it all over again.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This article from a national hospital explains that depression can occur alongside anxiety, disturbed sleep and appetite, feelings of guilt and problems with concentration.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the door or the gas again and again, wash your hands, or repeat other actions, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave the house I need to check again and again whether I have closed the door or the gas valve properly; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes into my head again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not arranged, or not done, in the order I have set, I become uneasy and end up rearranging them or starting over.",
+       "Checking things takes me so long that I leave home later than planned or arrive late for my appointments and for work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop even when I try."
+      ],
+      "asks": [
+       "I would rather not be told that I am exaggerating; it helps me when people listen to me first.",
+       "Checking things takes me time, so it helps me when some extra time is allowed.",
+       "When plans or the steps to follow change, it helps me to be told in advance.",
+       "I would rather not be pointed at or laughed at in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before we decide how to go on, I would like my worries to be heard, and for us to decide calmly together."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This training material for health teams explains that in OCD there are repeated thoughts that cause anxiety, or repeated actions that cause a lot of anxiety when they are not carried out.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that autism spectrum disorder includes repetitive, restricted and stereotyped behaviors, along with differences in communication and in how a person relates to others, and that it generally lasts throughout life.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Trastorno del Espectro Autista (TEA)",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/autismo",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "Memories that keep coming back, sleeping badly, or tension that does not go away after a hard experience.",
+      "scenes": [
+       "Any small detail can suddenly bring back the scene and the feelings of that very hard moment.",
+       "I keep having similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a small noise or something unexpected makes me jump.",
+       "Whenever I can, I avoid the places, people and topics that remind me of it, and my daily life has been getting smaller.",
+       "It is as if something inside me had switched off, and I cannot feel the same toward my family and friends as I did before.",
+       "I blame myself more and more, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "I would rather not be asked for every detail of what happened. I want to tell it at my own pace and only as far as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I prefer to avoid them.",
+       "It helps me when people do not speak to me suddenly from behind or make loud noises near me.",
+       "When talking is too hard, I would rather be able to hand over something written.",
+       "There are days when I do not sleep or when the tiredness does not go away. I would rather it not be taken as laziness.",
+       "I would rather not be rushed with phrases like “Forget it” or “Get over it”, and I would like a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This training material for health teams explains that this disorder can occur in people who went through a very dangerous situation, and that what happened can come back to mind as if it were happening again, also in dreams.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times in the night and do not sleep through until morning.",
+       "When it is time to get up I cannot manage it, and I am late for work or classes again and again.",
+       "During the day a very strong sleepiness comes over me, and I almost nod off in a meeting or while driving.",
+       "My family tells me that I snore very loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and at night I feel an uncomfortable sensation in my legs that does not let me rest or sleep."
+      ],
+      "asks": [
+       "It helps me when people take the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "It helps me to go over together the medicines I take and my habits with coffee, alcohol and tobacco, to see what may be having an influence.",
+       "It helps me when people do not assume that it is a matter of attitude, and when my physical health and my mood are looked at as well.",
+       "I would rather explain my sleep times with a written note showing when I go to bed and when I get up, and I would like it looked at calmly.",
+       "If I have to take a medicine, it helps me when someone explains in simple words how it works and what precautions come with it.",
+       "Mornings are very hard for me, so I would prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "This article explains that obstructive sleep apnea interrupts breathing during sleep, and that it often comes with loud snoring, waking up with a feeling of choking, and great tiredness during the day.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud desarrolla la primera encuesta sobre apnea obstructiva del sueño en Argentina",
+         "url": "https://www.argentina.gob.ar/noticias/salud-desarrolla-la-primera-encuesta-sobre-apnea-obstructiva-del-sueno-en-argentina",
+         "kind": "summary",
+         "upd": "2019-11-13"
+        }
+       },
+       {
+        "name": "Secondary insomnia",
+        "why": "This training material for health teams explains that insomnia can also appear together with other problems: medical or neurological illnesses, medicines or substances, sleep apnea or restless legs syndrome.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This training material for health teams explains that insomnia is difficulty falling asleep or staying asleep through the night, and that it also includes waking up too early without wanting to.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This article from a national hospital explains that depression can be accompanied by disturbed sleep and appetite.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop, or eating scares you.",
+      "scenes": [
+       "I do not feel like eating, and on many days food hardly goes down my throat.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel sick.",
+       "Without realizing it, I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat very few things, and I avoid many foods because the taste, smell or texture is very unpleasant to me.",
+       "Since some food got stuck in my throat or I vomited, eating scares me.",
+       "At night I eat half asleep and, in the morning, I sometimes remember nothing."
+      ],
+      "asks": [
+       "I would rather not have comments made about my body or my appearance.",
+       "It helps me when people do not force me to eat or rush me to do it.",
+       "When people eat in a group, it helps me when I am allowed to choose another place or another time.",
+       "I would like to be asked beforehand what I can eat and which smells or textures are hard for me.",
+       "It helps me when people explain beforehand how the appointment will go and what tests will be done.",
+       "I would rather be able to hand over in writing what is hard for me to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders",
+        "why": "This page explains that eating disorders are changes in the way a person eats, and that the law protects the right to health of people who have them and protects them from discrimination.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Trastornos alimentarios",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/trastornos-alimentarios",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This article from a national hospital explains that with depression, appetite and sleep can also be affected.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to give up alcohol, betting or video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going the same as before.",
+       "I can't stick to the time, the amount or the money I had set for myself for today.",
+       "I hide from people close to me that I drink, that I bet or that I play video games, or I cover it up with excuses.",
+       "I stay up very late playing video games, I can't get up in the morning, and more and more often I am late for work or class, or miss it.",
+       "When I lose money on sports bets, online bets or the slot machines in casinos, I want to win it back and I bet again.",
+       "Even though I know my body is feeling the strain, I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when someone looks with me, step by step, at what my day-to-day life with this is like and what difficulties it brings me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me when I am told in concrete terms where I can get support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can come to the appointment with me.",
+       "I would rather be told beforehand who will hear about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Problematic use",
+        "why": "This page explains that problematic use is behavior a person cannot control that affects their health or relationships, and that it can involve alcohol, gambling or technology, among others.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Adicciones y consumos problemáticos",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/adicciones-y-consumos-problematicos",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Harmful use and dependence (alcohol and other substances)",
+        "why": "This training material for health teams explains that harmful use is a way of using substances that harms health, and that it can bring problems in family life, in work or study, and in social life.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Gambling disorder",
+        "why": "This report explains that gambling disorder, online or offline, is grouped with disorders due to addictive behaviors, and that in it gambling is hard to control even when it brings negative consequences.",
+        "src": {
+         "org": "Sedronar (Observatorio Argentino de Drogas, argentina.gob.ar)",
+         "title": "Juegos con dinero y apuestas. Dimensiones de análisis, regulación estatal y su magnitud en población universitaria argentina",
+         "url": "https://www.argentina.gob.ar/sites/default/files/2020/11/observatorio-argentino-drogas-2025-juegos-dinero-apuestas.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsedro",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts somewhere else without my noticing.",
+       "I can't get my work or my housework done in order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I promised, or I lose things.",
+       "If I have been on the same task for a long time, careless mistakes pile up.",
+       "It's hard for me to stay still for a long time, and I feel a restlessness that won't let me stop.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would rather be given the important things in writing.",
+       "It helps me when I am told about deadlines and appointments in good time.",
+       "It helps me when people don't ask me for many things at once, but split them into small parts.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people acknowledge what I have managed to do, instead of reproaching me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnea",
+        "why": "This article explains that obstructive sleep apnea can bring sleepiness and difficulty with concentration and memory during the day.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud desarrolla la primera encuesta sobre apnea obstructiva del sueño en Argentina",
+         "url": "https://www.argentina.gob.ar/noticias/salud-desarrolla-la-primera-encuesta-sobre-apnea-obstructiva-del-sueno-en-argentina",
+         "kind": "summary",
+         "upd": "2019-11-13"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This article from a national hospital explains that depression can come together with difficulty concentrating.",
+        "src": {
+         "org": "Hospital Nacional Ramón Carrillo, Ministerio de Salud (argentina.gob.ar)",
+         "title": "13 de enero: Día Mundial de la Lucha Contra la Depresión",
+         "url": "https://www.argentina.gob.ar/noticias/13-de-enero-dia-mundial-de-la-lucha-contra-la-depresion",
+         "kind": "summary",
+         "upd": "2020-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argdisc",
+       "argtrab",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to pick up what the other person feels or the mood of the moment, and I often have the impression that we don't understand each other.",
+       "When I have to speak in front of other people or all eyes turn to me, I feel a lot of tension and end up avoiding it.",
+       "I can talk with people close to me, but in front of others my voice won't come out.",
+       "If my usual way of doing things, the order of the steps or the place where I keep my things changes, I feel a very strong unease.",
+       "Noises, lights and smells feel too intense to me, and places with lots of people are very hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking with them has become very difficult."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance if plans or ways of doing things change.",
+       "I would rather not be rushed, and be given time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss",
+        "why": "This page explains that hearing loss is difficulty hearing that makes communication harder, for example following a conversation between two or more people.",
+        "src": {
+         "org": "Ministerio de Salud (Glosario de Salud, argentina.gob.ar)",
+         "title": "Hipoacusia",
+         "url": "https://www.argentina.gob.ar/salud/glosario/hipoacusia-sordera",
+         "kind": "summary",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Social phobia",
+        "why": "This training material for health teams explains that social phobia is an intense fear of being watched or criticized by other people, which leads people to avoid those situations.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that autism spectrum disorder affects how a person relates to and communicates with others, that it shows up very differently in each person, and that it generally lasts throughout life.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Trastorno del Espectro Autista (TEA)",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/autismo",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argdisc",
+       "argsss"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is still hard even when you make an effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand what documents or letters say.",
+       "I have trouble with spelling: I make many mistakes, or letters or words go missing when I write.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and a lot of effort.",
+       "I get stuck on simple sums and on problems that are set out in a text.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "It helps me when texts are given to me in large print with more space between the lines, or in Easy Read (lectura fácil).",
+       "I would rather have the important things read aloud to me or explained to me in person.",
+       "It helps me to be able to write on a computer or a mobile phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "It helps me to be able to use a calculator for calculations.",
+       "It helps me when I am given more time to read, write and do calculations.",
+       "I would rather be given things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Specific learning difficulties, such as dyslexia",
+        "why": "This page explains that specific learning difficulties, such as dyslexia, affect reading, writing or calculating, and that the law also covers adults.",
+        "src": {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Dificultades Específicas del Aprendizaje (DEA)",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/dificultades-especificas-del-aprendizaje-dea",
+         "kind": "summary",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argdisc",
+       "argsss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own emotions.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when my mood is so low that I can hardly move.",
+       "There are periods when I sleep very little and still have a lot of energy and cannot stop moving.",
+       "One idea after another comes to me and everything is left half done.",
+       "During periods of great euphoria I spent so much money that I had problems afterwards.",
+       "I get irritated over any little thing, and I find it hard to hold back my emotions.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when people also ask me about the periods when I felt an unusual amount of energy.",
+       "It helps me when people take the time to go over my ups and downs in mood with me.",
+       "It helps me when, before important decisions about money or work, people encourage me to stop and think first.",
+       "I would rather have physical causes taken into account too, including sleep, medicines and alcohol.",
+       "If people notice that something in me has changed from how I usually am, I would rather they tell me without blaming me.",
+       "It helps me when people hear me out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Bipolar disorder",
+        "why": "This training material for health teams explains that in bipolar disorder there are repeated episodes, with big changes in mood and activity that can go from great euphoria to deep depression.",
+        "src": {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Programa de capacitación TRAPS: Salud mental en el primer nivel de atención",
+         "url": "https://www.argentina.gob.ar/sites/default/files/traps_salud-mental-pna_julio-2017.pdf",
+         "kind": "fact",
+         "upd": "2017"
+        }
+       }
+      ],
+      "windows": [
+       "argcaps",
+       "argsr",
+       "argsss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs look like symptoms",
+       "body": "When you know the name of an illness or of a developmental condition, a passing tiredness or an everyday slip can start to look like a symptom to you.\n\nFeelings can change how your body and your mood feel, and that is not imagination: it really happens. But sleeping little, stress, mobile phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe it is this,” do not stop there: think of other reasons too. And if what is hard for you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Anyone can go through mental health problems",
+       "body": "Anyone can go through mental health problems at some point in their life. It can be someone close to you, or it can be you. Understanding them as a whole helps leave prejudice behind.\n\nA name (a diagnosis) is given by a health professional.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Dirección Nacional de Abordaje Integral de Salud Mental",
+         "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud mental",
+         "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 26.657",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+         "kind": "fact",
+         "upd": "2010-12-03"
+        }
+       ]
+      },
+      {
+       "h": "You can ask about what is happening to you",
+       "body": "You can ask about what is happening to you at a health centre or a general hospital. A hospital cannot refuse to see you only because it is about mental health.\n\nIf a disability makes work or study hard for you, you can ask for reasonable adjustments: changes made for your case, as long as they are not a disproportionate burden. Say what is hard for you and what you need; sometimes not everything can be done.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud (argentina.gob.ar)",
+         "title": "Salud mental",
+         "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerio de Justicia (Derecho Fácil, argentina.gob.ar)",
+         "title": "Salud mental",
+         "url": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/salud-mental",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 26.657",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+         "kind": "fact",
+         "upd": "2010-12-03"
+        },
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 26.378",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141317/norma.htm",
+         "kind": "fact",
+         "upd": "2008-06-09"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for papers from a doctor",
+       "body": "Some procedures ask for papers from a doctor or a health team. To be absent from work because of an illness, you hand in a medical certificate; since 2026, the law says it must state the medical diagnosis and the number of days of rest, among other details.\n\nThe Certificado Único de Discapacidad (CUD) is voluntary and free: to apply, you gather certificates and reports from your health team, and a board decides whether to issue it. The CUD gives access to disability rights and benefits. Not every mental health problem means a disability.\n\nBefore starting a procedure, ask the office in charge which papers are needed.",
+       "srcs": [
+        {
+         "org": "Infoleg (Ministerio de Justicia)",
+         "title": "Ley 27802",
+         "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/420000-424999/423680/norma.htm",
+         "kind": "fact",
+         "upd": "2026-03-06"
+        },
+        {
+         "org": "Secretaría Nacional de Discapacidad, Ministerio de Salud (argentina.gob.ar)",
+         "title": "Cómo obtener el Certificado Único de Discapacidad (CUD)",
+         "url": "https://www.argentina.gob.ar/servicio/como-obtener-el-certificado-unico-de-discapacidad-cud",
+         "kind": "summary",
+         "upd": "none"
+        },
+        {
+         "org": "Subsecretaría de Derechos Humanos, Ministerio de Justicia (argentina.gob.ar)",
+         "title": "Orientación en Salud Mental",
+         "url": "https://www.argentina.gob.ar/derechoshumanos/grupos-en-situacion-de-vulnerabilidad/orientacion-en-salud-mental",
+         "kind": "summary",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nSome people feel comforted when they find a name for what they are living through. That matters.\nIt is also natural to want the people around us to understand us or to be kind to us.\n\nWhen you want people to be kind to you, you can ask for it directly, without needing to say the name of any illness.\nIt is understood better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have no energy today, so it helps me when people speak slowly.”\n“If I am told many things at once, I get lost; it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told in words; I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me; I would like to talk in a quiet place.”\n“I need a little time to answer; it helps me when people wait a moment.”\n“Right now I have many emotions at once; it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today; it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off; it helps me when I am told in advance.”\n“When people speak to me loudly I get scared; it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to say the name of a diagnosis you already have, you can. Then too, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then the two of you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.”\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Government of Argentina, the Ministry of Health, Sedronar, ANMAT or any other public or health institution, and none of them has recommended or supported this app. The names of the institutions only show where the information comes from.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Argentina. Part of the text is based on content from argentina.gob.ar, published under the Creative Commons Attribution 4.0 International licence (creativecommons.org/licenses/by/4.0/); SOYOGI adapted it. This English version does not quote those pages word for word. Sources are shown on each screen, with the date the page shows, when the page shows one. Checked on 20 November 2026. Numbers and hours may change. The hours are those given by each service.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "If something about your mental health worries you, you can go to a health centre or a general hospital. There, mental health should be cared for in the same way as physical health.",
+      "src": {
+       "org": "Ministerio de Salud (argentina.gob.ar)",
+       "title": "Salud mental",
+       "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+       "kind": "summary",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "If something has been hard for you in daily life for a long time, you can talk about it at a health centre or a general hospital.",
+       "src": {
+        "org": "Ministerio de Salud (argentina.gob.ar)",
+        "title": "Salud mental",
+        "url": "https://www.argentina.gob.ar/salud/mental-y-adicciones/que-es",
+        "kind": "summary",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "The mental health law says that care should be based on the principles of primary health care.",
+       "src": {
+        "org": "Infoleg (Ministerio de Justicia)",
+        "title": "Ley 26.657",
+        "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+        "kind": "fact",
+        "upd": "2010-12-03"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A name (a diagnosis) is given by a health professional. In Argentina, the mental health law says that a diagnosis cannot be made only because the family or the workplace asks for it.",
+      "src": {
+       "org": "Infoleg (Ministerio de Justicia)",
+       "title": "Ley 26.657",
+       "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
+       "kind": "fact",
+       "upd": "2010-12-03"
       }
      },
      "fewNote": "Only a few names could be confirmed on public health pages.",

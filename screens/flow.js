@@ -33,6 +33,7 @@
      中身が国の言葉だけの国(日本のほかの全部)は、中身はもう国の言葉なので、切りかえるのは見出しの文言 */
   function mainLang(api, U){
     var D = U.data(), M = D.main;
+    if(Array.isArray(D.mains) && D.mains.length > 1) return null;   // 公用語が複数の国は、ほかの公用語のカードを出さない(SPEC_V1 35-3)
     return (M && M !== api.lang && D[M] && D[M].groups && api.hasLang && api.hasLang(M)) ? M : null;
   }
   /* 伝える言葉(相手が読む・漢字の文)。空の行は出さない。L = カードのことば(無ければ画面のことば)。自分で書いた文はそのまま */
