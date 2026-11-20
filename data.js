@@ -50,7 +50,9 @@ window.KOMARI_DATA = {
   "ae",
   "cl",
   "in",
-  "arg"
+  "arg",
+  "be",
+  "ch"
  ],
  "c": {
   "jp": {
@@ -60,6 +62,7 @@ window.KOMARI_DATA = {
     "en": "Japan",
     "fr": "Japon",
     "de": "Japan",
+    "dech": "Japan",
     "es": "Japón",
     "esmx": "Japón",
     "escl": "Japón",
@@ -3185,6 +3188,7 @@ window.KOMARI_DATA = {
     "en": "United States",
     "fr": "États-Unis",
     "de": "Vereinigte Staaten",
+    "dech": "Vereinigte Staaten",
     "es": "Estados Unidos",
     "esmx": "Estados Unidos",
     "escl": "Estados Unidos",
@@ -4913,6 +4917,7 @@ window.KOMARI_DATA = {
     "en": "France",
     "fr": "France",
     "de": "Frankreich",
+    "dech": "Frankreich",
     "es": "Francia",
     "esmx": "Francia",
     "escl": "Francia",
@@ -8307,6 +8312,7 @@ window.KOMARI_DATA = {
     "en": "Germany",
     "fr": "Allemagne",
     "de": "Deutschland",
+    "dech": "Deutschland",
     "es": "Alemania",
     "esmx": "Alemania",
     "escl": "Alemania",
@@ -11739,6 +11745,7 @@ window.KOMARI_DATA = {
     "en": "Spain",
     "fr": "Espagne",
     "de": "Spanien",
+    "dech": "Spanien",
     "es": "España",
     "esmx": "España",
     "escl": "España",
@@ -14732,6 +14739,7 @@ window.KOMARI_DATA = {
     "en": "Netherlands",
     "fr": "Pays-Bas",
     "de": "Niederlande",
+    "dech": "Niederlande",
     "es": "Países Bajos",
     "esmx": "Países Bajos",
     "escl": "Países Bajos",
@@ -17728,6 +17736,7 @@ window.KOMARI_DATA = {
     "en": "South Korea",
     "fr": "Corée du Sud",
     "de": "Südkorea",
+    "dech": "Südkorea",
     "es": "Corea del Sur",
     "esmx": "Corea del Sur",
     "escl": "Corea del Sur",
@@ -20898,6 +20907,7 @@ window.KOMARI_DATA = {
     "en": "Taiwan",
     "fr": "Taïwan",
     "de": "Taiwan",
+    "dech": "Taiwan",
     "es": "Taiwán",
     "esmx": "Taiwán",
     "escl": "Taiwán",
@@ -23868,6 +23878,7 @@ window.KOMARI_DATA = {
     "en": "Italy",
     "fr": "Italie",
     "de": "Italien",
+    "dech": "Italien",
     "es": "Italia",
     "esmx": "Italia",
     "escl": "Italia",
@@ -26893,6 +26904,7 @@ window.KOMARI_DATA = {
     "en": "Sweden",
     "fr": "Suède",
     "de": "Schweden",
+    "dech": "Schweden",
     "es": "Suecia",
     "esmx": "Suecia",
     "escl": "Suecia",
@@ -30350,6 +30362,7 @@ window.KOMARI_DATA = {
     "en": "Brazil",
     "fr": "Brésil",
     "de": "Brasilien",
+    "dech": "Brasilien",
     "es": "Brasil",
     "esmx": "Brasil",
     "escl": "Brasil",
@@ -33085,6 +33098,7 @@ window.KOMARI_DATA = {
     "en": "Saudi Arabia",
     "fr": "Arabie saoudite",
     "de": "Saudi-Arabien",
+    "dech": "Saudi-Arabien",
     "es": "Arabia Saudí",
     "esmx": "Arabia Saudí",
     "escl": "Arabia Saudí",
@@ -35059,6 +35073,7 @@ window.KOMARI_DATA = {
     "en": "United Kingdom",
     "fr": "Royaume-Uni",
     "de": "Vereinigtes Königreich",
+    "dech": "Vereinigtes Königreich",
     "es": "Reino Unido",
     "esmx": "Reino Unido",
     "escl": "Reino Unido",
@@ -36837,6 +36852,7 @@ window.KOMARI_DATA = {
     "en": "Australia",
     "fr": "Australie",
     "de": "Australien",
+    "dech": "Australien",
     "es": "Australia",
     "esmx": "Australia",
     "escl": "Australia",
@@ -38491,6 +38507,7 @@ window.KOMARI_DATA = {
     "en": "New Zealand",
     "fr": "Nouvelle-Zélande",
     "de": "Neuseeland",
+    "dech": "Neuseeland",
     "es": "Nueva Zelanda",
     "esmx": "Nueva Zelanda",
     "escl": "Nueva Zelanda",
@@ -39788,6 +39805,7 @@ window.KOMARI_DATA = {
     "en": "Ireland",
     "fr": "Irlande",
     "de": "Irland",
+    "dech": "Irland",
     "es": "Irlanda",
     "esmx": "Irlanda",
     "escl": "Irlanda",
@@ -41176,6 +41194,7 @@ window.KOMARI_DATA = {
     "en": "Austria",
     "fr": "Autriche",
     "de": "Österreich",
+    "dech": "Österreich",
     "es": "Austria",
     "esmx": "Austria",
     "escl": "Austria",
@@ -44233,6 +44252,7 @@ window.KOMARI_DATA = {
     "en": "Canada",
     "fr": "Canada",
     "de": "Kanada",
+    "dech": "Kanada",
     "es": "Canadá",
     "esmx": "Canadá",
     "escl": "Canadá",
@@ -47266,6 +47286,7 @@ window.KOMARI_DATA = {
     "en": "Portugal",
     "fr": "Portugal",
     "de": "Portugal",
+    "dech": "Portugal",
     "es": "Portugal",
     "esmx": "Portugal",
     "escl": "Portugal",
@@ -49521,6 +49542,7 @@ window.KOMARI_DATA = {
     "en": "Mexico",
     "fr": "Mexique",
     "de": "Mexiko",
+    "dech": "Mexiko",
     "es": "México",
     "esmx": "México",
     "escl": "México",
@@ -52347,6 +52369,7 @@ window.KOMARI_DATA = {
     "en": "Singapore",
     "fr": "Singapour",
     "de": "Singapur",
+    "dech": "Singapur",
     "es": "Singapur",
     "esmx": "Singapur",
     "escl": "Singapur",
@@ -53523,6 +53546,7 @@ window.KOMARI_DATA = {
     "en": "Hong Kong",
     "fr": "Hong Kong",
     "de": "Hongkong",
+    "dech": "Hongkong",
     "es": "Hong Kong",
     "esmx": "Hong Kong",
     "escl": "Hong Kong",
@@ -56050,6 +56074,7 @@ window.KOMARI_DATA = {
     "en": "United Arab Emirates",
     "fr": "Émirats arabes unis",
     "de": "Vereinigte Arabische Emirate",
+    "dech": "Vereinigte Arabische Emirate",
     "es": "Emiratos Árabes Unidos",
     "esmx": "Emiratos Árabes Unidos",
     "escl": "Emiratos Árabes Unidos",
@@ -58120,6 +58145,7 @@ window.KOMARI_DATA = {
     "en": "Chile",
     "fr": "Chili",
     "de": "Chile",
+    "dech": "Chile",
     "es": "Chile",
     "esmx": "Chile",
     "escl": "Chile",
@@ -59892,6 +59918,7 @@ window.KOMARI_DATA = {
     "en": "India",
     "fr": "Inde",
     "de": "Indien",
+    "dech": "Indien",
     "es": "India",
     "esmx": "India",
     "escl": "India",
@@ -61573,6 +61600,7 @@ window.KOMARI_DATA = {
     "en": "Argentina",
     "fr": "Argentine",
     "de": "Argentinien",
+    "dech": "Argentinien",
     "es": "Argentina",
     "esmx": "Argentina",
     "escl": "Argentina",
@@ -63699,6 +63727,8512 @@ window.KOMARI_DATA = {
        "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/175000-179999/175977/norma.htm",
        "kind": "fact",
        "upd": "2010-12-03"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "be": {
+   "id": "be",
+   "name": {
+    "ja": "ベルギー",
+    "en": "Belgium",
+    "fr": "Belgique",
+    "de": "Belgien",
+    "dech": "Belgien",
+    "es": "Bélgica",
+    "esmx": "Bélgica",
+    "escl": "Bélgica",
+    "esar": "Bélgica",
+    "nl": "België",
+    "ko": "벨기에",
+    "zh": "比利時",
+    "zhhk": "比利時",
+    "it": "Belgio",
+    "sv": "Belgien",
+    "pt": "Bélgica",
+    "ptpt": "Bélgica",
+    "ar": "بلجيكا",
+    "hi": "बेल्जियम"
+   },
+   "langs": [
+    "nl",
+    "fr",
+    "de",
+    "en"
+   ],
+   "main": "nl",
+   "fallback": "nl",
+   "srcLang": "nl",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "mains": [
+    "nl",
+    "fr",
+    "de"
+   ],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-20",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "be112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "101",
+     "url": "https://112.be/nl",
+     "linkOk": false,
+     "nl": {
+      "name": "Noodnummers 112 en 101",
+      "desc": "Voor de brandweer of een ziekenwagen: bel 112. Voor dringende hulp van de politie: bel 101.",
+      "hours": "Voor noodgevallen.",
+      "src": {
+       "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+       "title": "Er staat altijd iemand paraat om jou te helpen in nood",
+       "url": "https://112.be/nl",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Numéros d’urgence 112 et 101",
+      "desc": "Pour les pompiers ou une ambulance : appelez le 112. Pour une aide urgente de la police : appelez le 101.",
+      "hours": "Pour les urgences.",
+      "src": {
+       "org": "Service Public Fédéral Intérieur (112.be)",
+       "title": "Il y a toujours quelqu'un pour vous aider en cas de besoin",
+       "url": "https://112.be/fr",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Notrufnummern 112 und 101",
+      "desc": "Für Feuerwehr oder Krankenwagen: 112. Für dringende Hilfe der Polizei: 101.",
+      "hours": "Für Notfälle.",
+      "src": {
+       "org": "Föderaler Öffentlicher Dienst Inneres (112.be)",
+       "title": "Es ist immer jemand da, der Ihnen in der Not hilft",
+       "url": "https://112.be/de",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Emergency numbers 112 and 101",
+      "desc": "For the fire brigade or an ambulance, call 112. For urgent police help, call 101.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Emergency numbers",
+       "url": "https://be.brussels/en/security-prevention/emergency/emergency-numbers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+      "title": "Er staat altijd iemand paraat om jou te helpen in nood",
+      "url": "https://112.be/nl",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "be1813",
+     "band": "now",
+     "tel": "1813",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+     "linkOk": false,
+     "nl": {
+      "name": "Zelfmoordlijn 1813 (Nederlandstalig)",
+      "desc": "Voor wie aan zelfdoding denkt. Dag en nacht bereikbaar. Gratis.",
+      "hours": "Dag en nacht.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Zelfmoordlijn 1813 (en néerlandais)",
+      "desc": "Pour les personnes qui ont des idées suicidaires. Jour et nuit. Gratuit.",
+      "hours": "Jour et nuit.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Zelfmoordlijn 1813 (auf Niederländisch)",
+      "desc": "Für Menschen mit Suizidgedanken. Tag und Nacht erreichbar. Kostenlos.",
+      "hours": "Tag und Nacht.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Zelfmoordlijn 1813 (in Dutch)",
+      "desc": "For people with thoughts of suicide. Day and night. Free.",
+      "hours": "Day and night.",
+      "src": {
+       "org": "Federal Public Service Home Affairs (112.be)",
+       "title": "Other emergency numbers",
+       "url": "https://112.be/en/other-emergency-numbers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "Psychische gezondheid",
+      "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "be106",
+     "band": "now",
+     "tel": "106",
+     "tel2": "",
+     "url": "https://112.be/nl/andere-noodnummers",
+     "linkOk": false,
+     "nl": {
+      "name": "Tele-Onthaal 106 (Nederlandstalig)",
+      "desc": "Praten met een deskundige vrijwilliger, 24 uur op 24. Gratis.",
+      "hours": "24 uur op 24.",
+      "src": {
+       "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+       "title": "Andere noodnummers",
+       "url": "https://112.be/nl/andere-noodnummers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Tele-Onthaal 106 (en néerlandais)",
+      "desc": "Parler à un bénévole formé, 24 h/24. Gratuit.",
+      "hours": "24 h/24.",
+      "src": {
+       "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+       "title": "Andere noodnummers",
+       "url": "https://112.be/nl/andere-noodnummers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Tele-Onthaal 106 (auf Niederländisch)",
+      "desc": "Mit einer geschulten ehrenamtlichen Person sprechen, rund um die Uhr. Kostenlos.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+       "title": "Andere noodnummers",
+       "url": "https://112.be/nl/andere-noodnummers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Tele-Onthaal 106 (in Dutch)",
+      "desc": "Talk to a trained volunteer, 24 hours a day. Free.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Federal Public Service Home Affairs (112.be)",
+       "title": "Other emergency numbers",
+       "url": "https://112.be/en/other-emergency-numbers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+      "title": "Andere noodnummers",
+      "url": "https://112.be/nl/andere-noodnummers",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "becps",
+     "band": "now",
+     "tel": "0800 32 123",
+     "tel2": "",
+     "url": "https://112.be/fr/autres-numeros-durgence",
+     "linkOk": false,
+     "nl": {
+      "name": "Centre de Prévention du Suicide (Franstalig)",
+      "desc": "Voor wie aan zelfdoding denkt. Telefonische hulp, 24 uur op 24, 7 dagen op 7. Gratis nummer.",
+      "hours": "24 uur op 24, 7 dagen op 7.",
+      "src": {
+       "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+       "title": "Autres numéros d'urgence",
+       "url": "https://112.be/fr/autres-numeros-durgence",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Centre de Prévention du Suicide (en français)",
+      "desc": "Pour les personnes qui ont des idées suicidaires. Aide par téléphone, 24 h/24, 7 j/7. Numéro gratuit.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "Service Public Fédéral Intérieur (112.be)",
+       "title": "Autres numéros d'urgence",
+       "url": "https://112.be/fr/autres-numeros-durgence",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Centre de Prévention du Suicide (auf Französisch)",
+      "desc": "Für Menschen mit Suizidgedanken. Hilfe am Telefon, rund um die Uhr, an 7 Tagen pro Woche. Kostenlose Nummer.",
+      "hours": "Rund um die Uhr, an 7 Tagen pro Woche.",
+      "src": {
+       "org": "Service Public Fédéral Intérieur (112.be)",
+       "title": "Autres numéros d'urgence",
+       "url": "https://112.be/fr/autres-numeros-durgence",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Centre de Prévention du Suicide (in French)",
+      "desc": "For people with thoughts of suicide. Telephone help, 24 hours a day, 7 days a week. Free number.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Psychological help",
+       "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+      "title": "Autres numéros d'urgence",
+      "url": "https://112.be/fr/autres-numeros-durgence",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "be107",
+     "band": "now",
+     "tel": "107",
+     "tel2": "",
+     "url": "https://www.aviq.be/fr/vie-quotidienne/aides-la-vie-quotidienne/centres-de-tele-accueil",
+     "linkOk": false,
+     "nl": {
+      "name": "Télé-Accueil 107 (Franstalig)",
+      "desc": "Hulp via de telefoon, dag en nacht, elke dag van het jaar. Gratis nummer.",
+      "hours": "Dag en nacht, elke dag van het jaar.",
+      "src": {
+       "org": "Agence pour une Vie de Qualité (AViQ)",
+       "title": "Centres de Télé-accueil",
+       "url": "https://www.aviq.be/fr/vie-quotidienne/aides-la-vie-quotidienne/centres-de-tele-accueil",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Télé-Accueil 107 (en français)",
+      "desc": "Aide par téléphone, jour et nuit, tous les jours de l’année. Numéro gratuit.",
+      "hours": "Jour et nuit, tous les jours de l’année.",
+      "src": {
+       "org": "Agence pour une Vie de Qualité (AViQ)",
+       "title": "Centres de Télé-accueil",
+       "url": "https://www.aviq.be/fr/vie-quotidienne/aides-la-vie-quotidienne/centres-de-tele-accueil",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Télé-Accueil 107 (auf Französisch)",
+      "desc": "Hilfe am Telefon, Tag und Nacht, an jedem Tag des Jahres. Kostenlose Nummer.",
+      "hours": "Tag und Nacht, an jedem Tag des Jahres.",
+      "src": {
+       "org": "Agence pour une Vie de Qualité (AViQ)",
+       "title": "Centres de Télé-accueil",
+       "url": "https://www.aviq.be/fr/vie-quotidienne/aides-la-vie-quotidienne/centres-de-tele-accueil",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Télé-Accueil 107 (in French)",
+      "desc": "Help by phone, day and night, every day of the year. Free number.",
+      "hours": "Day and night, every day of the year.",
+      "src": {
+       "org": "Federal Public Service Home Affairs (112.be)",
+       "title": "Other emergency numbers",
+       "url": "https://112.be/en/other-emergency-numbers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Agence pour une Vie de Qualité (AViQ)",
+      "title": "Centres de Télé-accueil",
+      "url": "https://www.aviq.be/fr/vie-quotidienne/aides-la-vie-quotidienne/centres-de-tele-accueil",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "be108",
+     "band": "now",
+     "tel": "108",
+     "tel2": "",
+     "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/",
+     "linkOk": false,
+     "nl": {
+      "name": "Telefonhilfe 108 (Duitstalig)",
+      "desc": "Telefonhilfe van de Duitstalige Gemeenschap. Elke dag, dag en nacht, ook in het weekend en op feestdagen. Gratis.",
+      "hours": "Elke dag, dag en nacht.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Hilfsangebote",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Telefonhilfe 108 (en allemand)",
+      "desc": "Telefonhilfe de la Communauté germanophone. Tous les jours, 24 h/24, y compris les week-ends et les jours fériés. Gratuit.",
+      "hours": "Tous les jours, 24 h/24.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Hilfsangebote",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Telefonhilfe 108 (auf Deutsch)",
+      "desc": "Telefonhilfe der Deutschsprachigen Gemeinschaft. Täglich rund um die Uhr erreichbar, auch am Wochenende und an Feiertagen. Kostenlos.",
+      "hours": "Täglich rund um die Uhr.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Hilfsangebote",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Telefonhilfe 108 (in German)",
+      "desc": "Telefonhilfe of the German-speaking Community. Every day, around the clock, including weekends and public holidays. Free.",
+      "hours": "Every day, around the clock.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Hilfsangebote",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+      "title": "Ostbelgien Live - Hilfsangebote",
+      "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "bechs",
+     "band": "now",
+     "tel": "02 648 40 14",
+     "tel2": "",
+     "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+     "linkOk": false,
+     "nl": {
+      "name": "Community Help Service, CHS (Engelstalig)",
+      "desc": "Hulp in het Engels als je geen Frans of Nederlands spreekt. 24 uur op 24.",
+      "hours": "24 uur op 24.",
+      "src": {
+       "org": "Région de Bruxelles-Capitale (be.brussels)",
+       "title": "Psychological help",
+       "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Community Help Service, CHS (en anglais)",
+      "desc": "Une aide en anglais si vous ne parlez ni français ni néerlandais. 24 h/24.",
+      "hours": "24 h/24.",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Psychological help",
+       "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Community Help Service, CHS (auf Englisch)",
+      "desc": "Hilfe auf Englisch, wenn Sie weder Französisch noch Niederländisch sprechen. Rund um die Uhr.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Psychological help",
+       "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Community Help Service, CHS (in English)",
+      "desc": "Help in English if you do not speak French or Dutch. 24 hours a day.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Psychological help",
+       "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Région de Bruxelles-Capitale (be.brussels)",
+      "title": "Psychological help",
+      "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/psychological-help",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "bezsg",
+     "band": "now",
+     "tel": "",
+     "tel2": "",
+     "url": "https://hulp.igvm-iefh.belgium.be/nl",
+     "linkOk": false,
+     "nl": {
+      "name": "Zorgcentrum na Seksueel Geweld (ZSG)",
+      "desc": "Na fysiek seksueel geweld, voor jezelf of iemand in je omgeving: gratis en 24 uur op 24, 7 dagen op 7. De contactgegevens van de centra staan op zsg.belgium.be.",
+      "hours": "24 uur op 24, 7 dagen op 7.",
+      "src": {
+       "org": "Instituut voor de gelijkheid van vrouwen en mannen (IGVM)",
+       "title": "Hulpportaal | Instituut voor de gelijkheid van vrouwen en mannen",
+       "url": "https://hulp.igvm-iefh.belgium.be/nl",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Centre de Prise en charge des Violences Sexuelles (CPVS)",
+      "desc": "Après des violences sexuelles physiques, pour vous ou un proche : gratuitement, 24 h/24, 7 j/7. Les coordonnées des centres sont sur cpvs.belgium.be.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "IGVM-IEFH",
+       "title": "Portail d'aide | Institut pour l'égalité des femmes et des hommes",
+       "url": "https://aide.igvm-iefh.belgium.be/fr",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Betreuungszentrum nach sexueller Gewalt (BSG)",
+      "desc": "Nach körperlicher sexueller Gewalt, für Sie oder jemanden aus Ihrem Umfeld: kostenlos und rund um die Uhr. Die Kontaktdaten der Zentren stehen auf bsg.belgium.be.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "IGVM-IEFH",
+       "title": "Hilfe-Portal | Das Institut für die Gleichstellung von Frauen und Männern",
+       "url": "https://hilfe.igvm-iefh.belgium.be/de",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Care Centre after Sexual Violence (ZSG / CPVS / BSG)",
+      "desc": "After physical sexual violence, for you or someone close to you: free, 24 hours a day, 7 days a week. The contact details of the centres are on zsg.belgium.be (Dutch) and cpvs.belgium.be (French).",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "IGVM-IEFH",
+       "title": "Hulpportaal | Instituut voor de gelijkheid van vrouwen en mannen",
+       "url": "https://hulp.igvm-iefh.belgium.be/nl",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Instituut voor de gelijkheid van vrouwen en mannen (IGVM)",
+      "title": "Hulpportaal | Instituut voor de gelijkheid van vrouwen en mannen",
+      "url": "https://hulp.igvm-iefh.belgium.be/nl",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "behuisarts",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+     "linkOk": false,
+     "nl": {
+      "name": "Je huisarts",
+      "desc": "Volgens de Vlaamse overheid is je huisarts bij een psychologisch probleem de beste eerste stap.",
+      "hours": "Vraag de uren na bij je huisarts.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Votre médecin généraliste",
+      "desc": "Selon une page du gouvernement flamand, en cas de difficulté psychologique, le mieux est de contacter d’abord votre médecin généraliste.",
+      "hours": "Renseignez-vous sur les horaires auprès de votre médecin.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Ihre Hausärztin oder Ihr Hausarzt",
+      "desc": "Laut einer Seite der flämischen Regierung wenden Sie sich bei psychischen Problemen am besten zuerst an Ihre Hausärztin oder Ihren Hausarzt.",
+      "hours": "Die Sprechzeiten erfahren Sie in der Praxis.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Your GP (family doctor)",
+      "desc": "According to a Flemish government page, for a psychological problem it is best to contact your GP first.",
+      "hours": "Ask your GP’s practice for opening hours.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "Psychische gezondheid",
+      "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "be1733",
+     "band": "day",
+     "tel": "1733",
+     "tel2": "",
+     "url": "https://112.be/nl/andere-noodnummers",
+     "linkOk": false,
+     "nl": {
+      "name": "1733 (dokter van wacht)",
+      "desc": "Als je huisarts niet beschikbaar is en het niet kan wachten. In een groot deel van België; in sommige regio’s heeft de wachtpost nog een eigen nummer. Het nummer wordt aan zonaal tarief aangerekend. Bij levensgevaar: 112.",
+      "hours": "Buiten de uren van je huisarts.",
+      "src": {
+       "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+       "title": "Andere noodnummers",
+       "url": "https://112.be/nl/andere-noodnummers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "1733 (médecin de garde)",
+      "desc": "Quand votre médecin généraliste n’est pas disponible et que cela ne peut pas attendre. Dans une grande partie de la Belgique ; dans certaines régions, le poste de garde a encore son propre numéro. Appel facturé au tarif zonal. En cas de danger de mort : 112.",
+      "hours": "En dehors des heures de votre médecin.",
+      "src": {
+       "org": "SPF Santé publique",
+       "title": "Besoin d’un médecin de garde? Composez le 1733",
+       "url": "https://www.health.belgium.be/fr/themes/sante/aide-medicale-urgente/acteurs-laide-medicale-urgente/besoin-dun-medecin-garde-composez-1733",
+       "kind": "fact",
+       "upd": "2026-04-02"
+      }
+     },
+     "de": {
+      "name": "1733 (diensthabender Arzt)",
+      "desc": "Wenn Ihre Hausärztin oder Ihr Hausarzt nicht erreichbar ist und es nicht warten kann. In weiten Teilen Belgiens; in manchen Regionen hat der Bereitschaftsdienst noch eine eigene Nummer. Für die Nummer gilt der Zonentarif. Bei Lebensgefahr: 112.",
+      "hours": "Außerhalb der Sprechzeiten Ihrer Hausarztpraxis.",
+      "src": {
+       "org": "Föderaler Öffentlicher Dienst Inneres (112.be)",
+       "title": "Andere Notrufnummern",
+       "url": "https://112.be/de/andere-notrufnummern",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "1733 (doctor on duty)",
+      "desc": "When your GP is not available and it cannot wait. In much of Belgium; in some regions the on-call post still has its own number. Charged at a local rate. If a life is in danger: 112.",
+      "hours": "Outside your GP’s hours.",
+      "src": {
+       "org": "Federal Public Service Home Affairs (112.be)",
+       "title": "Other emergency numbers",
+       "url": "https://112.be/en/other-emergency-numbers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Federale Overheidsdienst Binnenlandse Zaken (112.be)",
+      "title": "Andere noodnummers",
+      "url": "https://112.be/nl/andere-noodnummers",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beepz",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+     "linkOk": false,
+     "nl": {
+      "name": "Eerstelijns psychologische zorg (RIZIV)",
+      "desc": "Psychologische zorg in een netwerk voor geestelijke gezondheid dat een overeenkomst heeft met het RIZIV. Voor de eerstelijns psychologische ondersteuning is geen voorschrift nodig.",
+      "hours": "Vraag de uren na bij het netwerk in je buurt.",
+      "src": {
+       "org": "RIZIV",
+       "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+       "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Soins psychologiques de première ligne (INAMI)",
+      "desc": "Des soins psychologiques dans un réseau de santé mentale conventionné avec l’INAMI. Pour le soutien psychologique de première ligne, aucune prescription n’est nécessaire.",
+      "hours": "Renseignez-vous sur les horaires auprès du réseau près de chez vous.",
+      "src": {
+       "org": "INAMI",
+       "title": "Vos soins psychologiques de 1re ligne : remboursés via les réseaux de santé mentale",
+       "url": "https://www.inami.fgov.be/fr/themes/soins-de-sante-cout-et-remboursement/les-prestations-de-sante-que-vous-rembourse-votre-mutualite/soins-de-sante-mentale/vos-soins-psychologiques-de-1re-ligne-rembourses-via-les-reseaux-de-sante-mentale",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Psychologische Erstversorgung (LIKIV)",
+      "desc": "Psychologische Versorgung in einem Netzwerk für psychische Gesundheit, das ein Abkommen mit dem LIKIV hat. Für die psychologische Erstunterstützung brauchen Sie keine Überweisung.",
+      "hours": "Die Zeiten erfahren Sie beim Netzwerk in Ihrer Nähe.",
+      "src": {
+       "org": "LIKIV",
+       "title": "Ihre psychologische Erstversorgung: Erstattung über die Netzwerke für psychische Gesundheit",
+       "url": "https://www.riziv.fgov.be/fr/likiv/ihre-psychologische-erstversorgung-erstattung-uber-die-netzwerke-fur-psychische-gesundheit",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "First-line mental health support (RIZIV-INAMI)",
+      "desc": "Offered in a mental health network that has an agreement with RIZIV-INAMI (eerstelijns psychologische zorg / soins psychologiques de première ligne). For the first-line support part, you do not need a prescription.",
+      "hours": "Ask the network near you for opening hours.",
+      "src": {
+       "org": "RIZIV-INAMI",
+       "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+       "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "RIZIV",
+      "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+      "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "becgg",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid/voorzieningen-voor-geestelijke-gezondheidszorg",
+     "linkOk": false,
+     "nl": {
+      "name": "Centrum voor Geestelijke Gezondheidszorg (CGG, Vlaanderen)",
+      "desc": "Gespecialiseerde ambulante hulp in Vlaanderen, zonder opname.",
+      "hours": "Vraag de uren na bij het CGG in je buurt.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Voorzieningen voor geestelijke gezondheidszorg",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid/voorzieningen-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Centrum voor Geestelijke Gezondheidszorg (CGG, Flandre)",
+      "desc": "Aide spécialisée en ambulatoire en Flandre, sans hospitalisation.",
+      "hours": "Renseignez-vous sur les horaires auprès du CGG le plus proche.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "Voorzieningen voor geestelijke gezondheidszorg",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid/voorzieningen-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Centrum voor Geestelijke Gezondheidszorg (CGG, Flandern)",
+      "desc": "Spezialisierte ambulante Hilfe in Flandern, ohne stationäre Aufnahme.",
+      "hours": "Die Zeiten erfahren Sie beim CGG in Ihrer Nähe.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "Voorzieningen voor geestelijke gezondheidszorg",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid/voorzieningen-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Centrum voor Geestelijke Gezondheidszorg (CGG, Flanders)",
+      "desc": "Specialised outpatient help in Flanders, without a hospital stay.",
+      "hours": "Ask the CGG near you for opening hours.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Voorzieningen voor geestelijke gezondheidszorg",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid/voorzieningen-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "Voorzieningen voor geestelijke gezondheidszorg",
+      "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid/voorzieningen-voor-geestelijke-gezondheidszorg",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "bessm",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.wallonie.be/fr/demarches/beneficier-dune-prise-en-charge-dans-un-service-de-sante-mentale-ssm",
+     "linkOk": false,
+     "nl": {
+      "name": "Service de santé mentale (SSM, Wallonië en Brussel)",
+      "desc": "Een ambulante dienst: je krijgt er hulp zonder opname. In Wallonië open van maandag tot vrijdag, van 9 tot 18 uur.",
+      "hours": "In Wallonië: maandag tot vrijdag, van 9 tot 18 uur.",
+      "src": {
+       "org": "Service public de Wallonie (wallonie.be)",
+       "title": "Bénéficier d'une prise en charge dans un service de santé mentale (SSM)",
+       "url": "https://www.wallonie.be/fr/demarches/beneficier-dune-prise-en-charge-dans-un-service-de-sante-mentale-ssm",
+       "kind": "fact",
+       "upd": "2026-10-12"
+      }
+     },
+     "fr": {
+      "name": "Service de santé mentale (SSM, Wallonie et Bruxelles)",
+      "desc": "Un service ambulatoire : l’aide se fait sans hospitalisation. En Wallonie, ouvert du lundi au vendredi, de 9 h à 18 h.",
+      "hours": "En Wallonie : du lundi au vendredi, de 9 h à 18 h.",
+      "src": {
+       "org": "Service public de Wallonie (wallonie.be)",
+       "title": "Bénéficier d'une prise en charge dans un service de santé mentale (SSM)",
+       "url": "https://www.wallonie.be/fr/demarches/beneficier-dune-prise-en-charge-dans-un-service-de-sante-mentale-ssm",
+       "kind": "fact",
+       "upd": "2026-10-12"
+      }
+     },
+     "de": {
+      "name": "Service de santé mentale (SSM, Wallonien und Brüssel)",
+      "desc": "Ein ambulanter Dienst: Hilfe ohne stationäre Aufnahme. In der Wallonie geöffnet montags bis freitags von 9 bis 18 Uhr.",
+      "hours": "In der Wallonie: montags bis freitags, 9 bis 18 Uhr.",
+      "src": {
+       "org": "Service public de Wallonie (wallonie.be)",
+       "title": "Bénéficier d'une prise en charge dans un service de santé mentale (SSM)",
+       "url": "https://www.wallonie.be/fr/demarches/beneficier-dune-prise-en-charge-dans-un-service-de-sante-mentale-ssm",
+       "kind": "fact",
+       "upd": "2026-10-12"
+      }
+     },
+     "en": {
+      "name": "Service de santé mentale (SSM, Wallonia and Brussels)",
+      "desc": "An outpatient service: you get support there without a hospital stay. In Wallonia, open Monday to Friday, 9:00 to 18:00.",
+      "hours": "In Wallonia: Monday to Friday, 9:00 to 18:00.",
+      "src": {
+       "org": "Service public de Wallonie (wallonie.be)",
+       "title": "Bénéficier d'une prise en charge dans un service de santé mentale (SSM)",
+       "url": "https://www.wallonie.be/fr/demarches/beneficier-dune-prise-en-charge-dans-un-service-de-sante-mentale-ssm",
+       "kind": "fact",
+       "upd": "2026-10-12"
+      }
+     },
+     "src": {
+      "org": "Service public de Wallonie (wallonie.be)",
+      "title": "Bénéficier d'une prise en charge dans un service de santé mentale (SSM)",
+      "url": "https://www.wallonie.be/fr/demarches/beneficier-dune-prise-en-charge-dans-un-service-de-sante-mentale-ssm",
+      "kind": "fact",
+      "upd": "2026-10-12"
+     }
+    },
+    {
+     "id": "bebtz",
+     "band": "day",
+     "tel": "087 140 180",
+     "tel2": "",
+     "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8500/12906_read-29508/",
+     "linkOk": false,
+     "nl": {
+      "name": "BTZ (Duitstalige Gemeenschap)",
+      "desc": "Advies en ambulante hulp voor wie in de Duitstalige Gemeenschap woont, in het Duits of het Frans.",
+      "hours": "Vraag de uren na bij het BTZ.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - mentale Gesundheit",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8500/12906_read-29508/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "BTZ (Communauté germanophone)",
+      "desc": "Conseil et aide en ambulatoire pour les personnes qui vivent en Communauté germanophone, en allemand ou en français.",
+      "hours": "Renseignez-vous sur les horaires auprès du BTZ.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - mentale Gesundheit",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8500/12906_read-29508/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "BTZ (Ostbelgien)",
+      "desc": "Beratung und ambulante Hilfe für alle, die in der Deutschsprachigen Gemeinschaft leben, auf Deutsch oder Französisch.",
+      "hours": "Die Zeiten erfahren Sie beim BTZ.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - mentale Gesundheit",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8500/12906_read-29508/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "BTZ (German-speaking Community)",
+      "desc": "Advice and outpatient help for people living in the German-speaking Community, in German or French.",
+      "hours": "Ask the BTZ for opening hours.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - mentale Gesundheit",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8500/12906_read-29508/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+      "title": "Ostbelgien Live - mentale Gesundheit",
+      "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8500/12906_read-29508/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "becaw",
+     "band": "day",
+     "tel": "0800 13 500",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/caw-centrum-voor-algemeen-welzijnswerk",
+     "linkOk": false,
+     "nl": {
+      "name": "CAW, Centrum voor Algemeen Welzijnswerk (Nederlandstalig)",
+      "desc": "Gratis nummer 0800 13 500; het gesprek staat niet op je telefoonrekening. De hulp van een CAW is in eerste instantie gratis. Je kunt ook zelf naar een CAW in je buurt gaan.",
+      "hours": "Vraag de uren na bij het CAW in je buurt.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "CAW: Centrum voor Algemeen Welzijnswerk",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/caw-centrum-voor-algemeen-welzijnswerk",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "CAW, Centrum voor Algemeen Welzijnswerk (en néerlandais)",
+      "desc": "Numéro gratuit 0800 13 500 ; l’appel n’apparaît pas sur votre facture de téléphone. Un CAW est gratuit dans un premier temps. Vous pouvez aussi vous rendre dans un CAW près de chez vous.",
+      "hours": "Renseignez-vous sur les horaires auprès du CAW le plus proche.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "CAW: Centrum voor Algemeen Welzijnswerk",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/caw-centrum-voor-algemeen-welzijnswerk",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "CAW, Centrum voor Algemeen Welzijnswerk (auf Niederländisch)",
+      "desc": "Kostenlose Nummer 0800 13 500; der Anruf erscheint nicht auf Ihrer Telefonrechnung. Ein CAW ist zunächst kostenlos. Sie können auch bei einem CAW in Ihrer Nähe vorbeigehen.",
+      "hours": "Die Zeiten erfahren Sie beim CAW in Ihrer Nähe.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "CAW: Centrum voor Algemeen Welzijnswerk",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/caw-centrum-voor-algemeen-welzijnswerk",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "CAW, Centrum voor Algemeen Welzijnswerk (in Dutch)",
+      "desc": "Free number 0800 13 500; the call does not appear on your phone bill. A CAW is free at first. You can also go to a CAW near you.",
+      "hours": "Ask the CAW near you for opening hours.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "CAW: Centrum voor Algemeen Welzijnswerk",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/caw-centrum-voor-algemeen-welzijnswerk",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "CAW: Centrum voor Algemeen Welzijnswerk",
+      "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/caw-centrum-voor-algemeen-welzijnswerk",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beocmw",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/dienstverlening-van-de-openbare-centra-voor-maatschappelijk-welzijn-ocmw",
+     "linkOk": false,
+     "nl": {
+      "name": "OCMW / CPAS / ÖSHZ van je gemeente",
+      "desc": "Bij geldzorgen of andere tekorten. Elke gemeente heeft een OCMW.",
+      "hours": "Vraag de uren na bij je gemeente.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Dienstverlening van de Openbare Centra voor Maatschappelijk Welzijn (OCMW)",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/dienstverlening-van-de-openbare-centra-voor-maatschappelijk-welzijn-ocmw",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "CPAS / OCMW / ÖSHZ de votre commune",
+      "desc": "Pour des difficultés financières. Chaque commune a son CPAS.",
+      "hours": "Renseignez-vous sur les horaires auprès de votre commune.",
+      "src": {
+       "org": "Région de Bruxelles-Capitale (be.brussels)",
+       "title": "CPAS",
+       "url": "https://be.brussels/fr/aide-social-sante/aide-aux-personnes-et-aux-familles/cpas",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "ÖSHZ / OCMW / CPAS Ihrer Gemeinde",
+      "desc": "Das ÖSHZ unterstützt Menschen, die in Not geraten sind. In der Deutschsprachigen Gemeinschaft hat jede Gemeinde eines.",
+      "hours": "Die Zeiten erfahren Sie bei Ihrer Gemeinde.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Beratung und Orientierung",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Public social welfare centre of your municipality (OCMW / CPAS / ÖSHZ)",
+      "desc": "For financial difficulties. Every commune has a CPAS.",
+      "hours": "Ask your municipality for opening hours.",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "CPAS",
+       "url": "https://be.brussels/en/assistance-social-health/assistance-individuals-and-families/cpas",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "Dienstverlening van de Openbare Centra voor Maatschappelijk Welzijn (OCMW)",
+      "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorg-vinden/dienstverlening-van-de-openbare-centra-voor-maatschappelijk-welzijn-ocmw",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "be1712",
+     "band": "day",
+     "tel": "1712",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/hulplijn-geweld-misbruik-en-kindermishandeling-1712",
+     "linkOk": false,
+     "nl": {
+      "name": "1712 (Vlaamse overheid)",
+      "desc": "Hulplijn voor vragen over geweld en misbruik. Elke werkdag van 9 tot 18 uur. Het nummer is gratis.",
+      "hours": "Elke werkdag van 9 tot 18 uur.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Hulplijn geweld, misbruik en kindermishandeling 1712",
+       "url": "https://www.vlaanderen.be/hulplijn-geweld-misbruik-en-kindermishandeling-1712",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "1712 (Gouvernement flamand)",
+      "desc": "Ligne d’aide pour les questions de violence et d’abus. Jours ouvrables de 9 h à 18 h. Numéro gratuit.",
+      "hours": "Jours ouvrables de 9 h à 18 h.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "Signaler l’abus, la violence et la maltraitance",
+       "url": "https://www.vlaanderen.be/fr/signaler-labus-la-violence-et-la-maltraitance",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "1712 (Flämische Behörden)",
+      "desc": "Hilfslinie bei Fragen zu Gewalt und Missbrauch. Jeden Arbeitstag von 9 bis 18 Uhr. Kostenlose Nummer.",
+      "hours": "Jeden Arbeitstag von 9 bis 18 Uhr.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "1712 - Meldepunkt Gewalt, Missbrauch und Kindesmisshandlung",
+       "url": "https://www.vlaanderen.be/de/1712-meldepunkt-gewalt-missbrauch-und-kindesmisshandlung",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "1712 (Flemish government)",
+      "desc": "Helpline for questions about violence and abuse. Working days, 9:00 to 18:00. Free number.",
+      "hours": "Working days, 9:00 to 18:00.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Hulplijn geweld, misbruik en kindermishandeling 1712",
+       "url": "https://www.vlaanderen.be/hulplijn-geweld-misbruik-en-kindermishandeling-1712",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "Hulplijn geweld, misbruik en kindermishandeling 1712",
+      "url": "https://www.vlaanderen.be/hulplijn-geweld-misbruik-en-kindermishandeling-1712",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beevc",
+     "band": "day",
+     "tel": "0800 30 030",
+     "tel2": "",
+     "url": "https://aide.igvm-iefh.belgium.be/fr",
+     "linkOk": false,
+     "nl": {
+      "name": "Écoute Violences Conjugales (Franstalig)",
+      "desc": "Hulplijn bij geweld tussen (ex-)partners. Gratis nummer. Dit is geen noodlijn: bel in een noodgeval 112.",
+      "hours": "",
+      "src": {
+       "org": "Instituut voor de gelijkheid van vrouwen en mannen (IGVM)",
+       "title": "Portail d'aide | Institut pour l'égalité des femmes et des hommes",
+       "url": "https://aide.igvm-iefh.belgium.be/fr",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Écoute Violences Conjugales (en français)",
+      "desc": "Ligne d’assistance pour les violences entre (ex-)partenaires. Numéro gratuit. Ce n’est pas une ligne d’urgence : en cas d’urgence, appelez le 112.",
+      "hours": "",
+      "src": {
+       "org": "IGVM-IEFH",
+       "title": "Portail d'aide | Institut pour l'égalité des femmes et des hommes",
+       "url": "https://aide.igvm-iefh.belgium.be/fr",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Écoute Violences Conjugales (auf Französisch)",
+      "desc": "Beratungsnummer bei Gewalt zwischen (Ex-)Partnern. Kostenlose Nummer. Kein Notruf: Im Notfall rufen Sie 112 an.",
+      "hours": "",
+      "src": {
+       "org": "IGVM-IEFH",
+       "title": "Portail d'aide | Institut pour l'égalité des femmes et des hommes",
+       "url": "https://aide.igvm-iefh.belgium.be/fr",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Écoute Violences Conjugales (in French)",
+      "desc": "Helpline for violence between (ex-)partners. Free number. It is not an emergency line: in an emergency, call 112.",
+      "hours": "",
+      "src": {
+       "org": "IGVM-IEFH",
+       "title": "Portail d'aide | Institut pour l'égalité des femmes et des hommes",
+       "url": "https://aide.igvm-iefh.belgium.be/fr",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Instituut voor de gelijkheid van vrouwen en mannen (IGVM)",
+      "title": "Portail d'aide | Institut pour l'égalité des femmes et des hommes",
+      "url": "https://aide.igvm-iefh.belgium.be/fr",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beprisma",
+     "band": "day",
+     "tel": "087 744 241",
+     "tel2": "",
+     "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+     "linkOk": false,
+     "nl": {
+      "name": "Prisma (Duitstalige Gemeenschap)",
+      "desc": "Adviescentrum bij gendergerelateerd geweld en discriminatie. Een afspraak maak je telefonisch, per e-mail of ter plaatse. Er wordt een bijdrage volgens inkomen gevraagd. Bij acuut geweld: politie, 101.",
+      "hours": "Op afspraak.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Beratung und Orientierung",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Prisma (Communauté germanophone)",
+      "desc": "Service de conseil en cas de violence liée au genre et de discrimination. Rendez-vous par téléphone, par e-mail ou sur place. Une participation aux frais selon les revenus est demandée. En cas de violence aiguë : police, 101.",
+      "hours": "Sur rendez-vous.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Beratung und Orientierung",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Prisma (Ostbelgien)",
+      "desc": "Beratung bei geschlechtsspezifischer Gewalt und Diskriminierung. Einen Termin vereinbaren Sie telefonisch, per E-Mail oder vor Ort. Der Kostenbeitrag richtet sich nach dem Einkommen. Bei akuter Gewalt: Polizei-Notruf 101.",
+      "hours": "Nach Terminvereinbarung.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Beratung und Orientierung",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Prisma (German-speaking Community)",
+      "desc": "Advice centre for gender-based violence and discrimination. Appointments by phone, email or in person. An income-based contribution is charged. For acute violence: police, 101.",
+      "hours": "By appointment.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Beratung und Orientierung",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+      "title": "Ostbelgien Live - Beratung und Orientierung",
+      "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8650/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "begok",
+     "band": "day",
+     "tel": "0800 35 777",
+     "tel2": "",
+     "url": "https://www.gamingcommission.be/nl/bescherming-van-de-spelers",
+     "linkOk": false,
+     "nl": {
+      "name": "SOS Gokken",
+      "desc": "Bij vragen over problemen met kansspelen. Gratis nummer, 24 uur op 24, 7 dagen op 7.",
+      "hours": "24 uur op 24, 7 dagen op 7.",
+      "src": {
+       "org": "Kansspelcommissie (gamingcommission.be)",
+       "title": "Bescherming van de spelers",
+       "url": "https://www.gamingcommission.be/nl/bescherming-van-de-spelers",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "SOS Jeux",
+      "desc": "Pour vos questions sur les problèmes de jeux de hasard. Numéro gratuit, 24 h/24, 7 j/7.",
+      "hours": "24 h/24, 7 j/7.",
+      "src": {
+       "org": "Commission des jeux de hasard (gamingcommission.be)",
+       "title": "Protection des joueurs",
+       "url": "https://www.gamingcommission.be/fr/protection-des-joueurs",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "SOS Spielen",
+      "desc": "Bei Fragen zu Problemen mit dem Glücksspiel. Gebührenfreie Nummer, rund um die Uhr erreichbar.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "Kommission für Glücksspiele (gamingcommission.be)",
+       "title": "Schutz der Spieler",
+       "url": "https://www.gamingcommission.be/de/schutz-der-spieler",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "SOS Gokken / SOS Jeux",
+      "desc": "For questions about gambling problems. Free number, 24 hours a day, 7 days a week.",
+      "hours": "24 hours a day, 7 days a week.",
+      "src": {
+       "org": "Gaming Commission (gamingcommission.be)",
+       "title": "Protection of players",
+       "url": "https://www.gamingcommission.be/en/protection-of-players",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Kansspelcommissie (gamingcommission.be)",
+      "title": "Bescherming van de spelers",
+      "url": "https://www.gamingcommission.be/nl/bescherming-van-de-spelers",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "bedrug",
+     "band": "day",
+     "tel": "078 15 10 20",
+     "tel2": "",
+     "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+     "linkOk": false,
+     "nl": {
+      "name": "De Druglijn (Nederlandstalig)",
+      "desc": "Bij vragen over alcohol, medicatie, drugs of een andere verslaving. Maandag tot en met vrijdag, van 10 tot 20 uur.",
+      "hours": "Maandag tot en met vrijdag, 10 tot 20 uur.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "De Druglijn (en néerlandais)",
+      "desc": "Pour des questions sur l’alcool, les médicaments, les drogues ou une autre dépendance. Du lundi au vendredi, de 10 h à 20 h.",
+      "hours": "Du lundi au vendredi, de 10 h à 20 h.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "De Druglijn (auf Niederländisch)",
+      "desc": "Bei Fragen zu Alkohol, Medikamenten, Drogen oder einer anderen Abhängigkeit. Montags bis freitags von 10 bis 20 Uhr.",
+      "hours": "Montags bis freitags, 10 bis 20 Uhr.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "De Druglijn (in Dutch)",
+      "desc": "For questions about alcohol, medication, drugs or another addiction. Monday to Friday, 10:00 to 20:00.",
+      "hours": "Monday to Friday, 10:00 to 20:00.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaamse overheid (vlaanderen.be)",
+      "title": "Psychische gezondheid",
+      "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beinfdr",
+     "band": "day",
+     "tel": "02 227 52 52",
+     "tel2": "",
+     "url": "https://be.brussels/en/assistance-social-health/prevention-strategies/duty-services",
+     "linkOk": false,
+     "nl": {
+      "name": "Infor-Drogues (Franstalig)",
+      "desc": "Informatie over drugs.",
+      "hours": "",
+      "src": {
+       "org": "Région de Bruxelles-Capitale (be.brussels)",
+       "title": "Duty services",
+       "url": "https://be.brussels/en/assistance-social-health/prevention-strategies/duty-services",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Infor-Drogues (en français)",
+      "desc": "Information sur les drogues.",
+      "hours": "",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Duty services",
+       "url": "https://be.brussels/en/assistance-social-health/prevention-strategies/duty-services",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Infor-Drogues (auf Französisch)",
+      "desc": "Informationen über Drogen.",
+      "hours": "",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Duty services",
+       "url": "https://be.brussels/en/assistance-social-health/prevention-strategies/duty-services",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Infor-Drogues (in French)",
+      "desc": "Information about drugs.",
+      "hours": "",
+      "src": {
+       "org": "Brussels-Capital Region (be.brussels)",
+       "title": "Duty services",
+       "url": "https://be.brussels/en/assistance-social-health/prevention-strategies/duty-services",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Région de Bruxelles-Capitale (be.brussels)",
+      "title": "Duty services",
+      "url": "https://be.brussels/en/assistance-social-health/prevention-strategies/duty-services",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beasl",
+     "band": "day",
+     "tel": "087 74 36 77",
+     "tel2": "",
+     "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/13837_read-9049/",
+     "linkOk": false,
+     "nl": {
+      "name": "ASL (Duitstalige Gemeenschap)",
+      "desc": "Eerste aanspreekpunt in de Duitstalige Gemeenschap bij vragen over verslaving en afhankelijkheid.",
+      "hours": "Vraag de uren na bij de ASL.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Arbeitsgemeinschaft für Suchtvorbeugung und Lebensbewältigung, ASL",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/13837_read-9049/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "ASL (Communauté germanophone)",
+      "desc": "Premier point de contact en Communauté germanophone pour les questions de dépendance.",
+      "hours": "Renseignez-vous sur les horaires auprès de l’ASL.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Arbeitsgemeinschaft für Suchtvorbeugung und Lebensbewältigung, ASL",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/13837_read-9049/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "ASL (Ostbelgien)",
+      "desc": "Erste Anlaufstelle in Ostbelgien bei Fragen zu Sucht und Abhängigkeit.",
+      "hours": "Die Zeiten erfahren Sie bei der ASL.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Arbeitsgemeinschaft für Suchtvorbeugung und Lebensbewältigung, ASL",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/13837_read-9049/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "ASL (German-speaking Community)",
+      "desc": "First point of contact in the German-speaking Community for questions about addiction and dependence.",
+      "hours": "Ask the ASL for opening hours.",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Arbeitsgemeinschaft für Suchtvorbeugung und Lebensbewältigung, ASL",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/13837_read-9049/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+      "title": "Ostbelgien Live - Arbeitsgemeinschaft für Suchtvorbeugung und Lebensbewältigung, ASL",
+      "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8406/13837_read-9049/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "beunia",
+     "band": "day",
+     "tel": "0800 12 800",
+     "tel2": "",
+     "url": "https://www.unia.be/nl/discriminatie-melden",
+     "linkOk": false,
+     "nl": {
+      "name": "Unia (discriminatie)",
+      "desc": "Bij discriminatie, bijvoorbeeld om een handicap. Gratis nummer 0800 12 800, op werkdagen van 9.30 tot 13 uur. Vermeld je naam: bij een melding zonder naam opent Unia geen dossier. Voor Vlaamse bevoegdheden, zoals de huurmarkt of Nederlandstalig onderwijs, is het VMRI bevoegd.",
+      "hours": "Werkdagen van 9.30 tot 13 uur.",
+      "src": {
+       "org": "Unia",
+       "title": "Discriminatie melden",
+       "url": "https://www.unia.be/nl/discriminatie-melden",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Unia (discrimination)",
+      "desc": "En cas de discrimination, par exemple liée à un handicap. Numéro gratuit 0800 12 800, les jours ouvrables de 9 h 30 à 13 h. Indiquez votre nom : sans nom, Unia n’ouvre pas de dossier. Pour les compétences flamandes, comme le marché locatif ou l’enseignement en néerlandais, c’est le VMRI qui est compétent.",
+      "hours": "Jours ouvrables de 9 h 30 à 13 h.",
+      "src": {
+       "org": "Unia",
+       "title": "Discriminatie melden",
+       "url": "https://www.unia.be/nl/discriminatie-melden",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Unia (Diskriminierung)",
+      "desc": "Bei Diskriminierung, zum Beispiel wegen einer Behinderung. Kostenlose Nummer 0800 12 800, werktags von 9.30 bis 13 Uhr. Nennen Sie Ihren Namen: Ohne Namen eröffnet Unia keine Akte. Für flämische Zuständigkeiten, etwa den Mietmarkt oder den niederländischsprachigen Unterricht, ist das VMRI zuständig.",
+      "hours": "Werktags von 9.30 bis 13 Uhr.",
+      "src": {
+       "org": "Unia",
+       "title": "Discriminatie melden",
+       "url": "https://www.unia.be/nl/discriminatie-melden",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Unia (discrimination)",
+      "desc": "For discrimination, for example because of a disability. Free number 0800 12 800, working days 9:30 to 13:00. Give your name: without a name, Unia does not open a case. For Flemish matters, such as the rental market or Dutch-language education, the VMRI is responsible.",
+      "hours": "Working days, 9:30 to 13:00.",
+      "src": {
+       "org": "Unia",
+       "title": "Discriminatie melden",
+       "url": "https://www.unia.be/nl/discriminatie-melden",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Unia",
+      "title": "Discriminatie melden",
+      "url": "https://www.unia.be/nl/discriminatie-melden",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "bedis",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+     "linkOk": false,
+     "nl": {
+      "name": "Hulp bij een handicap: VAPH (Vlaanderen), AViQ (Wallonië), PHARE (Brussel, COCOF), DSL (Duitstalige Gemeenschap)",
+      "desc": "Waar je terechtkunt, hangt af van waar je woont. De DSL in de Duitstalige Gemeenschap is bereikbaar op 0800 900 11.",
+      "hours": "",
+      "src": {
+       "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+       "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+       "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Aide en cas de handicap : VAPH (Flandre), AViQ (Wallonie), PHARE (Bruxelles, COCOF), DSL (Communauté germanophone)",
+      "desc": "L’organisme compétent dépend de votre lieu de résidence. La DSL, en Communauté germanophone, est joignable au 0800 900 11.",
+      "hours": "",
+      "src": {
+       "org": "Service public de Wallonie (wallonie.be)",
+       "title": "Handicap",
+       "url": "https://www.wallonie.be/fr/vivre-en-wallonie/famille-sante-et-social/handicap",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "de": {
+      "name": "Hilfe bei Behinderung: VAPH (Flandern), AViQ (Wallonien), PHARE (Brüssel, COCOF), DSL (Deutschsprachige Gemeinschaft)",
+      "desc": "Welche Stelle zuständig ist, hängt von Ihrem Wohnort ab. Die DSL in der Deutschsprachigen Gemeinschaft erreichen Sie unter 0800 900 11.",
+      "hours": "",
+      "src": {
+       "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+       "title": "Ostbelgien Live - Dienststelle für Selbstbestimmtes Leben",
+       "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8619/14012_read-75187/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Disability support: VAPH (Flanders), AViQ (Wallonia), PHARE (Brussels, COCOF), DSL (German-speaking Community)",
+      "desc": "Where to go depends on where you live. The DSL in the German-speaking Community can be reached on 0800 900 11.",
+      "hours": "",
+      "src": {
+       "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+       "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+       "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+      "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+      "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "nl": {
+    "groups": {
+     "mood": {
+      "label": "Somber, geen energie",
+      "lead": "Als je je lang somber voelt en het moeite kost om ergens energie voor te vinden.",
+      "scenes": [
+       "Van ’s ochtends tot ’s avonds voel ik me somber.",
+       "Dingen die ik vroeger leuk vond, geven me geen plezier meer.",
+       "Ik heb geen energie en kan me niet concentreren, waardoor mijn werk en het huishouden blijven liggen.",
+       "Ik geef mezelf overal de schuld van en zie steeds de negatieve kant van dingen.",
+       "Ik slaap slecht of juist veel te veel. Ik heb weinig eetlust en mijn lichaam voelt zwaar.",
+       "Soms wil ik er niet meer zijn, of wil ik verdwijnen."
+      ],
+      "asks": [
+       "Het helpt me als dingen één voor één worden uitgelegd.",
+       "Het helpt me als ik niet word opgejaagd om te antwoorden of te beslissen en tijd krijg om na te denken.",
+       "Belangrijke dingen krijg ik liever op papier.",
+       "Voordat iemand ‘Kop op!’ of ‘Zet je eroverheen’ zegt, helpt het me als eerst naar me wordt geluisterd.",
+       "Het helpt me als het niet meteen als luiheid wordt gezien wanneer ik rust.",
+       "Het helpt me als we samen nagaan of een lichamelijke ziekte of medicatie die ik gebruik een rol speelt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depressie",
+        "why": "Dit document beschrijft depressie als een verdrietige stemming met verlies van belangstelling en plezier in de dingen van het dagelijkse leven, en zegt dat dit het sociaal functioneren raakt.",
+        "src": {
+         "org": "Federaal Kenniscentrum voor de Gezondheidszorg (KCE)",
+         "title": "Majeure depressie (bij volwassenen): doeltreffendheid op de lange termijn van psychotherapie, op zichzelf of in combinatie met antidepressiva",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/KCE_230As_Depressie_synthese.pdf",
+         "kind": "fact",
+         "upd": "2014"
+        }
+       },
+       {
+        "name": "Burn-out",
+        "why": "Deze pagina zegt dat burn-out kan samenhangen met lang aanhoudende stress, en kan leiden tot afhaken op het werk en tot een depressie.",
+        "src": {
+         "org": "FOD Werkgelegenheid, Arbeid en Sociaal Overleg",
+         "title": "Definities en toepassingsgebied",
+         "url": "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/psychosociale-risicos-op-het-werk/definities-en-toepassingsgebied",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Veel zorgen of spanning",
+      "lead": "Zorgen die niet weggaan, hartkloppingen en onrust, moeite in het bijzijn van anderen of buiten de deur, en dat soort dingen.",
+      "scenes": [
+       "Als ik voor anderen moet praten of als iedereen naar me kijkt, word ik zo angstig dat mijn hoofd helemaal leeg raakt.",
+       "Ineens gaat mijn hart heel snel kloppen en krijg ik het benauwd. Ik ben bang dat dat weer gebeurt, en daardoor kom ik moeilijk de deur uit.",
+       "Ook zonder duidelijke reden maak ik me zorgen over van alles. Ik ben onrustig en word er moe van.",
+       "Ik vind het moeilijk op plekken waar het lastig is om weg te komen, zoals in de trein, bus of tram, in drukke winkels of gebouwen, of als ik alleen de deur uit ga. Daarom probeer ik die plekken te vermijden.",
+       "Doordat ik vermijd wat me angstig maakt, kom ik op steeds minder plekken en zie ik steeds minder mensen. Mijn leven is kleiner geworden.",
+       "Mijn zorgen blijven in mijn hoofd rondgaan en ’s avonds val ik moeilijk in slaap."
+      ],
+      "asks": [
+       "Het helpt me als ik de tijd krijg om te praten, zonder haast.",
+       "Ik hoor graag van tevoren wat het plan is en hoe alles verloopt.",
+       "Het helpt me als ik niet ineens waar anderen bij zijn mijn mening moet geven, en als ik ook schriftelijk mag antwoorden.",
+       "Als ik me niet goed voel, helpt het me als ik even weg mag om bij te komen.",
+       "Ik praat liever op een rustige plek en met weinig mensen.",
+       "Voordat er wordt gezegd dat ik me te veel zorgen maak, helpt het me als er eerst wordt geluisterd naar waar ik moeite mee heb."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Moeilijk om te stoppen met controleren of herhalen",
+      "lead": "Als je steeds opnieuw de deur of het gas controleert, je handen wast of iets anders herhaalt, en moeilijk kunt stoppen, ook al wil je dat.",
+      "scenes": [
+       "Voordat ik de deur uit ga, moet ik telkens opnieuw controleren of de deur op slot is en de kookplaat uit staat, anders kan ik niet gerust weggaan.",
+       "Ik was mijn handen of mijn lichaam steeds vaker en kan er niet mee ophouden, ook al wil ik dat wel.",
+       "Dezelfde zorg komt telkens in mijn hoofd op. Ik wil er niet meer aan denken, maar het lukt niet om te stoppen.",
+       "Als spullen niet precies zo staan of dingen niet in de volgorde gebeuren die ik heb bepaald, word ik onrustig. Dan zet ik ze weer goed of begin ik opnieuw.",
+       "Het controleren kost zoveel tijd dat ik later vertrek, of dat ik te laat kom voor afspraken en op mijn werk.",
+       "Mijn lichaam beweegt of ik maak geluiden zonder dat ik het wil, en het is moeilijk om te stoppen, ook als ik het probeer."
+      ],
+      "asks": [
+       "Ik wil graag eerst gehoord worden, zonder dat er meteen wordt gezegd dat ik me te druk maak.",
+       "Controleren kost me tijd, dus het helpt als er wat extra tijd wordt ingepland.",
+       "Als plannen of stappen veranderen, hoor ik dat graag van tevoren.",
+       "Het helpt me als niemand er in het bijzijn van anderen iets over zegt of er grapjes over maakt wanneer ik iets controleer of mijn handen was.",
+       "Uitleg en instructies krijg ik graag één voor één en op papier.",
+       "Voordat we beslissen hoe we verder gaan, wil ik graag dat eerst naar mijn zorgen wordt geluisterd en dat we het rustig bespreken."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autismespectrumstoornis (ASS)",
+        "why": "Deze pagina beschrijft autisme met beperkte, herhalende gedragingen, interesses of activiteiten, naast blijvende moeilijkheden in sociale communicatie en omgang.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Een nare gebeurtenis blijft me raken",
+      "lead": "Herinneringen die steeds terugkomen, slecht slapen of een spanning die niet weggaat na een nare gebeurtenis.",
+      "scenes": [
+       "Door iets kleins komen de beelden en gevoelens van die nare tijd ineens weer terug.",
+       "Ik heb steeds dezelfde soort enge dromen en slaap veel nachten niet diep.",
+       "Ik sta altijd op scherp en schrik van het kleinste geluid of een onverwachte gebeurtenis.",
+       "Ik ga plekken, mensen en onderwerpen die me aan die tijd doen denken liever uit de weg, waardoor mijn leven kleiner is geworden.",
+       "Het is alsof er iets in mij is uitgegaan. Voor mijn familie en vrienden voel ik niet meer wat ik vroeger voelde.",
+       "Ik geef mezelf steeds vaker de schuld, of het wordt moeilijker om de mensen om me heen te vertrouwen."
+      ],
+      "asks": [
+       "Het helpt me als er niet wordt doorgevraagd naar alle details van wat er is gebeurd. Ik vertel het in mijn eigen tempo, en alleen zo veel als ik kan.",
+       "Sommige geluiden, plekken en onderwerpen halen alles weer naar boven. Het helpt me als wordt geaccepteerd dat ik die liever vermijd.",
+       "Het helpt me als ik niet ineens van achteren word aangesproken en als er geen harde geluiden vlak bij me worden gemaakt.",
+       "Als praten te zwaar is, geef ik liever een tekst die ik heb opgeschreven. Het helpt me als dat mag.",
+       "Er zijn dagen dat ik slecht slaap of dat de vermoeidheid blijft. Het helpt me als dat niet wordt gezien als luiheid.",
+       "Het helpt me als ik niet word gehaast met opmerkingen als ‘Probeer het te vergeten’ of ‘Laat het los’, en als er een plek is waar ik rustig kan praten."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "be1712",
+       "beevc",
+       "beprisma",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Moeite met slapen",
+      "lead": "Moeilijk in slaap komen, ’s nachts wakker worden, moeilijk opstaan of overdag erg slaperig zijn.",
+      "scenes": [
+       "Ook als ik in bed lig, duurt het lang voordat ik in slaap val.",
+       "Ik word ’s nachts steeds weer wakker en slaap niet in één keer door tot de ochtend.",
+       "Als het tijd is om op te staan, lukt dat niet, en ik kom steeds te laat op mijn werk of opleiding.",
+       "Overdag word ik overvallen door een sterke slaperigheid en ik val bijna in slaap tijdens een vergadering of achter het stuur.",
+       "Mijn familie zegt dat ik hard snurk en dat ik in mijn slaap lijk te stoppen met ademen.",
+       "’s Avonds en ’s nachts voelen mijn benen onrustig en vervelend, waardoor ik niet in slaap kom."
+      ],
+      "asks": [
+       "Het helpt me als er rustig de tijd wordt genomen om te vragen hoe ik slaap: of ik moeilijk in slaap kom, ’s nachts wakker word, moeilijk uit bed kom of overdag slaperig ben.",
+       "Het helpt me als er samen met mij wordt gekeken naar wat er meespeelt, ook naar de medicatie die ik gebruik en naar mijn gewoonten met koffie, alcohol en sigaretten.",
+       "Het helpt me als niet meteen wordt gezegd dat het ‘tussen de oren zit’, maar ook mijn lichamelijke gezondheid en mijn stemming worden bekeken.",
+       "Ik laat graag op een briefje zien hoe laat ik naar bed ga en wakker word. Het helpt me als daarnaar wordt gekeken.",
+       "Als medicatie wordt voorgesteld, helpt het me als in begrijpelijke taal wordt uitgelegd hoe ze werkt en waar ik op moet letten.",
+       "Ik heb moeite met ochtenden. Het helpt me als een afspraak ’s middags of aan het eind van de dag kan zijn."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Slaapstoornis",
+        "why": "Deze pagina beschrijft slaapproblemen als moeilijk inslapen of ’s nachts wakker worden, en noemt verschillende aanleidingen, zoals een schildklierprobleem, de overgang, zware levensomstandigheden, alcohol of bepaalde geneesmiddelen.",
+        "src": {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "be1733",
+       "beepz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Moeite met eten",
+      "lead": "Als eten moeilijk wordt: je kunt weinig eten, je kunt niet stoppen, of eten maakt je bang.",
+      "scenes": [
+       "Ik heb geen zin in eten en het lukt me nauwelijks om iets door te slikken.",
+       "Als ik eenmaal begin met eten, kan ik zelf niet stoppen, en soms eet ik zo veel dat het pijn doet.",
+       "Ik merk dat ik steeds aan eten denk en me moeilijk op andere dingen kan concentreren.",
+       "Ik kan maar weinig dingen eten en ik mijd veel voedsel vanwege de smaak, de geur of de textuur ervan.",
+       "Sinds ik me een keer heb verslikt in eten of heb moeten overgeven, ben ik bang om te eten.",
+       "’s Nachts eet ik soms half slapend en ’s ochtends weet ik daar niets meer van."
+      ],
+      "asks": [
+       "Het helpt me als er geen opmerkingen worden gemaakt over mijn lichaam of uiterlijk.",
+       "Het helpt me als ik niet word gedwongen om te eten en niet word gehaast.",
+       "Als er samen wordt gegeten, helpt het me als ik een andere plek of een ander moment mag kiezen.",
+       "Ik vind het fijn als er eerst wordt gevraagd wat ik kan eten en welke geuren of texturen moeilijk voor me zijn.",
+       "Het helpt me als vooraf wordt uitgelegd wat er bij een lichamelijk onderzoek of bij de afspraak gaat gebeuren.",
+       "Wat ik moeilijk hardop kan zeggen, geef ik liever op papier. Het helpt me als dat mag."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Moeilijk om te stoppen met alcohol, gokken of gamen",
+      "lead": "Als je wilt stoppen of minderen, maar toch doorgaat.",
+      "scenes": [
+       "Ik neem me voor om te stoppen of minder te doen, maar even later merk ik dat ik gewoon weer doorga.",
+       "Het lukt me niet om me te houden aan wat ik met mezelf had afgesproken over de tijd, de hoeveelheid of het geld voor vandaag.",
+       "Ik verberg voor mensen om me heen dat ik drink, gok of game, of ik zoek smoesjes om het te verbloemen.",
+       "Ik blijf ’s nachts gamen, kom ’s ochtends moeilijk uit bed en ben steeds vaker te laat of afwezig op mijn werk of opleiding.",
+       "Als ik geld verlies bij sportweddenschappen, online casino’s of gokautomaten, wil ik het terugwinnen en ga ik weer gokken.",
+       "Ook al merk ik dat mijn lichaam er last van heeft, het lukt me niet om minder te drinken."
+      ],
+      "asks": [
+       "Het helpt me als er eerst naar me geluisterd wordt, zonder verwijten en zonder dat er meteen conclusies worden getrokken.",
+       "Het helpt me als we samen stap voor stap op een rijtje zetten hoe ik er nu mee omga en welke problemen het geeft.",
+       "Ik wil graag dat ook mijn slaap en mijn lichamelijke gezondheid aan bod komen.",
+       "Het helpt me als ik concreet hoor waar ik terechtkan voor hulp en welke plekken ik kan bezoeken.",
+       "Ik wil graag weten of iemand uit mijn omgeving mee mag komen naar het gesprek.",
+       "Ik hoor liever vooraf aan wie wordt doorgegeven wat ik vertel en hoeveel daarvan."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Verslaving (alcohol, medicatie, drugs)",
+        "why": "Deze pagina gaat over moeilijkheden met alcohol, medicatie of drugs, en over hulp om met een verslaving te stoppen.",
+        "src": {
+         "org": "Vlaamse overheid (vlaanderen.be)",
+         "title": "Een verslaving aanpakken",
+         "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/preventie/verslaving/een-verslaving-aanpakken",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problematisch alcoholgebruik",
+        "why": "Dit document zegt dat problematisch alcoholgebruik meer omvat dan alleen alcoholafhankelijkheid, en dat het niet altijd uitloopt op afhankelijkheid.",
+        "src": {
+         "org": "Federaal Kenniscentrum voor de Gezondheidszorg (KCE)",
+         "title": "Hoe de drempel naar hulp bij problematisch alcoholgebruik verlagen? (Synthese)",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/kCE_258A_problematisch_alcoholgebruik_Synthese.pdf",
+         "kind": "fact",
+         "upd": "2015"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "begok",
+       "bedrug",
+       "beinfdr",
+       "beasl",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Moeite met aandacht of plannen",
+      "lead": "Moeite met je concentreren, stap voor stap werken of dingen onthouden.",
+      "scenes": [
+       "Ook als iemand tegen me praat, dwalen mijn gedachten ongemerkt af naar iets anders.",
+       "Het lukt me niet om werk of huishoudelijke taken stap voor stap af te werken, waardoor ik deadlines niet haal.",
+       "Vaak weet ik achteraf niet meer wat me gevraagd is of wat ik beloofd heb, of ik raak dingen kwijt.",
+       "Als ik lang met dezelfde taak bezig ben, maak ik steeds meer slordige foutjes.",
+       "Ik vind het moeilijk om stil te blijven zitten en voel me vanbinnen onrustig.",
+       "Mensen om me heen zeggen dat ik vaak dingen vergeet of te laat kom."
+      ],
+      "asks": [
+       "Het helpt me als instructies één voor één worden gegeven.",
+       "Ik krijg belangrijke dingen liever op papier.",
+       "Het helpt me als deadlines en afspraken ruim van tevoren worden doorgegeven.",
+       "Het helpt me als er niet veel tegelijk wordt gevraagd, maar in kleine stukjes.",
+       "Ik praat liever op een rustige plek waar ik minder snel word afgeleid.",
+       "Het helpt me als gezien wordt wat me wel lukt, en als me niet wordt verweten wat niet lukt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Burn-out",
+        "why": "Deze pagina noemt bij burn-out onder meer extreme vermoeidheid, minder motivatie en het minder goed kunnen uitvoeren van alledaagse taken.",
+        "src": {
+         "org": "Vlaamse overheid (vlaanderen.be)",
+         "title": "Ik heb (te veel) stress of misschien een burn-out. Wat kan ik doen?",
+         "url": "https://www.vlaanderen.be/intern/welzijn-en-gezondheid/je-goed-voelen-op-het-werk/ik-heb-te-veel-stress-of-misschien-een-burn-out-wat-kan-ik-doen",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD",
+        "why": "Dit advies beschrijft ADHD als een aanhoudend patroon van aandachtsproblemen en/of onrust en impulsiviteit, waardoor het moeilijk kan lopen op school, op het werk of in contact met anderen. De klachten kunnen ook later in het leven beginnen.",
+        "src": {
+         "org": "FOD Volksgezondheid",
+         "title": "Medicamenteuze en niet-medicamenteuze aanpak van ADHD",
+         "url": "https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/20210308_hgr-9547_adhd_vweb_0.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Moeite met contact, vaste gewoontes of zintuigen",
+      "lead": "Moeite met praten of omgaan met andere mensen, een sterke behoefte om dingen op een vaste manier te doen, of geluid, licht en geuren die moeilijk te verdragen zijn.",
+      "scenes": [
+       "In een gesprek heb ik moeite om aan te voelen wat er in de ander omgaat of hoe de sfeer is, en vaak lijkt het alsof we langs elkaar heen praten.",
+       "Als ik voor een groep moet praten of als alle ogen op mij gericht zijn, word ik heel gespannen en ga ik zulke situaties uit de weg.",
+       "Met mensen die ik goed ken kan ik praten, maar bij anderen krijg ik geen woord over mijn lippen.",
+       "Als mijn vaste manier van doen, de volgorde van dingen of de plek van mijn spullen verandert, word ik erg onrustig.",
+       "Geluid, licht en geuren komen heel sterk bij me binnen, en daardoor zijn drukke plekken moeilijk voor me.",
+       "Ik versta mensen slecht of ik voel me somber, en daardoor kost het me veel moeite om mensen te ontmoeten of met ze te praten."
+      ],
+      "asks": [
+       "Het helpt me als er rustig en duidelijk tegen me wordt gepraat.",
+       "Het helpt me als belangrijke dingen ook worden opgeschreven.",
+       "Ik praat liever op een rustige plek.",
+       "Het helpt me als ik van tevoren hoor wanneer plannen of werkwijzen veranderen.",
+       "Het helpt me als ik niet word gehaast en rustig tijd krijg om te antwoorden.",
+       "Ik wil graag schriftelijk kunnen antwoorden, bijvoorbeeld met een kort briefje, in plaats van te praten."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autismespectrumstoornis (ASS)",
+        "why": "Deze pagina beschrijft autisme met blijvende moeilijkheden in sociale communicatie en omgang in verschillende situaties, naast beperkte, herhalende gedragingen of interesses.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Moeite met lezen, schrijven of rekenen",
+      "lead": "Als lezen, schrijven of met getallen werken moeite blijft kosten, ook als je je best doet.",
+      "scenes": [
+       "Ik doe er langer over dan andere mensen om een tekst te lezen en ik moet vaak opnieuw lezen.",
+       "Ook als ik een tekst lees, blijft er weinig van hangen en is het lastig te begrijpen wat er in brieven of formulieren staat.",
+       "Ik maak veel spelfouten of vergeet letters of woorden.",
+       "Mijn handschrift is onregelmatig en schrijven kost me veel tijd en moeite.",
+       "Ik loop vast bij eenvoudige sommen en bij rekenopgaven die als tekst worden gegeven.",
+       "Praten en luisteren lukt me zonder moeite, maar met lezen, schrijven of rekenen kom ik niet zo ver als ik zou willen, ook al neem ik er veel tijd voor."
+      ],
+      "asks": [
+       "Het helpt me als teksten in grote letters en met ruime regelafstand worden gegeven, of in eenvoudige taal.",
+       "Ik krijg belangrijke dingen liever voorgelezen of mondeling verteld.",
+       "Het helpt me als ik mag typen op een computer of telefoon, of foto’s en geluidsopnames mag gebruiken in plaats van met de hand te schrijven.",
+       "Het helpt me als ik een rekenmachine mag gebruiken.",
+       "Het helpt me als ik extra tijd krijg om te lezen, te schrijven en te rekenen.",
+       "Het helpt me als ik dingen één voor één krijg en niet allemaal tegelijk."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grote schommelingen in stemming",
+      "lead": "Als je stemming sterk op en neer gaat en het moeilijk is om je eigen gevoelens bij te houden.",
+      "scenes": [
+       "Periodes waarin ik te veel energie heb, wisselen af met periodes waarin ik zo somber ben dat ik niet meer in beweging kom.",
+       "Er zijn periodes waarin ik bijna niet slaap en toch vol energie zit en maar door blijf gaan.",
+       "Het ene idee na het andere komt bij me op en alles blijft half af.",
+       "In periodes waarin ik me heel uitbundig voelde, heb ik zoveel geld uitgegeven dat ik er later mee in de problemen kwam.",
+       "Ik raak snel geïrriteerd door kleine dingen en het is moeilijk om mijn gevoelens in toom te houden.",
+       "Wat ik deed in periodes dat mijn stemming heel hoog was, heeft invloed gehad op mijn relaties of mijn werk."
+      ],
+      "asks": [
+       "Het helpt me als er ook naar de periodes wordt gevraagd waarin ik juist heel veel energie had.",
+       "Het helpt me als er rustig de tijd wordt genomen om samen terug te kijken op de ups en downs in mijn stemming.",
+       "Het helpt me als iemand me voor grote beslissingen over geld of werk aanmoedigt om even stil te staan en na te denken.",
+       "Ik wil graag dat ook naar lichamelijke oorzaken wordt gekeken, zoals slaap, medicijnen en alcohol.",
+       "Als er iets aan me opvalt wat anders is dan gewoonlijk, hoor ik dat graag zonder verwijt.",
+       "Het helpt me als er naar me wordt geluisterd tot ik uitgepraat ben, of ik nu veel energie heb of somber ben."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Een naam leren kennen kan gewone schommelingen sneller op klachten laten lijken",
+       "body": "Als je de naam van een ziekte of aandoening leert kennen, kan een beetje vermoeidheid of verstrooidheid ineens op een klacht gaan lijken.\n\nGevoelens kunnen veranderen hoe je lichaam en je stemming aanvoelen. Dat is geen inbeelding, het gebeurt echt. Maar slecht slapen, stress, veel op je telefoon zitten of wat er om je heen gebeurt, kan iets vergelijkbaars doen.\n\nAls je bij het zien van een naam denkt: ‘Misschien is dit het wel’, houd het daar dan niet bij. Denk ook aan andere redenen. En blijft iets moeite kosten, dan kun je erover praten zoals het is, ook zonder naam.",
+       "srcs": []
+      },
+      {
+       "h": "Iedereen kan het soms moeilijk hebben",
+       "body": "Iedereen kan in zijn leven psychisch kwetsbaar zijn, schrijft het RIZIV. Moeilijk inslapen of ’s nachts wakker worden kent bijna iedereen.\n\nOf er een naam bij hoort, bespreekt een arts samen met jou.",
+       "srcs": [
+        {
+         "org": "RIZIV",
+         "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+         "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Ook zonder de naam van een ziekte kun je praten",
+       "body": "Ook zonder de naam van een ziekte kun je over je moeilijkheden praten. Voor eerstelijns psychologische ondersteuning is volgens het RIZIV geen voorschrift nodig.\n\nVraag je op het werk een redelijke aanpassing, dan hoef je volgens Unia je medisch dossier of diagnose niet bekend te maken. Een erkenning door een officiële instantie is daarvoor niet nodig; een attest van een arts kan daarbij helpen.\n\nWat je zou willen vragen en wat er kan, hangt af van de situatie en wordt in een gesprek bekeken.",
+       "srcs": [
+        {
+         "org": "RIZIV",
+         "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+         "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Unia",
+         "title": "Werken met een handicap: Redelijke aanpassingen op het werk",
+         "url": "https://www.unia.be/files/Definitieve-brochure-werk-handicap-NL-2023-1.pdf",
+         "kind": "fact",
+         "upd": "2023"
+        }
+       ]
+      },
+      {
+       "h": "Sommige regelingen vragen een document van een arts",
+       "body": "Sommige regelingen vragen een document van een arts. Kun je door ziekte niet werken, dan vult je arts een getuigschrift van arbeidsongeschiktheid in, met een begin- en een einddatum.\n\nVoor de erkenning van een handicap kijkt de FOD Sociale Zekerheid naar de verslagen van je eigen arts, bijvoorbeeld je huisarts. Voor financiële steun bij aanpassingen op het werk vraagt het agentschap dat de steun geeft meestal een erkenning.\n\nOp school vraagt de Federatie Wallonië-Brussel een document dat de handicap aantoont.\n\nVraag voor je aan een regeling begint, bij de bevoegde dienst welke documenten nodig zijn.",
+       "srcs": [
+        {
+         "org": "RIZIV",
+         "title": "Arbeidsongeschiktheid: vaststelling, uitkering, toegelaten activiteiten",
+         "url": "https://www.riziv.fgov.be/nl/faq/burgers/arbeidsongeschiktheid-vaststelling-uitkering-toegelaten-activiteiten",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "FOD Sociale Zekerheid",
+         "title": "Erkenningsprocedure",
+         "url": "https://handicap.belgium.be/nl/erkenning-van-je-handicap/erkenningsprocedure",
+         "kind": "fact",
+         "upd": "2026-10-27"
+        },
+        {
+         "org": "Unia",
+         "title": "Werken met een handicap: Redelijke aanpassingen op het werk",
+         "url": "https://www.unia.be/files/Definitieve-brochure-werk-handicap-NL-2023-1.pdf",
+         "kind": "fact",
+         "upd": "2023"
+        },
+        {
+         "org": "Unia",
+         "title": "Apprendre et étudier avec un handicap : Les aménagements raisonnables dans l’enseignement",
+         "url": "https://www.unia.be/files/Brochure-Etudier-avec-un-handicap-2026.pdf",
+         "kind": "fact",
+         "upd": "2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "De naam van een ziekte is geen middel om je boven iemand anders te stellen",
+       "body": "De naam van een ziekte is geen middel om je boven iemand anders te stellen of op anderen neer te kijken.\nVoor sommige mensen is het fijn om een naam te vinden voor wat ze meemaken. Dat is belangrijk.\nHet is ook begrijpelijk dat je wilt dat de mensen om je heen je begrijpen en vriendelijk met je omgaan.\n\nWil je dat mensen vriendelijk met je omgaan, dan kun je dat gewoon vragen, zonder de naam van een ziekte te noemen.\nHet is duidelijker voor de ander als je twee dingen tegelijk zegt: waar je moeite mee hebt en wat je graag zou willen.\n\nBijvoorbeeld:\n‘Ik heb vandaag weinig energie. Het helpt me als er langzaam met me wordt gepraat.’\n‘Als ik veel tegelijk hoor, raak ik de draad kwijt. Het helpt me als de dingen één voor één worden uitgelegd.’\n‘Wat ik alleen te horen krijg, onthoud ik moeilijk. Ik krijg belangrijke dingen liever op papier of per e-mail.’\n‘Op drukke plekken heb ik het moeilijk. Ik praat liever op een rustige plek.’\n‘Ik heb wat tijd nodig om te antwoorden. Het helpt me als er even op me wordt gewacht.’\n‘Ik zit nu vol gevoelens. Het helpt me als er eerst naar me wordt geluisterd. Adviezen mogen later.’\n‘Ik voel me vandaag niet goed. Het helpt me als ik even kan rusten.’\n‘Plotselinge veranderingen in de planning brengen me in de war. Het helpt me als ik het op tijd hoor.’\n‘Als er hard tegen me wordt gepraat, word ik bang. Het helpt me als er rustig met me wordt gepraat.’\n\nKun je het moeilijk zeggen, dan mag je het ook opschrijven en overhandigen. Je kunt ook het scherm ‘Waar ik moeite mee heb’ laten zien met de knop ‘Groot laten zien’. Dat scherm verschijnt in deze app als je kiest waar je mee zit en de vragen beantwoordt.\nWil je de naam van een diagnose noemen, dan mag dat. Ook dan helpt het de ander als je er tegelijk bij zegt waar je moeite mee hebt en wat je graag zou willen.\nSoms kan de ander niet doen wat je vraagt, door de eigen situatie. Dan kun je samen naar een andere manier zoeken.\n\nOp je werk kun je met dezelfde woorden vragen: ‘Meerdere instructies tegelijk volgen kost me moeite. Ik krijg ze liever op papier.’\n\nGebruik de lijst met namen in deze app niet om aan de mensen om je heen te twijfelen.",
+       "srcs": []
+      },
+      {
+       "h": "Over deze app",
+       "body": "Dit is geen diagnose. Deze lijst zegt niet of je een ziekte of stoornis hebt. Deze app is geen medisch hulpmiddel en vervangt geen gesprek met een zorgverlener.\n\nJe antwoorden worden nergens naartoe gestuurd en niet op dit toestel bewaard. Ze verdwijnen als je de app sluit.\n\nOnafhankelijke app. SOYOGI is een vrijwillige groep zonder winstoogmerk in Japan. SOYOGI heeft geen band met de Belgische overheden (federaal, gewesten en gemeenschappen) of met zorginstellingen, en geen van hen beveelt de app aan of steunt haar. De namen van instanties tonen alleen waar de informatie vandaan komt.\n\nSOYOGI schreef deze teksten in eigen woorden op basis van openbare pagina’s in België. De bronnen staan op elk scherm, met de datum die de pagina toont als de pagina er een toont. Geraadpleegd op 20 november 2026. Nummers en uren kunnen veranderen. De uren zijn die van elke dienst.\n\nOf je hulp vraagt, beslis jij, niet de app.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Een pagina van de Vlaamse overheid raadt aan om bij een psychologisch probleem eerst contact op te nemen met de huisarts.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Je hoeft hier niet alleen mee te blijven zitten. Je kunt eerst met je huisarts praten.",
+       "src": {
+        "org": "Vlaamse overheid (vlaanderen.be)",
+        "title": "Psychische gezondheid",
+        "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Vlaanderen: voor rechtstreeks toegankelijke hulp van het VAPH is geen aanvraag nodig; je kunt zelf een zorgaanbieder contacteren.",
+       "src": {
+        "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+        "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+        "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Wallonië: volgens de website van Wallonië gelden er geen bijzondere voorwaarden om een regionaal kantoor van het AViQ te contacteren met een vraag over handicap, je noden of je stappen.",
+       "src": {
+        "org": "Service public de Wallonie (wallonie.be)",
+        "title": "Accéder aux services de mon bureau régional de l’AVIQ",
+        "url": "https://www.wallonie.be/fr/demarches/acceder-aux-services-de-mon-bureau-regional-de-laviq",
+        "kind": "fact",
+        "upd": "2026-11-05"
+       }
+      },
+      {
+       "text": "Brussel (COCOF, Franstalig): je hoeft niet door de Service PHARE toegelaten te zijn om je tot een begeleidingsdienst te wenden; je neemt rechtstreeks contact op met de dienst van je keuze. Er wordt een maandelijkse bijdrage gevraagd.",
+       "src": {
+        "org": "Commission communautaire française (COCOF)",
+        "title": "Services d’accompagnement",
+        "url": "https://ccf.brussels/nos-services/personnes-handicapees/service-phare/accompagnement-et-aide-a-linclusion/services-daccompagnement/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Duitstalige Gemeenschap: de Dienststelle für Selbstbestimmtes Leben (DSL) informeert en adviseert mensen met een beperking die in de Duitstalige Gemeenschap wonen.",
+       "src": {
+        "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+        "title": "Dienststelle für Selbstbestimmtes Leben",
+        "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8619/14012_read-75187/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Hoe een naam (een diagnose) gegeven wordt, kort:",
+      "text": "Een diagnose hoort bij de medische zorg; daarvoor kun je bijvoorbeeld terecht bij een psychiater.",
+      "src": {
+       "org": "Departement Zorg (Vlaamse overheid)",
+       "title": "Centra voor geestelijke gezondheidszorg",
+       "url": "https://www.departementzorg.be/nl/centra-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Op openbare gezondheidspagina’s konden maar weinig namen bevestigd worden.",
+     "noNames": "Voor deze groep konden op openbare gezondheidspagina’s geen namen bevestigd worden. Daarom staat hier geen lijst met namen. Waar je hulp kunt vragen, vind je wel in deze app."
+    }
+   },
+   "fr": {
+    "groups": {
+     "mood": {
+      "label": "Moral en baisse, manque d’envie",
+      "lead": "Quand le moral reste bas et qu’il est difficile de trouver l’énergie de faire quoi que ce soit.",
+      "scenes": [
+       "Mon moral reste bas du matin au soir.",
+       "Les choses que j’aimais avant ne me font plus plaisir.",
+       "Je n’ai pas d’énergie et j’ai du mal à me concentrer, alors le travail et les tâches de la maison n’avancent pas.",
+       "Je me fais des reproches et je vois tout en noir.",
+       "Je n’arrive pas à dormir la nuit, ou au contraire je dors trop. J’ai perdu l’appétit et j’ai le corps lourd.",
+       "J’ai parfois envie de disparaître ou de ne plus être là."
+      ],
+      "asks": [
+       "Cela m’aide quand les choses me sont expliquées une par une.",
+       "Cela m’aide quand on ne me presse pas pour répondre ou pour décider et que j’ai le temps de réfléchir.",
+       "Je préfère recevoir les choses importantes par écrit.",
+       "Avant qu’on me dise « Courage » ou « Secoue-toi », cela m’aide qu’on m’écoute d’abord.",
+       "Cela m’aide quand mon repos n’est pas aussitôt pris pour de la paresse.",
+       "Cela m’aide quand nous vérifions ensemble si une maladie physique ou un médicament que je prends joue un rôle."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dépression",
+        "why": "Ce document décrit la dépression comme une humeur triste avec une perte d’intérêt et de plaisir pour les choses de la vie de tous les jours, et indique qu’elle touche la vie sociale.",
+        "src": {
+         "org": "KCE",
+         "title": "Dépression majeure (de l’adulte) : efficacité à long terme de la psychothérapie, seule ou en combinaison avec des antidépresseurs",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/KCE_230Bs_Depression_Synthese.pdf",
+         "kind": "fact",
+         "upd": "2014"
+        }
+       },
+       {
+        "name": "Burn-out",
+        "why": "Cette page indique que le burn-out peut aller de pair avec un stress qui dure longtemps, et qu’il peut entraîner un décrochage au travail et une dépression.",
+        "src": {
+         "org": "SPF Emploi, Travail et Concertation sociale",
+         "title": "Définitions et champ d’application",
+         "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/risques-psychosociaux-au-travail/definitions-et-champ-dapplication",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Forte anxiété ou tension",
+      "lead": "Des inquiétudes qui ne s’arrêtent pas, le cœur qui bat fort et l’agitation, des difficultés devant les autres ou pour sortir, et d’autres situations semblables.",
+      "scenes": [
+       "Quand je dois parler devant d’autres personnes ou que les regards se tournent vers moi, l’anxiété est si forte que j’ai la tête vide.",
+       "Mon cœur se met soudain à battre très fort et j’ai du mal à respirer. J’ai peur que cela recommence, alors j’ai du mal à sortir.",
+       "Même sans raison claire, je m’inquiète pour une chose, puis pour une autre, je n’arrive pas à rester en place et cela m’épuise.",
+       "J’ai du mal avec les endroits d’où il est difficile de partir, comme le train, le bus ou le tram, les magasins ou les bâtiments pleins de monde, et avec les sorties sans personne pour m’accompagner. Alors je les évite.",
+       "À force d’éviter ce qui m’angoisse, je vais dans moins d’endroits et je vois moins de monde : ma vie s’est rétrécie.",
+       "Mes inquiétudes ne me sortent pas de la tête et j’ai du mal à m’endormir le soir."
+      ],
+      "asks": [
+       "Cela m’aide quand on me laisse le temps de parler, sans me presser.",
+       "J’aimerais savoir à l’avance quel est le programme et comment les choses vont se passer.",
+       "Cela m’aide quand on ne me demande pas mon avis tout à coup devant d’autres personnes, et quand je peux aussi répondre par écrit.",
+       "Quand je ne me sens pas bien, cela m’aide de pouvoir m’éloigner un moment pour me reposer.",
+       "Je préfère parler dans un endroit calme, avec peu de personnes.",
+       "Avant qu’on me dise que je m’en fais trop, cela m’aide qu’on écoute d’abord ce qui est difficile pour moi."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Difficile d’arrêter de vérifier ou de répéter",
+      "lead": "Quand vous vérifiez la serrure ou le gaz, vous vous lavez les mains, ou vous répétez d’autres gestes encore et encore, et qu’il est difficile d’arrêter même si vous le voulez.",
+      "scenes": [
+       "Quand je sors de chez moi, je dois vérifier encore et encore la serrure et le gaz avant de pouvoir partir l’esprit tranquille.",
+       "Je me lave les mains ou le corps de plus en plus souvent, et je n’arrive pas à arrêter même si je le veux.",
+       "La même inquiétude me revient sans cesse en tête, et je n’arrive pas à arrêter d’y penser alors que je le voudrais.",
+       "Si les objets ne sont pas placés ou si les choses ne sont pas faites dans l’ordre que j’ai décidé, je me sens mal à l’aise et je finis par tout remettre en place ou par tout recommencer.",
+       "Les vérifications me prennent tellement de temps que je pars en retard, ou que j’arrive en retard à mes rendez-vous ou au travail.",
+       "Mon corps bouge ou des sons sortent de ma bouche sans que je le veuille, et c’est difficile à arrêter même quand j’essaie."
+      ],
+      "asks": [
+       "J’aimerais qu’on m’écoute d’abord, sans me dire tout de suite que je m’en fais trop.",
+       "Les vérifications me prennent du temps, alors cela aide qu’on prévoie un peu de marge.",
+       "Quand le programme ou les étapes changent, j’aimerais qu’on me prévienne à l’avance.",
+       "Cela m’aide quand personne ne fait de remarque ni de plaisanterie devant d’autres personnes quand je vérifie quelque chose ou que je me lave les mains.",
+       "Je préfère recevoir les explications et les consignes une par une, par écrit.",
+       "Avant que nous décidions de la suite, j’aimerais qu’on écoute d’abord mes inquiétudes et que nous en parlions calmement."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Cette page présente l’autisme à travers des comportements, des intérêts ou des activités limités et qui se répètent, ainsi que des difficultés durables pour communiquer et échanger avec les autres.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Des difficultés qui durent après un événement pénible",
+      "lead": "Des souvenirs qui reviennent, un sommeil difficile ou une tension qui ne retombe pas après un événement pénible.",
+      "scenes": [
+       "Un petit détail suffit pour que la scène et ce que j’ai ressenti à ce moment-là me reviennent d’un coup.",
+       "Je fais souvent le même genre de cauchemar et, beaucoup de nuits, je n’arrive pas à dormir profondément.",
+       "Je suis tout le temps sur le qui-vive, et le moindre bruit ou imprévu me fait sursauter.",
+       "J’évite autant que je le peux les lieux, les personnes et les sujets qui me rappellent ce moment, et je fais de moins en moins de choses.",
+       "J’ai l’impression que mes émotions se sont éteintes, et je n’arrive plus à ressentir pour ma famille et mes amis ce que je ressentais avant.",
+       "Je me reproche de plus en plus de choses, ou j’ai plus de mal à faire confiance aux personnes autour de moi."
+      ],
+      "asks": [
+       "Cela m’aide quand on ne me demande pas de raconter en détail ce qui s’est passé. J’en parle à mon rythme, en disant seulement ce que je peux.",
+       "Certains bruits, lieux ou sujets me ramènent à ce moment. Cela m’aide quand on accepte que je préfère les éviter.",
+       "Cela m’aide quand on ne m’interpelle pas brusquement par derrière et quand on ne fait pas de bruit fort près de moi.",
+       "Quand parler est trop difficile, je préfère remettre un texte que j’ai écrit. Cela m’aide quand c’est permis.",
+       "Certains jours, je dors mal ou la fatigue ne passe pas. Cela m’aide quand on n’y voit pas de la paresse.",
+       "Cela m’aide quand on ne me presse pas avec des phrases comme « Essaie d’oublier » ou « Passe à autre chose », et quand il existe un endroit où je peux parler au calme."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "be1712",
+       "beevc",
+       "beprisma",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Difficultés de sommeil",
+      "lead": "Du mal à s’endormir, des réveils la nuit, du mal à se lever le matin, ou une forte envie de dormir dans la journée.",
+      "scenes": [
+       "Même une fois au lit, je n’arrive pas à m’endormir.",
+       "Je me réveille plusieurs fois dans la nuit et je ne dors jamais d’une traite jusqu’au matin.",
+       "Le matin, je n’arrive pas à me lever à l’heure, et je suis souvent en retard au travail ou en cours.",
+       "Dans la journée, j’ai de fortes envies de dormir et je manque de m’endormir en réunion ou au volant.",
+       "Mes proches me disent que je ronfle fort et que ma respiration semble s’arrêter pendant mon sommeil.",
+       "Le soir et la nuit, j’ai des sensations désagréables dans les jambes, je ne tiens pas en place et je n’arrive pas à dormir."
+      ],
+      "asks": [
+       "Cela m’aide quand on prend le temps de me demander comment je dors : l’endormissement, les réveils la nuit, la difficulté à me lever le matin et la somnolence dans la journée.",
+       "Cela m’aide quand nous cherchons ensemble ce qui peut jouer un rôle, y compris les médicaments que je prends et mes habitudes avec le café, l’alcool et le tabac.",
+       "Cela m’aide quand on ne dit pas tout de suite que « c’est dans la tête » et quand on regarde aussi ma santé physique et mon moral.",
+       "J’aimerais montrer sur une feuille à quelle heure je me couche et me lève. Cela m’aide quand quelqu’un la regarde.",
+       "Si un médicament est proposé, cela m’aide quand on m’explique simplement comment il agit et à quoi je dois faire attention.",
+       "Les matins sont difficiles pour moi. Cela m’aide quand un rendez-vous peut avoir lieu l’après-midi ou en fin de journée."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trouble du sommeil",
+        "why": "Cette page décrit les troubles du sommeil comme des difficultés à s’endormir ou des réveils la nuit, et cite plusieurs déclencheurs, par exemple un trouble de la thyroïde, la ménopause, des situations de vie pesantes, l’alcool ou certains médicaments.",
+        "src": {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "be1733",
+       "beepz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Difficultés avec l’alimentation",
+      "lead": "Quand manger est difficile : vous ne pouvez pas manger beaucoup, vous ne pouvez pas vous arrêter, ou manger vous fait peur.",
+      "scenes": [
+       "Je n’ai pas envie de manger, et la nourriture a du mal à passer.",
+       "Une fois que je commence à manger, je n’arrive plus à m’arrêter, et il m’arrive de manger jusqu’à avoir mal.",
+       "Sans m’en rendre compte, je ne pense plus qu’à la nourriture, et j’ai du mal à me concentrer sur autre chose.",
+       "Je ne peux manger que peu d’aliments, et j’en évite beaucoup à cause de leur goût, de leur odeur ou de leur texture.",
+       "Après avoir failli m’étouffer avec un aliment, ou après avoir vomi, j’ai commencé à avoir peur de manger.",
+       "La nuit, il m’arrive de manger dans un demi-sommeil, et le matin je ne m’en souviens pas."
+      ],
+      "asks": [
+       "Cela m’aide quand personne ne fait de remarque sur mon corps ou mon apparence.",
+       "Cela m’aide quand on ne me force pas à manger et qu’on ne me presse pas.",
+       "Quand on mange ensemble, cela m’aide de pouvoir choisir un autre endroit ou un autre moment.",
+       "J’apprécie qu’on me demande d’abord ce que je peux manger et quelles odeurs ou textures me sont difficiles.",
+       "Cela m’aide quand on m’explique à l’avance ce qui va se passer pendant un examen médical ou lors du rendez-vous.",
+       "Ce qui est difficile à dire à voix haute, je préfère le remettre par écrit. Cela m’aide quand c’est permis."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Difficile d’arrêter l’alcool, les jeux d’argent ou les jeux vidéo",
+      "lead": "Quand vous voulez arrêter ou réduire, mais que vous continuez quand même.",
+      "scenes": [
+       "J’ai décidé d’arrêter ou de réduire, mais je me rends compte que je continue quand même.",
+       "Je n’arrive pas à m’en tenir au temps, à la quantité ou à l’argent que je m’étais fixés pour la journée.",
+       "Il m’arrive de cacher à mes proches ce que je bois, mes jeux vidéo ou mes jeux d’argent, ou d’arranger la vérité.",
+       "Je joue tard le soir aux jeux vidéo, j’ai du mal à me lever le matin, et les retards ou les absences se multiplient.",
+       "Quand je perds, je veux récupérer l’argent perdu, alors je mise de nouveau.",
+       "Même en sachant que ma santé physique n’est pas bonne, je n’arrive pas à boire moins."
+      ],
+      "asks": [
+       "J’aimerais que vous m’écoutiez d’abord, sans me faire de reproches ni me juger.",
+       "J’aimerais faire le point avec vous, étape par étape, sur mes habitudes et sur les difficultés qu’elles me causent.",
+       "J’aimerais que l’on parle aussi de mon sommeil et de ma santé physique.",
+       "Cela m’aide de savoir concrètement où demander de l’aide et où je peux me rendre.",
+       "J’aimerais savoir si un membre de ma famille ou un proche peut venir à l’entretien avec moi.",
+       "Avant de commencer, j’aimerais savoir à qui sera transmis ce que je confie, et jusqu’où."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dépendance (alcool, médicaments, drogues)",
+        "why": "Cette page concerne les problèmes de dépendance à l’alcool, aux médicaments ou aux drogues, et le souhait d’y mettre fin.",
+        "src": {
+         "org": "Agence pour une Vie de Qualité (AViQ)",
+         "title": "Toxicomanie",
+         "url": "https://www.aviq.be/fr/soins-de-sante/revalidation-fonctionnelle/toxicomanie",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Consommation problématique d’alcool",
+        "why": "Ce document indique que la consommation problématique d’alcool englobe bien plus que la dépendance à l’alcool, et qu’elle n’aboutit pas toujours à une dépendance.",
+        "src": {
+         "org": "KCE",
+         "title": "Comment favoriser le recours à l’aide en cas de consommation problématique d’alcool ? (Synthèse)",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/KCE_258B_consommation_problematique_alcool_Synthese%20%281%29.pdf",
+         "kind": "fact",
+         "upd": "2015"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "begok",
+       "bedrug",
+       "beinfdr",
+       "beasl",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Difficultés d’attention et d’organisation",
+      "lead": "Du mal à se concentrer, à avancer étape par étape, ou à se souvenir des choses.",
+      "scenes": [
+       "Même quand quelqu’un me parle, mon esprit part ailleurs sans que je m’en rende compte.",
+       "Je n’arrive pas à mener mon travail ou les tâches ménagères dans l’ordre, et je dépasse les délais.",
+       "Il m’arrive souvent d’oublier ce qu’on m’a demandé ou ce que j’ai promis, ou de perdre mes affaires.",
+       "Quand je fais longtemps la même tâche, les erreurs d’inattention se multiplient.",
+       "Rester sans bouger m’est difficile : je m’agite et je ne tiens pas en place.",
+       "Mon entourage me dit que j’oublie souvent des choses ou que je suis souvent en retard."
+      ],
+      "asks": [
+       "Cela m’aide quand les consignes me sont données une par une.",
+       "Je préfère recevoir les informations importantes par écrit.",
+       "J’aimerais connaître les délais et les rendez-vous assez tôt.",
+       "Cela m’aide quand on ne me demande pas trop de choses à la fois et que les tâches sont découpées en petites étapes.",
+       "J’aimerais parler dans un endroit calme, où il y a peu de distractions.",
+       "Plutôt que de me reprocher ce que je n’ai pas réussi, j’aimerais que vous reconnaissiez ce que j’ai réussi à faire."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Burn-out",
+        "why": "Cette page cite, pour le burn-out, entre autres une fatigue extrême, une perte de motivation et une moindre capacité à faire les tâches de tous les jours.",
+        "src": {
+         "org": "Gouvernement flamand (vlaanderen.be)",
+         "title": "Ik heb (te veel) stress of misschien een burn-out. Wat kan ik doen?",
+         "url": "https://www.vlaanderen.be/intern/welzijn-en-gezondheid/je-goed-voelen-op-het-werk/ik-heb-te-veel-stress-of-misschien-een-burn-out-wat-kan-ik-doen",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "TDA/H",
+        "why": "Cet avis décrit le TDA/H comme des difficultés d’attention et/ou une agitation et une impulsivité qui durent, et qui causent des difficultés à l’école, au travail ou dans la vie sociale et les relations. Il précise que cela peut aussi apparaître plus tard dans la vie.",
+        "src": {
+         "org": "SPF Santé publique",
+         "title": "Prise en charge médicamenteuse et non médicamenteuse du TDA/H",
+         "url": "https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/20210308_css-9547_tdah_vweb_0.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Difficultés avec les autres, habitudes fixes et sensations",
+      "lead": "Des difficultés à parler ou à être avec les autres, un fort besoin de faire les choses d’une certaine façon, ou des sons, des lumières et des odeurs difficiles à supporter.",
+      "scenes": [
+       "Dans une conversation, j’ai du mal à saisir ce que ressent l’autre ou l’ambiance du moment, et j’ai l’impression qu’on ne se comprend pas.",
+       "Quand je dois parler devant des gens ou que les regards se tournent vers moi, la tension est très forte et j’évite ces situations.",
+       "J’arrive à parler avec mes proches, mais devant d’autres personnes, ma voix ne sort plus.",
+       "Quand ma façon de faire, l’ordre des étapes ou la place des objets changent, cela m’angoisse beaucoup.",
+       "Les bruits, les lumières ou les odeurs me paraissent très forts, et les endroits où il y a du monde sont pénibles pour moi.",
+       "J’ai du mal à entendre ce que disent les gens, ou j’ai le moral bas, et voir les autres ou leur parler est devenu difficile."
+      ],
+      "asks": [
+       "Cela m’aide quand on me parle lentement et clairement.",
+       "Cela m’aide quand les choses importantes sont aussi écrites.",
+       "J’aimerais parler dans un endroit calme.",
+       "Si le programme ou la façon de faire change, j’aimerais le savoir à l’avance.",
+       "Cela m’aide quand on ne me presse pas et que j’ai le temps de répondre.",
+       "J’aimerais pouvoir répondre par écrit ou avec un petit mot, au lieu de parler."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trouble du spectre de l’autisme (TSA)",
+        "why": "Cette page présente l’autisme à travers des difficultés durables pour communiquer et échanger avec les autres, dans différentes situations, ainsi que des comportements ou des intérêts limités et qui se répètent.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Difficultés pour lire, écrire ou calculer",
+      "lead": "Quand lire, écrire ou manier les chiffres reste difficile malgré les efforts.",
+      "scenes": [
+       "Je mets plus de temps que les autres à lire un texte, et je dois souvent le relire plusieurs fois.",
+       "Même après avoir lu, le contenu ne me rentre pas dans la tête, et j’ai du mal à comprendre ce que veulent dire les documents ou les courriers.",
+       "J’ai du mal avec l’orthographe : je fais beaucoup de fautes, ou j’oublie des lettres ou des mots en écrivant.",
+       "Mon écriture est irrégulière, et écrire me demande beaucoup de temps et d’effort.",
+       "Je bloque sur des calculs simples et sur les problèmes de calcul présentés sous forme de phrases.",
+       "Je peux parler et écouter sans difficulté, mais pour lire, écrire ou calculer, je n’avance pas comme je le voudrais, même en prenant beaucoup de temps."
+      ],
+      "asks": [
+       "J’aimerais que les textes me soient présentés en grands caractères, avec des lignes bien espacées, ou dans un langage simple.",
+       "J’aimerais que les informations importantes me soient lues à voix haute ou dites à l’oral.",
+       "J’aimerais pouvoir taper sur un ordinateur ou un téléphone, ou garder une trace en photo ou en enregistrement audio, au lieu d’écrire à la main.",
+       "J’aimerais pouvoir utiliser une calculatrice pour les calculs.",
+       "J’aimerais avoir plus de temps pour lire, écrire et calculer.",
+       "J’aimerais recevoir moins de choses à la fois, une par une."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes variations d’humeur",
+      "lead": "Quand l’humeur monte et descend beaucoup et que vos sentiments ont du mal à suivre.",
+      "scenes": [
+       "Des périodes où j’ai beaucoup trop d’énergie alternent avec des périodes où mon moral est si bas que je n’arrive plus à bouger.",
+       "Il y a des périodes où je dors à peine, mais où j’ai beaucoup d’énergie et je bouge sans arrêt.",
+       "Les idées me viennent les unes après les autres, et tout reste à moitié fait.",
+       "Il m’est arrivé, en me sentant capable de tout, de dépenser tellement d’argent que j’ai eu des difficultés ensuite.",
+       "Je m’irrite pour un rien, et j’ai du mal à contenir ce que je ressens.",
+       "Des choses que j’ai faites quand mon humeur était très haute ont eu des conséquences sur mes relations ou sur mon travail."
+      ],
+      "asks": [
+       "J’aimerais que vous me posiez aussi des questions sur les périodes où j’allais très bien, avec une énergie inhabituelle.",
+       "J’aimerais prendre le temps de revoir avec vous mes hauts et mes bas.",
+       "Avant une grande décision d’argent ou de travail, j’aimerais qu’on m’aide à m’arrêter et à réfléchir d’abord.",
+       "J’aimerais que l’on vérifie aussi les causes physiques, y compris le sommeil, les médicaments et l’alcool.",
+       "Si je ne suis pas comme d’habitude, j’aimerais qu’on me le dise sans me faire de reproches.",
+       "J’aimerais que l’on m’écoute jusqu’au bout, dans les périodes hautes comme dans les périodes basses."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Connaître un nom peut faire ressembler les variations ordinaires à des symptômes",
+       "body": "Quand on apprend le nom d’une maladie ou d’un trouble du développement, une petite fatigue ou un moment d’inattention ordinaires peuvent plus facilement ressembler à un symptôme.\n\nLes émotions peuvent vraiment changer ce que l’on ressent dans son corps et dans son humeur : ce n’est pas une idée que l’on se fait, cela arrive réellement. Le manque de sommeil, le stress, le téléphone ou ce qui se passe autour de soi peuvent aussi produire des effets semblables.\n\nSi, en voyant un nom, vous pensez « c’est peut-être ça », ne vous arrêtez pas tout de suite à cette idée, et pensez aussi à d’autres raisons. Si les difficultés durent, vous pouvez en parler telles qu’elles sont, même sans nom.",
+       "srcs": []
+      },
+      {
+       "h": "Tout le monde peut traverser des moments difficiles",
+       "body": "Tout le monde peut, à un moment de sa vie, rencontrer une fragilité psychologique, écrit l’INAMI. Avoir du mal à s’endormir ou se réveiller la nuit arrive à presque tout le monde.\n\nC’est un médecin qui voit avec vous si un nom convient à votre situation.",
+       "srcs": [
+        {
+         "org": "INAMI",
+         "title": "Vos soins psychologiques de 1re ligne : remboursés via les réseaux de santé mentale",
+         "url": "https://www.inami.fgov.be/fr/themes/soins-de-sante-cout-et-remboursement/les-prestations-de-sante-que-vous-rembourse-votre-mutualite/soins-de-sante-mentale/vos-soins-psychologiques-de-1re-ligne-rembourses-via-les-reseaux-de-sante-mentale",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Même sans nom de maladie, vous pouvez en parler",
+       "body": "Même sans nom de maladie, vous pouvez parler de vos difficultés. Selon l’INAMI, aucune prescription n’est nécessaire pour le soutien psychologique de première ligne.\n\nAu travail, pour demander un aménagement raisonnable, il n’est pas nécessaire, selon Unia, de dévoiler votre dossier médical ou votre diagnostic. Une reconnaissance du handicap par une instance publique n’est pas nécessaire ; une attestation d’un médecin peut aider.\n\nCe que vous aimeriez demander et ce qui peut se faire dépend de chaque situation et se décide en discutant.",
+       "srcs": [
+        {
+         "org": "INAMI",
+         "title": "Vos soins psychologiques de 1re ligne : remboursés via les réseaux de santé mentale",
+         "url": "https://www.inami.fgov.be/fr/themes/soins-de-sante-cout-et-remboursement/les-prestations-de-sante-que-vous-rembourse-votre-mutualite/soins-de-sante-mentale/vos-soins-psychologiques-de-1re-ligne-rembourses-via-les-reseaux-de-sante-mentale",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Unia",
+         "title": "Travailler avec un handicap : Les aménagements raisonnables dans l’emploi",
+         "url": "https://www.unia.be/files/Brochure-Au-travail-avec-un-handicap-2025.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       ]
+      },
+      {
+       "h": "Certaines démarches demandent un document d’un médecin",
+       "body": "Certaines démarches demandent un document d’un médecin. Si vous ne pouvez pas travailler à cause d’une maladie, votre médecin remplit un certificat d’incapacité de travail, avec une date de début et une date de fin.\n\nPour la reconnaissance d’un handicap, le SPF Sécurité sociale s’appuie sur les rapports de votre médecin traitant. Pour une aide financière liée aux aménagements au travail, il faut en général être reconnu par l’agence qui octroie l’aide.\n\nÀ l’école, la Fédération Wallonie-Bruxelles demande un document attestant du handicap.\n\nAvant de commencer une démarche, demandez au service compétent quels documents sont nécessaires.",
+       "srcs": [
+        {
+         "org": "INAMI",
+         "title": "Incapacité de travail : déclaration, indemnités, activités autorisées",
+         "url": "https://www.inami.fgov.be/fr/faq/citoyens/incapacite-de-travail-declaration-indemnites-activites-autorisees",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "SPF Sécurité sociale",
+         "title": "Procédure de reconnaissance",
+         "url": "https://handicap.belgium.be/fr/reconnaissance-de-votre-handicap/procedure-reconnaissance",
+         "kind": "fact",
+         "upd": "2026-10-27"
+        },
+        {
+         "org": "Unia",
+         "title": "Travailler avec un handicap : Les aménagements raisonnables dans l’emploi",
+         "url": "https://www.unia.be/files/Brochure-Au-travail-avec-un-handicap-2025.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        },
+        {
+         "org": "Unia",
+         "title": "Apprendre et étudier avec un handicap : Les aménagements raisonnables dans l’enseignement",
+         "url": "https://www.unia.be/files/Brochure-Etudier-avec-un-handicap-2026.pdf",
+         "kind": "fact",
+         "upd": "2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Un nom de maladie n’est pas un outil pour se placer au-dessus des autres",
+       "body": "Un nom de maladie n’est pas un outil pour se placer au-dessus de quelqu’un, ni pour regarder les autres de haut.\nCertaines personnes se sentent plus légères quand elles apprennent un nom pour ce qu’elles vivent. C’est important.\nVouloir que les gens autour de soi comprennent, ou soient plus doux avec soi, c’est naturel aussi.\n\nQuand vous souhaitez que quelqu’un soit plus doux avec vous, vous pouvez le demander directement, sans donner de nom de maladie.\nC’est plus facile à comprendre si vous dites ensemble deux choses : ce qui vous met en difficulté, et ce que vous aimeriez que l’autre fasse.\n\nPar exemple, vous pouvez dire :\n« Aujourd’hui, j’ai peu d’énergie : pouvez-vous me parler lentement ? »\n« Quand on me dit beaucoup de choses à la fois, je m’y perds : pouvez-vous me les dire une par une ? »\n« J’ai du mal à retenir ce que j’entends seulement : pouvez-vous écrire les choses importantes, sur papier ou par e-mail ? »\n« Les endroits où il y a beaucoup de monde sont difficiles pour moi : je préfère parler dans un endroit calme. »\n« J’ai besoin d’un peu de temps pour répondre : pouvez-vous attendre un moment ? »\n« En ce moment, mes émotions prennent toute la place : pouvez-vous d’abord m’écouter ? Les conseils peuvent attendre. »\n« Aujourd’hui, je ne me sens pas bien : pouvez-vous me laisser me reposer un peu ? »\n« Les changements de programme soudains me déstabilisent : pouvez-vous me le dire dès que vous le savez ? »\n« Quand on me parle fort, j’ai peur : pouvez-vous me parler calmement ? »\n\nSi c’est difficile à dire, vous pouvez l’écrire sur un papier et le donner. Vous pouvez aussi montrer l’écran « Mes difficultés » avec le bouton « Afficher en grand » : il apparaît dans cette application quand vous choisissez une difficulté et répondez aux questions.\nSi vous souhaitez dire un nom de maladie qui vous concerne, vous pouvez le faire. Dans ce cas aussi, dire en même temps ce qui vous met en difficulté et ce que vous aimeriez que l’autre fasse l’aide à agir.\nParfois, l’autre personne ne peut pas faire ce que vous demandez, à cause de sa propre situation. Dans ce cas, essayez de chercher ensemble s’il existe une autre façon de faire.\n\nAu travail, vous pouvez demander avec les mêmes mots : « Suivre plusieurs consignes à la fois me demande un effort. Je préfère les recevoir par écrit. »\n\nN’utilisez pas la liste des noms de cette application pour mettre en doute les personnes autour de vous.",
+       "srcs": []
+      },
+      {
+       "h": "À propos de cette application",
+       "body": "Ceci n’est pas un diagnostic. Cette liste ne dit pas si vous avez une maladie ou un trouble. Cette application n’est pas un dispositif médical et ne remplace pas une consultation avec un professionnel de santé.\n\nVos réponses ne sont envoyées nulle part et ne sont pas enregistrées sur cet appareil. Elles disparaissent quand vous fermez l’application.\n\nApplication indépendante. SOYOGI est un groupe bénévole à but non lucratif établi au Japon. SOYOGI n’a aucun lien avec les autorités belges (fédérales, régionales et communautaires) ni avec un établissement de santé, et aucun d’eux ne recommande ni ne soutient l’application. Les noms des organismes indiquent seulement d’où vient l’information.\n\nSOYOGI a rédigé ces textes avec ses propres mots à partir de pages publiques de Belgique. Les sources figurent sur chaque écran, avec la date affichée par la page lorsqu’elle en affiche une. Consulté le 20 novembre 2026. Les numéros et les horaires peuvent changer. Les horaires sont ceux indiqués par chaque service.\n\nC’est vous, et non l’application, qui décidez de demander de l’aide ou non.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Une page du gouvernement flamand conseille, en cas de difficulté psychologique, de prendre d’abord contact avec le médecin généraliste.",
+      "src": {
+       "org": "Gouvernement flamand (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Vous n’avez pas à garder cela pour vous. Vous pouvez d’abord en parler à votre médecin généraliste.",
+       "src": {
+        "org": "Gouvernement flamand (vlaanderen.be)",
+        "title": "Psychische gezondheid",
+        "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Flandre : pour l’aide directement accessible du VAPH, aucune demande n’est nécessaire ; vous pouvez contacter vous-même un prestataire de soins.",
+       "src": {
+        "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+        "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+        "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Wallonie : selon le site de la Wallonie, il n’y a pas de condition particulière pour s’adresser à un bureau régional de l’AViQ si vous avez une question sur le handicap, sur vos besoins ou sur les démarches.",
+       "src": {
+        "org": "Service public de Wallonie (wallonie.be)",
+        "title": "Accéder aux services de mon bureau régional de l’AVIQ",
+        "url": "https://www.wallonie.be/fr/demarches/acceder-aux-services-de-mon-bureau-regional-de-laviq",
+        "kind": "fact",
+        "upd": "2026-11-05"
+       }
+      },
+      {
+       "text": "Bruxelles (COCOF, francophone) : une admission au Service PHARE n’est pas requise pour faire appel à un service d’accompagnement ; on prend contact soi-même avec le service que l’on choisit. Le service demande une participation aux frais chaque mois.",
+       "src": {
+        "org": "Commission communautaire française (COCOF)",
+        "title": "Services d’accompagnement",
+        "url": "https://ccf.brussels/nos-services/personnes-handicapees/service-phare/accompagnement-et-aide-a-linclusion/services-daccompagnement/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Communauté germanophone : la Dienststelle für Selbstbestimmtes Leben (DSL) informe et conseille les personnes en situation de handicap qui vivent en Communauté germanophone.",
+       "src": {
+        "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+        "title": "Dienststelle für Selbstbestimmtes Leben",
+        "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8619/14012_read-75187/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Comment un nom (un diagnostic) est donné, en bref :",
+      "text": "Un diagnostic fait partie des soins médicaux ; on peut pour cela s’adresser par exemple à un psychiatre.",
+      "src": {
+       "org": "Departement Zorg (Vlaamse overheid)",
+       "title": "Centra voor geestelijke gezondheidszorg",
+       "url": "https://www.departementzorg.be/nl/centra-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Seuls quelques noms ont pu être confirmés sur des pages publiques de santé.",
+     "noNames": "Nous n’avons pas pu confirmer de noms pour ce groupe sur des pages publiques de santé ; aucune liste de noms n’est donc affichée ici. Vous pouvez quand même trouver où demander de l’aide dans cette application."
+    }
+   },
+   "de": {
+    "groups": {
+     "mood": {
+      "label": "Gedrückte Stimmung, keine Kraft",
+      "lead": "Wenn die Stimmung gedrückt bleibt und es schwerfällt, die Kraft für irgendetwas aufzubringen.",
+      "scenes": [
+       "Meine Stimmung bleibt von morgens bis abends gedrückt.",
+       "Was mir früher Freude gemacht hat, macht mir keine Freude mehr.",
+       "Ich habe keine Kraft und kann mich nicht konzentrieren, deshalb bleiben Arbeit und Haushalt liegen.",
+       "Ich mache mir Vorwürfe und sehe alles nur noch schwarz.",
+       "Nachts kann ich nicht schlafen, oder ich schlafe viel zu viel. Mein Appetit hat nachgelassen und mein Körper fühlt sich schwer an.",
+       "Manchmal möchte ich verschwinden oder nicht mehr da sein."
+      ],
+      "asks": [
+       "Es hilft mir, wenn mir Dinge eins nach dem anderen erklärt werden.",
+       "Es hilft mir, wenn ich nicht zu Antworten oder Entscheidungen gedrängt werde und Zeit zum Nachdenken bekomme.",
+       "Wichtige Dinge bekomme ich lieber schriftlich.",
+       "Bevor mir jemand sagt „Reiß dich zusammen“ oder „Kopf hoch“, hilft es mir, wenn mir zuerst zugehört wird.",
+       "Es hilft mir, wenn es nicht gleich als Faulheit gesehen wird, wenn ich mich ausruhe.",
+       "Es hilft mir, wenn wir gemeinsam klären, ob eine körperliche Erkrankung oder ein Medikament, das ich gerade nehme, eine Rolle spielt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "Dieses Dokument beschreibt Depression als traurige Stimmung mit Verlust von Interesse und Freude an den Dingen des Alltags und sagt, dass sie sich auf das soziale Leben auswirkt.",
+        "src": {
+         "org": "KCE",
+         "title": "Dépression majeure (de l’adulte) : efficacité à long terme de la psychothérapie, seule ou en combinaison avec des antidépresseurs",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/KCE_230Bs_Depression_Synthese.pdf",
+         "kind": "fact",
+         "upd": "2014"
+        }
+       },
+       {
+        "name": "Burnout",
+        "why": "Diese Seite sagt, dass ein Burnout mit lang anhaltendem Stress zusammenhängen und zu einem Rückzug aus dem Beruf und zu einer Depression führen kann.",
+        "src": {
+         "org": "SPF Emploi, Travail et Concertation sociale",
+         "title": "Définitions et champ d’application",
+         "url": "https://emploi.belgique.be/fr/themes/bien-etre-au-travail/risques-psychosociaux-au-travail/definitions-et-champ-dapplication",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Starke Sorgen oder Anspannung",
+      "lead": "Sorgen, die nicht aufhören, Herzklopfen und Unruhe, Schwierigkeiten vor anderen Menschen oder beim Hinausgehen und Ähnliches.",
+      "scenes": [
+       "Wenn ich vor anderen sprechen muss oder alle auf mich schauen, habe ich so große Angst, dass mein Kopf wie leergefegt ist.",
+       "Mein Herz fängt plötzlich an zu rasen und ich bekomme schlecht Luft. Ich habe Sorge, dass es wieder passiert, und deshalb fällt es mir schwer, das Haus zu verlassen.",
+       "Auch ohne klaren Grund mache ich mir über eine Sache nach der anderen Sorgen, bin unruhig und erschöpft.",
+       "Orte, von denen ich nur schwer wegkomme, halte ich kaum aus, zum Beispiel Zug, Bus oder Straßenbahn, volle Geschäfte oder Gebäude. Allein aus dem Haus zu gehen fällt mir ebenfalls schwer. Deshalb meide ich das.",
+       "Weil ich vermeide, was mir Angst macht, gehe ich an immer weniger Orte und treffe immer weniger Menschen. Mein Leben ist enger geworden.",
+       "Die Sorgen gehen mir nicht aus dem Kopf, und abends kann ich schlecht einschlafen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn ich in Ruhe und ohne Hast sprechen kann.",
+       "Ich höre gern vorher, wie der Plan und der Ablauf aussehen.",
+       "Es hilft mir, wenn ich nicht plötzlich vor anderen meine Meinung sagen muss und wenn ich auch schriftlich antworten darf.",
+       "Wenn es mir nicht gut geht, hilft es mir, wenn ich kurz hinausgehen darf, um mich zu erholen.",
+       "Ich spreche lieber an einem ruhigen Ort mit wenigen Menschen.",
+       "Bevor gesagt wird, dass ich mir zu viele Sorgen mache, hilft es mir, wenn zuerst zugehört wird, was mir schwerfällt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Schwer, mit Kontrollieren oder Wiederholen aufzuhören",
+      "lead": "Wenn Sie das Türschloss oder den Herd kontrollieren, sich die Hände waschen oder andere Handlungen immer wieder wiederholen und es schwer ist aufzuhören, obwohl Sie es möchten.",
+      "scenes": [
+       "Wenn ich das Haus verlasse, muss ich das Türschloss oder den Herd immer wieder kontrollieren, sonst kann ich nicht beruhigt gehen.",
+       "Ich wasche mir die Hände oder den Körper immer öfter und kann nicht aufhören, auch wenn ich es möchte.",
+       "Derselbe Sorgengedanke kommt immer wieder, und ich kann nicht aufhören, daran zu denken, obwohl ich es möchte.",
+       "Wenn Dinge nicht so liegen oder in der Reihenfolge ablaufen, wie ich es festgelegt habe, werde ich unruhig und räume um oder fange von vorn an.",
+       "Das Kontrollieren dauert so lange, dass ich zu spät losgehe oder zu spät zu Terminen oder zur Arbeit komme.",
+       "Mein Körper bewegt sich oder ich gebe Laute von mir, ohne es zu wollen, und es fällt mir schwer, das zu stoppen, auch wenn ich es versuche."
+      ],
+      "asks": [
+       "Ich möchte zuerst gehört werden, ohne dass gleich gesagt wird, dass ich mir zu viele Gedanken mache.",
+       "Das Kontrollieren kostet mich Zeit, deshalb hilft es, wenn etwas mehr Zeit eingeplant wird.",
+       "Wenn sich Pläne oder Schritte ändern, höre ich das gern vorher.",
+       "Es hilft mir, wenn mich niemand vor anderen darauf anspricht oder Witze darüber macht, wenn ich etwas kontrolliere oder mir die Hände wasche.",
+       "Erklärungen und Anweisungen bekomme ich gern eins nach dem anderen und schriftlich.",
+       "Bevor wir entscheiden, wie es weitergeht, möchte ich, dass zuerst meinen Sorgen zugehört wird und dass wir in Ruhe darüber sprechen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autismus-Spektrum-Störung (ASS)",
+        "why": "Diese Seite beschreibt Autismus mit eingeschränkten, sich wiederholenden Verhaltensweisen, Interessen oder Aktivitäten und mit anhaltenden Schwierigkeiten in sozialer Kommunikation und Interaktion.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Schwierigkeiten, die nach einem belastenden Erlebnis anhalten",
+      "lead": "Erinnerungen, die immer wiederkommen, schlechter Schlaf oder eine Anspannung, die nach einem belastenden Erlebnis nicht nachlässt.",
+      "scenes": [
+       "Ein kleiner Anlass genügt, und die schlimme Szene und meine Gefühle von damals sind plötzlich wieder da.",
+       "Ich habe immer wieder ähnliche Albträume und schlafe in vielen Nächten nicht tief.",
+       "Ich stehe ständig unter Spannung, und schon ein kleines Geräusch oder Ereignis lässt mich zusammenzucken.",
+       "Ich meide nach Möglichkeit Orte, Menschen und Themen, die mich an die Zeit von damals erinnern, und mein Alltag ist dadurch enger geworden.",
+       "Ich fühle mich innerlich wie taub und kann meiner Familie und meinem Freundeskreis nicht mehr so zugewandt sein wie früher.",
+       "Ich gebe mir immer häufiger die Schuld, oder es fällt mir schwerer, den Menschen um mich herum zu vertrauen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn nicht nach allen Einzelheiten dessen gefragt wird, was geschehen ist. Ich erzähle in meinem eigenen Tempo, nur so viel, wie ich kann.",
+       "Bestimmte Geräusche, Orte und Themen bringen alles wieder hoch. Es hilft mir, wenn akzeptiert wird, dass ich sie lieber meide.",
+       "Es hilft mir, wenn ich nicht plötzlich von hinten angesprochen werde und wenn in meiner Nähe keine lauten Geräusche gemacht werden.",
+       "Wenn Sprechen zu schwerfällt, gebe ich lieber einen Text, den ich aufgeschrieben habe. Es hilft mir, wenn das erlaubt ist.",
+       "Es gibt Tage, an denen ich schlecht schlafe oder die Erschöpfung bleibt. Es hilft mir, wenn das nicht als Faulheit gesehen wird.",
+       "Es hilft mir, wenn ich nicht mit Sätzen wie „Versuch, es zu vergessen“ oder „Lass es los“ gedrängt werde und wenn es einen Ort gibt, an dem ich in Ruhe sprechen kann."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "be1712",
+       "beevc",
+       "beprisma",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Schwierigkeiten mit dem Schlaf",
+      "lead": "Schwer einschlafen, nachts aufwachen, morgens schwer aufstehen oder tagsüber stark schläfrig sein.",
+      "scenes": [
+       "Auch wenn ich schon im Bett liege, schlafe ich nur schwer ein.",
+       "Ich wache nachts mehrmals auf und schlafe bis zum Morgen nie richtig durch.",
+       "Zur gewohnten Zeit komme ich morgens nicht aus dem Bett und schaffe es immer wieder nicht rechtzeitig zur Arbeit, zur Ausbildung oder zur Schule.",
+       "Tagsüber überfällt mich starke Schläfrigkeit, und in Besprechungen oder am Steuer döse ich beinahe ein.",
+       "Meine Familie sagt mir, dass ich laut schnarche und dass meine Atmung im Schlaf manchmal auszusetzen scheint.",
+       "Am Abend und in der Nacht fühlen sich meine Beine unangenehm an, ich komme nicht zur Ruhe und kann nicht schlafen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn man sich in Ruhe Zeit nimmt zu fragen, wie ich schlafe: ob ich schwer einschlafe, nachts aufwache, morgens schwer aus dem Bett komme oder tagsüber schläfrig bin.",
+       "Es hilft mir, wenn gemeinsam mit mir geschaut wird, was eine Rolle spielt, auch die Medikamente, die ich nehme, und meine Gewohnheiten mit Kaffee, Alkohol und Zigaretten.",
+       "Es hilft mir, wenn nicht gleich gesagt wird, es sei „reine Kopfsache“, und wenn auch meine körperliche Gesundheit und meine Stimmung angeschaut werden.",
+       "Ich zeige gern auf einem Zettel, wann ich ins Bett gehe und wann ich aufstehe. Es hilft mir, wenn jemand das ansieht.",
+       "Wenn mir ein Medikament vorgeschlagen wird, hilft es mir, wenn in einfachen Worten erklärt wird, wie es wirkt und worauf ich achten muss.",
+       "Morgens fällt mir vieles schwer. Es hilft mir, wenn ein Termin am Nachmittag oder am frühen Abend möglich ist."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schlafstörung",
+        "why": "Diese Seite beschreibt Schlafstörungen als schweres Einschlafen oder nächtliches Aufwachen und nennt verschiedene Auslöser, etwa eine Schilddrüsenfunktionsstörung, die Wechseljahre, belastende Lebenssituationen, Alkohol oder bestimmte Arzneimittel.",
+        "src": {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "be1733",
+       "beepz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Schwierigkeiten mit dem Essen",
+      "lead": "Wenn Essen schwerfällt: Sie können nicht viel essen, Sie können nicht aufhören, oder Essen macht Ihnen Angst.",
+      "scenes": [
+       "Ich habe keine Lust zu essen und bekomme kaum etwas herunter.",
+       "Wenn ich einmal angefangen habe zu essen, kann ich nicht mehr aufhören, und manchmal esse ich so viel, dass es wehtut.",
+       "Ohne es zu merken, denke ich nur noch an Essen, und es fällt mir schwer, mich auf etwas anderes zu konzentrieren.",
+       "Ich kann nur sehr wenige Lebensmittel essen und meide viele wegen ihres Geschmacks, ihres Geruchs oder ihrer Konsistenz.",
+       "Nachdem ich mich an einem Bissen verschluckt habe oder erbrechen musste, habe ich Angst vor dem Essen bekommen.",
+       "Nachts esse ich manchmal halb im Schlaf, und am Morgen weiß ich nichts mehr davon."
+      ],
+      "asks": [
+       "Es hilft mir, wenn keine Bemerkungen zu meinem Körper oder meinem Aussehen gemacht werden.",
+       "Es hilft mir, wenn ich nicht zum Essen gezwungen und nicht gedrängt werde.",
+       "Wenn gemeinsam gegessen wird, hilft es mir, wenn ich einen anderen Ort oder eine andere Zeit wählen darf.",
+       "Ich finde es gut, wenn zuerst gefragt wird, was ich essen kann und welche Gerüche oder Konsistenzen mir schwerfallen.",
+       "Es hilft mir, wenn vorher erklärt wird, was bei einer körperlichen Untersuchung oder beim Termin passiert.",
+       "Was ich nur schwer laut sagen kann, gebe ich lieber schriftlich. Es hilft mir, wenn das erlaubt ist."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Schwer, mit Alkohol, Glücksspiel oder Videospielen aufzuhören",
+      "lead": "Wenn Sie aufhören oder weniger machen möchten, aber trotzdem weitermachen.",
+      "scenes": [
+       "Ich nehme mir vor, aufzuhören oder weniger zu machen, merke dann aber, dass ich trotzdem weitermache.",
+       "Ich schaffe es nicht, mich an die Zeit, die Menge oder das Geld zu halten, die ich mir für den Tag vorgenommen habe.",
+       "Ich verheimliche das Trinken, die Videospiele oder das Glücksspiel vor Menschen, die mir nahestehen, oder ich rede es schön.",
+       "Ich spiele oft bis tief in die Nacht Videospiele, komme morgens nicht aus dem Bett, und es kommt immer öfter vor, dass ich zu spät komme oder fehle.",
+       "Wenn ich verliere, will ich das Geld unbedingt zurückgewinnen und setze deshalb noch einmal, zum Beispiel an Spielautomaten oder bei Sportwetten.",
+       "Obwohl ich weiß, dass es meinem Körper nicht gut geht, schaffe ich es nicht, weniger zu trinken."
+      ],
+      "asks": [
+       "Es hilft mir, wenn mir zuerst zugehört wird, ohne Vorwürfe und ohne vorschnelle Urteile über mich.",
+       "Es hilft mir, wenn wir gemeinsam Schritt für Schritt durchgehen, wie meine Gewohnheiten aussehen und welche Schwierigkeiten sie mir machen.",
+       "Ich möchte, dass auch mein Schlaf und meine körperliche Gesundheit angeschaut werden.",
+       "Es hilft mir, wenn ich konkret erfahre, wo ich Hilfe bekommen und wohin ich gehen kann.",
+       "Ich möchte gern wissen, ob jemand aus meiner Familie oder eine mir nahestehende Person mit zum Gespräch kommen kann.",
+       "Ich möchte vorher wissen, an wen weitergegeben wird, was ich erzähle, und wie viel davon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Abhängigkeit (Alkohol, Medikamente, Drogen)",
+        "why": "Diese Seite betrifft Probleme mit einer Abhängigkeit von Alkohol, Medikamenten oder Drogen und den Wunsch, damit aufzuhören.",
+        "src": {
+         "org": "Agence pour une Vie de Qualité (AViQ)",
+         "title": "Toxicomanie",
+         "url": "https://www.aviq.be/fr/soins-de-sante/revalidation-fonctionnelle/toxicomanie",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problematischer Alkoholkonsum",
+        "why": "Dieses Dokument erklärt, dass problematischer Alkoholkonsum ein weiterer Begriff ist als Alkoholabhängigkeit und nicht immer zu einer Abhängigkeit führt.",
+        "src": {
+         "org": "KCE",
+         "title": "Comment favoriser le recours à l’aide en cas de consommation problématique d’alcool ? (Synthèse)",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/KCE_258B_consommation_problematique_alcool_Synthese%20%281%29.pdf",
+         "kind": "fact",
+         "upd": "2015"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "begok",
+       "bedrug",
+       "beinfdr",
+       "beasl",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Schwierigkeiten mit Aufmerksamkeit und Planung",
+      "lead": "Schwierigkeiten, sich zu konzentrieren, Schritt für Schritt voranzukommen oder sich Dinge zu merken.",
+      "scenes": [
+       "Selbst wenn mir jemand etwas erzählt, sind meine Gedanken plötzlich woanders, ohne dass ich es merke.",
+       "Ich schaffe es nicht, die Arbeit oder den Haushalt der Reihe nach zu erledigen, und halte Fristen nicht ein.",
+       "Ich vergesse häufig, worum man mich gebeten hat oder was ich versprochen habe, oder ich verliere Dinge.",
+       "Wenn ich lange dieselbe Aufgabe mache, häufen sich Flüchtigkeitsfehler.",
+       "Wenn ich lange still sitzen muss, werde ich unruhig und zappelig.",
+       "Menschen in meinem Umfeld sagen mir, dass ich oft etwas vergesse oder zu spät komme."
+      ],
+      "asks": [
+       "Es hilft mir, wenn ich Anweisungen einzeln bekomme, eine nach der anderen.",
+       "Wichtige Informationen bekomme ich lieber schriftlich.",
+       "Es hilft mir, wenn ich Fristen und Termine möglichst früh erfahre.",
+       "Es hilft mir, wenn ich nicht zu viele Aufgaben auf einmal bekomme und sie in kleine Schritte aufgeteilt werden.",
+       "Ich würde gern an einem ruhigen Ort sprechen, an dem ich wenig abgelenkt werde.",
+       "Es hilft mir, wenn gesehen wird, was ich geschafft habe, statt mir Vorwürfe für das zu machen, was nicht geklappt hat."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Burnout",
+        "why": "Diese Seite nennt beim Burnout unter anderem extreme Müdigkeit, weniger Motivation und eine geringere Fähigkeit, alltägliche Aufgaben zu erledigen.",
+        "src": {
+         "org": "Flämische Behörden (vlaanderen.be)",
+         "title": "Ik heb (te veel) stress of misschien een burn-out. Wat kan ik doen?",
+         "url": "https://www.vlaanderen.be/intern/welzijn-en-gezondheid/je-goed-voelen-op-het-werk/ik-heb-te-veel-stress-of-misschien-een-burn-out-wat-kan-ik-doen",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHS",
+        "why": "Diese Stellungnahme beschreibt ADHS als anhaltendes Muster von Aufmerksamkeitsproblemen und/oder Unruhe und Impulsivität, das zu Problemen in der Schule, im Beruf oder im Kontakt mit anderen führt. Die Beschwerden können auch später im Leben beginnen.",
+        "src": {
+         "org": "SPF Santé publique",
+         "title": "Prise en charge médicamenteuse et non médicamenteuse du TDA/H",
+         "url": "https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/20210308_css-9547_tdah_vweb_0.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Schwierigkeiten mit anderen Menschen, festen Gewohnheiten und Sinneseindrücken",
+      "lead": "Schwierigkeiten, mit anderen zu sprechen oder zusammen zu sein, ein starkes Bedürfnis, Dinge auf eine bestimmte Art zu tun, oder Geräusche, Licht und Gerüche, die schwer auszuhalten sind.",
+      "scenes": [
+       "In einem Gespräch fällt es mir schwer, zu erfassen, was mein Gegenüber fühlt oder wie die Stimmung im Raum ist, und ich habe oft den Eindruck, dass wir aneinander vorbeireden.",
+       "Wenn ich vor Leuten sprechen muss oder alle Blicke auf mich gerichtet sind, werde ich sehr angespannt und gehe solchen Situationen aus dem Weg.",
+       "Mit Menschen, die mir nahestehen, kann ich sprechen, aber vor anderen bringe ich keinen Ton heraus.",
+       "Wenn sich mein gewohntes Vorgehen, die Reihenfolge der Schritte oder der Platz meiner Sachen ändert, löst das bei mir starke Unruhe aus.",
+       "Geräusche, Licht und Gerüche nehme ich sehr stark wahr, und Orte mit vielen Menschen sind für mich schwer auszuhalten.",
+       "Ich kann schlecht hören, was andere sagen, oder meine Stimmung ist gedrückt, und es fällt mir inzwischen schwer, Menschen zu treffen oder mit ihnen zu sprechen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn langsam und deutlich mit mir gesprochen wird.",
+       "Es hilft mir, wenn wichtige Dinge auch aufgeschrieben werden.",
+       "Ich würde gern an einem ruhigen Ort sprechen.",
+       "Wenn sich Pläne oder Abläufe ändern, erfahre ich das gern vorher.",
+       "Es hilft mir, wenn ich nicht gedrängt werde und Zeit zum Antworten bekomme.",
+       "Ich würde gern schriftlich oder mit einer kurzen Notiz antworten, statt zu sprechen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autismus-Spektrum-Störung (ASS)",
+        "why": "Diese Seite beschreibt Autismus mit anhaltenden Schwierigkeiten in sozialer Kommunikation und Interaktion in verschiedenen Situationen und mit eingeschränkten, sich wiederholenden Verhaltensweisen oder Interessen.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Schwierigkeiten mit Lesen, Schreiben oder Rechnen",
+      "lead": "Wenn Lesen, Schreiben oder der Umgang mit Zahlen trotz Mühe schwer bleibt.",
+      "scenes": [
+       "Ich brauche länger als andere, um einen Text zu lesen, und muss ihn oft mehrmals lesen.",
+       "Auch nach dem Lesen kommt der Inhalt bei mir nicht an, und es fällt mir schwer zu verstehen, was in Unterlagen oder Briefen steht.",
+       "Mit der Rechtschreibung habe ich Mühe: Ich mache viele Fehler oder vergesse beim Schreiben Buchstaben oder Wörter.",
+       "Meine Handschrift ist unregelmäßig, und Schreiben kostet mich viel Zeit und Kraft.",
+       "Bei einfachen Rechenaufgaben und bei Textaufgaben komme ich nicht weiter.",
+       "Ich kann ohne Schwierigkeiten sprechen und zuhören, aber beim Lesen, Schreiben oder Rechnen komme ich nicht so voran, wie ich möchte, auch wenn ich mir viel Zeit nehme."
+      ],
+      "asks": [
+       "Es hilft mir, wenn Texte in großer Schrift und mit weitem Zeilenabstand oder in einfacher Sprache geschrieben sind.",
+       "Wichtige Inhalte bekomme ich lieber vorgelesen oder mündlich gesagt.",
+       "Es hilft mir, wenn ich statt mit der Hand zu schreiben am Computer oder Handy tippen oder etwas mit Fotos oder Sprachaufnahmen festhalten darf.",
+       "Es hilft mir, wenn ich beim Rechnen einen Taschenrechner benutzen darf.",
+       "Es hilft mir, wenn ich mehr Zeit zum Lesen, Schreiben und Rechnen bekomme.",
+       "Es hilft mir, wenn ich nicht alles auf einmal bekomme, sondern eins nach dem anderen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Starke Stimmungsschwankungen",
+      "lead": "Wenn die Stimmung stark auf und ab geht und es schwer ist, mit den eigenen Gefühlen Schritt zu halten.",
+      "scenes": [
+       "Zeiten, in denen ich viel zu viel Energie habe, wechseln sich mit Zeiten ab, in denen ich so niedergedrückt bin, dass ich mich kaum bewegen kann.",
+       "Es gibt Zeiten, in denen ich kaum schlafe und trotzdem voller Energie und ständig in Bewegung bin.",
+       "Mir fällt eine Idee nach der anderen ein, und alles bleibt halb fertig.",
+       "In einer übermütigen Stimmung habe ich schon einmal so viel Geld ausgegeben, dass ich später deswegen in Schwierigkeiten geraten bin.",
+       "Schon bei Kleinigkeiten werde ich gereizt, und es fällt mir schwer, meine Gefühle im Griff zu behalten.",
+       "Was ich getan habe, als meine Stimmung sehr hoch war, hat sich auf meine Beziehungen oder meine Arbeit ausgewirkt."
+      ],
+      "asks": [
+       "Es hilft mir, wenn auch nach den Zeiten gefragt wird, in denen ich ungewöhnlich viel Energie hatte.",
+       "Es hilft mir, wenn man sich Zeit nimmt, mit mir gemeinsam auf mein Auf und Ab zurückzublicken.",
+       "Vor großen Entscheidungen über Geld oder Arbeit hilft es mir, wenn mich jemand ermutigt, kurz innezuhalten und nachzudenken.",
+       "Ich möchte, dass auch nach körperlichen Ursachen geschaut wird, etwa Schlaf, Medikamente und Alkohol.",
+       "Wenn ich anders wirke als sonst, höre ich das gern, ohne Vorwürfe.",
+       "Es hilft mir, wenn mir bis zum Ende zugehört wird, ob ich gerade viel Energie habe oder niedergedrückt bin."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Wer einen Namen kennt, sieht in alltäglichen Schwankungen leichter ein Symptom",
+       "body": "Wer den Namen einer Erkrankung oder einer Entwicklungsstörung kennt, bei dem kann eine kleine Müdigkeit oder ein Moment der Unaufmerksamkeit leichter wie ein Symptom aussehen.\n\nGefühle können tatsächlich verändern, wie sich Körper und Stimmung anfühlen. Das ist keine Einbildung, das geschieht wirklich. Auch Schlafmangel, Stress, die Handynutzung oder das, was um einen herum geschieht, können Ähnliches bewirken.\n\nWenn Sie beim Lesen eines Namens denken: „Das könnte es sein“, bleiben Sie nicht gleich dabei stehen, sondern denken Sie auch an andere Gründe. Wenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, auch ohne einen Namen.",
+       "srcs": []
+      },
+      {
+       "h": "Jeder kann es einmal schwer haben",
+       "body": "Jeder kann im Leben psychisch verwundbar sein, schreibt das LIKIV. Schwer einzuschlafen oder nachts aufzuwachen, das kennt fast jeder.\n\nOb ein Name dazu passt, bespricht eine Ärztin oder ein Arzt mit Ihnen.",
+       "srcs": [
+        {
+         "org": "LIKIV",
+         "title": "Ihre psychologische Erstversorgung: Erstattung über die Netzwerke für psychische Gesundheit",
+         "url": "https://www.riziv.fgov.be/fr/likiv/ihre-psychologische-erstversorgung-erstattung-uber-die-netzwerke-fur-psychische-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Auch ohne den Namen einer Krankheit können Sie darüber sprechen",
+       "body": "Auch ohne den Namen einer Krankheit können Sie über Ihre Schwierigkeiten sprechen. Für die psychologische Erstunterstützung brauchen Sie laut LIKIV keine Überweisung.\n\nWenn Sie am Arbeitsplatz eine angemessene Vorkehrung erbitten, müssen Sie laut Unia Ihre Krankenakte oder Diagnose nicht offenlegen. Eine offiziell anerkannte Behinderung ist dafür nicht nötig; ein ärztliches Gutachten kann aber hilfreich sein.\n\nWas Sie sich wünschen und was möglich ist, hängt von der Situation ab und wird im Gespräch geklärt.",
+       "srcs": [
+        {
+         "org": "LIKIV",
+         "title": "Ihre psychologische Erstversorgung: Erstattung über die Netzwerke für psychische Gesundheit",
+         "url": "https://www.riziv.fgov.be/fr/likiv/ihre-psychologische-erstversorgung-erstattung-uber-die-netzwerke-fur-psychische-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Unia",
+         "title": "Travailler avec un handicap : Les aménagements raisonnables dans l’emploi",
+         "url": "https://www.unia.be/files/Brochure-Au-travail-avec-un-handicap-2025.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        }
+       ]
+      },
+      {
+       "h": "Manche Verfahren verlangen ein ärztliches Schreiben",
+       "body": "Manche Verfahren verlangen ein ärztliches Schreiben. Wenn Sie wegen einer Krankheit nicht arbeiten können, füllt Ihre Ärztin oder Ihr Arzt eine Bescheinigung über die Arbeitsunfähigkeit mit Beginn und Ende aus.\n\nFür die Anerkennung einer Behinderung stützt sich der FÖD Soziale Sicherheit auf die Berichte Ihrer Ärztin oder Ihres Arztes, zum Beispiel Ihrer Hausärztin oder Ihres Hausarztes. Für finanzielle Hilfe bei Anpassungen am Arbeitsplatz verlangt die zuständige Agentur in der Regel eine Anerkennung.\n\nIn der Schule verlangt die Föderation Wallonie-Brüssel ein Schreiben, das die Behinderung belegt.\n\nFragen Sie vor Beginn eines Verfahrens bei der zuständigen Stelle, welche Unterlagen nötig sind.",
+       "srcs": [
+        {
+         "org": "LIKIV",
+         "title": "Incapacité de travail : déclaration, indemnités, activités autorisées",
+         "url": "https://www.inami.fgov.be/fr/faq/citoyens/incapacite-de-travail-declaration-indemnites-activites-autorisees",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "FÖD Soziale Sicherheit",
+         "title": "Verfahren für die Anerkennung",
+         "url": "https://handicap.belgium.be/de/anerkennung-ihrer-behinderung/verfahren-fur-die-anerkennung",
+         "kind": "fact",
+         "upd": "2026-10-27"
+        },
+        {
+         "org": "Unia",
+         "title": "Travailler avec un handicap : Les aménagements raisonnables dans l’emploi",
+         "url": "https://www.unia.be/files/Brochure-Au-travail-avec-un-handicap-2025.pdf",
+         "kind": "fact",
+         "upd": "2025"
+        },
+        {
+         "org": "Unia",
+         "title": "Apprendre et étudier avec un handicap : Les aménagements raisonnables dans l’enseignement",
+         "url": "https://www.unia.be/files/Brochure-Etudier-avec-un-handicap-2026.pdf",
+         "kind": "fact",
+         "upd": "2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Der Name einer Erkrankung ist kein Werkzeug, um sich über andere zu stellen",
+       "body": "Der Name einer Erkrankung ist kein Werkzeug, um sich über jemanden zu stellen oder auf andere herabzusehen.\nManche Menschen fühlen sich erleichtert, wenn sie einen Namen für das finden, was sie erleben. Das ist wichtig.\nAuch der Wunsch, dass die Menschen um einen herum einen verstehen oder freundlich zu einem sind, ist natürlich.\n\nWenn Sie sich wünschen, dass jemand freundlich mit Ihnen umgeht, können Sie das direkt sagen, ohne den Namen einer Erkrankung zu nennen.\nEs kommt leichter an, wenn Sie zwei Dinge zusammen sagen: womit Sie Schwierigkeiten haben und was Sie sich von der anderen Person wünschen.\n\nZum Beispiel können Sie sagen:\n„Ich bin heute müde, bitte sprechen Sie langsam mit mir.“\n„Wenn mir viel auf einmal gesagt wird, verliere ich den Faden. Bitte sagen Sie mir eins nach dem anderen.“\n„Was ich nur höre, kann ich mir schlecht merken. Bitte schreiben Sie Wichtiges auf, auf Papier oder per E-Mail.“\n„Orte mit vielen Menschen fallen mir schwer. Ich würde gern an einem ruhigen Ort sprechen.“\n„Ich brauche etwas Zeit zum Antworten. Bitte warten Sie einen Moment.“\n„Im Moment bin ich sehr aufgewühlt. Bitte hören Sie mir zuerst einfach zu. Ratschläge können später kommen.“\n„Mir geht es heute nicht gut. Bitte lassen Sie mich ein wenig ausruhen.“\n„Plötzliche Planänderungen bringen mich durcheinander. Bitte sagen Sie mir so früh wie möglich Bescheid.“\n„Wenn jemand laut mit mir spricht, bekomme ich Angst. Bitte sprechen Sie ruhig mit mir.“\n\nWenn es schwerfällt, es gut zu sagen, können Sie es auch auf Papier schreiben und übergeben. Sie können auch den Bildschirm „Meine Schwierigkeiten“ mit dem Knopf „Groß anzeigen“ zeigen; er erscheint in dieser App, wenn Sie eine Schwierigkeit wählen und die Fragen beantworten.\nWenn Sie den Namen einer Erkrankung nennen möchten, dürfen Sie das. Auch dann hilft es der anderen Person zu handeln, wenn Sie zugleich sagen, womit Sie Schwierigkeiten haben und was Sie sich wünschen.\nManchmal kann die andere Person nicht tun, worum Sie bitten, wegen ihrer eigenen Lage. Dann können Sie gemeinsam überlegen, ob es einen anderen Weg gibt.\n\nBei der Arbeit können Sie mit denselben Worten bitten: „Mehrere Anweisungen auf einmal zu befolgen, fällt mir schwer. Ich bekomme sie lieber schriftlich.“\n\nBitte nutzen Sie die Liste der Namen in dieser App nicht, um an den Menschen um Sie herum zu zweifeln.",
+       "srcs": []
+      },
+      {
+       "h": "Über diese App",
+       "body": "Das ist keine Diagnose. Diese Liste sagt nicht, ob Sie eine Krankheit oder Störung haben. Diese App ist kein Medizinprodukt und ersetzt kein Gespräch mit einer Ärztin, einem Arzt oder einer anderen Fachperson.\n\nIhre Antworten werden nirgendwohin geschickt und nicht auf diesem Gerät gespeichert. Sie verschwinden, wenn Sie die App schließen.\n\nUnabhängige App. SOYOGI ist eine ehrenamtliche Gruppe ohne Gewinnzweck in Japan. SOYOGI hat keine Verbindung zu belgischen Behörden (Föderalstaat, Regionen und Gemeinschaften) oder Gesundheitseinrichtungen, und keine dieser Stellen empfiehlt oder unterstützt die App. Die Namen der Stellen zeigen nur, woher die Information stammt.\n\nSOYOGI hat diese Texte in eigenen Worten nach öffentlichen Seiten aus Belgien geschrieben. Die Quellen stehen auf jedem Bildschirm, mit dem Datum, das die Seite zeigt, wenn sie eines zeigt. Abgerufen am 20. November 2026. Nummern und Zeiten können sich ändern. Die Zeiten sind die Angaben der jeweiligen Stelle.\n\nOb Sie sich Hilfe holen, entscheiden Sie, nicht die App.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Eine Seite der flämischen Regierung rät, sich bei psychischen Problemen zuerst an die Hausärztin oder den Hausarzt zu wenden.",
+      "src": {
+       "org": "Flämische Behörden (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Sie müssen damit nicht allein bleiben. Sie können zuerst mit Ihrer Hausärztin oder Ihrem Hausarzt sprechen.",
+       "src": {
+        "org": "Flämische Behörden (vlaanderen.be)",
+        "title": "Psychische gezondheid",
+        "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Flandern: Für die direkt zugängliche Hilfe des VAPH ist kein Antrag nötig; Sie können sich selbst an einen Anbieter wenden.",
+       "src": {
+        "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+        "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+        "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Wallonien: Laut der Website der Wallonie gibt es keine besonderen Bedingungen, um ein Regionalbüro der AViQ bei Fragen zu Behinderung, Bedarf oder Formalitäten zu kontaktieren.",
+       "src": {
+        "org": "Service public de Wallonie (wallonie.be)",
+        "title": "Accéder aux services de mon bureau régional de l’AVIQ",
+        "url": "https://www.wallonie.be/fr/demarches/acceder-aux-services-de-mon-bureau-regional-de-laviq",
+        "kind": "fact",
+        "upd": "2026-11-05"
+       }
+      },
+      {
+       "text": "Brüssel (COCOF, französischsprachig): Man muss nicht beim Service PHARE aufgenommen sein, um sich an einen Begleitdienst zu wenden; man wendet sich direkt an den Dienst seiner Wahl. Es wird ein monatlicher Kostenbeitrag verlangt.",
+       "src": {
+        "org": "Commission communautaire française (COCOF)",
+        "title": "Services d’accompagnement",
+        "url": "https://ccf.brussels/nos-services/personnes-handicapees/service-phare/accompagnement-et-aide-a-linclusion/services-daccompagnement/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Deutschsprachige Gemeinschaft: Die Dienststelle für Selbstbestimmtes Leben (DSL) informiert und berät Menschen mit Beeinträchtigung, die in der Deutschsprachigen Gemeinschaft wohnen.",
+       "src": {
+        "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+        "title": "Dienststelle für Selbstbestimmtes Leben",
+        "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8619/14012_read-75187/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Wie ein Name (eine Diagnose) vergeben wird, kurz:",
+      "text": "Eine Diagnose gehört zur ärztlichen Versorgung; dafür kann man sich zum Beispiel an eine Psychiaterin oder einen Psychiater wenden.",
+      "src": {
+       "org": "Departement Zorg (Vlaamse overheid)",
+       "title": "Centra voor geestelijke gezondheidszorg",
+       "url": "https://www.departementzorg.be/nl/centra-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Auf öffentlichen Gesundheitsseiten ließen sich nur wenige Namen bestätigen.",
+     "noNames": "Für diese Gruppe ließen sich auf öffentlichen Gesundheitsseiten keine Namen bestätigen. Deshalb steht hier keine Liste mit Namen. Wo Sie Hilfe finden, steht trotzdem in dieser App."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when you feel down for a long time and it is hard to find the energy for anything.",
+      "scenes": [
+       "From morning to night I feel down.",
+       "Things I used to enjoy no longer give me pleasure.",
+       "I have no energy and cannot concentrate, so my work and the housework get left undone.",
+       "I blame myself for everything and keep seeing the negative side of things.",
+       "I sleep badly, or far too much. I have little appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when things are explained to me one at a time.",
+       "It helps me when I am not rushed to answer or decide, and when I get time to think.",
+       "I would rather get important things in writing.",
+       "Before anyone says “Chin up!” or “Get over it”, it helps me when someone listens to me first.",
+       "It helps me when my resting is not immediately seen as laziness.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking plays a role."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This document describes depression as a sad mood with loss of interest and pleasure in everyday life, and says that it affects social life.",
+        "src": {
+         "org": "KCE",
+         "title": "Majeure depressie (bij volwassenen): doeltreffendheid op de lange termijn van psychotherapie, op zichzelf of in combinatie met antidepressiva",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/KCE_230As_Depressie_synthese.pdf",
+         "kind": "fact",
+         "upd": "2014"
+        }
+       },
+       {
+        "name": "Burnout",
+        "why": "This page says that burnout can be linked to long exposure to stress and can lead to dropping out of work and to depression.",
+        "src": {
+         "org": "FOD Werkgelegenheid, Arbeid en Sociaal Overleg",
+         "title": "Definities en toepassingsgebied",
+         "url": "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/psychosociale-risicos-op-het-werk/definities-en-toepassingsgebied",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Many worries or tension",
+      "lead": "Worries that will not go away, a pounding heart and restlessness, trouble around other people or when going out, and things like that.",
+      "scenes": [
+       "When I have to speak in front of others or when everyone is looking at me, I get so anxious that my mind goes completely blank.",
+       "Suddenly my heart starts beating very fast and I get short of breath. I am afraid it will happen again, and so it is hard for me to leave the house.",
+       "Even without a clear reason, I worry about all kinds of things. I am restless and it wears me out.",
+       "I find it hard in places where it is difficult to get away, such as on a train, bus or tram, in busy shops or buildings, or when I go out alone. So I try to avoid those places.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "My worries keep going around in my head and in the evening I find it hard to fall asleep."
+      ],
+      "asks": [
+       "It helps me when I get time to talk, without being rushed.",
+       "I would like to hear beforehand what the plan is and how everything will go.",
+       "It helps me when I do not suddenly have to give my opinion in front of other people, and when I can also answer in writing.",
+       "When I do not feel well, it helps me to be allowed to step away for a moment to recover.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "Before anyone says that I worry too much, it helps me when someone first listens to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "For when you check the door or the gas again and again, wash your hands or repeat something else, and find it hard to stop even though you want to.",
+      "scenes": [
+       "Before I leave the house, I have to check again and again that the door is locked and the stove is off; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and cannot stop, even though I want to.",
+       "The same worry keeps coming into my head. I no longer want to think about it, but I cannot manage to stop.",
+       "When things are not exactly where they should be, or things do not happen in the order I have set, I become uneasy. Then I put things right again or start over.",
+       "Checking takes so much time that I leave later, or I am late for appointments and for work.",
+       "My body moves or I make sounds without wanting to, and it is hard to stop, even when I try."
+      ],
+      "asks": [
+       "I would like to be heard first, without being told right away that I am overthinking it.",
+       "Checking takes me time, so it helps if some extra time is planned.",
+       "When plans or steps change, I would like to hear about it beforehand.",
+       "It helps me when no one comments on it or makes jokes about it in front of others when I check something or wash my hands.",
+       "I would rather get explanations and instructions one at a time and in writing.",
+       "Before we decide how to go on, I would like my worries to be heard first and for us to talk it through calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page describes autism by restricted, repetitive behaviours, interests or activities, along with lasting difficulties in social communication and interaction.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "A painful event is still affecting me",
+      "lead": "Memories that keep coming back, trouble sleeping, or tension that does not go away after a painful event.",
+      "scenes": [
+       "Something small is enough to suddenly bring back the images and feelings of that painful time.",
+       "I keep having the same kind of frightening dreams, and on many nights I do not sleep deeply.",
+       "I am always on edge, and I jump at the smallest noise or an unexpected event.",
+       "I would rather avoid places, people and topics that remind me of that time, and as a result my life has become smaller.",
+       "It is as if something inside me has switched off. I no longer feel what I used to feel for my family and friends.",
+       "I blame myself more and more often, or it is getting harder to trust the people around me."
+      ],
+      "asks": [
+       "It helps me when I am not pressed for every detail of what happened. I will tell it at my own pace, and only as much as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I would rather avoid them.",
+       "It helps me when I am not suddenly spoken to from behind, and when no loud noises are made close to me.",
+       "When talking is too hard, I would rather hand you something I have written down. It helps me when that is allowed.",
+       "There are days when I sleep badly or the tiredness stays. It helps me when that is not seen as laziness.",
+       "It helps me when I am not hurried along with remarks like “Try to forget it” or “Let it go”, and when there is a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "be1712",
+       "beevc",
+       "beprisma",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I am in bed, it takes me a long time to fall asleep.",
+       "I keep waking up in the night and do not sleep through until morning.",
+       "When it is time to get up, I cannot manage it, and I keep being late for work, school or training.",
+       "During the day I am overcome by strong sleepiness, and I almost fall asleep in a meeting or at the wheel.",
+       "My family says that I snore loudly and that I seem to stop breathing in my sleep.",
+       "In the evening and at night my legs feel restless and unpleasant, so I cannot fall asleep."
+      ],
+      "asks": [
+       "It helps me when people take their time to ask how I sleep: whether I find it hard to fall asleep, wake up in the night, find it hard to get out of bed or feel sleepy during the day.",
+       "It helps me when people look together with me at what plays a part, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "It helps me when people do not immediately say that it is “all in my head”, and when my physical health and my mood are looked at as well.",
+       "I would like to show you on a note what time I go to bed and what time I wake up. It helps me when someone looks at it.",
+       "If medicines are suggested, it helps me when someone explains in plain language how they work and what I need to watch out for.",
+       "Mornings are hard for me. It helps me when an appointment can be in the afternoon or at the end of the day."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sleep disorder",
+        "why": "This page describes sleep disorders as trouble falling asleep or waking up at night, and names several triggers, such as a thyroid problem, the menopause, stressful life situations, alcohol or certain medicines.",
+        "src": {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "be1733",
+       "beepz"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and I can hardly manage to swallow anything.",
+       "Once I start eating, I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "I notice that I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat only a few things, and I avoid many foods because of their taste, smell or texture.",
+       "Since I once choked on food or had to vomit, I have been afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I remember nothing about it."
+      ],
+      "asks": [
+       "It helps me when no comments are made about my body or my appearance.",
+       "It helps me when I am not forced to eat and not hurried.",
+       "When people eat together, it helps me when I am allowed to choose another place or another time.",
+       "I appreciate it when I am first asked what I can eat and which smells or textures are hard for me.",
+       "It helps me when it is explained beforehand what will happen during a physical examination or at the appointment.",
+       "What I find hard to say out loud, I would rather hand over on paper. It helps me when that is allowed."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but a little later I notice that I just carry on again.",
+       "I can't stick to what I had agreed with myself about the time, the amount or the money for today.",
+       "I hide from the people around me that I drink, gamble or game, or I look for excuses to cover it up.",
+       "I keep gaming at night, I find it hard to get out of bed in the morning, and more and more often I am late for or absent from work, school or training.",
+       "When I lose money on sports betting, online casinos or slot machines, I want to win it back and I start gambling again.",
+       "Even though I notice that it is taking a toll on my body, I can't manage to drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me and without jumping to conclusions straight away.",
+       "It helps me when we go through together, step by step, how I deal with it now and what problems it causes.",
+       "I would like my sleep and my physical health to be talked about as well.",
+       "It helps me when I hear in concrete terms where I can go for help and which places I can visit.",
+       "I would like to know whether someone close to me may come along to the appointment.",
+       "I would rather hear beforehand who will be told what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Addiction (alcohol, medication, drugs)",
+        "why": "This page is about difficulties with alcohol, medication or drugs, and about getting help to stop an addiction.",
+        "src": {
+         "org": "Vlaamse overheid (vlaanderen.be)",
+         "title": "Een verslaving aanpakken",
+         "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/preventie/verslaving/een-verslaving-aanpakken",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Problematic alcohol use",
+        "why": "This document explains that problematic alcohol use is a broader idea than alcohol dependence, and that it does not always lead to dependence.",
+        "src": {
+         "org": "KCE",
+         "title": "Hoe de drempel naar hulp bij problematisch alcoholgebruik verlagen? (Synthese)",
+         "url": "https://kce.fgov.be/sites/default/files/2021-11/kCE_258A_problematisch_alcoholgebruik_Synthese.pdf",
+         "kind": "fact",
+         "upd": "2015"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "begok",
+       "bedrug",
+       "beinfdr",
+       "beasl",
+       "becgg",
+       "bessm",
+       "bebtz"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or planning",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my thoughts drift off to something else without my noticing.",
+       "I can't get work or household tasks done step by step, so I miss deadlines.",
+       "Afterwards I often can't remember what I was asked or what I promised, or I lose things.",
+       "When I work on the same task for a long time, I make more and more careless mistakes.",
+       "I find it hard to sit still and I feel restless inside.",
+       "People around me say that I often forget things or turn up late."
+      ],
+      "asks": [
+       "It helps me when instructions are given one at a time.",
+       "I would rather get important things on paper.",
+       "It helps me when I am told about deadlines and appointments well in advance.",
+       "It helps me when I am not asked for many things at once, but in small pieces, a little at a time.",
+       "I would rather talk in a quiet place where I am less easily distracted.",
+       "It helps me when people see what I do manage, and don't blame me for what I don't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Burnout",
+        "why": "This page mentions, for burnout, among other things extreme tiredness, less motivation and a reduced ability to carry out everyday tasks.",
+        "src": {
+         "org": "Vlaamse overheid (vlaanderen.be)",
+         "title": "Ik heb (te veel) stress of misschien een burn-out. Wat kan ik doen?",
+         "url": "https://www.vlaanderen.be/intern/welzijn-en-gezondheid/je-goed-voelen-op-het-werk/ik-heb-te-veel-stress-of-misschien-een-burn-out-wat-kan-ik-doen",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD",
+        "why": "This advice describes ADHD as an ongoing pattern of attention problems and/or restlessness and impulsiveness that causes problems at school, at work or in social life and relationships. It says it can also start later in life.",
+        "src": {
+         "org": "FOD Volksgezondheid",
+         "title": "Medicamenteuze en niet-medicamenteuze aanpak van ADHD",
+         "url": "https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealth_theme_file/20210308_hgr-9547_adhd_vweb_0.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with social contact, set routines or sensory issues",
+      "lead": "Trouble talking or dealing with other people, a strong need to do things in a set way, or sounds, light and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to sense what is going on inside the other person or what the mood is, and it often seems as if we are talking past each other.",
+       "When I have to speak in front of a group or when all eyes are on me, I get very tense and I avoid such situations.",
+       "I can talk with people I know well, but with others I can't get a word out.",
+       "When my usual way of doing things, the order of things or the place where I keep my things changes, I get very uneasy.",
+       "Sounds, light and smells hit me very strongly, and because of that busy places are hard for me.",
+       "I have trouble hearing people or I feel low, and because of that it takes me a lot of effort to meet people or talk with them."
+      ],
+      "asks": [
+       "It helps me when people talk to me calmly and clearly.",
+       "It helps me when important things are also written down.",
+       "I would rather talk in a quiet place.",
+       "It helps me to hear in advance when plans or ways of working change.",
+       "It helps me when I am not rushed and get time to answer calmly.",
+       "I would like to be able to answer in writing, for example with a short note, instead of talking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page describes autism by lasting difficulties in social communication and interaction in different settings, along with restricted, repetitive behaviours or interests.",
+        "src": {
+         "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+         "title": "Autismespectrumstoornis (ASS)",
+         "url": "https://www.vaph.be/professionelen/mdt/mdv/modules/autismespectrumstoornis-ass",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read a text, little of it stays with me, and it is hard to understand what letters or forms say.",
+       "I make a lot of spelling mistakes or forget letters or words.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple sums and on math problems that are written out in words.",
+       "I can talk and listen without trouble, but with reading, writing or calculating I do not get as far as I would like, even though I take a lot of time over it."
+      ],
+      "asks": [
+       "It helps me when texts are given in large print with wide line spacing, or in plain language.",
+       "I would rather have important things read aloud to me or told to me out loud.",
+       "It helps me when I may use the keyboard of a computer or phone, or photos and audio recordings, instead of writing by hand.",
+       "It helps me when I may use a calculator.",
+       "It helps me when I get extra time for reading, writing and calculating.",
+       "It helps me when I get things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "beunia",
+       "bedis"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own feelings.",
+      "scenes": [
+       "Periods when I have too much energy alternate with periods when I am so low that I cannot get moving.",
+       "There are periods when I hardly sleep and yet I am full of energy and keep on going.",
+       "One idea after another comes to me and everything stays half finished.",
+       "In periods when I felt very high-spirited, I spent so much money that it got me into trouble later.",
+       "Small things irritate me quickly, and it is hard to keep my feelings in check.",
+       "What I did in periods when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when people also ask about the periods when I had a great deal of energy.",
+       "It helps me when people take the time to look back with me on the ups and downs in my mood.",
+       "Before big decisions about money or work, it helps me when someone encourages me to stop for a moment and think.",
+       "I would like physical causes to be looked at as well, such as sleep, medicines and alcohol.",
+       "If something about me seems different from usual, I would like to hear about it without being blamed.",
+       "It helps me when people listen to me until I have finished, whether I have a lot of energy or I am low."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "behuisarts",
+       "beepz",
+       "becgg",
+       "bessm",
+       "bebtz",
+       "becaw",
+       "beocmw"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make ordinary ups and downs look like symptoms",
+       "body": "When you learn the name of an illness or a condition, a bit of tiredness or absent-mindedness can suddenly start to look like a symptom.\n\nFeelings can change how your body and your mood feel. That is not imagination; it really happens. But sleeping badly, stress, spending a lot of time on your phone, or what is going on around you can do something similar.\n\nIf, when you see a name, you think: “Maybe this is it,” do not stop there. Think about other reasons too. And if something keeps being hard, you can talk about it as it is, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Anyone can go through a hard time",
+       "body": "Anyone can experience psychological vulnerability at some point in life, writes RIZIV-INAMI. Almost everyone knows what it is like to have trouble falling asleep or to wake up at night.\n\nWhether a name fits is something a doctor looks at with you.",
+       "srcs": [
+        {
+         "org": "RIZIV-INAMI",
+         "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+         "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+         "title": "Fakten",
+         "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8420/13599_read-74445/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about it even without the name of an illness",
+       "body": "Even without the name of an illness, you can talk about your difficulties. According to RIZIV-INAMI, you do not need a prescription for first-line support in a mental health network.\n\nIf you ask for a reasonable accommodation at work, according to Unia you do not have to reveal your medical file or diagnosis. Recognition by a public body is not needed for this; a doctor’s certificate can help.\n\nWhat you would like to ask for, and what can be done, depends on each situation and is decided by talking it through.",
+       "srcs": [
+        {
+         "org": "RIZIV-INAMI",
+         "title": "Eerstelijns psychologische zorg in een netwerk voor geestelijke gezondheid",
+         "url": "https://www.inami.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Unia",
+         "title": "Werken met een handicap: Redelijke aanpassingen op het werk",
+         "url": "https://www.unia.be/files/Definitieve-brochure-werk-handicap-NL-2023-1.pdf",
+         "kind": "fact",
+         "upd": "2023"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for a document from a doctor",
+       "body": "Some procedures ask for a document from a doctor. If you cannot work because of an illness, your doctor fills in a certificate of incapacity for work, with a start date and an end date.\n\nFor the recognition of a disability, the federal Social Security service (FOD Sociale Zekerheid / SPF Sécurité sociale) relies on the reports of your own doctor, for example your GP. For financial support for adjustments at work, the agency that grants the support usually asks for a recognition.\n\nAt school, the Fédération Wallonie-Bruxelles asks for a document showing the disability.\n\nBefore starting a procedure, ask the office in charge which documents are needed.",
+       "srcs": [
+        {
+         "org": "RIZIV-INAMI",
+         "title": "Arbeidsongeschiktheid: vaststelling, uitkering, toegelaten activiteiten",
+         "url": "https://www.riziv.fgov.be/nl/faq/burgers/arbeidsongeschiktheid-vaststelling-uitkering-toegelaten-activiteiten",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "FOD Sociale Zekerheid / SPF Sécurité sociale",
+         "title": "Erkenningsprocedure",
+         "url": "https://handicap.belgium.be/nl/erkenning-van-je-handicap/erkenningsprocedure",
+         "kind": "fact",
+         "upd": "2026-10-27"
+        },
+        {
+         "org": "Unia",
+         "title": "Werken met een handicap: Redelijke aanpassingen op het werk",
+         "url": "https://www.unia.be/files/Definitieve-brochure-werk-handicap-NL-2023-1.pdf",
+         "kind": "fact",
+         "upd": "2023"
+        },
+        {
+         "org": "Unia",
+         "title": "Apprendre et étudier avec un handicap : Les aménagements raisonnables dans l’enseignement",
+         "url": "https://www.unia.be/files/Brochure-Etudier-avec-un-handicap-2026.pdf",
+         "kind": "fact",
+         "upd": "2026"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above someone else",
+       "body": "The name of an illness is not a tool for putting yourself above someone else or for looking down on other people.\nFor some people, it is a relief to find a name for what they are going through. That matters.\nIt is also understandable that you want the people around you to understand you and to be kind to you.\n\nIf you want people to be kind to you, you can simply ask, without mentioning the name of an illness.\nIt is clearer for the other person if you say two things together: what you find hard and what you would like.\n\nFor example:\n“I have little energy today. It helps me when people speak slowly.”\n“When I hear a lot at once, I lose track. It helps me when things are explained one at a time.”\n“I find it hard to remember things I am only told out loud. I would rather have important things on paper or by email.”\n“Busy places are hard for me. I would rather talk somewhere quiet.”\n“I need a little time to answer. It helps me when people wait for me a moment.”\n“I am full of feelings right now. It helps me when people listen to me first. Advice can come later.”\n“I do not feel well today. It helps me when I can rest for a moment.”\n“Sudden changes to the plan throw me off. It helps me when I hear about them in time.”\n“When people speak loudly to me, I get scared. It helps me when people speak calmly to me.”\n\nIf it is hard to say, you can also write it down and hand it over. You can also show the “My worries” screen with the “Show it large” button. That screen appears in this app when you choose what you are dealing with and answer the questions.\nIf you want to mention the name of a diagnosis, you can. Even then, it helps the other person if you say at the same time what you find hard and what you would like.\nSometimes the other person cannot do what you ask because of their own situation. Then you can look for another way together.\n\nAt work, you can ask in the same words: “Following several instructions at once takes effort for me. I would rather have them on paper.”\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Belgian authorities (federal, regional or community level) or to any health institution, and none of them recommends or supports this app. The names of the institutions only show where the information comes from.\n\nSOYOGI wrote this content in its own words, based on public pages in Belgium. Sources are shown on each screen, with the date the page shows, when it shows one. Checked on 20 November 2026. Numbers and hours may change. The hours are those given by each service.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "A Flemish government page advises contacting your GP first if you have a psychological problem.",
+      "src": {
+       "org": "Vlaamse overheid (vlaanderen.be)",
+       "title": "Psychische gezondheid",
+       "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "You do not have to carry this alone. You can talk to your GP first.",
+       "src": {
+        "org": "Vlaamse overheid (vlaanderen.be)",
+        "title": "Psychische gezondheid",
+        "url": "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/psychische-gezondheid",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Flanders: for directly accessible help from the VAPH, you do not need to submit an application; you can contact a care provider yourself.",
+       "src": {
+        "org": "Vlaams Agentschap voor Personen met een Handicap (VAPH)",
+        "title": "Af en toe hulp nodig? Rechtstreeks naar een zorgaanbieder",
+        "url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "Wallonia: according to the Walloon government’s website, there are no particular conditions for contacting a regional office of the AViQ with a question about disability, your needs or your procedures.",
+       "src": {
+        "org": "Service public de Wallonie (wallonie.be)",
+        "title": "Accéder aux services de mon bureau régional de l’AVIQ",
+        "url": "https://www.wallonie.be/fr/demarches/acceder-aux-services-de-mon-bureau-regional-de-laviq",
+        "kind": "fact",
+        "upd": "2026-11-05"
+       }
+      },
+      {
+       "text": "Brussels (COCOF, French-speaking): you do not need to be admitted by the Service PHARE to go to a support service; you contact the service of your choice directly. A monthly financial contribution is asked for.",
+       "src": {
+        "org": "Commission communautaire française (COCOF)",
+        "title": "Services d’accompagnement",
+        "url": "https://ccf.brussels/nos-services/personnes-handicapees/service-phare/accompagnement-et-aide-a-linclusion/services-daccompagnement/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "German-speaking Community: the Dienststelle für Selbstbestimmtes Leben (DSL) informs and advises people with a disability who live in the German-speaking Community.",
+       "src": {
+        "org": "Ministerium der Deutschsprachigen Gemeinschaft (ostbelgienlive.be)",
+        "title": "Dienststelle für Selbstbestimmtes Leben",
+        "url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-8619/14012_read-75187/",
+        "kind": "fact",
+        "upd": "none"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A diagnosis is part of medical care; for this you can go, for example, to a psychiatrist.",
+      "src": {
+       "org": "Departement Zorg (Vlaamse overheid)",
+       "title": "Centra voor geestelijke gezondheidszorg",
+       "url": "https://www.departementzorg.be/nl/centra-voor-geestelijke-gezondheidszorg",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "ch": {
+   "id": "ch",
+   "name": {
+    "ja": "スイス",
+    "en": "Switzerland",
+    "fr": "Suisse",
+    "de": "Schweiz",
+    "dech": "Schweiz",
+    "es": "Suiza",
+    "esmx": "Suiza",
+    "escl": "Suiza",
+    "esar": "Suiza",
+    "nl": "Zwitserland",
+    "ko": "스위스",
+    "zh": "瑞士",
+    "zhhk": "瑞士",
+    "it": "Svizzera",
+    "sv": "Schweiz",
+    "pt": "Suíça",
+    "ptpt": "Suíça",
+    "ar": "سويسرا",
+    "hi": "स्विट्ज़रलैंड"
+   },
+   "langs": [
+    "dech",
+    "fr",
+    "it",
+    "en"
+   ],
+   "main": "dech",
+   "fallback": "dech",
+   "srcLang": "dech",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "mains": [
+    "dech",
+    "fr",
+    "it"
+   ],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-20",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "ch144",
+     "band": "now",
+     "tel": "144",
+     "tel2": "",
+     "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+     "linkOk": false,
+     "dech": {
+      "name": "144 (Sanität)",
+      "desc": "Sanitätsnotruf. Der Anruf ist gratis.",
+      "hours": "Für Notfälle.",
+      "src": {
+       "org": "Bundesamt für Kommunikation (BAKOM)",
+       "title": "Weitere Nummern: kostenpflichtig oder gratis?",
+       "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "fr": {
+      "name": "144 (ambulance)",
+      "desc": "Appel d’urgence sanitaire. L’appel est gratuit.",
+      "hours": "Pour les urgences.",
+      "src": {
+       "org": "Office fédéral de la communication (OFCOM)",
+       "title": "Autres numéros: payants ou gratuits?",
+       "url": "https://www.bakom.admin.ch/fr/autres-numeros-payants-ou-gratuits",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "it": {
+      "name": "144 (ambulanza)",
+      "desc": "Chiamata d’emergenza sanitaria. La chiamata è gratuita.",
+      "hours": "Per le emergenze.",
+      "src": {
+       "org": "Ufficio federale delle comunicazioni (UFCOM)",
+       "title": "Altri numeri: a pagamento o gratuiti?",
+       "url": "https://www.bakom.admin.ch/it/altri-numeri-a-pagamento-o-gratuiti",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "en": {
+      "name": "144 (ambulance)",
+      "desc": "Medical emergency call. The call is free of charge.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Bundesamt für Kommunikation (BAKOM)",
+       "title": "Weitere Nummern: kostenpflichtig oder gratis?",
+       "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Kommunikation (BAKOM)",
+      "title": "Weitere Nummern: kostenpflichtig oder gratis?",
+      "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+      "kind": "fact",
+      "upd": "2024-05-22"
+     }
+    },
+    {
+     "id": "ch112",
+     "band": "now",
+     "tel": "112",
+     "tel2": "117",
+     "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+     "linkOk": false,
+     "dech": {
+      "name": "112 · 117 (Notruf)",
+      "desc": "112 ist die europäische Notrufnummer, 117 der Polizeinotruf. Die Anrufe sind gratis.",
+      "hours": "Für Notfälle.",
+      "src": {
+       "org": "Bundesamt für Kommunikation (BAKOM)",
+       "title": "Weitere Nummern: kostenpflichtig oder gratis?",
+       "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "fr": {
+      "name": "112 · 117 (urgences)",
+      "desc": "Le 112 est le numéro d’urgence européen, le 117 l’appel d’urgence de la police. Les appels sont gratuits.",
+      "hours": "Pour les urgences.",
+      "src": {
+       "org": "Office fédéral de la communication (OFCOM)",
+       "title": "Autres numéros: payants ou gratuits?",
+       "url": "https://www.bakom.admin.ch/fr/autres-numeros-payants-ou-gratuits",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "it": {
+      "name": "112 · 117 (emergenza)",
+      "desc": "Il 112 è il numero d’emergenza europeo, il 117 la chiamata d’emergenza della polizia. Le chiamate sono gratuite.",
+      "hours": "Per le emergenze.",
+      "src": {
+       "org": "Ufficio federale delle comunicazioni (UFCOM)",
+       "title": "Altri numeri: a pagamento o gratuiti?",
+       "url": "https://www.bakom.admin.ch/it/altri-numeri-a-pagamento-o-gratuiti",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "en": {
+      "name": "112 · 117 (emergency)",
+      "desc": "112 is the European emergency number, 117 the police emergency call. The calls are free of charge.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Bundesamt für Kommunikation (BAKOM)",
+       "title": "Weitere Nummern: kostenpflichtig oder gratis?",
+       "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+       "kind": "fact",
+       "upd": "2024-05-22"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Kommunikation (BAKOM)",
+      "title": "Weitere Nummern: kostenpflichtig oder gratis?",
+      "url": "https://www.bakom.admin.ch/de/weitere-nummern-kostenpflichtig-oder-gratis",
+      "kind": "fact",
+      "upd": "2024-05-22"
+     }
+    },
+    {
+     "id": "ch143",
+     "band": "now",
+     "tel": "143",
+     "tel2": "",
+     "url": "https://www.bag.admin.ch/de/hilfsangebote-zur-psychischen-gesundheit",
+     "linkOk": false,
+     "dech": {
+      "name": "Die Dargebotene Hand",
+      "desc": "Für psychische Notsituationen: Telefon rund um die Uhr, dazu Mail und Chat über 143.ch.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Hilfsangebote zur psychischen Gesundheit",
+       "url": "https://www.bag.admin.ch/de/hilfsangebote-zur-psychischen-gesundheit",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "La Main Tendue",
+      "desc": "Pour une situation de détresse psychique : téléphone 24 heures sur 24, courriel et chat sur 143.ch.",
+      "hours": "24 heures sur 24.",
+      "src": {
+       "org": "Office fédéral de la santé publique (OFSP)",
+       "title": "Offres d’aide pour la santé mentale",
+       "url": "https://www.bag.admin.ch/fr/offres-daide-sante-mentale",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "it": {
+      "name": "Telefono amico",
+      "desc": "Per una situazione di emergenza psicologica: telefono 24 ore su 24, e-mail e chat su 143.ch.",
+      "hours": "24 ore su 24.",
+      "src": {
+       "org": "Ufficio federale della sanità pubblica (UFSP)",
+       "title": "Offerte di sostegno per la salute mentale",
+       "url": "https://www.bag.admin.ch/it/offerte-sostegno-salute-mentale",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Die Dargebotene Hand (La Main Tendue, Telefono amico)",
+      "desc": "For a psychological emergency: telephone around the clock, plus email and chat at 143.ch.",
+      "hours": "Around the clock.",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Hilfsangebote zur psychischen Gesundheit",
+       "url": "https://www.bag.admin.ch/de/hilfsangebote-zur-psychischen-gesundheit",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Gesundheit (BAG)",
+      "title": "Hilfsangebote zur psychischen Gesundheit",
+      "url": "https://www.bag.admin.ch/de/hilfsangebote-zur-psychischen-gesundheit",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "ch142",
+     "band": "now",
+     "tel": "142",
+     "tel2": "",
+     "url": "https://www.bj.admin.ch/de/opferhilfe",
+     "linkOk": false,
+     "dech": {
+      "name": "Opferhilfe (142)",
+      "desc": "Kostenlose und vertrauliche Beratung für Menschen, die körperliche, psychische oder sexuelle Gewalt erlebt haben, und für ihre Angehörigen, rund um die Uhr.",
+      "hours": "Rund um die Uhr.",
+      "src": {
+       "org": "Bundesamt für Justiz (BJ)",
+       "title": "Opferhilfe",
+       "url": "https://www.bj.admin.ch/de/opferhilfe",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "fr": {
+      "name": "Aide aux victimes (142)",
+      "desc": "Conseil gratuit et confidentiel pour les personnes qui ont subi des violences physiques, psychiques ou sexuelles, 24 heures sur 24.",
+      "hours": "24 heures sur 24.",
+      "src": {
+       "org": "Office fédéral de la justice (OFJ)",
+       "title": "Aide aux victimes d'infractions",
+       "url": "https://www.bj.admin.ch/fr/aide-aux-victimes-d-infractions",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "it": {
+      "name": "Aiuto alle vittime (142)",
+      "desc": "Consulenza gratuita e confidenziale, 24 ore su 24, per chi ha subito violenza fisica, psichica o sessuale e per i suoi familiari.",
+      "hours": "24 ore su 24.",
+      "src": {
+       "org": "Ufficio federale di giustizia (UFG)",
+       "title": "Aiuto alle vittime",
+       "url": "https://www.bj.admin.ch/it/aiuto-alle-vittime",
+       "kind": "fact",
+       "upd": "2026-02-04"
+      }
+     },
+     "en": {
+      "name": "Victim support (Opferhilfe, 142)",
+      "desc": "Free and confidential advice for people who have experienced physical, psychological or sexual violence, and for their relatives, around the clock.",
+      "hours": "Around the clock.",
+      "src": {
+       "org": "Bundesamt für Justiz (BJ)",
+       "title": "Opferhilfe",
+       "url": "https://www.bj.admin.ch/de/opferhilfe",
+       "kind": "fact",
+       "upd": "2026-02-05"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Justiz (BJ)",
+      "title": "Opferhilfe",
+      "url": "https://www.bj.admin.ch/de/opferhilfe",
+      "kind": "fact",
+      "upd": "2026-02-05"
+     }
+    },
+    {
+     "id": "chhausarzt",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.bag.admin.ch/dam/de/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+     "linkOk": false,
+     "dech": {
+      "name": "Hausärztin oder Hausarzt",
+      "desc": "Wenn Sie eine Psychotherapie suchen, ist der Gang zur Hausärztin oder zum Hausarzt der einfachste Weg. Bei einem psychologischen Notfall können Sie sich sofort an ein Kriseninterventionszentrum in Ihrer Region wenden.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Psychische Belastungen? Nützliche Tipps und Infos zur Psychotherapie",
+       "url": "https://www.bag.admin.ch/dam/de/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+       "kind": "fact",
+       "upd": "2023-03"
+      }
+     },
+     "fr": {
+      "name": "Médecin de famille",
+      "desc": "Pour trouver des séances chez une ou un psychologue, le plus simple est de consulter votre médecin de famille. En cas d’urgence psychique, adressez-vous sans attendre à un centre d’intervention de crise de votre région.",
+      "hours": "",
+      "src": {
+       "org": "Office fédéral de la santé publique (OFSP)",
+       "title": "Souffrance psychique ? Conseils et informations utiles relatives à la psychothérapie",
+       "url": "https://www.bag.admin.ch/dam/fr/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+       "kind": "fact",
+       "upd": "2023-03"
+      }
+     },
+     "it": {
+      "name": "Medico di famiglia",
+      "desc": "Per trovare delle sedute da una psicologa o uno psicologo, la via più semplice è rivolgerti al tuo medico di famiglia. In caso di emergenza psichica, rivolgiti subito a un centro di intervento in caso di crisi della tua zona.",
+      "hours": "",
+      "src": {
+       "org": "Ufficio federale della sanità pubblica (UFSP)",
+       "title": "Souffrance psychique ? Conseils et informations utiles relatives à la psychothérapie",
+       "url": "https://www.bag.admin.ch/dam/fr/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+       "kind": "fact",
+       "upd": "2023-03"
+      }
+     },
+     "en": {
+      "name": "Family doctor",
+      "desc": "If you are looking for sessions with a psychologist, the simplest way is to see your family doctor. In a psychological emergency, you can contact a crisis intervention centre in your region straight away.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Psychische Belastungen? Nützliche Tipps und Infos zur Psychotherapie",
+       "url": "https://www.bag.admin.ch/dam/de/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+       "kind": "fact",
+       "upd": "2023-03"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Gesundheit (BAG)",
+      "title": "Psychische Belastungen? Nützliche Tipps und Infos zur Psychotherapie",
+      "url": "https://www.bag.admin.ch/dam/de/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+      "kind": "fact",
+      "upd": "2023-03"
+     }
+    },
+    {
+     "id": "chpsychother",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.bag.admin.ch/de/neuregelung-der-psychologischen-psychotherapie-ab-1-juli-2022",
+     "linkOk": false,
+     "dech": {
+      "name": "Psychotherapie (Grundversicherung)",
+      "desc": "Die Grundversicherung kann die Psychotherapie bei psychologischen Psychotherapeutinnen und Psychotherapeuten bezahlen. Voraussetzung ist eine ärztliche Anordnung.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Neuregelung der psychologischen Psychotherapie ab 1. Juli 2022",
+       "url": "https://www.bag.admin.ch/de/neuregelung-der-psychologischen-psychotherapie-ab-1-juli-2022",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Séances chez une ou un psychologue (assurance de base)",
+      "desc": "Les séances chez une ou un psychologue qui exerce à la charge de l’assurance de base peuvent être remboursées sur prescription médicale.",
+      "hours": "",
+      "src": {
+       "org": "Office fédéral de la santé publique (OFSP)",
+       "title": "Nouvelle réglementation de la psychothérapie pratiquée par des psychologues à partir du 1er juillet 2022",
+       "url": "https://www.bag.admin.ch/fr/nouvelle-reglementation-de-la-psychotherapie-pratiquee-par-des-psychologues-a-partir-du-1er-juillet-2022",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "it": {
+      "name": "Sedute da una psicologa o uno psicologo (assicurazione di base)",
+      "desc": "Le sedute da una psicologa o uno psicologo che lavora a carico dell’assicurazione di base possono essere pagate su prescrizione medica.",
+      "hours": "",
+      "src": {
+       "org": "Ufficio federale della sanità pubblica (UFSP)",
+       "title": "Il nuovo disciplinamento sugli psicologi psicoterapeuti a partire dal 1° luglio 2022",
+       "url": "https://www.bag.admin.ch/it/il-nuovo-disciplinamento-sugli-psicologi-psicoterapeuti-a-partire-dal-1-luglio-2022",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Sessions with a psychologist (basic health insurance)",
+      "desc": "Basic health insurance can pay for sessions with psychologists who work under it. A medical prescription is required.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Neuregelung der psychologischen Psychotherapie ab 1. Juli 2022",
+       "url": "https://www.bag.admin.ch/de/neuregelung-der-psychologischen-psychotherapie-ab-1-juli-2022",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Gesundheit (BAG)",
+      "title": "Neuregelung der psychologischen Psychotherapie ab 1. Juli 2022",
+      "url": "https://www.bag.admin.ch/de/neuregelung-der-psychologischen-psychotherapie-ab-1-juli-2022",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "chsafezone",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.bag.admin.ch/de/safezonech-online-plattform-fuer-suchtberatung",
+     "linkOk": false,
+     "dech": {
+      "name": "SafeZone.ch",
+      "desc": "Online-Beratung zu Suchtfragen, ein Projekt des Bundesamts für Gesundheit und von Infodrog. Die Beratung ist kostenlos.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "SafeZone.ch: Online-Plattform für Suchtberatung",
+       "url": "https://www.bag.admin.ch/de/safezonech-online-plattform-fuer-suchtberatung",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "SafeZone.ch",
+      "desc": "Consultation en ligne sur les addictions, développée par l’Office fédéral de la santé publique et Infodrog. Les consultations sont gratuites.",
+      "hours": "",
+      "src": {
+       "org": "Office fédéral de la santé publique (OFSP)",
+       "title": "SafeZone.ch : consultation en ligne sur les addictions",
+       "url": "https://www.bag.admin.ch/fr/safezonech-consultation-en-ligne-sur-les-addictions",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "it": {
+      "name": "SafeZone.ch",
+      "desc": "Consulenza online sulle dipendenze, sviluppata dall’Ufficio federale della sanità pubblica e da Infodrog. Le consulenze sono gratuite.",
+      "hours": "",
+      "src": {
+       "org": "Ufficio federale della sanità pubblica (UFSP)",
+       "title": "SafeZone.ch: consulenza online sulle dipendenze",
+       "url": "https://www.bag.admin.ch/it/safezonech-consulenza-online-sulle-dipendenze",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "SafeZone.ch",
+      "desc": "Online advice on addiction, developed by the Federal Office of Public Health and Infodrog. The advice is free.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "SafeZone.ch: Online-Plattform für Suchtberatung",
+       "url": "https://www.bag.admin.ch/de/safezonech-online-plattform-fuer-suchtberatung",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Gesundheit (BAG)",
+      "title": "SafeZone.ch: Online-Plattform für Suchtberatung",
+      "url": "https://www.bag.admin.ch/de/safezonech-online-plattform-fuer-suchtberatung",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "chspiel",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.esbk.admin.ch/de/sozialschutz",
+     "linkOk": false,
+     "dech": {
+      "name": "Geldspiel: Beratungsstellen",
+      "desc": "Für Menschen mit problematischem Spielverhalten gibt es nationale und kantonale Beratungsstellen. Die Eidgenössische Spielbankenkommission (ESBK) nennt Beispiele.",
+      "hours": "",
+      "src": {
+       "org": "Eidgenössische Spielbankenkommission (ESBK)",
+       "title": "Sozialschutz",
+       "url": "https://www.esbk.admin.ch/de/sozialschutz",
+       "kind": "fact",
+       "upd": "2025-03-03"
+      }
+     },
+     "fr": {
+      "name": "Jeux d’argent : services de conseil",
+      "desc": "Pour les personnes ayant un comportement de jeu problématique, il existe des services de conseil nationaux et cantonaux. La Commission fédérale des maisons de jeu (CFMJ) en donne des exemples.",
+      "hours": "",
+      "src": {
+       "org": "Commission fédérale des maisons de jeu (CFMJ)",
+       "title": "Protection sociale",
+       "url": "https://www.esbk.admin.ch/fr/protection-sociale",
+       "kind": "fact",
+       "upd": "2025-03-03"
+      }
+     },
+     "it": {
+      "name": "Gioco in denaro: centri di consulenza",
+      "desc": "Per chi ha un comportamento di gioco problematico esistono centri di consulenza nazionali e cantonali. La Commissione federale delle case da gioco (CFCG) ne indica alcuni.",
+      "hours": "",
+      "src": {
+       "org": "Commissione federale delle case da gioco (CFCG)",
+       "title": "Protezione sociale",
+       "url": "https://www.esbk.admin.ch/it/protezione-sociale",
+       "kind": "fact",
+       "upd": "2025-03-03"
+      }
+     },
+     "en": {
+      "name": "Gambling: advice centres",
+      "desc": "For people with problematic gambling behaviour there are national and cantonal advice centres. The Eidgenössische Spielbankenkommission (ESBK) lists examples.",
+      "hours": "",
+      "src": {
+       "org": "Eidgenössische Spielbankenkommission (ESBK)",
+       "title": "Sozialschutz",
+       "url": "https://www.esbk.admin.ch/de/sozialschutz",
+       "kind": "fact",
+       "upd": "2025-03-03"
+      }
+     },
+     "src": {
+      "org": "Eidgenössische Spielbankenkommission (ESBK)",
+      "title": "Sozialschutz",
+      "url": "https://www.esbk.admin.ch/de/sozialschutz",
+      "kind": "fact",
+      "upd": "2025-03-03"
+     }
+    },
+    {
+     "id": "chiv",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.bsv.admin.ch/de/frueherfassung-fruehintervention",
+     "linkOk": false,
+     "dech": {
+      "name": "IV-Stelle Ihres Kantons (Früherfassung)",
+      "desc": "Wenn Ihnen wegen gesundheitlicher Probleme eine Arbeitsunfähigkeit droht, können Sie sich schon vor einer IV-Anmeldung bei der IV-Stelle Ihres Kantons melden (Früherfassung). Die IV-Stelle teilt Ihnen danach mit, ob eine Anmeldung nötig ist.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Sozialversicherungen (BSV)",
+       "title": "Früherfassung und Frühintervention",
+       "url": "https://www.bsv.admin.ch/de/frueherfassung-fruehintervention",
+       "kind": "fact",
+       "upd": "2025-08-28"
+      }
+     },
+     "fr": {
+      "name": "Office AI de votre canton",
+      "desc": "Si une incapacité de travail vous menace pour des raisons de santé, vous pouvez vous annoncer à l’office AI de votre canton avant une demande AI. L’office AI vous communique ensuite s’il est indiqué de déposer une demande.",
+      "hours": "",
+      "src": {
+       "org": "Office fédéral des assurances sociales (OFAS)",
+       "title": "Détection et l’intervention précoces",
+       "url": "https://www.bsv.admin.ch/fr/detection-intervention-precoces",
+       "kind": "fact",
+       "upd": "2025-09-04"
+      }
+     },
+     "it": {
+      "name": "Ufficio AI del tuo Cantone",
+      "desc": "Se un problema di salute minaccia la tua capacità al lavoro, puoi annunciarti all’ufficio AI del tuo Cantone prima di una richiesta di prestazioni (rilevamento tempestivo). L’ufficio AI ti comunica poi se è opportuno presentare una richiesta.",
+      "hours": "",
+      "src": {
+       "org": "Ufficio federale delle assicurazioni sociali (UFAS)",
+       "title": "Rilevamento e intervento tempestivi",
+       "url": "https://www.bsv.admin.ch/it/rilevamento-intervento-tempestivi",
+       "kind": "fact",
+       "upd": "2025-09-01"
+      }
+     },
+     "en": {
+      "name": "Cantonal IV office (invalidity insurance)",
+      "desc": "If a health problem threatens to make you unable to work, you can contact the IV office of your canton before applying for benefits. The office then tells you whether an application is needed.",
+      "hours": "",
+      "src": {
+       "org": "Bundesamt für Sozialversicherungen (BSV)",
+       "title": "Früherfassung und Frühintervention",
+       "url": "https://www.bsv.admin.ch/de/frueherfassung-fruehintervention",
+       "kind": "fact",
+       "upd": "2025-08-28"
+      }
+     },
+     "src": {
+      "org": "Bundesamt für Sozialversicherungen (BSV)",
+      "title": "Früherfassung und Frühintervention",
+      "url": "https://www.bsv.admin.ch/de/frueherfassung-fruehintervention",
+      "kind": "fact",
+      "upd": "2025-08-28"
+     }
+    },
+    {
+     "id": "chwork",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.ch.ch/de/arbeit/probleme-am-arbeitsplatz/",
+     "linkOk": false,
+     "dech": {
+      "name": "Mobbing oder Belästigung am Arbeitsplatz",
+      "desc": "Bei Mobbing oder Belästigung am Arbeitsplatz: zuerst an die zuständige Person oder Stelle im Betrieb wenden, dann den Arbeitgeber schriftlich informieren, danach an das Arbeitsinspektorat Ihres Kantons wenden.",
+      "hours": "",
+      "src": {
+       "org": "Schweizerische Bundeskanzlei (ch.ch)",
+       "title": "Probleme am Arbeitsplatz",
+       "url": "https://www.ch.ch/de/arbeit/probleme-am-arbeitsplatz/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Harcèlement au travail",
+      "desc": "En cas de mobbing ou de harcèlement au travail : parlez d’abord à votre employeur, puis informez-le par écrit, ensuite adressez-vous à l’inspection cantonale du travail.",
+      "hours": "",
+      "src": {
+       "org": "Chancellerie fédérale (ch.ch)",
+       "title": "Problèmes au travail",
+       "url": "https://www.ch.ch/fr/travail/conflits-sur-le-lieu-de-travail/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "it": {
+      "name": "Mobbing o molestie sul lavoro",
+      "desc": "In caso di mobbing o molestie sul lavoro: rivolgiti prima alla persona o all’istanza prevista in azienda, poi informa per iscritto il datore di lavoro, infine rivolgiti all’ispettorato cantonale del lavoro.",
+      "hours": "",
+      "src": {
+       "org": "Cancelleria federale (ch.ch)",
+       "title": "Problemi sul lavoro",
+       "url": "https://www.ch.ch/it/lavoro/problemi-sul-lavoro/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Bullying or harassment at work",
+      "desc": "In case of bullying or harassment at work: first speak to the responsible person or office in your company, then inform your employer in writing, and after that contact the cantonal labour inspectorate.",
+      "hours": "",
+      "src": {
+       "org": "Schweizerische Bundeskanzlei (ch.ch)",
+       "title": "Probleme am Arbeitsplatz",
+       "url": "https://www.ch.ch/de/arbeit/probleme-am-arbeitsplatz/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Schweizerische Bundeskanzlei (ch.ch)",
+      "title": "Probleme am Arbeitsplatz",
+      "url": "https://www.ch.ch/de/arbeit/probleme-am-arbeitsplatz/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "chebgb",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.ebgb.admin.ch/de/rechtliche-und-allgemeine-beratung-sowie-hilfsmittel",
+     "linkOk": false,
+     "dech": {
+      "name": "Anlaufstellen für Menschen mit Behinderungen (EBGB)",
+      "desc": "Das Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen (EBGB) führt eine Sammlung von Anlaufstellen, zum Beispiel zu persönlicher Rechtsberatung, Hilfsmitteln und Invalidenversicherung.",
+      "hours": "",
+      "src": {
+       "org": "Eidgenössisches Büro für die Gleichstellung von Menschen mit Behinderungen (EBGB)",
+       "title": "Rechtliche und allgemeine Beratung sowie Hilfsmittel",
+       "url": "https://www.ebgb.admin.ch/de/rechtliche-und-allgemeine-beratung-sowie-hilfsmittel",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fr": {
+      "name": "Antennes pour les personnes handicapées (BFEH)",
+      "desc": "Le Bureau fédéral de l’égalité pour les personnes handicapées (BFEH) tient une liste d’antennes, par exemple pour les conseils juridiques, les moyens auxiliaires et l’assurance-invalidité.",
+      "hours": "",
+      "src": {
+       "org": "Bureau fédéral de l’égalité pour les personnes handicapées (BFEH)",
+       "title": "Aide générale, conseils juridiques et moyens auxiliaires",
+       "url": "https://www.ebgb.admin.ch/fr/aide-generale-conseils-juridiques-et-moyens-ausiliaires",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "it": {
+      "name": "Organizzazioni per le persone con disabilità (UFPD)",
+      "desc": "L’Ufficio federale per le pari opportunità delle persone con disabilità (UFPD) tiene un elenco di organizzazioni, per esempio per consulenza giuridica, mezzi ausiliari e assicurazione per l’invalidità.",
+      "hours": "",
+      "src": {
+       "org": "Ufficio federale per le pari opportunità delle persone con disabilità (UFPD)",
+       "title": "Consulenza giuridica e generale, mezzi ausiliari",
+       "url": "https://www.ebgb.admin.ch/it/consulenza-giuridica-e-generale-mezzi-ausiliari",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Contact points for people with disabilities (EBGB)",
+      "desc": "The Eidgenössisches Büro für die Gleichstellung von Menschen mit Behinderungen (EBGB) keeps a list of contact points, for example for personal legal advice, assistive devices and invalidity insurance.",
+      "hours": "",
+      "src": {
+       "org": "Eidgenössisches Büro für die Gleichstellung von Menschen mit Behinderungen (EBGB)",
+       "title": "Rechtliche und allgemeine Beratung sowie Hilfsmittel",
+       "url": "https://www.ebgb.admin.ch/de/rechtliche-und-allgemeine-beratung-sowie-hilfsmittel",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Eidgenössisches Büro für die Gleichstellung von Menschen mit Behinderungen (EBGB)",
+      "title": "Rechtliche und allgemeine Beratung sowie Hilfsmittel",
+      "url": "https://www.ebgb.admin.ch/de/rechtliche-und-allgemeine-beratung-sowie-hilfsmittel",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "dech": {
+    "groups": {
+     "mood": {
+      "label": "Gedrückte Stimmung, keine Kraft",
+      "lead": "Wenn die Stimmung gedrückt bleibt und es schwerfällt, die Kraft für irgendetwas aufzubringen.",
+      "scenes": [
+       "Meine Stimmung bleibt von morgens bis abends gedrückt.",
+       "Was mir früher Freude gemacht hat, macht mir keine Freude mehr.",
+       "Ich habe keine Kraft und kann mich nicht konzentrieren, deshalb bleiben Arbeit und Haushalt liegen.",
+       "Ich mache mir Vorwürfe und sehe alles nur noch schwarz.",
+       "Nachts kann ich nicht schlafen, oder ich schlafe viel zu viel. Mein Appetit hat nachgelassen und mein Körper fühlt sich schwer an.",
+       "Manchmal möchte ich verschwinden oder nicht mehr da sein."
+      ],
+      "asks": [
+       "Es hilft mir, wenn mir Dinge eins nach dem anderen erklärt werden.",
+       "Es hilft mir, wenn ich nicht zu Antworten oder Entscheidungen gedrängt werde und Zeit zum Nachdenken bekomme.",
+       "Wichtige Dinge bekomme ich lieber schriftlich.",
+       "Bevor mir jemand sagt «Reiss dich zusammen» oder «Kopf hoch», hilft es mir, wenn mir zuerst zugehört wird.",
+       "Es hilft mir, wenn es nicht gleich als Faulheit gesehen wird, wenn ich mich ausruhe.",
+       "Es hilft mir, wenn wir gemeinsam klären, ob eine körperliche Erkrankung oder ein Medikament, das ich gerade nehme, eine Rolle spielt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schilddrüsenunterfunktion",
+        "why": "Auf dieser Seite (auf Italienisch) steht, dass eine Unterfunktion der Schilddrüse den Stoffwechsel verlangsamt und zu Müdigkeit und Energiemangel führen kann.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Schlafstörungen (Insomnie)",
+        "why": "Auf dieser Seite steht, dass auch Sorgen, Ängste oder psychische Erkrankungen wie eine Depression den Schlaf auf Dauer stören können.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass bei einer Depression oft die Stimmung gedrückt ist und negative Gedanken, ständiges Grübeln und Probleme mit dem Schlaf dazukommen können.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Depressive Störungen",
+         "url": "https://www.usz.ch/krankheit/depressive-stoerungen/",
+         "kind": "fact",
+         "upd": "2026-02-13"
+        }
+       },
+       {
+        "name": "Bipolare Störung",
+        "why": "Auf dieser Seite steht, dass sich bei einer bipolaren Störung Zeiten der Niedergeschlagenheit und Zeiten mit stark gehobener Stimmung und viel Antrieb abwechseln.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Bipolare Störungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/bipolare-stoerungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Starke Sorgen oder Anspannung",
+      "lead": "Sorgen, die nicht aufhören, Herzklopfen und Unruhe, Schwierigkeiten vor anderen Menschen oder beim Hinausgehen und Ähnliches.",
+      "scenes": [
+       "Wenn ich vor anderen sprechen muss oder alle auf mich schauen, habe ich so grosse Angst, dass mein Kopf wie leergefegt ist.",
+       "Mein Herz fängt plötzlich an zu rasen und ich bekomme schlecht Luft. Ich habe Sorge, dass es wieder passiert, und deshalb fällt es mir schwer, das Haus zu verlassen.",
+       "Auch ohne klaren Grund mache ich mir über eine Sache nach der anderen Sorgen, bin unruhig und erschöpft.",
+       "Orte, von denen ich nur schwer wegkomme, halte ich kaum aus, zum Beispiel Zug, Bus oder Tram, volle Geschäfte oder Gebäude. Allein aus dem Haus zu gehen fällt mir ebenfalls schwer. Deshalb meide ich das.",
+       "Weil ich vermeide, was mir Angst macht, gehe ich an immer weniger Orte und treffe immer weniger Menschen. Mein Leben ist enger geworden.",
+       "Die Sorgen gehen mir nicht aus dem Kopf, und abends kann ich schlecht einschlafen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn ich in Ruhe und ohne Hast sprechen kann.",
+       "Ich höre gern vorher, wie der Plan und der Ablauf aussehen.",
+       "Es hilft mir, wenn ich nicht plötzlich vor anderen meine Meinung sagen muss und wenn ich auch schriftlich antworten darf.",
+       "Wenn es mir nicht gut geht, hilft es mir, wenn ich kurz hinausgehen darf, um mich zu erholen.",
+       "Ich spreche lieber an einem ruhigen Ort mit wenigen Menschen.",
+       "Bevor gesagt wird, dass ich mir zu viele Sorgen mache, hilft es mir, wenn zuerst zugehört wird, was mir schwerfällt."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Schilddrüsenüberfunktion",
+        "why": "Auf dieser Seite steht, dass sich eine Überfunktion der Schilddrüse unter anderem durch Nervosität, Schlafstörungen, Gewichtsverlust und Durchfall zeigen kann.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://www.usz.ch/krankheit/schilddruesenueberfunktion/",
+         "kind": "fact",
+         "upd": "2026-04-02"
+        }
+       },
+       {
+        "name": "Angststörungen",
+        "why": "Auf dieser Seite steht, dass von einer Angststörung die Rede ist, wenn die Angst übermässig stark wird und den Alltag einschränkt.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Angststörungen",
+         "url": "https://www.usz.ch/krankheit/angststoerungen/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Generalisierte Angststörung",
+        "why": "Auf dieser Seite (auf Französisch) steht, dass man sich bei einer generalisierten Angststörung über fast alles Sorgen macht, auch über alltägliche Dinge, und zwar übermässig stark.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Posttraumatische Belastungsstörung (PTBS)",
+        "why": "Auf dieser Seite steht, dass nach einem sehr belastenden Ereignis, manchmal erst Jahre später, das Erlebte immer wieder hochkommen kann, der Körper stark angespannt sein kann und man bestimmte Situationen meidet.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Posttraumatische Belastungsstörungen (PTSD)",
+         "url": "https://www.usz.ch/krankheit/posttraumatische-belastungsstoerungen/",
+         "kind": "fact",
+         "upd": "2024-12-03"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Schwer, mit Kontrollieren oder Wiederholen aufzuhören",
+      "lead": "Wenn Sie das Türschloss oder den Herd kontrollieren, sich die Hände waschen oder andere Handlungen immer wieder wiederholen und es schwer ist aufzuhören, obwohl Sie es möchten.",
+      "scenes": [
+       "Wenn ich das Haus verlasse, muss ich das Türschloss oder den Herd immer wieder kontrollieren, sonst kann ich nicht beruhigt gehen.",
+       "Ich wasche mir die Hände oder den Körper immer öfter und kann nicht aufhören, auch wenn ich es möchte.",
+       "Derselbe Sorgengedanke kommt immer wieder, und ich kann nicht aufhören, daran zu denken, obwohl ich es möchte.",
+       "Wenn Dinge nicht so liegen oder in der Reihenfolge ablaufen, wie ich es festgelegt habe, werde ich unruhig und räume um oder fange von vorn an.",
+       "Das Kontrollieren dauert so lange, dass ich zu spät losgehe oder zu spät zu Terminen oder zur Arbeit komme.",
+       "Mein Körper bewegt sich oder ich gebe Laute von mir, ohne es zu wollen, und es fällt mir schwer, das zu stoppen, auch wenn ich es versuche."
+      ],
+      "asks": [
+       "Ich möchte zuerst gehört werden, ohne dass gleich gesagt wird, dass ich mir zu viele Gedanken mache.",
+       "Das Kontrollieren kostet mich Zeit, deshalb hilft es, wenn etwas mehr Zeit eingeplant wird.",
+       "Wenn sich Pläne oder Schritte ändern, höre ich das gern vorher.",
+       "Es hilft mir, wenn mich niemand vor anderen darauf anspricht oder Witze darüber macht, wenn ich etwas kontrolliere oder mir die Hände wasche.",
+       "Erklärungen und Anweisungen bekomme ich gern eins nach dem anderen und schriftlich.",
+       "Bevor wir entscheiden, wie es weitergeht, möchte ich, dass zuerst meinen Sorgen zugehört wird und dass wir in Ruhe darüber sprechen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Schwierigkeiten, die nach einem belastenden Erlebnis anhalten",
+      "lead": "Erinnerungen, die immer wiederkommen, schlechter Schlaf oder eine Anspannung, die nach einem belastenden Erlebnis nicht nachlässt.",
+      "scenes": [
+       "Ein kleiner Anlass genügt, und die schlimme Szene und meine Gefühle von damals sind plötzlich wieder da.",
+       "Ich habe immer wieder ähnliche Albträume und schlafe in vielen Nächten nicht tief.",
+       "Ich stehe ständig unter Spannung, und schon ein kleines Geräusch oder Ereignis lässt mich zusammenzucken.",
+       "Ich meide nach Möglichkeit Orte, Menschen und Themen, die mich an die Zeit von damals erinnern, und mein Alltag ist dadurch enger geworden.",
+       "Ich fühle mich innerlich wie taub und kann meiner Familie und meinem Freundeskreis nicht mehr so zugewandt sein wie früher.",
+       "Ich gebe mir immer häufiger die Schuld, oder es fällt mir schwerer, den Menschen um mich herum zu vertrauen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn nicht nach allen Einzelheiten dessen gefragt wird, was geschehen ist. Ich erzähle in meinem eigenen Tempo, nur so viel, wie ich kann.",
+       "Bestimmte Geräusche, Orte und Themen bringen alles wieder hoch. Es hilft mir, wenn akzeptiert wird, dass ich sie lieber meide.",
+       "Es hilft mir, wenn ich nicht plötzlich von hinten angesprochen werde und wenn in meiner Nähe keine lauten Geräusche gemacht werden.",
+       "Wenn Sprechen zu schwerfällt, gebe ich lieber einen Text, den ich aufgeschrieben habe. Es hilft mir, wenn das erlaubt ist.",
+       "Es gibt Tage, an denen ich schlecht schlafe oder die Erschöpfung bleibt. Es hilft mir, wenn das nicht als Faulheit gesehen wird.",
+       "Es hilft mir, wenn ich nicht mit Sätzen wie «Versuch, es zu vergessen» oder «Lass es los» gedrängt werde und wenn es einen Ort gibt, an dem ich in Ruhe sprechen kann."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Posttraumatische Belastungsstörung (PTBS)",
+        "why": "Auf dieser Seite steht, dass nach einem sehr belastenden Ereignis eine anhaltende seelische Belastung entstehen kann, direkt danach oder manchmal erst Jahre später.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Posttraumatische Belastungsstörungen (PTSD)",
+         "url": "https://www.usz.ch/krankheit/posttraumatische-belastungsstoerungen/",
+         "kind": "fact",
+         "upd": "2024-12-03"
+        }
+       },
+       {
+        "name": "Stressassoziierte Erkrankungen (z. B. Burnout, Anpassungsstörungen)",
+        "why": "Auf dieser Seite steht, dass belastende Lebensereignisse Angst, Traurigkeit, Anspannung oder Hilflosigkeit auslösen können; zu den stressassoziierten Erkrankungen zählen unter anderem Burnout und Anpassungsstörungen.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Stressassoziierte Erkrankungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/stressassoziierte-erkrankungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Schwierigkeiten mit dem Schlaf",
+      "lead": "Schwer einschlafen, nachts aufwachen, morgens schwer aufstehen oder tagsüber stark schläfrig sein.",
+      "scenes": [
+       "Auch wenn ich schon im Bett liege, schlafe ich nur schwer ein.",
+       "Ich wache nachts mehrmals auf und schlafe bis zum Morgen nie richtig durch.",
+       "Zur gewohnten Zeit komme ich morgens nicht aus dem Bett und schaffe es immer wieder nicht rechtzeitig zur Arbeit, zur Ausbildung oder zur Schule.",
+       "Tagsüber überfällt mich starke Schläfrigkeit, und in Besprechungen oder am Steuer döse ich beinahe ein.",
+       "Meine Familie sagt mir, dass ich laut schnarche und dass meine Atmung im Schlaf manchmal auszusetzen scheint.",
+       "Am Abend und in der Nacht fühlen sich meine Beine unangenehm an, ich komme nicht zur Ruhe und kann nicht schlafen."
+      ],
+      "asks": [
+       "Es hilft mir, wenn man sich in Ruhe Zeit nimmt zu fragen, wie ich schlafe: ob ich schwer einschlafe, nachts aufwache, morgens schwer aus dem Bett komme oder tagsüber schläfrig bin.",
+       "Es hilft mir, wenn gemeinsam mit mir geschaut wird, was eine Rolle spielt, auch die Medikamente, die ich nehme, und meine Gewohnheiten mit Kaffee, Alkohol und Zigaretten.",
+       "Es hilft mir, wenn nicht gleich gesagt wird, es sei «reine Kopfsache», und wenn auch meine körperliche Gesundheit und meine Stimmung angeschaut werden.",
+       "Ich zeige gern auf einem Zettel, wann ich ins Bett gehe und wann ich aufstehe. Es hilft mir, wenn jemand das ansieht.",
+       "Wenn mir ein Medikament vorgeschlagen wird, hilft es mir, wenn in einfachen Worten erklärt wird, wie es wirkt und worauf ich achten muss.",
+       "Morgens fällt mir vieles schwer. Es hilft mir, wenn ein Termin am Nachmittag oder am frühen Abend möglich ist."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstruktive Schlafapnoe",
+        "why": "Auf dieser Seite steht, dass sich bei dieser Form im Schlaf die oberen Atemwege im Rachen immer wieder verengen oder ganz verschliessen.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-bezogene Atmungsstörungen und Schlafapnoe",
+         "url": "https://www.usz.ch/krankheit/obstruktives-schlaf-apnoe-syndrom/",
+         "kind": "fact",
+         "upd": "2026-05-27"
+        }
+       },
+       {
+        "name": "Kaffee, Alkohol, Nikotin oder Medikamente",
+        "why": "Auf dieser Seite steht, dass äussere Einflüsse den Schlaf stören können, zum Beispiel Lärm und Licht, aber auch Kaffee, Alkohol, Nikotin, Medikamente oder Drogen.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Schlafstörungen (Insomnie)",
+        "why": "Auf dieser Seite steht, dass Schlafstörungen viele Ursachen haben können, etwa Sorgen, Ängste, Ärger oder psychische Erkrankungen.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Restless-Legs-Syndrom",
+        "why": "Auf dieser Seite steht, dass man beim Restless-Legs-Syndrom einen unangenehmen Drang spürt, die Beine zu bewegen, besonders die Waden.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Restless Legs-Syndrom",
+         "url": "https://www.usz.ch/krankheit/restless-legs-syndrom/",
+         "kind": "fact",
+         "upd": "2026-06-11"
+        }
+       },
+       {
+        "name": "Narkolepsie",
+        "why": "Auf dieser Seite steht, dass bei einer Narkolepsie im Gehirn die Steuerung von Schlafen und Wachsein gestört ist.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Narkolepsie",
+         "url": "https://www.usz.ch/krankheit/narkolepsie/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Schlaf-Wach-Störungen",
+        "why": "Auf dieser Seite steht, dass es bei Schlaf-Wach-Störungen nicht nur darum geht, wie lange man schläft, sondern auch um den Ablauf des Schlafs und das Befinden am Tag.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-Wach-Störungen",
+         "url": "https://www.usz.ch/krankheit/schlaf-wach-stoerungen/",
+         "kind": "fact",
+         "upd": "2025-11-14"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Schwierigkeiten mit dem Essen",
+      "lead": "Wenn Essen schwerfällt: Sie können nicht viel essen, Sie können nicht aufhören, oder Essen macht Ihnen Angst.",
+      "scenes": [
+       "Ich habe keine Lust zu essen und bekomme kaum etwas herunter.",
+       "Wenn ich einmal angefangen habe zu essen, kann ich nicht mehr aufhören, und manchmal esse ich so viel, dass es wehtut.",
+       "Ohne es zu merken, denke ich nur noch an Essen, und es fällt mir schwer, mich auf etwas anderes zu konzentrieren.",
+       "Ich kann nur sehr wenige Lebensmittel essen und meide viele wegen ihres Geschmacks, ihres Geruchs oder ihrer Konsistenz.",
+       "Nachdem ich mich an einem Bissen verschluckt habe oder erbrechen musste, habe ich Angst vor dem Essen bekommen.",
+       "Nachts esse ich manchmal halb im Schlaf, und am Morgen weiss ich nichts mehr davon."
+      ],
+      "asks": [
+       "Es hilft mir, wenn keine Bemerkungen zu meinem Körper oder meinem Aussehen gemacht werden.",
+       "Es hilft mir, wenn ich nicht zum Essen gezwungen und nicht gedrängt werde.",
+       "Wenn gemeinsam gegessen wird, hilft es mir, wenn ich einen anderen Ort oder eine andere Zeit wählen darf.",
+       "Ich finde es gut, wenn zuerst gefragt wird, was ich essen kann und welche Gerüche oder Konsistenzen mir schwerfallen.",
+       "Es hilft mir, wenn vorher erklärt wird, was bei einer körperlichen Untersuchung oder beim Termin passiert.",
+       "Was ich nur schwer laut sagen kann, gebe ich lieber schriftlich. Es hilft mir, wenn das erlaubt ist."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Essstörungen",
+        "why": "Auf dieser Seite steht, dass bei einer Essstörung vor allem das Essen und die Beziehung zum eigenen Körper aus dem Gleichgewicht geraten. Am häufigsten sind Bulimie, Magersucht und die Binge-Eating-Störung.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Essstörungen",
+         "url": "https://www.usz.ch/krankheit/essstoerungen/",
+         "kind": "fact",
+         "upd": "2024-11-08"
+        }
+       },
+       {
+        "name": "Magersucht (Anorexie)",
+        "why": "Auf dieser Seite steht, dass Menschen mit Magersucht zu wenig wiegen, sich aber oft trotzdem als zu schwer empfinden und weiter abnehmen wollen.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Magersucht",
+         "url": "https://www.usz.ch/krankheit/magersucht/",
+         "kind": "fact",
+         "upd": "2025-10-01"
+        }
+       },
+       {
+        "name": "Bulimie",
+        "why": "Auf dieser Seite steht, dass es bei Bulimie immer wieder zu Heisshunger und Essanfällen kommt und Betroffene danach versuchen, eine Gewichtszunahme zu vermeiden.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Bulimie",
+         "url": "https://www.usz.ch/krankheit/bulimie/",
+         "kind": "fact",
+         "upd": "2025-01-06"
+        }
+       },
+       {
+        "name": "Binge-Eating-Störung",
+        "why": "Auf dieser Seite steht, dass Menschen bei dieser Störung immer wieder sehr viel auf einmal essen, ohne sich bremsen zu können, und danach oft Scham und Ärger spüren.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Binge Eating Störung",
+         "url": "https://www.usz.ch/krankheit/binge-eating-stoerung/",
+         "kind": "fact",
+         "upd": "2026-03-12"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Schwer, mit Alkohol, Geldspiel oder Videospielen aufzuhören",
+      "lead": "Wenn Sie aufhören oder weniger machen möchten, aber trotzdem weitermachen.",
+      "scenes": [
+       "Ich nehme mir vor, aufzuhören oder weniger zu machen, merke dann aber, dass ich trotzdem weitermache.",
+       "Ich schaffe es nicht, mich an die Zeit, die Menge oder das Geld zu halten, die ich mir für den Tag vorgenommen habe.",
+       "Ich verberge das Trinken, die Videospiele oder das Geldspiel vor Menschen, die mir nahestehen, oder ich rede es schön.",
+       "Ich spiele oft bis tief in die Nacht Videospiele, komme morgens nicht aus dem Bett, und es kommt immer öfter vor, dass ich zu spät komme oder bei der Arbeit oder in der Schule fehle.",
+       "Wenn ich verliere, will ich das Geld unbedingt zurückgewinnen und setze deshalb noch einmal, zum Beispiel an Spielautomaten oder bei Sportwetten.",
+       "Obwohl ich weiss, dass es meinem Körper nicht guttut, schaffe ich es nicht, weniger zu trinken."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn Sie mir zuerst zuhören, ohne mir Vorwürfe zu machen oder über mich zu urteilen.",
+       "Es würde mir helfen, wenn wir gemeinsam Schritt für Schritt durchgehen, wie meine Gewohnheiten aussehen und welche Schwierigkeiten sie mir machen.",
+       "Es würde mir helfen, wenn Sie sich auch meinen Schlaf und meine körperliche Gesundheit ansehen.",
+       "Ich möchte konkret erfahren, wo ich Hilfe bekommen kann und wohin ich gehen kann.",
+       "Es würde mir helfen, zu wissen, ob meine Familie oder eine mir nahestehende Person zum Gespräch mitkommen kann.",
+       "Es würde mir helfen, vorab zu erfahren, wem Sie weitergeben, was ich Ihnen erzähle, und wie viel davon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alkoholabhängigkeit",
+        "why": "Auf dieser Seite steht, dass zu einer Alkoholabhängigkeit zum Beispiel ein starkes Verlangen nach Alkohol gehört und dass man weniger steuern kann, wie viel man trinkt.",
+        "src": {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Problematischer Alkoholkonsum",
+         "url": "https://www.bag.admin.ch/de/problematischer-alkoholkonsum",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Geldspielsucht",
+        "why": "Auf dieser Seite steht, dass Spiele um Geld süchtig machen können; das problematische Geldspiel ist eine der Formen dieser Sucht.",
+        "src": {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Verhaltenssüchte",
+         "url": "https://www.bag.admin.ch/de/verhaltenssuechte",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Computerspielstörung (Gaming)",
+        "why": "Auf dieser Seite steht, dass auch Videospiele süchtig machen können.",
+        "src": {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Verhaltenssüchte",
+         "url": "https://www.bag.admin.ch/de/verhaltenssuechte",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chsafezone",
+       "chspiel"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Schwierigkeiten mit Aufmerksamkeit und Planung",
+      "lead": "Schwierigkeiten, sich zu konzentrieren, Schritt für Schritt voranzukommen oder sich Dinge zu merken.",
+      "scenes": [
+       "Selbst wenn mir jemand etwas erzählt, sind meine Gedanken plötzlich woanders, ohne dass ich es merke.",
+       "Ich schaffe es nicht, die Arbeit, die Lehre oder den Haushalt der Reihe nach zu erledigen, und verpasse Fristen.",
+       "Ich vergesse häufig, worum man mich gebeten hat oder was ich versprochen habe, oder ich verlege Dinge.",
+       "Wenn ich lange dieselbe Aufgabe mache, passieren mir immer mehr Flüchtigkeitsfehler.",
+       "Wenn ich lange still sitzen muss, zum Beispiel an einer Sitzung oder im Zug, werde ich unruhig und zappelig.",
+       "Menschen in meinem Umfeld sagen mir, dass ich oft etwas vergesse oder zu spät komme."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn mir Anweisungen einzeln, eine nach der anderen, gegeben werden.",
+       "Es würde mir helfen, wenn wichtige Informationen aufgeschrieben und mir schriftlich mitgegeben werden.",
+       "Es würde mir helfen, wenn ich Fristen und Termine möglichst früh erfahre.",
+       "Es würde mir helfen, wenn ich nicht zu viele Aufgaben auf einmal bekomme, sondern sie in kleine Schritte aufgeteilt werden.",
+       "Ich würde gern an einem ruhigen Ort sprechen, an dem ich wenig abgelenkt werde.",
+       "Es würde mir helfen, wenn mir nicht vorgeworfen wird, was nicht geklappt hat, sondern wenn auch gesehen wird, was ich geschafft habe."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Wechseljahresbeschwerden",
+        "why": "Auf dieser Seite steht, dass in den Wechseljahren unter anderem Vergesslichkeit und Konzentrationsschwierigkeiten auftreten können.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Wechseljahresbeschwerden",
+         "url": "https://www.usz.ch/krankheit/wechseljahresbeschwerden/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Schlafstörungen (Insomnie)",
+        "why": "Auf dieser Seite (auf Französisch) steht, dass bei Schlafstörungen auch der Tag schwerer werden kann, mit Müdigkeit, Problemen mit Konzentration und Gedächtnis und Reizbarkeit.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "Auf dieser Seite steht, dass bei einer Depression auch Konzentrationsschwäche, Schlafstörungen und ein Rückzug von anderen Menschen dazukommen können.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Depressive Störungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/depression/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung)",
+        "why": "Auf dieser Seite steht, dass es bei ADHS schwerfällt, aufmerksam und konzentriert zu bleiben, dass man unruhig und impulsiv sein kann und dass es Erwachsenen oft schwerfällt, ihren Tag zu planen und zu ordnen.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Aufmerksamkeits- und Hyperaktivitätsstörungen ADHS",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/adhs/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chiv",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Schwierigkeiten mit anderen Menschen, festen Gewohnheiten und Sinneseindrücken",
+      "lead": "Schwierigkeiten, mit anderen zu sprechen oder zusammen zu sein, ein starkes Bedürfnis, Dinge auf eine bestimmte Art zu tun, oder Geräusche, Licht und Gerüche, die schwer auszuhalten sind.",
+      "scenes": [
+       "In einem Gespräch fällt es mir schwer, zu erfassen, was mein Gegenüber fühlt oder wie die Stimmung im Raum ist, und ich habe oft den Eindruck, dass wir aneinander vorbeireden.",
+       "Wenn ich vor anderen sprechen muss oder alle Blicke auf mich gerichtet sind, werde ich sehr angespannt und gehe solchen Situationen aus dem Weg.",
+       "Mit Menschen, die mir nahestehen, kann ich sprechen, aber vor anderen bringe ich keinen Ton heraus.",
+       "Wenn sich mein gewohntes Vorgehen, die Reihenfolge der Schritte oder der Platz meiner Sachen ändert, löst das bei mir starke Unruhe aus.",
+       "Geräusche, Licht und Gerüche nehme ich sehr stark wahr, und Orte mit vielen Menschen, etwa der Zug oder ein Restaurant, sind für mich schwer auszuhalten.",
+       "Ich kann schlecht hören, was andere sagen, oder meine Stimmung ist gedrückt, und es fällt mir inzwischen schwer, Menschen zu treffen oder mit ihnen zu sprechen."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn langsam und deutlich mit mir gesprochen wird.",
+       "Es würde mir helfen, wenn wichtige Dinge für mich aufgeschrieben werden.",
+       "Ich würde gern an einem ruhigen Ort sprechen.",
+       "Es würde mir helfen, wenn mir vorher Bescheid gesagt wird, sobald sich Pläne oder Abläufe ändern.",
+       "Es würde mir helfen, wenn ich nicht gedrängt werde und Zeit zum Antworten bekomme.",
+       "Ich würde gern schriftlich oder mit einer kurzen Notiz antworten, statt zu sprechen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Soziale Phobie (soziale Angst)",
+        "why": "Auf dieser Seite (auf Französisch) steht, dass man bei sozialer Angst grosse Angst oder starkes Unbehagen spürt, wenn man in bestimmten Situationen mit anderen im Mittelpunkt steht.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Erythrophobie (Angst vor dem Erröten)",
+        "why": "Auf dieser Seite steht, dass Menschen mit Angst vor dem Erröten schon bei kleinen Anlässen rot werden können, etwa wenn jemand sie anspricht, und dass ihnen Vorträge vor Publikum sehr schwerfallen.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Erythrophobie",
+         "url": "https://www.usz.ch/krankheit/erythrophobie/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Autismus-Spektrum-Störung",
+        "why": "Auf dieser Seite steht, dass zu diesem Namen Schwierigkeiten im Kontakt mit anderen Menschen und in der Verständigung gehören, ausserdem Verhaltensweisen, die sich wiederholen. Der Name wird manchmal erst im Erwachsenenalter vergeben.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Autismus-Spektrum-Störung (ASS)",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/autismus-spektrum-stoerung-ass/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chwork",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Schwierigkeiten mit Lesen, Schreiben oder Rechnen",
+      "lead": "Wenn Lesen, Schreiben oder der Umgang mit Zahlen trotz Mühe schwer bleibt.",
+      "scenes": [
+       "Ich brauche länger als andere, um einen Text zu lesen, und muss ihn oft mehrmals lesen.",
+       "Auch nach dem Lesen kommt der Inhalt bei mir nicht an, und es fällt mir schwer zu verstehen, was in Unterlagen, Formularen oder Briefen vom Amt steht.",
+       "Mit der Rechtschreibung habe ich Mühe: Ich mache viele Fehler oder vergesse beim Schreiben Buchstaben oder Wörter.",
+       "Meine Handschrift ist unregelmässig, und Schreiben kostet mich viel Zeit und Kraft.",
+       "Bei einfachen Rechnungen und bei Textaufgaben komme ich nicht weiter.",
+       "Ich kann ohne Schwierigkeiten sprechen und zuhören, aber beim Lesen, Schreiben oder Rechnen komme ich nicht so voran, wie ich möchte, auch wenn ich mir viel Zeit nehme."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn mir Texte in grosser Schrift und mit weitem Zeilenabstand gezeigt und wichtige Dinge in einfachen Worten oder in Leichter Sprache erklärt werden.",
+       "Es würde mir helfen, wenn wichtige Inhalte laut vorgelesen oder mündlich gesagt werden.",
+       "Es würde mir helfen, wenn ich, statt mit der Hand zu schreiben, am Computer oder Handy tippen oder etwas mit Fotos oder Sprachaufnahmen festhalten darf.",
+       "Es würde mir helfen, wenn ich beim Rechnen einen Taschenrechner verwenden darf.",
+       "Es würde mir helfen, wenn ich mehr Zeit zum Lesen, Schreiben und Rechnen bekomme.",
+       "Es würde mir helfen, wenn ich nicht alles auf einmal bekomme, sondern eins nach dem anderen."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Starke Stimmungsschwankungen",
+      "lead": "Wenn die Stimmung stark auf und ab geht und es schwer ist, mit den eigenen Gefühlen Schritt zu halten.",
+      "scenes": [
+       "Zeiten, in denen ich viel zu viel Energie habe, wechseln sich mit Zeiten ab, in denen ich so niedergedrückt bin, dass ich mich kaum bewegen kann.",
+       "Es gibt Zeiten, in denen ich kaum schlafe und trotzdem voller Energie und ständig in Bewegung bin.",
+       "Mir fällt eine Idee nach der anderen ein, und alles bleibt halb fertig.",
+       "In einer übermütigen Stimmung habe ich schon einmal so viel Geld ausgegeben, dass ich später deswegen in Schwierigkeiten geraten bin.",
+       "Schon bei Kleinigkeiten werde ich gereizt, und es fällt mir schwer, meine Gefühle im Griff zu behalten.",
+       "Was ich getan habe, als meine Stimmung sehr hoch war, hat sich auf meine Beziehungen oder meine Arbeit ausgewirkt."
+      ],
+      "asks": [
+       "Es würde mir helfen, wenn auch nach den Zeiten gefragt wird, in denen es mir ungewöhnlich gut ging und ich ungewöhnlich viel Energie hatte.",
+       "Es würde mir helfen, wenn man sich Zeit nimmt, mein Auf und Ab gemeinsam mit mir durchzugehen.",
+       "Es würde mir helfen, wenn ich vor grossen Entscheidungen über Geld oder Arbeit Unterstützung beim Innehalten und Nachdenken bekomme.",
+       "Es würde mir helfen, wenn auch nach körperlichen Ursachen geschaut wird, Schlaf, Medikamente und Alkohol eingeschlossen.",
+       "Es würde mir helfen, wenn mir gesagt wird, dass ich anders wirke als sonst, ohne dass mir Vorwürfe gemacht werden.",
+       "Es würde mir helfen, wenn mir bis zum Ende zugehört wird, sowohl wenn es mir gut geht als auch wenn ich niedergedrückt bin."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Prämenstruelles Syndrom (PMS) und prämenstruelle dysphorische Störung (PMDS)",
+        "why": "Auf dieser Seite steht, dass vor der Periode körperliche und seelische Beschwerden auftreten können, oft mit stärkeren Stimmungsschwankungen, und dass sie den Alltag deutlich einschränken können.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://www.usz.ch/krankheit/praemenstruelles-syndrom-pms/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Wechseljahresbeschwerden",
+        "why": "Auf dieser Seite steht, dass in den Wechseljahren Stimmungsschwankungen und Reizbarkeit auftreten können, ebenso Schlafstörungen und Hitzewallungen.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Wechseljahresbeschwerden",
+         "url": "https://www.usz.ch/krankheit/wechseljahresbeschwerden/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Bipolare Störung",
+        "why": "Auf dieser Seite steht, dass sich bei einer bipolaren Störung Zeiten mit sehr gehobener Stimmung und Zeiten der Niedergeschlagenheit abwechseln; in den hohen Zeiten braucht man weniger Schlaf und gibt manchmal unüberlegt viel Geld aus.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Bipolare Störungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/bipolare-stoerungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Wer einen Namen kennt, sieht in alltäglichen Schwankungen leichter ein Symptom",
+       "body": "Wer den Namen einer Erkrankung oder einer Entwicklungsstörung kennt, bei dem kann eine kleine Müdigkeit oder ein Moment der Unaufmerksamkeit leichter wie ein Symptom aussehen.\n\nGefühle können tatsächlich verändern, wie sich Körper und Stimmung anfühlen. Das ist keine Einbildung, das geschieht wirklich. Auch Schlafmangel, Stress, die Handynutzung oder das, was um einen herum geschieht, können Ähnliches bewirken.\n\nWenn Sie beim Lesen eines Namens denken: «Das könnte es sein», bleiben Sie nicht gleich dabei stehen, sondern denken Sie auch an andere Gründe. Wenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, auch ohne einen Namen.",
+       "srcs": []
+      },
+      {
+       "h": "Psychische Gesundheit kann sich verändern",
+       "body": "Psychische Gesundheit ist kein fester Zustand; sie kann sich im Lauf des Lebens verändern.\n\nEinen Namen vergeben Fachleute, zum Beispiel eine Ärztin oder ein Arzt. Dabei zählt auch, wie stark Beschwerden sind und wie sehr sie den Alltag einschränken.\n\nWenn die Schwierigkeiten anhalten, können Sie darüber sprechen, so wie sie sind, egal welcher Name dazu passt.",
+       "srcs": [
+        {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Psychische Gesundheit",
+         "url": "https://www.bag.admin.ch/de/psychische-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Angststörungen",
+         "url": "https://www.usz.ch/krankheit/angststoerungen/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       ]
+      },
+      {
+       "h": "Auch ohne den Namen einer Krankheit können Sie über Ihre Schwierigkeiten sprechen",
+       "body": "Die Dargebotene Hand ist unter 143 rund um die Uhr am Telefon erreichbar; dazu gibt es Mail und Chat.\n\nWenn Ihre Stelle aus gesundheitlichen Gründen in Gefahr ist, kann die IV-Stelle Ihres Kantons Sie auf Anfrage zu Fragen rund um Ihre Arbeit beraten, schon bevor Sie Leistungen beantragen.\n\nFür einen Nachteilsausgleich bei der Schweizerischen Maturitätsprüfung muss dem Gesuch ein ärztliches oder psychologisches Gutachten mit einer aktuellen Diagnose beiliegen.\n\nWas Sie sich wünschen und was möglich ist, hängt von der Situation ab und wird im Gespräch geklärt.",
+       "srcs": [
+        {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Hilfsangebote zur psychischen Gesundheit",
+         "url": "https://www.bag.admin.ch/de/hilfsangebote-zur-psychischen-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Schweizerische Eidgenossenschaft (Fedlex)",
+         "title": "Bundesgesetz über die Invalidenversicherung (IVG), Art. 3a",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/de/html/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-de-html-8.html",
+         "kind": "fact",
+         "upd": "2026-01-01"
+        },
+        {
+         "org": "Staatssekretariat für Bildung, Forschung und Innovation (SBFI)",
+         "title": "Nachteilsausgleich bei den Prüfungen der Schweizerischen Maturitätskommission SMK",
+         "url": "https://www.sbfi.admin.ch/de/nachteilsausgleich",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Für manche Leistungen werden ärztliche Unterlagen verlangt",
+       "body": "Die Grundversicherung kann eine Psychotherapie bei psychologischen Psychotherapeutinnen und Psychotherapeuten bezahlen, wenn eine Krankheit vorliegt und eine ärztliche Anordnung da ist.\n\nIn einem privaten Arbeitsverhältnis muss, wer nicht arbeiten kann, das auf Verlangen des Arbeitgebers mit einem Arztzeugnis belegen; eine Diagnose soll das Arztzeugnis nicht enthalten.\n\nWenn Sie bei einer Sozialversicherung wie der IV Leistungen beantragen, kann diese ärztliche oder fachliche Untersuchungen verlangen, soweit sie nötig und zumutbar sind.\n\nFragen Sie am besten vorher bei der zuständigen Stelle nach, welche Unterlagen Sie brauchen.",
+       "srcs": [
+        {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Neuregelung der psychologischen Psychotherapie ab 1. Juli 2022",
+         "url": "https://www.bag.admin.ch/de/neuregelung-der-psychologischen-psychotherapie-ab-1-juli-2022",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Staatssekretariat für Wirtschaft (SECO)",
+         "title": "Verhinderung des Arbeitnehmers an der Arbeitsleistung",
+         "url": "https://www.seco.admin.ch/de/faq-verhinderung-des-arbeitnehmers-an-der-arbeitsleistung",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Schweizerische Eidgenossenschaft (Fedlex)",
+         "title": "Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG), Art. 43",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20240101/de/html/fedlex-data-admin-ch-eli-cc-2002-510-20240101-de-html-4.html",
+         "kind": "fact",
+         "upd": "2024-01-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Der Name einer Erkrankung ist kein Werkzeug, um sich über andere zu stellen",
+       "body": "Der Name einer Erkrankung ist kein Werkzeug, um sich über jemanden zu stellen oder auf andere herabzusehen.\nManche Menschen fühlen sich erleichtert, wenn sie einen Namen für das finden, was sie erleben. Das ist wichtig.\nAuch der Wunsch, dass die Menschen um einen herum einen verstehen oder freundlich zu einem sind, ist natürlich.\n\nWenn Sie sich wünschen, dass jemand freundlich mit Ihnen umgeht, können Sie das direkt sagen, ohne den Namen einer Erkrankung zu nennen.\nEs kommt leichter an, wenn Sie zwei Dinge zusammen sagen: womit Sie Schwierigkeiten haben und was Sie sich von der anderen Person wünschen.\n\nZum Beispiel können Sie sagen:\n«Ich bin heute müde. Es würde mir helfen, wenn Sie langsam mit mir sprechen.»\n«Wenn mir viel auf einmal gesagt wird, verliere ich den Faden. Es würde mir helfen, wenn Sie mir eins nach dem anderen sagen.»\n«Was ich nur höre, kann ich mir schlecht merken. Es würde mir helfen, wenn Wichtiges aufgeschrieben wird, auf Papier oder per E-Mail.»\n«Orte mit vielen Menschen fallen mir schwer. Ich würde gern an einem ruhigen Ort sprechen.»\n«Ich brauche etwas Zeit zum Antworten. Es würde mir helfen, wenn Sie einen Moment warten.»\n«Im Moment bin ich sehr aufgewühlt. Es würde mir helfen, wenn Sie mir zuerst einfach zuhören. Ratschläge können später kommen.»\n«Mir geht es heute nicht gut. Es würde mir helfen, wenn ich mich ein wenig ausruhen darf.»\n«Plötzliche Planänderungen bringen mich durcheinander. Es würde mir helfen, wenn ich so früh wie möglich Bescheid bekomme.»\n«Wenn jemand laut mit mir spricht, bekomme ich Angst. Es würde mir helfen, wenn ruhig mit mir gesprochen wird.»\n\nWenn es schwerfällt, es gut zu sagen, können Sie es auch auf Papier schreiben und übergeben. Sie können auch den Bildschirm «Meine Schwierigkeiten» mit dem Knopf «Gross anzeigen» zeigen; er erscheint in dieser App, wenn Sie eine Schwierigkeit wählen und die Fragen beantworten.\nWenn Sie den Namen einer Erkrankung nennen möchten, dürfen Sie das. Auch dann hilft es der anderen Person zu handeln, wenn Sie zugleich sagen, womit Sie Schwierigkeiten haben und was Sie sich wünschen.\nManchmal kann die andere Person nicht tun, worum Sie bitten, wegen ihrer eigenen Lage. Dann können Sie gemeinsam überlegen, ob es einen anderen Weg gibt.\n\nWenn Sie bei der Arbeit oder im Studium eine verbindliche Anpassung wünschen, fragen Sie bei der zuständigen Stelle nach, was Sie dafür brauchen. Dafür können ärztliche Unterlagen nötig sein.\n\nDie Liste der Namen in dieser App soll nicht dazu dienen, an den Menschen um Sie herum zu zweifeln.",
+       "srcs": []
+      },
+      {
+       "h": "Über diese App",
+       "body": "Das ist keine Diagnose. Diese Liste sagt nicht, ob Sie eine Krankheit oder Störung haben. Diese App ist kein Medizinprodukt und ersetzt kein Gespräch mit einer Ärztin, einem Arzt oder einer anderen Fachperson.\n\nIhre Antworten werden nirgendwohin geschickt und nicht auf diesem Gerät gespeichert. Sie verschwinden, wenn Sie die App schliessen.\n\nUnabhängige App. SOYOGI ist eine nicht gewinnorientierte Gruppe aus Japan. SOYOGI steht in keiner Verbindung zum Bund, zu Bundesämtern wie dem Bundesamt für Gesundheit (BAG), zu Swissmedic, zu den Kantonen, zu Spitälern oder zu anderen Einrichtungen des Gesundheitswesens in der Schweiz, und keine dieser Stellen empfiehlt oder unterstützt die App. Die Namen der Stellen zeigen nur, woher die Information stammt.\n\nSOYOGI hat diese Texte in eigenen Worten nach öffentlichen Seiten aus der Schweiz geschrieben. Die Quellen stehen auf jedem Bildschirm, mit dem Datum, das die Seite zeigt, wenn sie eines zeigt. Abgerufen am 20. November 2026. Nummern und Zeiten können sich ändern. Die Zeiten sind die Angaben der jeweiligen Stelle und in Schweizer Zeit angegeben.\n\nOb Sie sich Hilfe holen, entscheiden Sie, nicht die App.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Wenn Erschöpfung, Schlafprobleme, Rückzug oder Niedergeschlagenheit nicht nachlassen, sollten Sie das ernst nehmen. Je früher Sie Unterstützung suchen, desto leichter ist eine Krise zu bewältigen.",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Was tun für die psychische Gesundheit?",
+       "url": "https://www.bag.admin.ch/de/was-tun-fuer-die-psychische-gesundheit",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Hausärztin oder Hausarzt: Mit Schwierigkeiten bei der Aufmerksamkeit, im Kontakt mit anderen oder beim Lesen, Schreiben und Rechnen können Sie zuerst mit Ihrer Hausärztin oder Ihrem Hausarzt sprechen.",
+       "src": {
+        "org": "Bundesamt für Gesundheit (BAG)",
+        "title": "Psychische Belastungen? Nützliche Tipps und Infos zur Psychotherapie",
+        "url": "https://www.bag.admin.ch/dam/de/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+        "kind": "fact",
+        "upd": "2023-03"
+       }
+      },
+      {
+       "text": "Bei der Arbeit: Bei drohender Arbeitsunfähigkeit aus gesundheitlichen Gründen können Sie sich bei der IV-Stelle Ihres Kantons melden, auch schon vor einer IV-Anmeldung.",
+       "src": {
+        "org": "Bundesamt für Sozialversicherungen (BSV)",
+        "title": "Früherfassung und Frühintervention",
+        "url": "https://www.bsv.admin.ch/de/frueherfassung-fruehintervention",
+        "kind": "fact",
+        "upd": "2025-08-28"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Wie ein Name (eine Diagnose) vergeben wird, kurz:",
+      "text": "Am Beispiel der Angst: Fachleute nennen das eine Angststörung, wenn die Angst übermässig stark wird und den Alltag einschränkt.",
+      "src": {
+       "org": "Universitätsspital Zürich (USZ)",
+       "title": "Angststörungen",
+       "url": "https://www.usz.ch/krankheit/angststoerungen/",
+       "kind": "fact",
+       "upd": "2026-02-19"
+      }
+     },
+     "fewNote": "Auf öffentlichen Gesundheitsseiten liessen sich nur wenige Namen bestätigen.",
+     "noNames": "Für diese Gruppe liessen sich auf öffentlichen Gesundheitsseiten keine Namen bestätigen. Deshalb steht hier keine Liste mit Namen. Wo Sie Hilfe finden, steht trotzdem in dieser App."
+    }
+   },
+   "fr": {
+    "groups": {
+     "mood": {
+      "label": "Moral en baisse, manque d’envie",
+      "lead": "Quand le moral reste bas et qu’il est difficile de trouver l’énergie de faire quoi que ce soit.",
+      "scenes": [
+       "Mon moral reste bas du matin au soir.",
+       "Les choses que j’aimais avant ne me font plus plaisir.",
+       "Je n’ai pas d’énergie et j’ai du mal à me concentrer, alors le travail et les tâches de la maison n’avancent pas.",
+       "Je me fais des reproches et je vois tout en noir.",
+       "Je n’arrive pas à dormir la nuit, ou au contraire je dors trop. J’ai perdu l’appétit et j’ai le corps lourd.",
+       "J’ai parfois envie de disparaître ou de ne plus être là."
+      ],
+      "asks": [
+       "Cela m’aide quand les choses me sont expliquées une par une.",
+       "Cela m’aide quand on ne me presse pas pour répondre ou pour décider et que j’ai le temps de réfléchir.",
+       "Je préfère recevoir les choses importantes par écrit.",
+       "Avant qu’on me dise « Courage » ou « Secoue-toi », cela m’aide qu’on m’écoute d’abord.",
+       "Cela m’aide quand mon repos n’est pas aussitôt pris pour de la paresse.",
+       "Cela m’aide quand nous vérifions ensemble si une maladie physique ou un médicament que je prends joue un rôle."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hypothyroïdie (thyroïde qui fonctionne trop peu)",
+        "why": "Cette page (en italien) explique qu’une thyroïde qui fonctionne trop peu ralentit le métabolisme et peut entraîner de la fatigue et un manque d’énergie.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Cette page explique que l’insomnie va souvent de pair avec un état dépressif, de l’anxiété ou un autre trouble du sommeil.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Dépression",
+        "why": "Cette page explique que, dans une dépression, l’humeur est sombre (tristesse, irritabilité, sentiment de vide) ou que l’intérêt et le plaisir pour les activités de tous les jours diminuent.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Dépression unipolaire",
+         "url": "https://www.hug.ch/specialites-psychiatriques/depression-unipolaire",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       },
+       {
+        "name": "Trouble bipolaire",
+        "why": "Cette page explique que, dans un trouble bipolaire, des périodes où l’humeur est très haute alternent avec des périodes de dépression, et qu’il existe aussi des périodes stables.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Troubles bipolaires",
+         "url": "https://www.hug.ch/specialites-psychiatriques/troubles-bipolaires",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Forte anxiété ou tension",
+      "lead": "Des inquiétudes qui ne s’arrêtent pas, le cœur qui bat fort et l’agitation, des difficultés devant les autres ou pour sortir, et d’autres situations semblables.",
+      "scenes": [
+       "Quand je dois parler devant d’autres personnes ou que les regards se tournent vers moi, l’anxiété est si forte que j’ai la tête vide.",
+       "Mon cœur se met soudain à battre très fort et j’ai du mal à respirer. J’ai peur que cela recommence, alors j’ai du mal à sortir.",
+       "Même sans raison claire, je m’inquiète pour une chose, puis pour une autre, je n’arrive pas à rester en place et cela m’épuise.",
+       "J’ai du mal avec les endroits d’où il est difficile de partir, comme le train, le bus ou le tram, les magasins ou les bâtiments pleins de monde, et avec les sorties sans personne pour m’accompagner. Alors je les évite.",
+       "À force d’éviter ce qui m’angoisse, je vais dans moins d’endroits et je vois moins de monde : ma vie s’est rétrécie.",
+       "Mes inquiétudes ne me sortent pas de la tête et j’ai du mal à m’endormir le soir."
+      ],
+      "asks": [
+       "Cela m’aide quand on me laisse le temps de parler, sans me presser.",
+       "J’aimerais savoir à l’avance quel est le programme et comment les choses vont se passer.",
+       "Cela m’aide quand on ne me demande pas mon avis tout à coup devant d’autres personnes, et quand je peux aussi répondre par écrit.",
+       "Quand je ne me sens pas bien, cela m’aide de pouvoir m’éloigner un moment pour me reposer.",
+       "Je préfère parler dans un endroit calme, avec peu de personnes.",
+       "Avant qu’on me dise que je m’en fais trop, cela m’aide qu’on écoute d’abord ce qui est difficile pour moi."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hyperthyroïdie (thyroïde trop active)",
+        "why": "Cette page (en allemand) explique qu’une thyroïde trop active peut se manifester entre autres par de la nervosité, des troubles du sommeil, une perte de poids et de la diarrhée.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://www.usz.ch/krankheit/schilddruesenueberfunktion/",
+         "kind": "fact",
+         "upd": "2026-04-02"
+        }
+       },
+       {
+        "name": "Troubles anxieux",
+        "why": "Cette page explique que les troubles anxieux se voient surtout à une peur ou une anxiété trop fortes et durables, ou au fait d’éviter ce que l’on ressent comme une menace.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2025-05-05"
+        }
+       },
+       {
+        "name": "Anxiété généralisée",
+        "why": "Cette page explique que l’anxiété généralisée consiste à se faire du souci pour tout, avec une inquiétude trop forte pour des problèmes de la vie de tous les jours.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Trouble de stress post-traumatique",
+        "why": "Cette page (en allemand) explique qu’après un événement très éprouvant, parfois des années plus tard, on peut revivre ce qui s’est passé, être très tendu et sur le qui-vive, et éviter certaines situations.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Posttraumatische Belastungsstörungen (PTSD)",
+         "url": "https://www.usz.ch/krankheit/posttraumatische-belastungsstoerungen/",
+         "kind": "fact",
+         "upd": "2024-12-03"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Difficile d’arrêter de vérifier ou de répéter",
+      "lead": "Quand vous vérifiez la serrure ou le gaz, vous vous lavez les mains, ou vous répétez d’autres gestes encore et encore, et qu’il est difficile d’arrêter même si vous le voulez.",
+      "scenes": [
+       "Quand je sors de chez moi, je dois vérifier encore et encore la serrure et le gaz avant de pouvoir partir l’esprit tranquille.",
+       "Je me lave les mains ou le corps de plus en plus souvent, et je n’arrive pas à arrêter même si je le veux.",
+       "La même inquiétude me revient sans cesse en tête, et je n’arrive pas à arrêter d’y penser alors que je le voudrais.",
+       "Si les objets ne sont pas placés ou si les choses ne sont pas faites dans l’ordre que j’ai décidé, je me sens mal à l’aise et je finis par tout remettre en place ou par tout recommencer.",
+       "Les vérifications me prennent tellement de temps que je pars en retard, ou que j’arrive en retard à mes rendez-vous ou au travail.",
+       "Mon corps bouge ou des sons sortent de ma bouche sans que je le veuille, et c’est difficile à arrêter même quand j’essaie."
+      ],
+      "asks": [
+       "J’aimerais qu’on m’écoute d’abord, sans me dire tout de suite que je m’en fais trop.",
+       "Les vérifications me prennent du temps, alors cela aide qu’on prévoie un peu de marge.",
+       "Quand le programme ou les étapes changent, j’aimerais qu’on me prévienne à l’avance.",
+       "Cela m’aide quand personne ne fait de remarque ni de plaisanterie devant d’autres personnes quand je vérifie quelque chose ou que je me lave les mains.",
+       "Je préfère recevoir les explications et les consignes une par une, par écrit.",
+       "Avant que nous décidions de la suite, j’aimerais qu’on écoute d’abord mes inquiétudes et que nous en parlions calmement."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Des difficultés qui durent après un événement pénible",
+      "lead": "Des souvenirs qui reviennent, un sommeil difficile ou une tension qui ne retombe pas après un événement pénible.",
+      "scenes": [
+       "Un petit détail suffit pour que la scène et ce que j’ai ressenti à ce moment-là me reviennent d’un coup.",
+       "Je fais souvent le même genre de cauchemar et, beaucoup de nuits, je n’arrive pas à dormir profondément.",
+       "Je suis tout le temps sur le qui-vive, et le moindre bruit ou imprévu me fait sursauter.",
+       "J’évite autant que je le peux les lieux, les personnes et les sujets qui me rappellent ce moment, et je fais de moins en moins de choses.",
+       "J’ai l’impression que mes émotions se sont éteintes, et je n’arrive plus à ressentir pour ma famille et mes amis ce que je ressentais avant.",
+       "Je me reproche de plus en plus de choses, ou j’ai plus de mal à faire confiance aux personnes autour de moi."
+      ],
+      "asks": [
+       "Cela m’aide quand on ne me demande pas de raconter en détail ce qui s’est passé. J’en parle à mon rythme, en disant seulement ce que je peux.",
+       "Certains bruits, lieux ou sujets me ramènent à ce moment. Cela m’aide quand on accepte que je préfère les éviter.",
+       "Cela m’aide quand on ne m’interpelle pas brusquement par derrière et quand on ne fait pas de bruit fort près de moi.",
+       "Quand parler est trop difficile, je préfère remettre un texte que j’ai écrit. Cela m’aide quand c’est permis.",
+       "Certains jours, je dors mal ou la fatigue ne passe pas. Cela m’aide quand on n’y voit pas de la paresse.",
+       "Cela m’aide quand on ne me presse pas avec des phrases comme « Essaie d’oublier » ou « Passe à autre chose », et quand il existe un endroit où je peux parler au calme."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trouble de stress post-traumatique",
+        "why": "Cette page explique qu’après un événement traumatique, comme un accident de la route, une maladie grave, un décès brutal ou une agression, des souffrances psychiques peuvent apparaître, par exemple un trouble de stress post-traumatique.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Consultation de psychotraumatologie - TRAUMACARE",
+         "url": "https://www.hug.ch/psychiatrie-liaison-intervention-crise/consultation-psychotraumatologie-traumacare",
+         "kind": "fact",
+         "upd": "2025-10-13"
+        }
+       },
+       {
+        "name": "Maladies liées au stress (par ex. burn-out, troubles de l’adaptation)",
+        "why": "Cette page (en allemand) explique que des événements de vie éprouvants peuvent provoquer de l’angoisse, de la tristesse, de la tension ou un sentiment d’impuissance ; le burn-out et les troubles de l’adaptation font partie des maladies liées au stress.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Stressassoziierte Erkrankungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/stressassoziierte-erkrankungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Difficultés de sommeil",
+      "lead": "Du mal à s’endormir, des réveils la nuit, du mal à se lever le matin, ou une forte envie de dormir dans la journée.",
+      "scenes": [
+       "Même une fois au lit, je n’arrive pas à m’endormir.",
+       "Je me réveille plusieurs fois dans la nuit et je ne dors jamais d’une traite jusqu’au matin.",
+       "Le matin, je n’arrive pas à me lever à l’heure, et je suis souvent en retard au travail, à l’école ou en formation.",
+       "Dans la journée, j’ai de fortes envies de dormir et je manque de m’endormir en réunion ou au volant.",
+       "Mes proches me disent que je ronfle fort et que ma respiration semble s’arrêter pendant mon sommeil.",
+       "Le soir et la nuit, j’ai des sensations désagréables dans les jambes, je ne tiens pas en place et je n’arrive pas à dormir."
+      ],
+      "asks": [
+       "Cela m’aide quand on prend le temps de me demander comment je dors : l’endormissement, les réveils la nuit, la difficulté à me lever le matin et la somnolence dans la journée.",
+       "Cela m’aide quand nous cherchons ensemble ce qui peut jouer un rôle, y compris les médicaments que je prends et mes habitudes avec le café, l’alcool et le tabac.",
+       "Cela m’aide quand on ne dit pas tout de suite que « c’est dans la tête » et quand on regarde aussi ma santé physique et mon moral.",
+       "J’aimerais montrer sur une feuille à quelle heure je me couche et me lève. Cela m’aide quand quelqu’un la regarde.",
+       "Si un médicament est proposé, cela m’aide quand on m’explique simplement comment il agit et à quoi je dois faire attention.",
+       "Les matins sont difficiles pour moi. Cela m’aide quand un rendez-vous peut avoir lieu l’après-midi ou en fin de journée."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Apnées obstructives du sommeil",
+        "why": "Cette page (en allemand) explique que, dans cette forme, les voies respiratoires dans la gorge se rétrécissent ou se ferment complètement à plusieurs reprises pendant le sommeil.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-bezogene Atmungsstörungen und Schlafapnoe",
+         "url": "https://www.usz.ch/krankheit/obstruktives-schlaf-apnoe-syndrom/",
+         "kind": "fact",
+         "upd": "2026-05-27"
+        }
+       },
+       {
+        "name": "Café, alcool, nicotine ou médicaments",
+        "why": "Cette page (en allemand) explique que des facteurs extérieurs peuvent perturber le sommeil, par exemple le bruit et la lumière, mais aussi le café, l’alcool, la nicotine, des médicaments ou des drogues.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Cette page explique que l’insomnie, c’est avoir du mal à s’endormir ou à rester endormi, avec en plus des difficultés pendant la journée, comme la fatigue, des problèmes de concentration et de mémoire ou de l’irritabilité.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Syndrome des jambes sans repos",
+        "why": "Cette page explique que ce syndrome donne des sensations désagréables dans les jambes, surtout le soir et au repos, et qu’il faut bouger pour les calmer.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Le syndrome des jambes sans repos",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/syndrome-jambes-sans-repos",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Narcolepsie",
+        "why": "Cette page explique que des accès de sommeil impossibles à retenir, plusieurs fois dans la journée, sont une somnolence à faire examiner et peuvent venir d’une narcolepsie.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Les hypersomnies et narcolepsies",
+         "url": "https://www.hug.ch/centre-medecine-sommeil/hypersomnies-narcolepsies",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Troubles veille-sommeil",
+        "why": "Cette page (en allemand) explique que, dans les troubles veille-sommeil, il ne s’agit pas seulement de la durée du sommeil, mais aussi de son déroulement et de l’état pendant la journée.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-Wach-Störungen",
+         "url": "https://www.usz.ch/krankheit/schlaf-wach-stoerungen/",
+         "kind": "fact",
+         "upd": "2025-11-14"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Difficultés avec l’alimentation",
+      "lead": "Quand manger est difficile : vous ne pouvez pas manger beaucoup, vous ne pouvez pas vous arrêter, ou manger vous fait peur.",
+      "scenes": [
+       "Je n’ai pas envie de manger, et la nourriture a du mal à passer.",
+       "Une fois que je commence à manger, je n’arrive plus à m’arrêter, et il m’arrive de manger jusqu’à avoir mal.",
+       "Sans m’en rendre compte, je ne pense plus qu’à la nourriture, et j’ai du mal à me concentrer sur autre chose.",
+       "Je ne peux manger que peu d’aliments, et j’en évite beaucoup à cause de leur goût, de leur odeur ou de leur texture.",
+       "Après avoir failli m’étouffer avec un aliment, ou après avoir vomi, j’ai commencé à avoir peur de manger.",
+       "La nuit, il m’arrive de manger dans un demi-sommeil, et le matin je ne m’en souviens pas."
+      ],
+      "asks": [
+       "Cela m’aide quand personne ne fait de remarque sur mon corps ou mon apparence.",
+       "Cela m’aide quand on ne me force pas à manger et qu’on ne me presse pas.",
+       "Quand on mange ensemble, cela m’aide de pouvoir choisir un autre endroit ou un autre moment.",
+       "J’apprécie qu’on me demande d’abord ce que je peux manger et quelles odeurs ou textures me sont difficiles.",
+       "Cela m’aide quand on m’explique à l’avance ce qui va se passer pendant un examen médical ou lors du rendez-vous.",
+       "Ce qui est difficile à dire à voix haute, je préfère le remettre par écrit. Cela m’aide quand c’est permis."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Troubles des conduites alimentaires",
+        "why": "Cette page (en allemand) explique que, dans un trouble des conduites alimentaires, le rapport à la nourriture et à son propre corps est déséquilibré ; les formes les plus fréquentes sont la boulimie, l’anorexie et l’hyperphagie boulimique.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Essstörungen",
+         "url": "https://www.usz.ch/krankheit/essstoerungen/",
+         "kind": "fact",
+         "upd": "2024-11-08"
+        }
+       },
+       {
+        "name": "Anorexie",
+        "why": "Cette page (en allemand) explique que les personnes qui ont une anorexie pèsent trop peu, mais se trouvent souvent quand même trop lourdes et veulent encore perdre du poids.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Magersucht",
+         "url": "https://www.usz.ch/krankheit/magersucht/",
+         "kind": "fact",
+         "upd": "2025-10-01"
+        }
+       },
+       {
+        "name": "Boulimie",
+        "why": "Cette page (en allemand) explique que, dans la boulimie, des crises de faim et des accès où l’on mange beaucoup reviennent souvent, puis la personne cherche à éviter de prendre du poids.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Bulimie",
+         "url": "https://www.usz.ch/krankheit/bulimie/",
+         "kind": "fact",
+         "upd": "2025-01-06"
+        }
+       },
+       {
+        "name": "Hyperphagie boulimique (binge eating)",
+        "why": "Cette page (en allemand) explique que, dans ce trouble, on mange à répétition beaucoup en peu de temps, sans pouvoir s’arrêter, et on ressent souvent ensuite de la honte et de la colère.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Binge Eating Störung",
+         "url": "https://www.usz.ch/krankheit/binge-eating-stoerung/",
+         "kind": "fact",
+         "upd": "2026-03-12"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Difficile d’arrêter l’alcool, les jeux d’argent ou les jeux vidéo",
+      "lead": "Quand vous voulez arrêter ou réduire, mais que vous continuez quand même.",
+      "scenes": [
+       "J’ai décidé d’arrêter ou de réduire, mais je me rends compte que je continue quand même.",
+       "Je n’arrive pas à m’en tenir au temps, à la quantité ou à l’argent que je m’étais fixés pour la journée.",
+       "Il m’arrive de cacher à mes proches ce que je bois, mes jeux vidéo ou mes jeux d’argent, ou d’arranger la vérité.",
+       "Je joue souvent aux jeux vidéo tard dans la nuit, j’ai du mal à me lever le matin, et les retards ou les absences au travail ou à l’école se multiplient.",
+       "Quand je perds, je veux absolument récupérer l’argent perdu, alors je mise de nouveau, par exemple aux machines à sous ou sur des paris sportifs.",
+       "Même en sachant que ce n’est pas bon pour mon corps, je n’arrive pas à boire moins."
+      ],
+      "asks": [
+       "J’aimerais que vous m’écoutiez d’abord, sans me faire de reproches ni me juger.",
+       "J’aimerais faire le point avec vous, étape par étape, sur mes habitudes et sur les difficultés qu’elles me causent.",
+       "J’aimerais que vous regardiez aussi mon sommeil et ma santé physique.",
+       "J’aimerais savoir concrètement où demander de l’aide et où je peux me rendre.",
+       "J’aimerais savoir si un membre de ma famille ou un proche peut venir en parler avec moi.",
+       "J’aimerais savoir, avant de commencer, à qui vous transmettrez ce que je vous confie, et jusqu’où."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dépendance à l’alcool",
+        "why": "Cette page explique qu’une dépendance à l’alcool se voit par exemple à un fort besoin de boire et à une perte de contrôle sur la quantité bue.",
+        "src": {
+         "org": "Office fédéral de la santé publique (OFSP)",
+         "title": "Consommation problématique d’alcool",
+         "url": "https://www.bag.admin.ch/fr/consommation-problematique-dalcool",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trouble du jeu d’argent",
+        "why": "Cette page explique que les jeux d’argent peuvent rendre dépendant.",
+        "src": {
+         "org": "Office fédéral de la santé publique (OFSP)",
+         "title": "Addictions comportementales",
+         "url": "https://www.bag.admin.ch/fr/addictions-comportementales",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trouble du jeu vidéo",
+        "why": "Cette page explique que les jeux vidéo peuvent aussi rendre dépendant.",
+        "src": {
+         "org": "Office fédéral de la santé publique (OFSP)",
+         "title": "Addictions comportementales",
+         "url": "https://www.bag.admin.ch/fr/addictions-comportementales",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chsafezone",
+       "chspiel"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Difficultés d’attention et d’organisation",
+      "lead": "Du mal à se concentrer, à avancer étape par étape, ou à se souvenir des choses.",
+      "scenes": [
+       "Même quand quelqu’un me parle, mon esprit part ailleurs sans que je m’en rende compte.",
+       "Je n’arrive pas à mener mon travail, mon apprentissage ou les tâches ménagères dans l’ordre, et je dépasse les délais.",
+       "Il m’arrive souvent d’oublier ce qu’on m’a demandé ou ce que j’ai promis, ou de perdre mes affaires.",
+       "Quand je fais longtemps la même tâche, les erreurs d’inattention se multiplient.",
+       "Quand je dois rester longtemps sans bouger, par exemple en réunion ou dans le train, je m’agite et je ne tiens pas en place.",
+       "Mon entourage me dit que j’oublie souvent des choses ou que je suis souvent en retard."
+      ],
+      "asks": [
+       "Cela m’aiderait que les consignes me soient données une par une.",
+       "J’aimerais que les informations importantes soient écrites et qu’on me les remette.",
+       "J’aimerais connaître les délais et les rendez-vous assez tôt.",
+       "Cela m’aiderait de ne pas recevoir trop de choses à la fois, et que les tâches soient découpées en petites étapes.",
+       "J’aimerais parler dans un endroit calme, où il y a peu de distractions.",
+       "Plutôt que de me reprocher ce que je n’ai pas réussi, j’aimerais que vous reconnaissiez ce que j’ai réussi à faire."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Troubles liés à la ménopause",
+        "why": "Cette page explique qu’autour de la ménopause peuvent apparaître des difficultés à se concentrer et des pertes de mémoire, en plus d’un sommeil de moins bonne qualité.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Mieux vivre votre ménopause",
+         "url": "https://www.hug.ch/gynecologie/menopause",
+         "kind": "fact",
+         "upd": "2026-08-19"
+        }
+       },
+       {
+        "name": "Insomnie",
+        "why": "Cette page explique qu’avec une insomnie, la journée peut aussi devenir difficile : fatigue, problèmes de concentration et de mémoire, irritabilité.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Dépression",
+        "why": "Cette page explique que, dans une dépression, il peut aussi y avoir des difficultés de concentration et de mémoire, des troubles du sommeil et un manque d’énergie.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Dépression unipolaire",
+         "url": "https://www.hug.ch/specialites-psychiatriques/depression-unipolaire",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       },
+       {
+        "name": "TDA-H (trouble déficit de l’attention-hyperactivité)",
+        "why": "Cette page explique que le TDA-H concerne aussi les adultes : on peut avoir du mal à garder son attention, être très agité ou avoir du mal à gérer ses émotions, ce qui peut peser sur le travail, les études, la vie sociale et la famille.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Prise en charge du trouble déficit d’attention-hyperactivité (TDA-H) chez l’adulte",
+         "url": "https://www.hug.ch/specialites-psychiatriques/prise-charge-trouble-deficit-attention-hyperactivite-tda-h-chez-adulte",
+         "kind": "fact",
+         "upd": "2025-08-26"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chiv",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Difficultés avec les autres, habitudes fixes et sensations",
+      "lead": "Des difficultés à parler ou à être avec les autres, un fort besoin de faire les choses d’une certaine façon, ou des sons, des lumières et des odeurs difficiles à supporter.",
+      "scenes": [
+       "Dans une conversation, j’ai du mal à saisir ce que ressent l’autre ou l’ambiance du moment, et j’ai l’impression qu’on ne se comprend pas.",
+       "Quand je dois parler devant des gens ou que les regards se tournent vers moi, la tension est très forte et j’évite ces situations.",
+       "J’arrive à parler avec mes proches, mais devant d’autres personnes, ma voix ne sort plus.",
+       "Quand ma façon de faire, l’ordre des étapes ou la place des objets changent, cela m’angoisse beaucoup.",
+       "Les bruits, les lumières ou les odeurs me paraissent très forts, et les endroits où il y a beaucoup de monde, comme le train ou un restaurant, sont pénibles pour moi.",
+       "J’ai du mal à entendre ce que disent les gens, ou j’ai le moral bas, et voir les autres ou leur parler est devenu difficile."
+      ],
+      "asks": [
+       "J’aimerais qu’on me parle lentement et clairement.",
+       "J’aimerais qu’on m’écrive les choses importantes.",
+       "J’aimerais parler dans un endroit calme.",
+       "Si le programme ou la façon de faire change, j’aimerais qu’on me prévienne à l’avance.",
+       "J’aimerais avoir le temps de répondre, sans qu’on me presse.",
+       "J’aimerais pouvoir répondre par écrit ou avec un petit mot, au lieu de parler."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiété sociale (phobie sociale)",
+        "why": "Cette page explique que l’anxiété sociale, c’est avoir très peur ou être très mal à l’aise quand on se retrouve au centre de l’attention dans certaines situations avec d’autres personnes.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Érythrophobie (peur de rougir)",
+        "why": "Cette page (en allemand) explique que les personnes qui ont peur de rougir peuvent rougir pour de petites choses, par exemple quand quelqu’un leur adresse la parole, et avoir beaucoup de mal à parler devant un public.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Erythrophobie",
+         "url": "https://www.usz.ch/krankheit/erythrophobie/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Trouble du spectre de l’autisme",
+        "why": "Cette page (en allemand) explique que ce nom recouvre des difficultés dans le contact avec les autres et dans la communication, ainsi que des comportements qui se répètent. Ce nom est parfois donné seulement à l’âge adulte.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Autismus-Spektrum-Störung (ASS)",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/autismus-spektrum-stoerung-ass/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chwork",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Difficultés pour lire, écrire ou calculer",
+      "lead": "Quand lire, écrire ou manier les chiffres reste difficile malgré les efforts.",
+      "scenes": [
+       "Je mets plus de temps que les autres à lire un texte, et je dois souvent le relire.",
+       "Même après avoir lu, le contenu ne me rentre pas dans la tête, et j’ai du mal à comprendre ce qui est écrit dans des documents, des formulaires ou des courriers de l’administration.",
+       "J’ai du mal avec l’orthographe : je fais beaucoup de fautes, ou j’oublie des lettres ou des mots en écrivant.",
+       "Mon écriture est irrégulière, et écrire me demande beaucoup de temps et d’effort.",
+       "Je bloque sur des calculs simples et sur les problèmes de calcul présentés sous forme de phrases.",
+       "Je peux parler et écouter sans difficulté, mais pour lire, écrire ou calculer, je n’avance pas comme je le voudrais, même en prenant beaucoup de temps."
+      ],
+      "asks": [
+       "J’aimerais que les textes me soient présentés en grands caractères, avec des lignes bien espacées, et que les choses importantes me soient expliquées avec des mots simples.",
+       "J’aimerais que les informations importantes me soient lues à voix haute ou dites à l’oral.",
+       "J’aimerais pouvoir taper sur un ordinateur ou un téléphone, ou garder une trace en photo ou en enregistrement audio, au lieu d’écrire à la main.",
+       "J’aimerais pouvoir utiliser une calculatrice pour les calculs.",
+       "J’aimerais avoir plus de temps pour lire, écrire et calculer.",
+       "J’aimerais recevoir moins de choses à la fois, une par une."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandes variations d’humeur",
+      "lead": "Quand l’humeur monte et descend beaucoup et que vos sentiments ont du mal à suivre.",
+      "scenes": [
+       "Des périodes où j’ai beaucoup trop d’énergie alternent avec des périodes où mon moral est si bas que je n’arrive plus à bouger.",
+       "Il y a des périodes où je dors à peine, mais où j’ai beaucoup d’énergie et je bouge sans arrêt.",
+       "Les idées me viennent les unes après les autres, et tout reste à moitié fait.",
+       "Il m’est arrivé, en me sentant capable de tout, de dépenser tellement d’argent que j’ai eu des difficultés ensuite.",
+       "Je m’irrite pour un rien, et j’ai du mal à contenir ce que je ressens.",
+       "Des choses que j’ai faites quand mon humeur était très haute ont eu des conséquences sur mes relations ou sur mon travail."
+      ],
+      "asks": [
+       "J’aimerais que vous me posiez aussi des questions sur les périodes où j’allais très bien, avec une énergie inhabituelle.",
+       "J’aimerais prendre le temps de revoir avec vous mes hauts et mes bas.",
+       "Avant une grande décision d’argent ou de travail, j’aimerais qu’on m’aide à m’arrêter et à réfléchir d’abord.",
+       "J’aimerais que l’on vérifie aussi les causes physiques, y compris le sommeil, les médicaments et l’alcool.",
+       "Si je ne suis pas comme d’habitude, j’aimerais qu’on me le dise sans me faire de reproches.",
+       "J’aimerais que l’on m’écoute jusqu’au bout, dans les périodes hautes comme dans les périodes basses."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Syndrome prémenstruel et trouble dysphorique prémenstruel",
+        "why": "Cette page (en allemand) explique qu’avant les règles, des troubles physiques et psychiques peuvent apparaître, souvent avec de plus fortes variations d’humeur, et qu’ils peuvent nettement gêner la vie de tous les jours.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://www.usz.ch/krankheit/praemenstruelles-syndrom-pms/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Troubles liés à la ménopause",
+        "why": "Cette page explique qu’autour de la ménopause peuvent apparaître un manque d’énergie, une humeur dépressive et de l’irritabilité.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Mieux vivre votre ménopause",
+         "url": "https://www.hug.ch/gynecologie/menopause",
+         "kind": "fact",
+         "upd": "2026-08-19"
+        }
+       },
+       {
+        "name": "Trouble bipolaire",
+        "why": "Cette page explique que, dans un trouble bipolaire, l’humeur passe par des phases très hautes et des phases dépressives ; dans les phases hautes, on a moins besoin de sommeil et on peut se lancer dans beaucoup d’activités.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Troubles bipolaires",
+         "url": "https://www.hug.ch/specialites-psychiatriques/troubles-bipolaires",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Connaître un nom peut faire ressembler les variations ordinaires à des symptômes",
+       "body": "Quand on apprend le nom d’une maladie ou d’un trouble du développement, une petite fatigue ou un moment d’inattention peuvent plus facilement ressembler à un symptôme.\n\nLes émotions peuvent vraiment changer ce que l’on ressent dans son corps et dans son humeur : ce n’est pas une idée que l’on se fait, cela arrive réellement. Le manque de sommeil, le stress, le téléphone ou ce qui se passe autour de soi peuvent aussi produire des effets semblables.\n\nSi, en voyant un nom, vous pensez « c’est peut-être ça », ne vous arrêtez pas tout de suite à cette idée, et pensez aussi à d’autres raisons. Si les difficultés durent, vous pouvez en parler telles qu’elles sont, même sans nom.",
+       "srcs": []
+      },
+      {
+       "h": "La santé mentale peut changer",
+       "body": "La santé mentale n’est pas un état figé ; elle peut changer au cours de la vie.\n\nCe sont des professionnels, par exemple des médecins, qui donnent un nom. Ils regardent aussi à quel point les difficultés sont fortes, si elles durent et à quel point elles gênent la vie de tous les jours.\n\nSi les difficultés continuent, vous pouvez en parler telles qu’elles sont, quel que soit le nom.",
+       "srcs": [
+        {
+         "org": "Office fédéral de la santé publique (OFSP)",
+         "title": "Psychische Gesundheit",
+         "url": "https://www.bag.admin.ch/de/psychische-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/troubles-anxieux",
+         "kind": "fact",
+         "upd": "2025-05-05"
+        }
+       ]
+      },
+      {
+       "h": "Même sans nom de maladie, vous pouvez parler de vos difficultés",
+       "body": "La Main Tendue est joignable au 143 par téléphone 24 heures sur 24 ; il y a aussi le courriel et le chat.\n\nSi votre place de travail est menacée pour des raisons de santé, l’office AI de votre canton peut, à votre demande, vous conseiller sur les questions liées à votre travail, avant même une demande de prestations.\n\nPour une compensation des désavantages à l’examen suisse de maturité, la demande doit être accompagnée d’un rapport d’expertise médicale ou psychologique comportant un diagnostic récent.\n\nCe que vous aimeriez demander et ce qui peut se faire dépend de chaque situation et se décide en discutant.",
+       "srcs": [
+        {
+         "org": "Office fédéral de la santé publique (OFSP)",
+         "title": "Offres d’aide pour la santé mentale",
+         "url": "https://www.bag.admin.ch/fr/offres-daide-sante-mentale",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Confédération suisse (Fedlex)",
+         "title": "Loi fédérale sur l’assurance-invalidité (LAI), art. 3a",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/fr/html/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-fr-html-8.html",
+         "kind": "fact",
+         "upd": "2026-01-01"
+        },
+        {
+         "org": "Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)",
+         "title": "Compensation des désavantages dans le cadre des examens organisés par la Commission suisse de maturité CSM",
+         "url": "https://www.sbfi.admin.ch/fr/compensation-des-desavantages",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Certaines démarches demandent des documents médicaux",
+       "body": "L’assurance de base peut rembourser des séances chez une ou un psychologue qui exerce à sa charge s’il y a une maladie et une prescription médicale.\n\nDans un rapport de travail de droit privé, une personne qui ne peut pas travailler doit le prouver avec un certificat médical si l’employeur le demande ; ce certificat ne devrait pas contenir de diagnostic.\n\nSi vous demandez des prestations à une assurance sociale comme l’AI, celle-ci peut exiger des examens médicaux ou spécialisés, pour autant qu’ils soient nécessaires et raisonnablement exigibles.\n\nRenseignez-vous à l’avance auprès du service compétent sur les documents dont vous avez besoin.",
+       "srcs": [
+        {
+         "org": "Office fédéral de la santé publique (OFSP)",
+         "title": "Nouvelle réglementation de la psychothérapie pratiquée par des psychologues à partir du 1er juillet 2022",
+         "url": "https://www.bag.admin.ch/fr/nouvelle-reglementation-de-la-psychotherapie-pratiquee-par-des-psychologues-a-partir-du-1er-juillet-2022",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secrétariat d’État à l’économie (SECO)",
+         "title": "Empêchement de travailler",
+         "url": "https://www.seco.admin.ch/fr/faq-empechement-de-travailler",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Confédération suisse (Fedlex)",
+         "title": "Loi fédérale sur la partie générale du droit des assurances sociales (LPGA), art. 43",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20240101/fr/html/fedlex-data-admin-ch-eli-cc-2002-510-20240101-fr-html-4.html",
+         "kind": "fact",
+         "upd": "2024-01-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Un nom de maladie n’est pas un outil pour se placer au-dessus des autres",
+       "body": "Un nom de maladie n’est pas un outil pour se placer au-dessus de quelqu’un, ni pour regarder les autres de haut.\nCertaines personnes se sentent plus légères quand elles apprennent un nom pour ce qu’elles vivent. C’est important.\nVouloir que les gens autour de soi comprennent, ou soient plus doux avec soi, c’est naturel aussi.\n\nQuand vous souhaitez que quelqu’un soit plus doux avec vous, vous pouvez le demander directement, sans donner de nom de maladie.\nC’est plus facile à comprendre si vous dites ensemble deux choses : ce qui vous met en difficulté, et ce que vous aimeriez que l’autre fasse.\n\nPar exemple, vous pouvez dire :\n« Aujourd’hui, j’ai peu d’énergie. Cela m’aiderait que l’on me parle lentement. »\n« Quand on me dit beaucoup de choses à la fois, je m’y perds. Cela m’aiderait qu’on me les dise une par une. »\n« J’ai du mal à retenir ce que j’entends seulement. Cela m’aiderait que les choses importantes soient écrites, sur papier ou par e-mail. »\n« Les endroits où il y a beaucoup de monde sont difficiles pour moi. Je préfère parler dans un endroit calme. »\n« J’ai besoin d’un peu de temps pour répondre. Cela m’aiderait qu’on m’attende un moment. »\n« En ce moment, mes émotions prennent toute la place. Cela m’aiderait que l’on m’écoute d’abord. Les conseils peuvent attendre. »\n« Aujourd’hui, je ne me sens pas bien. Cela m’aiderait de pouvoir me reposer un peu. »\n« Les changements de programme soudains me déstabilisent. Cela m’aiderait qu’on me prévienne dès qu’on le sait. »\n« Quand on me parle fort, j’ai peur. Cela m’aiderait qu’on me parle calmement. »\n\nSi c’est difficile à dire, vous pouvez l’écrire sur un papier et le donner. Vous pouvez aussi montrer l’écran « Mes difficultés » avec le bouton « Afficher en grand » : il apparaît dans cette application quand vous choisissez une difficulté et répondez aux questions.\nSi vous souhaitez dire un nom de maladie qui vous concerne, vous pouvez le faire. Dans ce cas aussi, dire en même temps ce qui vous met en difficulté et ce que vous aimeriez que l’autre fasse l’aide à agir.\nParfois, l’autre personne ne peut pas faire ce que vous demandez, à cause de sa propre situation. Dans ce cas, essayez de chercher ensemble s’il existe une autre façon de faire.\n\nSi vous souhaitez, au travail ou pendant vos études, un aménagement formel, renseignez-vous auprès du service compétent sur ce qu’il vous faut pour cela. Des documents médicaux peuvent être demandés.\n\nLa liste des noms de cette application n’est pas faite pour mettre en doute les personnes autour de vous.",
+       "srcs": []
+      },
+      {
+       "h": "À propos de cette application",
+       "body": "Ceci n’est pas un diagnostic. Cette liste ne dit pas si vous avez une maladie ou un trouble. Cette application n’est pas un dispositif médical et ne remplace pas une consultation avec un professionnel de santé.\n\nVos réponses ne sont envoyées nulle part et ne sont pas enregistrées sur cet appareil. Elles disparaissent quand vous fermez l’application.\n\nApplication indépendante. SOYOGI est un groupe bénévole à but non lucratif du Japon. SOYOGI n’a aucun lien avec la Confédération, les offices fédéraux comme l’Office fédéral de la santé publique (OFSP), Swissmedic, les cantons, les hôpitaux ou d’autres institutions de santé en Suisse, et aucun d’eux ne recommande ni ne soutient l’application. Les noms des organismes indiquent seulement d’où vient l’information.\n\nSOYOGI a rédigé ces textes avec ses propres mots à partir de pages publiques de Suisse. Les sources figurent sur chaque écran, avec la date affichée par la page lorsqu’elle en affiche une. Consulté le 20 novembre 2026. Les numéros et les horaires peuvent changer. Les horaires sont ceux indiqués par chaque service, en heure suisse.\n\nC’est vous, et non l’application, qui décidez de demander de l’aide ou non.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Si l’épuisement, les problèmes de sommeil, le repli sur soi ou l’abattement ne passent pas, prenez-les au sérieux. Plus vous cherchez du soutien tôt, plus il est facile de traverser une crise.",
+      "src": {
+       "org": "Office fédéral de la santé publique (OFSP)",
+       "title": "Que faire pour la santé mentale ?",
+       "url": "https://www.bag.admin.ch/fr/que-faire-pour-la-sante-mentale",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Médecin de famille : Avec des difficultés d’attention, de contact avec les autres ou de lecture, d’écriture et de calcul, vous pouvez d’abord en parler à votre médecin de famille.",
+       "src": {
+        "org": "Office fédéral de la santé publique (OFSP)",
+        "title": "Souffrance psychique ? Conseils et informations utiles relatives à la psychothérapie",
+        "url": "https://www.bag.admin.ch/dam/fr/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+        "kind": "fact",
+        "upd": "2023-03"
+       }
+      },
+      {
+       "text": "Au travail : En cas de menace d’incapacité de travail pour des raisons de santé, vous pouvez vous adresser à l’office AI de votre canton, déjà avant une demande AI.",
+       "src": {
+        "org": "Office fédéral des assurances sociales (OFAS)",
+        "title": "Détection et l’intervention précoces",
+        "url": "https://www.bsv.admin.ch/fr/detection-intervention-precoces",
+        "kind": "fact",
+        "upd": "2025-09-04"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Comment un nom (un diagnostic) est donné, en bref :",
+      "text": "Par exemple pour l’anxiété : on parle de trouble anxieux quand la peur ou l’anxiété deviennent excessives, durent et gênent beaucoup la vie de tous les jours.",
+      "src": {
+       "org": "Hôpitaux universitaires de Genève (HUG)",
+       "title": "Troubles anxieux",
+       "url": "https://www.hug.ch/specialites-psychiatriques/troubles-anxieux",
+       "kind": "fact",
+       "upd": "2025-05-05"
+      }
+     },
+     "fewNote": "Seuls quelques noms ont pu être confirmés sur des pages publiques de santé.",
+     "noNames": "Nous n’avons pas pu confirmer de noms pour ce groupe sur des pages publiques de santé ; aucune liste de noms n’est donc affichée ici. Vous pouvez quand même trouver où demander de l’aide dans cette application."
+    }
+   },
+   "it": {
+    "groups": {
+     "mood": {
+      "label": "Umore giù, senza energie",
+      "lead": "L’umore resta giù a lungo e manca l’energia per fare qualsiasi cosa.",
+      "scenes": [
+       "Mi sento giù dalla mattina alla sera.",
+       "Anche le cose che prima mi piacevano non mi danno più piacere.",
+       "Non ho energie e non riesco a concentrarmi, così il lavoro e le faccende di casa restano indietro.",
+       "Mi do la colpa di tutto e vedo ogni cosa dal lato peggiore.",
+       "Di notte non riesco a dormire, oppure dormo troppo. Ho poco appetito e il corpo è pesante.",
+       "A volte vorrei sparire, o non esserci più."
+      ],
+      "asks": [
+       "Mi aiuta se le cose da fare mi vengono spiegate una alla volta.",
+       "Ho bisogno di tempo per pensare: mi aiuta se non c’è fretta di rispondere o di decidere.",
+       "Mi aiuta avere per iscritto le cose importanti.",
+       "Prima di sentirmi dire «Forza!», mi aiuta se qualcuno mi ascolta.",
+       "Mi aiuta se il riposo non viene scambiato per pigrizia.",
+       "Mi aiuta controllare insieme se c’entrano anche una malattia fisica o un farmaco che sto prendendo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipotiroidismo",
+        "why": "Questa pagina spiega che, quando la tiroide funziona troppo poco, il metabolismo rallenta e possono comparire stanchezza e mancanza di energia.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbi del sonno (insonnia)",
+        "why": "Questa pagina spiega che i problemi di sonno possono portare a uno stato depressivo, a volte fino a una depressione.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Sindrome delle apnee ostruttive del sonno",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/s/sindrome-delle-apnee-ostruttive-del-sonno.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Depressione",
+        "why": "Questa pagina spiega che nella depressione sono frequenti l’umore depresso, i pensieri negativi, il rimuginare e i problemi di sonno.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbi depressivi",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbi-depressivi.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbo bipolare",
+        "why": "Questa pagina (in francese) spiega che nel disturbo bipolare si alternano periodi di umore molto alto e periodi di depressione, con anche periodi stabili.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Troubles bipolaires",
+         "url": "https://www.hug.ch/specialites-psychiatriques/troubles-bipolaires",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Molta preoccupazione o tensione",
+      "lead": "La preoccupazione non si ferma, oppure arrivano batticuore e agitazione, oppure è difficile stare tra la gente o uscire di casa.",
+      "scenes": [
+       "Quando devo parlare davanti agli altri o ho gli occhi di tutti addosso, ho tanta ansia che la mente si svuota.",
+       "All’improvviso il cuore batte forte e mi manca il respiro. Ho paura che succeda di nuovo, e uscire di casa diventa difficile.",
+       "Mi preoccupo di una cosa dopo l’altra, anche senza un motivo preciso. Ho addosso un’agitazione che alla fine mi sfinisce.",
+       "Faccio fatica sui mezzi pubblici (tram, autobus o treno), nei centri commerciali o nei luoghi affollati e a uscire senza nessuno: sono situazioni da cui è difficile andare via, e le evito.",
+       "Evitando ciò che mi mette ansia, vado in sempre meno posti e vedo sempre meno persone: la mia vita si sta restringendo.",
+       "Le preoccupazioni non mi lasciano in pace e di notte non riesco ad addormentarmi."
+      ],
+      "asks": [
+       "Mi aiuta se mi si lascia il tempo di parlare, senza fretta.",
+       "Mi aiuta sapere in anticipo il programma e come si svolgerà l’incontro.",
+       "Preferisco che non mi si chieda all’improvviso un’opinione davanti agli altri; mi aiuta poter rispondere anche per iscritto.",
+       "Se sto male, mi aiuta poter uscire un momento e riposarmi.",
+       "Preferisco parlare in un posto tranquillo e con poche persone.",
+       "Prima di sentirmi dire che mi preoccupo troppo, mi aiuta se qualcuno ascolta che cosa mi mette in difficoltà."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Ipertiroidismo",
+        "why": "Questa pagina spiega che una tiroide troppo attiva può dare, tra l’altro, nervosismo, insonnia, perdita di peso e diarrea.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Ipertiroidismo",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/i/ipertiroidismo.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbi d’ansia",
+        "why": "Questa pagina spiega che si parla di disturbo d’ansia quando la paura diventa troppo forte e intralcia la vita di tutti i giorni.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbi d'ansia",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbi-d-ansia.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbo d’ansia generalizzato",
+        "why": "Questa pagina (in francese) spiega che nell’ansia generalizzata ci si preoccupa di tutto, in modo eccessivo, anche per i problemi della vita di ogni giorno.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Disturbo post-traumatico da stress",
+        "why": "Questa pagina spiega che dopo un evento molto pesante possono comparire, subito o anche a distanza di anni, il rivivere l’accaduto, uno stato di forte allerta del corpo e l’evitare certe situazioni.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbo post traumatico da stress",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbo-posttraumatico-da-stress.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Faccio fatica a smettere di controllare o di ripetere",
+      "lead": "Controllare più volte la porta o il gas, lavarsi spesso le mani: si ripetono le stesse cose e smettere è difficile, anche quando lo si vorrebbe.",
+      "scenes": [
+       "Prima di uscire devo controllare più e più volte la porta di casa e il gas; se non lo faccio, non riesco ad andare via con serenità.",
+       "Mi lavo le mani o il corpo sempre più spesso e, anche se vorrei smettere, non ci riesco.",
+       "La stessa preoccupazione mi torna in mente più volte e non riesco a smettere di pensarci, anche se lo vorrei.",
+       "Se le cose non sono sistemate o fatte nell’ordine che ho stabilito, mi agito e finisco per risistemarle o per ricominciare da capo.",
+       "Controllare mi porta via così tanto tempo che esco più tardi del previsto o arrivo in ritardo agli appuntamenti e al lavoro.",
+       "Il corpo si muove o mi escono dei suoni senza volerlo, e anche se provo a fermarmi è difficile."
+      ],
+      "asks": [
+       "Prima di sentirmi dire che sto esagerando, mi aiuta se qualcuno mi ascolta.",
+       "Controllare mi richiede tempo: mi aiuta avere un po’ di margine.",
+       "Quando cambiano i programmi o i passaggi da seguire, preferisco che mi si avvisi in anticipo.",
+       "Preferisco che, davanti ad altri, nessuno faccia commenti o rida di me quando controllo qualcosa o mi lavo le mani.",
+       "Mi aiuta se spiegazioni e indicazioni mi vengono date una alla volta e per iscritto.",
+       "Prima di decidere come andare avanti con gli incontri, preferisco che si ascoltino le mie preoccupazioni e che si decida con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Un’esperienza dura continua a pesarmi",
+      "lead": "Dopo un’esperienza dura, il ricordo torna spesso, si dorme male oppure non si riesce a rilassarsi.",
+      "scenes": [
+       "Per un nonnulla, all’improvviso tornano la scena e le sensazioni di quel momento difficile.",
+       "Faccio spesso brutti sogni molto simili tra loro e in molte notti non riesco a dormire profondamente.",
+       "Sono sempre in tensione e anche un rumore leggero o un imprevisto mi fa sobbalzare.",
+       "Evito il più possibile i luoghi, le persone e i discorsi che mi ricordano quel momento, e così la mia vita di ogni giorno si restringe.",
+       "È come se dentro di me qualcosa si fosse spento: verso la famiglia e gli amici non riesco più a provare quello che provavo prima.",
+       "Mi sento sempre più in colpa, oppure faccio più fatica a fidarmi di chi mi sta intorno."
+      ],
+      "asks": [
+       "Mi aiuta se non mi vengono chiesti tutti i dettagli di quello che è successo. Preferisco raccontare con i miei tempi, solo fino a dove riesco.",
+       "Alcuni suoni, luoghi e argomenti riportano tutto a galla. Mi aiuta se, quando dico che preferisco evitarli, la cosa viene accettata.",
+       "Mi aiuta se nessuno mi parla all’improvviso da dietro e se vicino a me si evitano i rumori forti.",
+       "Quando parlare è troppo difficile, preferisco poter consegnare qualcosa di scritto.",
+       "Ci sono notti in cui non dormo e giorni in cui la stanchezza non passa. Preferisco che non vengano scambiati per pigrizia.",
+       "Mi aiuta se nessuno mi mette fretta con frasi come «Dimentica tutto» o «Su, riprenditi», e se c’è un posto dove posso parlare con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Disturbo post-traumatico da stress",
+        "why": "Questa pagina spiega che questo disturbo può comparire subito dopo un evento molto pesante, ma a volte anche a distanza di anni.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbo post traumatico da stress",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbo-posttraumatico-da-stress.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbi legati allo stress (per es. burnout, disturbi dell’adattamento)",
+        "why": "Questa pagina (in tedesco) spiega che eventi di vita pesanti possono provocare ansia, tristezza, tensione o un senso di impotenza; il burnout e i disturbi dell’adattamento sono tra le malattie legate allo stress.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Stressassoziierte Erkrankungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/stressassoziierte-erkrankungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Difficoltà con il sonno",
+      "lead": "È difficile addormentarsi, ci si sveglia di notte, è difficile alzarsi la mattina oppure di giorno si ha molto sonno.",
+      "scenes": [
+       "Anche quando sono a letto, faccio fatica ad addormentarmi.",
+       "Mi sveglio più volte durante la notte e non riesco a dormire senza interruzioni fino al mattino.",
+       "Quando suona la sveglia non riesco ad alzarmi, e mi capita spesso di arrivare in ritardo al lavoro, a scuola o ai corsi di formazione.",
+       "Durante il giorno mi viene un sonno fortissimo e a volte sto per addormentarmi durante una riunione o alla guida.",
+       "In famiglia mi dicono che russo forte e che, mentre dormo, sembra che mi si fermi il respiro.",
+       "Verso sera e di notte sento nelle gambe un fastidio che mi spinge a muoverle e non mi lascia dormire."
+      ],
+      "asks": [
+       "Mi aiuta se qualcuno si prende il tempo di chiedermi come dormo: quanto ci metto ad addormentarmi, se mi sveglio di notte, quanta fatica faccio ad alzarmi e quanto sonno ho di giorno.",
+       "Mi aiuta se si guardano insieme a me i medicinali che prendo e le mie abitudini con caffè, alcol e sigarette, per capire che cosa può influire sul sonno.",
+       "Mi aiuta se non si dà per scontato che sia una questione di carattere o di buona volontà, e se si controllano insieme la salute del corpo e l’umore.",
+       "Preferisco spiegare i miei orari con un appunto scritto, con l’ora in cui vado a letto e quella in cui mi alzo, e che venga guardato con calma.",
+       "Se serve un medicinale, mi aiuta se mi viene spiegato con parole semplici come funziona e a che cosa bisogna fare attenzione.",
+       "La mattina faccio molta fatica: se possibile, preferisco un appuntamento nel pomeriggio."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Apnea notturna ostruttiva",
+        "why": "Questa pagina spiega che l’apnea notturna è un disturbo del respiro che compare di solito durante il sonno.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Sindrome delle apnee ostruttive del sonno",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/s/sindrome-delle-apnee-ostruttive-del-sonno.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Caffè, alcol, nicotina o farmaci",
+        "why": "Questa pagina (in tedesco) spiega che fattori esterni possono disturbare il sonno, per esempio rumore e luce, ma anche caffè, alcol, nicotina, farmaci o droghe.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Disturbi del sonno (insonnia)",
+        "why": "Questa pagina (in francese) spiega che l’insonnia vuol dire fare fatica ad addormentarsi o a restare addormentati, con in più difficoltà durante il giorno, come stanchezza, problemi di concentrazione e di memoria o irritabilità.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Sindrome delle gambe senza riposo",
+        "why": "Questa pagina spiega che con questa sindrome si sente un bisogno sgradevole di muovere le gambe, soprattutto i polpacci.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Sindrome delle gambe senza riposo",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/s/sindrome-delle-gambe-senza-riposo.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Narcolessia",
+        "why": "Questa pagina spiega che nella narcolessia il cervello regola male il passaggio tra sonno e veglia.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Narcolessia",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/n/narcolessia.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbi sonno-veglia",
+        "why": "Questa pagina (in tedesco) spiega che nei disturbi sonno-veglia non conta solo quanto si dorme, ma anche come si svolge il sonno e come si sta di giorno.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-Wach-Störungen",
+         "url": "https://www.usz.ch/krankheit/schlaf-wach-stoerungen/",
+         "kind": "fact",
+         "upd": "2025-11-14"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Difficoltà con il cibo",
+      "lead": "Mangiare è diventato difficile: si mangia pochissimo, non ci si riesce a fermare, oppure il cibo fa paura.",
+      "scenes": [
+       "Non ho voglia di mangiare e il cibo mi va giù a fatica.",
+       "Quando comincio a mangiare non riesco a fermarmi e a volte mangio fino a stare male.",
+       "Mi accorgo di pensare solo al cibo e faccio fatica a concentrarmi su altro.",
+       "Mangio solo pochissimi cibi: il gusto, l’odore o la consistenza di molti altri mi danno troppo fastidio e li evito.",
+       "Da quando ho avuto un boccone bloccato in gola, o ho vomitato, mangiare mi fa paura.",
+       "A volte di notte mangio quasi nel sonno e al mattino non me lo ricordo."
+      ],
+      "asks": [
+       "Mi aiuta se non vengono fatti commenti sul peso o sul corpo.",
+       "Mi aiuta se nessuno mi obbliga a mangiare o mi mette fretta.",
+       "Per i pranzi e le cene in compagnia, anche di lavoro, preferisco poter scegliere un altro luogo o un altro orario.",
+       "Mi aiuta se prima mi viene chiesto che cosa riesco a mangiare e quali odori o consistenze mi danno fastidio.",
+       "Mi aiuta se prima mi viene spiegato come si svolgono la visita e gli esami del corpo.",
+       "Per le cose difficili da dire a voce, preferisco poterle consegnare per iscritto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Disturbo del comportamento alimentare",
+        "why": "Questa pagina spiega che in questo disturbo il modo di mangiare e il modo di vivere il proprio corpo sono alterati; le forme più frequenti sono bulimia, anoressia e alimentazione incontrollata.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbo del comportamento alimentare",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbo-del-comportamento-alimentare.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Anoressia",
+        "why": "Questa pagina spiega che chi ha l’anoressia pesa troppo poco, ma spesso si sente comunque troppo pesante e cerca di perdere ancora peso.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Anoressia",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/a/anoressia.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bulimia",
+        "why": "Questa pagina spiega che nella bulimia tornano spesso attacchi di fame e abbuffate, e che poi si cerca di non aumentare di peso.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Bulimia",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/b/bulimia.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbo da alimentazione incontrollata",
+        "why": "Questa pagina spiega che in questo disturbo si mangia più volte moltissimo in poco tempo, senza riuscire a fermarsi, e poi spesso si provano vergogna e rabbia.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbo da alimentazione incontrollata",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbo-da-alimentazione-incontrollata.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Faccio fatica a smettere con alcol, gioco d’azzardo o videogiochi",
+      "lead": "Si vorrebbe smettere o diminuire, ma si continua lo stesso.",
+      "scenes": [
+       "Anche quando decido di smettere o di ridurre, mi accorgo che ricomincio.",
+       "Non riesco a rispettare il tempo, la quantità o i soldi che avevo deciso («per oggi basta così»).",
+       "Con le persone vicine nascondo o minimizzo quanto bevo, quanto gioco d’azzardo o quanto uso i videogiochi.",
+       "Vado avanti con i videogiochi fino a notte fonda, la mattina non riesco ad alzarmi e aumentano i ritardi e le assenze al lavoro o a scuola.",
+       "Quando perdo dei soldi voglio a tutti i costi rifarmi, e così scommetto ancora, per esempio alle slot machine o con le scommesse sportive.",
+       "So che non fa bene al mio corpo, ma non riesco a bere di meno."
+      ],
+      "asks": [
+       "Mi aiuta se prima di tutto mi si ascolta, senza accuse e senza conclusioni già pronte.",
+       "Mi aiuta se si mette in ordine insieme a me, un passo alla volta, come mi comporto con l’alcol, il gioco d’azzardo o i videogiochi e quali difficoltà mi crea.",
+       "Mi aiuta se vengono controllati anche il sonno e la salute del corpo.",
+       "Vorrei sapere in modo concreto a quali servizi posso rivolgermi e dove posso andare.",
+       "Vorrei sapere anche se la mia famiglia o una persona vicina può venire con me agli incontri.",
+       "Vorrei che prima si chiarisse con me a chi viene riferito ciò che racconto, e fino a che punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dipendenza da alcol",
+        "why": "Questa pagina spiega che nella dipendenza dall’alcol ci sono per esempio un forte desiderio di bere e la difficoltà a controllare quanto si beve.",
+        "src": {
+         "org": "Ufficio federale della sanità pubblica (UFSP)",
+         "title": "Consumo problematico di alcol",
+         "url": "https://www.bag.admin.ch/it/consumo-problematico-di-alcol",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbo da gioco d’azzardo",
+        "why": "Questa pagina spiega che il gioco d’azzardo può portare alla dipendenza.",
+        "src": {
+         "org": "Ufficio federale della sanità pubblica (UFSP)",
+         "title": "Dipendenze comportamentali",
+         "url": "https://www.bag.admin.ch/it/dipendenze-comportamentali",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Disturbo da gioco (videogiochi)",
+        "why": "Questa pagina spiega che anche i videogiochi possono portare alla dipendenza.",
+        "src": {
+         "org": "Ufficio federale della sanità pubblica (UFSP)",
+         "title": "Dipendenze comportamentali",
+         "url": "https://www.bag.admin.ch/it/dipendenze-comportamentali",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chsafezone",
+       "chspiel"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Difficoltà di attenzione o di organizzazione",
+      "lead": "È difficile concentrarsi, fare le cose nell’ordine giusto o ricordarsele.",
+      "scenes": [
+       "Anche quando qualcuno mi sta parlando, la mia mente va altrove senza che me ne accorga.",
+       "Faccio fatica a portare avanti il lavoro, l’apprendistato o le faccende di casa nel giusto ordine e finisco per non rispettare le scadenze.",
+       "Spesso non mi ricordo più che cosa mi hanno chiesto o che cosa ho promesso, oppure perdo le cose.",
+       "Se faccio a lungo la stessa attività, aumentano gli errori di distrazione.",
+       "Se devo restare a lungo senza muovermi, per esempio a una riunione o in treno, sento un’agitazione che non mi lascia in pace.",
+       "Le persone intorno a me mi dicono che dimentico spesso le cose o che arrivo in ritardo."
+      ],
+      "asks": [
+       "Mi aiuta se le indicazioni mi vengono date una alla volta.",
+       "Mi aiuta avere per iscritto le cose importanti.",
+       "Mi aiuta sapere con anticipo scadenze e appuntamenti.",
+       "Mi aiuta se le richieste non arrivano tutte insieme, ma divise in parti piccole.",
+       "Preferisco parlare in un posto tranquillo, dove mi distraggo meno.",
+       "Mi aiuta se si riconosce ciò che ho fatto, senza rimproveri per ciò che non ho fatto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Disturbi della menopausa",
+        "why": "Questa pagina (in francese) spiega che intorno alla menopausa possono comparire difficoltà di concentrazione e vuoti di memoria, oltre a un sonno meno buono.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Mieux vivre votre ménopause",
+         "url": "https://www.hug.ch/gynecologie/menopause",
+         "kind": "fact",
+         "upd": "2026-08-19"
+        }
+       },
+       {
+        "name": "Disturbi del sonno (insonnia)",
+        "why": "Questa pagina (in francese) spiega che con l’insonnia anche la giornata può diventare più difficile, con stanchezza, problemi di concentrazione e di memoria e irritabilità.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Depressione",
+        "why": "Questa pagina (in francese) spiega che nella depressione possono esserci anche difficoltà di concentrazione e di memoria, problemi di sonno e mancanza di energia.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Dépression unipolaire",
+         "url": "https://www.hug.ch/specialites-psychiatriques/depression-unipolaire",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       },
+       {
+        "name": "ADHD (disturbo da deficit di attenzione e iperattività)",
+        "why": "Questa pagina (in francese) spiega che l’ADHD riguarda anche gli adulti: si può fare fatica a mantenere l’attenzione, essere molto agitati o fare fatica a gestire le emozioni, e questo può pesare sul lavoro, sullo studio, sulla vita sociale e sulla famiglia.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Prise en charge du trouble déficit d’attention-hyperactivité (TDA-H) chez l’adulte",
+         "url": "https://www.hug.ch/specialites-psychiatriques/prise-charge-trouble-deficit-attention-hyperactivite-tda-h-chez-adulte",
+         "kind": "fact",
+         "upd": "2025-08-26"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chiv",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Difficoltà nei rapporti, nelle abitudini o con i sensi",
+      "lead": "È difficile parlare o stare con gli altri, c’è un forte bisogno di fare le cose sempre allo stesso modo, oppure suoni, luci e odori sono difficili da sopportare.",
+      "scenes": [
+       "Faccio fatica a capire che cosa prova l’altra persona o com’è l’atmosfera del momento, e ho l’impressione che non riusciamo a capirci.",
+       "Parlare davanti agli altri, o avere gli occhi di tutti addosso, mi mette una tensione fortissima e finisco per evitare queste situazioni.",
+       "Con le persone che mi sono vicine riesco a parlare, ma davanti agli altri mi blocco e non mi esce la voce.",
+       "Se cambiano il mio modo fisso di fare le cose, l’ordine dei passaggi o il posto degli oggetti, mi viene molta ansia.",
+       "Rumori, luci e odori mi arrivano troppo forti e i luoghi affollati, come il treno o un ristorante, mi pesano.",
+       "Faccio fatica a sentire quello che dicono gli altri, oppure mi sento giù, e incontrare le persone o parlare mi pesa."
+      ],
+      "asks": [
+       "Mi aiuta se si parla lentamente e in modo chiaro.",
+       "Mi aiuta avere per iscritto le cose importanti.",
+       "Preferisco parlare in un posto tranquillo.",
+       "Mi aiuta sapere in anticipo quando cambiano i programmi o il modo di fare le cose.",
+       "Mi aiuta se non c’è fretta di avere una risposta e si aspetta con pazienza.",
+       "Vorrei poter rispondere per iscritto, o con un breve biglietto, invece di parlare."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Fobia sociale",
+        "why": "Questa pagina (in francese) spiega che nella fobia sociale si prova molta paura o molto disagio quando, in certe situazioni con altre persone, si è al centro dell’attenzione.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Eritrofobia (paura di arrossire)",
+        "why": "Questa pagina (in tedesco) spiega che chi ha paura di arrossire può arrossire per piccoli motivi, per esempio quando qualcuno gli rivolge la parola, e fa molta fatica a parlare davanti a un pubblico.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Erythrophobie",
+         "url": "https://www.usz.ch/krankheit/erythrophobie/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Disturbo dello spettro autistico",
+        "why": "Questa pagina (in tedesco) spiega che questo nome comprende difficoltà nel contatto con gli altri e nella comunicazione, e comportamenti che si ripetono. Questo nome a volte viene dato solo in età adulta.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Autismus-Spektrum-Störung (ASS)",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/autismus-spektrum-stoerung-ass/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chwork",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Difficoltà a leggere, scrivere o fare i calcoli",
+      "lead": "Anche con tanto impegno, leggere, scrivere o lavorare con i numeri resta molto difficile.",
+      "scenes": [
+       "Per leggere un testo mi serve più tempo che agli altri e finisco per rileggerlo spesso.",
+       "Anche dopo aver letto, il contenuto non mi resta in testa e faccio fatica a capire il senso di moduli e lettere, anche di quelle degli uffici.",
+       "Faccio fatica con l’ortografia e spesso faccio errori o salto delle parole.",
+       "La mia calligrafia è irregolare e scrivere a mano mi richiede molto tempo e molta fatica.",
+       "Mi blocco anche sui calcoli semplici o sui problemi di matematica scritti a parole.",
+       "Parlare e ascoltare mi riesce, ma con la lettura, la scrittura e i calcoli, anche prendendomi tempo, le cose non vanno come vorrei."
+      ],
+      "asks": [
+       "Mi aiuta avere i testi con caratteri grandi, righe ben distanziate e parole semplici.",
+       "Mi aiuta se le informazioni importanti mi vengono lette ad alta voce o dette a voce.",
+       "Vorrei poter scrivere al computer o al telefono, oppure registrare con foto e audio, invece di scrivere a mano.",
+       "Mi aiuta poter usare la calcolatrice per i calcoli.",
+       "Mi aiuta avere più tempo per leggere, scrivere e fare i calcoli.",
+       "Mi aiuta se mi viene dato poco alla volta, una cosa per volta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Grandi alti e bassi dell’umore",
+      "lead": "L’umore sale e scende molto, ed è difficile stargli dietro.",
+      "scenes": [
+       "Ci sono periodi in cui ho troppa energia e periodi in cui sono così giù da non riuscire a muovermi, e si alternano.",
+       "A volte dormo pochissimo eppure ho tanta energia e sono sempre in movimento.",
+       "Mi vengono in mente un sacco di cose da fare una dopo l’altra, e restano tutte a metà.",
+       "Mi è capitato di spendere così tanti soldi da trovarmi poi in difficoltà.",
+       "Per piccole cose mi irrito e faccio fatica a tenere a bada le emozioni.",
+       "Quello che ho fatto quando avevo l’umore molto alto ha avuto conseguenze sui rapporti o sul lavoro."
+      ],
+      "asks": [
+       "Mi aiuta se mi si chiede anche dei momenti in cui stavo insolitamente bene o avevo tanta energia.",
+       "Mi aiuta se si ripercorrono insieme, con calma, i miei alti e bassi.",
+       "Prima di decisioni importanti su soldi o lavoro, mi aiuta fermarmi a riflettere con qualcuno.",
+       "Mi aiuta se si controllano anche le cause fisiche, compresi il sonno, i farmaci e l’alcol.",
+       "Se qualcosa in me sembra cambiato rispetto al solito, mi aiuta se me lo si dice senza rimproveri.",
+       "Mi aiuta se qualcuno mi ascolta fino in fondo, sia quando l’umore è alto sia quando è basso."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Sindrome premestruale e disturbo disforico premestruale",
+        "why": "Questa pagina (in tedesco) spiega che prima delle mestruazioni possono comparire disturbi fisici e psicologici, spesso con sbalzi d’umore più forti, e che possono pesare molto sulla vita di tutti i giorni.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://www.usz.ch/krankheit/praemenstruelles-syndrom-pms/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Disturbi della menopausa",
+        "why": "Questa pagina (in tedesco) spiega che durante la menopausa possono comparire sbalzi d’umore e irritabilità, oltre a disturbi del sonno e vampate di calore.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Wechseljahresbeschwerden",
+         "url": "https://www.usz.ch/krankheit/wechseljahresbeschwerden/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Disturbo bipolare",
+        "why": "Questa pagina (in francese) spiega che nel disturbo bipolare l’umore passa da fasi molto alte a fasi di depressione; nelle fasi alte si ha meno bisogno di dormire e ci si può buttare in moltissime attività.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Troubles bipolaires",
+         "url": "https://www.hug.ch/specialites-psychiatriques/troubles-bipolaires",
+         "kind": "fact",
+         "upd": "2025-05-06"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conoscere un nome può far sembrare importanti i piccoli alti e bassi di ogni giorno",
+       "body": "Quando conosci il nome di una malattia o di una condizione dello sviluppo, un po’ di stanchezza o un momento di distrazione possono iniziare a sembrarti la prova di qualcosa.\n\nLe emozioni possono cambiare il modo in cui ti senti, nel corpo e nell’umore, e non è immaginazione: succede davvero. Ma anche dormire poco, lo stress, l’uso del telefono o quello che succede intorno possono produrre qualcosa di simile.\n\nSe leggendo un nome pensi «forse è questo», non fermarti lì: pensa anche ad altre ragioni. E se quello che ti pesa continua, puoi parlarne così com’è, anche se non hai un nome per descriverlo.",
+       "srcs": []
+      },
+      {
+       "h": "La salute mentale può cambiare",
+       "body": "La salute mentale non è uno stato fisso: può cambiare nel corso della vita.\n\nUn nome lo danno gli esperti, per esempio i medici. Contano anche quanto sono forti le difficoltà e quanto intralciano la vita di tutti i giorni.\n\nSe le difficoltà continuano, puoi parlarne così come sono, qualunque sia il nome.",
+       "srcs": [
+        {
+         "org": "Ufficio federale della sanità pubblica (UFSP)",
+         "title": "Psychische Gesundheit",
+         "url": "https://www.bag.admin.ch/de/psychische-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Disturbi d'ansia",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbi-d-ansia.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Anche senza il nome di una malattia puoi parlare delle tue difficoltà",
+       "body": "Telefono amico risponde al 143 al telefono 24 ore su 24; ci sono anche e-mail e chat.\n\nSe per ragioni di salute il tuo posto di lavoro è minacciato, l’ufficio AI del tuo Cantone può, su tua richiesta, darti una consulenza sulle questioni di lavoro già prima di una richiesta di prestazioni.\n\nPer una compensazione degli svantaggi all’esame svizzero di maturità, alla richiesta va allegata una perizia medica o psicologica che indichi il disturbo in modo aggiornato.\n\nCiò che vorresti chiedere e ciò che si può fare dipende da ogni situazione e si decide parlandone.",
+       "srcs": [
+        {
+         "org": "Ufficio federale della sanità pubblica (UFSP)",
+         "title": "Offerte di sostegno per la salute mentale",
+         "url": "https://www.bag.admin.ch/it/offerte-sostegno-salute-mentale",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Confederazione Svizzera (Fedlex)",
+         "title": "Legge federale sull’assicurazione per l’invalidità (LAI), art. 3a",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/it/html/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-it-html-8.html",
+         "kind": "fact",
+         "upd": "2026-01-01"
+        },
+        {
+         "org": "Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)",
+         "title": "Compensazione degli svantaggi nell’ambito degli esami della Commissione svizzera di maturità CSM",
+         "url": "https://www.sbfi.admin.ch/it/compensazione-degli-svantaggi",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Per alcune prestazioni servono documenti medici",
+       "body": "L’assicurazione di base può pagare le sedute da una psicologa o uno psicologo che lavora a suo carico se c’è una malattia e una prescrizione medica.\n\nIn un rapporto di lavoro di diritto privato, chi non può lavorare deve dimostrarlo con un certificato medico, se il datore di lavoro lo chiede; di regola il certificato è senza diagnosi.\n\nSe chiedi prestazioni a un’assicurazione sociale come l’AI, questa può esigere esami medici o specialistici, per quanto necessari e ragionevolmente esigibili.\n\nInformati prima presso il servizio competente su quali documenti ti servono.",
+       "srcs": [
+        {
+         "org": "Ufficio federale della sanità pubblica (UFSP)",
+         "title": "Il nuovo disciplinamento sugli psicologi psicoterapeuti a partire dal 1° luglio 2022",
+         "url": "https://www.bag.admin.ch/it/il-nuovo-disciplinamento-sugli-psicologi-psicoterapeuti-a-partire-dal-1-luglio-2022",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Segreteria di Stato dell’economia (SECO)",
+         "title": "Impedimento al lavoro",
+         "url": "https://www.seco.admin.ch/it/faq-impdedimento-al-lavoro",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Confederazione Svizzera (Fedlex)",
+         "title": "Legge federale sulla parte generale del diritto delle assicurazioni sociali (LPGA), art. 43",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20240101/it/html/fedlex-data-admin-ch-eli-cc-2002-510-20240101-it-html-4.html",
+         "kind": "fact",
+         "upd": "2024-01-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "Il nome di una malattia non è uno strumento per mettersi al di sopra di qualcuno",
+       "body": "Il nome di una malattia non è uno strumento per mettersi al di sopra di qualcuno o per guardare dall’alto in basso gli altri.\nPer alcune persone trovare un nome per quello che vivono è un sollievo. Questo è importante.\nÈ anche naturale desiderare che chi ci sta intorno ci capisca e ci tratti con gentilezza.\n\nQuando vuoi che chi ti sta intorno sia gentile con te, puoi chiederlo direttamente, senza bisogno di dire il nome di una malattia.\nSi capisce meglio se dici insieme due cose: in che cosa hai difficoltà e che cosa vorresti che facesse l’altra persona.\n\nPer esempio:\n«Oggi ho poca energia: mi aiuta se mi parlano lentamente.»\n«Se mi dicono tante cose insieme mi confondo: mi aiuta se mi spiegano le cose una alla volta.»\n«Quello che mi dicono a voce faccio fatica a ricordarlo: preferisco che le cose importanti mi vengano date per iscritto, su carta o per email.»\n«I posti con molta gente mi pesano: vorrei parlare in un luogo tranquillo.»\n«Ho bisogno di un po’ di tempo per rispondere: mi aiuta se mi aspettano un momento.»\n«In questo momento ho tante emozioni insieme: mi aiuta se prima mi ascoltano. I consigli possono venire dopo.»\n«Oggi non sto bene: mi aiuta se mi lasciano riposare un po’.»\n«I cambi di programma improvvisi mi spiazzano: mi aiuta se mi avvisano per tempo.»\n«Quando mi parlano a voce alta ho paura: mi aiuta se mi parlano con calma.»\n\nSe fai fatica a dirlo bene, puoi scriverlo su un foglio e consegnarlo. Puoi anche mostrare la schermata «Le mie difficoltà» con il pulsante «Mostra in grande»: compare in questa app quando scegli un tema e rispondi alle domande.\nSe vuoi dire il nome che ti hanno già dato, puoi farlo. Anche in quel caso, all’altra persona aiuta sapere insieme in che cosa hai difficoltà e che cosa vorresti che facesse.\nA volte l’altra persona non può fare quello che le chiedi, per la sua situazione. Allora si può cercare insieme un’altra strada.\n\nSul lavoro o negli studi, se serve un adattamento formale, informati presso il servizio competente su che cosa ti serve. Possono essere richiesti documenti medici.\n\nL’elenco di nomi di questa app non serve a dubitare delle persone intorno a te.",
+       "srcs": []
+      },
+      {
+       "h": "Informazioni sull’app",
+       "body": "Questa non è una diagnosi. Questo elenco non dice se hai una malattia o un disturbo. Questa app non è un dispositivo medico e non sostituisce un colloquio con un medico o un altro professionista della salute.\n\nLe tue risposte non vengono inviate da nessuna parte e non vengono salvate su questo dispositivo. Spariscono quando chiudi l’app.\n\nApp indipendente. SOYOGI è un gruppo senza scopo di lucro del Giappone. SOYOGI non ha legami con la Confederazione, con gli uffici federali come l’Ufficio federale della sanità pubblica (UFSP), con Swissmedic, con i Cantoni, con gli ospedali o con altre istituzioni sanitarie in Svizzera, e nessuno di loro raccomanda o sostiene l’app. I nomi degli enti indicano solo da dove viene l’informazione.\n\nSOYOGI ha scritto questi testi con parole proprie a partire da pagine pubbliche della Svizzera. Le fonti sono in ogni schermata, con la data che mostra la pagina, quando la mostra. Consultato il 20 novembre 2026. I numeri e gli orari possono cambiare. Gli orari sono quelli indicati da ciascun servizio, in ora svizzera.\n\nSei tu, non l’app, a decidere se chiedere aiuto.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Se stanchezza, problemi di sonno, ritiro dagli altri o sconforto non passano, prendili sul serio. Prima chiedi aiuto, più è facile superare un momento di crisi.",
+      "src": {
+       "org": "Ufficio federale della sanità pubblica (UFSP)",
+       "title": "Cosa fare per la salute mentale?",
+       "url": "https://www.bag.admin.ch/it/cosa-fare-per-la-salute-mentale",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Medico di famiglia: Con difficoltà di attenzione, nel contatto con gli altri o nel leggere, scrivere e fare i conti puoi parlarne prima con il tuo medico di famiglia.",
+       "src": {
+        "org": "Ufficio federale della sanità pubblica (UFSP)",
+        "title": "Souffrance psychique ? Conseils et informations utiles relatives à la psychothérapie",
+        "url": "https://www.bag.admin.ch/dam/fr/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+        "kind": "fact",
+        "upd": "2023-03"
+       }
+      },
+      {
+       "text": "Al lavoro: Quando per ragioni di salute c’è la minaccia di un’incapacità al lavoro, puoi rivolgerti all’ufficio AI del tuo Cantone già prima di una richiesta di prestazioni.",
+       "src": {
+        "org": "Ufficio federale delle assicurazioni sociali (UFAS)",
+        "title": "Rilevamento e intervento tempestivi",
+        "url": "https://www.bsv.admin.ch/it/rilevamento-intervento-tempestivi",
+        "kind": "fact",
+        "upd": "2025-09-01"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Come si dà un nome (diagnosi), in breve:",
+      "text": "Per esempio per l’ansia: gli esperti parlano di disturbo d’ansia quando la paura diventa troppo forte e intralcia la vita di tutti i giorni.",
+      "src": {
+       "org": "Ente Ospedaliero Cantonale (EOC)",
+       "title": "Disturbi d'ansia",
+       "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/d/disturbi-d-ansia.html",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "fewNote": "Su pagine pubbliche sulla salute è stato possibile confermare solo pochi nomi.",
+     "noNames": "Per questo gruppo non è stato possibile confermare nomi su pagine pubbliche sulla salute; per questo qui non compare un elenco di nomi. In questa app trovi comunque dove chiedere aiuto."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when you feel down for a long time and it is hard to find the energy for anything.",
+      "scenes": [
+       "From morning to night I feel down.",
+       "Things I used to enjoy no longer give me pleasure.",
+       "I have no energy and cannot concentrate, so my work and the housework get left undone.",
+       "I blame myself for everything and keep seeing the negative side of things.",
+       "I sleep badly, or far too much. I have little appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when things are explained to me one at a time.",
+       "It helps me when I am not rushed to answer or decide, and when I get time to think.",
+       "I would rather get important things in writing.",
+       "Before anyone says “Chin up!” or “Get over it”, it helps me when someone listens to me first.",
+       "It helps me when my resting is not immediately seen as laziness.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking plays a role."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Underactive thyroid (hypothyroidism)",
+        "why": "This page (in Italian) explains that an underactive thyroid slows down the metabolism and can lead to tiredness and a lack of energy.",
+        "src": {
+         "org": "Ente Ospedaliero Cantonale (EOC)",
+         "title": "Ipotiroidismo",
+         "url": "https://www.eoc.ch/pazienti/malattie-e-trattamenti/i/ipotiroidismo.html",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Sleep problems (insomnia)",
+        "why": "This page (in German) explains that worries, fears or mental illnesses such as depression can disturb sleep over a long time.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page (in German) explains that depression often comes with low mood, negative thoughts, constant brooding and sleep problems.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Depressive Störungen",
+         "url": "https://www.usz.ch/krankheit/depressive-stoerungen/",
+         "kind": "fact",
+         "upd": "2026-02-13"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page (in German) explains that in bipolar disorder, periods of low mood alternate with periods of very high mood and strong drive.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Bipolare Störungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/bipolare-stoerungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Many worries or tension",
+      "lead": "Worries that will not go away, a pounding heart and restlessness, trouble around other people or when going out, and things like that.",
+      "scenes": [
+       "When I have to speak in front of others or when everyone is looking at me, I get so anxious that my mind goes completely blank.",
+       "Suddenly my heart starts beating very fast and I get short of breath. I am afraid it will happen again, and so it is hard for me to leave the house.",
+       "Even without a clear reason, I worry about all kinds of things. I am restless and it wears me out.",
+       "I find it hard in places where it is difficult to get away, such as on a train, bus or tram, in busy shops or buildings, or when I go out alone. So I try to avoid those places.",
+       "Because I avoid what makes me anxious, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "My worries keep going around in my head and in the evening I find it hard to fall asleep."
+      ],
+      "asks": [
+       "It helps me when I get time to talk, without being rushed.",
+       "I would like to hear beforehand what the plan is and how everything will go.",
+       "It helps me when I do not suddenly have to give my opinion in front of other people, and when I can also answer in writing.",
+       "When I do not feel well, it helps me to be allowed to step away for a moment to recover.",
+       "I would prefer to talk in a quiet place with only a few people.",
+       "Before anyone says that I worry too much, it helps me when someone first listens to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Overactive thyroid (hyperthyroidism)",
+        "why": "This page (in German) explains that an overactive thyroid can show itself, among other things, through nervousness, sleep problems, weight loss and diarrhoea.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schilddrüsenüberfunktion",
+         "url": "https://www.usz.ch/krankheit/schilddruesenueberfunktion/",
+         "kind": "fact",
+         "upd": "2026-04-02"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "This page (in German) explains that people speak of an anxiety disorder when anxiety becomes excessively strong and restricts daily life.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Angststörungen",
+         "url": "https://www.usz.ch/krankheit/angststoerungen/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Generalised anxiety disorder",
+        "why": "This page (in French) explains that in generalised anxiety people worry about almost everything, too much, including everyday problems.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This page (in German) explains that after a very stressful event, sometimes years later, people may relive what happened, feel on high alert and avoid certain situations.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Posttraumatische Belastungsstörungen (PTSD)",
+         "url": "https://www.usz.ch/krankheit/posttraumatische-belastungsstoerungen/",
+         "kind": "fact",
+         "upd": "2024-12-03"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "For when you check the door or the gas again and again, wash your hands or repeat something else, and find it hard to stop even though you want to.",
+      "scenes": [
+       "Before I leave the house, I have to check again and again that the door is locked and the stove is off; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and cannot stop, even though I want to.",
+       "The same worry keeps coming into my head. I no longer want to think about it, but I cannot manage to stop.",
+       "When things are not exactly where they should be, or things do not happen in the order I have set, I become uneasy. Then I put things right again or start over.",
+       "Checking takes so much time that I leave later, or I am late for appointments and for work.",
+       "My body moves or I make sounds without wanting to, and it is hard to stop, even when I try."
+      ],
+      "asks": [
+       "I would like to be heard first, without being told right away that I am overthinking it.",
+       "Checking takes me time, so it helps if some extra time is planned.",
+       "When plans or steps change, I would like to hear about it beforehand.",
+       "It helps me when no one comments on it or makes jokes about it in front of others when I check something or wash my hands.",
+       "I would rather get explanations and instructions one at a time and in writing.",
+       "Before we decide how to go on, I would like my worries to be heard first and for us to talk it through calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A painful event is still affecting me",
+      "lead": "Memories that keep coming back, trouble sleeping, or tension that does not go away after a painful event.",
+      "scenes": [
+       "Something small is enough to suddenly bring back the images and feelings of that painful time.",
+       "I keep having the same kind of frightening dreams, and on many nights I do not sleep deeply.",
+       "I am always on edge, and I jump at the smallest noise or an unexpected event.",
+       "I would rather avoid places, people and topics that remind me of that time, and as a result my life has become smaller.",
+       "It is as if something inside me has switched off. I no longer feel what I used to feel for my family and friends.",
+       "I blame myself more and more often, or it is getting harder to trust the people around me."
+      ],
+      "asks": [
+       "It helps me when I am not pressed for every detail of what happened. I will tell it at my own pace, and only as much as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I would rather avoid them.",
+       "It helps me when I am not suddenly spoken to from behind, and when no loud noises are made close to me.",
+       "When talking is too hard, I would rather hand you something I have written down. It helps me when that is allowed.",
+       "There are days when I sleep badly or the tiredness stays. It helps me when that is not seen as laziness.",
+       "It helps me when I am not hurried along with remarks like “Try to forget it” or “Let it go”, and when there is a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This page (in German) explains that after a very stressful event a lasting emotional strain can develop, straight away or sometimes only years later.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Posttraumatische Belastungsstörungen (PTSD)",
+         "url": "https://www.usz.ch/krankheit/posttraumatische-belastungsstoerungen/",
+         "kind": "fact",
+         "upd": "2024-12-03"
+        }
+       },
+       {
+        "name": "Stress-related illnesses (e.g. burnout, adjustment disorders)",
+        "why": "This page (in German) explains that stressful life events can trigger anxiety, sadness, tension or helplessness; burnout and adjustment disorders are among the stress-related illnesses.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Stressassoziierte Erkrankungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/stressassoziierte-erkrankungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I am in bed, it takes me a long time to fall asleep.",
+       "I keep waking up in the night and do not sleep through until morning.",
+       "When it is time to get up, I cannot manage it, and I keep being late for work, school or training.",
+       "During the day I am overcome by strong sleepiness, and I almost fall asleep in a meeting or at the wheel.",
+       "My family says that I snore loudly and that I seem to stop breathing in my sleep.",
+       "In the evening and at night my legs feel restless and unpleasant, so I cannot fall asleep."
+      ],
+      "asks": [
+       "It helps me when people take their time to ask how I sleep: whether I find it hard to fall asleep, wake up in the night, find it hard to get out of bed or feel sleepy during the day.",
+       "It helps me when people look together with me at what plays a part, including the medicines I take and my habits with coffee, alcohol and cigarettes.",
+       "It helps me when people do not immediately say that it is “all in my head”, and when my physical health and my mood are looked at as well.",
+       "I would like to show you on a note what time I go to bed and what time I wake up. It helps me when someone looks at it.",
+       "If medicines are suggested, it helps me when someone explains in plain language how they work and what I need to watch out for.",
+       "Mornings are hard for me. It helps me when an appointment can be in the afternoon or at the end of the day."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obstructive sleep apnoea",
+        "why": "This page (in German) explains that in this form, the upper airway in the throat repeatedly narrows or closes completely during sleep.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-bezogene Atmungsstörungen und Schlafapnoe",
+         "url": "https://www.usz.ch/krankheit/obstruktives-schlaf-apnoe-syndrom/",
+         "kind": "fact",
+         "upd": "2026-05-27"
+        }
+       },
+       {
+        "name": "Coffee, alcohol, nicotine or medicines",
+        "why": "This page (in German) explains that outside influences can disturb sleep, for example noise and light, but also coffee, alcohol, nicotine, medicines or drugs.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Sleep problems (insomnia)",
+        "why": "This page (in German) explains that sleep problems can have many causes, such as worries, fears, anger or mental illnesses.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Insomnie (Schlafstörungen)",
+         "url": "https://www.usz.ch/krankheit/schlafstoerungen/",
+         "kind": "fact",
+         "upd": "2026-05-20"
+        }
+       },
+       {
+        "name": "Restless legs syndrome",
+        "why": "This page (in German) explains that with restless legs syndrome people feel an unpleasant urge to move their legs, mostly the calves.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Restless Legs-Syndrom",
+         "url": "https://www.usz.ch/krankheit/restless-legs-syndrom/",
+         "kind": "fact",
+         "upd": "2026-06-11"
+        }
+       },
+       {
+        "name": "Narcolepsy",
+        "why": "This page (in German) explains that in narcolepsy the brain’s control of sleep and wakefulness is disturbed.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Narkolepsie",
+         "url": "https://www.usz.ch/krankheit/narkolepsie/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Sleep-wake disorders",
+        "why": "This page (in German) explains that sleep-wake disorders are not only about how long you sleep, but also about how sleep runs and how you feel during the day.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Schlaf-Wach-Störungen",
+         "url": "https://www.usz.ch/krankheit/schlaf-wach-stoerungen/",
+         "kind": "fact",
+         "upd": "2025-11-14"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop eating, or eating feels scary.",
+      "scenes": [
+       "I do not feel like eating, and I can hardly manage to swallow anything.",
+       "Once I start eating, I cannot stop myself, and sometimes I eat so much that it hurts.",
+       "I notice that I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat only a few things, and I avoid many foods because of their taste, smell or texture.",
+       "Since I once choked on food or had to vomit, I have been afraid of eating.",
+       "At night I sometimes eat half asleep, and in the morning I remember nothing about it."
+      ],
+      "asks": [
+       "It helps me when no comments are made about my body or my appearance.",
+       "It helps me when I am not forced to eat and not hurried.",
+       "When people eat together, it helps me when I am allowed to choose another place or another time.",
+       "I appreciate it when I am first asked what I can eat and which smells or textures are hard for me.",
+       "It helps me when it is explained beforehand what will happen during a physical examination or at the appointment.",
+       "What I find hard to say out loud, I would rather hand over on paper. It helps me when that is allowed."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders",
+        "why": "This page (in German) explains that in an eating disorder, eating and the relationship with your own body are thrown off balance; the most common forms are bulimia, anorexia and binge eating disorder.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Essstörungen",
+         "url": "https://www.usz.ch/krankheit/essstoerungen/",
+         "kind": "fact",
+         "upd": "2024-11-08"
+        }
+       },
+       {
+        "name": "Anorexia",
+        "why": "This page (in German) explains that people with anorexia weigh too little, yet often still see themselves as too heavy and try to lose more weight.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Magersucht",
+         "url": "https://www.usz.ch/krankheit/magersucht/",
+         "kind": "fact",
+         "upd": "2025-10-01"
+        }
+       },
+       {
+        "name": "Bulimia",
+        "why": "This page (in German) explains that bulimia involves repeated bouts of extreme hunger and binge eating, after which people try to avoid gaining weight.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Bulimie",
+         "url": "https://www.usz.ch/krankheit/bulimie/",
+         "kind": "fact",
+         "upd": "2025-01-06"
+        }
+       },
+       {
+        "name": "Binge eating disorder",
+        "why": "This page (in German) explains that with this disorder people repeatedly eat a great deal at once without being able to stop, and often feel shame and anger afterwards.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Binge Eating Störung",
+         "url": "https://www.usz.ch/krankheit/binge-eating-stoerung/",
+         "kind": "fact",
+         "upd": "2026-03-12"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to stop drinking, gambling, or gaming",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going anyway.",
+       "I can’t stick to the time, the amount or the money I set for myself for the day.",
+       "I hide my drinking, my video games or my gambling from people close to me, or I make it sound better than it is.",
+       "I often play video games late into the night, I can’t get out of bed in the morning, and more and more often I am late or miss work or school.",
+       "When I lose, I badly want to win the money back, so I bet again, for example at slot machines or on sports bets.",
+       "Even though I know it is not good for my body, I can’t drink less."
+      ],
+      "asks": [
+       "It would help me if you listened to me first, without blaming me or thinking badly of me.",
+       "It would help me if we went through together, step by step, what my habits look like and what difficulties they cause me.",
+       "It would help me if you also looked at my sleep and my physical health.",
+       "I would like to find out specifically where I can get help and where I can go.",
+       "It would help me to know whether my family or someone close to me can come with me to the conversation.",
+       "It would help me to know beforehand who you will pass on what I tell you to, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Alcohol dependence",
+        "why": "This page (in German) explains that alcohol dependence includes, for example, a strong craving for alcohol and less control over how much you drink.",
+        "src": {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Problematischer Alkoholkonsum",
+         "url": "https://www.bag.admin.ch/de/problematischer-alkoholkonsum",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gambling disorder",
+        "why": "This page (in German) explains that games played for money can be addictive.",
+        "src": {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Verhaltenssüchte",
+         "url": "https://www.bag.admin.ch/de/verhaltenssuechte",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gaming disorder",
+        "why": "This page (in German) explains that video games can also be addictive.",
+        "src": {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Verhaltenssüchte",
+         "url": "https://www.bag.admin.ch/de/verhaltenssuechte",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chsafezone",
+       "chspiel"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention and planning",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is telling me something, my thoughts are suddenly somewhere else without my noticing.",
+       "I can’t get my work, my apprenticeship or the housework done in order, and I miss deadlines.",
+       "I often forget what I was asked to do or what I promised, or I misplace things.",
+       "When I do the same task for a long time, I make more and more careless mistakes.",
+       "When I have to sit still for a long time, for example in a meeting or on the train, I get restless and fidgety.",
+       "People around me tell me that I often forget things or turn up late."
+      ],
+      "asks": [
+       "It would help me if I were given instructions one at a time, one after the other.",
+       "It would help me if important information were written down and given to me to take with me.",
+       "It would help me to hear about deadlines and appointments as early as you can.",
+       "It would help me not to get too many tasks at once, and to have them broken down into small steps instead.",
+       "I would like to talk in a quiet place where there is little to distract me.",
+       "It would help me if people did not blame me for what did not work out, and also saw what I did manage."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Menopause-related complaints",
+        "why": "This page (in German) explains that during the menopause, forgetfulness and difficulty concentrating can occur, among other things.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Wechseljahresbeschwerden",
+         "url": "https://www.usz.ch/krankheit/wechseljahresbeschwerden/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Sleep problems (insomnia)",
+        "why": "This page (in French) explains that with insomnia the day can also become harder, with tiredness, problems with concentration and memory, and irritability.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "L'insomnie",
+         "url": "https://www.hug.ch/laboratoire-du-sommeil/insomnie",
+         "kind": "fact",
+         "upd": "2026-02-12"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page (in German) explains that depression can also bring weaker concentration, sleep problems and withdrawing from other people.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Depressive Störungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/depression/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "ADHD (attention deficit hyperactivity disorder)",
+        "why": "This page (in German) explains that with ADHD it is hard to stay attentive and focused, that people can be restless and impulsive, and that adults often find it hard to plan and organise their day.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Aufmerksamkeits- und Hyperaktivitätsstörungen ADHS",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/adhs/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chiv",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with other people, fixed routines and sensory impressions",
+      "lead": "Trouble talking or being with other people, a strong need to do things a certain way, or sounds, light and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation, I find it hard to grasp what the other person feels or what the mood in the room is, and I often have the impression that we are talking past each other.",
+       "When I have to speak in front of people or all eyes are on me, I get very tense and I avoid such situations.",
+       "I can talk with people close to me, but in front of others I can’t get a sound out.",
+       "When my usual way of doing things, the order of the steps or the place where my things are kept changes, it makes me very uneasy.",
+       "I notice sounds, light and smells very strongly, and places with many people, such as the train or a restaurant, are hard for me to bear.",
+       "I have trouble hearing what others say, or my mood is low, and by now it has become hard for me to meet people or talk to them."
+      ],
+      "asks": [
+       "It would help me if people spoke to me slowly and clearly.",
+       "It would help me if important things were written down for me.",
+       "I would like to talk in a quiet place.",
+       "It would help me to be told beforehand as soon as plans or routines change.",
+       "It would help me not to be rushed and to be given time to answer.",
+       "I would like to answer in writing or with a short note instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety (social phobia)",
+        "why": "This page (in French) explains that social anxiety means feeling very afraid or very uncomfortable when you are the centre of attention in certain situations with other people.",
+        "src": {
+         "org": "Hôpitaux universitaires de Genève (HUG)",
+         "title": "Programme troubles anxieux",
+         "url": "https://www.hug.ch/specialites-psychiatriques/programme-troubles-anxieux-0",
+         "kind": "fact",
+         "upd": "2026-01-30"
+        }
+       },
+       {
+        "name": "Erythrophobia (fear of blushing)",
+        "why": "This page (in German) explains that people who fear blushing can blush at small things, for example when someone speaks to them, and find it very hard to speak in front of an audience.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Erythrophobie",
+         "url": "https://www.usz.ch/krankheit/erythrophobie/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder",
+        "why": "This page (in German) explains that this name covers difficulties in contact with other people and in communication, as well as behaviour that repeats itself. The name is sometimes given only in adulthood.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Autismus-Spektrum-Störung (ASS)",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/autismus-spektrum-stoerung-ass/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chwork",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is hard even with effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it several times.",
+       "Even after reading, the content does not sink in, and I find it hard to understand what is written in documents, forms or letters from the authorities.",
+       "I have trouble with spelling: I make many mistakes, or I forget letters or words when I write.",
+       "My handwriting is uneven, and writing takes me a lot of time and effort.",
+       "I get stuck on simple calculations and on word problems.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not get on as well as I would like, even when I take plenty of time."
+      ],
+      "asks": [
+       "It would help me if texts were shown to me in large print with wide line spacing, and if important things were explained in simple words or in Easy Language (Leichte Sprache).",
+       "It would help me if important content were read aloud to me or told to me out loud.",
+       "It would help me to be allowed to use the keyboard of a computer or phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "It would help me to be allowed to use a calculator for calculations.",
+       "It would help me to have more time for reading, writing and calculating.",
+       "It would help me not to be given everything at once, but one thing at a time."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "chhausarzt",
+       "chebgb"
+      ],
+      "crisis": []
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own feelings.",
+      "scenes": [
+       "Periods when I have far too much energy alternate with periods when I am so low that I can hardly move.",
+       "There are periods when I hardly sleep and yet I am full of energy and constantly on the move.",
+       "One idea after another comes to me, and everything stays half done.",
+       "When I was in a high-spirited mood, I once spent so much money that I got into difficulties because of it later.",
+       "Even small things make me irritable, and I find it hard to keep my feelings in check.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It would help me if you also asked about the times when I felt unusually good and had unusually high energy.",
+       "It would help me if you took the time to go through my ups and downs with me.",
+       "Before big decisions about money or work, it would help me to have someone help me pause and think first.",
+       "It would help me if physical causes were also checked, including sleep, medicines and alcohol.",
+       "If I seem different from usual, it would help me to be told, without being blamed.",
+       "It would help me to be heard out to the end, both when I am doing well and when I am low."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Premenstrual syndrome (PMS) and premenstrual dysphoric disorder (PMDD)",
+        "why": "This page (in German) explains that before a period, physical and emotional complaints can appear, often with stronger mood swings, and that they can clearly restrict daily life.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Prämenstruelles Syndrom (PMS)",
+         "url": "https://www.usz.ch/krankheit/praemenstruelles-syndrom-pms/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       },
+       {
+        "name": "Menopause-related complaints",
+        "why": "This page (in German) explains that during the menopause mood swings and irritability can occur, as well as sleep problems and hot flushes.",
+        "src": {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Wechseljahresbeschwerden",
+         "url": "https://www.usz.ch/krankheit/wechseljahresbeschwerden/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page (in German) explains that in bipolar disorder, times of very high mood alternate with times of low mood; in the high times people need less sleep and sometimes spend a lot of money without thinking.",
+        "src": {
+         "org": "Psychiatrische Universitätsklinik Zürich (PUK)",
+         "title": "Bipolare Störungen",
+         "url": "https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/behandlungsschwerpunkte/bipolare-stoerungen/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "chhausarzt",
+       "chpsychother",
+       "chiv"
+      ],
+      "crisis": []
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "If you know a name, it is easier to see a symptom in everyday ups and downs",
+       "body": "If you know the name of an illness or of a developmental disorder, a little tiredness or a moment of inattention can more easily look like a symptom.\n\nFeelings can really change how your body and your mood feel. This is not imagination, it really happens. Lack of sleep, stress, phone use or what is going on around you can also have similar effects.\n\nIf, when you read a name, you think “that could be it,” do not stop there right away, but think of other reasons too. If the difficulties continue, you can talk about them as they are, even without a name.",
+       "srcs": []
+      },
+      {
+       "h": "Mental health can change",
+       "body": "Mental health is not a fixed state; it can change over the course of life.\n\nA name is given by specialists, for example a doctor. What also counts is how strong the difficulties are and how much they get in the way of daily life.\n\nIf the difficulties go on, you can talk about them as they are, whatever the name.",
+       "srcs": [
+        {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Psychische Gesundheit",
+         "url": "https://www.bag.admin.ch/de/psychische-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Universitätsspital Zürich (USZ)",
+         "title": "Angststörungen",
+         "url": "https://www.usz.ch/krankheit/angststoerungen/",
+         "kind": "fact",
+         "upd": "2026-02-19"
+        }
+       ]
+      },
+      {
+       "h": "You can talk about your difficulties even without the name of an illness",
+       "body": "Die Dargebotene Hand (La Main Tendue, Telefono amico) can be reached by phone on 143 around the clock; there is also email and chat.\n\nIf your job is threatened for health reasons, the invalidity insurance (IV) office of your canton can, on request, advise you on questions about your work even before you apply for benefits.\n\nFor a compensation for disadvantages in the Swiss Matura exam, the application must include a medical or psychological report with a current diagnosis.\n\nWhat you would like to ask for, and what can be done, depends on each situation and is decided by talking it through.",
+       "srcs": [
+        {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Hilfsangebote zur psychischen Gesundheit",
+         "url": "https://www.bag.admin.ch/de/hilfsangebote-zur-psychischen-gesundheit",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Schweizerische Eidgenossenschaft (Fedlex)",
+         "title": "Bundesgesetz über die Invalidenversicherung (IVG), Art. 3a",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20260101/de/html/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20260101-de-html-8.html",
+         "kind": "fact",
+         "upd": "2026-01-01"
+        },
+        {
+         "org": "Staatssekretariat für Bildung, Forschung und Innovation (SBFI)",
+         "title": "Nachteilsausgleich bei den Prüfungen der Schweizerischen Maturitätskommission SMK",
+         "url": "https://www.sbfi.admin.ch/de/nachteilsausgleich",
+         "kind": "fact",
+         "upd": "none"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for medical documents",
+       "body": "Basic health insurance can pay for sessions with psychologists who work under it if there is an illness and a medical prescription.\n\nIn a private employment relationship, a person who cannot work must prove it with a medical certificate if the employer asks; the certificate should not contain a diagnosis.\n\nIf you claim benefits from a social insurance such as the IV, it can require medical or specialist examinations as far as they are necessary and reasonable.\n\nIt is best to ask the responsible office beforehand which documents you need.",
+       "srcs": [
+        {
+         "org": "Bundesamt für Gesundheit (BAG)",
+         "title": "Neuregelung der psychologischen Psychotherapie ab 1. Juli 2022",
+         "url": "https://www.bag.admin.ch/de/neuregelung-der-psychologischen-psychotherapie-ab-1-juli-2022",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Staatssekretariat für Wirtschaft (SECO)",
+         "title": "Verhinderung des Arbeitnehmers an der Arbeitsleistung",
+         "url": "https://www.seco.admin.ch/de/faq-verhinderung-des-arbeitnehmers-an-der-arbeitsleistung",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Schweizerische Eidgenossenschaft (Fedlex)",
+         "title": "Bundesgesetz über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG), Art. 43",
+         "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20240101/de/html/fedlex-data-admin-ch-eli-cc-2002-510-20240101-de-html-4.html",
+         "kind": "fact",
+         "upd": "2024-01-01"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "A name for an illness is not a tool for placing yourself above others",
+       "body": "A name for an illness is not a tool for placing yourself above someone or for looking down on others.\nSome people feel relieved when they find a name for what they are going through. That matters.\nThe wish that the people around you understand you, or are kind to you, is natural too.\n\nIf you wish for someone to be kind to you, you can say so directly, without naming an illness.\nIt comes across more easily if you say two things together: what you have difficulty with and what you wish from the other person.\n\nFor example, you can say:\n“I am tired today. It would help me if you spoke to me slowly.”\n“When I am told a lot at once, I lose the thread. It would help me if you told me one thing at a time.”\n“I find it hard to remember what I only hear. It would help me if important things were written down, on paper or by e-mail.”\n“Places with many people are hard for me. I would like to talk in a quiet place.”\n“I need a little time to answer. It would help me if you waited a moment.”\n“Right now I am very shaken up. It would help me if you just listened to me first. Advice can come later.”\n“I am not feeling well today. It would help me to be able to rest a little.”\n“Sudden changes of plan throw me off. It would help me to be told as early as you can.”\n“When someone speaks loudly to me, I get scared. It would help me if people spoke calmly to me.”\n\nIf it is hard to say it well, you can also write it on paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to name an illness, you can. Even then, it helps the other person to act if you also say what you have difficulty with and what you wish.\nSometimes the other person cannot do what you ask because of their own situation. Then you can think together about whether there is another way.\n\nIf you wish for a binding adjustment at work or in your studies, ask the responsible office what you need for it. Medical documents may be needed for this.\n\nThe list of names in this app is not meant for doubting the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Swiss Confederation, to federal offices such as the Federal Office of Public Health, to Swissmedic, to the cantons, to hospitals or to any other health institution in Switzerland, and none of them recommends or supports this app. The names of the institutions only show where the information comes from.\n\nSOYOGI wrote this content in its own words, based on public pages in Switzerland. Sources are shown on each screen, with the date the page shows, when it shows one. Checked on 20 November 2026. Numbers and hours may change. The hours are those given by each service, in Swiss time.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "If exhaustion, sleep problems, withdrawing from others or low mood do not ease, take them seriously. The earlier you look for support, the easier it is to get through a crisis.",
+      "src": {
+       "org": "Bundesamt für Gesundheit (BAG)",
+       "title": "Was tun für die psychische Gesundheit?",
+       "url": "https://www.bag.admin.ch/de/was-tun-fuer-die-psychische-gesundheit",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Family doctor: If you have difficulties with attention, with contact with others, or with reading, writing and arithmetic, you can talk to your family doctor first.",
+       "src": {
+        "org": "Bundesamt für Gesundheit (BAG)",
+        "title": "Psychische Belastungen? Nützliche Tipps und Infos zur Psychotherapie",
+        "url": "https://www.bag.admin.ch/dam/de/sd-web/-sbeYqTplJvP/broschuere-psychische-gesundheit-bag.pdf",
+        "kind": "fact",
+        "upd": "2023-03"
+       }
+      },
+      {
+       "text": "At work: If health problems threaten your ability to work, you can get in touch with the IV office of your canton even before you apply for benefits.",
+       "src": {
+        "org": "Bundesamt für Sozialversicherungen (BSV)",
+        "title": "Früherfassung und Frühintervention",
+        "url": "https://www.bsv.admin.ch/de/frueherfassung-fruehintervention",
+        "kind": "fact",
+        "upd": "2025-08-28"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "For example, anxiety: specialists speak of an anxiety disorder when anxiety becomes excessively strong and restricts daily life.",
+      "src": {
+       "org": "Universitätsspital Zürich (USZ)",
+       "title": "Angststörungen",
+       "url": "https://www.usz.ch/krankheit/angststoerungen/",
+       "kind": "fact",
+       "upd": "2026-02-19"
       }
      },
      "fewNote": "Only a few names could be confirmed on public health pages.",
