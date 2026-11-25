@@ -52,7 +52,9 @@ window.KOMARI_DATA = {
   "in",
   "arg",
   "be",
-  "ch"
+  "ch",
+  "co",
+  "uy"
  ],
  "c": {
   "jp": {
@@ -67,6 +69,8 @@ window.KOMARI_DATA = {
     "esmx": "Japón",
     "escl": "Japón",
     "esar": "Japón",
+    "esuy": "Japón",
+    "esco": "Japón",
     "nl": "Japan",
     "ko": "일본",
     "zh": "日本",
@@ -3193,6 +3197,8 @@ window.KOMARI_DATA = {
     "esmx": "Estados Unidos",
     "escl": "Estados Unidos",
     "esar": "Estados Unidos",
+    "esuy": "Estados Unidos",
+    "esco": "Estados Unidos",
     "nl": "Verenigde Staten",
     "ko": "미국",
     "zh": "美國",
@@ -4922,6 +4928,8 @@ window.KOMARI_DATA = {
     "esmx": "Francia",
     "escl": "Francia",
     "esar": "Francia",
+    "esuy": "Francia",
+    "esco": "Francia",
     "nl": "Frankrijk",
     "ko": "프랑스",
     "zh": "法國",
@@ -8317,6 +8325,8 @@ window.KOMARI_DATA = {
     "esmx": "Alemania",
     "escl": "Alemania",
     "esar": "Alemania",
+    "esuy": "Alemania",
+    "esco": "Alemania",
     "nl": "Duitsland",
     "ko": "독일",
     "zh": "德國",
@@ -11750,6 +11760,8 @@ window.KOMARI_DATA = {
     "esmx": "España",
     "escl": "España",
     "esar": "España",
+    "esuy": "España",
+    "esco": "España",
     "nl": "Spanje",
     "ko": "스페인",
     "zh": "西班牙",
@@ -14744,6 +14756,8 @@ window.KOMARI_DATA = {
     "esmx": "Países Bajos",
     "escl": "Países Bajos",
     "esar": "Países Bajos",
+    "esuy": "Países Bajos",
+    "esco": "Países Bajos",
     "nl": "Nederland",
     "ko": "네덜란드",
     "zh": "荷蘭",
@@ -17741,6 +17755,8 @@ window.KOMARI_DATA = {
     "esmx": "Corea del Sur",
     "escl": "Corea del Sur",
     "esar": "Corea del Sur",
+    "esuy": "Corea del Sur",
+    "esco": "Corea del Sur",
     "nl": "Zuid-Korea",
     "ko": "한국",
     "zh": "韓國",
@@ -20912,6 +20928,8 @@ window.KOMARI_DATA = {
     "esmx": "Taiwán",
     "escl": "Taiwán",
     "esar": "Taiwán",
+    "esuy": "Taiwán",
+    "esco": "Taiwán",
     "nl": "Taiwan",
     "ko": "대만",
     "zh": "臺灣",
@@ -23883,6 +23901,8 @@ window.KOMARI_DATA = {
     "esmx": "Italia",
     "escl": "Italia",
     "esar": "Italia",
+    "esuy": "Italia",
+    "esco": "Italia",
     "nl": "Italië",
     "ko": "이탈리아",
     "zh": "義大利",
@@ -26909,6 +26929,8 @@ window.KOMARI_DATA = {
     "esmx": "Suecia",
     "escl": "Suecia",
     "esar": "Suecia",
+    "esuy": "Suecia",
+    "esco": "Suecia",
     "nl": "Zweden",
     "ko": "스웨덴",
     "zh": "瑞典",
@@ -30367,6 +30389,8 @@ window.KOMARI_DATA = {
     "esmx": "Brasil",
     "escl": "Brasil",
     "esar": "Brasil",
+    "esuy": "Brasil",
+    "esco": "Brasil",
     "nl": "Brazilië",
     "ko": "브라질",
     "zh": "巴西",
@@ -33103,6 +33127,8 @@ window.KOMARI_DATA = {
     "esmx": "Arabia Saudí",
     "escl": "Arabia Saudí",
     "esar": "Arabia Saudí",
+    "esuy": "Arabia Saudí",
+    "esco": "Arabia Saudí",
     "nl": "Saoedi-Arabië",
     "ko": "사우디아라비아",
     "zh": "沙烏地阿拉伯",
@@ -35078,6 +35104,8 @@ window.KOMARI_DATA = {
     "esmx": "Reino Unido",
     "escl": "Reino Unido",
     "esar": "Reino Unido",
+    "esuy": "Reino Unido",
+    "esco": "Reino Unido",
     "nl": "Verenigd Koninkrijk",
     "ko": "영국",
     "zh": "英國",
@@ -36857,6 +36885,8 @@ window.KOMARI_DATA = {
     "esmx": "Australia",
     "escl": "Australia",
     "esar": "Australia",
+    "esuy": "Australia",
+    "esco": "Australia",
     "nl": "Australië",
     "ko": "오스트레일리아",
     "zh": "澳洲",
@@ -38512,6 +38542,8 @@ window.KOMARI_DATA = {
     "esmx": "Nueva Zelanda",
     "escl": "Nueva Zelanda",
     "esar": "Nueva Zelanda",
+    "esuy": "Nueva Zelanda",
+    "esco": "Nueva Zelanda",
     "nl": "Nieuw-Zeeland",
     "ko": "뉴질랜드",
     "zh": "紐西蘭",
@@ -39810,6 +39842,8 @@ window.KOMARI_DATA = {
     "esmx": "Irlanda",
     "escl": "Irlanda",
     "esar": "Irlanda",
+    "esuy": "Irlanda",
+    "esco": "Irlanda",
     "nl": "Ierland",
     "ko": "아일랜드",
     "zh": "愛爾蘭",
@@ -41199,6 +41233,8 @@ window.KOMARI_DATA = {
     "esmx": "Austria",
     "escl": "Austria",
     "esar": "Austria",
+    "esuy": "Austria",
+    "esco": "Austria",
     "nl": "Oostenrijk",
     "ko": "오스트리아",
     "zh": "奧地利",
@@ -44257,6 +44293,8 @@ window.KOMARI_DATA = {
     "esmx": "Canadá",
     "escl": "Canadá",
     "esar": "Canadá",
+    "esuy": "Canadá",
+    "esco": "Canadá",
     "nl": "Canada",
     "ko": "캐나다",
     "zh": "加拿大",
@@ -47291,6 +47329,8 @@ window.KOMARI_DATA = {
     "esmx": "Portugal",
     "escl": "Portugal",
     "esar": "Portugal",
+    "esuy": "Portugal",
+    "esco": "Portugal",
     "nl": "Portugal",
     "ko": "포르투갈",
     "zh": "葡萄牙",
@@ -49547,6 +49587,8 @@ window.KOMARI_DATA = {
     "esmx": "México",
     "escl": "México",
     "esar": "México",
+    "esuy": "México",
+    "esco": "México",
     "nl": "Mexico",
     "ko": "멕시코",
     "zh": "墨西哥",
@@ -52374,6 +52416,8 @@ window.KOMARI_DATA = {
     "esmx": "Singapur",
     "escl": "Singapur",
     "esar": "Singapur",
+    "esuy": "Singapur",
+    "esco": "Singapur",
     "nl": "Singapore",
     "ko": "싱가포르",
     "zh": "新加坡",
@@ -53551,6 +53595,8 @@ window.KOMARI_DATA = {
     "esmx": "Hong Kong",
     "escl": "Hong Kong",
     "esar": "Hong Kong",
+    "esuy": "Hong Kong",
+    "esco": "Hong Kong",
     "nl": "Hongkong",
     "ko": "홍콩",
     "zh": "香港",
@@ -56079,6 +56125,8 @@ window.KOMARI_DATA = {
     "esmx": "Emiratos Árabes Unidos",
     "escl": "Emiratos Árabes Unidos",
     "esar": "Emiratos Árabes Unidos",
+    "esuy": "Emiratos Árabes Unidos",
+    "esco": "Emiratos Árabes Unidos",
     "nl": "Verenigde Arabische Emiraten",
     "ko": "아랍에미리트",
     "zh": "阿拉伯聯合大公國",
@@ -58150,6 +58198,8 @@ window.KOMARI_DATA = {
     "esmx": "Chile",
     "escl": "Chile",
     "esar": "Chile",
+    "esuy": "Chile",
+    "esco": "Chile",
     "nl": "Chili",
     "ko": "칠레",
     "zh": "智利",
@@ -59923,6 +59973,8 @@ window.KOMARI_DATA = {
     "esmx": "India",
     "escl": "India",
     "esar": "India",
+    "esuy": "India",
+    "esco": "India",
     "nl": "India",
     "ko": "인도",
     "zh": "印度",
@@ -61605,6 +61657,8 @@ window.KOMARI_DATA = {
     "esmx": "Argentina",
     "escl": "Argentina",
     "esar": "Argentina",
+    "esuy": "Argentina",
+    "esco": "Argentina",
     "nl": "Argentinië",
     "ko": "아르헨티나",
     "zh": "阿根廷",
@@ -63746,6 +63800,8 @@ window.KOMARI_DATA = {
     "esmx": "Bélgica",
     "escl": "Bélgica",
     "esar": "Bélgica",
+    "esuy": "Bélgica",
+    "esco": "Bélgica",
     "nl": "België",
     "ko": "벨기에",
     "zh": "比利時",
@@ -68038,6 +68094,8 @@ window.KOMARI_DATA = {
     "esmx": "Suiza",
     "escl": "Suiza",
     "esar": "Suiza",
+    "esuy": "Suiza",
+    "esco": "Suiza",
     "nl": "Zwitserland",
     "ko": "스위스",
     "zh": "瑞士",
@@ -72233,6 +72291,3781 @@ window.KOMARI_DATA = {
        "url": "https://www.usz.ch/krankheit/angststoerungen/",
        "kind": "fact",
        "upd": "2026-02-19"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "co": {
+   "id": "co",
+   "name": {
+    "ja": "コロンビア",
+    "en": "Colombia",
+    "fr": "Colombie",
+    "de": "Kolumbien",
+    "dech": "Kolumbien",
+    "es": "Colombia",
+    "esmx": "Colombia",
+    "escl": "Colombia",
+    "esar": "Colombia",
+    "esuy": "Colombia",
+    "esco": "Colombia",
+    "nl": "Colombia",
+    "ko": "콜롬비아",
+    "zh": "哥倫比亞",
+    "zhhk": "哥倫比亞",
+    "it": "Colombia",
+    "sv": "Colombia",
+    "pt": "Colômbia",
+    "ptpt": "Colômbia",
+    "ar": "كولومبيا",
+    "hi": "कोलंबिया"
+   },
+   "langs": [
+    "esco",
+    "en"
+   ],
+   "main": "esco",
+   "fallback": "esco",
+   "srcLang": "esco",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-25",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "co123",
+     "band": "now",
+     "tel": "123",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esco": {
+      "name": "Línea 123: Atención y Emergencias",
+      "desc": "Llama al 123 si hay un peligro inmediato para la vida o la seguridad.",
+      "hours": "Para emergencias.",
+      "src": {
+       "org": "Policía Nacional de Colombia",
+       "title": "Líneas de Emergencia",
+       "url": "https://www.policia.gov.co/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Line 123: emergencies",
+      "desc": "Call 123 if there is immediate danger to life or safety.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Policía Nacional de Colombia",
+       "title": "Líneas de Emergencia",
+       "url": "https://www.policia.gov.co/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Policía Nacional de Colombia",
+      "title": "Líneas de Emergencia",
+      "url": "https://www.policia.gov.co/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "co106",
+     "band": "now",
+     "tel": "106",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esco": {
+      "name": "Línea 106: salud mental",
+      "desc": "El Ministerio de Salud y Protección Social dice que es gratuita y confidencial y que funciona las 24 horas. Puedes llamar desde un teléfono fijo o un celular. El Ministerio también publica un directorio de líneas territoriales.",
+      "hours": "Las 24 horas, todos los días.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Línea 106",
+       "url": "https://www.minsalud.gov.co/salud/publica/salud-mental/Paginas/linea-106.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Line 106: mental health",
+      "desc": "The Ministry of Health and Social Protection says it is free and confidential and works 24 hours a day. You can call from a landline or a mobile phone. The Ministry also publishes a directory of regional lines.",
+      "hours": "24 hours a day, every day.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Línea 106",
+       "url": "https://www.minsalud.gov.co/salud/publica/salud-mental/Paginas/linea-106.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud y Protección Social",
+      "title": "Línea 106",
+      "url": "https://www.minsalud.gov.co/salud/publica/salud-mental/Paginas/linea-106.aspx",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "coeps",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esco": {
+      "name": "Tu EPS (medicina general o psicología)",
+      "desc": "Si estás afiliado o afiliada a una EPS, puedes pedir directamente una consulta de medicina general o de psicología: son puertas de entrada a los servicios de salud.",
+      "hours": "Depende de cada lugar.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Resolución 2765 de 2025",
+       "url": "https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202765%20de%202025.pdf",
+       "kind": "fact",
+       "upd": "2025-12-30"
+      }
+     },
+     "en": {
+      "name": "Your EPS (general medicine or psychology)",
+      "desc": "If you are affiliated with an EPS, you can ask directly for a general medicine or psychology appointment: these are entry points to health services.",
+      "hours": "It depends on each place.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Resolución 2765 de 2025",
+       "url": "https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202765%20de%202025.pdf",
+       "kind": "fact",
+       "upd": "2025-12-30"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud y Protección Social",
+      "title": "Resolución 2765 de 2025",
+      "url": "https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202765%20de%202025.pdf",
+      "kind": "fact",
+      "upd": "2025-12-30"
+     }
+    },
+    {
+     "id": "co155",
+     "band": "day",
+     "tel": "155",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esco": {
+      "name": "Línea 155: orientación a mujeres",
+      "desc": "Línea de orientación a mujeres que la Policía Nacional publica entre sus líneas de emergencia.",
+      "hours": "",
+      "src": {
+       "org": "Policía Nacional de Colombia",
+       "title": "Líneas de Emergencia",
+       "url": "https://www.policia.gov.co/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Line 155: guidance for women",
+      "desc": "Guidance line for women, listed by the National Police among its emergency lines.",
+      "hours": "",
+      "src": {
+       "org": "Policía Nacional de Colombia",
+       "title": "Líneas de Emergencia",
+       "url": "https://www.policia.gov.co/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Policía Nacional de Colombia",
+      "title": "Líneas de Emergencia",
+      "url": "https://www.policia.gov.co/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "codisc",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esco": {
+      "name": "Secretaría de salud de tu municipio o distrito",
+      "desc": "Allí se pide la orden para el certificado de discapacidad. El trámite es voluntario.",
+      "hours": "Depende de cada lugar.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Resolución 1197 de 2024",
+       "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%201197%20de%202024.pdf",
+       "kind": "fact",
+       "upd": "2024-07-05"
+      }
+     },
+     "en": {
+      "name": "Health secretariat of your municipality or district",
+      "desc": "You request the order for the disability certificate there. The process is voluntary.",
+      "hours": "It depends on each place.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Resolución 1197 de 2024",
+       "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%201197%20de%202024.pdf",
+       "kind": "fact",
+       "upd": "2024-07-05"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud y Protección Social",
+      "title": "Resolución 1197 de 2024",
+      "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%201197%20de%202024.pdf",
+      "kind": "fact",
+      "upd": "2024-07-05"
+     }
+    },
+    {
+     "id": "cosupersalud",
+     "band": "day",
+     "tel": "01 8000 513 700",
+     "tel2": "",
+     "url": "",
+     "linkOk": false,
+     "esco": {
+      "name": "Superintendencia Nacional de Salud: 01 8000 513 700",
+      "desc": "Línea gratuita de la Superintendencia Nacional de Salud.",
+      "hours": "",
+      "src": {
+       "org": "Superintendencia Nacional de Salud",
+       "title": "Superintendencia Nacional de Salud",
+       "url": "https://www.supersalud.gov.co/es-co/Paginas/Home.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Superintendencia Nacional de Salud: 01 8000 513 700",
+      "desc": "Free line of the Superintendencia Nacional de Salud.",
+      "hours": "",
+      "src": {
+       "org": "Superintendencia Nacional de Salud",
+       "title": "Superintendencia Nacional de Salud",
+       "url": "https://www.supersalud.gov.co/es-co/Paginas/Home.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Superintendencia Nacional de Salud",
+      "title": "Superintendencia Nacional de Salud",
+      "url": "https://www.supersalud.gov.co/es-co/Paginas/Home.aspx",
+      "kind": "fact",
+      "upd": "none"
+     }
+    }
+   ],
+   "esco": {
+    "groups": {
+     "mood": {
+      "label": "Ánimo bajo, sin energía",
+      "lead": "Cuando el ánimo sigue bajo y cuesta encontrar fuerzas para cualquier cosa.",
+      "scenes": [
+       "Tengo el ánimo bajo de la mañana a la noche.",
+       "Las cosas que antes me gustaban ya no me hacen disfrutar.",
+       "No tengo fuerzas ni puedo concentrarme, así que el trabajo y los oficios de la casa se quedan sin hacer.",
+       "Me culpo de todo y siempre pienso lo peor.",
+       "De noche no puedo dormir, o duermo demasiado. He perdido el apetito y el cuerpo me pesa.",
+       "A veces quiero desaparecer o ya no estar aquí."
+      ],
+      "asks": [
+       "Me ayuda que me expliquen lo que hay que hacer, una cosa a la vez.",
+       "Necesito tiempo para pensar: prefiero que no me presionen para responder ni para decidir.",
+       "Prefiero que me den por escrito lo importante.",
+       "Antes de decirme “¡Ánimo!” o “Ponle ganas”, me ayuda que me escuchen primero.",
+       "Cuando descanso, prefiero que no piensen que es pereza.",
+       "Me ayuda que revisen conmigo si alguna enfermedad física o algún medicamento que tomo puede influir."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión",
+        "why": "Esta página usa el nombre “depresión” cuando la desesperanza cambia la forma de pensar, sentir y actuar, y se vuelve difícil hacer las actividades del día y disfrutar de la vida.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Depresión",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/depresion/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta página explica que en el trastorno bipolar el ánimo también puede bajar mucho, con tristeza, desesperanza y cansancio.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastorno bipolar",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastorno-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mucha preocupación o tensión",
+      "lead": "Preocupaciones que no se quitan, el corazón acelerado e inquietud, dificultades frente a otras personas o al salir de casa, y cosas parecidas.",
+      "scenes": [
+       "Cuando tengo que hablar frente a otras personas o me observan, siento tanta ansiedad que me quedo en blanco.",
+       "De repente el corazón me late muy rápido y me falta el aire. Me preocupa que vuelva a pasar y por eso me cuesta salir de casa.",
+       "Sin un motivo claro, me preocupo por una cosa tras otra, siento mucha inquietud y no me quedan fuerzas.",
+       "La paso mal en los lugares de los que es difícil salir, como el transporte público, los centros comerciales o los lugares con mucha gente, y también cuando salgo de casa sin compañía. Por eso trato de evitarlos.",
+       "Como evito lo que me da miedo, cada vez voy a menos lugares y veo a menos gente. Mi vida se ha hecho más pequeña.",
+       "Las preocupaciones no se me quitan de la cabeza y por la noche me cuesta dormirme."
+      ],
+      "asks": [
+       "Cuando hablo, me ayuda que me den tiempo y no me apuren.",
+       "Prefiero que me expliquen con anticipación el plan y cómo va a transcurrir todo.",
+       "Prefiero que no me pidan mi opinión de repente frente a otras personas, y poder responder también por escrito.",
+       "Si me siento mal, me ayuda poder salir un momento a descansar.",
+       "Prefiero hablar en un lugar tranquilo y con pocas personas.",
+       "Antes de decirme que me preocupo demasiado, me ayuda que escuchen primero lo que me cuesta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno de ansiedad generalizada",
+        "why": "Esta página explica que en el trastorno de ansiedad generalizada hay preocupaciones y miedos constantes por diferentes actividades y situaciones, aunque no haya una amenaza concreta, y que eso dificulta las actividades del día.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno de pánico",
+        "why": "Esta página explica que en el trastorno de pánico llegan, sin aviso, olas de miedo o de malestar muy intenso que se repiten, y aparece el temor a que vuelvan.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Ansiedad social",
+        "why": "Esta página explica que la ansiedad social es un temor intenso a situaciones sociales, como hablar en público, por la preocupación de lo que otras personas puedan pensar.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Agorafobia",
+        "why": "Esta página explica que la agorafobia es un miedo muy fuerte a estar en una situación de la que no se puede salir, o a sentir pánico o mucho malestar en público.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Fobias específicas",
+        "why": "Esta página explica que una fobia específica es un miedo intenso a un objeto, una actividad o una situación que casi no trae peligro, y que lleva a evitarlo.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Me cuesta dejar de revisar o de repetir",
+      "lead": "Cuando revisas una y otra vez la puerta o el gas, te lavas las manos o repites otras acciones y te cuesta parar aunque quieras.",
+      "scenes": [
+       "Al salir de casa necesito revisar una y otra vez si cerré bien la puerta o la llave del gas; si no, no logro irme con tranquilidad.",
+       "Me lavo las manos o el cuerpo cada vez más veces y, aunque quiero parar, no puedo.",
+       "La misma preocupación me viene a la cabeza una y otra vez y no logro dejar de pensar en ella, aunque quiero.",
+       "Si las cosas no están ordenadas o no se hacen en el orden que tengo fijado, me inquieto y termino ordenándolas de nuevo o empezando otra vez.",
+       "Me demoro tanto revisando las cosas que salgo de casa más tarde de lo previsto o llego tarde a mis citas y al trabajo.",
+       "Mi cuerpo se mueve o suelto sonidos sin querer, y me cuesta parar aunque lo intente."
+      ],
+      "asks": [
+       "Prefiero que no me digan que exagero y que primero me escuchen.",
+       "Me demoro revisando las cosas, así que me ayuda que se deje un margen de tiempo.",
+       "Cuando cambien los planes o los pasos a seguir, prefiero que me avisen con anticipación.",
+       "Prefiero que no me señalen ni se rían de mí frente a otras personas cuando estoy revisando algo o lavándome las manos.",
+       "Me ayuda que me den las explicaciones y las instrucciones una por una y por escrito.",
+       "Antes de decidir cómo seguimos, prefiero que escuchen mis preocupaciones y que lo decidamos con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno obsesivo-compulsivo (TOC)",
+        "why": "Esta página explica que en el trastorno obsesivo-compulsivo hay pensamientos o imágenes que se repiten sin querer y causan ansiedad (obsesiones), y acciones que se repiten para calmar ese malestar (compulsiones); también, que puede ir más allá del orden o la limpieza y afectar la vida diaria.",
+        "src": {
+         "org": "Alcaldía de Manizales (Centro de Información)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC): cuando los pensamientos y las compulsiones afectan la vida diaria, es momento de buscar ayuda",
+         "url": "https://centrodeinformacion.manizales.gov.co/toc-cuando-los-pensamientos-y-las-compulsiones-afectan-la-vida-diaria-es-momento-de-buscar-ayuda/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página explica que el trastorno del espectro autista incluye un apego fuerte a rutinas y rituales, junto con dificultades en las relaciones con otras personas.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Espectro autista",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/espectro-autista/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "Una experiencia dura me sigue afectando",
+      "lead": "Recuerdos que vuelven una y otra vez, dormir mal o una tensión que no se va después de una experiencia dura.",
+      "scenes": [
+       "Por cualquier detalle, de repente vuelven la escena y las sensaciones de aquel momento tan duro.",
+       "Tengo pesadillas parecidas una y otra vez y muchas noches no logro dormir profundamente.",
+       "Estoy siempre en tensión y hasta un ruido pequeño o un imprevisto me hace dar un salto.",
+       "Siempre que puedo, evito los lugares, las personas y los temas que me recuerdan aquello, y mi vida diaria se ha ido haciendo más pequeña.",
+       "Es como si algo dentro de mí se hubiera apagado, y ya no logro sentir por mi familia y mis amistades lo mismo que antes.",
+       "Cada vez me culpo más, o me cuesta más confiar en la gente que me rodea."
+      ],
+      "asks": [
+       "Prefiero que no me pregunten todos los detalles de lo que pasó. Quiero contarlo a mi ritmo y hasta donde pueda.",
+       "Hay sonidos, lugares y temas que lo reviven todo. Me ayuda que se acepte que prefiero evitarlos.",
+       "Me ayuda que no me hablen de repente por la espalda ni hagan ruidos fuertes cerca de mí.",
+       "Cuando hablar me cuesta demasiado, prefiero poder entregar algo escrito.",
+       "Hay días en que no duermo o en que no se me quita el cansancio. Prefiero que no se tome por pereza.",
+       "Prefiero que no me apuren con frases como “Olvídalo” o “Supéralo”, y que haya un lugar donde pueda hablar con tranquilidad."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "coeps",
+       "co155",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificultades con el sueño",
+      "lead": "Te cuesta dormirte, te despiertas por la noche, te cuesta levantarte o durante el día te da mucho sueño.",
+      "scenes": [
+       "Aunque me acueste, tardo mucho en dormirme.",
+       "Me despierto varias veces por la noche y no duermo de un tirón hasta la mañana.",
+       "A la hora de levantarme no puedo hacerlo, y llego tarde al trabajo o a clase una y otra vez.",
+       "Durante el día me da un sueño muy fuerte y estoy a punto de cabecear en una reunión o al manejar.",
+       "Mi familia me dice que ronco muy fuerte y que, mientras duermo, parece que se me corta la respiración.",
+       "Al caer la tarde y por la noche siento en las piernas una sensación incómoda que no me deja descansar ni dormir."
+      ],
+      "asks": [
+       "Me ayuda que se tomen el tiempo de preguntarme cómo duermo: cuánto tardo en dormirme, si me despierto de noche, lo que me cuesta levantarme y cuánto sueño tengo de día.",
+       "Prefiero que repasen conmigo los medicamentos que tomo y mis hábitos con el café, el alcohol y el cigarrillo, para ver qué puede estar influyendo.",
+       "Me ayuda que no se dé por hecho que es cuestión de actitud, y que se revise también la salud del cuerpo y el estado de ánimo.",
+       "Prefiero explicar mis horarios con una nota escrita, con la hora a la que me acuesto y a la que me levanto, y que la revisen con calma.",
+       "Si hay que tomar algún medicamento, me ayuda que me expliquen con palabras sencillas cómo funciona y qué cuidados requiere.",
+       "Por las mañanas me cuesta mucho, así que prefiero que me den cita por la tarde."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificultades con la comida",
+      "lead": "Cuando comer se hace difícil: no puedes comer mucho, no puedes parar o comer te da miedo.",
+      "scenes": [
+       "No tengo ganas de comer y hay muchos días en que la comida casi no me pasa por la garganta.",
+       "Cuando empiezo a comer no logro parar, y a veces como tanto que me siento mal.",
+       "Sin darme cuenta, no dejo de pensar en la comida y me cuesta concentrarme en otras cosas.",
+       "Solo puedo comer muy pocas cosas, y evito muchos alimentos porque el sabor, el olor o la textura me resultan muy desagradables.",
+       "Desde que me atraganté con un alimento o vomité, comer me da miedo.",
+       "Por la noche como entre sueños y, por la mañana, a veces no me acuerdo de nada."
+      ],
+      "asks": [
+       "Prefiero que no hagan comentarios sobre mi cuerpo ni sobre mi aspecto.",
+       "Me ayuda que no me obliguen a comer ni me apuren para hacerlo.",
+       "Cuando se come en grupo, me ayuda que me dejen elegir otro lugar u otro momento.",
+       "Prefiero que me pregunten antes qué puedo comer y qué olores o texturas me cuestan.",
+       "Me ayuda que me expliquen antes cómo será la consulta y qué exámenes se van a hacer.",
+       "Prefiero poder entregar por escrito lo que me cuesta decir en voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastornos alimentarios (bulimia nerviosa, anorexia nerviosa)",
+        "why": "Esta página explica que un trastorno alimentario cambia la manera de comer, de pensar en la comida o de relacionarse con ella, y la idea sobre el peso del cuerpo. Menciona, por ejemplo, la bulimia nerviosa y la anorexia nerviosa.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastornos de alimentación",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastornos-de-alimentacion/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "habit": {
+      "label": "Me cuesta dejar el alcohol, las apuestas o los videojuegos",
+      "lead": "Cuando quieres dejarlo o hacerlo menos, pero sigues.",
+      "scenes": [
+       "Me propongo dejarlo o hacerlo menos, pero luego me doy cuenta de que sigo igual.",
+       "No logro respetar el tiempo, la cantidad ni el dinero que me había puesto como límite para hoy.",
+       "Les oculto a las personas cercanas que tomo alcohol, que apuesto o que juego videojuegos, o lo disimulo con excusas.",
+       "Me trasnocho jugando videojuegos, por la mañana no logro levantarme y cada vez con más frecuencia llego tarde o falto al trabajo o al colegio.",
+       "Cuando pierdo dinero en apuestas deportivas, en línea o en las máquinas tragamonedas de los casinos, quiero recuperarlo y vuelvo a apostar.",
+       "Aunque sé que mi cuerpo se está resintiendo, no logro tomar menos alcohol."
+      ],
+      "asks": [
+       "Me ayuda que primero me escuchen, sin culparme ni sacar conclusiones antes de tiempo.",
+       "Me ayuda que me acompañen a ir viendo, paso a paso, cómo es mi día a día con esto y qué dificultades me trae.",
+       "Me gustaría que también se revisaran mi sueño y mi salud física.",
+       "Me ayuda que me digan de forma concreta dónde puedo recibir apoyo y a qué lugares puedo acudir.",
+       "Me gustaría saber si mi familia o una persona cercana puede venir conmigo a la consulta.",
+       "Prefiero que antes me digan a quién se le va a contar lo que cuento y hasta qué punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Consumo problemático de sustancias psicoactivas (incluido el alcohol)",
+        "why": "Este artículo explica que el consumo de alcohol u otras sustancias pasa a ser un problema cuando es frecuente y se empieza a notar en el día a día: en la motivación, en las relaciones, en el estudio o en el trabajo.",
+        "src": {
+         "org": "Alcaldía Mayor de Bogotá (Portal Bogotá)",
+         "title": "Bogotá fortalece la atención a personas con adicciones a través del Hospital Día",
+         "url": "https://bogota.gov.co/mi-ciudad/salud/atencion-personas-con-adicciones-traves-del-hospital-dia-en-bogota",
+         "kind": "fact",
+         "upd": "2025-05-24"
+        }
+       },
+       {
+        "name": "Adicciones comportamentales (juego, apuestas, videojuegos)",
+        "why": "Este artículo explica que también hay adicciones comportamentales, como la ludopatía (adicción al juego), las apuestas o el uso compulsivo de videojuegos.",
+        "src": {
+         "org": "Alcaldía Mayor de Bogotá (Portal Bogotá)",
+         "title": "Bogotá fortalece la atención a personas con adicciones a través del Hospital Día",
+         "url": "https://bogota.gov.co/mi-ciudad/salud/atencion-personas-con-adicciones-traves-del-hospital-dia-en-bogota",
+         "kind": "fact",
+         "upd": "2025-05-24"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificultades de atención u organización",
+      "lead": "Dificultades para concentrarte, avanzar paso a paso o acordarte de las cosas.",
+      "scenes": [
+       "Aunque alguien me esté hablando, mi mente se va a otro lado sin que me dé cuenta.",
+       "No logro sacar adelante mi trabajo o las tareas de la casa en orden, y se me pasan las fechas límite.",
+       "Muchas veces no me acuerdo de lo que me pidieron o de lo que prometí, o pierdo cosas.",
+       "Si llevo mucho rato con la misma tarea, se me juntan los errores por descuido.",
+       "Me cuesta estar mucho rato sin moverme y siento una inquietud que no me deja parar.",
+       "Las personas a mi alrededor me dicen que muchas veces se me olvidan las cosas o que llego tarde."
+      ],
+      "asks": [
+       "Me ayuda que me den las instrucciones una por una.",
+       "Prefiero que lo importante me lo den por escrito.",
+       "Me ayuda que me avisen con tiempo de las fechas límite y de las citas.",
+       "Me ayuda que no me pidan muchas cosas a la vez, sino que las dividan en partes pequeñas.",
+       "Me gustaría hablar en un lugar tranquilo, donde me distraiga menos.",
+       "Me ayuda que se reconozca lo que sí he logrado, en vez de reprocharme lo que no."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "coeps",
+       "codisc",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificultades con el trato, las rutinas o los sentidos",
+      "lead": "Dificultades para hablar o estar con otras personas, una gran necesidad de hacer las cosas de una manera concreta, o ruidos, luces y olores difíciles de soportar.",
+      "scenes": [
+       "En una conversación me cuesta captar lo que siente la otra persona o el ambiente del momento, y muchas veces siento que no nos entendemos.",
+       "Cuando tengo que hablar frente a otras personas o todas las miradas se dirigen a mí, siento mucha tensión y termino evitándolo.",
+       "Con las personas cercanas sí puedo hablar, pero frente a otras no me sale la voz.",
+       "Si cambia mi manera de hacer las cosas, el orden de los pasos o el lugar donde están mis cosas, siento una inquietud muy fuerte.",
+       "Los ruidos, las luces y los olores me resultan demasiado intensos, y los lugares con mucha gente se me hacen muy difíciles.",
+       "Me cuesta oír lo que dicen los demás, o tengo el ánimo bajo, y ver a la gente o hablar con ella se me ha vuelto muy difícil."
+      ],
+      "asks": [
+       "Me ayuda que me hablen despacio y con claridad.",
+       "Me ayuda que me escriban lo importante.",
+       "Me gustaría hablar en un lugar tranquilo.",
+       "Me ayuda que me avisen antes si cambian los planes o la forma de hacer las cosas.",
+       "Prefiero que no me apuren y que me den tiempo para responder.",
+       "Me gustaría poder responder por escrito o con una nota breve, en lugar de hablar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Pérdida auditiva",
+        "why": "Este documento explica que, en personas adultas, la pérdida auditiva puede hacer más difícil conseguir y mantener un empleo, y que es común que traiga aislamiento social.",
+        "src": {
+         "org": "Ministerio de Salud y Protección Social",
+         "title": "ABECÉ SALUD AUDITIVA Y COMUNICATIVA “Somos todo oídos”",
+         "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/abece-salud-auditiva-2017.pdf",
+         "kind": "fact",
+         "upd": "2017-02-24"
+        }
+       },
+       {
+        "name": "Ansiedad social",
+        "why": "Esta página explica que en la ansiedad social el miedo a lo que otras personas puedan pensar hace muy difícil estar en situaciones como hablar en público.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página explica que en el trastorno del espectro autista cuesta relacionarse con otras personas, y que la forma de comunicarse y de interactuar es distinta.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Espectro autista",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/espectro-autista/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "codisc",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Dificultades para leer, escribir o calcular",
+      "lead": "Cuando leer, escribir o manejar números sigue costando aunque te esfuerces.",
+      "scenes": [
+       "Me lleva más tiempo que a otras personas leer un texto, y muchas veces tengo que releerlo.",
+       "Aunque lea, el contenido no se me queda, y me cuesta entender lo que dicen los documentos o las cartas.",
+       "Me cuesta la ortografía: cometo muchos errores o se me van letras o palabras al escribir.",
+       "Mi letra me sale irregular, y escribir me lleva mucho tiempo y mucho esfuerzo.",
+       "Me enredo con las cuentas sencillas y con los problemas que vienen planteados en un texto.",
+       "Puedo hablar y escuchar sin dificultad, pero con la lectura, la escritura o las cuentas no avanzo como quisiera, aunque me tome mucho tiempo."
+      ],
+      "asks": [
+       "Me ayuda que me den los textos en letra grande y con más espacio entre las líneas, o en lectura fácil.",
+       "Prefiero que lo importante me lo lean en voz alta o me lo expliquen en persona.",
+       "Me ayuda poder escribir en un computador o en el celular, o dejar constancia con fotos o grabaciones de voz, en lugar de escribir a mano.",
+       "Me ayuda poder usar una calculadora para las cuentas.",
+       "Me ayuda que me den más tiempo para leer, escribir y hacer cuentas.",
+       "Prefiero que me den las cosas una por una y no todas a la vez."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dislexia (trastornos de la lectura)",
+        "why": "Este artículo explica que “dislexia” es el nombre que se suele dar a los trastornos del aprendizaje ligados a la lectura y al lenguaje; pueden hacer difícil reconocer palabras que ya se conocen, deletrear, escribir, leer rápido o entender un texto escrito, y no indican menos inteligencia ni falta de ganas de aprender.",
+        "src": {
+         "org": "Alcaldía Mayor de Bogotá (Portal Bogotá)",
+         "title": "‘Lectura fácil’, una herramienta que ayuda a quienes tienen dificultades para leer",
+         "url": "https://bogota.gov.co/mi-ciudad/lectura-facil-para-la-inclusion-de-personas-con-dificultades-lectoras",
+         "kind": "fact",
+         "upd": "2019-04-30"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "codisc",
+       "cosupersalud"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Grandes altibajos de ánimo",
+      "lead": "Cuando el ánimo sube y baja mucho y cuesta seguir el ritmo de tus propias emociones.",
+      "scenes": [
+       "Se alternan etapas de demasiada energía con etapas de ánimo tan bajo que casi no puedo moverme.",
+       "Hay etapas en las que duermo muy poco y aun así tengo mucha energía y no paro de moverme.",
+       "Se me ocurre una idea tras otra y todo se queda a medias.",
+       "En etapas de mucha euforia gasté tanto dinero que después tuve problemas.",
+       "Me irrito por cualquier cosa y me cuesta contener mis emociones.",
+       "Lo que hice cuando mi ánimo estaba muy arriba ha afectado mis relaciones o mi trabajo."
+      ],
+      "asks": [
+       "Me ayuda que me pregunten también por las etapas en las que sentí una energía fuera de lo común.",
+       "Me ayuda que se den el tiempo de repasar conmigo mis subidas y bajadas de ánimo.",
+       "Me ayuda que, antes de decisiones importantes sobre dinero o trabajo, me animen a parar y a pensar primero.",
+       "Prefiero que también se tengan en cuenta las causas físicas, incluidos el sueño, los medicamentos y el alcohol.",
+       "Si notan que algo cambió en mí, prefiero que me lo digan sin reprocharme nada.",
+       "Me ayuda que me escuchen hasta el final, tanto cuando estoy arriba como cuando estoy abajo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta página explica que cualquiera puede tener subidas y bajadas de ánimo, pero que en el trastorno bipolar esos cambios son mucho más intensos y duran más, y pueden llegar a dificultar la vida diaria.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastorno bipolar",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastorno-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conocer un nombre puede hacer que los altibajos de siempre parezcan síntomas",
+       "body": "Cuando conoces el nombre de una enfermedad o de una condición del desarrollo, un cansancio pasajero o un descuido cualquiera pueden empezar a parecerte un síntoma.\n\nLas emociones pueden cambiar cómo se sienten el cuerpo y el ánimo, y eso no es imaginación: ocurre de verdad. Pero dormir poco, el estrés, el uso del celular o lo que pasa a tu alrededor también pueden producir algo parecido.\n\nSi al leer un nombre piensas “a lo mejor es esto”, no te quedes ahí: piensa también en otras razones. Y si lo que te cuesta sigue, puedes hablar de ello tal como es, aunque no tengas un nombre para ello.",
+       "srcs": []
+      },
+      {
+       "h": "Todas las personas tenemos altibajos",
+       "body": "El ánimo de todas las personas sube y baja, y hay cambios de humor que duran poco. Sentir tristeza ante un problema, o preocupación ante una presión, también le pasa a cualquiera.\n\nEn Colombia, la ley dice que la salud mental es un derecho fundamental.\n\nUn nombre (un diagnóstico) lo pone una persona profesional de la salud.",
+       "srcs": [
+        {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastorno bipolar",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastorno-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Depresión",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/depresion/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría del Senado de la República",
+         "title": "LEY 1616 DE 2013",
+         "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1616_2013.html",
+         "kind": "fact",
+         "upd": "2013-01-21"
+        }
+       ]
+      },
+      {
+       "h": "Puedes consultar por lo que te pasa",
+       "body": "Si estás afiliado o afiliada a una EPS, puedes pedir directamente una consulta de medicina general o de psicología: son puertas de entrada a los servicios de salud. Puedes contar lo que te pasa con tus propias palabras.\n\nSi una discapacidad te dificulta el trabajo o el estudio, puedes pedir ajustes razonables: cambios pensados para tu caso, que no supongan una carga desproporcionada. En Colombia, la ley pide al empleador hacer los ajustes razonables que se requieran en el lugar de trabajo para las personas con discapacidad. Cuenta qué te cuesta y qué necesitas; a veces no se puede hacer todo.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud y Protección Social",
+         "title": "RESOLUCIÓN NÚMERO 002765 DE 2025",
+         "url": "https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202765%20de%202025.pdf",
+         "kind": "fact",
+         "upd": "2025-12-30"
+        },
+        {
+         "org": "Secretaría del Senado de la República",
+         "title": "LEY 1996 DE 2019",
+         "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1996_2019.html",
+         "kind": "fact",
+         "upd": "2019-08-26"
+        },
+        {
+         "org": "Secretaría del Senado de la República",
+         "title": "LEY 2466 DE 2025",
+         "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html",
+         "kind": "fact",
+         "upd": "2025-06-25"
+        }
+       ]
+      },
+      {
+       "h": "Algunos trámites piden documentos de un médico",
+       "body": "Algunos trámites piden documentos de un médico. Si una enfermedad no te deja trabajar, el médico o la médica que te atiende expide un certificado de incapacidad; las normas piden que incluya el código del diagnóstico.\n\nEl certificado de discapacidad es voluntario: depende de la libre elección de cada persona, y no todas las personas lo necesitan. Se pide en la secretaría de salud del municipio o distrito donde vives, y para pedirlo se presenta la historia clínica con el diagnóstico.\n\nAntes de empezar un trámite, pregunta en la oficina que corresponde qué documentos hacen falta.",
+       "srcs": [
+        {
+         "org": "Departamento Administrativo de la Función Pública (Gestor Normativo)",
+         "title": "DECRETO 780 DE 2016",
+         "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77813",
+         "kind": "fact",
+         "upd": "2016-05-06"
+        },
+        {
+         "org": "Ministerio de Salud y Protección Social",
+         "title": "RESOLUCIÓN NÚMERO 00001197 DE 2024",
+         "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%201197%20de%202024.pdf",
+         "kind": "fact",
+         "upd": "2024-07-05"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie",
+       "body": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie ni para mirar a otras personas por encima del hombro.\nA algunas personas les reconforta encontrar un nombre para lo que viven. Eso es importante.\nTambién es natural querer que la gente a nuestro alrededor nos comprenda o nos trate con amabilidad.\n\nCuando quieres que te traten con amabilidad, puedes pedirlo directamente, sin necesidad de decir el nombre de ninguna enfermedad.\nSe entiende mejor si dices a la vez dos cosas: con qué tienes dificultades y qué te gustaría que hiciera la otra persona.\n\nPor ejemplo:\n“Hoy me falta energía, así que me ayuda que me hablen despacio.”\n“Si me dicen muchas cosas a la vez, me pierdo; me ayuda que me expliquen las cosas de una en una.”\n“Lo que me dicen de palabra me cuesta recordarlo; prefiero que lo importante me lo den por escrito, en papel o por correo electrónico.”\n“Los lugares con mucha gente se me hacen difíciles; me gustaría hablar en un lugar tranquilo.”\n“Necesito un poco de tiempo para responder; me ayuda que me esperen un momento.”\n“Ahora mismo tengo muchas emociones a la vez; me ayuda que primero me escuchen. Los consejos pueden venir después.”\n“Hoy no me siento bien; me ayuda que me dejen descansar un poco.”\n“Los cambios de planes repentinos me desconciertan; me ayuda que me avisen con anticipación.”\n“Cuando me hablan en voz alta me da miedo; me ayuda que me hablen con calma.”\n\nSi te cuesta decirlo bien, puedes escribirlo en un papel y entregarlo. También puedes mostrar la pantalla “Mis dificultades” con el botón “Mostrar en grande”; aparece en esta aplicación cuando eliges una preocupación y respondes a las preguntas.\nSi quieres decir el nombre de un diagnóstico que ya tienes, puedes hacerlo. También entonces, a la otra persona le ayuda saber a la vez con qué tienes dificultades y qué te gustaría que hiciera.\nA veces la otra persona no puede hacer lo que le pides por su propia situación. Entonces se puede buscar, entre las dos partes, otra manera.\n\nEn el trabajo se puede pedir con las mismas palabras: “Me cuesta seguir varias instrucciones a la vez; prefiero que me las den por escrito.”\n\nNo uses la lista de nombres de esta aplicación para dudar de las personas a tu alrededor.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre esta aplicación",
+       "body": "Esto no es un diagnóstico. Esta lista no dice si tienes una enfermedad o un trastorno. Esta app no es un dispositivo médico y no reemplaza la consulta con una persona profesional de la salud.\n\nTus respuestas no se envían a ningún lado ni se guardan en este dispositivo. Desaparecen al cerrar la aplicación.\n\nAplicación independiente. SOYOGI es un grupo voluntario sin fines de lucro con sede en Japón. No tiene relación con el Gobierno de Colombia, el Ministerio de Salud y Protección Social, el INVIMA, la Superintendencia Nacional de Salud, las alcaldías ni ninguna otra institución pública o de salud, y ninguna de ellas la recomienda ni la respalda. Los nombres de las instituciones solo indican de dónde viene la información. Los textos originales se pueden leer en las páginas de cada institución.\n\nSOYOGI escribió estos contenidos con sus propias palabras a partir de páginas públicas de Colombia, del país y de algunas ciudades. Las fuentes aparecen en cada pantalla, con la fecha que muestra cada página cuando la página la muestra. Consultado el 25 de noviembre de 2026. Los números y los horarios pueden cambiar. Los horarios son los que indica cada servicio.\n\nPedir ayuda o no es una decisión tuya, no de la aplicación.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Algunos cambios merecen atención: por ejemplo, cambios que se mantienen en el estado de ánimo, en el sueño o en el apetito, o la dificultad para cumplir con las responsabilidades en la casa, el trabajo o el estudio. Cuidar la salud mental incluye buscar apoyo cuando haga falta. Si algo así te preocupa, puedes hablarlo con una persona de confianza o consultar en un servicio de salud.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Salud Mental",
+       "url": "https://www.minsalud.gov.co/salud/publica/salud-mental/Paginas/Salud-Mental.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Si algo te cuesta desde hace tiempo en el día a día, puedes contarlo en el primer nivel de atención de tu EPS. En Colombia, la ley de salud mental dice que el primer nivel de atención es la puerta de entrada al sistema, y que tiene entradas desde lugares como los hogares, las escuelas y los lugares de trabajo.",
+       "src": {
+        "org": "Secretaría del Senado de la República",
+        "title": "LEY 1616 DE 2013",
+        "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1616_2013.html",
+        "kind": "fact",
+        "upd": "2013-01-21"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre cómo se pone un nombre (un diagnóstico), en pocas palabras:",
+      "text": "Un nombre (un diagnóstico) lo pone una persona profesional de la salud. En Colombia, la ley de salud mental dice que el Estado debe garantizar una atención integral que incluya el diagnóstico.",
+      "src": {
+       "org": "Secretaría del Senado de la República",
+       "title": "LEY 1616 DE 2013",
+       "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1616_2013.html",
+       "kind": "fact",
+       "upd": "2013-01-21"
+      }
+     },
+     "fewNote": "Solo se pudieron confirmar pocos nombres en páginas públicas de salud.",
+     "noNames": "No se pudieron confirmar nombres para este grupo en páginas públicas de salud; por eso, aquí no aparece una lista de nombres. Aun así, en esta aplicación puedes encontrar dónde pedir ayuda."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood is low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home do not get done.",
+       "I blame myself for everything and always think the worst.",
+       "At night I cannot sleep, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when you explain what needs to be done, one thing at a time.",
+       "I need time to think, and I would rather not be pressured to answer or to decide.",
+       "I would like the important things given to me in writing.",
+       "Before I am told “Cheer up!” or “Try harder!”, it helps me to be listened to first.",
+       "It helps me when people do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This page uses the name “depression” when hopelessness changes the way a person thinks, feels and acts, and it becomes hard to do daily activities and enjoy life.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Depresión",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/depresion/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This page explains that in bipolar disorder mood can also drop very low, with sadness, hopelessness and tiredness.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastorno bipolar",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastorno-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worries that will not go away, a racing heart and restlessness, difficulties in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or they are watching me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly beats very fast and I cannot get enough air. I worry that it will happen again, and because of that it is hard for me to leave the house.",
+       "For no clear reason, I worry about one thing after another, feel very restless, and have no strength left.",
+       "I have a hard time in places that are hard to get out of, like public transport, shopping malls, or crowded places, and also when I go out of the house without company. So I try to avoid them.",
+       "Because I avoid what frightens me, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "The worries will not leave my head, and at night it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "When I speak, it helps me to be given time and not be rushed.",
+       "I would like the plan explained to me in advance, and how everything will go.",
+       "I would rather not be asked for my opinion suddenly in front of other people, and I would like to be able to answer in writing too.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Before anyone tells me that I worry too much, it helps me when they listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Generalized anxiety disorder",
+        "why": "This page explains that in generalized anxiety disorder there are constant worries and fears about different activities and situations, even when there is no specific threat, and that this makes daily activities hard.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This page explains that in panic disorder waves of very intense fear or discomfort come without warning and keep coming back, and there is fear that they will happen again.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Social anxiety",
+        "why": "This page explains that social anxiety is an intense fear of social situations, such as speaking in public, because of worry about what other people might think.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Agoraphobia",
+        "why": "This page explains that agoraphobia is a very strong fear of being in a situation you cannot get out of, or of feeling panic or great discomfort in public.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Specific phobias",
+        "why": "This page explains that a specific phobia is an intense fear of an object, an activity or a situation that brings little real danger, and that it leads people to avoid it.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the door or the gas again and again, wash your hands, or repeat other actions, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave the house I need to check again and again whether I have closed the door or the gas valve properly; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes into my head again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not tidy, or not done in the order I have set, I become uneasy and end up tidying them again or starting over.",
+       "Checking things takes me so long that I leave home later than planned or arrive late for my appointments and for work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop even when I try."
+      ],
+      "asks": [
+       "I would rather not be told that I am exaggerating; it helps me when people listen to me first.",
+       "Checking things takes me time, so it helps me when some extra time is allowed.",
+       "When plans or the steps to follow change, it helps me to be told in advance.",
+       "I would rather not be pointed at or laughed at in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before we decide how to go on, I would like my worries to be heard, and for us to decide calmly together."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Obsessive-compulsive disorder (OCD)",
+        "why": "This page explains that in obsessive-compulsive disorder there are unwanted thoughts or images that keep coming back and cause anxiety (obsessions), and actions repeated to calm that distress (compulsions); it also says it can go beyond tidiness or cleanliness and affect daily life.",
+        "src": {
+         "org": "Alcaldía de Manizales (Centro de Información)",
+         "title": "Trastorno Obsesivo-Compulsivo (TOC): cuando los pensamientos y las compulsiones afectan la vida diaria, es momento de buscar ayuda",
+         "url": "https://centrodeinformacion.manizales.gov.co/toc-cuando-los-pensamientos-y-las-compulsiones-afectan-la-vida-diaria-es-momento-de-buscar-ayuda/",
+         "kind": "fact",
+         "upd": "2026-07-31"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that autism spectrum disorder includes a strong attachment to routines and rituals, along with difficulties in relating to other people.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Espectro autista",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/espectro-autista/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "Memories that keep coming back, sleeping badly, or tension that does not go away after a hard experience.",
+      "scenes": [
+       "Any small detail can suddenly bring back the scene and the feelings of that very hard moment.",
+       "I keep having similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a small noise or something unexpected makes me jump.",
+       "Whenever I can, I avoid the places, people and topics that remind me of it, and my daily life has been getting smaller.",
+       "It is as if something inside me had switched off, and I cannot feel the same toward my family and friends as I did before.",
+       "I blame myself more and more, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "I would rather not be asked for every detail of what happened. I want to tell it at my own pace and only as far as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I prefer to avoid them.",
+       "It helps me when people do not speak to me suddenly from behind or make loud noises near me.",
+       "When talking is too hard, I would like to be able to hand over something written.",
+       "There are days when I do not sleep or when the tiredness does not go away. I would rather that is not taken for laziness.",
+       "I would rather not be rushed with phrases like “Forget it” or “Get over it”, and I would like a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "coeps",
+       "co155",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times in the night and do not sleep through until morning.",
+       "When it is time to get up I cannot manage it, and I am late for work or class again and again.",
+       "During the day a very strong sleepiness comes over me, and I almost nod off in a meeting or while driving.",
+       "My family tells me that I snore very loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and at night I feel an uncomfortable sensation in my legs that does not let me rest or sleep."
+      ],
+      "asks": [
+       "It helps me when people take the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "It helps me to go over together the medicines I take and my habits with coffee, alcohol and cigarettes, to see what may be having an influence.",
+       "It helps me when people do not assume that it is a matter of attitude, and when my physical health and my mood are looked at as well.",
+       "I would rather explain my sleep times with a written note showing when I go to bed and when I get up, and I would like it looked at calmly.",
+       "If I have to take a medicine, it helps me when someone explains in simple words how it works and what precautions come with it.",
+       "Mornings are very hard for me, so I would prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop, or eating scares you.",
+      "scenes": [
+       "I do not feel like eating, and on many days food hardly goes down my throat.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel sick.",
+       "Without realizing it, I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat very few things, and I avoid many foods because the taste, smell or texture is very unpleasant to me.",
+       "Since I choked on some food or vomited, eating scares me.",
+       "At night I eat half asleep and, in the morning, I sometimes remember nothing."
+      ],
+      "asks": [
+       "I would rather not have comments made about my body or my appearance.",
+       "It helps me when people do not force me to eat or rush me to do it.",
+       "When people eat in a group, it helps me when I am allowed to choose another place or another time.",
+       "I would like to be asked beforehand what I can eat and which smells or textures are hard for me.",
+       "It helps me when people explain beforehand how the appointment will go and what tests will be done.",
+       "I would rather be able to hand over in writing what is hard for me to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders (bulimia nervosa, anorexia nervosa)",
+        "why": "This page explains that an eating disorder changes the way a person eats, thinks about food or relates to it, and their idea about body weight. It mentions, for example, bulimia nervosa and anorexia nervosa.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastornos de alimentación",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastornos-de-alimentacion/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "habit": {
+      "label": "Hard to give up alcohol, betting or video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going the same as before.",
+       "I can't stick to the time, the amount or the money I had set for myself for today.",
+       "I hide from people close to me that I drink, that I bet or that I play video games, or I cover it up with excuses.",
+       "I stay up late playing video games, I can't get up in the morning, and more and more often I am late for work or school, or miss it.",
+       "When I lose money on sports bets, online bets or the slot machines in casinos, I want to win it back and I bet again.",
+       "Even though I know my body is feeling the strain, I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when someone looks with me, step by step, at what my day-to-day life with this is like and what difficulties it brings me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me when I am told in concrete terms where I can get support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can come to the appointment with me.",
+       "I would rather be told beforehand who will hear about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Problematic use of psychoactive substances (including alcohol)",
+        "why": "This article explains that using alcohol or other substances turns into a problem when it is frequent and starts to show in daily life: in motivation, relationships, study or work.",
+        "src": {
+         "org": "Alcaldía Mayor de Bogotá (Portal Bogotá)",
+         "title": "Bogotá fortalece la atención a personas con adicciones a través del Hospital Día",
+         "url": "https://bogota.gov.co/mi-ciudad/salud/atencion-personas-con-adicciones-traves-del-hospital-dia-en-bogota",
+         "kind": "fact",
+         "upd": "2025-05-24"
+        }
+       },
+       {
+        "name": "Behavioral addictions (gambling, betting, video games)",
+        "why": "This article explains that there are also behavioral addictions, such as gambling addiction, betting or compulsive use of video games.",
+        "src": {
+         "org": "Alcaldía Mayor de Bogotá (Portal Bogotá)",
+         "title": "Bogotá fortalece la atención a personas con adicciones a través del Hospital Día",
+         "url": "https://bogota.gov.co/mi-ciudad/salud/atencion-personas-con-adicciones-traves-del-hospital-dia-en-bogota",
+         "kind": "fact",
+         "upd": "2025-05-24"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts somewhere else without my noticing.",
+       "I can't get my work or my housework done in order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I promised, or I lose things.",
+       "If I have been on the same task for a long time, careless mistakes pile up.",
+       "It's hard for me to stay still for a long time, and I feel a restlessness that won't let me stop.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would rather be given the important things in writing.",
+       "It helps me when I am told about deadlines and appointments in good time.",
+       "It helps me when people don't ask me for many things at once, but split them into small parts.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people recognize what I have managed to do, instead of reproaching me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [],
+      "windows": [
+       "coeps",
+       "codisc",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to pick up what the other person feels or the mood of the moment, and I often have the impression that we don't understand each other.",
+       "When I have to speak in front of other people or all eyes turn to me, I feel a lot of tension and end up avoiding it.",
+       "I can talk with people close to me, but in front of others my voice won't come out.",
+       "If my usual way of doing things, the order of the steps or the place where I keep my things changes, I feel a very strong unease.",
+       "Noises, lights and smells feel too intense to me, and places with lots of people are very hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking with them has become very difficult."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance if plans or ways of doing things change.",
+       "I would rather not be rushed, and be given time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Hearing loss",
+        "why": "This document explains that in adults hearing loss can make it harder to get and keep a job, and that social isolation is common.",
+        "src": {
+         "org": "Ministerio de Salud y Protección Social",
+         "title": "ABECÉ SALUD AUDITIVA Y COMUNICATIVA “Somos todo oídos”",
+         "url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/abece-salud-auditiva-2017.pdf",
+         "kind": "fact",
+         "upd": "2017-02-24"
+        }
+       },
+       {
+        "name": "Social anxiety",
+        "why": "This page explains that in social anxiety, fear of what other people might think makes situations such as speaking in public very hard.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that in autism spectrum disorder relating to other people is hard, and that the way of communicating and interacting is different.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Espectro autista",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/espectro-autista/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "codisc",
+       "cosupersalud"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is still hard even when you make an effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand what documents or letters say.",
+       "I have trouble with spelling: I make many mistakes, or letters or words go missing when I write.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and a lot of effort.",
+       "I get stuck on simple calculations and on problems that are set out in a text.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "It helps me when texts are given to me in large print with more space between the lines, or in Easy Read (lectura fácil).",
+       "I would rather have the important things read aloud to me or explained to me in person.",
+       "It helps me to be able to write on a computer or a mobile phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "It helps me to be able to use a calculator for calculations.",
+       "It helps me when I am given more time to read, write and do calculations.",
+       "I would rather be given things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia (reading disorders)",
+        "why": "This article explains that “dyslexia” is the name usually given to learning disorders linked to reading and language; they can make it hard to recognize words a person already knows, spell, write, read quickly or understand a written text, and they do not point to lower intelligence or a lack of will to learn.",
+        "src": {
+         "org": "Alcaldía Mayor de Bogotá (Portal Bogotá)",
+         "title": "‘Lectura fácil’, una herramienta que ayuda a quienes tienen dificultades para leer",
+         "url": "https://bogota.gov.co/mi-ciudad/lectura-facil-para-la-inclusion-de-personas-con-dificultades-lectoras",
+         "kind": "fact",
+         "upd": "2019-04-30"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "codisc",
+       "cosupersalud"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own emotions.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when my mood is so low that I can hardly move.",
+       "There are periods when I sleep very little and still have a lot of energy and cannot stop moving.",
+       "One idea after another comes to me and everything is left half done.",
+       "During periods of great euphoria I spent so much money that I had problems afterwards.",
+       "I get irritated over any little thing, and I find it hard to hold back my emotions.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when people also ask me about the periods when I felt an unusual amount of energy.",
+       "It helps me when people take the time to go over my ups and downs in mood with me.",
+       "It helps me when, before important decisions about money or work, people encourage me to stop and think first.",
+       "I would rather have physical causes taken into account too, including sleep, medicines and alcohol.",
+       "If people notice that something in me has changed, I would rather they tell me without blaming me.",
+       "It helps me when people hear me out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Bipolar disorder",
+        "why": "This page explains that anyone can have ups and downs in mood, but that in bipolar disorder these changes are much more intense and last longer, and can come to make daily life difficult.",
+        "src": {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastorno bipolar",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastorno-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        }
+       }
+      ],
+      "windows": [
+       "coeps",
+       "cosupersalud"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs look like symptoms",
+       "body": "When you know the name of an illness or of a developmental condition, a passing tiredness or an everyday slip can start to look like a symptom to you.\n\nFeelings can change how your body and your mood feel, and that is not imagination: it really happens. But sleeping little, stress, mobile phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe it is this,” do not stop there: think of other reasons too. And if what is hard for you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Everyone has ups and downs",
+       "body": "Everyone’s mood goes up and down, and some changes of humor pass quickly. Feeling sad when facing a problem, or worried under pressure, also happens to anyone.\n\nIn Colombia, the law says that mental health is a fundamental right.\n\nA name (a diagnosis) is given by a health professional.",
+       "srcs": [
+        {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Trastorno bipolar",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/trastorno-bipolar/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Depresión",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/depresion/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría Distrital de Salud de Bogotá",
+         "title": "Ansiedad",
+         "url": "https://literalmente.saludcapital.gov.co/salud-mental/trastornos-mentales-y-problemas-relacionados/ansiedad/",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Secretaría del Senado de la República",
+         "title": "LEY 1616 DE 2013",
+         "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1616_2013.html",
+         "kind": "fact",
+         "upd": "2013-01-21"
+        }
+       ]
+      },
+      {
+       "h": "You can ask about what is happening to you",
+       "body": "If you are affiliated with an EPS, you can ask directly for a general medicine or psychology appointment: these are entry points to health services. You can describe what is happening to you in your own words.\n\nIf a disability makes work or study hard for you, you can ask for reasonable adjustments: changes made for your case that do not place a disproportionate burden. In Colombia, the law asks employers to make the reasonable adjustments needed in the workplace for people with disabilities. Say what is hard for you and what you need; sometimes not everything can be done.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud y Protección Social",
+         "title": "RESOLUCIÓN NÚMERO 002765 DE 2025",
+         "url": "https://www2.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%202765%20de%202025.pdf",
+         "kind": "fact",
+         "upd": "2025-12-30"
+        },
+        {
+         "org": "Secretaría del Senado de la República",
+         "title": "LEY 1996 DE 2019",
+         "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1996_2019.html",
+         "kind": "fact",
+         "upd": "2019-08-26"
+        },
+        {
+         "org": "Secretaría del Senado de la República",
+         "title": "LEY 2466 DE 2025",
+         "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_2466_2025.html",
+         "kind": "fact",
+         "upd": "2025-06-25"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for papers from a doctor",
+       "body": "Some procedures ask for papers from a doctor. If an illness keeps you from working, the doctor who sees you issues a certificate of incapacity; the rules say it must include the diagnosis code.\n\nThe disability certificate is voluntary: it depends on each person's free choice, and not everyone needs it. You request it at the health secretariat of the municipality or district where you live, and to request it you present your medical record with the diagnosis.\n\nBefore starting a procedure, ask the office in charge which papers are needed.",
+       "srcs": [
+        {
+         "org": "Departamento Administrativo de la Función Pública (Gestor Normativo)",
+         "title": "DECRETO 780 DE 2016",
+         "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77813",
+         "kind": "fact",
+         "upd": "2016-05-06"
+        },
+        {
+         "org": "Ministerio de Salud y Protección Social",
+         "title": "RESOLUCIÓN NÚMERO 00001197 DE 2024",
+         "url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No%201197%20de%202024.pdf",
+         "kind": "fact",
+         "upd": "2024-07-05"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nSome people feel comforted when they find a name for what they are living through. That matters.\nIt is also natural to want the people around us to understand us or to be kind to us.\n\nWhen you want people to be kind to you, you can ask for it directly, without needing to say the name of any illness.\nIt is understood better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have no energy today, so it helps me when people speak slowly.”\n“If I am told many things at once, I get lost; it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told in words; I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me; I would like to talk in a quiet place.”\n“I need a little time to answer; it helps me when people wait a moment.”\n“Right now I have many emotions at once; it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today; it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off; it helps me when I am told in advance.”\n“When people speak to me loudly I get scared; it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to say the name of a diagnosis you already have, you can. Then too, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then the two of you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.”\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Government of Colombia, the Ministry of Health and Social Protection, INVIMA, the Superintendencia Nacional de Salud, city governments or any other public or health institution, and none of them has recommended or supported this app. The names of the institutions only show where the information comes from. The original texts can be read on each institution’s pages.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Colombia, from the national government and from some cities. This English version does not quote those pages word for word. Sources are shown on each screen, with the date the page shows, when the page shows one. Checked on 25 November 2026. Numbers and hours may change. The hours are those given by each service.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Some changes deserve attention: for example, lasting changes in mood, sleep or appetite, or difficulty meeting responsibilities at home, at work or in your studies. Looking after mental health includes seeking support when needed. If something like this worries you, you can talk about it with someone you trust or go to a health service.",
+      "src": {
+       "org": "Ministerio de Salud y Protección Social",
+       "title": "Salud Mental",
+       "url": "https://www.minsalud.gov.co/salud/publica/salud-mental/Paginas/Salud-Mental.aspx",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "If something has been hard for you in daily life for a long time, you can talk about it at the first level of care of your EPS. In Colombia, the mental health law says that the first level of care is the entry point to the system, and that it can be reached from places such as homes, schools and workplaces.",
+       "src": {
+        "org": "Secretaría del Senado de la República",
+        "title": "LEY 1616 DE 2013",
+        "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1616_2013.html",
+        "kind": "fact",
+        "upd": "2013-01-21"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A name (a diagnosis) is given by a health professional. In Colombia, the mental health law says that the State must guarantee comprehensive care that includes diagnosis.",
+      "src": {
+       "org": "Secretaría del Senado de la República",
+       "title": "LEY 1616 DE 2013",
+       "url": "https://www.secretariasenado.gov.co/senado/basedoc/ley_1616_2013.html",
+       "kind": "fact",
+       "upd": "2013-01-21"
+      }
+     },
+     "fewNote": "Only a few names could be confirmed on public health pages.",
+     "noNames": "We could not confirm names for this group on public health pages, so no list of names is shown here. You can still find places to get help in this app."
+    }
+   }
+  },
+  "uy": {
+   "id": "uy",
+   "name": {
+    "ja": "ウルグアイ",
+    "en": "Uruguay",
+    "fr": "Uruguay",
+    "de": "Uruguay",
+    "dech": "Uruguay",
+    "es": "Uruguay",
+    "esmx": "Uruguay",
+    "escl": "Uruguay",
+    "esar": "Uruguay",
+    "esuy": "Uruguay",
+    "esco": "Uruguay",
+    "nl": "Uruguay",
+    "ko": "우루과이",
+    "zh": "烏拉圭",
+    "zhhk": "烏拉圭",
+    "it": "Uruguay",
+    "sv": "Uruguay",
+    "pt": "Uruguai",
+    "ptpt": "Uruguai",
+    "ar": "الأوروغواي",
+    "hi": "उरुग्वे"
+   },
+   "langs": [
+    "esuy",
+    "en"
+   ],
+   "main": "esuy",
+   "fallback": "esuy",
+   "srcLang": "esuy",
+   "freeHosts": [],
+   "adaptHosts": [],
+   "srcNote": {},
+   "factRef": true,
+   "ver": "2026-11-25",
+   "order": [
+    "mood",
+    "anxiety",
+    "repeat",
+    "after",
+    "sleep",
+    "eating",
+    "habit",
+    "attention",
+    "social",
+    "reading",
+    "wave"
+   ],
+   "links": {
+    "junbi": ""
+   },
+   "windows": [
+    {
+     "id": "uyurg",
+     "band": "now",
+     "tel": "911",
+     "tel2": "",
+     "url": "https://www.gub.uy/ministerio-interior/comunicacion/noticias/servicio-emergencia-9-1-1-consta-tres-pilares-fundamentales-para-su",
+     "linkOk": false,
+     "esuy": {
+      "name": "Emergencias: 911",
+      "desc": "Si hay un peligro inmediato, llamá al 911. La llamada se deriva a la policía, a los bomberos o a la emergencia médica.",
+      "hours": "Para emergencias.",
+      "src": {
+       "org": "Ministerio del Interior (gub.uy)",
+       "title": "El Servicio de Emergencia 9-1-1 consta de tres pilares fundamentales para su funcionamiento",
+       "url": "https://www.gub.uy/ministerio-interior/comunicacion/noticias/servicio-emergencia-9-1-1-consta-tres-pilares-fundamentales-para-su",
+       "kind": "fact",
+       "upd": "2026-02-11"
+      }
+     },
+     "en": {
+      "name": "Emergencies: 911",
+      "desc": "If there is immediate danger, call 911. The call is passed on to the police, the fire service or emergency medical care.",
+      "hours": "For emergencies.",
+      "src": {
+       "org": "Ministerio del Interior (gub.uy)",
+       "title": "El Servicio de Emergencia 9-1-1 consta de tres pilares fundamentales para su funcionamiento",
+       "url": "https://www.gub.uy/ministerio-interior/comunicacion/noticias/servicio-emergencia-9-1-1-consta-tres-pilares-fundamentales-para-su",
+       "kind": "fact",
+       "upd": "2026-02-11"
+      }
+     },
+     "src": {
+      "org": "Ministerio del Interior (gub.uy)",
+      "title": "El Servicio de Emergencia 9-1-1 consta de tres pilares fundamentales para su funcionamiento",
+      "url": "https://www.gub.uy/ministerio-interior/comunicacion/noticias/servicio-emergencia-9-1-1-consta-tres-pilares-fundamentales-para-su",
+      "kind": "fact",
+      "upd": "2026-02-11"
+     }
+    },
+    {
+     "id": "uyvida",
+     "band": "now",
+     "tel": "0800 0767",
+     "tel2": "*0767",
+     "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+     "linkOk": false,
+     "esuy": {
+      "name": "Línea de Prevención del Suicidio: 0800 0767",
+      "desc": "Gratuita y confidencial. La atienden profesionales de la salud mental.",
+      "hours": "Las 24 horas.",
+      "src": {
+       "org": "Presidencia de la República (gub.uy)",
+       "title": "Prevención del Suicidio: Destacan importancia de fortalecer vínculos y construir comunidades protectoras",
+       "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+       "kind": "fact",
+       "upd": "2026-07-17"
+      }
+     },
+     "en": {
+      "name": "Suicide Prevention Line: 0800 0767",
+      "desc": "Free and confidential. Staffed by mental health professionals.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Presidencia de la República (gub.uy)",
+       "title": "Prevención del Suicidio: Destacan importancia de fortalecer vínculos y construir comunidades protectoras",
+       "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+       "kind": "fact",
+       "upd": "2026-07-17"
+      }
+     },
+     "src": {
+      "org": "Presidencia de la República (gub.uy)",
+      "title": "Prevención del Suicidio: Destacan importancia de fortalecer vínculos y construir comunidades protectoras",
+      "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+      "kind": "fact",
+      "upd": "2026-07-17"
+     }
+    },
+    {
+     "id": "uy1920",
+     "band": "now",
+     "tel": "0800 1920",
+     "tel2": "",
+     "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+     "linkOk": false,
+     "esuy": {
+      "name": "Línea de Apoyo Emocional: 0800 1920",
+      "desc": "Gratuita y confidencial. La atienden profesionales de la salud mental.",
+      "hours": "Las 24 horas.",
+      "src": {
+       "org": "Presidencia de la República (gub.uy)",
+       "title": "Prevención del Suicidio: Destacan importancia de fortalecer vínculos y construir comunidades protectoras",
+       "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+       "kind": "fact",
+       "upd": "2026-07-17"
+      }
+     },
+     "en": {
+      "name": "Emotional Support Line: 0800 1920",
+      "desc": "Free and confidential. Staffed by mental health professionals.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Presidencia de la República (gub.uy)",
+       "title": "Prevención del Suicidio: Destacan importancia de fortalecer vínculos y construir comunidades protectoras",
+       "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+       "kind": "fact",
+       "upd": "2026-07-17"
+      }
+     },
+     "src": {
+      "org": "Presidencia de la República (gub.uy)",
+      "title": "Prevención del Suicidio: Destacan importancia de fortalecer vínculos y construir comunidades protectoras",
+      "url": "https://www.gub.uy/presidencia/comunicacion/noticias/dia-nacional-prevencion-suicidio-2026",
+      "kind": "fact",
+      "upd": "2026-07-17"
+     }
+    },
+    {
+     "id": "uy4141",
+     "band": "now",
+     "tel": "0800 4141",
+     "tel2": "*4141",
+     "url": "https://www.gub.uy/ministerio-desarrollo-social/tramites-y-servicios/servicios/servicio-orientacion-telefonica-mujeres-situacion-violencia",
+     "linkOk": false,
+     "esuy": {
+      "name": "Orientación telefónica a mujeres en situación de violencia doméstica: 0800 4141",
+      "desc": "Servicio del MIDES, gratuito y confidencial, para todo el país. Para mujeres mayores de 18 años en situación de violencia doméstica; también pueden llamar familiares u otras personas cercanas. Desde el celular, *4141. Mujeres sordas: videollamada al 092 626 928, de lunes a viernes, de 9:00 a 14:00.",
+      "hours": "Las 24 horas, los 365 días del año.",
+      "src": {
+       "org": "Ministerio de Desarrollo Social (gub.uy)",
+       "title": "Servicio de orientación telefónica a mujeres en situación de Violencia Doméstica",
+       "url": "https://www.gub.uy/ministerio-desarrollo-social/tramites-y-servicios/servicios/servicio-orientacion-telefonica-mujeres-situacion-violencia",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Phone guidance for women in situations of domestic violence: 0800 4141",
+      "desc": "A MIDES service, free and confidential, for the whole country. For women over 18 in situations of domestic violence; relatives and other people close to them can also call. From a mobile phone, *4141. Deaf women: video call to 092 626 928, Monday to Friday, 9:00 to 14:00.",
+      "hours": "24 hours a day, 365 days a year.",
+      "src": {
+       "org": "Ministerio de Desarrollo Social (gub.uy)",
+       "title": "Servicio de orientación telefónica a mujeres en situación de Violencia Doméstica",
+       "url": "https://www.gub.uy/ministerio-desarrollo-social/tramites-y-servicios/servicios/servicio-orientacion-telefonica-mujeres-situacion-violencia",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Desarrollo Social (gub.uy)",
+      "title": "Servicio de orientación telefónica a mujeres en situación de Violencia Doméstica",
+      "url": "https://www.gub.uy/ministerio-desarrollo-social/tramites-y-servicios/servicios/servicio-orientacion-telefonica-mujeres-situacion-violencia",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "uypol",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+     "linkOk": false,
+     "esuy": {
+      "name": "Tu prestador de salud",
+      "desc": "Todos los prestadores del Sistema Nacional Integrado de Salud deben ofrecer atención psicológica. En una de las modalidades, la podés pedir por tu cuenta o te puede derivar un profesional de la salud.",
+      "hours": "Depende de cada lugar.",
+      "src": {
+       "org": "Ministerio de Salud Pública (gub.uy)",
+       "title": "Prestaciones en salud mental",
+       "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Your health care provider",
+      "desc": "All providers in the National Integrated Health System must offer care with psychologists. In one of the formats, you can ask for it yourself or a health professional can refer you.",
+      "hours": "It depends on each place.",
+      "src": {
+       "org": "Ministerio de Salud Pública (gub.uy)",
+       "title": "Prestaciones en salud mental",
+       "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud Pública (gub.uy)",
+      "title": "Prestaciones en salud mental",
+      "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "uy1020",
+     "band": "day",
+     "tel": "*1020",
+     "tel2": "2309 1020",
+     "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/linea-gratuita-1020",
+     "linkOk": false,
+     "esuy": {
+      "name": "Línea *1020 (Junta Nacional de Drogas)",
+      "desc": "Información, apoyo y asesoramiento por uso problemático de drogas. Gratis desde cualquier celular; desde un teléfono fijo, 2309 1020.",
+      "hours": "Las 24 horas.",
+      "src": {
+       "org": "Junta Nacional de Drogas (gub.uy)",
+       "title": "Línea gratuita *1020",
+       "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/linea-gratuita-1020",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Line *1020 (Junta Nacional de Drogas)",
+      "desc": "Information, support and advice about problematic drug use. Free from any mobile phone; from a landline, 2309 1020.",
+      "hours": "24 hours a day.",
+      "src": {
+       "org": "Junta Nacional de Drogas (gub.uy)",
+       "title": "Línea gratuita *1020",
+       "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/linea-gratuita-1020",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Junta Nacional de Drogas (gub.uy)",
+      "title": "Línea gratuita *1020",
+      "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/linea-gratuita-1020",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "uyciud",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/centros-atencion",
+     "linkOk": false,
+     "esuy": {
+      "name": "Centros Ciudadela (Junta Nacional de Drogas)",
+      "desc": "Los Centros Ciudadela están en todo el país y son el primer contacto con la red de atención en drogas.",
+      "hours": "",
+      "src": {
+       "org": "Junta Nacional de Drogas (gub.uy)",
+       "title": "Centros de Atención",
+       "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/centros-atencion",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Ciudadela centers (Junta Nacional de Drogas)",
+      "desc": "The Ciudadela centers are located across the country and are the first point of contact with the drug care network.",
+      "hours": "",
+      "src": {
+       "org": "Junta Nacional de Drogas (gub.uy)",
+       "title": "Centros de Atención",
+       "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/centros-atencion",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Junta Nacional de Drogas (gub.uy)",
+      "title": "Centros de Atención",
+      "url": "https://www.gub.uy/junta-nacional-drogas/tramites-y-servicios/servicios/centros-atencion",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "uyinadis",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/preguntas-frecuentes",
+     "linkOk": false,
+     "esuy": {
+      "name": "Instituto Nacional de Discapacidad (INADIS, MIDES)",
+      "desc": "Con la valoración de discapacidad se pueden pedir prestaciones o servicios para personas con discapacidad. Después de iniciar el trámite y completar la información, hay una entrevista con un equipo del MIDES; en el interior se hace por videollamada. Pedir la valoración de discapacidad es gratuito.",
+      "hours": "",
+      "src": {
+       "org": "Ministerio de Desarrollo Social (gub.uy)",
+       "title": "Preguntas frecuentes",
+       "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/preguntas-frecuentes",
+       "kind": "fact",
+       "upd": "2025-11-06"
+      }
+     },
+     "en": {
+      "name": "Instituto Nacional de Discapacidad (INADIS, MIDES)",
+      "desc": "The valoración de discapacidad (a MIDES procedure about disability) is used to request benefits or services for people with disabilities. After you start the procedure and complete the information, there is an interview with a MIDES team; outside Montevideo it is done by video call. Requesting it is free.",
+      "hours": "",
+      "src": {
+       "org": "Ministerio de Desarrollo Social (gub.uy)",
+       "title": "Preguntas frecuentes",
+       "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/preguntas-frecuentes",
+       "kind": "fact",
+       "upd": "2025-11-06"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Desarrollo Social (gub.uy)",
+      "title": "Preguntas frecuentes",
+      "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/preguntas-frecuentes",
+      "kind": "fact",
+      "upd": "2025-11-06"
+     }
+    },
+    {
+     "id": "uymtss",
+     "band": "day",
+     "tel": "0800 7171",
+     "tel2": "*7171",
+     "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/atencion-telefonica-0800-7171-oficinas-del-mtss-interior",
+     "linkOk": false,
+     "esuy": {
+      "name": "Ministerio de Trabajo y Seguridad Social (MTSS): 0800 7171",
+      "desc": "Asesoramiento laboral gratuito. Desde un teléfono fijo, el 0800 7171 no tiene costo; desde un celular Antel, marcá *7171.",
+      "hours": "De lunes a viernes, de 9:00 a 17:00.",
+      "src": {
+       "org": "Ministerio de Trabajo y Seguridad Social (gub.uy)",
+       "title": "Atención telefónica 0800 7171 y oficinas del MTSS en el interior",
+       "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/atencion-telefonica-0800-7171-oficinas-del-mtss-interior",
+       "kind": "fact",
+       "upd": "2026-10-05"
+      }
+     },
+     "en": {
+      "name": "Ministry of Labor and Social Security (MTSS): 0800 7171",
+      "desc": "Free labor advice. From a landline, 0800 7171 has no cost; from an Antel mobile phone, dial *7171.",
+      "hours": "Monday to Friday, 9:00 to 17:00.",
+      "src": {
+       "org": "Ministerio de Trabajo y Seguridad Social (gub.uy)",
+       "title": "Atención telefónica 0800 7171 y oficinas del MTSS en el interior",
+       "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/atencion-telefonica-0800-7171-oficinas-del-mtss-interior",
+       "kind": "fact",
+       "upd": "2026-10-05"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Trabajo y Seguridad Social (gub.uy)",
+      "title": "Atención telefónica 0800 7171 y oficinas del MTSS en el interior",
+      "url": "https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/atencion-telefonica-0800-7171-oficinas-del-mtss-interior",
+      "kind": "fact",
+      "upd": "2026-10-05"
+     }
+    },
+    {
+     "id": "uybps",
+     "band": "day",
+     "tel": "0800 1997",
+     "tel2": "*1997",
+     "url": "https://www.bps.gub.uy/",
+     "linkOk": false,
+     "esuy": {
+      "name": "Banco de Previsión Social (BPS): 0800 1997",
+      "desc": "Atención telefónica: 0800 1997 desde teléfono fijo y *1997 desde celular.",
+      "hours": "De lunes a viernes, de 8:00 a 18:00.",
+      "src": {
+       "org": "Banco de Previsión Social (BPS)",
+       "title": "Banco de Previsión Social - BPS",
+       "url": "https://www.bps.gub.uy/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "en": {
+      "name": "Banco de Previsión Social (BPS): 0800 1997",
+      "desc": "Phone service: 0800 1997 from a landline and *1997 from a mobile phone.",
+      "hours": "Monday to Friday, 8:00 to 18:00.",
+      "src": {
+       "org": "Banco de Previsión Social (BPS)",
+       "title": "Banco de Previsión Social - BPS",
+       "url": "https://www.bps.gub.uy/",
+       "kind": "fact",
+       "upd": "none"
+      }
+     },
+     "src": {
+      "org": "Banco de Previsión Social (BPS)",
+      "title": "Banco de Previsión Social - BPS",
+      "url": "https://www.bps.gub.uy/",
+      "kind": "fact",
+      "upd": "none"
+     }
+    },
+    {
+     "id": "uycontralor",
+     "band": "day",
+     "tel": "",
+     "tel2": "",
+     "url": "https://www.gub.uy/tramites/denuncia-atencion-salud-mental",
+     "linkOk": false,
+     "esuy": {
+      "name": "Comisión Nacional de Contralor de la Atención en Salud Mental (MSP)",
+      "desc": "Para hacer una denuncia sobre la atención en salud mental, según la ley de salud mental. No tiene costo. Consultas: teléfono 1934, interno 6291.",
+      "hours": "De 9:15 a 14:30.",
+      "src": {
+       "org": "Ministerio de Salud Pública (gub.uy)",
+       "title": "Denuncia sobre atención en Salud Mental",
+       "url": "https://www.gub.uy/tramites/denuncia-atencion-salud-mental",
+       "kind": "fact",
+       "upd": "2020-12-10"
+      }
+     },
+     "en": {
+      "name": "National Commission for the Oversight of Mental Health Care (MSP)",
+      "desc": "To make a complaint about mental health care, under the mental health law. It has no cost. Inquiries: phone 1934, extension 6291.",
+      "hours": "9:15 to 14:30.",
+      "src": {
+       "org": "Ministerio de Salud Pública (gub.uy)",
+       "title": "Denuncia sobre atención en Salud Mental",
+       "url": "https://www.gub.uy/tramites/denuncia-atencion-salud-mental",
+       "kind": "fact",
+       "upd": "2020-12-10"
+      }
+     },
+     "src": {
+      "org": "Ministerio de Salud Pública (gub.uy)",
+      "title": "Denuncia sobre atención en Salud Mental",
+      "url": "https://www.gub.uy/tramites/denuncia-atencion-salud-mental",
+      "kind": "fact",
+      "upd": "2020-12-10"
+     }
+    }
+   ],
+   "esuy": {
+    "groups": {
+     "mood": {
+      "label": "Ánimo bajo, sin energía",
+      "lead": "Cuando el ánimo sigue bajo y cuesta encontrar fuerzas para cualquier cosa.",
+      "scenes": [
+       "Tengo el ánimo bajo de la mañana a la noche.",
+       "Las cosas que antes me gustaban ya no me hacen disfrutar.",
+       "No tengo fuerzas ni puedo concentrarme, así que el trabajo y las tareas de la casa quedan sin hacer.",
+       "Me culpo por todo y siempre pienso lo peor.",
+       "De noche no puedo dormir, o duermo demasiado. Perdí el apetito y el cuerpo me pesa.",
+       "A veces quiero desaparecer o ya no estar acá."
+      ],
+      "asks": [
+       "Me ayuda que me expliquen lo que hay que hacer, de a una cosa por vez.",
+       "Necesito tiempo para pensar: prefiero que no me apuren para responder ni para decidir.",
+       "Prefiero que me den por escrito lo importante.",
+       "Antes de decirme “¡Animate!” o “¡Ponele garra!”, me ayuda que me escuchen primero.",
+       "Cuando descanso, prefiero que no piensen que es pereza.",
+       "Me ayuda que revisen conmigo si alguna enfermedad física o algún medicamento que tomo puede influir."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión",
+        "why": "Esta página explica que la depresión puede traer una tristeza que no se va, menos ganas de hacer cosas, poco interés o poco disfrute en la vida diaria, y un cansancio muy grande.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       },
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta guía para equipos de salud explica que en el trastorno bipolar el ánimo, la energía y la capacidad para hacer las tareas de todos los días cambian de forma muy marcada.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la depresión en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_DEPRESION_PRIMER_NIVEL_ATENCION.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Mucha preocupación o tensión",
+      "lead": "Preocupaciones que no se van, el corazón acelerado e inquietud, dificultades frente a otras personas o al salir de casa, y cosas parecidas.",
+      "scenes": [
+       "Cuando tengo que hablar delante de otras personas o me miran, siento tanta ansiedad que me quedo en blanco.",
+       "De repente el corazón me late muy rápido y me falta el aire. Me preocupa que vuelva a pasar y por eso me cuesta salir de casa.",
+       "Sin un motivo claro, me preocupo por una cosa tras otra, siento mucha inquietud y no me quedan fuerzas.",
+       "La paso mal en los lugares de los que es difícil salir, como el ómnibus, los shoppings o los lugares con mucha gente, y también cuando salgo de casa sin compañía. Por eso trato de evitarlos.",
+       "Como evito lo que me da miedo, cada vez voy a menos lugares y veo a menos gente. Mi vida se fue haciendo más chica.",
+       "Las preocupaciones no se me van de la cabeza y por la noche me cuesta dormirme."
+      ],
+      "asks": [
+       "Cuando hablo, me ayuda que me den tiempo y no me apuren.",
+       "Prefiero que me expliquen de antemano el plan y cómo va a ser todo.",
+       "Prefiero que no me pidan mi opinión de golpe delante de otras personas, y poder responder también por escrito.",
+       "Si me siento mal, me ayuda poder salir un momento a descansar.",
+       "Prefiero hablar en un lugar tranquilo y con pocas personas.",
+       "Antes de decirme que me preocupo demasiado, me ayuda que escuchen primero lo que me cuesta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastornos de ansiedad",
+        "why": "Esta página explica que las personas con trastornos de ansiedad pueden tener dificultades en sus relaciones con otras personas y menor rendimiento en el trabajo o en los estudios.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica para el abordaje de la ansiedad en el primer nivel de atención en el SNIS",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/guia-practica-clinica-para-abordaje-ansiedad-primer-nivel-atencion-snis",
+         "kind": "fact",
+         "upd": "2024-12-04"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada (TAG)",
+        "why": "Esta guía para equipos de salud explica que, en el trastorno de ansiedad generalizada, las preocupaciones giran en torno a la vida diaria, como la familia, la salud, el dinero o el trabajo, y a la persona le resulta difícil frenarlas.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Trastorno de pánico",
+        "why": "Esta guía para equipos de salud explica que en el trastorno de pánico aparecen crisis de pánico inesperadas y repetidas: de golpe surge un miedo o un malestar intenso que llega muy rápido a su punto más alto.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad social",
+        "why": "Esta guía para equipos de salud explica que el trastorno de ansiedad social es un miedo o una ansiedad muy grandes ante situaciones sociales en las que la persona siente que la observan, la evalúan o la juzgan.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Trastorno de estrés postraumático (TEPT)",
+        "why": "Esta página explica que, cuando un trauma sigue presente, puede haber recuerdos que irrumpen, pesadillas y la impresión constante de estar bajo amenaza.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastorno de Estrés Postraumático cómo entenderlo, acompañarlo y superarlo",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastorno-estres-postraumatico-entenderlo-acompanarlo-superarlo",
+         "kind": "fact",
+         "upd": "2025-06-27"
+        }
+       },
+       {
+        "name": "Consumo de alcohol u otras sustancias psicoactivas",
+        "why": "Esta guía para equipos de salud explica que el consumo de alcohol u otras sustancias puede ir junto con los trastornos de ansiedad, porque a veces se usan para calmar la ansiedad.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Me cuesta dejar de revisar o de repetir",
+      "lead": "Cuando revisás una y otra vez la puerta o el gas, te lavás las manos o repetís otras acciones y te cuesta parar aunque quieras.",
+      "scenes": [
+       "Al salir de casa necesito revisar una y otra vez si cerré bien la puerta o la llave de gas; si no, no puedo irme con tranquilidad.",
+       "Me lavo las manos o el cuerpo cada vez más veces y, aunque quiero parar, no puedo.",
+       "La misma preocupación me vuelve a la cabeza una y otra vez y no logro dejar de pensar en ella, aunque quiero.",
+       "Si las cosas no están ordenadas o no se hacen en el orden que tengo fijado, me inquieto y termino ordenándolas de nuevo o empezando otra vez.",
+       "Tardo tanto en revisar las cosas que salgo de casa más tarde de lo previsto o llego tarde a mis consultas y al trabajo.",
+       "Mi cuerpo se mueve o hago sonidos sin querer, y me cuesta parar aunque lo intente."
+      ],
+      "asks": [
+       "Prefiero que no me digan que exagero y que primero me escuchen.",
+       "Revisar las cosas me lleva tiempo, así que me ayuda que se deje un margen.",
+       "Cuando cambien los planes o los pasos a seguir, prefiero que me avisen con anticipación.",
+       "Prefiero que no me señalen ni se rían de mí delante de otras personas cuando estoy revisando algo o lavándome las manos.",
+       "Me ayuda que me den las explicaciones y las indicaciones de a una y por escrito.",
+       "Antes de decidir cómo seguimos, prefiero que escuchen mis preocupaciones y que lo decidamos con calma."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Este material para los servicios de salud explica que en el trastorno del espectro autista hay dificultades en la comunicación social, y formas de actuar e intereses que se repiten, que se centran en pocas cosas y que cuesta cambiar.",
+        "src": {
+         "org": "Ministerio de Salud Pública y Ministerio de Desarrollo Social (gub.uy)",
+         "title": "Recomendaciones para el trato y una atención adecuada de las personas con discapacidad, en los servicios de salud. Fascículo 1. Trastorno del Espectro Autista (TEA)",
+         "url": "https://www.gub.uy/ministerio-desarrollo-social/sites/ministerio-desarrollo-social/files/2024-02/MSP_Recimendaciones_Fasc%C3%ADculo%20TEA.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "Una experiencia dura me sigue afectando",
+      "lead": "Recuerdos que vuelven una y otra vez, dormir mal o una tensión que no se va después de una experiencia dura.",
+      "scenes": [
+       "Por cualquier detalle, de repente vuelven la escena y las sensaciones de aquel momento tan duro.",
+       "Tengo pesadillas parecidas una y otra vez y muchas noches no logro dormir profundo.",
+       "Estoy siempre en tensión y hasta un ruido chico o un imprevisto me sobresalta.",
+       "Siempre que puedo, evito los lugares, las personas y los temas que me recuerdan aquello, y mi vida diaria se fue haciendo más chica.",
+       "Es como si algo dentro de mí se hubiera apagado, y ya no logro sentir por mi familia y mis amistades lo mismo que antes.",
+       "Cada vez me culpo más, o me cuesta más confiar en la gente que me rodea."
+      ],
+      "asks": [
+       "Prefiero que no me pregunten todos los detalles de lo que pasó. Quiero contarlo a mi ritmo y hasta donde pueda.",
+       "Hay sonidos, lugares y temas que lo reviven todo. Me ayuda que se acepte que prefiero evitarlos.",
+       "Me ayuda que no me hablen de golpe por la espalda ni hagan ruidos fuertes cerca de mí.",
+       "Cuando hablar me cuesta demasiado, prefiero poder entregar algo escrito.",
+       "Hay días en que no duermo o en que no se me va el cansancio. Prefiero que no se tome por pereza.",
+       "Prefiero que no me apuren con frases como “Olvidalo” o “Superalo”, y que haya un lugar donde pueda hablar con tranquilidad."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno de estrés postraumático (TEPT)",
+        "why": "Esta página explica que, cuando un trauma sigue presente, la persona puede apartarse de todo lo que le trae a la memoria lo que pasó, cargar cada vez más tristeza, culpa o irritación, y tener dificultades para dormir o concentrarse.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastorno de Estrés Postraumático cómo entenderlo, acompañarlo y superarlo",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastorno-estres-postraumatico-entenderlo-acompanarlo-superarlo",
+         "kind": "fact",
+         "upd": "2025-06-27"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página explica que situaciones estresantes, como una hospitalización, problemas económicos o laborales, o la pérdida de un ser querido, pueden contribuir a que aparezca la depresión.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Dificultades con el sueño",
+      "lead": "Te cuesta dormirte, te despertás por la noche, te cuesta levantarte o durante el día te da mucho sueño.",
+      "scenes": [
+       "Aunque me acueste, tardo mucho en dormirme.",
+       "Me despierto varias veces por la noche y no duermo de un tirón hasta la mañana.",
+       "A la hora de levantarme no puedo hacerlo, y llego tarde al trabajo o a clase una y otra vez.",
+       "Durante el día me da un sueño muy fuerte y estoy a punto de cabecear en una reunión o al manejar.",
+       "Mi familia me dice que ronco muy fuerte y que, mientras duermo, parece que se me corta la respiración.",
+       "Al caer la tarde y por la noche siento en las piernas una sensación incómoda que no me deja descansar ni dormir."
+      ],
+      "asks": [
+       "Me ayuda que se tomen el tiempo de preguntarme cómo duermo: cuánto tardo en dormirme, si me despierto de noche, lo que me cuesta levantarme y cuánto sueño tengo de día.",
+       "Prefiero que repasen conmigo los medicamentos que tomo y mis hábitos con el café, el alcohol y el cigarrillo, para ver qué puede estar influyendo.",
+       "Me ayuda que no den por hecho que es cuestión de actitud, y que se revise también la salud del cuerpo y el estado de ánimo.",
+       "Prefiero explicar mis horarios con una nota escrita, con la hora a la que me acuesto y a la que me levanto, y que la revisen con calma.",
+       "Si hay que tomar algún medicamento, me ayuda que me expliquen con palabras sencillas cómo funciona y qué cuidados requiere.",
+       "Por las mañanas me cuesta mucho, así que prefiero que me den hora por la tarde."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Déficit crónico de sueño",
+        "why": "Esta página explica que el déficit crónico de sueño consiste en no dormir, de forma sostenida, lo que una persona necesita, y que puede tener muchas causas, como el trabajo por turnos o el cuidado de otras personas.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Mejorar la calidad del sueño como prevención del ACV",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/mejorar-calidad-del-sueno-prevencion-del-acv",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Insomnio",
+        "why": "Esta página menciona el insomnio entre los problemas del sueño que pueden hacer que una persona no duerma lo que necesita.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Mejorar la calidad del sueño como prevención del ACV",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/mejorar-calidad-del-sueno-prevencion-del-acv",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página explica que la depresión puede venir con cambios en la forma de dormir.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Dificultades con la comida",
+      "lead": "Cuando comer se vuelve difícil: no podés comer mucho, no podés parar o comer te da miedo.",
+      "scenes": [
+       "No tengo ganas de comer y hay muchos días en que la comida casi no me pasa por la garganta.",
+       "Cuando empiezo a comer no logro parar, y a veces como tanto que me siento mal.",
+       "Sin darme cuenta, no dejo de pensar en la comida y me cuesta concentrarme en otras cosas.",
+       "Solo puedo comer muy pocas cosas, y evito muchos alimentos porque el sabor, el olor o la textura me resultan muy desagradables.",
+       "Desde que me atraganté con algo de comida o vomité, comer me da miedo.",
+       "Por la noche como entre sueños y, por la mañana, a veces no me acuerdo de nada."
+      ],
+      "asks": [
+       "Prefiero que no hagan comentarios sobre mi cuerpo ni sobre mi aspecto.",
+       "Me ayuda que no me obliguen a comer ni me apuren para hacerlo.",
+       "Cuando se come en grupo, me ayuda que me dejen elegir otro lugar u otro momento.",
+       "Prefiero que me pregunten antes qué puedo comer y qué olores o texturas me cuestan.",
+       "Me ayuda que me expliquen antes cómo va a ser la consulta y qué estudios se van a hacer.",
+       "Prefiero poder entregar por escrito lo que me cuesta decir en voz alta."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastornos de la conducta alimentaria (TCA)",
+        "why": "Esta página explica que en los trastornos de la conducta alimentaria se ve afectada la manera de alimentarse, y que entre sus antecedentes frecuentes está la preocupación excesiva por el peso o por tener un cuerpo delgado.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastornos de la conducta alimentaria",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastornos-conducta-alimentaria",
+         "kind": "fact",
+         "upd": "2022-09-16"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página explica que la depresión puede venir con cambios en las ganas de comer o en el peso.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Me cuesta dejar el alcohol, las apuestas o los videojuegos",
+      "lead": "Cuando querés dejarlo o hacerlo menos, pero seguís.",
+      "scenes": [
+       "Me propongo dejarlo o hacerlo menos, pero después me doy cuenta de que sigo igual.",
+       "No consigo respetar el tiempo, la cantidad ni la plata que me había puesto como límite para hoy.",
+       "Les oculto a las personas cercanas que tomo alcohol, que apuesto o que juego videojuegos, o lo disimulo con excusas.",
+       "Me quedo hasta muy tarde jugando videojuegos, por la mañana no consigo levantarme y cada vez con más frecuencia llego tarde o falto al trabajo o a clase.",
+       "Cuando pierdo plata en apuestas deportivas, en apuestas en línea o en las tragamonedas de los casinos, quiero recuperarla y vuelvo a apostar.",
+       "Aunque sé que mi cuerpo se está resintiendo, no consigo tomar menos alcohol."
+      ],
+      "asks": [
+       "Me ayuda que primero me escuchen, sin culparme ni sacar conclusiones antes de tiempo.",
+       "Me ayuda que me acompañen a ir viendo, paso a paso, cómo es mi día a día con esto y qué dificultades me trae.",
+       "Me gustaría que también se revisaran mi sueño y mi salud física.",
+       "Me ayuda que me digan de forma concreta dónde puedo recibir apoyo y a qué lugares puedo acudir.",
+       "Me gustaría saber si mi familia o una persona cercana puede venir conmigo a la consulta.",
+       "Prefiero que antes me digan a quién se le va a contar lo que cuento y hasta qué punto."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Consumo problemático de alcohol",
+        "why": "Esta página explica que, si tomar alcohol trae preocupación o empieza a afectar las relaciones, el trabajo, el estudio o la vida diaria, acercarse a un servicio de salud puede ser una buena forma de empezar.",
+        "src": {
+         "org": "Junta Nacional de Drogas (gub.uy)",
+         "title": "Alcohol: algunas claves para reducir riesgos",
+         "url": "https://www.gub.uy/junta-nacional-drogas/comunicacion/comunicados/alcohol-algunas-claves-para-reducir-riesgos",
+         "kind": "fact",
+         "upd": "2026-08-13"
+        }
+       },
+       {
+        "name": "Consumo problemático de sustancias psicoactivas",
+        "why": "Este documento explica que el consumo problemático de sustancias psicoactivas puede afectar varias partes de la vida, como lo personal, la familia, las relaciones sociales, el estudio y el trabajo.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Objetivos Sanitarios Nacionales 2030. Caracterización de problemas priorizados: Consumo de sustancias psicoactivas",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/2022-06/Consumo%20de%20sustancias%20psicoactivas.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Ludopatía (adicción al juego)",
+        "why": "Esta página nombra la ludopatía, o adicción al juego, como una enfermedad y habla del daño que puede traer el juego compulsivo.",
+        "src": {
+         "org": "Dirección General de Casinos del Estado, Ministerio de Economía y Finanzas (gub.uy)",
+         "title": "Programa de Juego Responsable",
+         "url": "https://www.gub.uy/ministerio-economia-finanzas/politicas-y-gestion/programa-juego-responsable",
+         "kind": "fact",
+         "upd": "2021-09-06"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uy1020",
+       "uyciud"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Dificultades de atención u organización",
+      "lead": "Dificultades para concentrarte, avanzar paso a paso o acordarte de las cosas.",
+      "scenes": [
+       "Aunque alguien me esté hablando, mi mente se va a otro lado sin que me dé cuenta.",
+       "No consigo sacar adelante mi trabajo o las tareas de la casa en orden, y se me pasan los plazos.",
+       "Muchas veces no me acuerdo de lo que me pidieron o de lo que prometí, o pierdo cosas.",
+       "Si llevo mucho rato con la misma tarea, se me juntan los errores por descuido.",
+       "Me cuesta estar mucho rato sin moverme y siento una inquietud que no me deja parar.",
+       "Las personas a mi alrededor me dicen que muchas veces se me olvidan las cosas o que llego tarde."
+      ],
+      "asks": [
+       "Me ayuda que me den las instrucciones una por una.",
+       "Prefiero que lo importante me lo den por escrito.",
+       "Me ayuda que me avisen con tiempo de los plazos y de las consultas.",
+       "Me ayuda que no me pidan muchas cosas a la vez, sino que las dividan en partes pequeñas.",
+       "Me gustaría hablar en un lugar tranquilo, donde me distraiga menos.",
+       "Me ayuda que se reconozca lo que sí logré, en vez de reprocharme lo que no."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depresión",
+        "why": "Esta página nombra las dificultades para concentrarse entre lo que se ve a menudo en la depresión.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       },
+       {
+        "name": "Trastorno de ansiedad generalizada (TAG)",
+        "why": "Esta guía para equipos de salud explica que el trastorno de ansiedad generalizada suele venir con nerviosismo, tensión en los músculos, irritabilidad, cansancio y problemas para sostener la concentración.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "TDAH (trastorno por déficit de atención e hiperactividad)",
+        "why": "Esta noticia del gobierno departamental de Maldonado explica que el TDAH es un trastorno del neurodesarrollo relacionado sobre todo con la concentración, el control de los impulsos y la hiperactividad, y que a veces se reconoce recién en la edad adulta.",
+        "src": {
+         "org": "Intendencia de Maldonado",
+         "title": "IDM acompaña sensibilización sobre el Trastorno por TDAH",
+         "url": "https://www.maldonado.gub.uy/noticias/idm-acompana-sensibilizacion-sobre-trastorno-tdah",
+         "kind": "fact",
+         "upd": "2026-07-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis",
+       "uymtss"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Dificultades con el trato, las rutinas o los sentidos",
+      "lead": "Dificultades para hablar o estar con otras personas, una gran necesidad de hacer las cosas de una manera concreta, o ruidos, luces y olores difíciles de soportar.",
+      "scenes": [
+       "En una conversación me cuesta captar lo que siente la otra persona o el clima del momento, y muchas veces siento que no nos entendemos.",
+       "Cuando tengo que hablar frente a otras personas o todas las miradas se dirigen a mí, siento mucha tensión y termino evitándolo.",
+       "Con las personas cercanas sí puedo hablar, pero frente a otras no me sale la voz.",
+       "Si cambia mi manera de hacer las cosas, el orden de los pasos o el lugar donde están mis cosas, siento una inquietud muy fuerte.",
+       "Los ruidos, las luces y los olores me resultan demasiado intensos, y los lugares con mucha gente se me hacen muy difíciles.",
+       "Me cuesta oír lo que dicen los demás, o tengo el ánimo bajo, y ver a la gente o hablar con ella se me volvió muy difícil."
+      ],
+      "asks": [
+       "Me ayuda que me hablen despacio y con claridad.",
+       "Me ayuda que me escriban lo importante.",
+       "Me gustaría hablar en un lugar tranquilo.",
+       "Me ayuda que me avisen antes si cambian los planes o la forma de hacer las cosas.",
+       "Prefiero que no me apuren y que me den tiempo para responder.",
+       "Me gustaría poder responder por escrito o con una nota breve, en lugar de hablar."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno de ansiedad social",
+        "why": "Esta guía para equipos de salud explica que en el trastorno de ansiedad social cuestan situaciones como empezar una conversación, hablar con personas desconocidas o comer o beber delante de otras personas.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Trastornos de ansiedad",
+        "why": "Esta página explica que las personas con trastornos de ansiedad pueden tener dificultades en sus relaciones con otras personas.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica para el abordaje de la ansiedad en el primer nivel de atención en el SNIS",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/guia-practica-clinica-para-abordaje-ansiedad-primer-nivel-atencion-snis",
+         "kind": "fact",
+         "upd": "2024-12-04"
+        }
+       },
+       {
+        "name": "Depresión",
+        "why": "Esta página nombra el aislamiento social entre lo que se ve a menudo en la depresión.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       },
+       {
+        "name": "Trastorno del espectro autista (TEA)",
+        "why": "Esta página explica que el trastorno del espectro autista es una condición del neurodesarrollo con diferencias en la comunicación social y en la forma de percibir lo que llega por los sentidos.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "2 de abril: “Día mundial de concientización sobre el autismo”",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/2-abril-dia-mundial-concientizacion-sobre-autismo-1",
+         "kind": "fact",
+         "upd": "2024-04-02"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Dificultades para leer, escribir o calcular",
+      "lead": "Cuando leer, escribir o manejar números sigue costando aunque te esfuerces.",
+      "scenes": [
+       "Me lleva más tiempo que a otras personas leer un texto, y muchas veces tengo que releerlo.",
+       "Aunque lea, el contenido no se me queda, y me cuesta entender lo que dicen los documentos o las cartas.",
+       "Me cuesta la ortografía: cometo muchos errores o se me van letras o palabras al escribir.",
+       "Mi letra me sale despareja, y escribir me lleva mucho tiempo y mucho esfuerzo.",
+       "Me trabo con las cuentas sencillas y con los problemas que vienen planteados en un texto.",
+       "Puedo hablar y escuchar sin dificultad, pero con la lectura, la escritura o las cuentas no avanzo como quisiera, aunque me tome mucho tiempo."
+      ],
+      "asks": [
+       "Me ayuda que me den los textos en letra grande y con más espacio entre los renglones, o en lectura fácil.",
+       "Prefiero que lo importante me lo lean en voz alta o me lo expliquen en persona.",
+       "Me ayuda poder escribir en la computadora o en el celular, o dejar constancia con fotos o audios, en lugar de escribir a mano.",
+       "Me ayuda poder usar una calculadora para las cuentas.",
+       "Me ayuda que me den más tiempo para leer, escribir y hacer cuentas.",
+       "Prefiero que me den las cosas una por una y no todas a la vez."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dislexia",
+        "why": "Esta noticia del gobierno departamental de Maldonado explica que la dislexia es un trastorno del aprendizaje que trae dificultades para leer, escribir y comprender.",
+        "src": {
+         "org": "Intendencia de Maldonado",
+         "title": "Intendencia se adhiere al Día Internacional de la Dislexia",
+         "url": "https://www.maldonado.gub.uy/noticias/intendencia-se-adhiere-al-dia-internacional-dislexia",
+         "kind": "fact",
+         "upd": "2026-10-06"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Grandes altibajos de ánimo",
+      "lead": "Cuando el ánimo sube y baja mucho y cuesta seguir el ritmo de tus propias emociones.",
+      "scenes": [
+       "Se alternan etapas de demasiada energía con etapas de ánimo tan bajo que casi no puedo moverme.",
+       "Hay etapas en las que duermo muy poco y aun así tengo mucha energía y no paro de moverme.",
+       "Se me ocurre una idea tras otra y todo queda a medias.",
+       "En etapas de mucha euforia gasté tanta plata que después tuve problemas.",
+       "Me irrito por cualquier cosa y me cuesta contener mis emociones.",
+       "Lo que hice cuando mi ánimo estaba muy arriba afectó mis relaciones o mi trabajo."
+      ],
+      "asks": [
+       "Me ayuda que me pregunten también por las etapas en las que sentí una energía fuera de lo común.",
+       "Me ayuda que se den el tiempo de repasar conmigo mis subidas y bajadas de ánimo.",
+       "Me ayuda que, antes de decisiones importantes sobre plata o trabajo, me animen a parar y a pensar primero.",
+       "Prefiero que también se tomen en cuenta las causas físicas, incluidos el sueño, los medicamentos y el alcohol.",
+       "Si notan que algo cambió en mí respecto de cómo soy siempre, prefiero que me lo digan sin reprocharme nada.",
+       "Me ayuda que me escuchen hasta el final, tanto cuando estoy arriba como cuando estoy abajo."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Trastorno bipolar",
+        "why": "Esta guía para equipos de salud explica que en el trastorno bipolar puede haber etapas de depresión y etapas de manía; en las de manía, el ánimo sube mucho o se vuelve irritable, y aumentan la actividad y la energía.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la depresión en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_DEPRESION_PRIMER_NIVEL_ATENCION.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Conocer un nombre puede hacer que los altibajos de siempre parezcan síntomas",
+       "body": "Cuando conocés el nombre de una enfermedad o de una condición del desarrollo, un cansancio pasajero o un descuido cualquiera pueden empezar a parecerte un síntoma.\n\nLas emociones pueden cambiar cómo se sienten el cuerpo y el ánimo, y eso no es imaginación: pasa de verdad. Pero dormir poco, el estrés, el uso del celular o lo que pasa a tu alrededor también pueden producir algo parecido.\n\nSi al leer un nombre pensás “a lo mejor es esto”, no te quedes ahí: pensá también en otras razones. Y si lo que te cuesta sigue, podés hablar de eso tal como es, aunque no tengas un nombre para ello.",
+       "srcs": []
+      },
+      {
+       "h": "Pedir ayuda no es una debilidad",
+       "body": "La salud mental es parte de la salud de todas las personas. Pedir ayuda no es una debilidad, sino un paso importante.\n\nUn nombre (un diagnóstico) lo pone una persona profesional de la salud. Para la ley de salud mental, una diferencia con lo que se espera socialmente o un conflicto, por sí solos y si no afectan el funcionamiento de la persona, no alcanzan para hablar de un trastorno.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastorno de Estrés Postraumático cómo entenderlo, acompañarlo y superarlo",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastorno-estres-postraumatico-entenderlo-acompanarlo-superarlo",
+         "kind": "fact",
+         "upd": "2025-06-27"
+        },
+        {
+         "org": "IMPO",
+         "title": "Ley N° 19529",
+         "url": "https://www.impo.com.uy/bases/leyes/19529-2017",
+         "kind": "fact",
+         "upd": "2017-09-19"
+        }
+       ]
+      },
+      {
+       "h": "Podés consultar por lo que te pasa",
+       "body": "Podés consultar por lo que te pasa en tu prestador de salud. Todos los prestadores del Sistema Nacional Integrado de Salud deben ofrecer atención psicológica. Se puede pedir por iniciativa propia o porque te deriva un profesional de la salud; después de una entrevista, un equipo del prestador define si corresponde empezar y de qué forma.\n\nSi una discapacidad te dificulta el trabajo o el estudio, podés pedir ajustes razonables: cambios pensados para tu caso, siempre que no supongan una carga desproporcionada. Contá qué te cuesta y qué necesitás; a veces no se puede hacer todo.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Prestaciones en salud mental",
+         "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Modalidad y plazos",
+         "url": "https://www.gub.uy/ministerio-salud-publica/politicas-y-gestion/modalidad-plazos",
+         "kind": "fact",
+         "upd": "2024-03-14"
+        },
+        {
+         "org": "IMPO",
+         "title": "CONVENCION SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD",
+         "url": "https://www.impo.com.uy/bases/leyes-internacional/18418-2008",
+         "kind": "fact",
+         "upd": "2008-11-20"
+        }
+       ]
+      },
+      {
+       "h": "Algunos trámites piden documentos de un médico",
+       "body": "Algunos trámites piden documentos de un médico o de un equipo de salud. Si faltás al trabajo por enfermedad y te corresponde el subsidio por enfermedad del BPS, tu prestador de salud ingresa la certificación médica en el sistema del BPS; después, tenés que avisar a la empresa que fuiste certificado o certificada por enfermedad. El médico debe guardar el secreto profesional también en los certificados. Para quienes trabajan en el Estado hay otras reglas.\n\nLa valoración de discapacidad del MIDES tiene en cuenta un informe médico y funcional, un informe social y una entrevista con un equipo; sirve para pedir prestaciones o servicios, y no cambia la pensión por invalidez del BPS.\n\nAntes de empezar un trámite, preguntá en la oficina que corresponde qué documentos hacen falta.",
+       "srcs": [
+        {
+         "org": "Banco de Previsión Social (BPS)",
+         "title": "Subsidio por enfermedad",
+         "url": "https://www.bps.gub.uy/4774/subsidio-por-enfermedad.html",
+         "kind": "fact",
+         "upd": "2026-11-19"
+        },
+        {
+         "org": "IMPO",
+         "title": "Ley N° 19286",
+         "url": "https://www.impo.com.uy/bases/leyes/19286-2014",
+         "kind": "fact",
+         "upd": "2014-10-17"
+        },
+        {
+         "org": "Ministerio de Desarrollo Social (gub.uy)",
+         "title": "Valoración de discapacidad",
+         "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/valoracion-discapacidad",
+         "kind": "fact",
+         "upd": "2025-11-06"
+        },
+        {
+         "org": "Ministerio de Desarrollo Social (gub.uy)",
+         "title": "Preguntas frecuentes",
+         "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/preguntas-frecuentes",
+         "kind": "fact",
+         "upd": "2025-11-06"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie",
+       "body": "El nombre de una enfermedad no es una herramienta para ponerse por encima de nadie ni para mirar a otras personas por encima del hombro.\nA algunas personas les reconforta encontrar un nombre para lo que viven. Eso es importante.\nTambién es natural querer que la gente a nuestro alrededor nos comprenda o nos trate con amabilidad.\n\nCuando querés que te traten con amabilidad, podés pedirlo directamente, sin necesidad de decir el nombre de ninguna enfermedad.\nSe entiende mejor si decís a la vez dos cosas: con qué tenés dificultades y qué te gustaría que hiciera la otra persona.\n\nPor ejemplo:\n“Hoy me falta energía, así que me ayuda que me hablen despacio.”\n“Si me dicen muchas cosas a la vez, me pierdo; me ayuda que me expliquen las cosas de una en una.”\n“Lo que me dicen de palabra me cuesta recordarlo; prefiero que lo importante me lo den por escrito, en papel o por correo electrónico.”\n“Los lugares con mucha gente se me hacen difíciles; me gustaría hablar en un lugar tranquilo.”\n“Necesito un poco de tiempo para responder; me ayuda que me esperen un momento.”\n“Ahora mismo tengo muchas emociones a la vez; me ayuda que primero me escuchen. Los consejos pueden venir después.”\n“Hoy no me siento bien; me ayuda que me dejen descansar un poco.”\n“Los cambios de planes repentinos me desconciertan; me ayuda que me avisen con anticipación.”\n“Cuando me hablan en voz alta me da miedo; me ayuda que me hablen con calma.”\n\nSi te cuesta decirlo bien, podés escribirlo en un papel y entregarlo. También podés mostrar la pantalla “Mis dificultades” con el botón “Mostrar en grande”; aparece en esta aplicación cuando elegís una preocupación y respondés a las preguntas.\nSi querés decir el nombre de un diagnóstico que ya tenés, podés hacerlo. También entonces, a la otra persona le ayuda saber a la vez con qué tenés dificultades y qué te gustaría que hiciera.\nA veces la otra persona no puede hacer lo que le pedís por su propia situación. Entonces se puede buscar, entre las dos partes, otra manera.\n\nEn el trabajo se puede pedir con las mismas palabras: “Me cuesta seguir varias instrucciones a la vez; prefiero que me las den por escrito.”\n\nNo uses la lista de nombres de esta aplicación para dudar de las personas a tu alrededor.",
+       "srcs": []
+      },
+      {
+       "h": "Sobre esta aplicación",
+       "body": "Esto no es un diagnóstico. Esta lista no dice si tenés una enfermedad o un trastorno. Esta app no es un dispositivo médico y no reemplaza la consulta con una persona profesional de la salud.\n\nTus respuestas no se envían a ningún lado ni se guardan en este dispositivo. Desaparecen al cerrar la aplicación.\n\nAplicación independiente. SOYOGI es un grupo voluntario sin fines de lucro con sede en Japón. No tiene relación con el Gobierno de Uruguay, el Ministerio de Salud Pública, la Junta Nacional de Drogas, el MIDES ni ninguna otra institución pública o de salud, y ninguna de ellas la recomienda ni la respalda. Los nombres de las instituciones solo indican de dónde viene la información.\n\nSOYOGI escribió estos contenidos con sus propias palabras a partir de páginas públicas de Uruguay. Las fuentes aparecen en cada pantalla, con la fecha que muestra cada página cuando la página la muestra. Consultado el 25 de noviembre de 2026. Los números y los horarios pueden cambiar. Los horarios son los que indica cada servicio.\n\nPedir ayuda o no es una decisión tuya, no de la aplicación.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "Si estás pasando por un momento de sufrimiento o necesitás orientación, es importante buscar ayuda. Podés empezar por tu prestador de salud.",
+      "src": {
+       "org": "Ministerio de Salud Pública (gub.uy)",
+       "title": "Normativa sobre prevención del suicidio",
+       "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/normativa-sobre-prevencion-del-suicidio",
+       "kind": "fact",
+       "upd": "2017-08-08"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "Si algo te cuesta desde hace tiempo en el día a día, podés contarlo en tu prestador de salud.",
+       "src": {
+        "org": "Ministerio de Salud Pública (gub.uy)",
+        "title": "Prestaciones en salud mental",
+        "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "La ley de salud mental dice que la atención prioriza el primer nivel de atención, que es el primer contacto.",
+       "src": {
+        "org": "IMPO",
+        "title": "Ley N° 19529",
+        "url": "https://www.impo.com.uy/bases/leyes/19529-2017",
+        "kind": "fact",
+        "upd": "2017-09-19"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "Sobre cómo se pone un nombre (un diagnóstico), en pocas palabras:",
+      "text": "Un nombre (un diagnóstico) lo pone una persona profesional de la salud, que debe explicarte qué significa. En Uruguay, la ley de salud mental dice que no se puede establecer un diagnóstico solo porque lo pida la familia o el trabajo.",
+      "src": {
+       "org": "IMPO",
+       "title": "Ley N° 19529",
+       "url": "https://www.impo.com.uy/bases/leyes/19529-2017",
+       "kind": "fact",
+       "upd": "2017-09-19"
+      }
+     },
+     "fewNote": "Solo se pudieron confirmar pocos nombres en páginas públicas de salud.",
+     "noNames": "No se pudieron confirmar nombres para este grupo en páginas públicas de salud; por eso, acá no aparece una lista de nombres. Aun así, en esta aplicación podés encontrar dónde pedir ayuda."
+    }
+   },
+   "en": {
+    "groups": {
+     "mood": {
+      "label": "Feeling down, no energy",
+      "lead": "For when your mood stays low and it is hard to find the energy to do anything.",
+      "scenes": [
+       "My mood is low from morning to night.",
+       "Things I used to enjoy no longer feel enjoyable.",
+       "I have no energy and cannot concentrate, so work and chores at home do not get done.",
+       "I blame myself for everything and always think the worst.",
+       "At night I cannot sleep, or else I sleep too much. I have lost my appetite and my body feels heavy.",
+       "I sometimes feel like disappearing or not being here anymore."
+      ],
+      "asks": [
+       "It helps me when you explain what needs to be done, one thing at a time.",
+       "I need time to think, and I would rather not be pressured to answer or to decide.",
+       "I would like the important things given to me in writing.",
+       "Before I am told “Cheer up!” or “Try harder!”, it helps me to be listened to first.",
+       "It helps me when people do not assume I am being lazy when I am resting.",
+       "It helps me when we look together at whether a physical illness or a medicine I am taking might be involved."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This page explains that depression can bring sadness that does not go away, less drive to do things, little interest or enjoyment in daily life, and great tiredness.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       },
+       {
+        "name": "Bipolar disorder",
+        "why": "This guide for health teams explains that in bipolar disorder, mood, energy and the ability to manage everyday tasks change in very marked ways.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la depresión en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_DEPRESION_PRIMER_NIVEL_ATENCION.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": [
+       5
+      ]
+     },
+     "anxiety": {
+      "label": "Strong worry or tension",
+      "lead": "Worries that will not go away, a racing heart and restlessness, difficulties in front of other people or when going out, and similar struggles.",
+      "scenes": [
+       "When I have to speak in front of other people or they are watching me, I feel so anxious that my mind goes blank.",
+       "My heart suddenly beats very fast and I cannot get enough air. I worry that it will happen again, and because of that it is hard for me to leave the house.",
+       "For no clear reason, I worry about one thing after another, feel very restless, and have no strength left.",
+       "I have a hard time in places that are hard to get out of, like the bus, shopping centers, or crowded places, and also when I go out of the house without company. So I try to avoid them.",
+       "Because I avoid what frightens me, I go to fewer and fewer places and see fewer and fewer people. My life has become smaller.",
+       "The worries will not leave my head, and at night it is hard for me to fall asleep."
+      ],
+      "asks": [
+       "When I speak, it helps me to be given time and not be rushed.",
+       "I would like the plan explained to me in advance, and how everything will go.",
+       "I would rather not be asked for my opinion suddenly in front of other people, and I would like to be able to answer in writing too.",
+       "If I feel unwell, it helps me to be able to step out for a moment and rest.",
+       "I prefer to talk in a quiet place with only a few people.",
+       "Before anyone tells me that I worry too much, it helps me when they listen first to what is hard for me."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Anxiety disorders",
+        "why": "This page explains that people with anxiety disorders may have difficulties in their relationships with other people and lower performance at work or in studies.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica para el abordaje de la ansiedad en el primer nivel de atención en el SNIS",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/guia-practica-clinica-para-abordaje-ansiedad-primer-nivel-atencion-snis",
+         "kind": "fact",
+         "upd": "2024-12-04"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This guide for health teams explains that, in generalized anxiety disorder, worries revolve around daily life, such as family, health, money or work, and the person finds them difficult to rein in.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Panic disorder",
+        "why": "This guide for health teams explains that in panic disorder there are unexpected, repeated panic attacks: intense fear or discomfort comes on suddenly and quickly reaches its peak.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Social anxiety disorder",
+        "why": "This guide for health teams explains that social anxiety disorder is very strong fear or anxiety in social situations where the person feels that others are observing them and forming an opinion of them.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This page explains that when a trauma stays present, there may be intrusive memories, nightmares and a constant feeling of threat.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastorno de Estrés Postraumático cómo entenderlo, acompañarlo y superarlo",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastorno-estres-postraumatico-entenderlo-acompanarlo-superarlo",
+         "kind": "fact",
+         "upd": "2025-06-27"
+        }
+       },
+       {
+        "name": "Use of alcohol or other psychoactive substances",
+        "why": "This guide for health teams explains that use of alcohol or other substances can go together with anxiety disorders, because they are sometimes used to calm anxiety.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": []
+     },
+     "repeat": {
+      "label": "Hard to stop checking or repeating things",
+      "lead": "When you check the door or the gas again and again, wash your hands, or repeat other actions, and find it hard to stop even when you want to.",
+      "scenes": [
+       "When I leave the house I need to check again and again whether I have closed the door or the gas valve properly; otherwise I cannot leave with peace of mind.",
+       "I wash my hands or my body more and more often and, even though I want to stop, I cannot.",
+       "The same worry comes into my head again and again and I cannot stop thinking about it, even though I want to.",
+       "If things are not arranged, or not done, in the order I have set, I become uneasy and end up rearranging them or starting over.",
+       "Checking things takes me so long that I leave home later than planned or arrive late for my appointments and for work.",
+       "My body moves or I make sounds without meaning to, and it is hard for me to stop even when I try."
+      ],
+      "asks": [
+       "I would rather not be told that I am exaggerating; it helps me when people listen to me first.",
+       "Checking things takes me time, so it helps me when some extra time is allowed.",
+       "When plans or the steps to follow change, it helps me to be told in advance.",
+       "I would rather not be pointed at or laughed at in front of other people when I am checking something or washing my hands.",
+       "It helps me when explanations and instructions are given to me one at a time and in writing.",
+       "Before we decide how to go on, I would like my worries to be heard, and for us to decide calmly together."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This material for health services explains that in autism spectrum disorder there are difficulties in social communication, and ways of acting and interests that repeat, center on a few things and are hard to change.",
+        "src": {
+         "org": "Ministerio de Salud Pública y Ministerio de Desarrollo Social (gub.uy)",
+         "title": "Recomendaciones para el trato y una atención adecuada de las personas con discapacidad, en los servicios de salud. Fascículo 1. Trastorno del Espectro Autista (TEA)",
+         "url": "https://www.gub.uy/ministerio-desarrollo-social/sites/ministerio-desarrollo-social/files/2024-02/MSP_Recimendaciones_Fasc%C3%ADculo%20TEA.pdf",
+         "kind": "fact",
+         "upd": "2021"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "after": {
+      "label": "A hard experience is still affecting me",
+      "lead": "Memories that keep coming back, sleeping badly, or tension that does not go away after a hard experience.",
+      "scenes": [
+       "Any small detail can suddenly bring back the scene and the feelings of that very hard moment.",
+       "I keep having similar nightmares, and on many nights I cannot sleep deeply.",
+       "I am always tense, and even a small noise or something unexpected makes me jump.",
+       "Whenever I can, I avoid the places, people and topics that remind me of it, and my daily life has been getting smaller.",
+       "It is as if something inside me had switched off, and I cannot feel the same toward my family and friends as I did before.",
+       "I blame myself more and more, or it is harder for me to trust the people around me."
+      ],
+      "asks": [
+       "I would rather not be asked for every detail of what happened. I want to tell it at my own pace and only as far as I can.",
+       "Certain sounds, places and topics bring everything back. It helps me when people accept that I prefer to avoid them.",
+       "It helps me when people do not speak to me suddenly from behind or make loud noises near me.",
+       "When talking is too hard, I would rather be able to hand over something written.",
+       "There are days when I do not sleep or when the tiredness does not go away. I would rather it not be taken as laziness.",
+       "I would rather not be rushed with phrases like “Forget it” or “Get over it”, and I would like a place where I can talk calmly."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Post-traumatic stress disorder (PTSD)",
+        "why": "This page explains that when a trauma stays present, a person may stay away from everything that brings back what happened, carry more and more sadness, guilt or irritability, and have trouble sleeping or concentrating.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastorno de Estrés Postraumático cómo entenderlo, acompañarlo y superarlo",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastorno-estres-postraumatico-entenderlo-acompanarlo-superarlo",
+         "kind": "fact",
+         "upd": "2025-06-27"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that stressful situations, such as a hospital stay, money or work problems, or the loss of a loved one, can contribute to depression.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": []
+     },
+     "sleep": {
+      "label": "Trouble with sleep",
+      "lead": "Trouble falling asleep, waking up in the night, trouble getting up in the morning, or feeling very sleepy during the day.",
+      "scenes": [
+       "Even when I get into bed, it takes me a long time to fall asleep.",
+       "I wake up several times in the night and do not sleep through until morning.",
+       "When it is time to get up I cannot manage it, and I am late for work or classes again and again.",
+       "During the day a very strong sleepiness comes over me, and I almost nod off in a meeting or while driving.",
+       "My family tells me that I snore very loudly and that my breathing seems to stop while I sleep.",
+       "In the late afternoon and at night I feel an uncomfortable sensation in my legs that does not let me rest or sleep."
+      ],
+      "asks": [
+       "It helps me when people take the time to ask me how I sleep: how long it takes me to fall asleep, whether I wake up at night, how hard it is for me to get up, and how sleepy I am during the day.",
+       "It helps me to go over together the medicines I take and my habits with coffee, alcohol and tobacco, to see what may be having an influence.",
+       "It helps me when people do not assume that it is a matter of attitude, and when my physical health and my mood are looked at as well.",
+       "I would rather explain my sleep times with a written note showing when I go to bed and when I get up, and I would like it looked at calmly.",
+       "If I have to take a medicine, it helps me when someone explains in simple words how it works and what precautions come with it.",
+       "Mornings are very hard for me, so I would prefer an appointment in the afternoon."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Chronic sleep deficiency",
+        "why": "This page explains that chronic sleep deficiency means not getting the sleep a person needs over a sustained period, and that it can have many causes, such as shift work or caring for other people.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Mejorar la calidad del sueño como prevención del ACV",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/mejorar-calidad-del-sueno-prevencion-del-acv",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Insomnia",
+        "why": "This page mentions insomnia among the sleep problems that can keep a person from getting the sleep they need.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Mejorar la calidad del sueño como prevención del ACV",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/mejorar-calidad-del-sueno-prevencion-del-acv",
+         "kind": "fact",
+         "upd": "2022-03-18"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that depression can come with changes in how a person sleeps.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol"
+      ],
+      "crisis": []
+     },
+     "eating": {
+      "label": "Trouble with eating",
+      "lead": "When eating becomes hard: you cannot eat much, you cannot stop, or eating scares you.",
+      "scenes": [
+       "I do not feel like eating, and on many days food hardly goes down my throat.",
+       "When I start eating I cannot stop, and sometimes I eat so much that I feel sick.",
+       "Without realizing it, I keep thinking about food and find it hard to concentrate on other things.",
+       "I can eat very few things, and I avoid many foods because the taste, smell or texture is very unpleasant to me.",
+       "Since some food got stuck in my throat or I vomited, eating scares me.",
+       "At night I eat half asleep and, in the morning, I sometimes remember nothing."
+      ],
+      "asks": [
+       "I would rather not have comments made about my body or my appearance.",
+       "It helps me when people do not force me to eat or rush me to do it.",
+       "When people eat in a group, it helps me when I am allowed to choose another place or another time.",
+       "I would like to be asked beforehand what I can eat and which smells or textures are hard for me.",
+       "It helps me when people explain beforehand how the appointment will go and what tests will be done.",
+       "I would rather be able to hand over in writing what is hard for me to say out loud."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Eating disorders",
+        "why": "This page explains that in eating disorders, eating behavior is disturbed, and that excessive worry about weight or about having a thin body is often part of their background.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastornos de la conducta alimentaria",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastornos-conducta-alimentaria",
+         "kind": "fact",
+         "upd": "2022-09-16"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page explains that depression can come with changes in appetite or weight.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol"
+      ],
+      "crisis": []
+     },
+     "habit": {
+      "label": "Hard to give up alcohol, betting or video games",
+      "lead": "When you want to stop or cut down, but keep going anyway.",
+      "scenes": [
+       "I decide to stop or cut down, but then I notice that I keep going the same as before.",
+       "I can't stick to the time, the amount or the money I had set for myself for today.",
+       "I hide from people close to me that I drink, that I bet or that I play video games, or I cover it up with excuses.",
+       "I stay up very late playing video games, I can't get up in the morning, and more and more often I am late for work or class, or miss it.",
+       "When I lose money on sports bets, online bets or the slot machines in casinos, I want to win it back and I bet again.",
+       "Even though I know my body is feeling the strain, I can't drink less."
+      ],
+      "asks": [
+       "It helps me when people listen to me first, without blaming me or jumping to conclusions.",
+       "It helps me when someone looks with me, step by step, at what my day-to-day life with this is like and what difficulties it brings me.",
+       "I would like my sleep and my physical health to be looked at as well.",
+       "It helps me when I am told in concrete terms where I can get support and which places I can go to.",
+       "I would like to know whether my family or someone close to me can come to the appointment with me.",
+       "I would rather be told beforehand who will hear about what I share, and how much of it."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Problematic alcohol use",
+        "why": "This page explains that if drinking brings worry or starts to affect relationships, work, studies or daily life, going to a health service can be a good way to start.",
+        "src": {
+         "org": "Junta Nacional de Drogas (gub.uy)",
+         "title": "Alcohol: algunas claves para reducir riesgos",
+         "url": "https://www.gub.uy/junta-nacional-drogas/comunicacion/comunicados/alcohol-algunas-claves-para-reducir-riesgos",
+         "kind": "fact",
+         "upd": "2026-08-13"
+        }
+       },
+       {
+        "name": "Problematic use of psychoactive substances",
+        "why": "This document explains that problematic use of psychoactive substances can affect many parts of life, such as personal life, family, social relationships, studies and work.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Objetivos Sanitarios Nacionales 2030. Caracterización de problemas priorizados: Consumo de sustancias psicoactivas",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/2022-06/Consumo%20de%20sustancias%20psicoactivas.pdf",
+         "kind": "fact",
+         "upd": "none"
+        }
+       },
+       {
+        "name": "Gambling addiction (ludopatía)",
+        "why": "This page names gambling addiction (ludopatía) as an illness and talks about the harm that compulsive gambling can bring.",
+        "src": {
+         "org": "Dirección General de Casinos del Estado, Ministerio de Economía y Finanzas (gub.uy)",
+         "title": "Programa de Juego Responsable",
+         "url": "https://www.gub.uy/ministerio-economia-finanzas/politicas-y-gestion/programa-juego-responsable",
+         "kind": "fact",
+         "upd": "2021-09-06"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uy1020",
+       "uyciud"
+      ],
+      "crisis": []
+     },
+     "attention": {
+      "label": "Trouble with attention or getting organized",
+      "lead": "Trouble concentrating, making progress step by step, or remembering things.",
+      "scenes": [
+       "Even when someone is talking to me, my mind drifts somewhere else without my noticing.",
+       "I can't get my work or my housework done in order, and I miss deadlines.",
+       "I often don't remember what I was asked to do or what I promised, or I lose things.",
+       "If I have been on the same task for a long time, careless mistakes pile up.",
+       "It's hard for me to stay still for a long time, and I feel a restlessness that won't let me stop.",
+       "People around me tell me that I often forget things or that I arrive late."
+      ],
+      "asks": [
+       "It helps me when I am given instructions one at a time.",
+       "I would rather be given the important things in writing.",
+       "It helps me when I am told about deadlines and appointments in good time.",
+       "It helps me when people don't ask me for many things at once, but split them into small parts.",
+       "I would like to talk in a quiet place, where I am less distracted.",
+       "It helps me when people acknowledge what I have managed to do, instead of reproaching me for what I haven't."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Depression",
+        "why": "This page lists difficulty concentrating among the things often seen in depression.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       },
+       {
+        "name": "Generalized anxiety disorder (GAD)",
+        "why": "This guide for health teams explains that generalized anxiety disorder usually comes with nervousness, muscle tension, irritability, tiredness and trouble staying focused.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "ADHD (attention deficit hyperactivity disorder)",
+        "why": "This news item from the Maldonado departmental government explains that ADHD is a neurodevelopmental disorder mainly related to concentration, impulse control and hyperactivity, and that sometimes it is only recognized in adulthood.",
+        "src": {
+         "org": "Intendencia de Maldonado",
+         "title": "IDM acompaña sensibilización sobre el Trastorno por TDAH",
+         "url": "https://www.maldonado.gub.uy/noticias/idm-acompana-sensibilizacion-sobre-trastorno-tdah",
+         "kind": "fact",
+         "upd": "2026-07-13"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis",
+       "uymtss"
+      ],
+      "crisis": []
+     },
+     "social": {
+      "label": "Trouble with people, set routines and sensory issues",
+      "lead": "Trouble talking or dealing with people, a strong need to do things a set way, or sounds, lights and smells that are hard to bear.",
+      "scenes": [
+       "In a conversation I find it hard to pick up what the other person feels or the mood of the moment, and I often have the impression that we don't understand each other.",
+       "When I have to speak in front of other people or all eyes turn to me, I feel a lot of tension and end up avoiding it.",
+       "I can talk with people close to me, but in front of others my voice won't come out.",
+       "If my usual way of doing things, the order of the steps or the place where I keep my things changes, I feel a very strong unease.",
+       "Noises, lights and smells feel too intense to me, and places with lots of people are very hard for me.",
+       "I find it hard to hear what others say, or my mood is low, and meeting people or talking with them has become very difficult."
+      ],
+      "asks": [
+       "It helps me when people speak to me slowly and clearly.",
+       "It helps me when the important things are written down for me.",
+       "I would like to talk in a quiet place.",
+       "It helps me when I am told in advance if plans or ways of doing things change.",
+       "I would rather not be rushed, and be given time to answer.",
+       "I would like to be able to answer in writing or with a short note, instead of speaking."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Social anxiety disorder",
+        "why": "This guide for health teams explains that in social anxiety disorder, situations such as starting a conversation, talking with people you do not know, or eating or drinking in front of others are hard.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la ansiedad en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_ANSIEDAD_PRIMER_NIVEL_ATENCION_.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       },
+       {
+        "name": "Anxiety disorders",
+        "why": "This page explains that people with anxiety disorders may have difficulties in their relationships with other people.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica para el abordaje de la ansiedad en el primer nivel de atención en el SNIS",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/guia-practica-clinica-para-abordaje-ansiedad-primer-nivel-atencion-snis",
+         "kind": "fact",
+         "upd": "2024-12-04"
+        }
+       },
+       {
+        "name": "Depression",
+        "why": "This page lists social isolation among the things often seen in depression.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "13 de enero: Día mundial contra la depresión",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/13-enero-dia-mundial-contra-depresion",
+         "kind": "fact",
+         "upd": "2025-01-13"
+        }
+       },
+       {
+        "name": "Autism spectrum disorder (ASD)",
+        "why": "This page explains that autism spectrum disorder is a neurodevelopmental condition with differences in social communication and in the way things are perceived through the senses.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "2 de abril: “Día mundial de concientización sobre el autismo”",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/2-abril-dia-mundial-concientizacion-sobre-autismo-1",
+         "kind": "fact",
+         "upd": "2024-04-02"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis"
+      ],
+      "crisis": []
+     },
+     "reading": {
+      "label": "Trouble with reading, writing, or calculating",
+      "lead": "For when reading, writing, or working with numbers is still hard even when you make an effort.",
+      "scenes": [
+       "It takes me longer than other people to read a text, and I often have to read it again.",
+       "Even when I read, the content does not stay with me, and I find it hard to understand what documents or letters say.",
+       "I have trouble with spelling: I make many mistakes, or letters or words go missing when I write.",
+       "My handwriting comes out uneven, and writing takes me a lot of time and a lot of effort.",
+       "I get stuck on simple sums and on problems that are set out in a text.",
+       "I can speak and listen without difficulty, but with reading, writing or calculating I do not make the progress I would like, even when I take a lot of time."
+      ],
+      "asks": [
+       "It helps me when texts are given to me in large print with more space between the lines, or in Easy Read (lectura fácil).",
+       "I would rather have the important things read aloud to me or explained to me in person.",
+       "It helps me to be able to write on a computer or a mobile phone, or to keep a record with photos or voice recordings, instead of writing by hand.",
+       "It helps me to be able to use a calculator for calculations.",
+       "It helps me when I am given more time to read, write and do calculations.",
+       "I would rather be given things one at a time and not all at once."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Dyslexia",
+        "why": "This news item from the Maldonado departmental government explains that dyslexia is a learning disorder that brings difficulties with reading, writing and understanding.",
+        "src": {
+         "org": "Intendencia de Maldonado",
+         "title": "Intendencia se adhiere al Día Internacional de la Dislexia",
+         "url": "https://www.maldonado.gub.uy/noticias/intendencia-se-adhiere-al-dia-internacional-dislexia",
+         "kind": "fact",
+         "upd": "2026-10-06"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uyinadis"
+      ],
+      "crisis": [],
+      "fewNote": true
+     },
+     "wave": {
+      "label": "Big mood swings",
+      "lead": "For times when your mood goes up and down a lot and it is hard to keep up with your own emotions.",
+      "scenes": [
+       "Periods of too much energy alternate with periods when my mood is so low that I can hardly move.",
+       "There are periods when I sleep very little and still have a lot of energy and cannot stop moving.",
+       "One idea after another comes to me and everything is left half done.",
+       "During periods of great euphoria I spent so much money that I had problems afterwards.",
+       "I get irritated over any little thing, and I find it hard to hold back my emotions.",
+       "What I did when my mood was very high has affected my relationships or my work."
+      ],
+      "asks": [
+       "It helps me when people also ask me about the periods when I felt an unusual amount of energy.",
+       "It helps me when people take the time to go over my ups and downs in mood with me.",
+       "It helps me when, before important decisions about money or work, people encourage me to stop and think first.",
+       "I would rather have physical causes taken into account too, including sleep, medicines and alcohol.",
+       "If people notice that something in me has changed from how I usually am, I would rather they tell me without blaming me.",
+       "It helps me when people hear me out, both when I am up and when I am down."
+      ],
+      "meyasu": {
+       "has": false,
+       "text": "",
+       "src": null
+      },
+      "names": [
+       {
+        "name": "Bipolar disorder",
+        "why": "This guide for health teams explains that in bipolar disorder there can be periods of depression and periods of mania; during mania, mood rises a lot or becomes irritable, and activity and energy increase.",
+        "src": {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Guía de práctica clínica: Abordaje de la depresión en el primer nivel de atención",
+         "url": "https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/publicaciones/MSP_DEPRESION_PRIMER_NIVEL_ATENCION.pdf",
+         "kind": "fact",
+         "upd": "2024"
+        }
+       }
+      ],
+      "windows": [
+       "uypol",
+       "uymtss"
+      ],
+      "crisis": [],
+      "fewNote": true
+     }
+    },
+    "common": {
+     "learn": [
+      {
+       "h": "Knowing a name can make everyday ups and downs look like symptoms",
+       "body": "When you know the name of an illness or of a developmental condition, a passing tiredness or an everyday slip can start to look like a symptom to you.\n\nFeelings can change how your body and your mood feel, and that is not imagination: it really happens. But sleeping little, stress, mobile phone use or what is going on around you can also produce something similar.\n\nIf, when you read a name, you think “maybe it is this,” do not stop there: think of other reasons too. And if what is hard for you continues, you can talk about it as it is, even without a name for it.",
+       "srcs": []
+      },
+      {
+       "h": "Asking for help is not a weakness",
+       "body": "Mental health is part of everyone’s health. Asking for help is not a weakness but an important step.\n\nA name (a diagnosis) is given by a health professional. Under the mental health law, being different from what society expects, or having a conflict, is not enough on its own to speak of a disorder if it does not affect how the person functions.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Trastorno de Estrés Postraumático cómo entenderlo, acompañarlo y superarlo",
+         "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/trastorno-estres-postraumatico-entenderlo-acompanarlo-superarlo",
+         "kind": "fact",
+         "upd": "2025-06-27"
+        },
+        {
+         "org": "IMPO",
+         "title": "Ley N° 19529",
+         "url": "https://www.impo.com.uy/bases/leyes/19529-2017",
+         "kind": "fact",
+         "upd": "2017-09-19"
+        }
+       ]
+      },
+      {
+       "h": "You can ask about what is happening to you",
+       "body": "You can ask about what is happening to you at your health care provider. All providers in the National Integrated Health System must offer care with psychologists. You can ask for it yourself or be referred by a health professional; after an interview, a team at the provider decides whether to start and in what way.\n\nIf a disability makes work or study hard for you, you can ask for reasonable adjustments: changes made for your case, as long as they are not a disproportionate burden. Say what is hard for you and what you need; sometimes not everything can be done.",
+       "srcs": [
+        {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Prestaciones en salud mental",
+         "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+         "kind": "fact",
+         "upd": "none"
+        },
+        {
+         "org": "Ministerio de Salud Pública (gub.uy)",
+         "title": "Modalidad y plazos",
+         "url": "https://www.gub.uy/ministerio-salud-publica/politicas-y-gestion/modalidad-plazos",
+         "kind": "fact",
+         "upd": "2024-03-14"
+        },
+        {
+         "org": "IMPO",
+         "title": "CONVENCION SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD",
+         "url": "https://www.impo.com.uy/bases/leyes-internacional/18418-2008",
+         "kind": "fact",
+         "upd": "2008-11-20"
+        }
+       ]
+      },
+      {
+       "h": "Some procedures ask for papers from a doctor",
+       "body": "Some procedures ask for papers from a doctor or a health team. If you miss work because of illness and you are entitled to the BPS sickness benefit (subsidio por enfermedad), your health care provider enters the medical certification into the BPS system; then you need to tell your employer that you have been certified as ill. Doctors must keep professional secrecy in certificates too. People who work for the State have other rules.\n\nThe MIDES valoración de discapacidad (a procedure about disability) takes into account a medical and functional report, a social report and an interview with a team; it is used to request benefits or services, and it does not change the BPS disability pension.\n\nBefore starting a procedure, ask the office in charge which papers are needed.",
+       "srcs": [
+        {
+         "org": "Banco de Previsión Social (BPS)",
+         "title": "Subsidio por enfermedad",
+         "url": "https://www.bps.gub.uy/4774/subsidio-por-enfermedad.html",
+         "kind": "fact",
+         "upd": "2026-11-19"
+        },
+        {
+         "org": "IMPO",
+         "title": "Ley N° 19286",
+         "url": "https://www.impo.com.uy/bases/leyes/19286-2014",
+         "kind": "fact",
+         "upd": "2014-10-17"
+        },
+        {
+         "org": "Ministerio de Desarrollo Social (gub.uy)",
+         "title": "Valoración de discapacidad",
+         "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/valoracion-discapacidad",
+         "kind": "fact",
+         "upd": "2025-11-06"
+        },
+        {
+         "org": "Ministerio de Desarrollo Social (gub.uy)",
+         "title": "Preguntas frecuentes",
+         "url": "https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/preguntas-frecuentes",
+         "kind": "fact",
+         "upd": "2025-11-06"
+        }
+       ]
+      },
+      {
+       "key": "notTool",
+       "h": "The name of an illness is not a tool for putting yourself above anyone",
+       "body": "The name of an illness is not a tool for putting yourself above anyone or for looking down on other people.\nSome people feel comforted when they find a name for what they are living through. That matters.\nIt is also natural to want the people around us to understand us or to be kind to us.\n\nWhen you want people to be kind to you, you can ask for it directly, without needing to say the name of any illness.\nIt is understood better if you say two things together: what you have difficulty with and what you would like the other person to do.\n\nFor example:\n“I have no energy today, so it helps me when people speak slowly.”\n“If I am told many things at once, I get lost; it helps me when things are explained to me one at a time.”\n“I find it hard to remember what I am told in words; I would rather have the important things in writing, on paper or by email.”\n“Places with a lot of people are hard for me; I would like to talk in a quiet place.”\n“I need a little time to answer; it helps me when people wait a moment.”\n“Right now I have many emotions at once; it helps me when people listen to me first. Advice can come later.”\n“I am not feeling well today; it helps me when I am allowed to rest a little.”\n“Sudden changes of plan throw me off; it helps me when I am told in advance.”\n“When people speak to me loudly I get scared; it helps me when they speak calmly.”\n\nIf it is hard to say it well, you can write it on a piece of paper and hand it over. You can also show the “My worries” screen with the “Show it large” button; it appears in this app when you choose a worry and answer the questions.\nIf you want to say the name of a diagnosis you already have, you can. Then too, it helps the other person to know at the same time what you have difficulty with and what you would like them to do.\nSometimes the other person cannot do what you ask because of their own situation. Then the two of you can look for another way together.\n\nAt work you can ask in the same words: “I find it hard to follow several instructions at once; I would rather have them in writing.”\n\nPlease do not use the list of names in this app to doubt the people around you.",
+       "srcs": []
+      },
+      {
+       "h": "About this app",
+       "body": "This is not a diagnosis. This list does not say whether you have an illness or a disorder. This app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It does not replace a consultation with a health professional.\n\nYour answers are not sent anywhere or saved on this device. They are gone when you close the app.\n\nIndependent app. SOYOGI is a non-profit volunteer group based in Japan. It has no connection to the Government of Uruguay, the Ministry of Public Health (MSP), the Junta Nacional de Drogas, MIDES or any other public or health institution, and none of them has recommended or supported this app. The names of the institutions only show where the information comes from.\n\nSOYOGI wrote this content in its own words, drawing on public pages in Uruguay. Sources are shown on each screen, with the date the page shows, when the page shows one. Checked on 25 November 2026. Numbers and hours may change. The hours are those given by each service.\n\nIt is you, not the app, who decides whether to ask for help.",
+       "srcs": []
+      }
+     ],
+     "meyasuGeneral": {
+      "text": "If you are going through a time of suffering or need guidance, it is important to look for help. You can start with your health care provider.",
+      "src": {
+       "org": "Ministerio de Salud Pública (gub.uy)",
+       "title": "Normativa sobre prevención del suicidio",
+       "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/normativa-sobre-prevencion-del-suicidio",
+       "kind": "fact",
+       "upd": "2017-08-08"
+      }
+     },
+     "devGeneral": [
+      {
+       "text": "If something has been hard for you in daily life for a long time, you can talk about it at your health care provider.",
+       "src": {
+        "org": "Ministerio de Salud Pública (gub.uy)",
+        "title": "Prestaciones en salud mental",
+        "url": "https://www.gub.uy/ministerio-salud-publica/salud-mental",
+        "kind": "fact",
+        "upd": "none"
+       }
+      },
+      {
+       "text": "The mental health law says that care gives priority to the first level of care, which is the first point of contact.",
+       "src": {
+        "org": "IMPO",
+        "title": "Ley N° 19529",
+        "url": "https://www.impo.com.uy/bases/leyes/19529-2017",
+        "kind": "fact",
+        "upd": "2017-09-19"
+       }
+      }
+     ],
+     "namesHow": {
+      "lead": "About how a name (a diagnosis) is given, in short:",
+      "text": "A name (a diagnosis) is given by a health professional, who must explain to you what it means. In Uruguay, the mental health law says that a diagnosis cannot be made only because the family or the workplace asks for it.",
+      "src": {
+       "org": "IMPO",
+       "title": "Ley N° 19529",
+       "url": "https://www.impo.com.uy/bases/leyes/19529-2017",
+       "kind": "fact",
+       "upd": "2017-09-19"
       }
      },
      "fewNote": "Only a few names could be confirmed on public health pages.",
